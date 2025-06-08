@@ -1,0 +1,168 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Helper functions
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+    
+    function isAdmin() {
+      return isAuthenticated() && 
+        get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+    }
+    
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+    
+    function isValidRating() {
+      return request.resource.data.rating >= 1 && 
+             request.resource.data.rating <= 5 && 
+             request.resource.data.rating is number;
+    }
+    
+    function isValidReview() {
+      return request.resource.data.reviewText.size() >= 10 && 
+             request.resource.data.reviewText.size() <= 1000;
+    }
+    
+    function hasNotReviewedCoach(coachId) {
+      return !exists(/databases/$(database)/documents/coaches/$(coachId)/reviews/$(request.auth.uid));
+    }
+    
+    function isValidTimestamp() {
+      return request.time == request.resource.data.createdAt;
+    }
+
+    // Coaches collection
+    match /coaches/{coachId} {
+      // Anyone can read coach profiles
+      allow read: if true;
+      
+      // Only admins can create/update/delete coach profiles
+      allow create, update, delete: if isAdmin();
+      
+      // Nested reviews subcollection
+      match /reviews/{reviewId} {
+        // Anyone can read reviews
+        allow read: if true;
+        
+        // Authenticated users can create reviews
+        allow create: if isAuthenticated() 
+          && isValidRating()
+          && isValidReview()
+          && hasNotReviewedCoach(coachId)
+          && isValidTimestamp()
+          && request.resource.data.userId == request.auth.uid;
+        
+        // Users can only update/delete their own reviews
+        allow update, delete: if isOwner(resource.data.userId);
+        
+        // Admins can delete any review
+        allow delete: if isAdmin();
+      }
+      
+      // Nested ratings subcollection for aggregated data
+      match /ratings/{ratingId} {
+        allow read: if true;
+        allow write: if isAdmin();
+      }
+    }
+
+    // Users collection
+    match /users/{userId} {
+      // Users can read their own profile and admins can read all
+      allow read: if isOwner(userId) || isAdmin();
+      
+      // Users can create their own profile
+      allow create: if isAuthenticated() 
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.createdAt == request.time;
+      
+      // Users can update their own profile
+      allow update: if isOwner(userId) 
+        && request.resource.data.userId == request.auth.uid;
+      
+      // Only admins can delete user profiles
+      allow delete: if isAdmin();
+    }
+
+    // Reviews collection (for global review management)
+    match /reviews/{reviewId} {
+      allow read: if true;
+      allow create: if isAuthenticated() 
+        && request.resource.data.userId == request.auth.uid
+        && isValidRating()
+        && isValidReview()
+        && isValidTimestamp();
+      allow update, delete: if isOwner(resource.data.userId) || isAdmin();
+    }
+
+    // Tags collection for coach categorization
+    match /tags/{tagId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Categories collection for coach specialization
+    match /categories/{categoryId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Reports collection for review moderation
+    match /reports/{reportId} {
+      allow read: if isAdmin();
+      allow create: if isAuthenticated() 
+        && request.resource.data.reporterId == request.auth.uid
+        && request.resource.data.createdAt == request.time;
+      allow update, delete: if isAdmin();
+    }
+
+    // Analytics collection for tracking review statistics
+    match /analytics/{docId} {
+      allow read: if isAdmin();
+      allow write: if isAdmin();
+    }
+
+    // Settings collection for global configuration
+    match /settings/{settingId} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+
+    // Verification collection for coach verification status
+    match /verifications/{verificationId} {
+      allow read: if true;
+      allow create: if isAuthenticated() 
+        && request.resource.data.userId == request.auth.uid;
+      allow update, delete: if isAdmin();
+    }
+
+    // Comments collection for review discussions
+    match /comments/{commentId} {
+      allow read: if true;
+      allow create: if isAuthenticated() 
+        && request.resource.data.userId == request.auth.uid
+        && request.resource.data.createdAt == request.time;
+      allow update, delete: if isOwner(resource.data.userId) || isAdmin();
+    }
+
+    // Bookmarks collection for saved coaches
+    match /bookmarks/{bookmarkId} {
+      allow read: if isOwner(resource.data.userId);
+      allow create: if isAuthenticated() 
+        && request.resource.data.userId == request.auth.uid;
+      allow delete: if isOwner(resource.data.userId);
+    }
+
+    // Notifications collection for user notifications
+    match /notifications/{notificationId} {
+      allow read: if isOwner(resource.data.userId);
+      allow create: if isAuthenticated() 
+        && request.resource.data.userId == request.auth.uid;
+      allow update, delete: if isOwner(resource.data.userId);
+    }
+  }
+}
