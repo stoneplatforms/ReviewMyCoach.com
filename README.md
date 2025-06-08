@@ -23,6 +23,7 @@ ReviewMyCoach.com is a modern platform designed to help students and athletes fi
 ## 🚀 Live Demo
 
 Visit our live application: [ReviewMyCoach.com](https://reviewmycoach.com)
+Visit our test Vercel application: [Vercel Deployment](https://reviewmycoachcom.vercel.app/)
 
 ## 📋 Project Progress
 
