@@ -10,7 +10,7 @@ interface Review {
   id: string;
   email: string;
   reviews: string;
-  createdAt?: any;
+  createdAt?: { toDate: () => Date };
 }
 
 export default function Dashboard() {
@@ -102,74 +102,7 @@ export default function Dashboard() {
     },
   ];
 
-  const recentActivity = [
-    {
-      id: 1,
-      type: 'review',
-      title: 'Reviewed Coach Sarah Johnson',
-      description: 'Tennis Coach at Elite Sports Academy',
-      time: '2 hours ago',
-      rating: 5,
-    },
-    {
-      id: 2,
-      type: 'bookmark',
-      title: 'Bookmarked Coach Mike Chen',
-      description: 'Basketball Coach at City Sports Center',
-      time: '1 day ago',
-    },
-    {
-      id: 3,
-      type: 'helpful',
-      title: 'Your review received 3 helpful votes',
-      description: 'Review for Coach David Wilson',
-      time: '2 days ago',
-    },
-    {
-      id: 4,
-      type: 'review',
-      title: 'Reviewed Coach Emma Davis',
-      description: 'Swimming Coach at Aquatic Center',
-      time: '1 week ago',
-      rating: 4,
-    },
-  ];
 
-  const quickActions = [
-    {
-      name: 'Write a Review',
-      description: 'Share your experience with a coach',
-      href: '/coaches',
-      icon: (
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15.232 5.232l3.536 3.536m-2.036-5.036a2.5 2.5 0 113.536 3.536L6.5 21.036H3v-3.572L16.732 3.732z" />
-        </svg>
-      ),
-      color: 'bg-blue-500 hover:bg-blue-600',
-    },
-    {
-      name: 'Find Coaches',
-      description: 'Discover new coaches in your area',
-      href: '/coaches',
-      icon: (
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-        </svg>
-      ),
-      color: 'bg-green-500 hover:bg-green-600',
-    },
-    {
-      name: 'Update Profile',
-      description: 'Keep your information current',
-      href: '/profile',
-      icon: (
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-        </svg>
-      ),
-      color: 'bg-purple-500 hover:bg-purple-600',
-    },
-  ];
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -179,7 +112,7 @@ export default function Dashboard() {
           Welcome back, {user?.displayName || user?.email?.split('@')[0] || 'User'}!
         </h1>
         <p className="mt-2 text-gray-600">
-          Here's what's happening with your ReviewMyCoach activity
+          Here&apos;s what&apos;s happening with your ReviewMyCoach activity
         </p>
       </div>
 
@@ -240,10 +173,10 @@ export default function Dashboard() {
               <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
-              <h3 className="mt-2 text-sm font-medium text-gray-900">No reviews yet</h3>
-              <p className="mt-1 text-sm text-gray-500">
-                You haven't written any reviews yet. Start by finding a coach to review.
-              </p>
+                             <h3 className="mt-2 text-sm font-medium text-gray-900">No reviews yet</h3>
+               <p className="mt-1 text-sm text-gray-500">
+                 You haven&apos;t written any reviews yet. Start by finding a coach to review.
+               </p>
               <div className="mt-6">
                 <Link
                   href="/coaches"
