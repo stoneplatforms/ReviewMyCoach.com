@@ -1,9 +1,9 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { signInWithEmailAndPassword, signInWithPopup, GoogleAuthProvider } from 'firebase/auth';
 import { auth } from '../lib/firebase-client';
-import { useRouter } from 'next/navigation';
+import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 
 export default function SignIn() {
@@ -12,6 +12,19 @@ export default function SignIn() {
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const router = useRouter();
+  const searchParams = useSearchParams();
+  const redirectTo = searchParams.get('redirect') || '/dashboard';
+
+  // Check if user is already authenticated
+  useEffect(() => {
+    const unsubscribe = auth.onAuthStateChanged((user) => {
+      if (user) {
+        router.push(redirectTo);
+      }
+    });
+
+    return () => unsubscribe();
+  }, [router, redirectTo]);
 
   const handleEmailSignIn = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -20,7 +33,7 @@ export default function SignIn() {
 
     try {
       await signInWithEmailAndPassword(auth, email, password);
-      router.push('/');
+      router.push(redirectTo);
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during sign in');
     } finally {
@@ -35,7 +48,7 @@ export default function SignIn() {
 
     try {
       await signInWithPopup(auth, provider);
-      router.push('/');
+      router.push(redirectTo);
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during Google sign in');
     } finally {

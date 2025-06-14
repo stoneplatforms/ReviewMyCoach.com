@@ -1,11 +1,21 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { createUserWithEmailAndPassword, signInWithPopup, GoogleAuthProvider, updateProfile } from 'firebase/auth';
 import { doc, setDoc } from 'firebase/firestore';
 import { auth, db } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+
+// Extend Window interface for reCAPTCHA
+declare global {
+  interface Window {
+    grecaptcha: {
+      execute: (siteKey: string, options: { action: string }) => Promise<string>;
+      ready: (callback: () => void) => void;
+    };
+  }
+}
 
 export default function SignUp() {
   const [formData, setFormData] = useState({
@@ -18,7 +28,73 @@ export default function SignUp() {
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const [acceptTerms, setAcceptTerms] = useState(false);
+  const [recaptchaLoaded, setRecaptchaLoaded] = useState(false);
   const router = useRouter();
+
+  useEffect(() => {
+    // Load reCAPTCHA v3 script
+    const loadRecaptcha = () => {
+      const siteKey = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY;
+      if (!siteKey) {
+        console.error('reCAPTCHA site key not configured');
+        return;
+      }
+
+      if (typeof window !== 'undefined' && !window.grecaptcha) {
+        const script = document.createElement('script');
+        script.src = `https://www.google.com/recaptcha/api.js?render=${siteKey}`;
+        script.onload = () => setRecaptchaLoaded(true);
+        document.head.appendChild(script);
+      } else if (window.grecaptcha) {
+        setRecaptchaLoaded(true);
+      }
+    };
+
+    loadRecaptcha();
+  }, []);
+
+  const getRecaptchaToken = async (): Promise<string | null> => {
+    if (!recaptchaLoaded || !window.grecaptcha) {
+      return null;
+    }
+
+    const siteKey = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY;
+    if (!siteKey) {
+      console.error('reCAPTCHA site key not configured');
+      return null;
+    }
+
+    try {
+      const token = await window.grecaptcha.execute(siteKey, {
+        action: 'signup'
+      });
+      return token;
+    } catch (error) {
+      console.error('reCAPTCHA error:', error);
+      return null;
+    }
+  };
+
+  const verifyRecaptcha = async (token: string): Promise<boolean> => {
+    try {
+      const response = await fetch('/api/verify-recaptcha', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          token,
+          action: 'signup'
+        }),
+      });
+
+      const data = await response.json();
+      return data.success;
+    } catch (error) {
+      console.error('reCAPTCHA verification error:', error);
+      return false;
+    }
+  };
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
@@ -88,6 +164,22 @@ export default function SignUp() {
     setError('');
 
     try {
+      // Get reCAPTCHA token
+      const recaptchaToken = await getRecaptchaToken();
+      if (!recaptchaToken) {
+        setError('reCAPTCHA verification failed. Please try again.');
+        setLoading(false);
+        return;
+      }
+
+      // Verify reCAPTCHA token
+      const isRecaptchaValid = await verifyRecaptcha(recaptchaToken);
+      if (!isRecaptchaValid) {
+        setError('reCAPTCHA verification failed. You may be identified as a bot.');
+        setLoading(false);
+        return;
+      }
+
       const { user } = await createUserWithEmailAndPassword(auth, formData.email, formData.password);
       
       // Update user profile
@@ -98,7 +190,7 @@ export default function SignUp() {
       // Create user document in Firestore
       await createUserDocument(user);
 
-      router.push('/');
+      router.push('/dashboard');
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during sign up');
     } finally {
@@ -120,7 +212,7 @@ export default function SignUp() {
         lastName: user.displayName?.split(' ')[1] || ''
       });
 
-      router.push('/');
+      router.push('/dashboard');
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during Google sign up');
     } finally {
@@ -277,6 +369,19 @@ export default function SignUp() {
                 Privacy Policy
               </a>
             </label>
+          </div>
+
+          {/* reCAPTCHA Notice */}
+          <div className="text-xs text-gray-500 text-center">
+            This site is protected by reCAPTCHA and the Google{' '}
+            <a href="https://policies.google.com/privacy" className="text-blue-600 hover:underline">
+              Privacy Policy
+            </a>{' '}
+            and{' '}
+            <a href="https://policies.google.com/terms" className="text-blue-600 hover:underline">
+              Terms of Service
+            </a>{' '}
+            apply.
           </div>
 
           <div>
