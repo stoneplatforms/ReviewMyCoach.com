@@ -12,19 +12,18 @@ function SignInForm() {
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
   const router = useRouter();
-  const searchParams = useSearchParams();
-  const redirectTo = searchParams.get('redirect') || '/dashboard';
 
   // Check if user is already authenticated
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged((user) => {
       if (user) {
-        router.push(redirectTo);
+        // Always redirect to dashboard first, let dashboard handle onboarding check
+        router.push('/dashboard');
       }
     });
 
     return () => unsubscribe();
-  }, [router, redirectTo]);
+  }, [router]);
 
   const handleEmailSignIn = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -33,7 +32,7 @@ function SignInForm() {
 
     try {
       await signInWithEmailAndPassword(auth, email, password);
-      router.push(redirectTo);
+      router.push('/dashboard');
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during sign in');
     } finally {
@@ -48,7 +47,7 @@ function SignInForm() {
 
     try {
       await signInWithPopup(auth, provider);
-      router.push(redirectTo);
+      router.push('/dashboard');
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during Google sign in');
     } finally {

@@ -20,6 +20,23 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    // Skip reCAPTCHA verification on localhost for development
+    if (token === 'dev-bypass-token') {
+      console.log('Development mode: Bypassing reCAPTCHA verification');
+      return NextResponse.json({
+        success: true,
+        score: 1.0,
+        action: action || 'development',
+        hostname: 'localhost',
+        timestamp: new Date().toISOString(),
+        assessment: {
+          riskLevel: 'low',
+          recommendation: 'proceed',
+        },
+        development: true,
+      });
+    }
+
     const secretKey = process.env.RECAPTCHA_SECRET_KEY;
     if (!secretKey) {
       return NextResponse.json(

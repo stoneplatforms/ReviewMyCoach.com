@@ -32,7 +32,18 @@ export default function SignUp() {
   const router = useRouter();
 
   useEffect(() => {
-    // Load reCAPTCHA v3 script
+    // Disable reCAPTCHA on localhost for development
+    const isLocalhost = typeof window !== 'undefined' && 
+      (window.location.hostname === 'localhost' || 
+       window.location.hostname === '127.0.0.1' || 
+       window.location.hostname === '');
+
+    if (isLocalhost) {
+      setRecaptchaLoaded(true);
+      return;
+    }
+
+    // Load reCAPTCHA v3 script for production
     const loadRecaptcha = () => {
       const siteKey = process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY;
       if (!siteKey) {
@@ -54,6 +65,17 @@ export default function SignUp() {
   }, []);
 
   const getRecaptchaToken = async (): Promise<string | null> => {
+    // Skip reCAPTCHA on localhost for development
+    const isLocalhost = typeof window !== 'undefined' && 
+      (window.location.hostname === 'localhost' || 
+       window.location.hostname === '127.0.0.1' || 
+       window.location.hostname === '');
+
+    if (isLocalhost) {
+      console.log('Development mode: Skipping reCAPTCHA verification');
+      return 'dev-bypass-token';
+    }
+
     if (!recaptchaLoaded || !window.grecaptcha) {
       return null;
     }
@@ -136,14 +158,16 @@ export default function SignUp() {
     if (!user) return;
     
     const userRef = doc(db, 'users', user.uid);
+    const displayName = user.displayName || `${formData.firstName} ${formData.lastName}`.trim();
     const userData = {
       userId: user.uid,
       email: user.email,
-      displayName: user.displayName || `${formData.firstName} ${formData.lastName}`,
+      displayName: displayName,
       firstName: formData.firstName || user.displayName?.split(' ')[0] || '',
       lastName: formData.lastName || user.displayName?.split(' ')[1] || '',
-      createdAt: new Date().toISOString(),
+      createdAt: new Date(),
       role: 'user',
+      onboardingCompleted: false,
       isVerified: false,
       ...additionalData
     };
@@ -182,15 +206,20 @@ export default function SignUp() {
 
       const { user } = await createUserWithEmailAndPassword(auth, formData.email, formData.password);
       
+      const displayName = `${formData.firstName} ${formData.lastName}`.trim();
+      
       // Update user profile
       await updateProfile(user, {
-        displayName: `${formData.firstName} ${formData.lastName}`
+        displayName: displayName
       });
 
       // Create user document in Firestore
-      await createUserDocument(user);
+      await createUserDocument({
+        ...user,
+        displayName: displayName
+      });
 
-      router.push('/dashboard');
+      router.push('/onboarding');
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during sign up');
     } finally {
@@ -212,7 +241,7 @@ export default function SignUp() {
         lastName: user.displayName?.split(' ')[1] || ''
       });
 
-      router.push('/dashboard');
+      router.push('/onboarding');
     } catch (error) {
       setError(error instanceof Error ? error.message : 'An error occurred during Google sign up');
     } finally {
@@ -296,6 +325,22 @@ export default function SignUp() {
                 />
               </div>
             </div>
+
+            {/* Display Name Preview */}
+            {(formData.firstName || formData.lastName) && (
+              <div className="bg-blue-50 border border-blue-200 rounded-md p-3">
+                <div className="flex items-center">
+                  <svg className="w-4 h-4 text-blue-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                  </svg>
+                  <span className="text-sm text-blue-700">
+                    Your display name will be: <span className="font-medium">
+                      {`${formData.firstName} ${formData.lastName}`.trim() || 'Enter your name above'}
+                    </span>
+                  </span>
+                </div>
+              </div>
+            )}
 
             <div>
               <label htmlFor="email" className="block text-sm font-medium text-gray-700">

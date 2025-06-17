@@ -2,8 +2,9 @@
 
 import { useState, useEffect } from 'react';
 import { User } from 'firebase/auth';
-import { collection, query, where, getDocs, orderBy } from 'firebase/firestore';
+import { collection, query, where, getDocs, orderBy, doc, getDoc } from 'firebase/firestore';
 import { auth, db } from '../lib/firebase-client';
+import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 
 interface Review {
@@ -15,19 +16,59 @@ interface Review {
 
 export default function Dashboard() {
   const [user, setUser] = useState<User | null>(null);
+  const [userRole, setUserRole] = useState<'student' | 'coach' | null>(null);
   const [userReviews, setUserReviews] = useState<Review[]>([]);
+
   const [loadingReviews, setLoadingReviews] = useState(false);
+  const [loading, setLoading] = useState(true);
+  const router = useRouter();
 
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
+    const unsubscribe = auth.onAuthStateChanged(async (user) => {
       setUser(user);
-      if (user?.email) {
-        fetchUserReviews(user.email);
+      if (user) {
+        await checkUserRole(user);
+        if (user.email) {
+          fetchUserReviews(user.email);
+        }
+      } else {
+        // Redirect unauthenticated users to signin
+        setTimeout(() => router.push('/signin'), 100);
       }
+      setLoading(false);
     });
 
     return () => unsubscribe();
-  }, []);
+  }, [router]);
+
+  const checkUserRole = async (user: User) => {
+    try {
+      const userRef = doc(db, 'users', user.uid);
+      const userSnap = await getDoc(userRef);
+      
+      if (userSnap.exists()) {
+        const userData = userSnap.data();
+        if (!userData.onboardingCompleted) {
+          // Add a small delay to prevent rapid redirects
+          setTimeout(() => router.push('/onboarding'), 100);
+          return;
+        }
+        
+        // Redirect coaches to their specific dashboard
+        if (userData.role === 'coach') {
+          setTimeout(() => router.push('/dashboard/coach'), 100);
+          return;
+        }
+        
+        setUserRole(userData.role);
+      } else {
+        // Add a small delay to prevent rapid redirects
+        setTimeout(() => router.push('/onboarding'), 100);
+      }
+    } catch (error) {
+      console.error('Error checking user role:', error);
+    }
+  };
 
   const fetchUserReviews = async (email: string) => {
     setLoadingReviews(true);
@@ -104,6 +145,16 @@ export default function Dashboard() {
 
 
 
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+        <div className="flex items-center justify-center h-64">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Welcome Header */}
@@ -112,8 +163,20 @@ export default function Dashboard() {
           Welcome back, {user?.displayName || user?.email?.split('@')[0] || 'User'}!
         </h1>
         <p className="mt-2 text-gray-600">
-          Here&apos;s what&apos;s happening with your ReviewMyCoach activity
+          {userRole === 'coach' 
+            ? "Manage your coaching profile and view your reviews"
+            : "Here&apos;s what&apos;s happening with your ReviewMyCoach activity"
+          }
         </p>
+        <div className="mt-2">
+          <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${
+            userRole === 'coach' 
+              ? 'bg-blue-100 text-blue-800' 
+              : 'bg-green-100 text-green-800'
+          }`}>
+            {userRole === 'coach' ? 'Coach' : 'Student'}
+          </span>
+        </div>
       </div>
 
       {/* Stats Grid */}
@@ -137,10 +200,18 @@ export default function Dashboard() {
         ))}
       </div>
 
-      {/* Your Reviews Section */}
+      {/* Reviews Section */}
       <div className="bg-white rounded-lg shadow">
         <div className="px-6 py-4 border-b border-gray-200">
-          <h2 className="text-xl font-semibold text-gray-900">Your Reviews</h2>
+          <h2 className="text-xl font-semibold text-gray-900">
+            {userRole === 'coach' ? 'Reviews About You' : 'Your Reviews'}
+          </h2>
+          <p className="text-sm text-gray-600 mt-1">
+            {userRole === 'coach' 
+              ? 'See what students are saying about your coaching'
+              : 'Reviews you&apos;ve written about coaches'
+            }
+          </p>
         </div>
         <div className="p-6">
           {loadingReviews ? (
@@ -173,18 +244,23 @@ export default function Dashboard() {
               <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
-                             <h3 className="mt-2 text-sm font-medium text-gray-900">No reviews yet</h3>
+                                            <h3 className="mt-2 text-sm font-medium text-gray-900">
+                 {userRole === 'coach' ? 'No reviews received yet' : 'No reviews written yet'}
+               </h3>
                <p className="mt-1 text-sm text-gray-500">
-                 You haven&apos;t written any reviews yet. Start by finding a coach to review.
+                 {userRole === 'coach' 
+                   ? 'Students haven&apos;t reviewed you yet. Complete your profile to get discovered!'
+                   : 'You haven&apos;t written any reviews yet. Start by finding a coach to review.'
+                 }
                </p>
-              <div className="mt-6">
-                <Link
-                  href="/coaches"
-                  className="inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
-                >
-                  Find Coaches
-                </Link>
-              </div>
+               <div className="mt-6">
+                 <Link
+                   href={userRole === 'coach' ? '/profile' : '/coaches'}
+                   className="inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
+                 >
+                   {userRole === 'coach' ? 'Complete Profile' : 'Find Coaches'}
+                 </Link>
+               </div>
             </div>
           )}
         </div>
