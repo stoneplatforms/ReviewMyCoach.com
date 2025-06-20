@@ -102,7 +102,7 @@ export default function SearchPageClient() {
     const currentFilters = { ...filters, ...newParams };
     Object.entries(currentFilters).forEach(([key, value]) => {
       if (value && key !== 'q' && key !== 'page') {
-        params.set(key, value);
+        params.set(key, String(value));
       }
     });
 
@@ -159,7 +159,7 @@ export default function SearchPageClient() {
   }, [debouncedSearchTerm, filters]);
 
   // Handle filter changes
-  const handleFilterChange = (key: keyof SearchFilters, value: string) => {
+  const handleFilterChange = (key: string, value: string) => {
     const newFilters = { ...filters, [key]: value };
     setFilters(newFilters);
     updateURL({ ...newFilters, page: 1 });
@@ -209,9 +209,11 @@ export default function SearchPageClient() {
   }, [searchParams, searchTerm]);
 
   // Check if any filters are active
-  const hasActiveFilters = Object.values(filters).some(value => 
-    value && value !== 'averageRating' && value !== 'desc'
-  ) || debouncedSearchTerm.trim();
+  const hasActiveFilters = Boolean(
+    Object.values(filters).some(value => 
+      value && value !== 'averageRating' && value !== 'desc'
+    ) || debouncedSearchTerm.trim()
+  );
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -349,7 +351,7 @@ export default function SearchPageClient() {
           </svg>
           <h3 className="text-lg font-medium text-gray-900 mb-2">No coaches found</h3>
           <p className="text-gray-500 mb-4">
-            We couldn't find any coaches matching your search criteria.
+            We couldn&apos;t find any coaches matching your search criteria.
           </p>
           <button
             onClick={handleClearFilters}

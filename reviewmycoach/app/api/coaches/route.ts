@@ -1,14 +1,17 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, query, where, orderBy, limit, startAfter, getDocs, DocumentSnapshot } from 'firebase/firestore';
+import { collection, query, where, orderBy, limit, getDocs } from 'firebase/firestore';
 import { db } from '../../lib/firebase-client';
 
-interface CoachFilters {
+interface CoachData {
+  id: string;
+  displayName?: string;
+  bio?: string;
+  specialties?: string[];
   sports?: string[];
-  location?: string;
-  minRating?: number;
-  maxRate?: number;
-  isVerified?: boolean;
-  searchTerm?: string;
+  hourlyRate?: number;
+  createdAt?: string | null;
+  updatedAt?: string | null;
+  [key: string]: any;
 }
 
 // GET - Fetch coaches with filtering and pagination
@@ -29,8 +32,8 @@ export async function GET(request: NextRequest) {
     const sortOrderParam = searchParams.get('sortOrder') || 'desc';
 
     // Build base query
-    let baseQuery = collection(db, 'coaches');
-    let queryConstraints: any[] = [];
+    const baseQuery = collection(db, 'coaches');
+    const queryConstraints: any[] = [];
 
     // Add filters
     if (sportsParam) {
@@ -75,7 +78,7 @@ export async function GET(request: NextRequest) {
     // Client-side filtering for more complex searches
     if (searchTermParam) {
       const searchTerm = searchTermParam.toLowerCase();
-      coaches = coaches.filter((coach: any) => 
+      coaches = coaches.filter((coach: CoachData) => 
         coach.displayName?.toLowerCase().includes(searchTerm) ||
         coach.bio?.toLowerCase().includes(searchTerm) ||
         coach.specialties?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
@@ -85,7 +88,7 @@ export async function GET(request: NextRequest) {
 
     if (maxRateParam) {
       const maxRate = parseFloat(maxRateParam);
-      coaches = coaches.filter((coach: any) => coach.hourlyRate <= maxRate);
+      coaches = coaches.filter((coach: CoachData) => coach.hourlyRate && coach.hourlyRate <= maxRate);
     }
 
     return NextResponse.json({

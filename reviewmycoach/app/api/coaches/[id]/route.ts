@@ -75,7 +75,7 @@ export async function PUT(
       'profileImage', 'phoneNumber', 'website', 'socialMedia'
     ];
 
-    const sanitizedUpdates: any = {};
+    const sanitizedUpdates: Record<string, any> = {};
     for (const [key, value] of Object.entries(updates)) {
       if (allowedFields.includes(key)) {
         sanitizedUpdates[key] = value;

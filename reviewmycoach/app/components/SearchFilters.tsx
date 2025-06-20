@@ -44,63 +44,65 @@ export default function SearchFilters({
 
   const [showMobileFilters, setShowMobileFilters] = useState(false);
 
-  // Predefined filter options (you can fetch these from an API)
-  const staticOptions = {
-    sports: [
-      { value: 'Tennis', label: 'Tennis' },
-      { value: 'Basketball', label: 'Basketball' },
-      { value: 'Soccer', label: 'Soccer' },
-      { value: 'Swimming', label: 'Swimming' },
-      { value: 'Baseball', label: 'Baseball' },
-      { value: 'Football', label: 'Football' },
-      { value: 'Volleyball', label: 'Volleyball' },
-      { value: 'Golf', label: 'Golf' },
-      { value: 'Track & Field', label: 'Track & Field' },
-      { value: 'Gymnastics', label: 'Gymnastics' },
-      { value: 'Wrestling', label: 'Wrestling' },
-      { value: 'Boxing', label: 'Boxing' },
-      { value: 'Martial Arts', label: 'Martial Arts' },
-      { value: 'Hockey', label: 'Hockey' },
-      { value: 'Lacrosse', label: 'Lacrosse' },
-    ],
-    locations: [
-      { value: 'Los Angeles, CA', label: 'Los Angeles, CA' },
-      { value: 'New York, NY', label: 'New York, NY' },
-      { value: 'Chicago, IL', label: 'Chicago, IL' },
-      { value: 'Houston, TX', label: 'Houston, TX' },
-      { value: 'Phoenix, AZ', label: 'Phoenix, AZ' },
-      { value: 'Philadelphia, PA', label: 'Philadelphia, PA' },
-      { value: 'San Antonio, TX', label: 'San Antonio, TX' },
-      { value: 'San Diego, CA', label: 'San Diego, CA' },
-      { value: 'Dallas, TX', label: 'Dallas, TX' },
-      { value: 'San Jose, CA', label: 'San Jose, CA' },
-      { value: 'Austin, TX', label: 'Austin, TX' },
-      { value: 'Jacksonville, FL', label: 'Jacksonville, FL' },
-      { value: 'Fort Worth, TX', label: 'Fort Worth, TX' },
-      { value: 'Columbus, OH', label: 'Columbus, OH' },
-      { value: 'San Francisco, CA', label: 'San Francisco, CA' },
-    ],
-    genders: [
-      { value: 'Male', label: 'Male' },
-      { value: 'Female', label: 'Female' },
-      { value: 'Non-binary', label: 'Non-binary' },
-    ],
-    organizations: [
-      { value: 'USA Coaching Association', label: 'USA Coaching Association' },
-      { value: 'National Federation of Professional Trainers', label: 'NFPT' },
-      { value: 'American College of Sports Medicine', label: 'ACSM' },
-      { value: 'National Academy of Sports Medicine', label: 'NASM' },
-      { value: 'International Association of Athletics Federations', label: 'IAAF' },
-      { value: 'US Olympic Training Center', label: 'USOTC' },
-      { value: 'National Collegiate Athletic Association', label: 'NCAA' },
-      { value: 'International Tennis Federation', label: 'ITF' },
-      { value: 'USA Swimming', label: 'USA Swimming' },
-      { value: 'USA Track & Field', label: 'USA Track & Field' },
-    ],
-  };
+
 
   // Fetch available filter options on component mount
   useEffect(() => {
+    // Static options defined inside useEffect to avoid dependency issues
+    const staticOptions = {
+      sports: [
+        { value: 'Tennis', label: 'Tennis' },
+        { value: 'Basketball', label: 'Basketball' },
+        { value: 'Soccer', label: 'Soccer' },
+        { value: 'Swimming', label: 'Swimming' },
+        { value: 'Baseball', label: 'Baseball' },
+        { value: 'Football', label: 'Football' },
+        { value: 'Volleyball', label: 'Volleyball' },
+        { value: 'Golf', label: 'Golf' },
+        { value: 'Track & Field', label: 'Track & Field' },
+        { value: 'Gymnastics', label: 'Gymnastics' },
+        { value: 'Wrestling', label: 'Wrestling' },
+        { value: 'Boxing', label: 'Boxing' },
+        { value: 'Martial Arts', label: 'Martial Arts' },
+        { value: 'Hockey', label: 'Hockey' },
+        { value: 'Lacrosse', label: 'Lacrosse' },
+      ],
+      locations: [
+        { value: 'Los Angeles, CA', label: 'Los Angeles, CA' },
+        { value: 'New York, NY', label: 'New York, NY' },
+        { value: 'Chicago, IL', label: 'Chicago, IL' },
+        { value: 'Houston, TX', label: 'Houston, TX' },
+        { value: 'Phoenix, AZ', label: 'Phoenix, AZ' },
+        { value: 'Philadelphia, PA', label: 'Philadelphia, PA' },
+        { value: 'San Antonio, TX', label: 'San Antonio, TX' },
+        { value: 'San Diego, CA', label: 'San Diego, CA' },
+        { value: 'Dallas, TX', label: 'Dallas, TX' },
+        { value: 'San Jose, CA', label: 'San Jose, CA' },
+        { value: 'Austin, TX', label: 'Austin, TX' },
+        { value: 'Jacksonville, FL', label: 'Jacksonville, FL' },
+        { value: 'Fort Worth, TX', label: 'Fort Worth, TX' },
+        { value: 'Columbus, OH', label: 'Columbus, OH' },
+        { value: 'San Francisco, CA', label: 'San Francisco, CA' },
+      ],
+      genders: [
+        { value: 'Male', label: 'Male' },
+        { value: 'Female', label: 'Female' },
+        { value: 'Non-binary', label: 'Non-binary' },
+      ],
+      organizations: [
+        { value: 'USA Coaching Association', label: 'USA Coaching Association' },
+        { value: 'National Federation of Professional Trainers', label: 'NFPT' },
+        { value: 'American College of Sports Medicine', label: 'ACSM' },
+        { value: 'National Academy of Sports Medicine', label: 'NASM' },
+        { value: 'International Association of Athletics Federations', label: 'IAAF' },
+        { value: 'US Olympic Training Center', label: 'USOTC' },
+        { value: 'National Collegiate Athletic Association', label: 'NCAA' },
+        { value: 'International Tennis Federation', label: 'ITF' },
+        { value: 'USA Swimming', label: 'USA Swimming' },
+        { value: 'USA Track & Field', label: 'USA Track & Field' },
+      ],
+    };
+    
     // For now, use static options. In production, you'd fetch from API
     setAvailableOptions(staticOptions);
   }, []);

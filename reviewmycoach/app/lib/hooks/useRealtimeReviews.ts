@@ -162,8 +162,37 @@ export function useRealtimeReviews(coachId: string): UseRealtimeReviewsReturn {
 }
 
 // Hook for real-time coach profile updates
+interface CoachProfile {
+  id: string;
+  userId: string;
+  displayName: string;
+  bio: string;
+  sports: string[];
+  experience: number;
+  certifications: string[];
+  hourlyRate: number;
+  location: string;
+  availability: string[];
+  specialties: string[];
+  languages: string[];
+  averageRating: number;
+  totalReviews: number;
+  profileImage?: string;
+  phoneNumber?: string;
+  website?: string;
+  isVerified: boolean;
+  createdAt?: string | null;
+  updatedAt?: string | null;
+  socialMedia?: {
+    instagram?: string;
+    twitter?: string;
+    linkedin?: string;
+  };
+  [key: string]: unknown;
+}
+
 export function useRealtimeCoach(coachId: string) {
-  const [coach, setCoach] = useState<any>(null);
+  const [coach, setCoach] = useState<CoachProfile | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
@@ -190,7 +219,7 @@ export function useRealtimeCoach(coachId: string) {
               ...data,
               createdAt: data.createdAt?.toDate().toISOString() || null,
               updatedAt: data.updatedAt?.toDate().toISOString() || null,
-            });
+            } as CoachProfile);
           } else {
             setCoach(null);
             setError('Coach not found');

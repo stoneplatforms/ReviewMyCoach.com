@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, query, where, orderBy, limit, startAfter, getDocs, DocumentSnapshot } from 'firebase/firestore';
+import { collection, query, where, orderBy, limit, getDocs } from 'firebase/firestore';
 import { db } from '../../../lib/firebase-client';
 
 interface SearchParams {
@@ -15,6 +15,20 @@ interface SearchParams {
   sortOrder?: string;
   page?: string;
   limit?: string;
+}
+
+interface CoachData {
+  id: string;
+  displayName?: string;
+  bio?: string;
+  specialties?: string[];
+  sports?: string[];
+  certifications?: string[];
+  location?: string;
+  hourlyRate?: number;
+  createdAt?: string | null;
+  updatedAt?: string | null;
+  [key: string]: any;
 }
 
 export async function GET(request: NextRequest) {
@@ -49,8 +63,8 @@ export async function GET(request: NextRequest) {
     }
 
     // Build base query
-    let baseQuery = collection(db, 'coaches');
-    let queryConstraints: any[] = [];
+    const baseQuery = collection(db, 'coaches');
+    const queryConstraints: any[] = [];
 
     // Add filters
     if (params.sport) {
@@ -105,14 +119,14 @@ export async function GET(request: NextRequest) {
     const finalQuery = query(baseQuery, ...queryConstraints);
     const querySnapshot = await getDocs(finalQuery);
 
-    let coaches = querySnapshot.docs.map(doc => {
+    let coaches: CoachData[] = querySnapshot.docs.map(doc => {
       const data = doc.data();
       return {
         id: doc.id,
         ...data,
         createdAt: data.createdAt?.toDate().toISOString() || null,
         updatedAt: data.updatedAt?.toDate().toISOString() || null,
-      };
+      } as CoachData;
     });
 
     // Check if there are more results
@@ -122,12 +136,12 @@ export async function GET(request: NextRequest) {
     }
 
     // Apply client-side filters for complex searches
-    let filteredCoaches = coaches;
+    let filteredCoaches: CoachData[] = coaches;
 
     // Text search across multiple fields
     if (params.search && params.search.trim()) {
       const searchTerm = params.search.toLowerCase().trim();
-      filteredCoaches = coaches.filter((coach: any) => 
+      filteredCoaches = coaches.filter(coach => 
         coach.displayName?.toLowerCase().includes(searchTerm) ||
         coach.bio?.toLowerCase().includes(searchTerm) ||
         coach.specialties?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
@@ -141,8 +155,8 @@ export async function GET(request: NextRequest) {
     if (params.maxRate) {
       const maxRate = parseFloat(params.maxRate);
       if (!isNaN(maxRate) && maxRate > 0) {
-        filteredCoaches = filteredCoaches.filter((coach: any) => 
-          coach.hourlyRate <= maxRate
+        filteredCoaches = filteredCoaches.filter(coach => 
+          coach.hourlyRate && coach.hourlyRate <= maxRate
         );
       }
     }

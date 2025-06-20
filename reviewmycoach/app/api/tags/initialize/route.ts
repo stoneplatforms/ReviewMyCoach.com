@@ -1,8 +1,26 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, addDoc, getDocs, query, where } from 'firebase/firestore';
+import { collection, addDoc, getDocs } from 'firebase/firestore';
 import { db } from '../../../lib/firebase-client';
 import { auth } from '../../../lib/firebase-admin';
-import { PREDEFINED_TAGS } from '../route';
+// Predefined tags data
+const PREDEFINED_TAGS = {
+  sports: [
+    'Basketball', 'Soccer', 'Tennis', 'Swimming', 'Baseball', 'Football', 
+    'Volleyball', 'Golf', 'Track & Field', 'Gymnastics', 'Wrestling', 
+    'Boxing', 'Martial Arts', 'Hockey', 'Lacrosse', 'Softball', 'Cricket'
+  ],
+  specialties: [
+    'Youth Development', 'Elite Performance', 'Injury Recovery', 
+    'Mental Coaching', 'Strength Training', 'Endurance Training',
+    'Technical Skills', 'Team Strategy', 'Individual Training',
+    'Competition Prep', 'Fitness Training', 'Beginner Friendly'
+  ],
+  certifications: [
+    'NASM Certified', 'ACSM Certified', 'USA Coaching Certified',
+    'Olympic Coaching License', 'SafeSport Certified', 'CPR Certified',
+    'First Aid Certified', 'Youth Sports Certified'
+  ]
+};
 
 // POST - Initialize tags collection with predefined values (admin only)
 export async function POST(request: NextRequest) {
@@ -14,7 +32,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Verify admin access (you might want to add proper admin role checking)
-    const decodedToken = await auth.verifyIdToken(token);
+    await auth.verifyIdToken(token);
     
     const tagsRef = collection(db, 'tags');
     let createdCount = 0;

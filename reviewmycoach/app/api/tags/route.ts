@@ -1,16 +1,17 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, getDocs, addDoc, doc, updateDoc, deleteDoc, query, orderBy } from 'firebase/firestore';
+import { collection, getDocs, addDoc, doc, updateDoc, query, orderBy } from 'firebase/firestore';
 import { db } from '../../lib/firebase-client';
 import { auth } from '../../lib/firebase-admin';
 
-interface Tag {
+interface TagData {
   id: string;
   name: string;
   category: 'sport' | 'specialty' | 'certification' | 'skill';
   count: number;
   isActive: boolean;
-  createdAt: Date;
-  updatedAt: Date;
+  createdAt: string | null;
+  updatedAt: string | null;
+  [key: string]: unknown;
 }
 
 // GET - Fetch all tags
@@ -20,24 +21,24 @@ export async function GET(request: NextRequest) {
     const categoryParam = searchParams.get('category');
     const activeOnlyParam = searchParams.get('activeOnly') === 'true';
 
-    let tagsQuery = query(collection(db, 'tags'), orderBy('name', 'asc'));
+    const tagsQuery = query(collection(db, 'tags'), orderBy('name', 'asc'));
     
     const tagsSnapshot = await getDocs(tagsQuery);
-    let tags = tagsSnapshot.docs.map(doc => ({
+    let tags: TagData[] = tagsSnapshot.docs.map(doc => ({
       id: doc.id,
       ...doc.data(),
       createdAt: doc.data().createdAt?.toDate().toISOString() || null,
       updatedAt: doc.data().updatedAt?.toDate().toISOString() || null,
-    })) as any[];
+    } as TagData));
 
     // Filter by category if specified
     if (categoryParam) {
-      tags = tags.filter((tag: any) => tag.category === categoryParam);
+      tags = tags.filter(tag => tag.category === categoryParam);
     }
 
     // Filter active only if specified
     if (activeOnlyParam) {
-      tags = tags.filter((tag: any) => tag.isActive);
+      tags = tags.filter(tag => tag.isActive);
     }
 
     return NextResponse.json({ tags });
@@ -58,7 +59,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Verify admin access
-    const decodedToken = await auth.verifyIdToken(token);
+    await auth.verifyIdToken(token);
     // Note: In production, you'd check if user has admin role
     
     const body = await request.json();
@@ -127,22 +128,4 @@ export async function PUT(request: NextRequest) {
   }
 }
 
-// Predefined sports and specialties for initialization
-export const PREDEFINED_TAGS = {
-  sports: [
-    'Basketball', 'Soccer', 'Tennis', 'Swimming', 'Baseball', 'Football', 
-    'Volleyball', 'Golf', 'Track & Field', 'Gymnastics', 'Wrestling', 
-    'Boxing', 'Martial Arts', 'Hockey', 'Lacrosse', 'Softball', 'Cricket'
-  ],
-  specialties: [
-    'Youth Development', 'Elite Performance', 'Injury Recovery', 
-    'Mental Coaching', 'Strength Training', 'Endurance Training',
-    'Technical Skills', 'Team Strategy', 'Individual Training',
-    'Competition Prep', 'Fitness Training', 'Beginner Friendly'
-  ],
-  certifications: [
-    'NASM Certified', 'ACSM Certified', 'USA Coaching Certified',
-    'Olympic Coaching License', 'SafeSport Certified', 'CPR Certified',
-    'First Aid Certified', 'Youth Sports Certified'
-  ]
-}; 
+ 

@@ -60,14 +60,11 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   const { 
     reviews: realtimeReviews, 
     ratingStats, 
-    loading: reviewsLoading, 
-    error: reviewsError 
+    loading: reviewsLoading
   } = useRealtimeReviews(initialCoach.id);
   
   const { 
-    coach: realtimeCoach, 
-    loading: coachLoading, 
-    error: coachError 
+    coach: realtimeCoach
   } = useRealtimeCoach(initialCoach.id);
 
   // Use real-time data if available, fallback to initial props
