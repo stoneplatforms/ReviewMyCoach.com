@@ -6,6 +6,7 @@ import { auth } from '../lib/firebase-client';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
+import GlobalSearchBar from './GlobalSearchBar';
 
 export default function Navbar() {
   const [user, setUser] = useState<User | null>(null);
@@ -43,21 +44,27 @@ export default function Navbar() {
   return (
     <nav className="bg-white shadow-lg border-b border-gray-200">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between h-16">
+        <div className="flex items-center justify-between h-16">
           {/* Logo and Brand */}
-          <div className="flex items-center">
-            <Link href="/" className="flex-shrink-0 flex items-center" onClick={closeMenu}>
+          <div className="flex items-center flex-shrink-0">
+            <Link href="/" className="flex items-center" onClick={closeMenu}>
               <div className="h-8 w-8 bg-blue-600 rounded-lg flex items-center justify-center">
                 <svg className="h-5 w-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
                 </svg>
               </div>
-              <span className="ml-2 text-xl font-bold text-gray-900">ReviewMyCoach</span>
+              <span className="ml-2 text-xl font-bold text-gray-900 hidden sm:block">ReviewMyCoach</span>
+              <span className="ml-2 text-lg font-bold text-gray-900 sm:hidden">RMC</span>
             </Link>
           </div>
 
+          {/* Global Search Bar */}
+          <div className="flex-1 max-w-lg mx-4 hidden md:block">
+            <GlobalSearchBar placeholder="Search coaches, sports, or locations..." />
+          </div>
+
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center space-x-8">
+          <div className="hidden md:flex items-center space-x-6">
             <Link href="/" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium transition-colors">
               Home
             </Link>
@@ -172,6 +179,11 @@ export default function Navbar() {
       {isMenuOpen && (
         <div className="md:hidden">
           <div className="px-2 pt-2 pb-3 space-y-1 sm:px-3 bg-white border-t border-gray-200">
+            {/* Mobile Search Bar */}
+            <div className="px-3 py-2">
+              <GlobalSearchBar placeholder="Search coaches..." showSuggestions={false} />
+            </div>
+            
             <Link
               href="/"
               onClick={closeMenu}

@@ -5,7 +5,9 @@ import { User } from 'firebase/auth';
 import { auth } from '../../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Image from 'next/image';
-
+import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtimeReviews';
+import RealtimeReviewModal from '../../components/RealtimeReviewModal';
+import RealtimeDemo from '../../components/RealtimeDemo';
 
 interface CoachProfile {
   id: string;
@@ -48,11 +50,29 @@ interface Props {
   reviews: Review[];
 }
 
-export default function CoachProfileClient({ coach, reviews }: Props) {
+export default function CoachProfileClient({ coach: initialCoach, reviews: initialReviews }: Props) {
   const [user, setUser] = useState<User | null>(null);
   const [showBookingModal, setShowBookingModal] = useState(false);
   const [showReviewModal, setShowReviewModal] = useState(false);
   const router = useRouter();
+
+  // Use real-time hooks
+  const { 
+    reviews: realtimeReviews, 
+    ratingStats, 
+    loading: reviewsLoading, 
+    error: reviewsError 
+  } = useRealtimeReviews(initialCoach.id);
+  
+  const { 
+    coach: realtimeCoach, 
+    loading: coachLoading, 
+    error: coachError 
+  } = useRealtimeCoach(initialCoach.id);
+
+  // Use real-time data if available, fallback to initial props
+  const coach = realtimeCoach || initialCoach;
+  const reviews = realtimeReviews.length > 0 ? realtimeReviews : initialReviews;
 
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged((user) => {
@@ -153,8 +173,17 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
             </div>
             
             <div className="flex items-center gap-4 mb-3">
-              {renderStarRating(coach.averageRating, 'lg')}
-              <span className="text-gray-600">({coach.totalReviews} reviews)</span>
+              {renderStarRating(ratingStats.averageRating || coach.averageRating, 'lg')}
+              <span className="text-gray-600">({ratingStats.totalReviews || coach.totalReviews} reviews)</span>
+              {reviewsLoading && (
+                <div className="flex items-center text-blue-500">
+                  <svg className="animate-spin w-4 h-4 mr-1" fill="none" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  <span className="text-xs">Updating...</span>
+                </div>
+              )}
             </div>
 
             <div className="flex flex-wrap items-center gap-4 text-gray-600 mb-4">
@@ -185,7 +214,7 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
 
             {/* Sports Tags */}
             <div className="flex flex-wrap gap-2 mb-4">
-              {coach.sports.map(sport => (
+              {coach.sports.map((sport: string) => (
                 <span
                   key={sport}
                   className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
@@ -238,7 +267,7 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
             <div className="bg-white rounded-lg shadow p-6">
               <h2 className="text-xl font-semibold text-gray-900 mb-4">Specialties</h2>
               <div className="flex flex-wrap gap-2">
-                {coach.specialties.map(specialty => (
+                {coach.specialties.map((specialty: string) => (
                   <span
                     key={specialty}
                     className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-purple-100 text-purple-800"
@@ -259,36 +288,36 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
                 </svg>
                 Certifications & Credentials
               </h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                {coach.certifications.map((cert, index) => (
-                  <div key={index} className="flex items-center p-3 bg-blue-50 rounded-lg border border-blue-200">
-                    <svg className="w-5 h-5 text-blue-600 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                    </svg>
-                    <span className="text-gray-700 font-medium">{cert}</span>
-                  </div>
-                ))}
-              </div>
+                             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                 {coach.certifications.map((cert: string, index: number) => (
+                   <div key={index} className="flex items-center p-3 bg-blue-50 rounded-lg border border-blue-200">
+                     <svg className="w-5 h-5 text-blue-600 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                     </svg>
+                     <span className="text-gray-700 font-medium">{cert}</span>
+                   </div>
+                 ))}
+               </div>
             </div>
           )}
 
           {/* Enhanced Reviews Section */}
           <div className="bg-white rounded-lg shadow p-6">
             <div className="flex items-center justify-between mb-6">
-              <div className="flex items-center gap-4">
-                <h2 className="text-xl font-semibold text-gray-900">
-                  Reviews & Ratings
-                </h2>
-                <div className="flex items-center gap-2">
-                  <div className="text-3xl font-bold text-yellow-500">
-                    {coach.averageRating.toFixed(1)}
-                  </div>
-                  <div className="text-sm text-gray-600">
-                    <div>{renderStarRating(coach.averageRating, 'sm')}</div>
-                    <div>({coach.totalReviews} reviews)</div>
-                  </div>
-                </div>
-              </div>
+                             <div className="flex items-center gap-4">
+                 <h2 className="text-xl font-semibold text-gray-900">
+                   Reviews & Ratings
+                 </h2>
+                 <div className="flex items-center gap-2">
+                   <div className="text-3xl font-bold text-yellow-500">
+                     {(ratingStats.averageRating || coach.averageRating).toFixed(1)}
+                   </div>
+                   <div className="text-sm text-gray-600">
+                     <div>{renderStarRating(ratingStats.averageRating || coach.averageRating, 'sm')}</div>
+                     <div>({ratingStats.totalReviews || coach.totalReviews} reviews)</div>
+                   </div>
+                 </div>
+               </div>
               <button
                 onClick={handleWriteReview}
                 className="text-blue-600 hover:text-blue-500 text-sm font-medium flex items-center gap-1"
@@ -300,31 +329,31 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
               </button>
             </div>
 
-            {/* Rating Distribution */}
-            {coach.totalReviews > 0 && (
-              <div className="mb-6 p-4 bg-gray-50 rounded-lg">
-                <h3 className="text-sm font-medium text-gray-700 mb-3">Rating Distribution</h3>
-                {[5, 4, 3, 2, 1].map(rating => {
-                  const count = reviews.filter(r => Math.floor(r.rating) === rating).length;
-                  const percentage = coach.totalReviews > 0 ? (count / coach.totalReviews) * 100 : 0;
-                  return (
-                    <div key={rating} className="flex items-center gap-2 mb-1">
-                      <span className="text-sm text-gray-600 w-3">{rating}</span>
-                      <svg className="w-3 h-3 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
-                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
-                      </svg>
-                      <div className="flex-1 bg-gray-200 rounded-full h-2">
-                        <div 
-                          className="bg-yellow-400 h-2 rounded-full transition-all duration-300"
-                          style={{ width: `${percentage}%` }}
-                        ></div>
-                      </div>
-                      <span className="text-xs text-gray-500 w-8">{count}</span>
-                    </div>
-                  );
-                })}
-              </div>
-            )}
+                         {/* Rating Distribution */}
+             {ratingStats.totalReviews > 0 && (
+               <div className="mb-6 p-4 bg-gray-50 rounded-lg">
+                 <h3 className="text-sm font-medium text-gray-700 mb-3">Rating Distribution</h3>
+                 {[5, 4, 3, 2, 1].map(rating => {
+                   const count = ratingStats.ratingDistribution[rating] || 0;
+                   const percentage = ratingStats.totalReviews > 0 ? (count / ratingStats.totalReviews) * 100 : 0;
+                   return (
+                     <div key={rating} className="flex items-center gap-2 mb-1">
+                       <span className="text-sm text-gray-600 w-3">{rating}</span>
+                       <svg className="w-3 h-3 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                         <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+                       </svg>
+                       <div className="flex-1 bg-gray-200 rounded-full h-2">
+                         <div 
+                           className="bg-yellow-400 h-2 rounded-full transition-all duration-300"
+                           style={{ width: `${percentage}%` }}
+                         ></div>
+                       </div>
+                       <span className="text-xs text-gray-500 w-8">{count}</span>
+                     </div>
+                   );
+                 })}
+               </div>
+             )}
 
             {reviews.length > 0 ? (
               <div className="space-y-6">
@@ -403,7 +432,7 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
             <div className="bg-white rounded-lg shadow p-6">
               <h3 className="text-lg font-semibold text-gray-900 mb-4">Availability</h3>
               <div className="space-y-2">
-                {coach.availability.map(slot => (
+                {coach.availability.map((slot: string) => (
                   <div key={slot} className="flex items-center">
                     <div className="w-2 h-2 bg-green-400 rounded-full mr-2"></div>
                     <span className="text-sm text-gray-700">{slot}</span>
@@ -481,25 +510,21 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
         </div>
       )}
 
-      {/* Review Modal Placeholder */}
-      {showReviewModal && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
-          <div className="bg-white rounded-lg p-6 max-w-md w-full">
-            <h3 className="text-lg font-semibold mb-4">Write a Review</h3>
-            <p className="text-gray-600 mb-4">
-              Review functionality coming soon!
-            </p>
-            <div className="flex justify-end space-x-3">
-              <button
-                onClick={() => setShowReviewModal(false)}
-                className="px-4 py-2 text-gray-600 hover:text-gray-800"
-              >
-                Close
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
-    </div>
-  );
-} 
+             {/* Real-time Review Modal */}
+       <RealtimeReviewModal
+         isOpen={showReviewModal}
+         onClose={() => setShowReviewModal(false)}
+         coachId={coach.id}
+         coachName={coach.displayName}
+         user={user}
+         onReviewSubmitted={() => {
+           // The real-time hook will automatically update the reviews
+           console.log('Review submitted - real-time updates will handle the rest!');
+         }}
+       />
+
+       {/* Real-time Demo Widget */}
+       <RealtimeDemo coachId={coach.id} />
+     </div>
+   );
+ } 
