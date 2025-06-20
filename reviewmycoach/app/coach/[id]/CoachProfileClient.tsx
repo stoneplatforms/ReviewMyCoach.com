@@ -253,61 +253,123 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
           {/* Certifications */}
           {coach.certifications.length > 0 && (
             <div className="bg-white rounded-lg shadow p-6">
-              <h2 className="text-xl font-semibold text-gray-900 mb-4">Certifications</h2>
-              <div className="space-y-2">
-                {coach.certifications.map(cert => (
-                  <div key={cert} className="flex items-center">
-                    <svg className="w-4 h-4 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4 flex items-center">
+                <svg className="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                </svg>
+                Certifications & Credentials
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                {coach.certifications.map((cert, index) => (
+                  <div key={index} className="flex items-center p-3 bg-blue-50 rounded-lg border border-blue-200">
+                    <svg className="w-5 h-5 text-blue-600 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                     </svg>
-                    <span className="text-gray-700">{cert}</span>
+                    <span className="text-gray-700 font-medium">{cert}</span>
                   </div>
                 ))}
               </div>
             </div>
           )}
 
-          {/* Reviews */}
+          {/* Enhanced Reviews Section */}
           <div className="bg-white rounded-lg shadow p-6">
             <div className="flex items-center justify-between mb-6">
-              <h2 className="text-xl font-semibold text-gray-900">
-                Reviews ({coach.totalReviews})
-              </h2>
+              <div className="flex items-center gap-4">
+                <h2 className="text-xl font-semibold text-gray-900">
+                  Reviews & Ratings
+                </h2>
+                <div className="flex items-center gap-2">
+                  <div className="text-3xl font-bold text-yellow-500">
+                    {coach.averageRating.toFixed(1)}
+                  </div>
+                  <div className="text-sm text-gray-600">
+                    <div>{renderStarRating(coach.averageRating, 'sm')}</div>
+                    <div>({coach.totalReviews} reviews)</div>
+                  </div>
+                </div>
+              </div>
               <button
                 onClick={handleWriteReview}
-                className="text-blue-600 hover:text-blue-500 text-sm font-medium"
+                className="text-blue-600 hover:text-blue-500 text-sm font-medium flex items-center gap-1"
               >
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                </svg>
                 Write a review
               </button>
             </div>
+
+            {/* Rating Distribution */}
+            {coach.totalReviews > 0 && (
+              <div className="mb-6 p-4 bg-gray-50 rounded-lg">
+                <h3 className="text-sm font-medium text-gray-700 mb-3">Rating Distribution</h3>
+                {[5, 4, 3, 2, 1].map(rating => {
+                  const count = reviews.filter(r => Math.floor(r.rating) === rating).length;
+                  const percentage = coach.totalReviews > 0 ? (count / coach.totalReviews) * 100 : 0;
+                  return (
+                    <div key={rating} className="flex items-center gap-2 mb-1">
+                      <span className="text-sm text-gray-600 w-3">{rating}</span>
+                      <svg className="w-3 h-3 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                        <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
+                      </svg>
+                      <div className="flex-1 bg-gray-200 rounded-full h-2">
+                        <div 
+                          className="bg-yellow-400 h-2 rounded-full transition-all duration-300"
+                          style={{ width: `${percentage}%` }}
+                        ></div>
+                      </div>
+                      <span className="text-xs text-gray-500 w-8">{count}</span>
+                    </div>
+                  );
+                })}
+              </div>
+            )}
 
             {reviews.length > 0 ? (
               <div className="space-y-6">
                 {reviews.map(review => (
                   <div key={review.id} className="border-b border-gray-200 pb-6 last:border-b-0">
-                    <div className="flex items-start justify-between mb-2">
-                      <div>
-                        <div className="flex items-center gap-2 mb-1">
-                          <span className="font-medium text-gray-900">{review.studentName}</span>
-                          {review.sport && (
-                            <span className="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded">
-                              {review.sport}
-                            </span>
-                          )}
+                    <div className="flex items-start justify-between mb-3">
+                      <div className="flex items-center gap-3">
+                        <div className="w-10 h-10 bg-gray-300 rounded-full flex items-center justify-center">
+                          <span className="text-gray-600 font-medium text-sm">
+                            {review.studentName.charAt(0).toUpperCase()}
+                          </span>
                         </div>
-                        {renderStarRating(review.rating, 'sm')}
+                        <div>
+                          <div className="flex items-center gap-2 mb-1">
+                            <span className="font-medium text-gray-900">{review.studentName}</span>
+                            {review.sport && (
+                              <span className="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded-full">
+                                {review.sport}
+                              </span>
+                            )}
+                          </div>
+                          {renderStarRating(review.rating, 'sm')}
+                        </div>
                       </div>
                       <span className="text-sm text-gray-500">
                         {formatDate(review.createdAt)}
                       </span>
                     </div>
-                    <p className="text-gray-700">{review.reviewText}</p>
+                    <p className="text-gray-700 leading-relaxed pl-13">{review.reviewText}</p>
                   </div>
                 ))}
               </div>
             ) : (
-              <div className="text-center py-8 text-gray-500">
-                <p>No reviews yet. Be the first to review this coach!</p>
+              <div className="text-center py-12">
+                <svg className="w-16 h-16 text-gray-300 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
+                </svg>
+                <h3 className="text-lg font-medium text-gray-900 mb-2">No reviews yet</h3>
+                <p className="text-gray-500 mb-4">Be the first to review this coach and help others make informed decisions!</p>
+                <button
+                  onClick={handleWriteReview}
+                  className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors"
+                >
+                  Write the first review
+                </button>
               </div>
             )}
           </div>
