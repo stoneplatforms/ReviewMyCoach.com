@@ -5,6 +5,7 @@ import { User } from 'firebase/auth';
 import { auth } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import Image from 'next/image';
 import AuthGuard from '../components/AuthGuard';
 
 interface DashboardLayoutProps {
@@ -133,9 +134,11 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
           <div className="flex items-center">
             <div className="h-10 w-10 bg-blue-100 rounded-full flex items-center justify-center">
               {user.photoURL ? (
-                <img
+                <Image
                   src={user.photoURL}
                   alt="Profile"
+                  width={40}
+                  height={40}
                   className="h-10 w-10 rounded-full"
                 />
               ) : (

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { User } from 'firebase/auth';
 import { collection, query, where, getDocs, orderBy, doc, getDoc } from 'firebase/firestore';
 import { auth, db } from '../lib/firebase-client';
@@ -23,25 +23,7 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(true);
   const router = useRouter();
 
-  useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged(async (user) => {
-      setUser(user);
-      if (user) {
-        await checkUserRole(user);
-        if (user.email) {
-          fetchUserReviews(user.email);
-        }
-      } else {
-        // Redirect unauthenticated users to signin
-        setTimeout(() => router.push('/signin'), 100);
-      }
-      setLoading(false);
-    });
-
-    return () => unsubscribe();
-  }, [router]);
-
-  const checkUserRole = async (user: User) => {
+  const checkUserRole = useCallback(async (user: User) => {
     try {
       const userRef = doc(db, 'users', user.uid);
       const userSnap = await getDoc(userRef);
@@ -68,9 +50,9 @@ export default function Dashboard() {
     } catch (error) {
       console.error('Error checking user role:', error);
     }
-  };
+  }, [router]);
 
-  const fetchUserReviews = async (email: string) => {
+  const fetchUserReviews = useCallback(async (email: string) => {
     setLoadingReviews(true);
     try {
       const reviewsRef = collection(db, 'reviews');
@@ -93,7 +75,25 @@ export default function Dashboard() {
     } finally {
       setLoadingReviews(false);
     }
-  };
+  }, []);
+
+  useEffect(() => {
+    const unsubscribe = auth.onAuthStateChanged(async (user) => {
+      setUser(user);
+      if (user) {
+        await checkUserRole(user);
+        if (user.email) {
+          fetchUserReviews(user.email);
+        }
+      } else {
+        // Redirect unauthenticated users to signin
+        setTimeout(() => router.push('/signin'), 100);
+      }
+      setLoading(false);
+    });
+
+    return () => unsubscribe();
+  }, [router, checkUserRole, fetchUserReviews]);
 
   const stats = [
     {

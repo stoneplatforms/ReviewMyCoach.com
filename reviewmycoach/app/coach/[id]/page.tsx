@@ -89,8 +89,9 @@ async function getCoachReviews(coachId: string): Promise<Review[]> {
   }
 }
 
-export async function generateMetadata({ params }: { params: { id: string } }) {
-  const coach = await getCoachProfile(params.id);
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const coach = await getCoachProfile(id);
   
   if (!coach) {
     return {
@@ -153,10 +154,11 @@ function LoadingSkeleton() {
   );
 }
 
-export default async function CoachProfilePage({ params }: { params: { id: string } }) {
+export default async function CoachProfilePage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
   const [coach, reviews] = await Promise.all([
-    getCoachProfile(params.id),
-    getCoachReviews(params.id)
+    getCoachProfile(id),
+    getCoachReviews(id)
   ]);
 
   if (!coach) {

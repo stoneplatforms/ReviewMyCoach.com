@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { User } from 'firebase/auth';
 import { auth } from '../../lib/firebase-client';
 import { useRouter } from 'next/navigation';
+import Image from 'next/image';
 
 
 interface CoachProfile {
@@ -118,9 +119,11 @@ export default function CoachProfileClient({ coach, reviews }: Props) {
           <div className="relative">
             <div className="w-32 h-32 bg-gray-200 rounded-full flex items-center justify-center overflow-hidden">
               {coach.profileImage ? (
-                <img
+                <Image
                   src={coach.profileImage}
                   alt={coach.displayName}
+                  width={128}
+                  height={128}
                   className="w-full h-full object-cover"
                 />
               ) : (

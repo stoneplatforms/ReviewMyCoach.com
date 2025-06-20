@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { User, signOut } from 'firebase/auth';
 import { auth } from '../lib/firebase-client';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 
 export default function Navbar() {
@@ -85,9 +86,11 @@ export default function Navbar() {
                     <button className="flex items-center space-x-2 text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium transition-colors">
                       <div className="h-8 w-8 bg-blue-100 rounded-full flex items-center justify-center">
                         {user.photoURL ? (
-                          <img
+                          <Image
                             src={user.photoURL}
                             alt="Profile"
+                            width={32}
+                            height={32}
                             className="h-8 w-8 rounded-full"
                           />
                         ) : (
@@ -211,9 +214,11 @@ export default function Navbar() {
                   <div className="flex items-center px-3 py-2">
                     <div className="h-10 w-10 bg-blue-100 rounded-full flex items-center justify-center">
                       {user.photoURL ? (
-                        <img
+                        <Image
                           src={user.photoURL}
                           alt="Profile"
+                          width={40}
+                          height={40}
                           className="h-10 w-10 rounded-full"
                         />
                       ) : (

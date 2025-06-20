@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { User } from 'firebase/auth';
 import { doc, getDoc, setDoc } from 'firebase/firestore';
 import { auth, db } from '../../../../lib/firebase-client';
@@ -66,21 +66,7 @@ export default function EditCoachProfile() {
   const [newSpecialty, setNewSpecialty] = useState('');
   const router = useRouter();
 
-  useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged(async (user) => {
-      setUser(user);
-      if (user) {
-        await loadCoachProfile(user.uid);
-      } else {
-        router.push('/signin');
-      }
-      setLoading(false);
-    });
-
-    return () => unsubscribe();
-  }, [router]);
-
-  const loadCoachProfile = async (userId: string) => {
+  const loadCoachProfile = useCallback(async (userId: string) => {
     try {
       const coachRef = doc(db, 'coaches', userId);
       const coachSnap = await getDoc(coachRef);
@@ -102,7 +88,21 @@ export default function EditCoachProfile() {
     } catch (error) {
       console.error('Error loading coach profile:', error);
     }
-  };
+  }, [user]);
+
+  useEffect(() => {
+    const unsubscribe = auth.onAuthStateChanged(async (user) => {
+      setUser(user);
+      if (user) {
+        await loadCoachProfile(user.uid);
+      } else {
+        router.push('/signin');
+      }
+      setLoading(false);
+    });
+
+    return () => unsubscribe();
+  }, [router, loadCoachProfile]);
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement | HTMLSelectElement>) => {
     const { name, value, type } = e.target;
