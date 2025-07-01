@@ -20,58 +20,85 @@ export async function POST(
     const { id: coachId } = await params;
     const token = request.headers.get('authorization')?.replace('Bearer ', '');
     
-    if (!token) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+    let userId = null;
+    let isAuthenticated = false;
+    
+    // Try to verify token if provided, but don't require it
+    if (token) {
+      try {
+        const decodedToken = await auth.verifyIdToken(token);
+        userId = decodedToken.uid;
+        isAuthenticated = true;
+      } catch (error) {
+        console.log('Invalid token provided, treating as anonymous user');
+        // Continue as anonymous user
+      }
     }
-
-    // Verify the token
-    const decodedToken = await auth.verifyIdToken(token);
-    const userId = decodedToken.uid;
 
     const body = await request.json();
     const { rating, reviewText, sport } = body;
-
-    // Validation
-    if (!rating || rating < 1 || rating > 5) {
-      return NextResponse.json({ error: 'Rating must be between 1 and 5' }, { status: 400 });
-    }
-
-    if (!reviewText || reviewText.length < 10 || reviewText.length > 1000) {
-      return NextResponse.json({ error: 'Review text must be between 10 and 1000 characters' }, { status: 400 });
-    }
-
-    // Check if user has already reviewed this coach
-    const existingReviewsQuery = query(
-      collection(db, 'coaches', coachId, 'reviews'),
-      orderBy('createdAt', 'desc')
-    );
-    const existingReviewsSnapshot = await getDocs(existingReviewsQuery);
-    const hasReviewed = existingReviewsSnapshot.docs.some(
-      doc => doc.data().studentId === userId
-    );
-
-    if (hasReviewed) {
-      return NextResponse.json({ error: 'You have already reviewed this coach' }, { status: 400 });
-    }
-
-    // Get user's display name
-    const userDoc = await getDoc(doc(db, 'users', userId));
-    const studentName = userDoc.exists() ? userDoc.data().displayName || 'Anonymous' : 'Anonymous';
-
-    // Create the review
-    const reviewData: ReviewData & { createdAt: Date } = {
-      studentId: userId,
-      studentName,
+    
+    // Generate unique ID for anonymous users
+    const effectiveUserId = userId || `anonymous_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
+    
+    // Debug logging
+    console.log('Review submission data:', {
+      coachId,
+      userId: effectiveUserId,
+      isAuthenticated,
       rating,
-      reviewText,
+      reviewText: reviewText?.substring(0, 50) + '...',
+      sport
+    });
+
+    // Basic validation only
+    if (!rating) {
+      return NextResponse.json({ error: 'Rating is required' }, { status: 400 });
+    }
+
+    if (!reviewText) {
+      return NextResponse.json({ error: 'Review text is required' }, { status: 400 });
+    }
+
+    // Get user's username (or use Anonymous for non-authenticated users)
+    let studentName = 'Anonymous User';
+    if (isAuthenticated && userId) {
+      try {
+        const userDoc = await getDoc(doc(db, 'users', userId));
+        if (userDoc.exists()) {
+          const userData = userDoc.data();
+          // Use username if available, fallback to displayName, then Anonymous
+          studentName = userData.username || userData.displayName || 'Anonymous User';
+        }
+              } catch (error) {
+          console.log('Could not fetch user data, using Anonymous');
+        }
+      }
+
+      console.log('Using student name:', studentName, isAuthenticated ? '(authenticated user)' : '(anonymous user)');
+
+      // Create the review
+    const reviewData: ReviewData & { userId: string; createdAt: Date } = {
+      userId: effectiveUserId, // Use effective user ID (works for both auth and anonymous)
+      studentId: effectiveUserId,
+      studentName,
+      rating: Number(rating), // Ensure it's a number
+      reviewText: String(reviewText).trim(),
       sport: sport || null,
       createdAt: new Date()
     };
+
+    console.log('Writing review to Firestore:', {
+      collection: `coaches/${coachId}/reviews`,
+      data: reviewData
+    });
 
     const reviewRef = await addDoc(
       collection(db, 'coaches', coachId, 'reviews'),
       reviewData
     );
+    
+    console.log('Review created successfully with ID:', reviewRef.id);
 
     // Update coach's average rating and review count
     await updateCoachRating(coachId);
@@ -84,7 +111,17 @@ export async function POST(
 
   } catch (error) {
     console.error('Error creating review:', error);
-    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
+    
+    // More detailed error logging
+    if (error instanceof Error) {
+      console.error('Error message:', error.message);
+      console.error('Error stack:', error.stack);
+    }
+    
+    return NextResponse.json({ 
+      error: 'Internal server error',
+      details: error instanceof Error ? error.message : 'Unknown error'
+    }, { status: 500 });
   }
 }
 
@@ -123,30 +160,60 @@ export async function GET(
 // Helper function to update coach's average rating
 async function updateCoachRating(coachId: string) {
   try {
+    console.log('Updating coach rating for:', coachId);
+    
     const reviewsQuery = query(collection(db, 'coaches', coachId, 'reviews'));
     const reviewsSnapshot = await getDocs(reviewsQuery);
     
-    if (reviewsSnapshot.empty) return;
+    if (reviewsSnapshot.empty) {
+      console.log('No reviews found for coach:', coachId);
+      return;
+    }
 
     let totalRating = 0;
     let reviewCount = 0;
 
     reviewsSnapshot.forEach(doc => {
       const data = doc.data();
-      totalRating += data.rating;
-      reviewCount++;
+      if (data.rating && typeof data.rating === 'number') {
+        totalRating += data.rating;
+        reviewCount++;
+      }
     });
 
+    if (reviewCount === 0) {
+      console.log('No valid ratings found for coach:', coachId);
+      return;
+    }
+
     const averageRating = totalRating / reviewCount;
+    
+    console.log('Calculated stats:', {
+      coachId,
+      totalRating,
+      reviewCount,
+      averageRating: Math.round(averageRating * 10) / 10
+    });
 
     // Update coach document
-    await updateDoc(doc(db, 'coaches', coachId), {
+    const updateData = {
       averageRating: Math.round(averageRating * 10) / 10, // Round to 1 decimal place
       totalReviews: reviewCount,
       updatedAt: new Date()
-    });
+    };
+
+    await updateDoc(doc(db, 'coaches', coachId), updateData);
+    console.log('Successfully updated coach rating:', coachId);
 
   } catch (error) {
     console.error('Error updating coach rating:', error);
+    
+    // More detailed error logging
+    if (error instanceof Error) {
+      console.error('Error message:', error.message);
+      console.error('Error stack:', error.stack);
+    }
+    
+    // Don't throw the error - let the review creation succeed even if rating update fails
   }
 } 

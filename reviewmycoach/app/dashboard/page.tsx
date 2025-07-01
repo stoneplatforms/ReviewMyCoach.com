@@ -16,7 +16,7 @@ interface Review {
 
 export default function Dashboard() {
   const [user, setUser] = useState<User | null>(null);
-  const [userRole, setUserRole] = useState<'student' | 'coach' | null>(null);
+  const [userRole, setUserRole] = useState<'student' | 'coach' | 'admin' | null>(null);
   const [userReviews, setUserReviews] = useState<Review[]>([]);
 
   const [loadingReviews, setLoadingReviews] = useState(false);
@@ -36,8 +36,8 @@ export default function Dashboard() {
           return;
         }
         
-        // Redirect coaches to their specific dashboard
-        if (userData.role === 'coach') {
+        // Redirect coaches to their specific dashboard (unless they're admin)
+        if (userData.role === 'coach' && userData.role !== 'admin') {
           setTimeout(() => router.push('/dashboard/coach'), 100);
           return;
         }
@@ -163,21 +163,64 @@ export default function Dashboard() {
           Welcome back, {user?.displayName || user?.email?.split('@')[0] || 'User'}!
         </h1>
         <p className="mt-2 text-gray-600">
-          {userRole === 'coach' 
+          {userRole === 'admin'
+            ? "Administrator dashboard - manage reviews and coaches"
+            : userRole === 'coach' 
             ? "Manage your coaching profile and view your reviews"
             : "Here&apos;s what&apos;s happening with your ReviewMyCoach activity"
           }
         </p>
         <div className="mt-2">
           <span className={`inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium ${
-            userRole === 'coach' 
+            userRole === 'admin'
+              ? 'bg-red-100 text-red-800'
+              : userRole === 'coach' 
               ? 'bg-blue-100 text-blue-800' 
               : 'bg-green-100 text-green-800'
           }`}>
-            {userRole === 'coach' ? 'Coach' : 'Student'}
+            {userRole === 'admin' ? 'Administrator' : userRole === 'coach' ? 'Coach' : 'Student'}
           </span>
         </div>
       </div>
+
+      {/* Admin Panel Section */}
+      {userRole === 'admin' && (
+        <div className="mb-8">
+          <div className="bg-red-50 border-l-4 border-red-400 p-4">
+            <div className="flex">
+              <div className="flex-shrink-0">
+                <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
+                  <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+                </svg>
+              </div>
+              <div className="ml-3">
+                <h3 className="text-sm font-medium text-red-800">
+                  Administrator Access
+                </h3>
+                <div className="mt-2 text-sm text-red-700">
+                  <p>You have administrator privileges. Access admin features to manage the platform.</p>
+                </div>
+                <div className="mt-4">
+                  <div className="-mx-2 -my-1.5 flex space-x-2">
+                    <Link
+                      href="/admin"
+                      className="bg-red-100 px-3 py-2 rounded-md text-sm font-medium text-red-800 hover:bg-red-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600"
+                    >
+                      Admin Panel
+                    </Link>
+                    <Link
+                      href="/admin/coach-onboarding"
+                      className="bg-red-100 px-3 py-2 rounded-md text-sm font-medium text-red-800 hover:bg-red-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-red-50 focus:ring-red-600"
+                    >
+                      Add Coach
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* Stats Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">

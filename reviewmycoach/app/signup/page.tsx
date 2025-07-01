@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { createUserWithEmailAndPassword, signInWithPopup, GoogleAuthProvider, updateProfile } from 'firebase/auth';
-import { doc, setDoc } from 'firebase/firestore';
+import { doc, setDoc, query, where, getDocs, collection } from 'firebase/firestore';
 import { auth, db } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
@@ -22,6 +22,7 @@ export default function SignUp() {
     firstName: '',
     lastName: '',
     email: '',
+    username: '',
     password: '',
     confirmPassword: ''
   });
@@ -29,6 +30,8 @@ export default function SignUp() {
   const [loading, setLoading] = useState(false);
   const [acceptTerms, setAcceptTerms] = useState(false);
   const [recaptchaLoaded, setRecaptchaLoaded] = useState(false);
+  const [usernameAvailable, setUsernameAvailable] = useState<boolean | null>(null);
+  const [checkingUsername, setCheckingUsername] = useState(false);
   const router = useRouter();
 
   useEffect(() => {
@@ -118,12 +121,55 @@ export default function SignUp() {
     }
   };
 
+  const checkUsernameAvailability = async (username: string) => {
+    if (!username || username.length < 3) {
+      setUsernameAvailable(null);
+      return;
+    }
+
+    setCheckingUsername(true);
+    try {
+      const usernameQuery = query(
+        collection(db, 'users'),
+        where('username', '==', username.toLowerCase())
+      );
+      const querySnapshot = await getDocs(usernameQuery);
+      setUsernameAvailable(querySnapshot.empty);
+    } catch (error) {
+      console.error('Error checking username:', error);
+      setUsernameAvailable(null);
+    } finally {
+      setCheckingUsername(false);
+    }
+  };
+
+  // Debounced username check
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      if (formData.username) {
+        checkUsernameAvailability(formData.username);
+      }
+    }, 500);
+
+    return () => clearTimeout(timer);
+  }, [formData.username]);
+
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const { name, value } = e.target;
-    setFormData(prev => ({
-      ...prev,
-      [name]: value
-    }));
+    
+    if (name === 'username') {
+      // Format username: lowercase, alphanumeric + underscores only
+      const formattedValue = value.toLowerCase().replace(/[^a-z0-9_]/g, '');
+      setFormData(prev => ({
+        ...prev,
+        [name]: formattedValue
+      }));
+    } else {
+      setFormData(prev => ({
+        ...prev,
+        [name]: value
+      }));
+    }
   };
 
   const validateForm = () => {
@@ -133,6 +179,26 @@ export default function SignUp() {
     }
     if (!formData.lastName.trim()) {
       setError('Last name is required');
+      return false;
+    }
+    if (!formData.username.trim()) {
+      setError('Username is required');
+      return false;
+    }
+    if (formData.username.length < 3) {
+      setError('Username must be at least 3 characters');
+      return false;
+    }
+    if (formData.username.length > 20) {
+      setError('Username must be less than 20 characters');
+      return false;
+    }
+    if (!/^[a-z0-9_]+$/.test(formData.username)) {
+      setError('Username can only contain lowercase letters, numbers, and underscores');
+      return false;
+    }
+    if (usernameAvailable === false) {
+      setError('This username is already taken');
       return false;
     }
     if (!formData.email.trim()) {
@@ -154,17 +220,25 @@ export default function SignUp() {
     return true;
   };
 
-  const createUserDocument = async (user: { uid: string; email: string | null; displayName: string | null }, additionalData = {}) => {
+  const createUserDocument = async (user: { uid: string; email: string | null; displayName: string | null }, additionalData: any = {}) => {
     if (!user) return;
     
     const userRef = doc(db, 'users', user.uid);
     const displayName = user.displayName || `${formData.firstName} ${formData.lastName}`.trim();
+    
+    // Use provided username from additionalData or form data
+    const username = additionalData.username || formData.username?.toLowerCase();
+    if (!username) {
+      throw new Error('Username is required');
+    }
+    
     const userData = {
       userId: user.uid,
       email: user.email,
       displayName: displayName,
-      firstName: formData.firstName || user.displayName?.split(' ')[0] || '',
-      lastName: formData.lastName || user.displayName?.split(' ')[1] || '',
+      username: username,
+      firstName: formData.firstName || additionalData.firstName || user.displayName?.split(' ')[0] || '',
+      lastName: formData.lastName || additionalData.lastName || user.displayName?.split(' ')[1] || '',
       createdAt: new Date(),
       role: 'user',
       onboardingCompleted: false,
@@ -176,6 +250,7 @@ export default function SignUp() {
       await setDoc(userRef, userData);
     } catch (error) {
       console.error('Error creating user document:', error);
+      throw error;
     }
   };
 
@@ -227,6 +302,27 @@ export default function SignUp() {
     }
   };
 
+  const generateUniqueUsername = async (baseName: string): Promise<string> => {
+    const baseUsername = baseName.toLowerCase().replace(/[^a-z0-9]/g, '');
+    let username = baseUsername;
+    let counter = 1;
+
+    while (true) {
+      const usernameQuery = query(
+        collection(db, 'users'),
+        where('username', '==', username)
+      );
+      const querySnapshot = await getDocs(usernameQuery);
+      
+      if (querySnapshot.empty) {
+        return username;
+      }
+      
+      username = `${baseUsername}${counter}`;
+      counter++;
+    }
+  };
+
   const handleGoogleSignUp = async () => {
     setLoading(true);
     setError('');
@@ -235,10 +331,15 @@ export default function SignUp() {
     try {
       const { user } = await signInWithPopup(auth, provider);
       
+      // Generate username from display name or email
+      const baseName = user.displayName || user.email?.split('@')[0] || 'user';
+      const generatedUsername = await generateUniqueUsername(baseName);
+      
       // Create user document in Firestore
       await createUserDocument(user, {
         firstName: user.displayName?.split(' ')[0] || '',
-        lastName: user.displayName?.split(' ')[1] || ''
+        lastName: user.displayName?.split(' ')[1] || '',
+        username: generatedUsername
       });
 
       router.push('/onboarding');
@@ -326,6 +427,63 @@ export default function SignUp() {
               </div>
             </div>
 
+            {/* Username Field */}
+            <div>
+              <label htmlFor="username" className="block text-sm font-medium text-gray-700">
+                Username
+              </label>
+              <div className="mt-1 relative">
+                <input
+                  id="username"
+                  name="username"
+                  type="text"
+                  required
+                  value={formData.username}
+                  onChange={handleInputChange}
+                  className={`appearance-none relative block w-full px-3 py-2 border placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm ${
+                    usernameAvailable === false ? 'border-red-300' : 
+                    usernameAvailable === true ? 'border-green-300' : 'border-gray-300'
+                  }`}
+                  placeholder="Choose a unique username"
+                />
+                {checkingUsername && (
+                  <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
+                    <svg className="animate-spin h-4 w-4 text-gray-400" fill="none" viewBox="0 0 24 24">
+                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                    </svg>
+                  </div>
+                )}
+                {!checkingUsername && usernameAvailable === true && (
+                  <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
+                    <svg className="h-4 w-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                )}
+                {!checkingUsername && usernameAvailable === false && (
+                  <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
+                    <svg className="h-4 w-4 text-red-500" fill="currentColor" viewBox="0 0 20 20">
+                      <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                    </svg>
+                  </div>
+                )}
+              </div>
+              <p className="mt-1 text-xs text-gray-500">
+                3-20 characters, lowercase letters, numbers, and underscores only
+              </p>
+              {usernameAvailable === false && (
+                <p className="mt-1 text-xs text-red-600">
+                  This username is already taken
+                </p>
+              )}
+              {usernameAvailable === true && (
+                <p className="mt-1 text-xs text-green-600">
+                  Username is available
+                </p>
+              )}
+            </div>
+
             {/* Display Name Preview */}
             {(formData.firstName || formData.lastName) && (
               <div className="bg-blue-50 border border-blue-200 rounded-md p-3">
@@ -339,6 +497,18 @@ export default function SignUp() {
                     </span>
                   </span>
                 </div>
+                {formData.username && (
+                  <div className="flex items-center mt-1">
+                    <svg className="w-4 h-4 text-blue-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+                    </svg>
+                    <span className="text-sm text-blue-700">
+                      Your profile URL will be: <span className="font-medium">
+                        reviewmycoach.com/coach/{formData.username}
+                      </span>
+                    </span>
+                  </div>
+                )}
               </div>
             )}
 

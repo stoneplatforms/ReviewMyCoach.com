@@ -107,18 +107,12 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   };
 
   const handleBookSession = () => {
-    if (!user) {
-      router.push('/signin?redirect=' + encodeURIComponent(window.location.pathname));
-      return;
-    }
+    // Allow anyone to attempt booking (modal will handle contact info)
     setShowBookingModal(true);
   };
 
   const handleWriteReview = () => {
-    if (!user) {
-      router.push('/signin?redirect=' + encodeURIComponent(window.location.pathname));
-      return;
-    }
+    // Allow anyone to write reviews, even if not logged in
     setShowReviewModal(true);
   };
 

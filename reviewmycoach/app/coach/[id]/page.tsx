@@ -1,5 +1,5 @@
 import { Suspense } from 'react';
-import { doc, getDoc, collection, query, orderBy, limit, getDocs } from 'firebase/firestore';
+import { doc, getDoc, collection, query, orderBy, limit, getDocs, where } from 'firebase/firestore';
 import { db } from '../../lib/firebase-client';
 import { notFound } from 'next/navigation';
 import CoachProfileClient from './CoachProfileClient';
@@ -7,6 +7,7 @@ import CoachProfileClient from './CoachProfileClient';
 interface CoachProfile {
   id: string;
   userId: string;
+  username?: string;
   displayName: string;
   bio: string;
   sports: string[];
@@ -40,9 +41,30 @@ interface Review {
   sport?: string;
 }
 
-async function getCoachProfile(id: string): Promise<CoachProfile | null> {
+async function getCoachProfile(idOrUsername: string): Promise<CoachProfile | null> {
   try {
-    const coachRef = doc(db, 'coaches', id);
+    // First, try to find by username
+    const usernameQuery = query(
+      collection(db, 'coaches'),
+      where('username', '==', idOrUsername.toLowerCase()),
+      limit(1)
+    );
+    
+    const usernameSnapshot = await getDocs(usernameQuery);
+    
+    if (!usernameSnapshot.empty) {
+      const coachDoc = usernameSnapshot.docs[0];
+      const data = coachDoc.data();
+      const serializedData = {
+        ...data,
+        createdAt: data.createdAt?.toDate().toISOString() || null,
+        updatedAt: data.updatedAt?.toDate().toISOString() || null,
+      };
+      return { id: coachDoc.id, ...serializedData } as unknown as CoachProfile;
+    }
+
+    // If not found by username, try by document ID (backward compatibility)
+    const coachRef = doc(db, 'coaches', idOrUsername);
     const coachSnap = await getDoc(coachRef);
     
     if (coachSnap.exists()) {
@@ -55,6 +77,7 @@ async function getCoachProfile(id: string): Promise<CoachProfile | null> {
       };
       return { id: coachSnap.id, ...serializedData } as unknown as CoachProfile;
     }
+    
     return null;
   } catch (error) {
     console.error('Error fetching coach profile:', error);
@@ -99,13 +122,16 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     };
   }
 
+  const profileUrl = coach.username ? `@${coach.username}` : coach.displayName;
+  
   return {
-    title: `${coach.displayName} - Coach Profile | ReviewMyCoach`,
-    description: coach.bio || `${coach.displayName} - Professional coach specializing in ${coach.sports.join(', ')}`,
+    title: `${coach.displayName} (${profileUrl}) - Coach Profile | ReviewMyCoach`,
+    description: coach.bio || `${coach.displayName} - Professional coach specializing in ${coach.sports.join(', ')}. View reviews and book sessions.`,
     openGraph: {
-      title: `${coach.displayName} - Coach Profile`,
+      title: `${coach.displayName} - Professional Coach`,
       description: coach.bio || `Professional coach specializing in ${coach.sports.join(', ')}`,
       type: 'profile',
+      url: coach.username ? `/coach/${coach.username}` : `/coach/${coach.id}`,
     },
   };
 }

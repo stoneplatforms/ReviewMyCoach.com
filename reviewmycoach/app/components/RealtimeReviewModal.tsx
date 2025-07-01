@@ -31,10 +31,7 @@ export default function RealtimeReviewModal({
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
-    if (!user) {
-      setError('You must be logged in to submit a review');
-      return;
-    }
+    // No longer require user to be logged in
 
     if (rating === 0) {
       setError('Please select a rating');
@@ -55,15 +52,23 @@ export default function RealtimeReviewModal({
     setError(null);
 
     try {
-      // Get the user's ID token
-      const token = await user.getIdToken();
+      // Get the user's ID token if user is logged in
+      const headers: Record<string, string> = {
+        'Content-Type': 'application/json'
+      };
+      
+      if (user) {
+        try {
+          const token = await user.getIdToken();
+          headers['Authorization'] = `Bearer ${token}`;
+        } catch (error) {
+          console.log('Could not get auth token, submitting as anonymous');
+        }
+      }
 
       const response = await fetch(`/api/coaches/${coachId}/reviews`, {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${token}`
-        },
+        headers,
         body: JSON.stringify({
           rating,
           reviewText: reviewText.trim(),

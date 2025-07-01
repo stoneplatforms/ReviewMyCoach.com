@@ -28,6 +28,7 @@ interface Class {
 
 interface CoachProfile {
   id: string;
+  username?: string;
   displayName: string;
   bio: string;
   sports: string[];
@@ -141,6 +142,10 @@ export default function CoachDashboard() {
     );
   }
 
+  // Generate profile URL using username if available, fallback to UID
+  const profileUrl = coachProfile?.username ? `/coach/${coachProfile.username}` : `/coach/${user?.uid}`;
+  const fullProfileUrl = typeof window !== 'undefined' ? `${window.location.origin}${profileUrl}` : profileUrl;
+
   const stats = [
     {
       name: 'Average Rating',
@@ -220,10 +225,10 @@ export default function CoachDashboard() {
               </svg>
               Edit Profile
             </Link>
-                        <Link
-               href={`/coach/${user?.uid}`}
-               className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
-             >
+                                    <Link
+              href={profileUrl}
+              className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
+            >
                <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
@@ -231,7 +236,7 @@ export default function CoachDashboard() {
                View Public Profile
              </Link>
              <button
-               onClick={() => navigator.clipboard.writeText(`${window.location.origin}/coach/${user?.uid}`)}
+               onClick={() => navigator.clipboard.writeText(fullProfileUrl)}
                className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
              >
                <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -266,7 +271,7 @@ export default function CoachDashboard() {
                     Complete Profile
                   </Link>
                   <Link
-                    href={`/coach/${user?.uid}`}
+                    href={profileUrl}
                     className="text-sm text-yellow-700 underline hover:text-yellow-600"
                   >
                     Preview Public Profile →
@@ -426,12 +431,12 @@ export default function CoachDashboard() {
               </label>
               <div className="flex items-center space-x-2">
                 <code className="flex-1 px-3 py-2 bg-gray-50 border border-gray-200 rounded-md text-sm text-gray-600 font-mono break-all">
-                  {typeof window !== 'undefined' ? `${window.location.origin}/coach/${user?.uid}` : `/coach/${user?.uid}`}
+                  {fullProfileUrl}
                 </code>
                 <button
                   onClick={() => {
                     if (typeof window !== 'undefined') {
-                      navigator.clipboard.writeText(`${window.location.origin}/coach/${user?.uid}`);
+                      navigator.clipboard.writeText(fullProfileUrl);
                     }
                   }}
                   className="p-2 text-gray-500 hover:text-gray-700 transition-colors"
@@ -446,7 +451,7 @@ export default function CoachDashboard() {
             
             <div className="flex space-x-2">
               <Link
-                href={`/coach/${user?.uid}`}
+                href={profileUrl}
                 target="_blank"
                 className="flex-1 text-center px-3 py-2 bg-blue-600 text-white text-sm rounded-md hover:bg-blue-700 transition-colors"
               >

@@ -54,9 +54,19 @@ export default function Onboarding() {
 
       // If user selected coach, create a public coach profile
       if (selectedRole === 'coach') {
+        // Get user data to access username
+        const userDoc = await getDoc(userRef);
+        const userData = userDoc.data();
+        const username = userData?.username;
+        
+        if (!username) {
+          throw new Error('Username not found for coach profile creation');
+        }
+
         const coachRef = doc(db, 'coaches', user.uid);
         await setDoc(coachRef, {
           userId: user.uid,
+          username: username,
           displayName: user.displayName || 'Coach',
           email: user.email,
           bio: '',

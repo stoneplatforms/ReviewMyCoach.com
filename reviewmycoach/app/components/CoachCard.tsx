@@ -5,6 +5,7 @@ import Image from 'next/image';
 
 interface Coach {
   id: string;
+  username?: string;
   displayName: string;
   bio: string;
   sports: string[];
@@ -45,9 +46,12 @@ export default function CoachCard({ coach }: CoachCardProps) {
     );
   };
 
+  // Use username for URL if available, fallback to ID for backward compatibility
+  const profileUrl = coach.username ? `/coach/${coach.username}` : `/coach/${coach.id}`;
+
   return (
     <Link
-      href={`/coach/${coach.id}`}
+      href={profileUrl}
       className="block bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-200 overflow-hidden group"
     >
       <div className="p-6">
