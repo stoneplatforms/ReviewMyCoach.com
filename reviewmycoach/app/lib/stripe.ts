@@ -1,20 +1,25 @@
 import Stripe from 'stripe';
 
-if (!process.env.STRIPE_SECRET_KEY) {
-  throw new Error('STRIPE_SECRET_KEY is not set in environment variables');
-}
-
-export const stripe = new Stripe(process.env.STRIPE_SECRET_KEY, {
-  typescript: true,
-});
+let stripeInstance: Stripe | null = null;
 
 export const getStripeInstance = () => {
-  return stripe;
+  if (!stripeInstance) {
+    if (!process.env.STRIPE_SECRET_KEY) {
+      throw new Error('STRIPE_SECRET_KEY is not set in environment variables');
+    }
+    
+    stripeInstance = new Stripe(process.env.STRIPE_SECRET_KEY, {
+      typescript: true,
+    });
+  }
+  
+  return stripeInstance;
 };
 
 // Stripe Connect specific functions
 export const createConnectAccount = async (email: string, country: string = 'US') => {
   try {
+    const stripe = getStripeInstance();
     const account = await stripe.accounts.create({
       type: 'express',
       email,
@@ -33,6 +38,7 @@ export const createConnectAccount = async (email: string, country: string = 'US'
 
 export const createAccountLink = async (accountId: string, returnUrl: string, refreshUrl: string) => {
   try {
+    const stripe = getStripeInstance();
     const accountLink = await stripe.accountLinks.create({
       account: accountId,
       refresh_url: refreshUrl,
@@ -48,6 +54,7 @@ export const createAccountLink = async (accountId: string, returnUrl: string, re
 
 export const getConnectAccount = async (accountId: string) => {
   try {
+    const stripe = getStripeInstance();
     const account = await stripe.accounts.retrieve(accountId);
     return account;
   } catch (error) {
@@ -64,6 +71,7 @@ export const createPaymentIntent = async (
   metadata: Record<string, string> = {}
 ) => {
   try {
+    const stripe = getStripeInstance();
     const paymentIntent = await stripe.paymentIntents.create({
       amount,
       currency,
@@ -87,6 +95,7 @@ export const createProduct = async (
   metadata: Record<string, string> = {}
 ) => {
   try {
+    const stripe = getStripeInstance();
     const product = await stripe.products.create({
       name,
       description,
@@ -112,6 +121,7 @@ export const createPrice = async (
   }
 ) => {
   try {
+    const stripe = getStripeInstance();
     const price = await stripe.prices.create({
       product: productId,
       unit_amount: unitAmount,

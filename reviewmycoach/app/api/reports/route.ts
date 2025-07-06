@@ -73,7 +73,7 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
-    const decodedToken = await auth.verifyIdToken(token);
+    await auth.verifyIdToken(token);
     
     // Check if user is admin (you'll need to implement this check)
     // For now, we'll just return the reports

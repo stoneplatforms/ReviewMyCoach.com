@@ -49,6 +49,7 @@ export default function AdminDashboard() {
     });
 
     return () => unsubscribe();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [router]);
 
   const checkAdminAccess = async (user: User) => {
@@ -208,7 +209,7 @@ export default function AdminDashboard() {
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-gray-900">Access Denied</h1>
-          <p className="text-gray-600 mt-2">You don't have admin privileges.</p>
+          <p className="text-gray-600 mt-2">You don&apos;t have admin privileges.</p>
         </div>
       </div>
     );
@@ -364,7 +365,7 @@ export default function AdminDashboard() {
                             Coach: {report.reviewData.coachName}
                           </p>
                           <p className="text-sm text-gray-800 bg-white p-2 rounded border">
-                            "{report.reviewData.reviewText}"
+                            &quot;{report.reviewData.reviewText}&quot;
                           </p>
                         </div>
                       )}

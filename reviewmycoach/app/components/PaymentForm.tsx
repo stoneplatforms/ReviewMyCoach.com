@@ -91,7 +91,7 @@ export default function PaymentForm({
       } else if (paymentIntent && paymentIntent.status === 'succeeded') {
         onSuccess();
       }
-    } catch (error) {
+    } catch {
       onError('Payment processing failed');
     } finally {
       setLoading(false);
@@ -256,7 +256,7 @@ export default function PaymentForm({
           <div>
             <h5 className="text-sm font-medium text-gray-900">Secure Payment</h5>
             <p className="text-sm text-gray-600 mt-1">
-              Your payment is processed securely by Stripe. We don't store your card information.
+              Your payment is processed securely by Stripe. We don&apos;t store your card information.
               Funds are held in escrow until the coach completes your session.
             </p>
           </div>

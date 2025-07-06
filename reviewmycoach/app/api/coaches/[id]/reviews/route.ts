@@ -29,7 +29,7 @@ export async function POST(
         const decodedToken = await auth.verifyIdToken(token);
         userId = decodedToken.uid;
         isAuthenticated = true;
-      } catch (error) {
+      } catch {
         console.log('Invalid token provided, treating as anonymous user');
         // Continue as anonymous user
       }
@@ -70,7 +70,7 @@ export async function POST(
           // Use username if available, fallback to displayName, then Anonymous
           studentName = userData.username || userData.displayName || 'Anonymous User';
         }
-              } catch (error) {
+              } catch {
           console.log('Could not fetch user data, using Anonymous');
         }
       }

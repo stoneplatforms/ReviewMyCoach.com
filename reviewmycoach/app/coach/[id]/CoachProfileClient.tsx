@@ -1,9 +1,8 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { User } from 'firebase/auth';
 import { auth } from '../../lib/firebase-client';
-import { useRouter } from 'next/navigation';
 import Image from 'next/image';
 import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtimeReviews';
 import RealtimeReviewModal from '../../components/RealtimeReviewModal';
@@ -67,8 +66,6 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   const [showBookingModal, setShowBookingModal] = useState(false);
   const [showReviewModal, setShowReviewModal] = useState(false);
   const [services, setServices] = useState<Service[]>([]);
-  const [servicesLoading, setServicesLoading] = useState(true);
-  const router = useRouter();
 
   // Use real-time hooks
   const { 
@@ -85,18 +82,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   const coach = realtimeCoach || initialCoach;
   const reviews = realtimeReviews.length > 0 ? realtimeReviews : initialReviews;
 
-  useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
-      setUser(user);
-    });
-    return () => unsubscribe();
-  }, []);
-
-  useEffect(() => {
-    fetchServices();
-  }, [coach.id]);
-
-  const fetchServices = async () => {
+  const fetchServices = useCallback(async () => {
     try {
       const response = await fetch(`/api/services?coachId=${coach.id}&isActive=true`);
       if (response.ok) {
@@ -106,9 +92,20 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
     } catch (error) {
       console.error('Error fetching services:', error);
     } finally {
-      setServicesLoading(false);
+      // Loading complete
     }
-  };
+  }, [coach.id]);
+
+  useEffect(() => {
+    const unsubscribe = auth.onAuthStateChanged((user) => {
+      setUser(user);
+    });
+    return () => unsubscribe();
+  }, []);
+
+  useEffect(() => {
+    fetchServices();
+  }, [fetchServices]);
 
   const renderStarRating = (rating: number, size: 'sm' | 'md' | 'lg' = 'md') => {
     const sizeClasses = {

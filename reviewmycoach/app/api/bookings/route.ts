@@ -22,7 +22,7 @@ export async function POST(req: NextRequest) {
       try {
         const decodedToken = await auth.verifyIdToken(idToken);
         userId = decodedToken.uid;
-      } catch (error) {
+      } catch {
         console.log('Invalid token, proceeding as guest booking');
       }
     }
@@ -130,7 +130,6 @@ export async function POST(req: NextRequest) {
 export async function GET(req: NextRequest) {
   try {
     const { searchParams } = new URL(req.url);
-    const idToken = searchParams.get('idToken');
     const coachId = searchParams.get('coachId');
     const studentId = searchParams.get('studentId');
     const status = searchParams.get('status');

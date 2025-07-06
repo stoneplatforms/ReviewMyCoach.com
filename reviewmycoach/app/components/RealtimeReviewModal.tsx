@@ -61,7 +61,7 @@ export default function RealtimeReviewModal({
         try {
           const token = await user.getIdToken();
           headers['Authorization'] = `Bearer ${token}`;
-        } catch (error) {
+        } catch {
           console.log('Could not get auth token, submitting as anonymous');
         }
       }
