@@ -8,6 +8,7 @@ import Image from 'next/image';
 import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtimeReviews';
 import RealtimeReviewModal from '../../components/RealtimeReviewModal';
 import RealtimeDemo from '../../components/RealtimeDemo';
+import BookingModal from '../../components/BookingModal';
 
 interface CoachProfile {
   id: string;
@@ -45,6 +46,17 @@ interface Review {
   sport?: string;
 }
 
+interface Service {
+  id: string;
+  title: string;
+  description: string;
+  price: number;
+  duration: number;
+  category: string;
+  deliverables: string[];
+  isActive: boolean;
+}
+
 interface Props {
   coach: CoachProfile;
   reviews: Review[];
@@ -54,6 +66,8 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   const [user, setUser] = useState<User | null>(null);
   const [showBookingModal, setShowBookingModal] = useState(false);
   const [showReviewModal, setShowReviewModal] = useState(false);
+  const [services, setServices] = useState<Service[]>([]);
+  const [servicesLoading, setServicesLoading] = useState(true);
   const router = useRouter();
 
   // Use real-time hooks
@@ -77,6 +91,24 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
     });
     return () => unsubscribe();
   }, []);
+
+  useEffect(() => {
+    fetchServices();
+  }, [coach.id]);
+
+  const fetchServices = async () => {
+    try {
+      const response = await fetch(`/api/services?coachId=${coach.id}&isActive=true`);
+      if (response.ok) {
+        const data = await response.json();
+        setServices(data.services || []);
+      }
+    } catch (error) {
+      console.error('Error fetching services:', error);
+    } finally {
+      setServicesLoading(false);
+    }
+  };
 
   const renderStarRating = (rating: number, size: 'sm' | 'md' | 'lg' = 'md') => {
     const sizeClasses = {
@@ -217,12 +249,14 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
             {/* Action Buttons */}
             <div className="flex flex-wrap gap-3">
-              <button
-                onClick={handleBookSession}
-                className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors"
-              >
-                Book Session
-              </button>
+              {services.length > 0 && (
+                <button
+                  onClick={handleBookSession}
+                  className="px-6 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition-colors font-semibold"
+                >
+                  Hire Coach
+                </button>
+              )}
               <button
                 onClick={handleWriteReview}
                 className="px-6 py-2 border border-gray-300 text-gray-700 rounded-md hover:bg-gray-50 transition-colors"
@@ -265,6 +299,57 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   >
                     {specialty}
                   </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Services */}
+          {services.length > 0 && (
+            <div className="bg-white rounded-lg shadow p-6">
+              <h2 className="text-xl font-semibold text-gray-900 mb-4 flex items-center">
+                <svg className="w-5 h-5 text-green-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                </svg>
+                Available Services
+              </h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {services.map((service) => (
+                  <div key={service.id} className="border border-gray-200 rounded-lg p-4 hover:border-green-300 transition-colors">
+                    <div className="flex items-start justify-between mb-3">
+                      <h3 className="font-semibold text-gray-900">{service.title}</h3>
+                      <span className="text-lg font-bold text-green-600">${service.price}</span>
+                    </div>
+                    <p className="text-gray-600 text-sm mb-3">{service.description}</p>
+                    <div className="flex items-center justify-between text-sm text-gray-500 mb-3">
+                      <span>{service.duration} minutes</span>
+                      <span className="capitalize">{service.category.replace('-', ' ')}</span>
+                    </div>
+                    {service.deliverables.length > 0 && (
+                      <div className="mb-3">
+                        <h4 className="text-xs font-medium text-gray-700 mb-1">What you get:</h4>
+                        <ul className="text-xs text-gray-600 space-y-0.5">
+                          {service.deliverables.slice(0, 3).map((deliverable, index) => (
+                            <li key={index} className="flex items-start">
+                              <svg className="w-3 h-3 text-green-500 mr-1 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
+                              </svg>
+                              {deliverable}
+                            </li>
+                          ))}
+                          {service.deliverables.length > 3 && (
+                            <li className="text-gray-500">+{service.deliverables.length - 3} more...</li>
+                          )}
+                        </ul>
+                      </div>
+                    )}
+                    <button
+                      onClick={handleBookSession}
+                      className="w-full px-4 py-2 bg-green-600 text-white text-sm rounded-md hover:bg-green-700 transition-colors"
+                    >
+                      Book This Service
+                    </button>
+                  </div>
                 ))}
               </div>
             </div>
@@ -481,25 +566,18 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
         </div>
       </div>
 
-      {/* Booking Modal Placeholder */}
-      {showBookingModal && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
-          <div className="bg-white rounded-lg p-6 max-w-md w-full">
-            <h3 className="text-lg font-semibold mb-4">Book a Session</h3>
-            <p className="text-gray-600 mb-4">
-              Booking functionality coming soon! For now, please contact the coach directly.
-            </p>
-            <div className="flex justify-end space-x-3">
-              <button
-                onClick={() => setShowBookingModal(false)}
-                className="px-4 py-2 text-gray-600 hover:text-gray-800"
-              >
-                Close
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
+      {/* Booking Modal */}
+      <BookingModal
+        isOpen={showBookingModal}
+        onClose={() => setShowBookingModal(false)}
+        coach={{
+          id: coach.id,
+          displayName: coach.displayName,
+          profileImage: coach.profileImage,
+        }}
+        services={services}
+        user={user}
+      />
 
              {/* Real-time Review Modal */}
        <RealtimeReviewModal

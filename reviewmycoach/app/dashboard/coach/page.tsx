@@ -484,6 +484,69 @@ export default function CoachDashboard() {
             )}
           </div>
         </div>
+
+        {/* Services & Payment Setup */}
+        <div className="bg-white rounded-lg shadow p-6">
+          <h3 className="text-lg font-semibold text-gray-900 mb-4">Services & Payments</h3>
+          <div className="space-y-3">
+            <Link
+              href="/dashboard/coach/stripe"
+              className="flex items-center p-3 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors"
+            >
+              <div className="flex-shrink-0">
+                <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
+                </svg>
+              </div>
+              <div className="ml-3 flex-1">
+                <h4 className="text-sm font-medium text-gray-900">Payment Setup</h4>
+                <p className="text-xs text-gray-500">Connect Stripe to receive payments</p>
+              </div>
+              <div className="ml-auto">
+                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </Link>
+
+            <Link
+              href="/dashboard/coach/services"
+              className="flex items-center p-3 border border-gray-200 rounded-lg hover:bg-gray-50 transition-colors"
+            >
+              <div className="flex-shrink-0">
+                <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+                </svg>
+              </div>
+              <div className="ml-3 flex-1">
+                <h4 className="text-sm font-medium text-gray-900">My Services</h4>
+                <p className="text-xs text-gray-500">Create and manage services</p>
+              </div>
+              <div className="ml-auto">
+                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </Link>
+
+            <div className="text-xs text-gray-500 mt-4 p-3 bg-blue-50 rounded-lg">
+              <div className="flex items-start">
+                <svg className="w-4 h-4 text-blue-400 mr-2 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                </svg>
+                <div>
+                  <p className="font-medium text-blue-900 mb-1">Start earning from coaching:</p>
+                  <ol className="list-decimal list-inside space-y-1 text-blue-800">
+                    <li>Connect Stripe to accept payments</li>
+                    <li>Create your coaching services</li>
+                    <li>Students book and pay automatically</li>
+                    <li>Get paid when you complete sessions</li>
+                  </ol>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   );

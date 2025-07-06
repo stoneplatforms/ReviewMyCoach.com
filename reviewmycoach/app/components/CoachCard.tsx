@@ -17,6 +17,7 @@ interface Coach {
   profileImage?: string;
   isVerified: boolean;
   specialties?: string[];
+  hasActiveServices?: boolean;
 }
 
 interface CoachCardProps {
@@ -94,6 +95,11 @@ export default function CoachCard({ coach }: CoachCardProps) {
                   Verified
                 </span>
               )}
+              {coach.hasActiveServices && (
+                <span className="inline-flex items-center px-1.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+                  Hireable
+                </span>
+              )}
             </div>
             <div className="flex items-center text-sm text-gray-500 mb-2">
               <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -144,11 +150,18 @@ export default function CoachCard({ coach }: CoachCardProps) {
               <span className="text-gray-500">Price on request</span>
             )}
           </div>
-          <div className="flex items-center text-blue-600 group-hover:text-blue-700 transition-colors">
-            <span className="text-sm font-medium">View Profile</span>
-            <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-            </svg>
+          <div className="flex items-center gap-2">
+            {coach.hasActiveServices && (
+              <span className="text-xs font-medium text-green-600 bg-green-50 px-2 py-1 rounded-full">
+                Available for Hire
+              </span>
+            )}
+            <div className="flex items-center text-blue-600 group-hover:text-blue-700 transition-colors">
+              <span className="text-sm font-medium">View Profile</span>
+              <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </div>
           </div>
         </div>
       </div>

@@ -145,5 +145,37 @@ service cloud.firestore {
       allow update: if true;
       allow delete: if true;
     }
+
+    // Services collection - EXTREMELY PERMISSIVE
+    match /services/{serviceId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+    }
+
+    // Bookings collection - EXTREMELY PERMISSIVE
+    match /bookings/{bookingId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+    }
+
+    // Stripe accounts collection - EXTREMELY PERMISSIVE
+    match /stripe_accounts/{accountId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+    }
+
+    // Payment intents collection - EXTREMELY PERMISSIVE
+    match /payment_intents/{paymentId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+    }
   }
 }
