@@ -18,8 +18,19 @@ export async function POST(req: NextRequest) {
       recurringInterval
     } = await req.json();
 
+    if (!idToken) {
+      return NextResponse.json({ error: 'Authentication token is required' }, { status: 401 });
+    }
+
     // Verify the user's authentication
-    const decodedToken = await auth.verifyIdToken(idToken);
+    let decodedToken;
+    try {
+      decodedToken = await auth.verifyIdToken(idToken);
+    } catch (authError) {
+      console.error('Auth verification failed:', authError);
+      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+    }
+    
     const userId = decodedToken.uid;
 
     // Check if user is a coach
@@ -116,7 +127,7 @@ export async function GET(req: NextRequest) {
     const coachId = searchParams.get('coachId');
     const category = searchParams.get('category');
     const isActive = searchParams.get('isActive');
-    const limit = parseInt(searchParams.get('limit') || '20');
+    const limit = Math.min(parseInt(searchParams.get('limit') || '20'), 100); // Max 100 items
 
     let query = db.collection('services').orderBy('createdAt', 'desc');
 

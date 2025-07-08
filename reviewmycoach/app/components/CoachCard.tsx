@@ -47,7 +47,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
     );
   };
 
-  // Use username for URL if available, fallback to ID for backward compatibility
+  // Use username for URL if available, fallback to ID-based route for backward compatibility
   const profileUrl = coach.username ? `/coach/${coach.username}` : `/coach/${coach.id}`;
 
   return (
