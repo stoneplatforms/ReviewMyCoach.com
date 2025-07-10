@@ -4,6 +4,8 @@ import { useState, useEffect, Suspense } from 'react';
 import { signInWithEmailAndPassword, signInWithPopup, GoogleAuthProvider } from 'firebase/auth';
 import { auth } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
+import { useAuth } from '../lib/hooks/useAuth';
+import LoadingSpinner from '../components/LoadingSpinner';
 import Link from 'next/link';
 
 function SignInForm() {
@@ -11,19 +13,16 @@ function SignInForm() {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+  const { user, loading: authLoading } = useAuth();
   const router = useRouter();
 
   // Check if user is already authenticated
   useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
-      if (user) {
-        // Always redirect to dashboard first, let dashboard handle onboarding check
-        router.push('/dashboard');
-      }
-    });
-
-    return () => unsubscribe();
-  }, [router]);
+    if (!authLoading && user) {
+      // Always redirect to dashboard first, let dashboard handle onboarding check
+      router.push('/dashboard');
+    }
+  }, [user, authLoading, router]);
 
   const handleEmailSignIn = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -54,6 +53,11 @@ function SignInForm() {
       setLoading(false);
     }
   };
+
+  // Show loading state during auth check to prevent hydration mismatch
+  if (authLoading || user) {
+    return <LoadingSpinner fullScreen />;
+  }
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
@@ -212,11 +216,7 @@ function SignInForm() {
 
 export default function SignIn() {
   return (
-    <Suspense fallback={
-      <div className="min-h-screen flex items-center justify-center bg-gray-50">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
-      </div>
-    }>
+    <Suspense fallback={<LoadingSpinner fullScreen />}>
       <SignInForm />
     </Suspense>
   );

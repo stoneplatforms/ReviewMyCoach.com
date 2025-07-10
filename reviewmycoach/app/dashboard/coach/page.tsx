@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { User } from 'firebase/auth';
 import { collection, query, where, getDocs, orderBy, doc, getDoc, limit } from 'firebase/firestore';
 import { auth, db } from '../../lib/firebase-client';
 import { useRouter } from 'next/navigation';
@@ -42,7 +41,6 @@ interface CoachProfile {
 }
 
 export default function CoachDashboard() {
-  const [user, setUser] = useState<User | null>(null);
   const [coachProfile, setCoachProfile] = useState<CoachProfile | null>(null);
   const [reviews, setReviews] = useState<Review[]>([]);
   const [classes, setClasses] = useState<Class[]>([]);
@@ -52,7 +50,6 @@ export default function CoachDashboard() {
 
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged(async (user) => {
-      setUser(user);
       if (user) {
         await fetchCoachData(user.uid);
       } else {
@@ -143,8 +140,8 @@ export default function CoachDashboard() {
   }
 
   // Generate profile URL using username if available, fallback to UID
-  const profileUrl = coachProfile?.username ? `/coach/${coachProfile.username}` : `/coach/${user?.uid}`;
-  const fullProfileUrl = typeof window !== 'undefined' ? `${window.location.origin}${profileUrl}` : profileUrl;
+  const profileUrl = coachProfile?.username ? `/coach/${coachProfile.username}` : null;
+  const fullProfileUrl = profileUrl && typeof window !== 'undefined' ? `${window.location.origin}${profileUrl}` : null;
 
   const stats = [
     {
@@ -217,7 +214,7 @@ export default function CoachDashboard() {
           </div>
           <div className="flex space-x-3">
             <Link
-              href="/dashboard/coach/profile/edit"
+              href="/profile"
               className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
             >
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -225,25 +222,33 @@ export default function CoachDashboard() {
               </svg>
               Edit Profile
             </Link>
-                                    <Link
-              href={profileUrl}
-              className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
-            >
-               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
-               </svg>
-               View Public Profile
-             </Link>
-             <button
-               onClick={() => navigator.clipboard.writeText(fullProfileUrl)}
-               className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
-             >
-               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
-               </svg>
-               Copy Profile Link
-             </button>
+            {profileUrl ? (
+              <>
+                <Link
+                  href={profileUrl}
+                  className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
+                >
+                  <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z" />
+                  </svg>
+                  View Public Profile
+                </Link>
+                <button
+                  onClick={() => navigator.clipboard.writeText(fullProfileUrl || '')}
+                  className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+                >
+                  <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                  </svg>
+                  Copy Profile Link
+                </button>
+              </>
+            ) : (
+              <div className="text-sm text-orange-600 bg-orange-50 border border-orange-200 rounded-md px-3 py-2">
+                Add a username in your profile to get a public profile link
+              </div>
+            )}
           </div>
         </div>
       </div>
@@ -265,17 +270,19 @@ export default function CoachDashboard() {
               <div className="mt-4">
                 <div className="flex space-x-3">
                   <Link
-                    href="/dashboard/coach/profile/edit"
+                    href="/profile"
                     className="text-sm bg-yellow-100 text-yellow-800 rounded-md px-3 py-2 font-medium hover:bg-yellow-200 transition-colors"
                   >
                     Complete Profile
                   </Link>
-                  <Link
-                    href={profileUrl}
-                    className="text-sm text-yellow-700 underline hover:text-yellow-600"
-                  >
-                    Preview Public Profile →
-                  </Link>
+                  {profileUrl && (
+                    <Link
+                      href={profileUrl}
+                      className="text-sm text-yellow-700 underline hover:text-yellow-600"
+                    >
+                      Preview Public Profile →
+                    </Link>
+                  )}
                 </div>
               </div>
             </div>
@@ -431,11 +438,11 @@ export default function CoachDashboard() {
               </label>
               <div className="flex items-center space-x-2">
                 <code className="flex-1 px-3 py-2 bg-gray-50 border border-gray-200 rounded-md text-sm text-gray-600 font-mono break-all">
-                  {fullProfileUrl}
+                  {fullProfileUrl || 'N/A'}
                 </code>
                 <button
                   onClick={() => {
-                    if (typeof window !== 'undefined') {
+                    if (fullProfileUrl) {
                       navigator.clipboard.writeText(fullProfileUrl);
                     }
                   }}
@@ -450,13 +457,19 @@ export default function CoachDashboard() {
             </div>
             
             <div className="flex space-x-2">
-              <Link
-                href={profileUrl}
-                target="_blank"
-                className="flex-1 text-center px-3 py-2 bg-blue-600 text-white text-sm rounded-md hover:bg-blue-700 transition-colors"
-              >
-                View Profile
-              </Link>
+              {profileUrl ? (
+                <Link
+                  href={profileUrl}
+                  target="_blank"
+                  className="flex-1 text-center px-3 py-2 bg-blue-600 text-white text-sm rounded-md hover:bg-blue-700 transition-colors"
+                >
+                  View Profile
+                </Link>
+              ) : (
+                <div className="flex-1 text-center px-3 py-2 bg-gray-100 text-gray-500 text-sm rounded-md">
+                  Add username to view profile
+                </div>
+              )}
               <Link
                 href="/dashboard/coach/profile/edit"
                 className="flex-1 text-center px-3 py-2 border border-gray-300 text-gray-700 text-sm rounded-md hover:bg-gray-50 transition-colors"

@@ -19,6 +19,7 @@ interface SearchParams {
 
 interface CoachData {
   id: string;
+  username?: string;
   displayName?: string;
   bio?: string;
   specialties?: string[];
@@ -123,6 +124,7 @@ export async function GET(request: NextRequest) {
       const data = doc.data();
       return {
         id: doc.id,
+        username: data.username, // Include username field for URL construction
         ...data,
         createdAt: data.createdAt?.toDate().toISOString() || null,
         updatedAt: data.updatedAt?.toDate().toISOString() || null,
@@ -138,16 +140,22 @@ export async function GET(request: NextRequest) {
     // Apply client-side filters for complex searches
     let filteredCoaches: CoachData[] = coaches;
 
+    // Filter out private profiles (isPublic = false)
+    filteredCoaches = filteredCoaches.filter(coach => 
+      coach.isPublic !== false // Default to true if not set
+    );
+
     // Text search across multiple fields
     if (params.search && params.search.trim()) {
       const searchTerm = params.search.toLowerCase().trim();
-      filteredCoaches = coaches.filter(coach => 
+      filteredCoaches = filteredCoaches.filter(coach => 
         coach.displayName?.toLowerCase().includes(searchTerm) ||
         coach.bio?.toLowerCase().includes(searchTerm) ||
         coach.specialties?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
         coach.sports?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
         coach.certifications?.some((c: string) => c.toLowerCase().includes(searchTerm)) ||
-        coach.location?.toLowerCase().includes(searchTerm)
+        coach.location?.toLowerCase().includes(searchTerm) ||
+        coach.username?.toLowerCase().includes(searchTerm)
       );
     }
 

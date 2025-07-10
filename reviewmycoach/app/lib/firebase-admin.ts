@@ -10,8 +10,8 @@ const requiredVars = {
 };
 
 const missingVars = Object.entries(requiredVars)
-  .filter(([_, value]) => !value)
-  .map(([key, _]) => key);
+  .filter(([, value]) => !value)
+  .map(([key]) => key);
 
 if (missingVars.length > 0) {
   console.error('Missing Firebase Admin environment variables:', missingVars);

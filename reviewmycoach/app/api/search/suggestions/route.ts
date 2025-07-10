@@ -45,15 +45,15 @@ export async function GET(request: NextRequest) {
           sports.some((sport: string) => sport.toLowerCase().includes(searchTermLower)) ||
           location.toLowerCase().includes(searchTermLower)
         ) {
-          // Use username for URL if available, fallback to document ID
-          const profileUrl = data.username ? `/coach/${data.username}` : `/coach/${doc.id}`;
-          
-          suggestions.push({
-            type: 'coach',
-            text: displayName,
-            subtitle: `${location} • ${sports.slice(0, 2).join(', ')} • ${data.averageRating?.toFixed(1) || '0.0'} stars`,
-            href: profileUrl
-          });
+          // Only include coaches that have usernames AND public profiles
+          if (data.username && data.isPublic !== false) {
+            suggestions.push({
+              type: 'coach',
+              text: displayName,
+              subtitle: `${location} • ${sports.slice(0, 2).join(', ')} • ${data.averageRating?.toFixed(1) || '0.0'} stars`,
+              href: `/coach/${data.username}`
+            });
+          }
         }
       });
     } catch (error) {

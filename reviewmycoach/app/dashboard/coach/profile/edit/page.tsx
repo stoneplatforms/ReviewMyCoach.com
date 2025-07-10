@@ -21,6 +21,9 @@ interface CoachProfile {
   profileImage?: string;
   phoneNumber?: string;
   website?: string;
+  email?: string;
+  emailVerified?: boolean;
+  isPublic?: boolean;
   socialMedia: {
     instagram?: string;
     twitter?: string;
@@ -206,6 +209,8 @@ export default function EditCoachProfile() {
       setSaving(false);
     }
   };
+
+
 
   if (loading) {
     return (
@@ -486,6 +491,8 @@ export default function EditCoachProfile() {
             </div>
           </div>
         </div>
+
+
 
         {/* Submit Buttons */}
         <div className="flex justify-end space-x-4">
