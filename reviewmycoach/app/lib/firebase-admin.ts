@@ -31,4 +31,24 @@ const app = !getApps().length ? initializeApp(firebaseAdminConfig) : getApps()[0
 const auth = getAuth(app);
 const db = getFirestore(app);
 
+/**
+ * Helper function to find a coach profile by userId
+ * Since coaches are stored by username (not userId), we need to query by the userId field
+ */
+export async function findCoachByUserId(userId: string) {
+  const coachesRef = db.collection('coaches');
+  const coachQuery = await coachesRef.where('userId', '==', userId).get();
+  
+  if (coachQuery.empty) {
+    return null;
+  }
+
+  const coachDoc = coachQuery.docs[0];
+  return {
+    doc: coachDoc,
+    data: coachDoc.data(),
+    ref: coachDoc.ref
+  };
+}
+
 export { app, auth, db };

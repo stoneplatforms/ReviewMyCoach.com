@@ -1,27 +1,18 @@
 'use client';
 
-import { useState, useEffect } from 'react';
-import { User, signOut } from 'firebase/auth';
+import { useState } from 'react';
+import { signOut } from 'firebase/auth';
 import { auth } from '../lib/firebase-client';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useRouter } from 'next/navigation';
 import GlobalSearchBar from './GlobalSearchBar';
+import { useAuth } from '../lib/hooks/useAuth';
 
 export default function Navbar() {
-  const [user, setUser] = useState<User | null>(null);
-  const [loading, setLoading] = useState(true);
+  const { user, loading, isCoach } = useAuth();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const router = useRouter();
-
-  useEffect(() => {
-    const unsubscribe = auth.onAuthStateChanged((user) => {
-      setUser(user);
-      setLoading(false);
-    });
-
-    return () => unsubscribe();
-  }, []);
 
   const handleSignOut = async () => {
     try {
@@ -125,6 +116,11 @@ export default function Navbar() {
                       <Link href="/settings" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
                         Settings
                       </Link>
+                      {isCoach && (
+                        <Link href="/subscription" className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100">
+                          Subscription
+                        </Link>
+                      )}
                       <hr className="my-1" />
                       <button
                         onClick={handleSignOut}
@@ -267,6 +263,15 @@ export default function Navbar() {
                   >
                     Settings
                   </Link>
+                  {isCoach && (
+                    <Link
+                      href="/subscription"
+                      onClick={closeMenu}
+                      className="block px-3 py-2 text-base font-medium text-gray-700 hover:text-blue-600"
+                    >
+                      Subscription
+                    </Link>
+                  )}
                   <button
                     onClick={handleSignOut}
                     className="block w-full text-left px-3 py-2 text-base font-medium text-red-600 hover:text-red-800"

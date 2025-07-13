@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getStripeInstance } from '../../../lib/stripe';
-import { auth, db } from '../../../lib/firebase-admin';
+import { auth, db, findCoachByUserId } from '../../../lib/firebase-admin';
 
 export async function POST(request: NextRequest) {
   try {
@@ -22,15 +22,14 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
-    // Verify the user is a coach
-    const coachRef = db.collection('coaches').doc(userId);
-    const coachDoc = await coachRef.get();
+    // Verify the user is a coach - query by userId field since coaches are stored by username
+    const coachProfile = await findCoachByUserId(userId);
     
-    if (!coachDoc.exists) {
+    if (!coachProfile) {
       return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
     }
 
-    const coachData = coachDoc.data();
+    const coachData = coachProfile.data;
     
     // Check if already subscribed
     if (coachData?.subscriptionStatus === 'active') {
@@ -52,7 +51,7 @@ export async function POST(request: NextRequest) {
       customerId = customer.id;
       
       // Update coach profile with customer ID
-      await coachRef.update({
+      await coachProfile.ref.update({
         stripeCustomerId: customerId
       });
     }

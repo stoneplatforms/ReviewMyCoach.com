@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getStripeInstance } from '../../../lib/stripe';
-import { auth, db } from '../../../lib/firebase-admin';
+import { auth, db, findCoachByUserId } from '../../../lib/firebase-admin';
 
 export async function POST(request: NextRequest) {
   try {
@@ -50,7 +50,12 @@ export async function POST(request: NextRequest) {
     }
 
     // Update coach profile with subscription information
-    const coachRef = db.collection('coaches').doc(decodedToken.uid);
+    const coachProfile = await findCoachByUserId(decodedToken.uid);
+    
+    if (!coachProfile) {
+      return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
+    }
+
     const updateData = {
       subscriptionStatus: 'active',
       subscriptionId: subscriptionId,
@@ -61,7 +66,7 @@ export async function POST(request: NextRequest) {
       updatedAt: new Date()
     };
 
-    await coachRef.update(updateData);
+    await coachProfile.ref.update(updateData);
 
     // Return subscription details
     return NextResponse.json({

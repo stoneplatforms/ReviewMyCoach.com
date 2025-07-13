@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { auth } from '../../lib/firebase-admin';
-import { db } from '../../lib/firebase-admin';
+import { db, findCoachByUserId } from '../../lib/firebase-admin';
 import { createProduct, createPrice } from '../../lib/stripe';
 
 export async function POST(req: NextRequest) {
@@ -34,10 +34,9 @@ export async function POST(req: NextRequest) {
     const userId = decodedToken.uid;
 
     // Check if user is a coach
-    const coachRef = db.collection('coaches').doc(userId);
-    const coachDoc = await coachRef.get();
+    const coachProfile = await findCoachByUserId(userId);
     
-    if (!coachDoc.exists) {
+    if (!coachProfile) {
       return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
     }
 
@@ -100,7 +99,7 @@ export async function POST(req: NextRequest) {
     });
 
     // Update coach profile to indicate they have active services
-    await coachRef.update({
+    await coachProfile.ref.update({
       hasActiveServices: true,
       updatedAt: new Date(),
     });
