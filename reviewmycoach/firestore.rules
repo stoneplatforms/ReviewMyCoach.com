@@ -177,5 +177,13 @@ service cloud.firestore {
       allow update: if true;
       allow delete: if true;
     }
+
+    // Jobs collection - EXTREMELY PERMISSIVE
+    match /jobs/{jobId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+    }
   }
 }
