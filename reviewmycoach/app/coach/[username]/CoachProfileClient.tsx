@@ -8,6 +8,7 @@ import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtim
 import RealtimeReviewModal from '../../components/RealtimeReviewModal';
 import RealtimeDemo from '../../components/RealtimeDemo';
 import BookingModal from '../../components/BookingModal';
+import MessagingModal from '../../components/MessagingModal';
 
 interface CoachProfile {
   id: string;
@@ -65,6 +66,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   const [user, setUser] = useState<User | null>(null);
   const [showBookingModal, setShowBookingModal] = useState(false);
   const [showReviewModal, setShowReviewModal] = useState(false);
+  const [showMessagingModal, setShowMessagingModal] = useState(false);
   const [services, setServices] = useState<Service[]>([]);
 
   // Use real-time hooks
@@ -254,6 +256,12 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   Hire Coach
                 </button>
               )}
+              <button
+                onClick={() => setShowMessagingModal(true)}
+                className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors font-semibold"
+              >
+                Message Coach
+              </button>
               <button
                 onClick={handleWriteReview}
                 className="px-6 py-2 border border-gray-300 text-gray-700 rounded-md hover:bg-gray-50 transition-colors"
@@ -591,6 +599,15 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
        {/* Real-time Demo Widget */}
        <RealtimeDemo coachId={coach.id} />
+
+       {/* Messaging Modal */}
+       <MessagingModal
+         isOpen={showMessagingModal}
+         onClose={() => setShowMessagingModal(false)}
+         recipientId={coach.userId}
+         recipientName={coach.displayName}
+         user={user}
+       />
      </div>
    );
  } 

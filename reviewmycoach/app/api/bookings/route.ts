@@ -110,6 +110,46 @@ export async function POST(req: NextRequest) {
       updatedAt: new Date(),
     });
 
+    // Send email notification to coach
+    try {
+      const coachesRef = db.collection('coaches');
+      const coachQuery = coachesRef.where('userId', '==', serviceData.coachId);
+      const coachSnapshot = await coachQuery.get();
+
+      if (!coachSnapshot.empty) {
+        const coachDoc = coachSnapshot.docs[0];
+        const coachData = coachDoc.data();
+        const coachEmail = coachData.email;
+
+        if (coachEmail) {
+          await fetch('/api/notifications/email', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              type: 'booking_confirmation',
+              recipientEmail: coachEmail,
+              recipientName: coachData.displayName,
+              data: {
+                serviceTitle: serviceData.title,
+                studentName,
+                scheduledDate,
+                scheduledTime,
+                duration: serviceData.duration,
+                amount: serviceData.price,
+                notes: notes || ''
+              },
+              idToken: idToken || 'system'
+            }),
+          });
+        }
+      }
+    } catch (error) {
+      console.error('Error sending booking confirmation email:', error);
+      // Continue even if email fails
+    }
+
     return NextResponse.json({
       bookingId: bookingRef.id,
       paymentIntentId: paymentIntent.id,
@@ -120,10 +160,7 @@ export async function POST(req: NextRequest) {
 
   } catch (error) {
     console.error('Error creating booking:', error);
-    return NextResponse.json(
-      { error: 'Failed to create booking' },
-      { status: 500 }
-    );
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }
 

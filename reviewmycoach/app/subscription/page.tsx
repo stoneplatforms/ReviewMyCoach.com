@@ -157,32 +157,6 @@ export default function SubscriptionPage() {
   if (isSubscribed) {
     return (
       <div className="min-h-screen bg-gray-50">
-        {/* Header */}
-        <div className="bg-white shadow-sm">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="flex justify-between items-center py-4">
-              <div className="flex items-center space-x-4">
-                <Link href="/" className="text-xl font-bold text-blue-600">
-                  ReviewMyCoach
-                </Link>
-                <span className="text-gray-400">|</span>
-                <h1 className="text-xl font-semibold text-gray-900">Coach Pro</h1>
-              </div>
-              <div className="flex items-center space-x-4">
-                <Link href="/dashboard" className="text-gray-600 hover:text-gray-900">
-                  Dashboard
-                </Link>
-                <button
-                  onClick={() => router.push('/profile')}
-                  className="text-gray-600 hover:text-gray-900"
-                >
-                  Profile
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
           <div className="text-center">
             <div className="inline-flex items-center px-4 py-2 bg-green-100 text-green-800 rounded-full text-sm font-medium mb-6">
@@ -231,32 +205,6 @@ export default function SubscriptionPage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-white shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-4">
-            <div className="flex items-center space-x-4">
-              <Link href="/" className="text-xl font-bold text-blue-600">
-                ReviewMyCoach
-              </Link>
-              <span className="text-gray-400">|</span>
-              <h1 className="text-xl font-semibold text-gray-900">Coach Pro</h1>
-            </div>
-            <div className="flex items-center space-x-4">
-              <Link href="/dashboard" className="text-gray-600 hover:text-gray-900">
-                Dashboard
-              </Link>
-              <button
-                onClick={() => router.push('/profile')}
-                className="text-gray-600 hover:text-gray-900"
-              >
-                Profile
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
-
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Hero Section */}
         <div className="text-center mb-12">

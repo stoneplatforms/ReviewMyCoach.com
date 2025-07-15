@@ -1,49 +1,41 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, query, where, getDocs, limit } from 'firebase/firestore';
+import { collection, query, where, getDocs } from 'firebase/firestore';
 import { db } from '../../../../lib/firebase-client';
 
-// GET - Fetch coach profile by username
 export async function GET(
   request: NextRequest,
-  { params }: { params: Promise<{ username: string }> }
+  { params }: { params: { username: string } }
 ) {
   try {
-    const { username } = await params;
-    
+    const { username } = params;
+
     if (!username) {
       return NextResponse.json({ error: 'Username is required' }, { status: 400 });
     }
 
-    // Query coaches collection by username
-    const coachesQuery = query(
-      collection(db, 'coaches'),
-      where('username', '==', username.toLowerCase()),
-      limit(1)
-    );
-    
-    const querySnapshot = await getDocs(coachesQuery);
-    
-    if (querySnapshot.empty) {
-      return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
+    // Basic username validation
+    const usernameRegex = /^[a-zA-Z0-9_-]{3,20}$/;
+    if (!usernameRegex.test(username)) {
+      return NextResponse.json({ 
+        available: false, 
+        error: 'Username must be 3-20 characters long and contain only letters, numbers, hyphens, and underscores' 
+      }, { status: 400 });
     }
 
-    const coachDoc = querySnapshot.docs[0];
-    const data = coachDoc.data();
-    
-    // Serialize timestamps
-    const serializedData = {
-      ...data,
-      createdAt: data.createdAt?.toDate().toISOString() || null,
-      updatedAt: data.updatedAt?.toDate().toISOString() || null,
-    };
+    // Check if username is already taken
+    const coachesRef = collection(db, 'coaches');
+    const q = query(coachesRef, where('username', '==', username));
+    const querySnapshot = await getDocs(q);
 
-    return NextResponse.json({
-      id: coachDoc.id,
-      ...serializedData
+    const available = querySnapshot.empty;
+
+    return NextResponse.json({ 
+      available,
+      username 
     });
 
   } catch (error) {
-    console.error('Error fetching coach by username:', error);
+    console.error('Error checking username availability:', error);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 } 

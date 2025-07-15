@@ -12,6 +12,7 @@ import Link from 'next/link';
 interface UserProfile {
   userId: string;
   displayName: string;
+  username?: string;
   phoneNumber?: string;
   email?: string;
   emailVerified?: boolean;
@@ -24,9 +25,12 @@ export default function ProfilePage() {
   const { user, loading: authLoading } = useAuth();
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
+  const [checkingUsername, setCheckingUsername] = useState(false);
+  const [usernameError, setUsernameError] = useState<string | null>(null);
   const [formData, setFormData] = useState<UserProfile>({
     userId: '',
     displayName: '',
+    username: '',
     phoneNumber: '',
     isPublic: true
   });
@@ -43,6 +47,7 @@ export default function ProfilePage() {
         setFormData({
           ...data,
           displayName: data.displayName || user?.displayName || '',
+          username: data.username || '',
           phoneNumber: data.phoneNumber || '',
           email: data.email || user?.email || '',
           emailVerified: data.emailVerified || false,
@@ -54,6 +59,7 @@ export default function ProfilePage() {
           ...prev,
           userId: userId,
           displayName: user?.displayName || '',
+          username: '',
           email: user?.email || '',
           emailVerified: false,
           isPublic: true
@@ -63,6 +69,43 @@ export default function ProfilePage() {
       console.error('Error loading coach profile:', error);
     }
   }, [user]);
+
+  const checkUsernameAvailability = async (username: string) => {
+    if (!username.trim()) {
+      setUsernameError(null);
+      return;
+    }
+
+    // Basic username validation
+    const usernameRegex = /^[a-zA-Z0-9_-]{3,20}$/;
+    if (!usernameRegex.test(username)) {
+      setUsernameError('Username must be 3-20 characters long and contain only letters, numbers, hyphens, and underscores');
+      return;
+    }
+
+    setCheckingUsername(true);
+    setUsernameError(null);
+
+    try {
+      const response = await fetch(`/api/coaches/username/${username}`);
+      const data = await response.json();
+      
+      if (response.ok) {
+        if (data.available) {
+          setUsernameError(null);
+        } else {
+          setUsernameError('Username is already taken');
+        }
+      } else {
+        setUsernameError('Error checking username availability');
+      }
+    } catch (error) {
+      console.error('Error checking username:', error);
+      setUsernameError('Error checking username availability');
+    } finally {
+      setCheckingUsername(false);
+    }
+  };
 
   useEffect(() => {
     if (authLoading) return;
@@ -83,6 +126,15 @@ export default function ProfilePage() {
       ...prev,
       [name]: value
     }));
+
+    // Check username availability when username changes
+    if (name === 'username') {
+      const timeoutId = setTimeout(() => {
+        checkUsernameAvailability(value);
+      }, 500);
+
+      return () => clearTimeout(timeoutId);
+    }
   };
 
 
@@ -91,11 +143,17 @@ export default function ProfilePage() {
     e.preventDefault();
     if (!user) return;
 
+    if (usernameError) {
+      alert('Please fix the username error before saving');
+      return;
+    }
+
     setSaving(true);
     try {
       const coachRef = doc(db, 'coaches', user.uid);
       await setDoc(coachRef, {
         displayName: formData.displayName,
+        username: formData.username?.trim() || null,
         phoneNumber: formData.phoneNumber,
         userId: user.uid,
         updatedAt: new Date(),
@@ -319,39 +377,6 @@ export default function ProfilePage() {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-white shadow">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-6">
-            <div className="flex items-center">
-              <Link href="/" className="text-2xl font-bold text-blue-600">
-                ReviewMyCoach
-              </Link>
-            </div>
-            <div className="flex items-center space-x-4">
-              <Link
-                href="/"
-                className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium"
-              >
-                Home
-              </Link>
-              <Link
-                href="/search"
-                className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium"
-              >
-                Search
-              </Link>
-              <button
-                onClick={() => auth.signOut()}
-                className="bg-red-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-red-700"
-              >
-                Sign Out
-              </button>
-            </div>
-          </div>
-        </div>
-      </div>
-
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900">Profile Settings</h1>
@@ -378,6 +403,37 @@ export default function ProfilePage() {
                   required
                   className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">
+                  Username
+                </label>
+                <div className="relative">
+                  <input
+                    type="text"
+                    name="username"
+                    value={formData.username}
+                    onChange={handleInputChange}
+                    onBlur={() => checkUsernameAvailability(formData.username || '')}
+                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    placeholder="Enter username"
+                  />
+                  {checkingUsername && (
+                    <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
+                      <div className="animate-spin rounded-full h-4 w-4 border-2 border-blue-500 border-t-transparent"></div>
+                    </div>
+                  )}
+                </div>
+                {usernameError && (
+                  <p className="mt-1 text-xs text-red-600">{usernameError}</p>
+                )}
+                {!usernameError && formData.username && !checkingUsername && (
+                  <p className="mt-1 text-xs text-green-600">Username is available</p>
+                )}
+                <p className="mt-1 text-xs text-gray-500">
+                  Your username will be used in your public profile URL (e.g., /coach/your-username)
+                </p>
               </div>
 
               <div>

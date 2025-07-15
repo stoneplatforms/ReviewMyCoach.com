@@ -1,6 +1,21 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getStripeInstance } from '../../../lib/stripe';
-import { auth, db, findCoachByUserId } from '../../../lib/firebase-admin';
+import { auth } from '../../../lib/firebase-admin';
+import { initializeApp, getApps } from 'firebase/app';
+import { getFirestore, doc, getDoc, updateDoc, query, where, collection, getDocs } from 'firebase/firestore';
+
+// Initialize Firebase client (for Firestore operations)
+const firebaseConfig = {
+  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
+  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
+};
+
+const clientApp = !getApps().length ? initializeApp(firebaseConfig) : getApps()[0];
+const clientDb = getFirestore(clientApp);
 
 export async function POST(request: NextRequest) {
   try {
@@ -15,6 +30,7 @@ export async function POST(request: NextRequest) {
     try {
       decodedToken = await auth.verifyIdToken(idToken);
     } catch (error) {
+      console.error('Token verification error:', error);
       return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
     }
 
@@ -22,14 +38,17 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
-    // Verify the user is a coach - query by userId field since coaches are stored by username
-    const coachProfile = await findCoachByUserId(userId);
+    // Find coach profile using client SDK
+    const coachesRef = collection(clientDb, 'coaches');
+    const coachQuery = query(coachesRef, where('userId', '==', userId));
+    const coachQuerySnapshot = await getDocs(coachQuery);
     
-    if (!coachProfile) {
+    if (coachQuerySnapshot.empty) {
       return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
     }
 
-    const coachData = coachProfile.data;
+    const coachDoc = coachQuerySnapshot.docs[0];
+    const coachData = coachDoc.data();
     
     // Check if already subscribed
     if (coachData?.subscriptionStatus === 'active') {
@@ -50,11 +69,16 @@ export async function POST(request: NextRequest) {
       });
       customerId = customer.id;
       
-      // Update coach profile with customer ID
-      await coachProfile.ref.update({
+      // Update coach profile with customer ID using client SDK
+      await updateDoc(coachDoc.ref, {
         stripeCustomerId: customerId
       });
     }
+
+    // Get the base URL from the request headers
+    const protocol = request.headers.get('x-forwarded-proto') || 'https';
+    const host = request.headers.get('host') || 'localhost:3000';
+    const baseUrl = `${protocol}://${host}`;
 
     // Create Stripe checkout session
     const session = await stripe.checkout.sessions.create({
@@ -67,8 +91,8 @@ export async function POST(request: NextRequest) {
         },
       ],
       mode: 'subscription',
-      success_url: `${process.env.NEXT_PUBLIC_BASE_URL}/subscription/success?session_id={CHECKOUT_SESSION_ID}`,
-      cancel_url: `${process.env.NEXT_PUBLIC_BASE_URL}/subscription`,
+      success_url: `${baseUrl}/subscription/success?session_id={CHECKOUT_SESSION_ID}`,
+      cancel_url: `${baseUrl}/subscription`,
       metadata: {
         userId: userId,
         plan: plan,

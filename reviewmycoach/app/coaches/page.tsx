@@ -7,6 +7,7 @@ import { useAuth } from '../lib/hooks/useAuth';
 import Link from 'next/link';
 import Image from 'next/image';
 import LoadingSpinner from '../components/LoadingSpinner';
+import JobApplicationModal from '../components/JobApplicationModal';
 
 interface Coach {
   id: string;
@@ -80,13 +81,18 @@ export default function CoachesMarketplace() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedSport, setSelectedSport] = useState('all');
   const [selectedLocation, setSelectedLocation] = useState('all');
+  const [selectedJobForApplication, setSelectedJobForApplication] = useState<Job | null>(null);
+  const [coachProfile, setCoachProfile] = useState<any>(null);
 
   const sports = ['Basketball', 'Football', 'Tennis', 'Soccer', 'Swimming', 'Baseball', 'Volleyball', 'Golf'];
   const locations = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix', 'Philadelphia', 'San Antonio', 'San Diego'];
 
   useEffect(() => {
     fetchMarketplaceData();
-  }, []);
+    if (user && isCoach) {
+      fetchCoachProfile();
+    }
+  }, [user, isCoach]);
 
   const fetchMarketplaceData = async () => {
     try {
@@ -100,6 +106,23 @@ export default function CoachesMarketplace() {
       console.error('Error fetching marketplace data:', error);
     } finally {
       setLoading(false);
+    }
+  };
+
+  const fetchCoachProfile = async () => {
+    if (!user) return;
+    
+    try {
+      const coachesRef = collection(db, 'coaches');
+      const coachQuery = query(coachesRef, where('userId', '==', user.uid));
+      const snapshot = await getDocs(coachQuery);
+      
+      if (!snapshot.empty) {
+        const coach = snapshot.docs[0].data();
+        setCoachProfile(coach);
+      }
+    } catch (error) {
+      console.error('Error fetching coach profile:', error);
     }
   };
 
@@ -392,11 +415,19 @@ export default function CoachesMarketplace() {
                       <button
                         className="bg-blue-600 text-white px-3 py-1 rounded text-sm hover:bg-blue-700 transition-colors"
                         onClick={() => {
+                          if (!user) {
+                            alert('You need to be logged in to apply for jobs!');
+                            return;
+                          }
                           if (!isCoach) {
                             alert('You need to be a coach to apply for jobs!');
                             return;
                           }
-                          alert('Apply feature coming soon! Subscribe to Coach Pro to access job applications.');
+                          if (!coachProfile || coachProfile.subscriptionStatus !== 'active') {
+                            alert('Coach Pro subscription required to apply for jobs. Please upgrade your subscription.');
+                            return;
+                          }
+                          setSelectedJobForApplication(job);
                         }}
                       >
                         Apply
@@ -529,6 +560,20 @@ export default function CoachesMarketplace() {
             Upgrade Now
           </Link>
         </div>
+      )}
+
+      {/* Job Application Modal */}
+      {selectedJobForApplication && (
+        <JobApplicationModal
+          isOpen={!!selectedJobForApplication}
+          onClose={() => setSelectedJobForApplication(null)}
+          job={selectedJobForApplication}
+          user={user}
+          onApplicationSubmitted={() => {
+            alert('Application submitted successfully!');
+            setSelectedJobForApplication(null);
+          }}
+        />
       )}
     </div>
   );
