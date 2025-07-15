@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { auth, db } from '../../lib/firebase-admin';
-import { getAuth } from 'firebase-admin/auth';
 
 // GET - Fetch available jobs
 export async function GET(request: NextRequest) {
@@ -96,7 +95,7 @@ export async function POST(request: NextRequest) {
         const decodedToken = await auth.verifyIdToken(idToken);
         userId = decodedToken.uid;
         userEmail = decodedToken.email;
-      } catch (error) {
+      } catch {
         console.log('Invalid token provided, creating as anonymous job');
       }
     }

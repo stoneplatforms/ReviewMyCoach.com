@@ -89,12 +89,11 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Authentication required' }, { status: 401 });
     }
 
-    let decodedToken;
-    try {
-      decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
-      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
-    }
+      try {
+    await auth.verifyIdToken(idToken);
+  } catch {
+    return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+  }
 
     // Validate required fields
     if (!type || !recipientEmail || !recipientName || !data) {
@@ -134,36 +133,4 @@ export async function POST(request: NextRequest) {
   }
 }
 
-// Helper function to send email notifications (to be used by other API endpoints)
-export async function sendEmailNotification(
-  type: EmailNotificationRequest['type'],
-  recipientEmail: string,
-  recipientName: string,
-  data: any,
-  senderToken: string
-) {
-  try {
-    const response = await fetch('/api/notifications/email', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        type,
-        recipientEmail,
-        recipientName,
-        data,
-        idToken: senderToken
-      }),
-    });
-
-    if (!response.ok) {
-      throw new Error('Failed to send email notification');
-    }
-
-    return await response.json();
-  } catch (error) {
-    console.error('Error sending email notification:', error);
-    throw error;
-  }
-} 
+ 

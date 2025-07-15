@@ -84,7 +84,7 @@ export default function PostJobPage() {
         throw new Error(errorData.error || 'Failed to post job');
       }
 
-      const result = await response.json();
+      await response.json();
       setSuccess('Job posted successfully!');
       
       // Reset form

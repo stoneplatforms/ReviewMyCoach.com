@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { getStripeInstance } from '../../../lib/stripe';
-import { auth, db, findCoachByUserId } from '../../../lib/firebase-admin';
+import { auth, findCoachByUserId } from '../../../lib/firebase-admin';
 
 export async function POST(request: NextRequest) {
   try {
@@ -11,12 +11,12 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Authentication required' }, { status: 401 });
     }
 
-    let decodedToken;
-    try {
-      decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
-      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
-    }
+      let decodedToken;
+  try {
+    decodedToken = await auth.verifyIdToken(idToken);
+  } catch {
+    return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+  }
 
     if (!sessionId) {
       return NextResponse.json({ error: 'Session ID required' }, { status: 400 });

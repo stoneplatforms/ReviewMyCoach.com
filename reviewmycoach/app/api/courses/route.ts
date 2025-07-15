@@ -92,7 +92,7 @@ export async function POST(request: NextRequest) {
     let decodedToken;
     try {
       decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
+    } catch {
       return NextResponse.json(
         { error: 'Invalid authentication token' },
         { status: 401 }

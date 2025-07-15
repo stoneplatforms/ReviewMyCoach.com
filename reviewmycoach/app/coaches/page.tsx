@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { collection, query, where, orderBy, limit, getDocs } from 'firebase/firestore';
 import { db } from '../lib/firebase-client';
 import { useAuth } from '../lib/hooks/useAuth';
@@ -78,7 +78,6 @@ export default function CoachesMarketplace() {
   const [popularServices, setPopularServices] = useState<Service[]>([]);
   const [featuredCourses, setFeaturedCourses] = useState<Course[]>([]);
   const [activeTab, setActiveTab] = useState<'jobs' | 'services' | 'courses'>('jobs');
-  const [searchQuery, setSearchQuery] = useState('');
   const [selectedSport, setSelectedSport] = useState('all');
   const [selectedLocation, setSelectedLocation] = useState('all');
   const [selectedJobForApplication, setSelectedJobForApplication] = useState<Job | null>(null);
@@ -87,14 +86,7 @@ export default function CoachesMarketplace() {
   const sports = ['Basketball', 'Football', 'Tennis', 'Soccer', 'Swimming', 'Baseball', 'Volleyball', 'Golf'];
   const locations = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix', 'Philadelphia', 'San Antonio', 'San Diego'];
 
-  useEffect(() => {
-    fetchMarketplaceData();
-    if (user && isCoach) {
-      fetchCoachProfile();
-    }
-  }, [user, isCoach]);
-
-  const fetchMarketplaceData = async () => {
+  const fetchMarketplaceData = useCallback(async () => {
     try {
       await Promise.all([
         fetchFeaturedCoaches(),
@@ -107,9 +99,9 @@ export default function CoachesMarketplace() {
     } finally {
       setLoading(false);
     }
-  };
+  }, []);
 
-  const fetchCoachProfile = async () => {
+  const fetchCoachProfile = useCallback(async () => {
     if (!user) return;
     
     try {
@@ -124,7 +116,14 @@ export default function CoachesMarketplace() {
     } catch (error) {
       console.error('Error fetching coach profile:', error);
     }
-  };
+  }, [user]);
+
+  useEffect(() => {
+    fetchMarketplaceData();
+    if (user && isCoach) {
+      fetchCoachProfile();
+    }
+  }, [user, isCoach, fetchMarketplaceData, fetchCoachProfile]);
 
   const fetchFeaturedCoaches = async () => {
     try {

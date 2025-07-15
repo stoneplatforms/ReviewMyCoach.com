@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore, doc, getDoc, setDoc, collection, query, where, orderBy, getDocs, updateDoc, addDoc, Query, DocumentData } from 'firebase/firestore';
+import { getFirestore, doc, getDoc, collection, query, where, orderBy, getDocs, updateDoc, addDoc, Query, DocumentData } from 'firebase/firestore';
 import { auth } from '../../../lib/firebase-admin';
 
 // Initialize Firebase client
@@ -83,7 +83,7 @@ export async function POST(request: NextRequest) {
     let decodedToken;
     try {
       decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
+    } catch {
       return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
     }
 
@@ -215,12 +215,12 @@ export async function PUT(request: NextRequest) {
       return NextResponse.json({ error: 'Authentication required' }, { status: 401 });
     }
 
-    let decodedToken;
-    try {
-      decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
-      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
-    }
+      let decodedToken;
+  try {
+    decodedToken = await auth.verifyIdToken(idToken);
+  } catch {
+    return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+  }
 
     const userId = decodedToken.uid;
 

@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore, collection, query, where, getDocs, orderBy, limit, startAfter, Timestamp } from 'firebase/firestore';
+import { getFirestore, collection, query, where, getDocs } from 'firebase/firestore';
 import { auth } from '../../lib/firebase-admin';
 
 // Initialize Firebase client
@@ -66,7 +66,7 @@ export async function GET(request: NextRequest) {
     let decodedToken;
     try {
       decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
+    } catch {
       return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
     }
 

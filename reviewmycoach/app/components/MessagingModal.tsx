@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { User } from 'firebase/auth';
-import { collection, query, orderBy, onSnapshot, doc, getDoc, where, getDocs } from 'firebase/firestore';
+import { collection, query, orderBy, onSnapshot } from 'firebase/firestore';
 import { db } from '../lib/firebase-client';
 
 interface Message {
@@ -15,14 +15,7 @@ interface Message {
   read: boolean;
 }
 
-interface Conversation {
-  id: string;
-  participants: string[];
-  lastMessage: string;
-  lastMessageAt: string;
-  lastMessageSender: string;
-  unreadCount: Record<string, number>;
-}
+
 
 interface MessagingModalProps {
   isOpen: boolean;

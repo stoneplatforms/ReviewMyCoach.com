@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import GlobalSearchBar from "./components/GlobalSearchBar";
 
 export default function Home() {
@@ -233,10 +234,12 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="col-span-1 md:col-span-2">
               <div className="flex items-center mb-4">
-                <img
+                <Image
                   src="/reviewmycoachlogo.png"
                   alt="ReviewMyCoach Logo"
                   className="h-8 w-auto mr-3"
+                  width={32}
+                  height={32}
                 />
                 <span className="text-xl font-bold">ReviewMyCoach</span>
               </div>

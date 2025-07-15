@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { User } from 'firebase/auth';
 
 interface AnalyticsData {
@@ -47,11 +47,7 @@ export default function AnalyticsDashboard({ user }: AnalyticsDashboardProps) {
   const [error, setError] = useState<string | null>(null);
   const [timeRange, setTimeRange] = useState('12');
 
-  useEffect(() => {
-    fetchAnalytics();
-  }, [user, timeRange]);
-
-  const fetchAnalytics = async () => {
+  const fetchAnalytics = useCallback(async () => {
     if (!user) return;
 
     setLoading(true);
@@ -75,7 +71,11 @@ export default function AnalyticsDashboard({ user }: AnalyticsDashboardProps) {
     } finally {
       setLoading(false);
     }
-  };
+  }, [user, timeRange]);
+
+  useEffect(() => {
+    fetchAnalytics();
+  }, [fetchAnalytics]);
 
   const formatCurrency = (amount: number) => {
     return new Intl.NumberFormat('en-US', {

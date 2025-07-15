@@ -2,7 +2,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getStripeInstance } from '../../../lib/stripe';
 import { auth } from '../../../lib/firebase-admin';
 import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore, doc, getDoc, updateDoc, query, where, collection, getDocs } from 'firebase/firestore';
+import { getFirestore, updateDoc, query, where, collection, getDocs } from 'firebase/firestore';
 
 // Initialize Firebase client (for Firestore operations)
 const firebaseConfig = {

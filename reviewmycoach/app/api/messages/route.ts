@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore, doc, getDoc, setDoc, collection, query, where, orderBy, getDocs, addDoc, updateDoc, and, limit } from 'firebase/firestore';
+import { getFirestore, doc, getDoc, setDoc, collection, query, where, orderBy, getDocs, addDoc, updateDoc, limit } from 'firebase/firestore';
 import { auth } from '../../lib/firebase-admin';
 
 // Initialize Firebase client
@@ -84,14 +84,14 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Authentication required' }, { status: 401 });
     }
 
-    let decodedToken;
-    try {
-      decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
-      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
-    }
+      let decodedToken;
+  try {
+    decodedToken = await auth.verifyIdToken(idToken);
+  } catch {
+    return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+  }
 
-    const senderId = decodedToken.uid;
+  const senderId = decodedToken.uid;
 
     // Validate required fields
     if (!recipientId || !message?.trim()) {
@@ -239,15 +239,15 @@ export async function PUT(request: NextRequest) {
       return NextResponse.json({ error: 'Authentication required' }, { status: 401 });
     }
 
-    let decodedToken;
-    try {
-      decodedToken = await auth.verifyIdToken(idToken);
-    } catch (error) {
-      return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
-    }
+      let decodedToken;
+  try {
+    decodedToken = await auth.verifyIdToken(idToken);
+  } catch {
+    return NextResponse.json({ error: 'Invalid authentication token' }, { status: 401 });
+  }
 
-    if (decodedToken.uid !== userId) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
+  if (decodedToken.uid !== userId) {
+    return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
     // Reset unread count for user

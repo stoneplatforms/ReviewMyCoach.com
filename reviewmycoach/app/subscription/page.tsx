@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useAuth } from '../lib/hooks/useAuth';
 import { useRouter } from 'next/navigation';
 import { doc, getDoc } from 'firebase/firestore';
@@ -62,18 +62,7 @@ export default function SubscriptionPage() {
   const [selectedPlan, setSelectedPlan] = useState<'monthly' | 'yearly'>('monthly');
   const [subscribing, setSubscribing] = useState(false);
 
-  useEffect(() => {
-    if (authLoading) return;
-    
-    if (!user) {
-      router.push('/signin');
-      return;
-    }
-
-    loadCoachProfile();
-  }, [user, authLoading, router]);
-
-  const loadCoachProfile = async () => {
+  const loadCoachProfile = useCallback(async () => {
     if (!user) return;
 
     try {
@@ -93,7 +82,18 @@ export default function SubscriptionPage() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [user, router]);
+
+  useEffect(() => {
+    if (authLoading) return;
+    
+    if (!user) {
+      router.push('/signin');
+      return;
+    }
+
+    loadCoachProfile();
+  }, [user, authLoading, router, loadCoachProfile]);
 
   const handleSubscribe = async () => {
     if (!user || !coachProfile) return;
@@ -163,7 +163,7 @@ export default function SubscriptionPage() {
               ✓ Coach Pro Active
             </div>
             <h1 className="text-3xl font-bold text-gray-900 mb-4">
-              You're all set with Coach Pro!
+              You&apos;re all set with Coach Pro!
             </h1>
             <p className="text-lg text-gray-600 mb-8">
               Current Plan: {coachProfile.subscriptionPlan === 'yearly' ? 'Yearly' : 'Monthly'}
@@ -313,7 +313,7 @@ export default function SubscriptionPage() {
           <div className="max-w-2xl mx-auto space-y-6">
             <div className="bg-white rounded-lg shadow p-6">
               <h3 className="font-semibold text-gray-900 mb-2">
-                What's the difference between Coach Pro and regular coaching?
+                What&apos;s the difference between Coach Pro and regular coaching?
               </h3>
               <p className="text-gray-600">
                 Coach Pro gives you access to premium features like unlimited job applications, priority search placement, and advanced analytics to help grow your coaching business.
@@ -325,7 +325,7 @@ export default function SubscriptionPage() {
                 Can I cancel my subscription anytime?
               </h3>
               <p className="text-gray-600">
-                Yes, you can cancel your Coach Pro subscription at any time. You'll continue to have access to Pro features until the end of your current billing period.
+                Yes, you can cancel your Coach Pro subscription at any time. You&apos;ll continue to have access to Pro features until the end of your current billing period.
               </p>
             </div>
             
@@ -334,7 +334,7 @@ export default function SubscriptionPage() {
                 How is this different from Stripe Connect earnings?
               </h3>
               <p className="text-gray-600">
-                Coach Pro is a subscription for enhanced platform features, while Stripe Connect handles your coaching session payments. They're separate systems that work together.
+                Coach Pro is a subscription for enhanced platform features, while Stripe Connect handles your coaching session payments. They&apos;re separate systems that work together.
               </p>
             </div>
           </div>

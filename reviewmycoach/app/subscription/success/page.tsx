@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useSearchParams } from 'next/navigation';
 import { useAuth } from '../../lib/hooks/useAuth';
 import { useRouter } from 'next/navigation';
@@ -16,24 +16,7 @@ export default function SubscriptionSuccessPage() {
   const [error, setError] = useState('');
   const [subscriptionDetails, setSubscriptionDetails] = useState<any>(null);
 
-  useEffect(() => {
-    if (authLoading) return;
-    
-    if (!user) {
-      router.push('/signin');
-      return;
-    }
-
-    if (!sessionId) {
-      setError('No session ID found');
-      setLoading(false);
-      return;
-    }
-
-    verifySubscription();
-  }, [user, authLoading, sessionId, router]);
-
-  const verifySubscription = async () => {
+  const verifySubscription = useCallback(async () => {
     if (!user || !sessionId) return;
 
     try {
@@ -62,7 +45,24 @@ export default function SubscriptionSuccessPage() {
     } finally {
       setLoading(false);
     }
-  };
+  }, [user, sessionId]);
+
+  useEffect(() => {
+    if (authLoading) return;
+    
+    if (!user) {
+      router.push('/signin');
+      return;
+    }
+
+    if (!sessionId) {
+      setError('No session ID found');
+      setLoading(false);
+      return;
+    }
+
+    verifySubscription();
+  }, [user, authLoading, sessionId, router, verifySubscription]);
 
   if (authLoading || loading) {
     return <LoadingSpinner fullScreen />;
@@ -162,7 +162,7 @@ export default function SubscriptionSuccessPage() {
 
           <div className="bg-blue-50 rounded-lg p-6 mb-8">
             <h2 className="text-lg font-semibold text-blue-900 mb-3">
-              What's Next?
+              What&apos;s Next?
             </h2>
             <ul className="text-left space-y-2 text-blue-800">
               <li className="flex items-center">
