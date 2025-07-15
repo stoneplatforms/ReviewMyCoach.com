@@ -1,18 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { getAuth } from 'firebase-admin/auth';
-import { initializeApp, getApps } from 'firebase-admin/app';
-import { cert } from 'firebase-admin/app';
-
-// Initialize Firebase Admin if not already initialized
-if (!getApps().length) {
-  initializeApp({
-    credential: cert({
-      projectId: process.env.FIREBASE_PROJECT_ID,
-      clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
-      privateKey: process.env.FIREBASE_PRIVATE_KEY?.replace(/\\n/g, '\n'),
-    }),
-  });
-}
+import { auth } from '../../../lib/firebase-admin';
 
 export async function POST(request: NextRequest) {
   try {
@@ -34,7 +21,6 @@ export async function POST(request: NextRequest) {
     }
 
     // Verify the user's identity token
-    const auth = getAuth();
     const decodedToken = await auth.verifyIdToken(idToken);
     const userId = decodedToken.uid;
 
@@ -69,8 +55,6 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    const auth = getAuth();
-    
     // Generate password reset link
     const link = await auth.generatePasswordResetLink(email);
 
