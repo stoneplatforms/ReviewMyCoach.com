@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, query, where, orderBy, limit, getDocs } from 'firebase/firestore';
-import { db } from '../../lib/firebase-client';
+import { db } from '../../lib/firebase-admin';
 
 interface CoachData {
   id: string;
@@ -32,40 +31,38 @@ export async function GET(request: NextRequest) {
     const sortOrderParam = searchParams.get('sortOrder') || 'desc';
 
     // Build base query
-    const baseQuery = collection(db, 'coaches');
-    const queryConstraints: any[] = [];
+    let baseQuery: any = db.collection('coaches');
 
     // Add filters
     if (sportsParam) {
       const sports = sportsParam.split(',');
-      queryConstraints.push(where('sports', 'array-contains-any', sports));
+      baseQuery = baseQuery.where('sports', 'array-contains-any', sports);
     }
 
     if (locationParam) {
-      queryConstraints.push(where('location', '==', locationParam));
+      baseQuery = baseQuery.where('location', '==', locationParam);
     }
 
     if (minRatingParam) {
       const minRating = parseFloat(minRatingParam);
-      queryConstraints.push(where('averageRating', '>=', minRating));
+      baseQuery = baseQuery.where('averageRating', '>=', minRating);
     }
 
     if (isVerifiedParam === 'true') {
-      queryConstraints.push(where('isVerified', '==', true));
+      baseQuery = baseQuery.where('isVerified', '==', true);
     }
 
     // Add sorting
     const sortOrder = sortOrderParam === 'asc' ? 'asc' : 'desc';
-    queryConstraints.push(orderBy(sortByParam, sortOrder));
+    baseQuery = baseQuery.orderBy(sortByParam, sortOrder);
 
     // Add limit
-    queryConstraints.push(limit(limitParam));
+    baseQuery = baseQuery.limit(limitParam);
 
     // Execute query
-    const finalQuery = query(baseQuery, ...queryConstraints);
-    const querySnapshot = await getDocs(finalQuery);
+    const querySnapshot = await baseQuery.get();
 
-    let coaches = querySnapshot.docs.map(doc => {
+    let coaches = querySnapshot.docs.map((doc: any) => {
       const data = doc.data();
       return {
         id: doc.id,

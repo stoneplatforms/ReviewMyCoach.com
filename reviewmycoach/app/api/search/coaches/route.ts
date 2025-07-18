@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, query, where, orderBy, limit, getDocs } from 'firebase/firestore';
-import { db } from '../../../lib/firebase-client';
+import { db } from '../../../lib/firebase-admin';
 
 interface SearchParams {
   search?: string;
@@ -64,37 +63,36 @@ export async function GET(request: NextRequest) {
     }
 
     // Build base query
-    const baseQuery = collection(db, 'coaches');
-    const queryConstraints: any[] = [];
+    let baseQuery: any = db.collection('coaches');
 
     // Add filters
     if (params.sport) {
-      queryConstraints.push(where('sports', 'array-contains', params.sport));
+      baseQuery = baseQuery.where('sports', 'array-contains', params.sport);
     }
 
     if (params.location) {
-      queryConstraints.push(where('location', '==', params.location));
+      baseQuery = baseQuery.where('location', '==', params.location);
     }
 
     if (params.gender) {
-      queryConstraints.push(where('gender', '==', params.gender));
+      baseQuery = baseQuery.where('gender', '==', params.gender);
     }
 
     if (params.organization) {
-      queryConstraints.push(where('organization', '==', params.organization));
+      baseQuery = baseQuery.where('organization', '==', params.organization);
     }
 
     if (params.minRating) {
       const minRating = parseFloat(params.minRating);
       if (!isNaN(minRating) && minRating >= 0 && minRating <= 5) {
-        queryConstraints.push(where('averageRating', '>=', minRating));
+        baseQuery = baseQuery.where('averageRating', '>=', minRating);
       }
     }
 
     if (params.isVerified === 'true') {
-      queryConstraints.push(where('isVerified', '==', true));
+      baseQuery = baseQuery.where('isVerified', '==', true);
     } else if (params.isVerified === 'false') {
-      queryConstraints.push(where('isVerified', '==', false));
+      baseQuery = baseQuery.where('isVerified', '==', false);
     }
 
     // Add sorting
@@ -108,19 +106,18 @@ export async function GET(request: NextRequest) {
     ];
     
     if (allowedSortFields.includes(sortField)) {
-      queryConstraints.push(orderBy(sortField, sortDirection));
+      baseQuery = baseQuery.orderBy(sortField, sortDirection);
     } else {
-      queryConstraints.push(orderBy('averageRating', 'desc'));
+      baseQuery = baseQuery.orderBy('averageRating', 'desc');
     }
 
     // Add pagination limit
-    queryConstraints.push(limit(limitNum + 1)); // +1 to check if there are more results
+    baseQuery = baseQuery.limit(limitNum + 1); // +1 to check if there are more results
 
     // Execute query
-    const finalQuery = query(baseQuery, ...queryConstraints);
-    const querySnapshot = await getDocs(finalQuery);
+    const querySnapshot = await baseQuery.get();
 
-    let coaches: CoachData[] = querySnapshot.docs.map(doc => {
+    let coaches: CoachData[] = querySnapshot.docs.map((doc: any) => {
       const data = doc.data();
       return {
         id: doc.id,

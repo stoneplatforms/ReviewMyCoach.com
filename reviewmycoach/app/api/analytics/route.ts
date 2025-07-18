@@ -1,20 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore, collection, query, where, getDocs } from 'firebase/firestore';
-import { auth } from '../../lib/firebase-admin';
-
-// Initialize Firebase client
-const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
-};
-
-const clientApp = !getApps().length ? initializeApp(firebaseConfig) : getApps()[0];
-const clientDb = getFirestore(clientApp);
+import { auth, db } from '../../lib/firebase-admin';
 
 interface AnalyticsData {
   bookings: {
@@ -75,9 +60,9 @@ export async function GET(request: NextRequest) {
     }
 
     // Check if user is a coach
-    const coachesRef = collection(clientDb, 'coaches');
-    const coachQuery = query(coachesRef, where('userId', '==', userId));
-    const coachSnapshot = await getDocs(coachQuery);
+    const coachesRef = db.collection('coaches');
+    const coachQuery = coachesRef.where('userId', '==', userId);
+    const coachSnapshot = await coachQuery.get();
 
     if (coachSnapshot.empty) {
       return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
@@ -122,15 +107,13 @@ async function fetchAnalyticsData(userId: string, startDate: Date, endDate: Date
 }
 
 async function fetchBookingsAnalytics(userId: string, startDate: Date, endDate: Date) {
-  const bookingsRef = collection(clientDb, 'bookings');
-  const bookingsQuery = query(
-    bookingsRef,
-    where('coachId', '==', userId),
-    where('createdAt', '>=', startDate),
-    where('createdAt', '<=', endDate)
-  );
+  const bookingsRef = db.collection('bookings');
+  const bookingsQuery = bookingsRef
+    .where('coachId', '==', userId)
+    .where('createdAt', '>=', startDate)
+    .where('createdAt', '<=', endDate);
 
-  const snapshot = await getDocs(bookingsQuery);
+  const snapshot = await bookingsQuery.get();
   const bookings = snapshot.docs.map(doc => doc.data());
 
   const total = bookings.length;
@@ -162,15 +145,13 @@ async function fetchBookingsAnalytics(userId: string, startDate: Date, endDate: 
 }
 
 async function fetchApplicationsAnalytics(userId: string, startDate: Date, endDate: Date) {
-  const applicationsRef = collection(clientDb, 'job_applications');
-  const applicationsQuery = query(
-    applicationsRef,
-    where('coachId', '==', userId),
-    where('createdAt', '>=', startDate),
-    where('createdAt', '<=', endDate)
-  );
+  const applicationsRef = db.collection('job_applications');
+  const applicationsQuery = applicationsRef
+    .where('coachId', '==', userId)
+    .where('createdAt', '>=', startDate)
+    .where('createdAt', '<=', endDate);
 
-  const snapshot = await getDocs(applicationsQuery);
+  const snapshot = await applicationsQuery.get();
   const applications = snapshot.docs.map(doc => doc.data());
 
   const total = applications.length;
@@ -193,13 +174,10 @@ async function fetchApplicationsAnalytics(userId: string, startDate: Date, endDa
 
 async function fetchMessagesAnalytics(userId: string, startDate: Date, endDate: Date) {
   // Fetch conversations where user is a participant
-  const conversationsRef = collection(clientDb, 'conversations');
-  const conversationsQuery = query(
-    conversationsRef,
-    where('participants', 'array-contains', userId)
-  );
+  const conversationsRef = db.collection('conversations');
+  const conversationsQuery = conversationsRef.where('participants', 'array-contains', userId);
 
-  const conversationsSnapshot = await getDocs(conversationsQuery);
+  const conversationsSnapshot = await conversationsQuery.get();
   const conversations = conversationsSnapshot.docs.map(doc => doc.data());
 
   const totalConversations = conversations.length;
@@ -209,15 +187,13 @@ async function fetchMessagesAnalytics(userId: string, startDate: Date, endDate: 
   // Fetch total messages sent by user
   let totalMessages = 0;
   for (const conversation of conversationsSnapshot.docs) {
-    const messagesRef = collection(clientDb, 'conversations', conversation.id, 'messages');
-    const messagesQuery = query(
-      messagesRef,
-      where('senderId', '==', userId),
-      where('createdAt', '>=', startDate),
-      where('createdAt', '<=', endDate)
-    );
+    const messagesRef = db.collection('conversations').doc(conversation.id).collection('messages');
+    const messagesQuery = messagesRef
+      .where('senderId', '==', userId)
+      .where('createdAt', '>=', startDate)
+      .where('createdAt', '<=', endDate);
     
-    const messagesSnapshot = await getDocs(messagesQuery);
+    const messagesSnapshot = await messagesQuery.get();
     totalMessages += messagesSnapshot.size;
   }
 
@@ -233,14 +209,12 @@ async function fetchMessagesAnalytics(userId: string, startDate: Date, endDate: 
 }
 
 async function fetchReviewsAnalytics(userId: string, startDate: Date, endDate: Date) {
-  const reviewsRef = collection(clientDb, 'coaches', userId, 'reviews');
-  const reviewsQuery = query(
-    reviewsRef,
-    where('createdAt', '>=', startDate),
-    where('createdAt', '<=', endDate)
-  );
+  const reviewsRef = db.collection('coaches').doc(userId).collection('reviews');
+  const reviewsQuery = reviewsRef
+    .where('createdAt', '>=', startDate)
+    .where('createdAt', '<=', endDate);
 
-  const snapshot = await getDocs(reviewsQuery);
+  const snapshot = await reviewsQuery.get();
   const reviews = snapshot.docs.map(doc => doc.data());
 
   const total = reviews.length;

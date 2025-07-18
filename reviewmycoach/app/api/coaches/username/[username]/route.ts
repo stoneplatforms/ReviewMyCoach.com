@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { collection, query, where, getDocs } from 'firebase/firestore';
-import { db } from '../../../../lib/firebase-client';
+import { db } from '../../../../lib/firebase-admin';
 
 export async function GET(
   request: NextRequest,
@@ -23,9 +22,9 @@ export async function GET(
     }
 
     // Check if username is already taken
-    const coachesRef = collection(db, 'coaches');
-    const q = query(coachesRef, where('username', '==', username));
-    const querySnapshot = await getDocs(q);
+    const coachesRef = db.collection('coaches');
+    const q = coachesRef.where('username', '==', username);
+    const querySnapshot = await q.get();
 
     const available = querySnapshot.empty;
 

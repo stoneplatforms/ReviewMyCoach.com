@@ -185,5 +185,29 @@ service cloud.firestore {
       allow update: if true;
       allow delete: if true;
     }
+
+    // Messages/Conversations collection - EXTREMELY PERMISSIVE
+    match /conversations/{conversationId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+      
+      // Messages subcollection
+      match /messages/{messageId} {
+        allow read: if true;
+        allow create: if true;
+        allow update: if true;
+        allow delete: if true;
+      }
+    }
+
+    // Messages collection (if using flat structure) - EXTREMELY PERMISSIVE
+    match /messages/{messageId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+    }
   }
 }

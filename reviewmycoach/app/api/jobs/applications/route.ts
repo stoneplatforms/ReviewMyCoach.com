@@ -1,20 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore, doc, getDoc, collection, query, where, orderBy, getDocs, updateDoc, addDoc, Query, DocumentData } from 'firebase/firestore';
-import { auth } from '../../../lib/firebase-admin';
-
-// Initialize Firebase client
-const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
-};
-
-const clientApp = !getApps().length ? initializeApp(firebaseConfig) : getApps()[0];
-const clientDb = getFirestore(clientApp);
+import { auth, db } from '../../../lib/firebase-admin';
 
 // GET - Fetch job applications
 export async function GET(request: NextRequest) {
@@ -28,31 +13,27 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ error: 'Either userId or jobId is required' }, { status: 400 });
     }
 
-    const applicationsRef = collection(clientDb, 'job_applications');
-    let applicationsQuery: Query<DocumentData>;
+    const applicationsRef = db.collection('job_applications');
+    let applicationsQuery: any;
 
     if (userId) {
       // Get applications by coach
-      applicationsQuery = query(
-        applicationsRef,
-        where('coachId', '==', userId),
-        orderBy('createdAt', 'desc')
-      );
+      applicationsQuery = applicationsRef
+        .where('coachId', '==', userId)
+        .orderBy('createdAt', 'desc');
     } else {
       // Get applications for a specific job
-      applicationsQuery = query(
-        applicationsRef,
-        where('jobId', '==', jobId!),
-        orderBy('createdAt', 'desc')
-      );
+      applicationsQuery = applicationsRef
+        .where('jobId', '==', jobId!)
+        .orderBy('createdAt', 'desc');
     }
 
     if (status) {
-      applicationsQuery = query(applicationsQuery, where('status', '==', status));
+      applicationsQuery = applicationsQuery.where('status', '==', status);
     }
 
-    const snapshot = await getDocs(applicationsQuery);
-    const applications = snapshot.docs.map(doc => ({
+    const snapshot = await applicationsQuery.get();
+    const applications = snapshot.docs.map((doc: any) => ({
       id: doc.id,
       ...doc.data(),
       createdAt: doc.data().createdAt?.toDate().toISOString(),
@@ -64,7 +45,7 @@ export async function GET(request: NextRequest) {
   } catch (error) {
     console.error('Error fetching job applications:', error);
     return NextResponse.json(
-      { error: 'Failed to fetch job applications' },
+      { error: 'Failed to fetch applications' },
       { status: 500 }
     );
   }
@@ -90,9 +71,9 @@ export async function POST(request: NextRequest) {
     const userId = decodedToken.uid;
 
     // Check if user is a coach and has active subscription
-    const coachesRef = collection(clientDb, 'coaches');
-    const coachQuery = query(coachesRef, where('userId', '==', userId));
-    const coachSnapshot = await getDocs(coachQuery);
+    const coachesRef = db.collection('coaches');
+    const coachQuery = coachesRef.where('userId', '==', userId);
+    const coachSnapshot = await coachQuery.get();
 
     if (coachSnapshot.empty) {
       return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
@@ -109,22 +90,23 @@ export async function POST(request: NextRequest) {
     }
 
     // Check if job exists
-    const jobRef = doc(clientDb, 'jobs', jobId);
-    const jobDoc = await getDoc(jobRef);
+    const jobRef = db.collection('jobs').doc(jobId);
+    const jobDoc = await jobRef.get();
 
-    if (!jobDoc.exists()) {
+    if (!jobDoc.exists) {
       return NextResponse.json({ error: 'Job not found' }, { status: 404 });
     }
 
     const jobData = jobDoc.data();
+    if (!jobData) {
+      return NextResponse.json({ error: 'Job data not found' }, { status: 404 });
+    }
 
     // Check if coach has already applied
-    const existingApplicationQuery = query(
-      collection(clientDb, 'job_applications'),
-      where('jobId', '==', jobId),
-      where('coachId', '==', userId)
-    );
-    const existingSnapshot = await getDocs(existingApplicationQuery);
+    const existingApplicationQuery = db.collection('job_applications')
+      .where('jobId', '==', jobId)
+      .where('coachId', '==', userId);
+    const existingSnapshot = await existingApplicationQuery.get();
 
     if (!existingSnapshot.empty) {
       return NextResponse.json({ error: 'You have already applied for this job' }, { status: 400 });
@@ -152,10 +134,10 @@ export async function POST(request: NextRequest) {
       updatedAt: new Date(),
     };
 
-    const applicationRef = await addDoc(collection(clientDb, 'job_applications'), applicationData);
+    const applicationRef = await db.collection('job_applications').add(applicationData);
 
     // Update job applicant count
-    await updateDoc(jobRef, {
+    await jobRef.update({
       applicants: (jobData.applicants || 0) + 1,
       updatedAt: new Date(),
     });
@@ -225,14 +207,17 @@ export async function PUT(request: NextRequest) {
     const userId = decodedToken.uid;
 
     // Get application
-    const applicationRef = doc(clientDb, 'job_applications', applicationId);
-    const applicationDoc = await getDoc(applicationRef);
+    const applicationRef = db.collection('job_applications').doc(applicationId);
+    const applicationDoc = await applicationRef.get();
 
-    if (!applicationDoc.exists()) {
+    if (!applicationDoc.exists) {
       return NextResponse.json({ error: 'Application not found' }, { status: 404 });
     }
 
     const applicationData = applicationDoc.data();
+    if (!applicationData) {
+      return NextResponse.json({ error: 'Application data not found' }, { status: 404 });
+    }
 
     // Check if user is the job poster (can accept/reject applications)
     if (applicationData.jobPostedBy !== userId) {
@@ -240,7 +225,7 @@ export async function PUT(request: NextRequest) {
     }
 
     // Update application
-    await updateDoc(applicationRef, {
+    await applicationRef.update({
       status,
       feedback: feedback || '',
       updatedAt: new Date(),
@@ -248,9 +233,9 @@ export async function PUT(request: NextRequest) {
 
     // Send email notification to applicant
     try {
-      const coachesRef = collection(clientDb, 'coaches');
-      const coachQuery = query(coachesRef, where('userId', '==', applicationData.coachId));
-      const coachSnapshot = await getDocs(coachQuery);
+      const coachesRef = db.collection('coaches');
+      const coachQuery = coachesRef.where('userId', '==', applicationData.coachId);
+      const coachSnapshot = await coachQuery.get();
 
       if (!coachSnapshot.empty) {
         const coachDoc = coachSnapshot.docs[0];

@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { doc, getDoc, updateDoc } from 'firebase/firestore';
-import { db } from '../../../lib/firebase-client';
+import { db } from '../../../lib/firebase-admin';
 import { auth } from '../../../lib/firebase-admin';
 
 // GET - Fetch coach profile
@@ -11,14 +10,17 @@ export async function GET(
   try {
     const { id: coachId } = await params;
     
-    const coachRef = doc(db, 'coaches', coachId);
-    const coachSnap = await getDoc(coachRef);
+    const coachRef = db.doc(`coaches/${coachId}`);
+    const coachSnap = await coachRef.get();
     
-    if (!coachSnap.exists()) {
+    if (!coachSnap.exists) {
       return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
     }
 
     const data = coachSnap.data();
+    if (!data) {
+      return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
+    }
     const serializedData = {
       ...data,
       createdAt: data.createdAt?.toDate().toISOString() || null,
@@ -54,14 +56,17 @@ export async function PUT(
     const userId = decodedToken.uid;
 
     // Check if user owns this coach profile
-    const coachRef = doc(db, 'coaches', coachId);
-    const coachSnap = await getDoc(coachRef);
+    const coachRef = db.doc(`coaches/${coachId}`);
+    const coachSnap = await coachRef.get();
     
-    if (!coachSnap.exists()) {
+    if (!coachSnap.exists) {
       return NextResponse.json({ error: 'Coach not found' }, { status: 404 });
     }
 
     const coachData = coachSnap.data();
+    if (!coachData) {
+      return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
+    }
     if (coachData.userId !== userId) {
       return NextResponse.json({ error: 'Forbidden' }, { status: 403 });
     }
@@ -99,7 +104,7 @@ export async function PUT(
     }
 
     // Update the document
-    await updateDoc(coachRef, sanitizedUpdates);
+    await coachRef.update(sanitizedUpdates);
 
     return NextResponse.json({ 
       success: true, 

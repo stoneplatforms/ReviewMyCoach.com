@@ -1,20 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { initializeApp, getApps } from 'firebase/app';
-import { getFirestore, doc, getDoc, setDoc, collection, query, where, orderBy, getDocs, addDoc, updateDoc, limit } from 'firebase/firestore';
-import { auth } from '../../lib/firebase-admin';
-
-// Initialize Firebase client
-const firebaseConfig = {
-  apiKey: process.env.NEXT_PUBLIC_FIREBASE_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID,
-  storageBucket: process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
-  appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
-};
-
-const clientApp = !getApps().length ? initializeApp(firebaseConfig) : getApps()[0];
-const clientDb = getFirestore(clientApp);
+import { auth, db } from '../../lib/firebase-admin';
 
 // GET - Fetch messages for a conversation
 export async function GET(request: NextRequest) {
@@ -30,14 +15,10 @@ export async function GET(request: NextRequest) {
 
     if (conversationId) {
       // Fetch messages for a specific conversation
-      const messagesRef = collection(clientDb, 'conversations', conversationId, 'messages');
-      const messagesQuery = query(
-        messagesRef,
-        orderBy('createdAt', 'desc'),
-        limit(limitCount)
-      );
+      const messagesRef = db.collection('conversations').doc(conversationId).collection('messages');
+      const messagesQuery = messagesRef.orderBy('createdAt', 'desc').limit(limitCount);
 
-      const snapshot = await getDocs(messagesQuery);
+      const snapshot = await messagesQuery.get();
       const messages = snapshot.docs.map(doc => ({
         id: doc.id,
         ...doc.data(),
@@ -47,14 +28,12 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ messages });
     } else {
       // Fetch all conversations for a user
-      const conversationsRef = collection(clientDb, 'conversations');
-      const conversationsQuery = query(
-        conversationsRef,
-        where('participants', 'array-contains', userId),
-        orderBy('lastMessageAt', 'desc')
-      );
+      const conversationsRef = db.collection('conversations');
+      const conversationsQuery = conversationsRef
+        .where('participants', 'array-contains', userId)
+        .orderBy('lastMessageAt', 'desc');
 
-      const snapshot = await getDocs(conversationsQuery);
+      const snapshot = await conversationsQuery.get();
       const conversations = snapshot.docs.map(doc => ({
         id: doc.id,
         ...doc.data(),
@@ -99,9 +78,9 @@ export async function POST(request: NextRequest) {
     }
 
     // Get sender profile
-    const senderCoachesRef = collection(clientDb, 'coaches');
-    const senderQuery = query(senderCoachesRef, where('userId', '==', senderId));
-    const senderSnapshot = await getDocs(senderQuery);
+    const senderCoachesRef = db.collection('coaches');
+    const senderQuery = senderCoachesRef.where('userId', '==', senderId);
+    const senderSnapshot = await senderQuery.get();
     
     let senderProfile = null;
     if (!senderSnapshot.empty) {
@@ -110,8 +89,8 @@ export async function POST(request: NextRequest) {
 
     // If sender is not a coach, check if they're a user
     if (!senderProfile) {
-      const userDoc = await getDoc(doc(clientDb, 'users', senderId));
-      if (userDoc.exists()) {
+      const userDoc = await db.doc(`users/${senderId}`).get();
+      if (userDoc.exists) {
         senderProfile = userDoc.data();
       }
     }
@@ -129,12 +108,12 @@ export async function POST(request: NextRequest) {
       currentConversationId = `${participants[0]}_${participants[1]}`;
       
       // Check if conversation already exists
-      const conversationRef = doc(clientDb, 'conversations', currentConversationId);
-      const conversationDoc = await getDoc(conversationRef);
+      const conversationRef = db.doc(`conversations/${currentConversationId}`);
+      const conversationDoc = await conversationRef.get();
       
-      if (!conversationDoc.exists()) {
+      if (!conversationDoc.exists) {
         // Create new conversation
-        await setDoc(conversationRef, {
+        await conversationRef.set({
           participants: [senderId, recipientId],
           createdAt: new Date(),
           lastMessageAt: new Date(),
@@ -149,7 +128,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Add message to conversation
-    const messagesRef = collection(clientDb, 'conversations', currentConversationId, 'messages');
+    const messagesRef = db.collection('conversations').doc(currentConversationId).collection('messages');
     const messageData = {
       senderId,
       senderName: senderProfile.displayName || senderProfile.username || 'Unknown',
@@ -159,23 +138,26 @@ export async function POST(request: NextRequest) {
       read: false
     };
 
-    const messageRef = await addDoc(messagesRef, messageData);
+    const messageRef = await messagesRef.add(messageData);
 
     // Update conversation with last message
-    const conversationRef = doc(clientDb, 'conversations', currentConversationId);
-    await updateDoc(conversationRef, {
+    const conversationRef = db.doc(`conversations/${currentConversationId}`);
+    const conversationDoc = await conversationRef.get();
+    const currentUnreadCount = conversationDoc.data()?.unreadCount?.[recipientId] || 0;
+    
+    await conversationRef.update({
       lastMessageAt: new Date(),
       lastMessage: message.trim(),
       lastMessageSender: senderId,
-      [`unreadCount.${recipientId}`]: (await getDoc(conversationRef)).data()?.unreadCount?.[recipientId] || 0 + 1
+      [`unreadCount.${recipientId}`]: currentUnreadCount + 1
     });
 
     // Send email notification to recipient
     try {
       // Get recipient profile
-      const recipientCoachesRef = collection(clientDb, 'coaches');
-      const recipientQuery = query(recipientCoachesRef, where('userId', '==', recipientId));
-      const recipientSnapshot = await getDocs(recipientQuery);
+      const recipientCoachesRef = db.collection('coaches');
+      const recipientQuery = recipientCoachesRef.where('userId', '==', recipientId);
+      const recipientSnapshot = await recipientQuery.get();
       
       let recipientProfile = null;
       if (!recipientSnapshot.empty) {
@@ -184,8 +166,8 @@ export async function POST(request: NextRequest) {
 
       // If recipient is not a coach, check if they're a user
       if (!recipientProfile) {
-        const userDoc = await getDoc(doc(clientDb, 'users', recipientId));
-        if (userDoc.exists()) {
+        const userDoc = await db.doc(`users/${recipientId}`).get();
+        if (userDoc.exists) {
           recipientProfile = userDoc.data();
         }
       }
@@ -251,22 +233,20 @@ export async function PUT(request: NextRequest) {
     }
 
     // Reset unread count for user
-    const conversationRef = doc(clientDb, 'conversations', conversationId);
-    await updateDoc(conversationRef, {
+    const conversationRef = db.doc(`conversations/${conversationId}`);
+    await conversationRef.update({
       [`unreadCount.${userId}`]: 0
     });
 
     // Mark all messages in conversation as read for this user
-    const messagesRef = collection(clientDb, 'conversations', conversationId, 'messages');
-    const messagesQuery = query(
-      messagesRef,
-      where('recipientId', '==', userId),
-      where('read', '==', false)
-    );
+    const messagesRef = db.collection('conversations').doc(conversationId).collection('messages');
+    const messagesQuery = messagesRef
+      .where('recipientId', '==', userId)
+      .where('read', '==', false);
 
-    const snapshot = await getDocs(messagesQuery);
+    const snapshot = await messagesQuery.get();
     const updatePromises = snapshot.docs.map(doc => 
-      updateDoc(doc.ref, { read: true })
+      doc.ref.update({ read: true })
     );
 
     await Promise.all(updatePromises);

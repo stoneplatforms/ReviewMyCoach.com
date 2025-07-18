@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { doc, collection, addDoc, getDocs, query, orderBy, limit, updateDoc, getDoc } from 'firebase/firestore';
-import { db } from '../../../../lib/firebase-client';
+import { db } from '../../../../lib/firebase-admin';
 import { auth } from '../../../../lib/firebase-admin';
 
 interface ReviewData {
@@ -64,11 +63,11 @@ export async function POST(
     let studentName = 'Anonymous User';
     if (isAuthenticated && userId) {
       try {
-        const userDoc = await getDoc(doc(db, 'users', userId));
-        if (userDoc.exists()) {
+        const userDoc = await db.doc(`users/${userId}`).get();
+        if (userDoc.exists) {
           const userData = userDoc.data();
           // Use username if available, fallback to displayName, then Anonymous
-          studentName = userData.username || userData.displayName || 'Anonymous User';
+          studentName = userData?.username || userData?.displayName || 'Anonymous User';
         }
               } catch {
           console.log('Could not fetch user data, using Anonymous');
@@ -93,10 +92,7 @@ export async function POST(
       data: reviewData
     });
 
-    const reviewRef = await addDoc(
-      collection(db, 'coaches', coachId, 'reviews'),
-      reviewData
-    );
+    const reviewRef = await db.collection('coaches').doc(coachId).collection('reviews').add(reviewData);
     
     console.log('Review created successfully with ID:', reviewRef.id);
 
@@ -136,14 +132,12 @@ export async function GET(
     const limitParam = searchParams.get('limit') || '20';
     const limitNum = parseInt(limitParam, 10);
 
-    const reviewsQuery = query(
-      collection(db, 'coaches', coachId, 'reviews'),
-      orderBy('createdAt', 'desc'),
-      limit(limitNum)
-    );
+    const reviewsQuery = db.collection('coaches').doc(coachId).collection('reviews')
+      .orderBy('createdAt', 'desc')
+      .limit(limitNum);
 
-    const reviewsSnapshot = await getDocs(reviewsQuery);
-    const reviews = reviewsSnapshot.docs.map(doc => ({
+    const reviewsSnapshot = await reviewsQuery.get();
+    const reviews = reviewsSnapshot.docs.map((doc: any) => ({
       id: doc.id,
       ...doc.data(),
       createdAt: doc.data().createdAt?.toDate().toISOString() || null
@@ -162,8 +156,8 @@ async function updateCoachRating(coachId: string) {
   try {
     console.log('Updating coach rating for:', coachId);
     
-    const reviewsQuery = query(collection(db, 'coaches', coachId, 'reviews'));
-    const reviewsSnapshot = await getDocs(reviewsQuery);
+    const reviewsQuery = db.collection('coaches').doc(coachId).collection('reviews');
+    const reviewsSnapshot = await reviewsQuery.get();
     
     if (reviewsSnapshot.empty) {
       console.log('No reviews found for coach:', coachId);
@@ -173,7 +167,7 @@ async function updateCoachRating(coachId: string) {
     let totalRating = 0;
     let reviewCount = 0;
 
-    reviewsSnapshot.forEach(doc => {
+    reviewsSnapshot.forEach((doc: any) => {
       const data = doc.data();
       if (data.rating && typeof data.rating === 'number') {
         totalRating += data.rating;
@@ -202,7 +196,7 @@ async function updateCoachRating(coachId: string) {
       updatedAt: new Date()
     };
 
-    await updateDoc(doc(db, 'coaches', coachId), updateData);
+    await db.doc(`coaches/${coachId}`).update(updateData);
     console.log('Successfully updated coach rating:', coachId);
 
   } catch (error) {
