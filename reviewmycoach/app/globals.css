@@ -1,25 +1,28 @@
 @import "tailwindcss";
 
 :root {
-  --background: #111827;
-  --foreground: #f9fafb;
-  --card: #1f2937;
-  --card-foreground: #f9fafb;
-  --border: #374151;
-  --input: #1f2937;
-  --ring: #f97316;
-  --primary: #f97316;
-  --primary-foreground: #ffffff;
-  --secondary: #374151;
-  --secondary-foreground: #f9fafb;
-  --accent: #1f2937;
-  --accent-foreground: #f9fafb;
+  --background: #0f172a;
+  --foreground: #f8fafc;
+  --card: #1e293b;
+  --card-foreground: #f8fafc;
+  --border: #334155;
+  --input: #1e293b;
+  --ring: #475569;
+  --primary: #475569;
+  --primary-foreground: #f8fafc;
+  --secondary: #334155;
+  --secondary-foreground: #f8fafc;
+  --accent: #1e293b;
+  --accent-foreground: #f8fafc;
   --destructive: #ef4444;
   --destructive-foreground: #ffffff;
-  --muted: #374151;
-  --muted-foreground: #9ca3af;
-  --popover: #1f2937;
-  --popover-foreground: #f9fafb;
+  --muted: #334155;
+  --muted-foreground: #94a3b8;
+  --popover: #1e293b;
+  --popover-foreground: #f8fafc;
+  --sport-accent: #0ea5e9;
+  --sport-accent-dark: #0284c7;
+  --sport-secondary: #64748b;
 }
 
 @theme inline {
@@ -42,6 +45,9 @@
   --color-muted-foreground: var(--muted-foreground);
   --color-popover: var(--popover);
   --color-popover-foreground: var(--popover-foreground);
+  --color-sport-accent: var(--sport-accent);
+  --color-sport-accent-dark: var(--sport-accent-dark);
+  --color-sport-secondary: var(--sport-secondary);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
@@ -59,27 +65,27 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-  background: #1f2937;
+  background: #1e293b;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #374151;
+  background: #475569;
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #4b5563;
+  background: #64748b;
 }
 
 /* Selection colors */
 ::selection {
-  background: #f97316;
-  color: #ffffff;
+  background: #475569;
+  color: #f8fafc;
 }
 
 /* Focus rings */
 *:focus-visible {
-  outline: 2px solid #f97316;
+  outline: 2px solid var(--sport-accent);
   outline-offset: 2px;
 }
 
@@ -88,11 +94,12 @@ input, textarea, select {
   background-color: var(--input);
   color: var(--foreground);
   border: 1px solid var(--border);
+  transition: all 0.2s ease;
 }
 
 input:focus, textarea:focus, select:focus {
-  border-color: var(--ring);
-  box-shadow: 0 0 0 2px rgba(249, 115, 22, 0.2);
+  border-color: var(--sport-accent);
+  box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.1);
 }
 
 /* Dark theme for buttons */
@@ -102,44 +109,171 @@ button {
   border: none;
   cursor: pointer;
   transition: all 0.2s ease;
+  font-weight: 500;
 }
 
 button:hover {
-  background-color: #ea580c;
+  background-color: var(--sport-secondary);
+  transform: translateY(-1px);
+}
+
+button:active {
+  transform: translateY(0);
+}
+
+/* Ensure all blue buttons have white text */
+.bg-blue-600,
+.bg-blue-500,
+.bg-sky-600,
+.bg-sky-500 {
+  color: white !important;
+}
+
+.bg-blue-600:hover,
+.bg-blue-500:hover,
+.bg-sky-600:hover,
+.bg-sky-500:hover {
+  color: white !important;
 }
 
 /* Links */
 a {
-  color: var(--primary);
+  color: var(--sport-accent);
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: all 0.2s ease;
 }
 
 a:hover {
-  color: #ea580c;
+  color: var(--sport-accent-dark);
 }
 
 /* Cards and containers */
 .card {
   background-color: var(--card);
   border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 1rem;
+  border-radius: 12px;
+  padding: 1.5rem;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
 }
 
-/* Sports-themed gradient backgrounds */
+.card:hover {
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transform: translateY(-2px);
+}
+
+/* Sporty gradient backgrounds */
+.gradient-primary {
+  background: linear-gradient(135deg, #475569 0%, #64748b 100%);
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+}
+
 .gradient-basketball {
-  background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%);
 }
 
 .gradient-soccer {
-  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
 }
 
 .gradient-tennis {
-  background: linear-gradient(135deg, #a855f7 0%, #9333ea 100%);
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%);
 }
 
 .gradient-swimming {
   background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+}
+
+/* Sport-themed utility classes */
+.sport-border {
+  border: 2px solid var(--sport-accent);
+}
+
+.sport-text {
+  color: var(--sport-accent);
+}
+
+.sport-bg {
+  background-color: var(--sport-accent);
+}
+
+.sport-bg-soft {
+  background-color: rgba(14, 165, 233, 0.1);
+}
+
+/* Minimalistic components */
+.minimal-card {
+  background: rgba(30, 41, 59, 0.8);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(71, 85, 105, 0.3);
+  border-radius: 16px;
+  transition: all 0.3s ease;
+}
+
+.minimal-card:hover {
+  background: rgba(30, 41, 59, 0.9);
+  border-color: rgba(14, 165, 233, 0.5);
+}
+
+/* Athletic button styles */
+.btn-sport {
+  background: linear-gradient(135deg, #475569 0%, #64748b 100%);
+  color: #f8fafc;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-sport::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+  transition: left 0.5s ease;
+}
+
+.btn-sport:hover::before {
+  left: 100%;
+}
+
+.btn-sport:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.btn-accent {
+  background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+  color: #ffffff;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 8px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+}
+
+.btn-accent:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(14, 165, 233, 0.3);
+}
+
+/* Responsive design improvements */
+@media (max-width: 768px) {
+  .card {
+    padding: 1rem;
+  }
+  
+  .btn-sport, .btn-accent {
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+  }
 }
