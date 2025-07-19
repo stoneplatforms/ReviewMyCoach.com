@@ -8,6 +8,8 @@ interface SearchFiltersProps {
     location: string;
     gender: string;
     organization: string;
+    role: string;
+    ageGroup: string;
     minRating: string;
     maxRate: string;
     isVerified: string;
@@ -35,11 +37,15 @@ export default function SearchFilters({
     locations: FilterOption[];
     genders: FilterOption[];
     organizations: FilterOption[];
+    roles: FilterOption[];
+    ageGroups: FilterOption[];
   }>({
     sports: [],
     locations: [],
     genders: [],
     organizations: [],
+    roles: [],
+    ageGroups: [],
   });
 
   const [showMobileFilters, setShowMobileFilters] = useState(false);
@@ -100,6 +106,26 @@ export default function SearchFilters({
         { value: 'International Tennis Federation', label: 'ITF' },
         { value: 'USA Swimming', label: 'USA Swimming' },
         { value: 'USA Track & Field', label: 'USA Track & Field' },
+      ],
+      roles: [
+        { value: 'Head Coach', label: 'Head Coach' },
+        { value: 'Assistant Coach', label: 'Assistant Coach' },
+        { value: 'Strength & Conditioning Coach', label: 'Strength & Conditioning Coach' },
+        { value: 'Skills Coach', label: 'Skills Coach' },
+        { value: 'Goalkeeper Coach', label: 'Goalkeeper Coach' },
+        { value: 'Position Coach', label: 'Position Coach' },
+        { value: 'Private Instructor', label: 'Private Instructor' },
+        { value: 'Team Coach', label: 'Team Coach' },
+        { value: 'Other', label: 'Other' },
+      ],
+      ageGroups: [
+        { value: 'Youth (Under 12)', label: 'Youth (Under 12)' },
+        { value: 'Junior (12-16)', label: 'Junior (12-16)' },
+        { value: 'High School (14-18)', label: 'High School (14-18)' },
+        { value: 'College (18-22)', label: 'College (18-22)' },
+        { value: 'Adult (22+)', label: 'Adult (22+)' },
+        { value: 'Senior (55+)', label: 'Senior (55+)' },
+        { value: 'All Ages', label: 'All Ages' },
       ],
     };
     
@@ -224,7 +250,7 @@ export default function SearchFilters({
         </div>
 
         {/* Filter Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
           {/* Sport Filter */}
           {renderSelect('sport', 'Sport', availableOptions.sports, 'Any sport')}
 
@@ -233,6 +259,12 @@ export default function SearchFilters({
 
           {/* Gender Filter */}
           {renderSelect('gender', 'Gender', availableOptions.genders, 'Any gender')}
+
+          {/* Role Filter */}
+          {renderSelect('role', 'Coaching Role', availableOptions.roles, 'Any role')}
+
+          {/* Age Group Filter */}
+          {renderSelect('ageGroup', 'Age Group', availableOptions.ageGroups, 'Any age group')}
 
           {/* Organization Filter */}
           {renderSelect('organization', 'Organization', availableOptions.organizations, 'Any organization')}

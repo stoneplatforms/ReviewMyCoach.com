@@ -24,6 +24,11 @@ interface Coach {
   isVerified: boolean;
   subscriptionStatus?: string;
   specialties: string[];
+  organization?: string;
+  role?: string;
+  gender?: string;
+  ageGroup?: string[];
+  sourceUrl?: string;
 }
 
 interface Job {

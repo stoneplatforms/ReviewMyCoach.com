@@ -18,6 +18,11 @@ interface Coach {
   isVerified: boolean;
   specialties?: string[];
   hasActiveServices?: boolean;
+  organization?: string;
+  role?: string;
+  gender?: string;
+  ageGroup?: string[];
+  sourceUrl?: string;
 }
 
 interface CoachCardProps {

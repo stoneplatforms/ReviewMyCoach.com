@@ -184,6 +184,30 @@ service cloud.firestore {
       allow create: if true;
       allow update: if true;
       allow delete: if true;
+      
+      // Applications subcollection
+      match /applications/{applicationId} {
+        allow read: if true;
+        allow create: if true;
+        allow update: if true;
+        allow delete: if true;
+      }
+    }
+
+    // Courses collection - EXTREMELY PERMISSIVE
+    match /courses/{courseId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
+    }
+
+    // Job Applications collection - EXTREMELY PERMISSIVE
+    match /job_applications/{applicationId} {
+      allow read: if true;
+      allow create: if true;
+      allow update: if true;
+      allow delete: if true;
     }
 
     // Messages/Conversations collection - EXTREMELY PERMISSIVE

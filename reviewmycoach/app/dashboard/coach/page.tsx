@@ -38,6 +38,11 @@ interface CoachProfile {
   totalReviews: number;
   profileImage?: string;
   isVerified: boolean;
+  organization?: string;
+  role?: string;
+  gender?: string;
+  ageGroup?: string[];
+  sourceUrl?: string;
 }
 
 export default function CoachDashboard() {
@@ -270,7 +275,7 @@ export default function CoachDashboard() {
               <div className="mt-4">
                 <div className="flex space-x-3">
                   <Link
-                    href="/profile"
+                    href="/dashboard/coach/profile/edit"
                     className="text-sm bg-yellow-100 text-yellow-800 rounded-md px-3 py-2 font-medium hover:bg-yellow-200 transition-colors"
                   >
                     Complete Profile

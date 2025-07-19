@@ -26,6 +26,11 @@ interface CoachData {
   certifications?: string[];
   location?: string;
   hourlyRate?: number;
+  organization?: string;
+  role?: string;
+  gender?: string;
+  ageGroup?: string[];
+  sourceUrl?: string;
   createdAt?: string | null;
   updatedAt?: string | null;
   [key: string]: any;

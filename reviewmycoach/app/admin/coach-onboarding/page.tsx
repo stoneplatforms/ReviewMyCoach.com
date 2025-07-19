@@ -21,6 +21,11 @@ interface CoachFormData {
   languages: string[];
   phoneNumber: string;
   website: string;
+  organization: string;
+  role: string;
+  gender: string;
+  ageGroup: string[];
+  sourceUrl: string;
   socialMedia: {
     instagram: string;
     twitter: string;
@@ -54,6 +59,11 @@ export default function CoachOnboarding() {
     languages: ['English'],
     phoneNumber: '',
     website: '',
+    organization: '',
+    role: '',
+    gender: '',
+    ageGroup: [],
+    sourceUrl: '',
     socialMedia: {
       instagram: '',
       twitter: '',
@@ -133,7 +143,7 @@ export default function CoachOnboarding() {
     }
   };
 
-  const handleArrayChange = (field: 'sports' | 'certifications' | 'specialties' | 'languages', value: string) => {
+  const handleArrayChange = (field: 'sports' | 'certifications' | 'specialties' | 'languages' | 'ageGroup', value: string) => {
     setFormData(prev => {
       const currentArray = prev[field];
       const newArray = currentArray.includes(value)
@@ -148,6 +158,8 @@ export default function CoachOnboarding() {
         return { ...prev, specialties: newArray };
       } else if (field === 'languages') {
         return { ...prev, languages: newArray };
+      } else if (field === 'ageGroup') {
+        return { ...prev, ageGroup: newArray };
       }
       return prev;
     });
@@ -178,6 +190,11 @@ export default function CoachOnboarding() {
         availability: [],
         specialties: formData.specialties,
         languages: formData.languages,
+        organization: formData.organization,
+        role: formData.role,
+        gender: formData.gender,
+        ageGroup: formData.ageGroup,
+        sourceUrl: formData.sourceUrl,
         averageRating: 0,
         totalReviews: 0,
         isVerified: false, // Admin can verify later
@@ -426,6 +443,115 @@ export default function CoachOnboarding() {
                       className="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
                       placeholder="City, State"
                     />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Additional Coach Information */}
+          <div className="bg-white shadow px-4 py-5 sm:rounded-lg sm:p-6">
+            <div className="md:grid md:grid-cols-3 md:gap-6">
+              <div className="md:col-span-1">
+                <h3 className="text-lg font-medium leading-6 text-gray-900">Additional Information</h3>
+                <p className="mt-1 text-sm text-gray-500">
+                  Organization, role, and demographic information.
+                </p>
+              </div>
+              <div className="mt-5 md:mt-0 md:col-span-2">
+                <div className="grid grid-cols-6 gap-6">
+                  <div className="col-span-6 sm:col-span-4">
+                    <label htmlFor="organization" className="block text-sm font-medium text-gray-700">
+                      Organization / School / Club
+                    </label>
+                    <input
+                      type="text"
+                      name="organization"
+                      id="organization"
+                      value={formData.organization}
+                      onChange={(e) => handleInputChange('organization', e.target.value)}
+                      className="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                      placeholder="e.g. XYZ High School, ABC Athletic Club"
+                    />
+                  </div>
+
+                  <div className="col-span-6 sm:col-span-3">
+                    <label htmlFor="role" className="block text-sm font-medium text-gray-700">
+                      Coaching Role
+                    </label>
+                    <select
+                      id="role"
+                      name="role"
+                      value={formData.role}
+                      onChange={(e) => handleInputChange('role', e.target.value)}
+                      className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+                    >
+                      <option value="">Select Role</option>
+                      <option value="Head Coach">Head Coach</option>
+                      <option value="Assistant Coach">Assistant Coach</option>
+                      <option value="Strength & Conditioning Coach">Strength & Conditioning Coach</option>
+                      <option value="Skills Coach">Skills Coach</option>
+                      <option value="Goalkeeper Coach">Goalkeeper Coach</option>
+                      <option value="Position Coach">Position Coach</option>
+                      <option value="Private Instructor">Private Instructor</option>
+                      <option value="Team Coach">Team Coach</option>
+                      <option value="Other">Other</option>
+                    </select>
+                  </div>
+
+                  <div className="col-span-6 sm:col-span-3">
+                    <label htmlFor="gender" className="block text-sm font-medium text-gray-700">
+                      Gender
+                    </label>
+                    <select
+                      id="gender"
+                      name="gender"
+                      value={formData.gender}
+                      onChange={(e) => handleInputChange('gender', e.target.value)}
+                      className="mt-1 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 sm:text-sm"
+                    >
+                      <option value="">Select Gender</option>
+                      <option value="Male">Male</option>
+                      <option value="Female">Female</option>
+                      <option value="Non-binary">Non-binary</option>
+                      <option value="Prefer not to say">Prefer not to say</option>
+                    </select>
+                  </div>
+
+                  <div className="col-span-6">
+                    <label className="block text-sm font-medium text-gray-700 mb-2">Age Groups</label>
+                    <p className="text-sm text-gray-500 mb-3">Select all age groups you coach</p>
+                    <div className="grid grid-cols-2 gap-2">
+                      {['Youth (Under 12)', 'Junior (12-16)', 'High School (14-18)', 'College (18-22)', 'Adult (22+)', 'Senior (55+)', 'All Ages'].map((ageGroup) => (
+                        <label key={ageGroup} className="flex items-center">
+                          <input
+                            type="checkbox"
+                            checked={formData.ageGroup.includes(ageGroup)}
+                            onChange={() => handleArrayChange('ageGroup', ageGroup)}
+                            className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                          />
+                          <span className="ml-2 text-sm text-gray-700">{ageGroup}</span>
+                        </label>
+                      ))}
+                    </div>
+                  </div>
+
+                  <div className="col-span-6">
+                    <label htmlFor="sourceUrl" className="block text-sm font-medium text-gray-700">
+                      Source URL
+                    </label>
+                    <input
+                      type="url"
+                      name="sourceUrl"
+                      id="sourceUrl"
+                      value={formData.sourceUrl}
+                      onChange={(e) => handleInputChange('sourceUrl', e.target.value)}
+                      className="mt-1 focus:ring-blue-500 focus:border-blue-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md"
+                      placeholder="https://example.com/coach-profile"
+                    />
+                    <p className="mt-1 text-xs text-gray-500">
+                      Optional URL where this coach profile was sourced from
+                    </p>
                   </div>
                 </div>
               </div>

@@ -77,7 +77,8 @@ export async function PUT(
     const allowedFields = [
       'displayName', 'bio', 'sports', 'experience', 'certifications',
       'hourlyRate', 'location', 'availability', 'specialties', 'languages',
-      'profileImage', 'phoneNumber', 'website', 'socialMedia'
+      'profileImage', 'phoneNumber', 'website', 'socialMedia', 'organization',
+      'role', 'gender', 'ageGroup', 'sourceUrl'
     ];
 
     const sanitizedUpdates: Record<string, any> = {};

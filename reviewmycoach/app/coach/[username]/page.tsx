@@ -24,6 +24,11 @@ interface CoachProfile {
   phoneNumber?: string;
   website?: string;
   isVerified: boolean;
+  organization?: string;
+  role?: string;
+  gender?: string;
+  ageGroup?: string[];
+  sourceUrl?: string;
   socialMedia?: {
     instagram?: string;
     twitter?: string;

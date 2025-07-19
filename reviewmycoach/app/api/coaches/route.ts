@@ -8,6 +8,11 @@ interface CoachData {
   specialties?: string[];
   sports?: string[];
   hourlyRate?: number;
+  organization?: string;
+  role?: string;
+  gender?: string;
+  ageGroup?: string[];
+  sourceUrl?: string;
   createdAt?: string | null;
   updatedAt?: string | null;
   [key: string]: any;
@@ -27,6 +32,10 @@ export async function GET(request: NextRequest) {
     const maxRateParam = searchParams.get('maxRate');
     const isVerifiedParam = searchParams.get('isVerified');
     const searchTermParam = searchParams.get('search');
+    const genderParam = searchParams.get('gender');
+    const organizationParam = searchParams.get('organization');
+    const roleParam = searchParams.get('role');
+    const ageGroupParam = searchParams.get('ageGroup');
     const sortByParam = searchParams.get('sortBy') || 'averageRating'; // averageRating, hourlyRate, experience
     const sortOrderParam = searchParams.get('sortOrder') || 'desc';
 
@@ -50,6 +59,14 @@ export async function GET(request: NextRequest) {
 
     if (isVerifiedParam === 'true') {
       baseQuery = baseQuery.where('isVerified', '==', true);
+    }
+
+    if (genderParam) {
+      baseQuery = baseQuery.where('gender', '==', genderParam);
+    }
+
+    if (roleParam) {
+      baseQuery = baseQuery.where('role', '==', roleParam);
     }
 
     // Add sorting
@@ -79,7 +96,20 @@ export async function GET(request: NextRequest) {
         coach.displayName?.toLowerCase().includes(searchTerm) ||
         coach.bio?.toLowerCase().includes(searchTerm) ||
         coach.specialties?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
-        coach.sports?.some((s: string) => s.toLowerCase().includes(searchTerm))
+        coach.sports?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
+        coach.organization?.toLowerCase().includes(searchTerm)
+      );
+    }
+
+    if (organizationParam) {
+      coaches = coaches.filter((coach: CoachData) => 
+        coach.organization?.toLowerCase().includes(organizationParam.toLowerCase())
+      );
+    }
+
+    if (ageGroupParam) {
+      coaches = coaches.filter((coach: CoachData) => 
+        coach.ageGroup?.some((age: string) => age.toLowerCase().includes(ageGroupParam.toLowerCase()))
       );
     }
 
