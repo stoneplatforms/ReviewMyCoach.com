@@ -1,5 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { db } from '../../lib/firebase-admin';
+
+let db: any = null;
+try {
+  const firebaseAdmin = require('../../lib/firebase-admin');
+  db = firebaseAdmin.db;
+} catch (error) {
+  console.error('Failed to initialize Firebase Admin in coaches route:', error);
+}
 
 interface CoachData {
   id: string;
@@ -20,6 +27,19 @@ interface CoachData {
 
 // GET - Fetch coaches with filtering and pagination
 export async function GET(request: NextRequest) {
+  // Early return if Firebase isn't initialized
+  if (!db) {
+    console.error('Firebase not initialized - returning empty coaches list');
+    return NextResponse.json({ 
+      coaches: [],
+      count: 0,
+      page: 1,
+      limit: 20,
+      hasMore: false,
+      error: 'Firebase connection not available'
+    });
+  }
+
   try {
     const { searchParams } = new URL(request.url);
     

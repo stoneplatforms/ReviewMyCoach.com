@@ -147,7 +147,7 @@ export default function SearchFilters({
         id={key}
         value={filters[key as keyof typeof filters]}
         onChange={(e) => onFilterChange(key, e.target.value)}
-        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white"
+        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-gray-500 focus:border-gray-500 bg-white"
       >
         <option value="">{placeholder}</option>
         {options.map((option) => (
@@ -175,7 +175,7 @@ export default function SearchFilters({
         value={filters[key as keyof typeof filters]}
         onChange={(e) => onFilterChange(key, e.target.value)}
         placeholder={placeholder}
-        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-gray-500 focus:border-gray-500"
       />
     </div>
   );
@@ -189,7 +189,7 @@ export default function SearchFilters({
         id="isVerified"
         value={filters.isVerified}
         onChange={(e) => onFilterChange('isVerified', e.target.value)}
-        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500 bg-white"
+        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-gray-500 focus:border-gray-500 bg-white"
       >
         <option value="">All coaches</option>
         <option value="true">Verified only</option>
@@ -204,7 +204,7 @@ export default function SearchFilters({
       <div className="lg:hidden mb-4">
         <button
           onClick={() => setShowMobileFilters(!showMobileFilters)}
-          className="flex items-center justify-between w-full px-4 py-2 bg-white border border-gray-300 rounded-md text-left hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500"
+          className="flex items-center justify-between w-full px-4 py-2 bg-white border border-gray-300 rounded-md text-left hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-gray-500"
         >
           <span className="flex items-center">
             <svg className="w-5 h-5 mr-2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -212,7 +212,7 @@ export default function SearchFilters({
             </svg>
             Filters
             {hasActiveFilters && (
-              <span className="ml-2 inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+              <span className="ml-2 inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
                 Active
               </span>
             )}
@@ -239,7 +239,7 @@ export default function SearchFilters({
           {hasActiveFilters && (
             <button
               onClick={onClearFilters}
-              className="text-sm text-blue-600 hover:text-blue-800 font-medium flex items-center"
+              className="text-sm text-gray-600 hover:text-gray-800 font-medium flex items-center"
             >
               <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -300,12 +300,12 @@ export default function SearchFilters({
                 return (
                   <span
                     key={key}
-                    className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-blue-100 text-blue-800"
+                    className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-800"
                   >
                     {displayValue}
                     <button
                       onClick={() => onFilterChange(key, '')}
-                      className="ml-2 hover:text-blue-600"
+                      className="ml-2 hover:text-gray-600"
                     >
                       <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" />

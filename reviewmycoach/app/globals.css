@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0f172a;
+  --background: #000000;
   --foreground: #f8fafc;
   --card: #1e293b;
   --card-foreground: #f8fafc;
@@ -20,8 +20,8 @@
   --muted-foreground: #94a3b8;
   --popover: #1e293b;
   --popover-foreground: #f8fafc;
-  --sport-accent: #0ea5e9;
-  --sport-accent-dark: #0284c7;
+  --sport-accent: #6b7280;
+  --sport-accent-dark: #4b5563;
   --sport-secondary: #64748b;
 }
 
@@ -99,7 +99,7 @@ input, textarea, select {
 
 input:focus, textarea:focus, select:focus {
   border-color: var(--sport-accent);
-  box-shadow: 0 0 0 3px rgba(14, 165, 233, 0.1);
+  box-shadow: 0 0 0 3px rgba(107, 114, 128, 0.1);
 }
 
 /* Dark theme for buttons */
@@ -168,7 +168,7 @@ a:hover {
 }
 
 .gradient-accent {
-  background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+  background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
 }
 
 .gradient-basketball {
@@ -184,7 +184,7 @@ a:hover {
 }
 
 .gradient-swimming {
-  background: linear-gradient(135deg, #3b82f6 0%, #2563eb 100%);
+  background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
 }
 
 /* Sport-themed utility classes */
@@ -201,7 +201,7 @@ a:hover {
 }
 
 .sport-bg-soft {
-  background-color: rgba(14, 165, 233, 0.1);
+  background-color: rgba(107, 114, 128, 0.1);
 }
 
 /* Minimalistic components */
@@ -215,7 +215,7 @@ a:hover {
 
 .minimal-card:hover {
   background: rgba(30, 41, 59, 0.9);
-  border-color: rgba(14, 165, 233, 0.5);
+  border-color: rgba(107, 114, 128, 0.5);
 }
 
 /* Athletic button styles */
@@ -252,7 +252,7 @@ a:hover {
 }
 
 .btn-accent {
-  background: linear-gradient(135deg, #0ea5e9 0%, #0284c7 100%);
+  background: linear-gradient(135deg, #6b7280 0%, #4b5563 100%);
   color: #ffffff;
   border: none;
   padding: 0.75rem 1.5rem;
@@ -263,7 +263,25 @@ a:hover {
 
 .btn-accent:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 16px rgba(14, 165, 233, 0.3);
+  box-shadow: 0 8px 16px rgba(107, 114, 128, 0.3);
+}
+
+/* Hero Coach Carousel Animation */
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-33.333%);
+  }
+}
+
+.animate-scroll-left {
+  animation: scroll-left 60s linear infinite;
+}
+
+.animate-scroll-left:hover {
+  animation-play-state: paused;
 }
 
 /* Responsive design improvements */
@@ -275,5 +293,10 @@ a:hover {
   .btn-sport, .btn-accent {
     padding: 0.5rem 1rem;
     font-size: 0.875rem;
+  }
+
+  /* Faster animation on mobile */
+  .animate-scroll-left {
+    animation: scroll-left 40s linear infinite;
   }
 }

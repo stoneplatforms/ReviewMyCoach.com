@@ -76,7 +76,7 @@ export default function Pagination({
         onClick={() => onPageChange(pageNum)}
         className={`relative inline-flex items-center px-4 py-2 text-sm font-medium border transition-colors ${
           isCurrentPage
-            ? 'z-10 bg-blue-50 border-blue-500 text-blue-600'
+            ? 'z-10 bg-gray-50 border-gray-500 text-gray-600'
             : 'bg-white border-gray-300 text-gray-500 hover:bg-gray-50 hover:text-gray-700'
         }`}
         aria-current={isCurrentPage ? 'page' : undefined}
@@ -158,7 +158,7 @@ export default function Pagination({
           id="page-jump"
           value={currentPage}
           onChange={(e) => onPageChange(parseInt(e.target.value, 10))}
-          className="px-2 py-1 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-blue-500 focus:border-blue-500"
+          className="px-2 py-1 border border-gray-300 rounded text-sm focus:ring-2 focus:ring-gray-500 focus:border-gray-500"
         >
           {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
             <option key={page} value={page}>

@@ -1,9 +1,34 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { auth } from '../../lib/firebase-admin';
-import { db, findCoachByUserId } from '../../lib/firebase-admin';
-import { createProduct, createPrice } from '../../lib/stripe';
+
+let auth: any = null;
+let db: any = null;
+let findCoachByUserId: any = null;
+let createProduct: any = null;
+let createPrice: any = null;
+
+try {
+  const firebaseAdmin = require('../../lib/firebase-admin');
+  auth = firebaseAdmin.auth;
+  db = firebaseAdmin.db;
+  findCoachByUserId = firebaseAdmin.findCoachByUserId;
+  
+  const stripe = require('../../lib/stripe');
+  createProduct = stripe.createProduct;
+  createPrice = stripe.createPrice;
+} catch (error) {
+  console.error('Failed to initialize Firebase Admin in services route:', error);
+}
 
 export async function POST(req: NextRequest) {
+  // Early return if Firebase isn't initialized
+  if (!db || !auth || !findCoachByUserId) {
+    console.error('Firebase not initialized - cannot create services');
+    return NextResponse.json({ 
+      error: 'Service temporarily unavailable. Please try again later.',
+      details: 'Firebase connection not available'
+    }, { status: 503 });
+  }
+
   try {
     const { 
       idToken, 
@@ -121,6 +146,16 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET(req: NextRequest) {
+  // Early return if Firebase isn't initialized
+  if (!db) {
+    console.error('Firebase not initialized - returning empty services list');
+    return NextResponse.json({ 
+      services: [],
+      error: 'Firebase connection not available',
+      fallback: true
+    });
+  }
+
   try {
     const { searchParams } = new URL(req.url);
     const coachId = searchParams.get('coachId');
@@ -145,7 +180,7 @@ export async function GET(req: NextRequest) {
     query = query.limit(limit);
 
     const snapshot = await query.get();
-    const services = snapshot.docs.map(doc => ({
+    const services = snapshot.docs.map((doc: any) => ({
       id: doc.id,
       ...doc.data(),
       createdAt: doc.data().createdAt?.toDate().toISOString(),

@@ -15,7 +15,7 @@ export default function Error({ error, reset }: ErrorProps) {
   }, [error]);
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50">
+    <div className="min-h-screen flex items-center justify-center bg-black">
       <div className="text-center">
         <div className="text-red-600 mb-4">
           <svg className="w-16 h-16 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -29,14 +29,14 @@ export default function Error({ error, reset }: ErrorProps) {
         <div className="space-y-4">
           <button
             onClick={reset}
-            className="bg-blue-600 text-white px-6 py-3 rounded-md hover:bg-blue-700 transition-colors"
+            className="bg-gray-600 text-white px-6 py-3 rounded-md hover:bg-gray-700 transition-colors"
           >
             Try again
           </button>
           <br />
           <Link
             href="/"
-            className="text-blue-600 hover:text-blue-500 underline"
+            className="text-gray-600 hover:text-gray-500 underline"
           >
             Go back to homepage
           </Link>

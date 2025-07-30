@@ -122,7 +122,7 @@ export default function StripeConnectPage() {
       case 'requires_action':
         return 'bg-red-100 text-red-800';
       default:
-        return 'bg-gray-100 text-gray-800';
+        return 'bg-neutral-800 text-white';
     }
   };
 
@@ -144,22 +144,22 @@ export default function StripeConnectPage() {
     <div className="animate-pulse space-y-6">
       <div className="flex items-center justify-between">
         <div className="space-y-2">
-          <div className="h-6 bg-gray-200 rounded w-32"></div>
-          <div className="h-4 bg-gray-200 rounded w-48"></div>
+          <div className="h-6 bg-neutral-700 rounded w-32"></div>
+          <div className="h-4 bg-neutral-700 rounded w-48"></div>
         </div>
-        <div className="h-8 bg-gray-200 rounded w-32"></div>
+        <div className="h-8 bg-neutral-700 rounded w-32"></div>
       </div>
       
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {[1, 2, 3, 4].map((i) => (
           <div key={i} className="space-y-2">
-            <div className="h-4 bg-gray-200 rounded w-16"></div>
-            <div className="h-4 bg-gray-200 rounded w-24"></div>
+            <div className="h-4 bg-neutral-700 rounded w-16"></div>
+            <div className="h-4 bg-neutral-700 rounded w-24"></div>
           </div>
         ))}
       </div>
       
-      <div className="h-10 bg-gray-200 rounded w-48"></div>
+      <div className="h-10 bg-neutral-700 rounded w-48"></div>
     </div>
   );
 
@@ -169,16 +169,16 @@ export default function StripeConnectPage() {
         <div className="mb-8">
           <div className="flex items-center justify-between">
             <div className="space-y-2">
-              <div className="h-8 bg-gray-200 rounded w-48 animate-pulse"></div>
-              <div className="h-5 bg-gray-200 rounded w-96 animate-pulse"></div>
+              <div className="h-8 bg-neutral-700 rounded w-48 animate-pulse"></div>
+              <div className="h-5 bg-neutral-700 rounded w-96 animate-pulse"></div>
             </div>
-            <div className="h-10 bg-gray-200 rounded w-40 animate-pulse"></div>
+            <div className="h-10 bg-neutral-700 rounded w-40 animate-pulse"></div>
           </div>
         </div>
         
-        <div className="bg-white rounded-lg shadow">
+        <div className="bg-neutral-900 rounded-lg shadow">
           <div className="px-6 py-4 border-b border-gray-200">
-            <div className="h-6 bg-gray-200 rounded w-40 animate-pulse"></div>
+            <div className="h-6 bg-neutral-700 rounded w-40 animate-pulse"></div>
           </div>
           <div className="p-6">
             <SkeletonLoader />
@@ -201,7 +201,7 @@ export default function StripeConnectPage() {
           </div>
           <Link
             href="/dashboard/coach"
-            className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+            className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-neutral-900 hover:bg-neutral-800"
           >
             <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -243,7 +243,7 @@ export default function StripeConnectPage() {
         </div>
       )}
 
-      <div className="bg-white rounded-lg shadow">
+      <div className="bg-neutral-900 rounded-lg shadow">
         <div className="px-6 py-4 border-b border-gray-200">
           <h2 className="text-xl font-semibold text-gray-900">Stripe Connect Status</h2>
         </div>
@@ -299,7 +299,7 @@ export default function StripeConnectPage() {
                 {stripeAccount.status === 'active' && (
                   <Link
                     href="/dashboard/coach/services"
-                    className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
+                    className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700"
                   >
                     <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
@@ -344,7 +344,7 @@ export default function StripeConnectPage() {
                 <button
                   onClick={handleConnectStripe}
                   disabled={connecting}
-                  className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed transition-opacity"
+                  className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed transition-opacity"
                 >
                   {connecting ? (
                     <>
@@ -367,29 +367,29 @@ export default function StripeConnectPage() {
       </div>
 
       {/* Information Section */}
-      <div className="mt-8 bg-blue-50 border border-blue-200 rounded-lg p-6">
-        <h3 className="text-lg font-medium text-blue-900 mb-4">Why Connect Stripe?</h3>
-        <ul className="space-y-2 text-sm text-blue-800">
+      <div className="mt-8 bg-gray-900 border border-gray-700 rounded-lg p-6">
+                        <h3 className="text-lg font-medium text-white mb-4">Why Connect Stripe?</h3>
+                        <ul className="space-y-2 text-sm text-gray-300">
           <li className="flex items-start">
-            <svg className="w-4 h-4 text-blue-600 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-4 h-4 text-white mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
             </svg>
             Accept payments from students for your coaching services
           </li>
           <li className="flex items-start">
-            <svg className="w-4 h-4 text-blue-600 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-4 h-4 text-white mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
             </svg>
             Secure payment processing with automatic transfers
           </li>
           <li className="flex items-start">
-            <svg className="w-4 h-4 text-blue-600 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-4 h-4 text-white mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
             </svg>
             Get paid only when you complete the coaching session
           </li>
           <li className="flex items-start">
-            <svg className="w-4 h-4 text-blue-600 mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <svg className="w-4 h-4 text-white mr-2 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
             </svg>
             Platform fee of 5% helps maintain and improve the service

@@ -19,8 +19,8 @@ interface CoachProfile {
 
 const SUBSCRIPTION_PLANS = {
   monthly: {
-    name: 'Coach Pro Monthly',
-    price: 29.99,
+    name: 'Coach Pro',
+    price: 10,
     priceId: process.env.NEXT_PUBLIC_COACH_PRO_MONTHLY_PRICE_ID || 'price_monthly_default',
     interval: 'month',
     features: [
@@ -35,11 +35,12 @@ const SUBSCRIPTION_PLANS = {
     ]
   },
   yearly: {
-    name: 'Coach Pro Yearly',
-    price: 299.99,
+    name: 'Coach Pro',
+    price: 96,
     priceId: process.env.NEXT_PUBLIC_COACH_PRO_YEARLY_PRICE_ID || 'price_yearly_default',
     interval: 'year',
-    savings: 59.89,
+    savings: 24,
+    monthlyEquivalent: 8,
     features: [
       'Apply to unlimited job listings',
       'Priority placement in search results',
@@ -49,7 +50,7 @@ const SUBSCRIPTION_PLANS = {
       'Email marketing tools',
       'Calendar integration',
       'Priority customer support',
-      '2 months free (save $59.89)'
+      'Save $24 annually'
     ]
   }
 };
@@ -61,24 +62,47 @@ export default function SubscriptionPage() {
   const [coachProfile, setCoachProfile] = useState<CoachProfile | null>(null);
   const [selectedPlan, setSelectedPlan] = useState<'monthly' | 'yearly'>('monthly');
   const [subscribing, setSubscribing] = useState(false);
+  const [isTransitioning, setIsTransitioning] = useState(false);
 
   const loadCoachProfile = useCallback(async () => {
     if (!user) return;
 
     try {
-      const coachRef = doc(db, 'coaches', user.uid);
-      const coachDoc = await getDoc(coachRef);
+      // First, get the user's username from their user profile
+      const userRef = doc(db, 'users', user.uid);
+      const userSnap = await getDoc(userRef);
       
-      if (coachDoc.exists()) {
-        const data = coachDoc.data() as CoachProfile;
-        setCoachProfile(data);
+      if (userSnap.exists()) {
+        const userData = userSnap.data();
+        const username = userData.username;
+        
+        if (username) {
+          // Fetch coach profile using username as document ID
+          const coachRef = doc(db, 'coaches', username.toLowerCase());
+          const coachDoc = await getDoc(coachRef);
+          
+          if (coachDoc.exists()) {
+            const data = coachDoc.data() as CoachProfile;
+            setCoachProfile(data);
+          } else {
+            // Coach profile not found with username, redirect to onboarding
+            router.push('/onboarding');
+            return;
+          }
+        } else {
+          // No username found, redirect to onboarding
+          router.push('/onboarding');
+          return;
+        }
       } else {
-        // Not a coach, redirect to onboarding
+        // User profile not found, redirect to onboarding
         router.push('/onboarding');
         return;
       }
     } catch (error) {
       console.error('Error loading coach profile:', error);
+      // On error, redirect to onboarding to be safe
+      router.push('/onboarding');
     } finally {
       setLoading(false);
     }
@@ -94,6 +118,21 @@ export default function SubscriptionPage() {
 
     loadCoachProfile();
   }, [user, authLoading, router, loadCoachProfile]);
+
+  const handlePlanChange = (plan: 'monthly' | 'yearly') => {
+    if (plan === selectedPlan || isTransitioning) return;
+    
+    setIsTransitioning(true);
+    
+    // Fade out current content
+    setTimeout(() => {
+      setSelectedPlan(plan);
+      // Fade in new content
+      setTimeout(() => {
+        setIsTransitioning(false);
+      }, 150);
+    }, 150);
+  };
 
   const handleSubscribe = async () => {
     if (!user || !coachProfile) return;
@@ -136,16 +175,23 @@ export default function SubscriptionPage() {
 
   if (!coachProfile) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-gray-50">
-        <div className="text-center">
-          <h1 className="text-2xl font-bold text-gray-900 mb-4">Coach Profile Required</h1>
-          <p className="text-gray-600 mb-6">You need to be a registered coach to access Coach Pro subscriptions.</p>
-          <Link
-            href="/onboarding"
-            className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"
-          >
-            Complete Coach Onboarding
-          </Link>
+      <div className="min-h-screen flex items-center justify-center bg-gray-950">
+        <div className="text-center max-w-md mx-auto px-6">
+          <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-3xl p-12">
+            <div className="w-16 h-16 bg-orange-500/20 border border-orange-500/30 rounded-2xl flex items-center justify-center mx-auto mb-6">
+              <svg className="w-8 h-8 text-orange-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+              </svg>
+            </div>
+            <h1 className="text-2xl font-bold text-white mb-4">Coach Profile Required</h1>
+            <p className="text-gray-400 mb-8 leading-relaxed">You need to be a registered coach to access Coach Pro subscriptions.</p>
+            <Link
+              href="/onboarding"
+              className="bg-gray-900 text-white px-8 py-4 rounded-2xl font-semibold hover:bg-gray-800 transition-all transform hover:scale-105 shadow-lg inline-block"
+            >
+              Complete Coach Onboarding
+            </Link>
+          </div>
         </div>
       </div>
     );
@@ -156,43 +202,46 @@ export default function SubscriptionPage() {
 
   if (isSubscribed) {
     return (
-      <div className="min-h-screen bg-gray-50">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <div className="min-h-screen bg-black">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
           <div className="text-center">
-            <div className="inline-flex items-center px-4 py-2 bg-green-100 text-green-800 rounded-full text-sm font-medium mb-6">
-              ✓ Coach Pro Active
+            <div className="inline-flex items-center px-6 py-3 bg-orange-500/10 border border-orange-500/20 text-orange-400 rounded-full text-sm font-medium mb-8 backdrop-blur-sm">
+              <div className="w-2 h-2 bg-orange-400 rounded-full mr-2 animate-pulse"></div>
+              Coach Pro Active
             </div>
-            <h1 className="text-3xl font-bold text-gray-900 mb-4">
-              You&apos;re all set with Coach Pro!
+            <h1 className="text-4xl font-bold text-white mb-4 tracking-tight">
+              You&apos;re all set with Coach Pro
             </h1>
-            <p className="text-lg text-gray-600 mb-8">
-              Current Plan: {coachProfile.subscriptionPlan === 'yearly' ? 'Yearly' : 'Monthly'}
+            <p className="text-xl text-gray-400 mb-12">
+              Current Plan: <span className="text-white font-semibold">{coachProfile.subscriptionPlan === 'yearly' ? 'Annual' : 'Monthly'}</span>
             </p>
             
-            <div className="bg-white rounded-lg shadow p-8 mb-8">
-              <h2 className="text-xl font-semibold text-gray-900 mb-4">Your Pro Features</h2>
-              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 mb-12">
+              <h2 className="text-2xl font-semibold text-white mb-8">Your Pro Features</h2>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {SUBSCRIPTION_PLANS.monthly.features.map((feature, index) => (
-                  <div key={index} className="flex items-center">
-                    <svg className="h-5 w-5 text-green-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                    <span className="text-gray-700">{feature}</span>
+                  <div key={index} className="flex items-center group">
+                    <div className="w-6 h-6 bg-orange-500/20 border border-orange-500/30 rounded-full flex items-center justify-center mr-4 group-hover:bg-orange-500/30 transition-colors">
+                      <svg className="h-3 w-3 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                      </svg>
+                    </div>
+                    <span className="text-gray-300 group-hover:text-white transition-colors">{feature}</span>
                   </div>
                 ))}
               </div>
             </div>
 
-            <div className="flex justify-center space-x-4">
+            <div className="flex flex-col sm:flex-row justify-center gap-4">
               <Link
                 href="/dashboard"
-                className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"
+                className="bg-gray-900 text-white px-8 py-4 rounded-xl font-semibold hover:bg-gray-800 transition-all transform hover:scale-105 shadow-lg"
               >
                 Go to Dashboard
               </Link>
               <button
                 onClick={() => router.push('/profile')}
-                className="bg-gray-200 text-gray-700 px-6 py-3 rounded-lg hover:bg-gray-300 transition-colors"
+                className="bg-gray-800 border border-gray-700 text-gray-300 px-8 py-4 rounded-xl font-semibold hover:bg-gray-700 hover:text-white transition-all"
               >
                 Manage Subscription
               </button>
@@ -204,136 +253,157 @@ export default function SubscriptionPage() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div className="min-h-screen bg-gray-950">
+      <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         {/* Hero Section */}
-        <div className="text-center mb-12">
-          <h1 className="text-4xl font-bold text-gray-900 mb-4">
-            Unlock Your Coaching Potential
+        <div className="text-center mb-16">
+          <h1 className="text-5xl sm:text-6xl font-bold text-white mb-6 tracking-tight">
+            Unlock Your
+            <br />
+            <span className="bg-gradient-to-r from-white via-orange-400 to-orange-600 bg-clip-text text-transparent">
+              Coaching Potential
+            </span>
           </h1>
-          <p className="text-xl text-gray-600 mb-8">
+          <p className="text-xl text-gray-400 mb-8 max-w-2xl mx-auto leading-relaxed">
             Get access to premium features and grow your coaching business with Coach Pro
           </p>
-          <div className="inline-flex items-center px-4 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-medium">
-            Welcome, {coachProfile.displayName}!
+          <div className="inline-flex items-center px-6 py-3 bg-orange-500/10 border border-orange-500/20 text-orange-400 rounded-full text-sm font-medium backdrop-blur-sm">
+            <span className="w-2 h-2 bg-orange-400 rounded-full mr-2"></span>
+            Welcome, {coachProfile.displayName}
           </div>
         </div>
 
         {/* Plan Toggle */}
-        <div className="flex justify-center mb-8">
-          <div className="bg-white rounded-lg p-1 shadow-sm">
+        <div className="flex justify-center mb-12">
+          <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-2">
             <button
-              onClick={() => setSelectedPlan('monthly')}
-              className={`px-6 py-2 rounded-md text-sm font-medium transition-colors ${
+              onClick={() => handlePlanChange('monthly')}
+              disabled={isTransitioning}
+              className={`px-8 py-3 rounded-xl text-sm font-semibold transition-all ${
                 selectedPlan === 'monthly'
-                  ? 'bg-blue-600 text-white'
-                  : 'text-gray-700 hover:text-gray-900'
-              }`}
+                  ? 'bg-white text-gray-900 shadow-lg'
+                  : 'text-gray-400 hover:text-white'
+              } ${isTransitioning ? 'pointer-events-none' : ''}`}
             >
               Monthly
             </button>
             <button
-              onClick={() => setSelectedPlan('yearly')}
-              className={`px-6 py-2 rounded-md text-sm font-medium transition-colors relative ${
+              onClick={() => handlePlanChange('yearly')}
+              disabled={isTransitioning}
+              className={`px-8 py-3 rounded-xl text-sm font-semibold transition-all relative ${
                 selectedPlan === 'yearly'
-                  ? 'bg-blue-600 text-white'
-                  : 'text-gray-700 hover:text-gray-900'
-              }`}
+                  ? 'bg-white text-gray-900 shadow-lg'
+                  : 'text-gray-400 hover:text-white'
+              } ${isTransitioning ? 'pointer-events-none' : ''}`}
             >
-              Yearly
+              Annual
               <span className="absolute -top-2 -right-2 bg-green-500 text-white text-xs px-2 py-1 rounded-full">
-                Save 17%
+                Save 20%
               </span>
             </button>
           </div>
         </div>
 
-        {/* Pricing Card */}
-        <div className="max-w-md mx-auto">
-          <div className="bg-white rounded-lg shadow-lg overflow-hidden">
-            <div className="bg-gradient-to-r from-blue-600 to-blue-700 px-6 py-8 text-white text-center">
-              <h3 className="text-2xl font-bold mb-2">
-                {SUBSCRIPTION_PLANS[selectedPlan].name}
-              </h3>
-              <div className="text-4xl font-bold mb-2">
-                ${SUBSCRIPTION_PLANS[selectedPlan].price}
-                <span className="text-lg font-normal">
-                  /{selectedPlan === 'yearly' ? 'year' : 'month'}
-                </span>
-              </div>
-              {selectedPlan === 'yearly' && (
-                <div className="text-blue-100">
-                  Save ${SUBSCRIPTION_PLANS.yearly.savings} annually
+        {/* Pricing Cards */}
+        <div className="max-w-lg mx-auto">
+          <div className="bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-3xl overflow-hidden shadow-2xl">
+            <div className="bg-gradient-to-r from-white via-orange-500 to-orange-600 px-8 py-12 text-gray-900 text-center relative overflow-hidden">
+              <div className="absolute inset-0 bg-gradient-to-r from-white/20 via-orange-500/20 to-orange-600/20 backdrop-blur-sm"></div>
+              <div className={`relative z-10 transition-opacity duration-300 ${isTransitioning ? 'opacity-0' : 'opacity-100'}`}>
+                <h3 className="text-2xl font-bold mb-4">
+                  {SUBSCRIPTION_PLANS[selectedPlan].name}
+                </h3>
+                <div className="flex items-baseline justify-center mb-4">
+                  <span className="text-6xl font-bold tracking-tight">
+                    ${selectedPlan === 'yearly' ? SUBSCRIPTION_PLANS.yearly.monthlyEquivalent : SUBSCRIPTION_PLANS[selectedPlan].price}
+                  </span>
+                  <span className="text-xl font-medium ml-2 text-gray-700">
+                    /month
+                  </span>
                 </div>
-              )}
+                {selectedPlan === 'yearly' && (
+                  <div className="space-y-1">
+                    <div className="text-gray-700 text-sm">
+                      ${SUBSCRIPTION_PLANS.yearly.price} billed annually
+                    </div>
+                    <div className="text-green-600 font-medium">
+                      Save ${SUBSCRIPTION_PLANS.yearly.savings} per year
+                    </div>
+                  </div>
+                )}
+              </div>
             </div>
             
-            <div className="px-6 py-8">
-              <ul className="space-y-4 mb-8">
-                {SUBSCRIPTION_PLANS[selectedPlan].features.map((feature, index) => (
-                  <li key={index} className="flex items-start">
-                    <svg className="h-5 w-5 text-green-500 mr-3 mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
-                    </svg>
-                    <span className="text-gray-700">{feature}</span>
-                  </li>
-                ))}
-              </ul>
-              
-              <button
-                onClick={handleSubscribe}
-                disabled={subscribing}
-                className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg font-medium hover:bg-blue-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
-              >
-                {subscribing ? (
-                  <div className="flex items-center justify-center">
-                    <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                    </svg>
-                    Processing...
-                  </div>
-                ) : (
-                  `Subscribe to Coach Pro ${selectedPlan === 'yearly' ? 'Yearly' : 'Monthly'}`
-                )}
-              </button>
-              
-              <p className="text-xs text-gray-500 text-center mt-4">
-                Cancel anytime. No long-term commitments.
-              </p>
+            <div className="px-8 py-10">
+              <div className={`transition-opacity duration-300 ${isTransitioning ? 'opacity-0' : 'opacity-100'}`}>
+                <ul className="space-y-5 mb-10">
+                  {SUBSCRIPTION_PLANS[selectedPlan].features.map((feature, index) => (
+                    <li key={index} className="flex items-start group">
+                                          <div className="w-6 h-6 bg-orange-500/20 border border-orange-500/30 rounded-full flex items-center justify-center mr-4 mt-0.5 group-hover:bg-orange-500/30 transition-colors">
+                      <svg className="h-3 w-3 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
+                          <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                        </svg>
+                      </div>
+                      <span className="text-gray-300 group-hover:text-white transition-colors leading-relaxed">{feature}</span>
+                    </li>
+                  ))}
+                </ul>
+                
+                <button
+                  onClick={handleSubscribe}
+                  disabled={subscribing || isTransitioning}
+                  className="w-full bg-gray-900 text-white py-4 px-8 rounded-2xl font-semibold hover:bg-gray-800 transition-all transform hover:scale-105 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none shadow-lg"
+                >
+                  {subscribing ? (
+                    <div className="flex items-center justify-center">
+                      <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                      Processing...
+                    </div>
+                  ) : (
+                    `Start Your Coach Pro Journey`
+                  )}
+                </button>
+                
+                <p className="text-xs text-gray-500 text-center mt-4">
+                  Cancel anytime. No long-term commitments.
+                </p>
+              </div>
             </div>
           </div>
         </div>
 
         {/* FAQ Section */}
-        <div className="mt-16">
-          <h2 className="text-2xl font-bold text-gray-900 text-center mb-8">
+        <div className="mt-20">
+          <h2 className="text-3xl font-bold text-white text-center mb-12">
             Frequently Asked Questions
           </h2>
-          <div className="max-w-2xl mx-auto space-y-6">
-            <div className="bg-white rounded-lg shadow p-6">
-              <h3 className="font-semibold text-gray-900 mb-2">
+          <div className="max-w-3xl mx-auto space-y-6">
+            <div className="bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 hover:bg-gray-800/40 transition-colors">
+              <h3 className="font-semibold text-white mb-3 text-lg">
                 What&apos;s the difference between Coach Pro and regular coaching?
               </h3>
-              <p className="text-gray-600">
+              <p className="text-gray-400 leading-relaxed">
                 Coach Pro gives you access to premium features like unlimited job applications, priority search placement, and advanced analytics to help grow your coaching business.
               </p>
             </div>
             
-            <div className="bg-white rounded-lg shadow p-6">
-              <h3 className="font-semibold text-gray-900 mb-2">
+            <div className="bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 hover:bg-gray-800/40 transition-colors">
+              <h3 className="font-semibold text-white mb-3 text-lg">
                 Can I cancel my subscription anytime?
               </h3>
-              <p className="text-gray-600">
+              <p className="text-gray-400 leading-relaxed">
                 Yes, you can cancel your Coach Pro subscription at any time. You&apos;ll continue to have access to Pro features until the end of your current billing period.
               </p>
             </div>
             
-            <div className="bg-white rounded-lg shadow p-6">
-              <h3 className="font-semibold text-gray-900 mb-2">
+            <div className="bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 hover:bg-gray-800/40 transition-colors">
+              <h3 className="font-semibold text-white mb-3 text-lg">
                 How is this different from Stripe Connect earnings?
               </h3>
-              <p className="text-gray-600">
+              <p className="text-gray-400 leading-relaxed">
                 Coach Pro is a subscription for enhanced platform features, while Stripe Connect handles your coaching session payments. They&apos;re separate systems that work together.
               </p>
             </div>

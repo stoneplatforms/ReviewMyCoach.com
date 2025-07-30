@@ -117,7 +117,7 @@ export default function AnalyticsDashboard({ user }: AnalyticsDashboardProps) {
           <p className="text-sm">{error}</p>
           <button
             onClick={fetchAnalytics}
-            className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+            className="mt-4 px-4 py-2 bg-gray-600 text-white rounded hover:bg-gray-700"
           >
             Try Again
           </button>
@@ -142,7 +142,7 @@ export default function AnalyticsDashboard({ user }: AnalyticsDashboardProps) {
         <select
           value={timeRange}
           onChange={(e) => setTimeRange(e.target.value)}
-          className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+          className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-gray-500"
         >
           <option value="3">Last 3 months</option>
           <option value="6">Last 6 months</option>
@@ -173,8 +173,8 @@ export default function AnalyticsDashboard({ user }: AnalyticsDashboardProps) {
         <div className="bg-white p-6 rounded-lg shadow">
           <div className="flex items-center">
             <div className="flex-shrink-0">
-              <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
-                <svg className="w-5 h-5 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <div className="w-8 h-8 bg-gray-100 rounded-full flex items-center justify-center">
+                <svg className="w-5 h-5 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                 </svg>
               </div>
@@ -275,7 +275,7 @@ export default function AnalyticsDashboard({ user }: AnalyticsDashboardProps) {
             </div>
             <div className="flex justify-between items-center">
               <span className="text-sm font-medium text-gray-600">Unread Messages</span>
-              <span className="text-sm font-bold text-blue-600">{analytics.messages.unreadMessages}</span>
+              <span className="text-sm font-bold text-gray-600">{analytics.messages.unreadMessages}</span>
             </div>
             <div className="flex justify-between items-center">
               <span className="text-sm font-medium text-gray-600">Response Rate</span>

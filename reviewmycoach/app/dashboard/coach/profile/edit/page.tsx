@@ -226,7 +226,7 @@ export default function EditCoachProfile() {
     return (
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex items-center justify-center h-64">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600"></div>
         </div>
       </div>
     );
@@ -243,12 +243,12 @@ export default function EditCoachProfile() {
 
       <form onSubmit={handleSubmit} className="space-y-8">
         {/* Basic Information */}
-        <div className="bg-white rounded-lg shadow p-6">
+        <div className="bg-neutral-900 rounded-lg shadow p-6">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Basic Information</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Display Name
               </label>
               <input
@@ -257,12 +257,12 @@ export default function EditCoachProfile() {
                 value={formData.displayName}
                 onChange={handleInputChange}
                 required
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Location
               </label>
               <input
@@ -271,12 +271,12 @@ export default function EditCoachProfile() {
                 value={formData.location}
                 onChange={handleInputChange}
                 placeholder="City, State"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Years of Experience
               </label>
               <input
@@ -285,12 +285,12 @@ export default function EditCoachProfile() {
                 value={formData.experience}
                 onChange={handleInputChange}
                 min="0"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Hourly Rate ($)
               </label>
               <input
@@ -300,13 +300,13 @@ export default function EditCoachProfile() {
                 onChange={handleInputChange}
                 min="0"
                 step="0.01"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
           </div>
 
           <div className="mt-6">
-            <label className="block text-sm font-medium text-gray-700 mb-2">
+            <label className="block text-sm font-medium text-white mb-2">
               Bio
             </label>
             <textarea
@@ -315,17 +315,17 @@ export default function EditCoachProfile() {
               onChange={handleInputChange}
               rows={4}
               placeholder="Tell students about your coaching philosophy, background, and what makes you unique..."
-              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
             />
           </div>
         </div>
 
         {/* Sports & Specialties */}
-        <div className="bg-white rounded-lg shadow p-6">
+        <div className="bg-neutral-900 rounded-lg shadow p-6">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Sports & Specialties</h2>
           
           <div>
-            <label className="block text-sm font-medium text-gray-700 mb-3">
+            <label className="block text-sm font-medium text-white mb-3">
               Sports You Coach
             </label>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
@@ -335,29 +335,29 @@ export default function EditCoachProfile() {
                     type="checkbox"
                     checked={formData.sports.includes(sport)}
                     onChange={() => handleSportToggle(sport)}
-                    className="mr-2 h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                    className="mr-2 h-4 w-4 text-white focus:ring-gray-500 border-gray-300 rounded"
                   />
-                  <span className="text-sm text-gray-700">{sport}</span>
+                  <span className="text-sm text-white">{sport}</span>
                 </label>
               ))}
             </div>
           </div>
 
           <div className="mt-6">
-            <label className="block text-sm font-medium text-gray-700 mb-2">
+            <label className="block text-sm font-medium text-white mb-2">
               Specialties
             </label>
             <div className="flex flex-wrap gap-2 mb-3">
               {formData.specialties.map(specialty => (
                 <span
                   key={specialty}
-                  className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
+                  className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-800 text-white"
                 >
                   {specialty}
                   <button
                     type="button"
                     onClick={() => removeSpecialty(specialty)}
-                    className="ml-1 text-blue-600 hover:text-blue-800"
+                    className="ml-1 text-white hover:text-gray-300"
                   >
                     ×
                   </button>
@@ -370,12 +370,12 @@ export default function EditCoachProfile() {
                 value={newSpecialty}
                 onChange={(e) => setNewSpecialty(e.target.value)}
                 placeholder="Add a specialty..."
-                className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
               <button
                 type="button"
                 onClick={addSpecialty}
-                className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+                className="px-4 py-2 bg-gray-600 text-white rounded-md hover:bg-gray-700"
               >
                 Add
               </button>
@@ -384,7 +384,7 @@ export default function EditCoachProfile() {
         </div>
 
         {/* Certifications */}
-        <div className="bg-white rounded-lg shadow p-6">
+        <div className="bg-neutral-900 rounded-lg shadow p-6">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Certifications</h2>
           
           <div className="flex flex-wrap gap-2 mb-3">
@@ -410,12 +410,12 @@ export default function EditCoachProfile() {
               value={newCertification}
               onChange={(e) => setNewCertification(e.target.value)}
               placeholder="Add a certification..."
-              className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
             />
             <button
               type="button"
               onClick={addCertification}
-              className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700"
+              className="px-4 py-2 bg-gray-600 text-white rounded-md hover:bg-gray-700"
             >
               Add
             </button>
@@ -423,7 +423,7 @@ export default function EditCoachProfile() {
         </div>
 
         {/* Availability */}
-        <div className="bg-white rounded-lg shadow p-6">
+        <div className="bg-neutral-900 rounded-lg shadow p-6">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Availability</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
@@ -433,21 +433,21 @@ export default function EditCoachProfile() {
                   type="checkbox"
                   checked={formData.availability.includes(slot)}
                   onChange={() => handleAvailabilityToggle(slot)}
-                  className="mr-2 h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                  className="mr-2 h-4 w-4 text-white focus:ring-gray-500 border-gray-300 rounded"
                 />
-                <span className="text-sm text-gray-700">{slot}</span>
+                <span className="text-sm text-white">{slot}</span>
               </label>
             ))}
           </div>
         </div>
 
         {/* Additional Information */}
-        <div className="bg-white rounded-lg shadow p-6">
+        <div className="bg-neutral-900 rounded-lg shadow p-6">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Additional Information</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Organization / School / Club
               </label>
               <input
@@ -456,19 +456,19 @@ export default function EditCoachProfile() {
                 value={formData.organization || ''}
                 onChange={handleInputChange}
                 placeholder="e.g. XYZ High School, ABC Athletic Club"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Coaching Role
               </label>
               <select
                 name="role"
                 value={formData.role || ''}
                 onChange={handleInputChange}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               >
                 <option value="">Select Role</option>
                 <option value="Head Coach">Head Coach</option>
@@ -484,14 +484,14 @@ export default function EditCoachProfile() {
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Gender
               </label>
               <select
                 name="gender"
                 value={formData.gender || ''}
                 onChange={handleInputChange}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               >
                 <option value="">Select Gender</option>
                 <option value="Male">Male</option>
@@ -502,7 +502,7 @@ export default function EditCoachProfile() {
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Source URL
               </label>
               <input
@@ -511,7 +511,7 @@ export default function EditCoachProfile() {
                 value={formData.sourceUrl || ''}
                 onChange={handleInputChange}
                 placeholder="https://example.com/coach-profile"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
               <p className="mt-1 text-xs text-gray-500">
                 Optional URL where this coach profile was sourced from
@@ -520,7 +520,7 @@ export default function EditCoachProfile() {
           </div>
 
           <div className="mt-6">
-            <label className="block text-sm font-medium text-gray-700 mb-3">
+            <label className="block text-sm font-medium text-white mb-3">
               Age Groups You Coach
             </label>
             <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
@@ -536,9 +536,9 @@ export default function EditCoachProfile() {
                         : [...currentAgeGroups, ageGroup];
                       setFormData(prev => ({ ...prev, ageGroup: newAgeGroups }));
                     }}
-                    className="mr-2 h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                    className="mr-2 h-4 w-4 text-white focus:ring-gray-500 border-gray-300 rounded"
                   />
-                  <span className="text-sm text-gray-700">{ageGroup}</span>
+                  <span className="text-sm text-white">{ageGroup}</span>
                 </label>
               ))}
             </div>
@@ -546,12 +546,12 @@ export default function EditCoachProfile() {
         </div>
 
         {/* Contact & Social Media */}
-        <div className="bg-white rounded-lg shadow p-6">
+        <div className="bg-neutral-900 rounded-lg shadow p-6">
           <h2 className="text-xl font-semibold text-gray-900 mb-6">Contact & Social Media</h2>
           
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Phone Number
               </label>
               <input
@@ -559,12 +559,12 @@ export default function EditCoachProfile() {
                 name="phoneNumber"
                 value={formData.phoneNumber || ''}
                 onChange={handleInputChange}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Website
               </label>
               <input
@@ -572,12 +572,12 @@ export default function EditCoachProfile() {
                 name="website"
                 value={formData.website || ''}
                 onChange={handleInputChange}
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Instagram
               </label>
               <input
@@ -586,12 +586,12 @@ export default function EditCoachProfile() {
                 value={formData.socialMedia.instagram || ''}
                 onChange={handleInputChange}
                 placeholder="@username"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
 
             <div>
-              <label className="block text-sm font-medium text-gray-700 mb-2">
+              <label className="block text-sm font-medium text-white mb-2">
                 Twitter
               </label>
               <input
@@ -600,7 +600,7 @@ export default function EditCoachProfile() {
                 value={formData.socialMedia.twitter || ''}
                 onChange={handleInputChange}
                 placeholder="@username"
-                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               />
             </div>
           </div>
@@ -613,14 +613,14 @@ export default function EditCoachProfile() {
           <button
             type="button"
             onClick={() => router.back()}
-            className="px-6 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+            className="px-6 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-neutral-900 hover:bg-neutral-800"
           >
             Cancel
           </button>
           <button
             type="submit"
             disabled={saving}
-            className="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50"
+            className="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700 disabled:opacity-50"
           >
             {saving ? 'Saving...' : 'Save Profile'}
           </button>

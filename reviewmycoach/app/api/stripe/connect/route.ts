@@ -1,9 +1,34 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { auth } from '../../../lib/firebase-admin';
-import { db, findCoachByUserId } from '../../../lib/firebase-admin';
-import { createConnectAccount, createAccountLink } from '../../../lib/stripe';
+
+let auth: any = null;
+let db: any = null;
+let findCoachByUserId: any = null;
+let createConnectAccount: any = null;
+let createAccountLink: any = null;
+
+try {
+  const firebaseAdmin = require('../../../lib/firebase-admin');
+  auth = firebaseAdmin.auth;
+  db = firebaseAdmin.db;
+  findCoachByUserId = firebaseAdmin.findCoachByUserId;
+  
+  const stripe = require('../../../lib/stripe');
+  createConnectAccount = stripe.createConnectAccount;
+  createAccountLink = stripe.createAccountLink;
+} catch (error) {
+  console.error('Failed to initialize Firebase Admin in stripe connect route:', error);
+}
 
 export async function POST(req: NextRequest) {
+  // Early return if Firebase isn't initialized
+  if (!db || !auth || !findCoachByUserId) {
+    console.error('Firebase not initialized - cannot create Stripe connection');
+    return NextResponse.json({ 
+      error: 'Service temporarily unavailable. Please try again later.',
+      details: 'Firebase connection not available'
+    }, { status: 503 });
+  }
+
   try {
     const { idToken, email, country = 'US' } = await req.json();
 
@@ -61,6 +86,15 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET(req: NextRequest) {
+  // Early return if Firebase isn't initialized
+  if (!db || !auth) {
+    console.error('Firebase not initialized - cannot fetch Stripe account');
+    return NextResponse.json({ 
+      error: 'Service temporarily unavailable. Please try again later.',
+      details: 'Firebase connection not available'
+    }, { status: 503 });
+  }
+
   try {
     const { searchParams } = new URL(req.url);
     const idToken = searchParams.get('idToken');

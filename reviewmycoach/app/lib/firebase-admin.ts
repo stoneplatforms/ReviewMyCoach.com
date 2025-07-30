@@ -9,6 +9,11 @@ const requiredVars = {
   privateKey: process.env.FIREBASE_ADMIN_PRIVATE_KEY,
 };
 
+console.log('Firebase Admin Environment Check:');
+console.log('Project ID:', requiredVars.projectId ? 'SET' : 'MISSING');
+console.log('Client Email:', requiredVars.clientEmail ? 'SET' : 'MISSING');
+console.log('Private Key:', requiredVars.privateKey ? 'SET (length: ' + requiredVars.privateKey.length + ')' : 'MISSING');
+
 const missingVars = Object.entries(requiredVars)
   .filter(([, value]) => !value)
   .map(([key]) => key);

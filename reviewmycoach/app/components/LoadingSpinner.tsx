@@ -16,13 +16,13 @@ export default function LoadingSpinner({
   };
 
   const containerClasses = fullScreen 
-    ? "min-h-screen flex items-center justify-center bg-gray-50"
+    ? "min-h-screen flex items-center justify-center bg-black"
     : "flex items-center justify-center p-4";
 
   return (
     <div className={containerClasses}>
       <div className="text-center">
-        <div className={`animate-spin rounded-full border-b-2 border-blue-600 mx-auto ${sizeClasses[size]}`}></div>
+        <div className={`animate-spin rounded-full border-b-2 border-gray-600 mx-auto ${sizeClasses[size]}`}></div>
         <p className="mt-4 text-gray-600">{message}</p>
       </div>
     </div>

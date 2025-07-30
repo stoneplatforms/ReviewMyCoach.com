@@ -58,7 +58,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
   return (
     <Link
       href={profileUrl}
-      className="block minimal-card hover:border-sky-500/50 transition-all duration-200 overflow-hidden group"
+              className="block minimal-card hover:border-gray-500/50 transition-all duration-200 overflow-hidden group"
     >
       <div className="p-6">
         {/* Header */}
@@ -75,7 +75,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
                   className="w-full h-full object-cover"
                 />
               ) : (
-                <svg className="w-8 h-8 text-sky-400" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-8 h-8 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
                 </svg>
               )}
@@ -92,7 +92,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
           {/* Coach Info */}
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-2 mb-1">
-              <h3 className="text-lg font-semibold text-slate-50 truncate group-hover:text-sky-400 transition-colors">
+              <h3 className="text-lg font-semibold text-slate-50 truncate group-hover:text-gray-400 transition-colors">
                 {coach.displayName}
               </h3>
               {coach.isVerified && (
@@ -101,7 +101,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
                 </span>
               )}
               {coach.hasActiveServices && (
-                <span className="inline-flex items-center px-1.5 py-0.5 rounded-full text-xs font-medium bg-sky-500/20 text-sky-400 ring-1 ring-sky-400/30">
+                <span className="inline-flex items-center px-1.5 py-0.5 rounded-full text-xs font-medium bg-gray-500/20 text-gray-400 ring-1 ring-gray-400/30">
                   Hireable
                 </span>
               )}
@@ -132,7 +132,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
           {coach.sports.slice(0, 3).map((sport) => (
             <span
               key={sport}
-              className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-sky-500/20 text-sky-400 ring-1 ring-sky-400/30"
+              className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-500/20 text-gray-400 ring-1 ring-gray-400/30"
             >
               {sport}
             </span>
@@ -161,7 +161,7 @@ export default function CoachCard({ coach }: CoachCardProps) {
                 Available for Hire
               </span>
             )}
-            <div className="flex items-center text-sky-400 group-hover:text-sky-300 transition-colors">
+            <div className="flex items-center text-gray-400 group-hover:text-gray-300 transition-colors">
               <span className="text-sm font-medium">View Profile</span>
               <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />

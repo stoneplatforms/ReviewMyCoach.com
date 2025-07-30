@@ -149,7 +149,7 @@ export default function Dashboard() {
     return (
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex items-center justify-center h-64">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600"></div>
         </div>
       </div>
     );
@@ -159,10 +159,10 @@ export default function Dashboard() {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Welcome Header */}
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">
+        <h1 className="text-3xl font-bold text-white">
           Welcome back, {user?.displayName || user?.email?.split('@')[0] || 'User'}!
         </h1>
-        <p className="mt-2 text-gray-600">
+        <p className="mt-2 text-gray-300">
           {userRole === 'admin'
             ? "Administrator dashboard - manage reviews and coaches"
             : userRole === 'coach' 
@@ -175,7 +175,7 @@ export default function Dashboard() {
             userRole === 'admin'
               ? 'bg-red-100 text-red-800'
               : userRole === 'coach' 
-              ? 'bg-blue-100 text-blue-800' 
+              ? 'bg-neutral-800 text-white' 
               : 'bg-green-100 text-green-800'
           }`}>
             {userRole === 'admin' ? 'Administrator' : userRole === 'coach' ? 'Coach' : 'Student'}
@@ -225,18 +225,18 @@ export default function Dashboard() {
       {/* Stats Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
         {stats.map((stat) => (
-          <div key={stat.name} className="bg-white rounded-lg shadow p-6">
+          <div key={stat.name} className="bg-neutral-900 rounded-lg shadow p-6">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <div className="w-8 h-8 bg-blue-100 rounded-md flex items-center justify-center">
-                  <div className="text-blue-600">
+                <div className="w-8 h-8 bg-gray-700 rounded-md flex items-center justify-center">
+                  <div className="text-gray-300">
                     {stat.icon}
                   </div>
                 </div>
               </div>
               <div className="ml-4">
-                <p className="text-sm font-medium text-gray-500">{stat.name}</p>
-                <p className="text-2xl font-semibold text-gray-900">{stat.value}</p>
+                <p className="text-sm font-medium text-gray-400">{stat.name}</p>
+                <p className="text-2xl font-semibold text-white">{stat.value}</p>
               </div>
             </div>
           </div>
@@ -244,12 +244,12 @@ export default function Dashboard() {
       </div>
 
       {/* Reviews Section */}
-      <div className="bg-white rounded-lg shadow">
-        <div className="px-6 py-4 border-b border-gray-200">
-          <h2 className="text-xl font-semibold text-gray-900">
+      <div className="bg-neutral-900 rounded-lg shadow">
+        <div className="px-6 py-4 border-b border-gray-700">
+          <h2 className="text-xl font-semibold text-white">
             {userRole === 'coach' ? 'Reviews About You' : 'Your Reviews'}
           </h2>
-          <p className="text-sm text-gray-600 mt-1">
+          <p className="text-sm text-gray-300 mt-1">
             {userRole === 'coach' 
               ? 'See what students are saying about your coaching'
               : 'Reviews you&apos;ve written about coaches'
@@ -259,17 +259,17 @@ export default function Dashboard() {
         <div className="p-6">
           {loadingReviews ? (
             <div className="flex items-center justify-center py-8">
-              <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600"></div>
-              <span className="ml-2 text-gray-600">Loading reviews...</span>
+              <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-400"></div>
+              <span className="ml-2 text-gray-300">Loading reviews...</span>
             </div>
           ) : userReviews.length > 0 ? (
             <div className="space-y-4">
               {userReviews.map((review) => (
-                <div key={review.id} className="border border-gray-200 rounded-lg p-4">
+                <div key={review.id} className="border border-gray-600 rounded-lg p-4">
                   <div className="flex items-start justify-between">
                     <div className="flex-1">
-                      <p className="text-gray-900">{review.reviews}</p>
-                      <p className="text-sm text-gray-500 mt-2">
+                      <p className="text-white">{review.reviews}</p>
+                      <p className="text-sm text-gray-300 mt-2">
                         By: {review.email}
                       </p>
                       {review.createdAt && (
@@ -287,10 +287,10 @@ export default function Dashboard() {
               <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
               </svg>
-                                            <h3 className="mt-2 text-sm font-medium text-gray-900">
+                                            <h3 className="mt-2 text-sm font-medium text-white">
                  {userRole === 'coach' ? 'No reviews received yet' : 'No reviews written yet'}
                </h3>
-               <p className="mt-1 text-sm text-gray-500">
+               <p className="mt-1 text-sm text-gray-300">
                  {userRole === 'coach' 
                    ? 'Students haven&apos;t reviewed you yet. Complete your profile to get discovered!'
                    : 'You haven&apos;t written any reviews yet. Start by finding a coach to review.'
@@ -299,7 +299,7 @@ export default function Dashboard() {
                <div className="mt-6">
                  <Link
                    href={userRole === 'coach' ? '/profile' : '/coaches'}
-                   className="inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700"
+                   className="inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700"
                  >
                    {userRole === 'coach' ? 'Complete Profile' : 'Find Coaches'}
                  </Link>

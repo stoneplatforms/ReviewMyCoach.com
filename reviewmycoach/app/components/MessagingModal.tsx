@@ -171,7 +171,7 @@ export default function MessagingModal({
         {/* Header */}
         <div className="flex items-center justify-between p-4 border-b">
           <div className="flex items-center">
-            <div className="w-10 h-10 bg-blue-500 rounded-full flex items-center justify-center text-white font-medium">
+            <div className="w-10 h-10 bg-gray-500 rounded-full flex items-center justify-center text-white font-medium">
               {recipientName.charAt(0).toUpperCase()}
             </div>
             <div className="ml-3">
@@ -204,13 +204,13 @@ export default function MessagingModal({
                 <div
                   className={`max-w-xs px-4 py-2 rounded-lg ${
                     message.senderId === user?.uid
-                      ? 'bg-blue-500 text-white'
+                      ? 'bg-gray-500 text-white'
                       : 'bg-gray-100 text-gray-900'
                   }`}
                 >
                   <p className="text-sm">{message.message}</p>
                   <p className={`text-xs mt-1 ${
-                    message.senderId === user?.uid ? 'text-blue-100' : 'text-gray-500'
+                    message.senderId === user?.uid ? 'text-gray-100' : 'text-gray-500'
                   }`}>
                     {formatMessageTime(message.createdAt)}
                   </p>
@@ -234,13 +234,13 @@ export default function MessagingModal({
               value={newMessage}
               onChange={(e) => setNewMessage(e.target.value)}
               placeholder="Type a message..."
-              className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
               disabled={loading}
             />
             <button
               type="submit"
               disabled={loading || !newMessage.trim()}
-              className="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+              className="px-4 py-2 bg-gray-500 text-white rounded-md hover:bg-gray-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
             >
               {loading ? (
                 <svg className="w-4 h-4 animate-spin" fill="none" viewBox="0 0 24 24">

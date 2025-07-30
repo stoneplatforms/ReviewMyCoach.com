@@ -139,7 +139,7 @@ export default function ServicesPage() {
     return (
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <div className="flex items-center justify-center h-64">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-600"></div>
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600"></div>
         </div>
       </div>
     );
@@ -159,7 +159,7 @@ export default function ServicesPage() {
           <div className="flex space-x-3">
             <Link
               href="/dashboard/coach"
-              className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+              className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-neutral-900 hover:bg-neutral-800"
             >
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -168,7 +168,7 @@ export default function ServicesPage() {
             </Link>
             <button
               onClick={() => setShowCreateForm(true)}
-              className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
+              className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700"
             >
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
@@ -192,15 +192,15 @@ export default function ServicesPage() {
 
       {/* Create Service Form */}
       {showCreateForm && (
-        <div className="fixed inset-0 bg-gray-500 bg-opacity-75 flex items-center justify-center p-4 z-50">
-          <div className="bg-white rounded-lg shadow-xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+        <div className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center p-4 z-50">
+          <div className="bg-neutral-900 rounded-lg shadow-xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
             <div className="px-6 py-4 border-b border-gray-200">
               <h2 className="text-xl font-semibold text-gray-900">Create New Service</h2>
             </div>
             
             <form onSubmit={handleCreateService} className="p-6 space-y-6">
               <div>
-                <label htmlFor="title" className="block text-sm font-medium text-gray-700 mb-1">
+                <label htmlFor="title" className="block text-sm font-medium text-white mb-1">
                   Service Title
                 </label>
                 <input
@@ -210,13 +210,13 @@ export default function ServicesPage() {
                   value={formData.title}
                   onChange={handleInputChange}
                   required
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                   placeholder="e.g., 1-on-1 Tennis Lesson"
                 />
               </div>
 
               <div>
-                <label htmlFor="description" className="block text-sm font-medium text-gray-700 mb-1">
+                <label htmlFor="description" className="block text-sm font-medium text-white mb-1">
                   Description
                 </label>
                 <textarea
@@ -226,14 +226,14 @@ export default function ServicesPage() {
                   onChange={handleInputChange}
                   required
                   rows={3}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                   placeholder="Describe what's included in this service..."
                 />
               </div>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div>
-                  <label htmlFor="price" className="block text-sm font-medium text-gray-700 mb-1">
+                  <label htmlFor="price" className="block text-sm font-medium text-white mb-1">
                     Price ($)
                   </label>
                   <input
@@ -245,12 +245,12 @@ export default function ServicesPage() {
                     required
                     min="0"
                     step="0.01"
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                   />
                 </div>
 
                 <div>
-                  <label htmlFor="duration" className="block text-sm font-medium text-gray-700 mb-1">
+                  <label htmlFor="duration" className="block text-sm font-medium text-white mb-1">
                     Duration (minutes)
                   </label>
                   <input
@@ -261,13 +261,13 @@ export default function ServicesPage() {
                     onChange={handleInputChange}
                     required
                     min="15"
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                   />
                 </div>
               </div>
 
               <div>
-                <label htmlFor="category" className="block text-sm font-medium text-gray-700 mb-1">
+                <label htmlFor="category" className="block text-sm font-medium text-white mb-1">
                   Category
                 </label>
                 <select
@@ -275,7 +275,7 @@ export default function ServicesPage() {
                   name="category"
                   value={formData.category}
                   onChange={handleInputChange}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                 >
                   <option value="one-on-one">One-on-One Session</option>
                   <option value="group">Group Session</option>
@@ -286,7 +286,7 @@ export default function ServicesPage() {
               </div>
 
               <div>
-                <label htmlFor="deliverables" className="block text-sm font-medium text-gray-700 mb-1">
+                <label htmlFor="deliverables" className="block text-sm font-medium text-white mb-1">
                   Deliverables (one per line)
                 </label>
                 <textarea
@@ -295,13 +295,13 @@ export default function ServicesPage() {
                   value={formData.deliverables}
                   onChange={handleInputChange}
                   rows={3}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                   placeholder="e.g., Personalized training plan\nVideo analysis\nProgress report"
                 />
               </div>
 
               <div>
-                <label htmlFor="maxBookings" className="block text-sm font-medium text-gray-700 mb-1">
+                <label htmlFor="maxBookings" className="block text-sm font-medium text-white mb-1">
                   Maximum Bookings (optional)
                 </label>
                 <input
@@ -311,7 +311,7 @@ export default function ServicesPage() {
                   value={formData.maxBookings}
                   onChange={handleInputChange}
                   min="1"
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                   placeholder="Leave empty for unlimited"
                 />
               </div>
@@ -323,16 +323,16 @@ export default function ServicesPage() {
                   name="isRecurring"
                   checked={formData.isRecurring}
                   onChange={handleInputChange}
-                  className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                  className="h-4 w-4 text-white focus:ring-gray-500 border-gray-300 rounded"
                 />
-                <label htmlFor="isRecurring" className="ml-2 block text-sm text-gray-700">
+                <label htmlFor="isRecurring" className="ml-2 block text-sm text-white">
                   Recurring service
                 </label>
               </div>
 
               {formData.isRecurring && (
                 <div>
-                  <label htmlFor="recurringInterval" className="block text-sm font-medium text-gray-700 mb-1">
+                  <label htmlFor="recurringInterval" className="block text-sm font-medium text-white mb-1">
                     Recurring Interval
                   </label>
                   <select
@@ -340,7 +340,7 @@ export default function ServicesPage() {
                     name="recurringInterval"
                     value={formData.recurringInterval}
                     onChange={handleInputChange}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
                   >
                     <option value="week">Weekly</option>
                     <option value="month">Monthly</option>
@@ -352,14 +352,14 @@ export default function ServicesPage() {
                 <button
                   type="button"
                   onClick={() => setShowCreateForm(false)}
-                  className="px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+                  className="px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-neutral-900 hover:bg-neutral-800"
                 >
                   Cancel
                 </button>
                 <button
                   type="submit"
                   disabled={creating}
-                  className="px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50"
+                  className="px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700 disabled:opacity-50"
                 >
                   {creating ? 'Creating...' : 'Create Service'}
                 </button>
@@ -373,7 +373,7 @@ export default function ServicesPage() {
       {services.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {services.map((service) => (
-            <div key={service.id} className="bg-white rounded-lg shadow border border-gray-200 overflow-hidden">
+            <div key={service.id} className="bg-neutral-900 rounded-lg shadow border border-gray-200 overflow-hidden">
               <div className="p-6">
                 <div className="flex items-center justify-between mb-4">
                   <h3 className="text-lg font-semibold text-gray-900">{service.title}</h3>
@@ -401,7 +401,7 @@ export default function ServicesPage() {
 
                 {service.deliverables.length > 0 && (
                   <div className="mt-4">
-                    <h4 className="text-sm font-medium text-gray-700 mb-2">Deliverables:</h4>
+                    <h4 className="text-sm font-medium text-white mb-2">Deliverables:</h4>
                     <ul className="text-sm text-gray-600 space-y-1">
                       {service.deliverables.map((deliverable, index) => (
                         <li key={index} className="flex items-start">
@@ -430,7 +430,7 @@ export default function ServicesPage() {
           <div className="mt-6">
             <button
               onClick={() => setShowCreateForm(true)}
-              className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700"
+              className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700"
             >
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />

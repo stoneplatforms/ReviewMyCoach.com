@@ -140,7 +140,7 @@ export default function PaymentForm({
               value={billingDetails.name}
               onChange={handleBillingChange}
               required
-              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
             />
           </div>
           
@@ -155,7 +155,7 @@ export default function PaymentForm({
               value={billingDetails.email}
               onChange={handleBillingChange}
               required
-              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
             />
           </div>
         </div>
@@ -171,7 +171,7 @@ export default function PaymentForm({
             value={billingDetails.address.line1}
             onChange={handleBillingChange}
             required
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
           />
         </div>
 
@@ -185,7 +185,7 @@ export default function PaymentForm({
             name="address.line2"
             value={billingDetails.address.line2}
             onChange={handleBillingChange}
-            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+            className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
           />
         </div>
 
@@ -201,7 +201,7 @@ export default function PaymentForm({
               value={billingDetails.address.city}
               onChange={handleBillingChange}
               required
-              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
             />
           </div>
           
@@ -216,7 +216,7 @@ export default function PaymentForm({
               value={billingDetails.address.state}
               onChange={handleBillingChange}
               required
-              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
             />
           </div>
           
@@ -231,7 +231,7 @@ export default function PaymentForm({
               value={billingDetails.address.postal_code}
               onChange={handleBillingChange}
               required
-              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500"
             />
           </div>
         </div>
