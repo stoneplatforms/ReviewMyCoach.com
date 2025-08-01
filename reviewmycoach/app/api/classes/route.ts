@@ -135,6 +135,9 @@ export async function POST(req: NextRequest) {
     }
 
     const coachData = coachDoc.data();
+    if (!coachData) {
+      return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
+    }
 
     // Check if coach has Stripe Connect account
     if (!coachData.stripeAccountId) {

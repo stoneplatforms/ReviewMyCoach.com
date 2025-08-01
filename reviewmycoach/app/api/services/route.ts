@@ -81,6 +81,9 @@ export async function POST(req: NextRequest) {
     }
 
     const coachProfile = coachDoc.data();
+    if (!coachProfile) {
+      return NextResponse.json({ error: 'Coach data not found' }, { status: 404 });
+    }
 
     // Check if coach has a Stripe account
     const stripeAccountRef = db.collection('stripe_accounts').doc(userId);
@@ -141,7 +144,7 @@ export async function POST(req: NextRequest) {
     });
 
     // Update coach profile to indicate they have active services
-    await coachProfile.ref.update({
+    await coachDoc.ref.update({
       hasActiveServices: true,
       updatedAt: new Date(),
     });
