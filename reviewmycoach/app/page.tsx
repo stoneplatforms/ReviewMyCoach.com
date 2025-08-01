@@ -35,23 +35,6 @@ export default function Home() {
                 className="text-slate-900 shadow-2xl"
               />
             </div>
-            
-            {/* Popular Sports Pills */}
-            <div className="flex flex-wrap justify-center gap-3 text-sm">
-              <span className="text-slate-400 mr-2">Trending:</span>
-              <Link href="/search?q=basketball" className="gradient-basketball text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-orange-500/20">
-                🏀 Basketball
-              </Link>
-              <Link href="/search?q=soccer" className="gradient-soccer text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-green-500/20">
-                ⚽ Soccer
-              </Link>
-              <Link href="/search?q=tennis" className="gradient-tennis text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-yellow-500/20">
-                🎾 Tennis
-              </Link>
-              <Link href="/search?q=swimming" className="gradient-swimming text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-gray-500/20">
-                🏊 Swimming
-              </Link>
-            </div>
           </div>
         </div>
         
@@ -66,6 +49,23 @@ export default function Home() {
             </p>
           </div>
           <HeroCoachCarousel />
+          
+          {/* Trending Sports Pills */}
+          <div className="flex flex-wrap justify-center gap-3 text-sm mt-12">
+            <span className="text-white mr-2">Trending:</span>
+            <Link href="/search?q=basketball" className="gradient-basketball !text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-orange-500/20">
+              🏀 Basketball
+            </Link>
+            <Link href="/search?q=soccer" className="gradient-soccer !text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-green-500/20">
+              ⚽ Soccer
+            </Link>
+            <Link href="/search?q=tennis" className="gradient-tennis !text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-yellow-500/20">
+              🎾 Tennis
+            </Link>
+            <Link href="/search?q=swimming" className="gradient-swimming !text-white px-4 py-2 rounded-full transition-all hover:scale-110 hover:shadow-2xl hover:shadow-gray-500/20">
+              🏊 Swimming
+            </Link>
+          </div>
         </div>
       </div>
 
