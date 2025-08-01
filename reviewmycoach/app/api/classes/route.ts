@@ -1,15 +1,17 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-// Lazy initialization of Firebase Admin SDK
-let auth: any = null;
-let db: any = null;
-
-try {
-  const firebaseAdmin = require('../../lib/firebase-admin');
-  auth = firebaseAdmin.auth;
-  db = firebaseAdmin.db;
-} catch (error) {
-  console.error('Failed to initialize Firebase Admin in classes route:', error);
+// Function to get Firebase instances
+async function getFirebaseInstances() {
+  try {
+    const firebaseAdminModule = await import('../../lib/firebase-admin');
+    return {
+      auth: firebaseAdminModule.auth,
+      db: firebaseAdminModule.db
+    };
+  } catch (error) {
+    console.error('Failed to load Firebase Admin in classes route:', error);
+    return { auth: null, db: null };
+  }
 }
 
 interface ClassData {
@@ -41,6 +43,8 @@ interface ClassData {
 
 // GET - Fetch classes
 export async function GET(req: NextRequest) {
+  const { db } = await getFirebaseInstances();
+  
   if (!db) {
     console.error('Firebase not initialized - returning empty classes list');
     return NextResponse.json({
@@ -57,7 +61,7 @@ export async function GET(req: NextRequest) {
     const type = searchParams.get('type');
     const limit = parseInt(searchParams.get('limit') || '20');
 
-    let query = db.collection('classes');
+    let query: any = db.collection('classes');
 
     // Apply filters
     if (coachId) {
@@ -93,6 +97,8 @@ export async function GET(req: NextRequest) {
 
 // POST - Create new class
 export async function POST(req: NextRequest) {
+  const { auth, db } = await getFirebaseInstances();
+  
   if (!db || !auth) {
     console.error('Firebase not initialized - cannot create class');
     return NextResponse.json({
@@ -110,13 +116,24 @@ export async function POST(req: NextRequest) {
     const decodedToken = await auth.verifyIdToken(token);
     const userId = decodedToken.uid;
 
-    // Get coach profile
-    const coachQuery = await db.collection('coaches').where('userId', '==', userId).limit(1).get();
-    if (coachQuery.empty) {
+    // Get user profile to find username
+    const userDoc = await db.collection('users').doc(userId).get();
+    if (!userDoc.exists) {
+      return NextResponse.json({ error: 'User profile not found' }, { status: 404 });
+    }
+
+    const userData = userDoc.data();
+    const username = userData?.username;
+    if (!username) {
+      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
+    }
+
+    // Get coach profile using username
+    const coachDoc = await db.collection('coaches').doc(username).get();
+    if (!coachDoc.exists) {
       return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
     }
 
-    const coachDoc = coachQuery.docs[0];
     const coachData = coachDoc.data();
 
     // Check if coach has Stripe Connect account
@@ -163,7 +180,7 @@ export async function POST(req: NextRequest) {
           description: classData.description,
           metadata: {
             type: 'class',
-            coachId: userId,
+            coachId: username,
             sport: classData.sport,
             classType: classData.type
           }
@@ -196,7 +213,7 @@ export async function POST(req: NextRequest) {
     // Create class document
     const newClass = {
       ...classData,
-      coachId: userId,
+      coachId: username,
       coachName: coachData.displayName,
       stripeAccountId: coachData.stripeAccountId,
       stripeProductId,
@@ -228,6 +245,8 @@ export async function POST(req: NextRequest) {
 
 // PUT - Update class
 export async function PUT(req: NextRequest) {
+  const { auth, db } = await getFirebaseInstances();
+  
   if (!db || !auth) {
     return NextResponse.json({
       error: 'Service temporarily unavailable'
@@ -243,6 +262,18 @@ export async function PUT(req: NextRequest) {
     const decodedToken = await auth.verifyIdToken(token);
     const userId = decodedToken.uid;
 
+    // Get user profile to find username
+    const userDoc = await db.collection('users').doc(userId).get();
+    if (!userDoc.exists) {
+      return NextResponse.json({ error: 'User profile not found' }, { status: 404 });
+    }
+
+    const userData = userDoc.data();
+    const username = userData?.username;
+    if (!username) {
+      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
+    }
+
     const { searchParams } = new URL(req.url);
     const classId = searchParams.get('id');
 
@@ -257,7 +288,7 @@ export async function PUT(req: NextRequest) {
     }
 
     const classData = classDoc.data();
-    if (classData.coachId !== userId) {
+    if (!classData || classData.coachId !== username) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
@@ -284,6 +315,8 @@ export async function PUT(req: NextRequest) {
 
 // DELETE - Delete class
 export async function DELETE(req: NextRequest) {
+  const { auth, db } = await getFirebaseInstances();
+  
   if (!db || !auth) {
     return NextResponse.json({
       error: 'Service temporarily unavailable'
@@ -299,6 +332,18 @@ export async function DELETE(req: NextRequest) {
     const decodedToken = await auth.verifyIdToken(token);
     const userId = decodedToken.uid;
 
+    // Get user profile to find username
+    const userDoc = await db.collection('users').doc(userId).get();
+    if (!userDoc.exists) {
+      return NextResponse.json({ error: 'User profile not found' }, { status: 404 });
+    }
+
+    const userData = userDoc.data();
+    const username = userData?.username;
+    if (!username) {
+      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
+    }
+
     const { searchParams } = new URL(req.url);
     const classId = searchParams.get('id');
 
@@ -313,7 +358,7 @@ export async function DELETE(req: NextRequest) {
     }
 
     const classData = classDoc.data();
-    if (classData.coachId !== userId) {
+    if (!classData || classData.coachId !== username) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 

@@ -2,7 +2,8 @@
 
 import { useState, useEffect } from 'react';
 import { User } from 'firebase/auth';
-import { auth } from '../../../lib/firebase-client';
+import { auth, db } from '../../../lib/firebase-client';
+import { doc, getDoc } from 'firebase/firestore';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 
@@ -61,7 +62,25 @@ export default function ServicesPage() {
 
   const fetchServices = async (user: User) => {
     try {
-      const response = await fetch(`/api/services?coachId=${user.uid}&isActive=true`);
+      // Get the user's profile to find their username
+      const userRef = doc(db, 'users', user.uid);
+      const userSnap = await getDoc(userRef);
+      
+      if (!userSnap.exists()) {
+        console.error('User profile not found');
+        return;
+      }
+
+      const userData = userSnap.data();
+      const username = userData.username;
+
+      if (!username) {
+        console.error('Username not found in user profile');
+        return;
+      }
+
+      // Now fetch services using the username as coachId
+      const response = await fetch(`/api/services?coachId=${username}&isActive=true`);
       if (response.ok) {
         const data = await response.json();
         setServices(data.services || []);

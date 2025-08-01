@@ -13,7 +13,7 @@ try {
 }
 
 // POST - Book a class
-export async function POST(req: NextRequest, { params }: { params: { id: string } }) {
+export async function POST(req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   if (!db || !auth) {
     return NextResponse.json({
       error: 'Service temporarily unavailable'
@@ -21,7 +21,8 @@ export async function POST(req: NextRequest, { params }: { params: { id: string 
   }
 
   try {
-    const classId = params.id;
+    const resolvedParams = await params;
+    const classId = resolvedParams.id;
     const token = req.headers.get('authorization')?.replace('Bearer ', '');
     
     if (!token) {
@@ -166,7 +167,7 @@ export async function POST(req: NextRequest, { params }: { params: { id: string 
 }
 
 // GET - Get booking details
-export async function GET(req: NextRequest, { params }: { params: { id: string } }) {
+export async function GET(req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   if (!db || !auth) {
     return NextResponse.json({
       error: 'Service temporarily unavailable'
@@ -174,7 +175,8 @@ export async function GET(req: NextRequest, { params }: { params: { id: string }
   }
 
   try {
-    const classId = params.id;
+    const resolvedParams = await params;
+    const classId = resolvedParams.id;
     const token = req.headers.get('authorization')?.replace('Bearer ', '');
     
     if (!token) {
@@ -213,7 +215,7 @@ export async function GET(req: NextRequest, { params }: { params: { id: string }
 }
 
 // DELETE - Cancel booking
-export async function DELETE(req: NextRequest, { params }: { params: { id: string } }) {
+export async function DELETE(req: NextRequest, { params }: { params: Promise<{ id: string }> }) {
   if (!db || !auth) {
     return NextResponse.json({
       error: 'Service temporarily unavailable'
@@ -221,7 +223,8 @@ export async function DELETE(req: NextRequest, { params }: { params: { id: strin
   }
 
   try {
-    const classId = params.id;
+    const resolvedParams = await params;
+    const classId = resolvedParams.id;
     const token = req.headers.get('authorization')?.replace('Bearer ', '');
     
     if (!token) {

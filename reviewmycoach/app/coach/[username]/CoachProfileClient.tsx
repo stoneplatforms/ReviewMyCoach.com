@@ -91,7 +91,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
   const fetchServices = useCallback(async () => {
     try {
-      const response = await fetch(`/api/services?coachId=${coach.userId}&isActive=true`);
+      const response = await fetch(`/api/services?coachId=${coach.id}&isActive=true`);
       if (response.ok) {
         const data = await response.json();
         setServices(data.services || []);
@@ -101,7 +101,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
     } finally {
       // Loading complete
     }
-  }, [coach.userId]);
+  }, [coach.id]);
 
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged((user) => {

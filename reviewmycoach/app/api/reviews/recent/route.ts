@@ -1,14 +1,19 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-let db: any = null;
-try {
-  const firebaseAdmin = require('../../../lib/firebase-admin');
-  db = firebaseAdmin.db;
-} catch (error) {
-  console.error('Failed to initialize Firebase Admin:', error);
+// Function to get Firebase instance
+async function getFirebaseDb() {
+  try {
+    const firebaseAdminModule = await import('../../../lib/firebase-admin');
+    return firebaseAdminModule.db;
+  } catch (error) {
+    console.error('Failed to load Firebase Admin in recent reviews route:', error);
+    return null;
+  }
 }
 
 export async function GET(request: NextRequest) {
+  const db = await getFirebaseDb();
+  
   // Early return if Firebase isn't initialized
   if (!db) {
     console.error('Firebase not initialized - returning fallback empty reviews');

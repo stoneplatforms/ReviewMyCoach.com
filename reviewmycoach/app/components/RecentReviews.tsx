@@ -208,7 +208,7 @@ export default function RecentReviews() {
                 </div>
                 
                 <p className="text-gray-700 mb-4 leading-relaxed">
-                  "{truncateText(review.reviewText)}"
+                  &ldquo;{truncateText(review.reviewText)}&rdquo;
                 </p>
                 
                 <div className="flex items-center justify-between">

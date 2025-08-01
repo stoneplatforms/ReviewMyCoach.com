@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback } from 'react';
 import { useSearchParams, useRouter, usePathname } from 'next/navigation';
 import { useDebounce } from '../lib/hooks/useDebounce';
+import { useAuth } from '../lib/hooks/useAuth';
 import CoachCard from '../components/CoachCard';
 import SearchFilters from '../components/SearchFilters';
 import Pagination from '../components/Pagination';
@@ -34,6 +35,8 @@ interface SearchFilters {
   location: string;
   gender: string;
   organization: string;
+  role: string;
+  ageGroup: string;
   minRating: string;
   maxRate: string;
   isVerified: string;
@@ -47,6 +50,8 @@ interface SearchResponse {
   page: number;
   totalPages: number;
   hasMore: boolean;
+  error?: string;
+  fallback?: boolean;
 }
 
 const ITEMS_PER_PAGE = 12;
@@ -55,14 +60,18 @@ export default function SearchPageClient() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const pathname = usePathname();
+  const { user } = useAuth();
 
   // Search state
   const [searchTerm, setSearchTerm] = useState(searchParams?.get('q') || '');
+  const [showPostJobModal, setShowPostJobModal] = useState(false);
   const [filters, setFilters] = useState<SearchFilters>({
     sport: searchParams?.get('sport') || '',
     location: searchParams?.get('location') || '',
     gender: searchParams?.get('gender') || '',
     organization: searchParams?.get('organization') || '',
+    role: searchParams?.get('role') || '',
+    ageGroup: searchParams?.get('ageGroup') || '',
     minRating: searchParams?.get('minRating') || '',
     maxRate: searchParams?.get('maxRate') || '',
     isVerified: searchParams?.get('isVerified') || '',
@@ -143,11 +152,20 @@ export default function SearchPageClient() {
 
       const response = await fetch(`/api/search/coaches?${params.toString()}`);
       
+      const data: SearchResponse = await response.json();
+      
+      // Handle fallback case when Firebase isn't initialized
+      if (data.fallback) {
+        console.warn('Search service temporarily unavailable, showing fallback response');
+        setError('Search service is temporarily unavailable. Please try again later.');
+        setResults({ coaches: [], total: 0, page: 1, totalPages: 0, hasMore: false });
+        return;
+      }
+      
       if (!response.ok) {
-        throw new Error('Failed to fetch search results');
+        throw new Error(data.error || 'Failed to fetch search results');
       }
 
-      const data: SearchResponse = await response.json();
       setResults(data);
     } catch (err) {
       console.error('Search error:', err);
@@ -184,6 +202,8 @@ export default function SearchPageClient() {
       location: '',
       gender: '',
       organization: '',
+      role: '',
+      ageGroup: '',
       minRating: '',
       maxRate: '',
       isVerified: '',
@@ -219,10 +239,27 @@ export default function SearchPageClient() {
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Page Header */}
       <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900 mb-2">Find Your Perfect Coach</h1>
-        <p className="text-gray-600">
-          Search through our network of verified coaches and find the perfect match for your needs.
-        </p>
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <h1 className="text-3xl font-bold text-gray-900 mb-2">Find Your Perfect Coach</h1>
+            <p className="text-gray-600">
+              Search through our network of verified coaches and find the perfect match for your needs.
+            </p>
+          </div>
+          {user && (
+            <div className="mt-4 sm:mt-0">
+              <button
+                onClick={() => setShowPostJobModal(true)}
+                className="bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-lg font-semibold transition-colors flex items-center"
+              >
+                <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
+                </svg>
+                Post a Job
+              </button>
+            </div>
+          )}
+        </div>
       </div>
 
       {/* Search Bar */}
@@ -361,6 +398,263 @@ export default function SearchPageClient() {
           </button>
         </div>
       )}
+
+      {/* Job Posting Modal */}
+      {showPostJobModal && (
+        <JobPostingModal
+          onClose={() => setShowPostJobModal(false)}
+          onJobPosted={() => {
+            setShowPostJobModal(false);
+            // Could add a success message here
+          }}
+        />
+      )}
+    </div>
+  );
+}
+
+// Job Posting Modal Component
+interface JobPostingModalProps {
+  onClose: () => void;
+  onJobPosted: () => void;
+}
+
+function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
+  const { user } = useAuth();
+  const [loading, setLoading] = useState(false);
+  const [formData, setFormData] = useState({
+    title: '',
+    description: '',
+    sport: '',
+    location: '',
+    type: 'part-time' as 'full-time' | 'part-time' | 'contract' | 'volunteer',
+    salaryRange: '',
+    requirements: [''],
+    applicationDeadline: '',
+  });
+
+  const handleInputChange = (field: string, value: string) => {
+    setFormData(prev => ({ ...prev, [field]: value }));
+  };
+
+  const handleRequirementChange = (index: number, value: string) => {
+    const newRequirements = [...formData.requirements];
+    newRequirements[index] = value;
+    setFormData(prev => ({ ...prev, requirements: newRequirements }));
+  };
+
+  const addRequirement = () => {
+    setFormData(prev => ({ ...prev, requirements: [...prev.requirements, ''] }));
+  };
+
+  const removeRequirement = (index: number) => {
+    const newRequirements = formData.requirements.filter((_, i) => i !== index);
+    setFormData(prev => ({ ...prev, requirements: newRequirements }));
+  };
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!user) return;
+
+    setLoading(true);
+    try {
+      const token = await user.getIdToken();
+      const response = await fetch('/api/jobs', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${token}`
+        },
+        body: JSON.stringify({
+          ...formData,
+          requirements: formData.requirements.filter(req => req.trim() !== ''),
+          applicationDeadline: formData.applicationDeadline ? new Date(formData.applicationDeadline) : null
+        })
+      });
+
+      const data = await response.json();
+
+      if (response.ok) {
+        onJobPosted();
+        alert('Job posted successfully!');
+      } else {
+        alert(data.error || 'Failed to post job');
+      }
+    } catch (err) {
+      console.error('Error posting job:', err);
+      alert('Failed to post job');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  return (
+    <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
+      <div className="bg-white rounded-lg max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+        <div className="p-6">
+          <div className="flex items-center justify-between mb-6">
+            <h2 className="text-2xl font-bold text-gray-900">Post a Coaching Job</h2>
+            <button
+              onClick={onClose}
+              type="button"
+              className="text-gray-400 hover:text-gray-600"
+            >
+              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              </svg>
+            </button>
+          </div>
+
+          <form onSubmit={handleSubmit} className="space-y-6">
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">Job Title *</label>
+              <input
+                type="text"
+                required
+                value={formData.title}
+                onChange={(e) => handleInputChange('title', e.target.value)}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                placeholder="e.g., Youth Basketball Coach"
+              />
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Sport *</label>
+                <select
+                  required
+                  value={formData.sport}
+                  onChange={(e) => handleInputChange('sport', e.target.value)}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                >
+                  <option value="">Select Sport</option>
+                  <option value="football">Football</option>
+                  <option value="basketball">Basketball</option>
+                  <option value="baseball">Baseball</option>
+                  <option value="soccer">Soccer</option>
+                  <option value="tennis">Tennis</option>
+                  <option value="swimming">Swimming</option>
+                  <option value="track">Track & Field</option>
+                  <option value="volleyball">Volleyball</option>
+                  <option value="other">Other</option>
+                </select>
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Job Type *</label>
+                <select
+                  required
+                  value={formData.type}
+                  onChange={(e) => handleInputChange('type', e.target.value as any)}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                >
+                  <option value="part-time">Part-time</option>
+                  <option value="full-time">Full-time</option>
+                  <option value="contract">Contract</option>
+                  <option value="volunteer">Volunteer</option>
+                </select>
+              </div>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Location *</label>
+                <input
+                  type="text"
+                  required
+                  value={formData.location}
+                  onChange={(e) => handleInputChange('location', e.target.value)}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                  placeholder="e.g., New York, Remote"
+                />
+              </div>
+
+              <div>
+                <label className="block text-sm font-medium text-gray-700 mb-2">Salary Range</label>
+                <input
+                  type="text"
+                  value={formData.salaryRange}
+                  onChange={(e) => handleInputChange('salaryRange', e.target.value)}
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                  placeholder="e.g., $25-40/hour, $50k-70k/year"
+                />
+              </div>
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">Description *</label>
+              <textarea
+                required
+                rows={4}
+                value={formData.description}
+                onChange={(e) => handleInputChange('description', e.target.value)}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                placeholder="Describe the coaching position, responsibilities, and what you're looking for..."
+              />
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">Requirements</label>
+              {formData.requirements.map((requirement, index) => (
+                <div key={index} className="flex items-center gap-2 mb-2">
+                  <input
+                    type="text"
+                    value={requirement}
+                    onChange={(e) => handleRequirementChange(index, e.target.value)}
+                    className="flex-1 px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                    placeholder="e.g., 2+ years coaching experience"
+                  />
+                  {formData.requirements.length > 1 && (
+                    <button
+                      type="button"
+                      onClick={() => removeRequirement(index)}
+                      className="text-red-500 hover:text-red-700"
+                    >
+                      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
+                      </svg>
+                    </button>
+                  )}
+                </div>
+              ))}
+              <button
+                type="button"
+                onClick={addRequirement}
+                className="text-orange-500 hover:text-orange-600 text-sm font-medium"
+              >
+                + Add Requirement
+              </button>
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">Application Deadline</label>
+              <input
+                type="date"
+                value={formData.applicationDeadline}
+                onChange={(e) => handleInputChange('applicationDeadline', e.target.value)}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+              />
+            </div>
+
+            <div className="flex items-center justify-end gap-4 pt-6 border-t border-gray-200">
+              <button
+                type="button"
+                onClick={onClose}
+                className="px-6 py-2 text-gray-700 hover:text-gray-900 font-medium"
+              >
+                Cancel
+              </button>
+              <button
+                type="submit"
+                disabled={loading}
+                className="bg-orange-500 hover:bg-orange-600 disabled:opacity-50 text-white px-6 py-2 rounded-lg font-semibold transition-colors"
+              >
+                {loading ? 'Posting...' : 'Post Job'}
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
     </div>
   );
 } 

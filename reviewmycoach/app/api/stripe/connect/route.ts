@@ -1,26 +1,30 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-let auth: any = null;
-let db: any = null;
-let findCoachByUserId: any = null;
-let createConnectAccount: any = null;
-let createAccountLink: any = null;
-
-try {
-  const firebaseAdmin = require('../../../lib/firebase-admin');
-  auth = firebaseAdmin.auth;
-  db = firebaseAdmin.db;
-  findCoachByUserId = firebaseAdmin.findCoachByUserId;
-  
-  const stripe = require('../../../lib/stripe');
-  createConnectAccount = stripe.createConnectAccount;
-  createAccountLink = stripe.createAccountLink;
-} catch (error) {
-  console.error('Failed to initialize Firebase Admin in stripe connect route:', error);
+// Function to get Firebase and Stripe instances
+async function getInstances() {
+  try {
+    const [firebaseAdminModule, stripeModule] = await Promise.all([
+      import('../../../lib/firebase-admin'),
+      import('../../../lib/stripe')
+    ]);
+    
+    return {
+      auth: firebaseAdminModule.auth,
+      db: firebaseAdminModule.db,
+      findCoachByUserId: firebaseAdminModule.findCoachByUserId,
+      createConnectAccount: stripeModule.createConnectAccount,
+      createAccountLink: stripeModule.createAccountLink
+    };
+  } catch (error) {
+    console.error('Failed to load modules in stripe connect route:', error);
+    return { auth: null, db: null, findCoachByUserId: null, createConnectAccount: null, createAccountLink: null };
+  }
 }
 
 export async function POST(req: NextRequest) {
-  // Early return if Firebase isn't initialized
+  const { auth, db, findCoachByUserId, createConnectAccount, createAccountLink } = await getInstances();
+  
+  // Early return if modules aren't initialized
   if (!db || !auth || !findCoachByUserId) {
     console.error('Firebase not initialized - cannot create Stripe connection');
     return NextResponse.json({ 
@@ -86,7 +90,9 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET(req: NextRequest) {
-  // Early return if Firebase isn't initialized
+  const { auth, db } = await getInstances();
+  
+  // Early return if modules aren't initialized
   if (!db || !auth) {
     console.error('Firebase not initialized - cannot fetch Stripe account');
     return NextResponse.json({ 

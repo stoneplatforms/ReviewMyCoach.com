@@ -2,11 +2,11 @@
 
 import { useState, useEffect } from 'react';
 import { User } from 'firebase/auth';
-import { doc, setDoc, getDoc } from 'firebase/firestore';
+import { doc, setDoc } from 'firebase/firestore';
 import { auth, db } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 
-type OnboardingStep = 'username' | 'role' | 'loading';
+type OnboardingStep = 'username' | 'role' | 'claim_check' | 'claim_profile' | 'identity_verify' | 'loading';
 
 export default function Onboarding() {
   const [currentStep, setCurrentStep] = useState<OnboardingStep>('username');
@@ -17,6 +17,15 @@ export default function Onboarding() {
   const [user, setUser] = useState<User | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
   const [fadeClass, setFadeClass] = useState('opacity-100');
+  const [claimableProfiles, setClaimableProfiles] = useState<any[]>([]);
+  const [selectedProfile, setSelectedProfile] = useState<any>(null);
+  const [identityVerificationData, setIdentityVerificationData] = useState({
+    fullName: '',
+    dateOfBirth: '',
+    address: '',
+    phoneNumber: '',
+    driversLicense: null as File | null
+  });
   const router = useRouter();
 
   useEffect(() => {
@@ -54,10 +63,8 @@ export default function Onboarding() {
     
     setLoading(true);
     try {
-      // Check if username is already taken
-      const usersRef = doc(db, 'users', user.uid);
-      
       // Save username to user profile
+      const usersRef = doc(db, 'users', user.uid);
       await setDoc(usersRef, {
         userId: user.uid,
         email: user.email,
@@ -68,17 +75,29 @@ export default function Onboarding() {
         isVerified: false
       });
 
-      // Fade out current step
-      setFadeClass('opacity-0');
-      
-      // Wait for fade out, then switch to role selection
-      setTimeout(() => {
-        setCurrentStep('role');
-        setFadeClass('opacity-100');
-      }, 300);
+      // Check for claimable coach profiles with this email
+      const response = await fetch(`/api/coaches/claim?email=${encodeURIComponent(user.email || '')}`);
+      const data = await response.json();
+
+      if (response.ok && data.claimableProfiles && data.claimableProfiles.length > 0) {
+        // Found claimable profiles - show them to the user
+        setClaimableProfiles(data.claimableProfiles);
+        setFadeClass('opacity-0');
+        setTimeout(() => {
+          setCurrentStep('claim_check');
+          setFadeClass('opacity-100');
+        }, 300);
+      } else {
+        // No claimable profiles - proceed to role selection
+        setFadeClass('opacity-0');
+        setTimeout(() => {
+          setCurrentStep('role');
+          setFadeClass('opacity-100');
+        }, 300);
+      }
       
     } catch (error) {
-      console.error('Error saving username:', error);
+      console.error('Error saving username or checking profiles:', error);
       setUsernameError('Error saving username. Please try again.');
     } finally {
       setLoading(false);
@@ -126,6 +145,8 @@ export default function Onboarding() {
           averageRating: 0,
           totalReviews: 0,
           isVerified: false,
+          isClaimed: true,
+          claimedAt: new Date(),
           profileImage: '',
           phoneNumber: '',
           website: '',
@@ -144,9 +165,83 @@ export default function Onboarding() {
       router.push('/dashboard');
     } catch (error) {
       console.error('Error updating user role:', error);
-      // Show error to user
       alert(`Error updating profile: ${error instanceof Error ? error.message : 'Unknown error'}`);
-      setCurrentStep('role'); // Go back to role selection on error
+      setCurrentStep('role');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleClaimProfile = async (profile: any) => {
+    setSelectedProfile(profile);
+    setFadeClass('opacity-0');
+    setTimeout(() => {
+      setCurrentStep('identity_verify');
+      setFadeClass('opacity-100');
+    }, 300);
+  };
+
+  const handleSkipClaiming = () => {
+    setFadeClass('opacity-0');
+    setTimeout(() => {
+      setCurrentStep('role');
+      setFadeClass('opacity-100');
+    }, 300);
+  };
+
+  const handleIdentityVerification = async (e: React.FormEvent) => {
+    e.preventDefault();
+    if (!selectedProfile || !user || !identityVerificationData.driversLicense) return;
+
+    setLoading(true);
+    try {
+      // Create form data for file upload
+      const formData = new FormData();
+      formData.append('driversLicense', identityVerificationData.driversLicense);
+      formData.append('coachUsername', selectedProfile.username);
+      formData.append('personalInfo', JSON.stringify({
+        fullName: identityVerificationData.fullName,
+        dateOfBirth: identityVerificationData.dateOfBirth,
+        address: identityVerificationData.address,
+        phoneNumber: identityVerificationData.phoneNumber
+      }));
+
+      const token = await user.getIdToken();
+      
+      // First claim the profile
+      const claimResponse = await fetch('/api/coaches/claim', {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          coachUsername: selectedProfile.username
+        })
+      });
+
+      if (!claimResponse.ok) {
+        throw new Error('Failed to claim profile');
+      }
+
+      // Then submit identity verification
+      const verificationResponse = await fetch('/api/identity/verify', {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${token}`
+        },
+        body: formData
+      });
+
+      if (!verificationResponse.ok) {
+        throw new Error('Failed to submit identity verification');
+      }
+
+      // Redirect to dashboard with success message
+      router.push('/dashboard?claimed=true');
+    } catch (error) {
+      console.error('Error claiming profile or verifying identity:', error);
+      alert(`Error: ${error instanceof Error ? error.message : 'Unknown error'}`);
     } finally {
       setLoading(false);
     }
@@ -355,9 +450,191 @@ export default function Onboarding() {
 
   const renderLoadingStep = () => (
     <div className="text-center py-8">
-              <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600 mx-auto mb-4"></div>
+      <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600 mx-auto mb-4"></div>
       <h3 className="text-lg font-medium text-gray-900 mb-2">Setting up your account...</h3>
       <p className="text-sm text-gray-600">This will only take a moment</p>
+    </div>
+  );
+
+  const renderClaimCheckStep = () => (
+    <div className={`transition-opacity duration-300 ${fadeClass}`}>
+      <div className="space-y-6">
+        <div>
+          <h3 className="text-lg font-medium text-gray-900 mb-4">
+            We found existing coach profiles for your email!
+          </h3>
+          <p className="text-sm text-gray-600 mb-6">
+            We found {claimableProfiles.length} coach profile(s) associated with your email address. 
+            You can claim one of these profiles or create a new one.
+          </p>
+          
+          <div className="space-y-4">
+            {claimableProfiles.map((profile, index) => (
+              <div key={profile.username} className="border border-gray-300 rounded-lg p-4 hover:border-gray-400 transition-colors">
+                <div className="flex items-start justify-between">
+                  <div className="flex-1">
+                    <h4 className="font-medium text-gray-900">{profile.displayName}</h4>
+                    <p className="text-sm text-gray-600">{profile.role} at {profile.organization}</p>
+                    <p className="text-sm text-gray-500 mt-1">Sports: {profile.sports.join(', ')}</p>
+                    {profile.phoneNumber && (
+                      <p className="text-sm text-gray-500">Phone: {profile.phoneNumber}</p>
+                    )}
+                  </div>
+                  <button
+                    onClick={() => handleClaimProfile(profile)}
+                    className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700"
+                  >
+                    Claim Profile
+                  </button>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="flex space-x-4">
+          <button
+            onClick={handleSkipClaiming}
+            className="flex-1 py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+          >
+            Create New Profile Instead
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+
+  const renderIdentityVerifyStep = () => (
+    <div className={`transition-opacity duration-300 ${fadeClass}`}>
+      <form onSubmit={handleIdentityVerification} className="space-y-6">
+        <div>
+          <h3 className="text-lg font-medium text-gray-900 mb-4">
+            Verify Your Identity
+          </h3>
+          <p className="text-sm text-gray-600 mb-6">
+            To claim the profile for <strong>{selectedProfile?.displayName}</strong>, 
+            we need to verify your identity using your driver's license.
+          </p>
+          
+          <div className="space-y-4">
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Full Name (as it appears on your license)
+              </label>
+              <input
+                type="text"
+                value={identityVerificationData.fullName}
+                onChange={(e) => setIdentityVerificationData(prev => ({
+                  ...prev,
+                  fullName: e.target.value
+                }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-gray-500 focus:border-gray-500"
+                required
+              />
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Date of Birth
+              </label>
+              <input
+                type="date"
+                value={identityVerificationData.dateOfBirth}
+                onChange={(e) => setIdentityVerificationData(prev => ({
+                  ...prev,
+                  dateOfBirth: e.target.value
+                }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-gray-500 focus:border-gray-500"
+                required
+              />
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Address
+              </label>
+              <textarea
+                value={identityVerificationData.address}
+                onChange={(e) => setIdentityVerificationData(prev => ({
+                  ...prev,
+                  address: e.target.value
+                }))}
+                rows={3}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-gray-500 focus:border-gray-500"
+                required
+              />
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Phone Number
+              </label>
+              <input
+                type="tel"
+                value={identityVerificationData.phoneNumber}
+                onChange={(e) => setIdentityVerificationData(prev => ({
+                  ...prev,
+                  phoneNumber: e.target.value
+                }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-gray-500 focus:border-gray-500"
+                placeholder={selectedProfile?.phoneNumber || ''}
+              />
+            </div>
+
+            <div>
+              <label className="block text-sm font-medium text-gray-700 mb-2">
+                Driver's License Photo
+              </label>
+              <input
+                type="file"
+                accept="image/*,.pdf"
+                onChange={(e) => setIdentityVerificationData(prev => ({
+                  ...prev,
+                  driversLicense: e.target.files?.[0] || null
+                }))}
+                className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-gray-500 focus:border-gray-500"
+                required
+              />
+              <p className="text-xs text-gray-500 mt-1">
+                Upload a clear photo of your driver's license (JPEG, PNG, or PDF, max 10MB)
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex space-x-4">
+          <button
+            type="button"
+            onClick={() => {
+              setFadeClass('opacity-0');
+              setTimeout(() => {
+                setCurrentStep('claim_check');
+                setFadeClass('opacity-100');
+              }, 300);
+            }}
+            className="flex-1 py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+          >
+            Back
+          </button>
+          <button
+            type="submit"
+            disabled={loading || !identityVerificationData.driversLicense}
+            className="flex-1 flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            {loading ? (
+              <>
+                <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                  <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                </svg>
+                Verifying...
+              </>
+            ) : (
+              'Claim Profile & Verify Identity'
+            )}
+          </button>
+        </div>
+      </form>
     </div>
   );
 
@@ -375,6 +652,8 @@ export default function Onboarding() {
         <p className="mt-2 text-center text-sm text-gray-600">
           {currentStep === 'username' && "Let's start by setting up your username"}
           {currentStep === 'role' && "Now, tell us what brings you here"}
+          {currentStep === 'claim_check' && "We found existing profiles for you!"}
+          {currentStep === 'identity_verify' && "Identity verification required"}
           {currentStep === 'loading' && "Setting up your profile..."}
         </p>
       </div>
@@ -383,6 +662,8 @@ export default function Onboarding() {
         <div className="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
           {currentStep === 'username' && renderUsernameStep()}
           {currentStep === 'role' && renderRoleStep()}
+          {currentStep === 'claim_check' && renderClaimCheckStep()}
+          {currentStep === 'identity_verify' && renderIdentityVerifyStep()}
           {currentStep === 'loading' && renderLoadingStep()}
         </div>
       </div>

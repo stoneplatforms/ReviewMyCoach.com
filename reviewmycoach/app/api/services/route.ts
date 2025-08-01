@@ -1,26 +1,30 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-let auth: any = null;
-let db: any = null;
-let findCoachByUserId: any = null;
-let createProduct: any = null;
-let createPrice: any = null;
-
-try {
-  const firebaseAdmin = require('../../lib/firebase-admin');
-  auth = firebaseAdmin.auth;
-  db = firebaseAdmin.db;
-  findCoachByUserId = firebaseAdmin.findCoachByUserId;
-  
-  const stripe = require('../../lib/stripe');
-  createProduct = stripe.createProduct;
-  createPrice = stripe.createPrice;
-} catch (error) {
-  console.error('Failed to initialize Firebase Admin in services route:', error);
+// Function to get Firebase and Stripe instances
+async function getInstances() {
+  try {
+    const [firebaseAdminModule, stripeModule] = await Promise.all([
+      import('../../lib/firebase-admin'),
+      import('../../lib/stripe')
+    ]);
+    
+    return {
+      auth: firebaseAdminModule.auth,
+      db: firebaseAdminModule.db,
+      findCoachByUserId: firebaseAdminModule.findCoachByUserId,
+      createProduct: stripeModule.createProduct,
+      createPrice: stripeModule.createPrice
+    };
+  } catch (error) {
+    console.error('Failed to load modules in services route:', error);
+    return { auth: null, db: null, findCoachByUserId: null, createProduct: null, createPrice: null };
+  }
 }
 
 export async function POST(req: NextRequest) {
-  // Early return if Firebase isn't initialized
+  const { auth, db, findCoachByUserId, createProduct, createPrice } = await getInstances();
+  
+  // Early return if modules aren't initialized
   if (!db || !auth || !findCoachByUserId) {
     console.error('Firebase not initialized - cannot create services');
     return NextResponse.json({ 
@@ -58,12 +62,25 @@ export async function POST(req: NextRequest) {
     
     const userId = decodedToken.uid;
 
-    // Check if user is a coach
-    const coachProfile = await findCoachByUserId(userId);
-    
-    if (!coachProfile) {
+    // Get user profile to find username
+    const userDoc = await db.collection('users').doc(userId).get();
+    if (!userDoc.exists) {
+      return NextResponse.json({ error: 'User profile not found' }, { status: 404 });
+    }
+
+    const userData = userDoc.data();
+    const username = userData?.username;
+    if (!username) {
+      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
+    }
+
+    // Get coach profile using username
+    const coachDoc = await db.collection('coaches').doc(username).get();
+    if (!coachDoc.exists) {
       return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
     }
+
+    const coachProfile = coachDoc.data();
 
     // Check if coach has a Stripe account
     const stripeAccountRef = db.collection('stripe_accounts').doc(userId);
@@ -86,7 +103,7 @@ export async function POST(req: NextRequest) {
       description,
       stripeAccountId,
       {
-        coachId: userId,
+        coachId: username,
         category,
         duration: duration.toString(),
       }
@@ -105,7 +122,7 @@ export async function POST(req: NextRequest) {
     const serviceRef = db.collection('services').doc();
     await serviceRef.set({
       id: serviceRef.id,
-      coachId: userId,
+      coachId: username,
       title,
       description,
       price,
@@ -146,6 +163,8 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET(req: NextRequest) {
+  const { db } = await getInstances();
+  
   // Early return if Firebase isn't initialized
   if (!db) {
     console.error('Firebase not initialized - returning empty services list');

@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { headers } from 'next/headers';
 
 // Lazy initialization of Firebase Admin SDK
 let db: any = null;
@@ -21,8 +20,7 @@ export async function POST(req: NextRequest) {
 
   try {
     const body = await req.text();
-    const headersList = headers();
-    const signature = headersList.get('stripe-signature');
+    const signature = req.headers.get('stripe-signature');
 
     if (!signature) {
       console.error('No Stripe signature found');
@@ -242,22 +240,20 @@ async function sendBookingConfirmation(bookingData: any, classData: any) {
     // This would integrate with your email service (SendGrid, AWS SES, etc.)
     console.log('Sending booking confirmation email...');
     
-    const emailData = {
-      to: bookingData.userEmail,
-      subject: `Booking Confirmed: ${classData.title}`,
-      template: 'class_booking_confirmation',
-      data: {
-        userName: bookingData.userName,
-        className: classData.title,
-        coachName: classData.coachName,
-        classType: classData.type,
-        location: classData.location,
-        zoomJoinUrl: classData.zoomJoinUrl,
-        schedules: classData.schedules,
-        price: classData.price,
-        currency: classData.currency
-      }
-    };
+    // Email data for future email service integration
+    console.log('Email would be sent to:', bookingData.userEmail);
+    console.log('Subject:', `Booking Confirmed: ${classData.title}`);
+    console.log('Booking details:', {
+      userName: bookingData.userName,
+      className: classData.title,
+      coachName: classData.coachName,
+      classType: classData.type,
+      location: classData.location,
+      zoomJoinUrl: classData.zoomJoinUrl,
+      schedules: classData.schedules,
+      price: classData.price,
+      currency: classData.currency
+    });
 
     // Example email sending logic (replace with your email service)
     // await emailService.send(emailData);
@@ -269,7 +265,7 @@ async function sendBookingConfirmation(bookingData: any, classData: any) {
 }
 
 // Utility function to handle refunds (for cancellations)
-export async function processRefund(paymentIntentId: string, amount?: number) {
+async function processRefund(paymentIntentId: string, amount?: number) {
   try {
     const refund = await stripe.stripe.refunds.create({
       payment_intent: paymentIntentId,

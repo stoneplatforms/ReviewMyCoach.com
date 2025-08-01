@@ -9,14 +9,17 @@ interface AuthState {
   error: Error | undefined;
   userRole: 'student' | 'coach' | 'admin' | null;
   isCoach: boolean;
+  hasCoachPro: boolean;
+  subscriptionStatus: 'active' | 'inactive' | 'cancelled' | null;
 }
 
 export function useAuth(): AuthState {
   const [user, loading, error] = useAuthState(auth);
   const [userRole, setUserRole] = useState<'student' | 'coach' | 'admin' | null>(null);
+  const [subscriptionStatus, setSubscriptionStatus] = useState<'active' | 'inactive' | 'cancelled' | null>(null);
 
   useEffect(() => {
-    const checkUserRole = async () => {
+    const checkUserData = async () => {
       if (user) {
         try {
           const userRef = doc(db, 'users', user.uid);
@@ -25,16 +28,32 @@ export function useAuth(): AuthState {
           if (userSnap.exists()) {
             const userData = userSnap.data();
             setUserRole(userData.role || null);
+            
+            // If user is a coach, check for subscription status
+            if (userData.role === 'coach' && userData.username) {
+              const coachRef = doc(db, 'coaches', userData.username);
+              const coachSnap = await getDoc(coachRef);
+              
+              if (coachSnap.exists()) {
+                const coachData = coachSnap.data();
+                setSubscriptionStatus(coachData.subscriptionStatus || 'inactive');
+              } else {
+                setSubscriptionStatus('inactive');
+              }
+            } else {
+              setSubscriptionStatus(null);
+            }
           }
         } catch (error) {
-          console.error('Error checking user role:', error);
+          console.error('Error checking user data:', error);
         }
       } else {
         setUserRole(null);
+        setSubscriptionStatus(null);
       }
     };
 
-    checkUserRole();
+    checkUserData();
   }, [user]);
 
   return {
@@ -42,6 +61,8 @@ export function useAuth(): AuthState {
     loading,
     error,
     userRole,
-    isCoach: userRole === 'coach'
+    isCoach: userRole === 'coach',
+    hasCoachPro: userRole === 'coach' && subscriptionStatus === 'active',
+    subscriptionStatus
   };
 } 

@@ -10,7 +10,7 @@ import GlobalSearchBar from './GlobalSearchBar';
 import { useAuth } from '../lib/hooks/useAuth';
 
 export default function Navbar() {
-  const { user, loading, isCoach } = useAuth();
+  const { user, loading, isCoach, hasCoachPro } = useAuth();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const router = useRouter();
 
@@ -59,15 +59,17 @@ export default function Navbar() {
             <Link href="/" className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium transition-all hover:bg-gray-800">
               Home
             </Link>
-            <Link href="/coaches" className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium transition-all hover:bg-gray-800">
+            <Link href="/search" className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium transition-all hover:bg-gray-800">
               Find Coaches
             </Link>
             <Link href="/classes" className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium transition-all hover:bg-gray-800">
               Classes
             </Link>
-            <Link href="/about" className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium transition-all hover:bg-gray-800">
-              About
-            </Link>
+            {hasCoachPro && (
+              <Link href="/coach/jobs" className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium transition-all hover:bg-gray-800">
+                Jobs
+              </Link>
+            )}
             {user && (
               <Link href="/dashboard" className="text-white hover:text-orange-400 px-3 py-2 rounded-md text-sm font-medium transition-all hover:bg-gray-800">
                 Dashboard
@@ -191,7 +193,7 @@ export default function Navbar() {
               Home
             </Link>
             <Link
-              href="/coaches"
+              href="/search"
               onClick={closeMenu}
               className="text-white hover:text-orange-400 block px-3 py-2 rounded-md text-base font-medium transition-all hover:bg-gray-800"
             >
@@ -204,13 +206,15 @@ export default function Navbar() {
             >
               Classes
             </Link>
-            <Link
-              href="/about"
-              onClick={closeMenu}
-              className="text-white hover:text-orange-400 block px-3 py-2 rounded-md text-base font-medium transition-all hover:bg-gray-800"
-            >
-              About
-            </Link>
+            {hasCoachPro && (
+              <Link
+                href="/coach/jobs"
+                onClick={closeMenu}
+                className="text-white hover:text-orange-400 block px-3 py-2 rounded-md text-base font-medium transition-all hover:bg-gray-800"
+              >
+                Jobs
+              </Link>
+            )}
             {user && (
               <Link
                 href="/dashboard"

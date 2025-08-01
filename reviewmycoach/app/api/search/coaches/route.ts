@@ -1,5 +1,15 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { db } from '../../../lib/firebase-admin';
+
+// Function to get Firebase instance
+async function getFirebaseDb() {
+  try {
+    const firebaseAdminModule = await import('../../../lib/firebase-admin');
+    return firebaseAdminModule.db || null;
+  } catch (error) {
+    console.error('Failed to load Firebase Admin in search coaches route:', error);
+    return null;
+  }
+}
 
 interface SearchParams {
   search?: string;
@@ -37,6 +47,21 @@ interface CoachData {
 }
 
 export async function GET(request: NextRequest) {
+  const db = await getFirebaseDb();
+  
+  if (!db) {
+    console.error('Firebase not initialized - returning empty search results');
+    return NextResponse.json({
+      coaches: [],
+      total: 0,
+      page: 1,
+      totalPages: 0,
+      hasMore: false,
+      error: 'Search service temporarily unavailable',
+      fallback: true
+    });
+  }
+
   try {
     const { searchParams } = new URL(request.url);
     
@@ -116,13 +141,11 @@ export async function GET(request: NextRequest) {
       baseQuery = baseQuery.orderBy('averageRating', 'desc');
     }
 
-    // Add pagination limit
-    baseQuery = baseQuery.limit(limitNum + 1); // +1 to check if there are more results
-
-    // Execute query
+    // Execute query without pagination to get all results first
+    // We'll apply pagination after client-side filtering
     const querySnapshot = await baseQuery.get();
 
-    let coaches: CoachData[] = querySnapshot.docs.map((doc: any) => {
+    const coaches: CoachData[] = querySnapshot.docs.map((doc: any) => {
       const data = doc.data();
       return {
         id: doc.id,
@@ -132,12 +155,6 @@ export async function GET(request: NextRequest) {
         updatedAt: data.updatedAt?.toDate().toISOString() || null,
       } as CoachData;
     });
-
-    // Check if there are more results
-    const hasMore = coaches.length > limitNum;
-    if (hasMore) {
-      coaches = coaches.slice(0, limitNum);
-    }
 
     // Apply client-side filters for complex searches
     let filteredCoaches: CoachData[] = coaches;
@@ -157,6 +174,7 @@ export async function GET(request: NextRequest) {
         coach.sports?.some((s: string) => s.toLowerCase().includes(searchTerm)) ||
         coach.certifications?.some((c: string) => c.toLowerCase().includes(searchTerm)) ||
         coach.location?.toLowerCase().includes(searchTerm) ||
+        coach.organization?.toLowerCase().includes(searchTerm) ||
         coach.username?.toLowerCase().includes(searchTerm)
       );
     }
@@ -171,14 +189,14 @@ export async function GET(request: NextRequest) {
       }
     }
 
-    // For pagination, we need to simulate offset since Firestore doesn't support it directly
+    // Calculate total count and pages based on filtered results
+    const total = filteredCoaches.length;
+    const totalPages = Math.ceil(total / limitNum);
+
+    // Apply pagination after filtering
     const startIndex = (pageNum - 1) * limitNum;
     const endIndex = startIndex + limitNum;
     const paginatedCoaches = filteredCoaches.slice(startIndex, endIndex);
-
-    // Calculate total count and pages
-    const total = filteredCoaches.length;
-    const totalPages = Math.ceil(total / limitNum);
 
     // Response
     return NextResponse.json({

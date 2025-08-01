@@ -9,10 +9,13 @@ const requiredVars = {
   privateKey: process.env.FIREBASE_ADMIN_PRIVATE_KEY,
 };
 
-console.log('Firebase Admin Environment Check:');
-console.log('Project ID:', requiredVars.projectId ? 'SET' : 'MISSING');
-console.log('Client Email:', requiredVars.clientEmail ? 'SET' : 'MISSING');
-console.log('Private Key:', requiredVars.privateKey ? 'SET (length: ' + requiredVars.privateKey.length + ')' : 'MISSING');
+// Fix malformed private key if needed
+if (requiredVars.privateKey && !requiredVars.privateKey.startsWith('-----BEGIN')) {
+  const beginIndex = requiredVars.privateKey.indexOf('-----BEGIN');
+  if (beginIndex > 0) {
+    requiredVars.privateKey = requiredVars.privateKey.substring(beginIndex);
+  }
+}
 
 const missingVars = Object.entries(requiredVars)
   .filter(([, value]) => !value)
@@ -23,6 +26,7 @@ if (missingVars.length > 0) {
   throw new Error(`Missing Firebase Admin environment variables: ${missingVars.join(', ')}`);
 }
 
+// Initialize Firebase Admin
 const firebaseAdminConfig = {
   credential: cert({
     projectId: requiredVars.projectId,
@@ -31,7 +35,6 @@ const firebaseAdminConfig = {
   }),
 };
 
-// Initialize Firebase Admin
 const app = !getApps().length ? initializeApp(firebaseAdminConfig) : getApps()[0];
 const auth = getAuth(app);
 const db = getFirestore(app);
