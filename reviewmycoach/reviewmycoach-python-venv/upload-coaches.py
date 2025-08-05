@@ -59,12 +59,56 @@ def extract_and_format_phone(line, area_code):
     
     return None
 
+def detect_pdf_info(path, text_content):
+    """
+    Detect university and organization information from PDF path and content.
+    """
+    pdf_info = {
+        'university': '',
+        'organization': '',
+        'location': '',
+        'source': ''
+    }
+    
+    # Analyze filename
+    filename = os.path.basename(path).lower()
+    
+    if 'bryant' in filename:
+        pdf_info['university'] = 'Bryant'
+        pdf_info['organization'] = 'Bryant University Athletics'
+        pdf_info['location'] = 'Smithfield, Rhode Island'
+        pdf_info['source'] = 'Bryant University Men\'s Soccer Coaches Directory'
+    elif 'rowan' in filename:
+        pdf_info['university'] = 'Rowan'
+        pdf_info['organization'] = 'Rowan University Athletics'
+        pdf_info['location'] = 'Glassboro, New Jersey'
+        pdf_info['source'] = 'Rowan University Athletics Staff Directory'
+    
+    # Analyze content for additional context
+    content_lower = text_content.lower()
+    if 'bryant university' in content_lower:
+        pdf_info['university'] = 'Bryant'
+        if not pdf_info['organization']:
+            pdf_info['organization'] = 'Bryant University Athletics'
+            pdf_info['location'] = 'Smithfield, Rhode Island'
+    elif 'rowan university' in content_lower:
+        pdf_info['university'] = 'Rowan'
+        if not pdf_info['organization']:
+            pdf_info['organization'] = 'Rowan University Athletics'
+            pdf_info['location'] = 'Glassboro, New Jersey'
+    
+    return pdf_info
+
 def parse_pdf(path, output_txt=None):
     """
     Extract lines with emails from PDF and parse first/last names + username.
     Filter for entries that contain 'coach' in their title/line.
     Also supports text files for testing purposes.
     Detects area codes and adds them to phone numbers.
+    
+    Handles both single-line format (Rowan) and multi-line format (Bryant):
+    - Single-line: "Name Title Coach email@domain.com phone"
+    - Multi-line: Name on one line, Title with "Coach" on next, email on following line
     """
     entries = []
     all_lines = []  # Store all lines for txt output
@@ -105,8 +149,15 @@ def parse_pdf(path, output_txt=None):
     if not area_code:
         print("⚠️  No area code detected - phone numbers will remain as-is")
 
-    # each line with an email becomes one entry
-    for line in text.splitlines():
+    # Detect PDF information for organization data
+    pdf_info = detect_pdf_info(path, text)
+    print(f"🏫 Detected organization: {pdf_info.get('organization', 'Unknown')}")
+
+    lines = text.splitlines()
+    
+    # Method 1: Try single-line format first (original logic)
+    single_line_entries = []
+    for line in lines:
         m = re.search(r'[\w\.-]+@[\w\.-]+\.\w+', line)
         if not m:
             continue
@@ -139,21 +190,100 @@ def parse_pdf(path, output_txt=None):
             "last_name":  last_name,
             "email":      email,
             "username":   username,
-            "full_line":  line.strip(),  # Store original line for reference
-            "role": "coach"  # Add role identifier
+            "full_line":  line.strip(),
+            "role": "coach"
         }
         
-        # Add phone number if found
         if phone_number:
             entry["phone"] = phone_number
         
-        entries.append(entry)
+        single_line_entries.append(entry)
+    
+    # Method 2: If no single-line entries found, try multi-line format
+    if not single_line_entries:
+        print("🔄 No single-line format found, trying multi-line format...")
+        for i, line in enumerate(lines):
+            # Look for email addresses
+            email_match = re.search(r'[\w\.-]+@[\w\.-]+\.\w+', line)
+            if not email_match:
+                continue
+            
+            email = email_match.group()
+            username = email.split("@", 1)[0]
+            
+            # Look backwards for coach title and name
+            coach_title = ""
+            coach_name = ""
+            phone_number = None
+            
+            # Check previous lines for coach title and name
+            for j in range(1, 4):  # Look back up to 3 lines
+                if i - j < 0:
+                    break
+                prev_line = lines[i - j].strip()
+                
+                # Check if this line contains "coach"
+                if "coach" in prev_line.lower() and not coach_title:
+                    coach_title = prev_line
+                    all_lines.append(f"{prev_line} -> {line.strip()}")
+                    
+                    # The name should be the line immediately before the coach title
+                    if i - j - 1 >= 0:
+                        potential_name_line = lines[i - j - 1].strip()
+                        # Make sure it's not an email, header, or other metadata
+                        if (potential_name_line and 
+                            not re.search(r'[\w\.-]+@[\w\.-]+\.\w+', potential_name_line) and
+                            not any(keyword in potential_name_line.lower() for keyword in 
+                                   ['coaching', 'staff', 'soccer', 'university', '2025', '/', 'pm', 'am', 'director of']) and
+                            len(potential_name_line.split()) >= 2):  # Require at least first and last name
+                            coach_name = potential_name_line
+                    break  # Stop once we find the coach title
+            
+            # Check following lines for phone number
+            for j in range(1, 3):  # Look ahead up to 2 lines
+                if i + j >= len(lines):
+                    break
+                next_line = lines[i + j].strip()
+                phone_number = extract_and_format_phone(next_line, area_code)
+                if phone_number:
+                    break
+            
+            # Only create entry if we found a coach title
+            if coach_title and "coach" in coach_title.lower():
+                # Parse name
+                name_tokens = coach_name.split() if coach_name else []
+                
+                # Drop common prefixes
+                if name_tokens and name_tokens[0].lower() in ("dr.", "dr"):
+                    name_tokens = name_tokens[1:]
+                
+                first_name = name_tokens[0] if name_tokens else ""
+                last_name = " ".join(name_tokens[1:]) if len(name_tokens) > 1 else ""
+                
+                entry = {
+                    "first_name": first_name,
+                    "last_name": last_name,
+                    "email": email,
+                    "username": username,
+                    "full_line": f"{coach_name} {coach_title} {email}".strip(),
+                    "role": coach_title if coach_title else "coach"
+                }
+                
+                if phone_number:
+                    entry["phone"] = phone_number
+                
+                entries.append(entry)
+        
+        print(f"✔ Found {len(entries)} coach entries using multi-line format")
+    else:
+        entries = single_line_entries
+        print(f"✔ Found {len(entries)} coach entries using single-line format")
     
     # Output to txt file if specified
     if output_txt and entries:
         write_to_txt(entries, all_lines, output_txt)
     
-    return entries
+    return entries, pdf_info
 
 def write_to_txt(entries, all_lines, output_path):
     """
@@ -186,7 +316,7 @@ def write_to_txt(entries, all_lines, output_path):
     
     print(f"✔ Results written to {output_path}")
 
-def map_to_coach_profile(entry):
+def map_to_coach_profile(entry, pdf_info=None):
     """
     Map scraped coach data to ReviewMyCoach coach profile structure.
     """
@@ -227,9 +357,20 @@ def map_to_coach_profile(entry):
         if keyword in role_text and sport not in sports:
             sports.append(sport)
     
-    # If no sport detected, default to Soccer since this is Men's Soccer Coaches PDF
-    if not sports:
-        sports = ['Soccer']
+    # Use PDF info to determine default sport and organization
+    default_sport = 'Soccer'  # Default fallback
+    if pdf_info:
+        if 'bryant' in pdf_info.get('university', '').lower() and 'soccer' in pdf_info.get('source', '').lower():
+            default_sport = 'Soccer'
+        elif 'rowan' in pdf_info.get('university', '').lower():
+            # For Rowan, don't default to any sport - let the role text determine it
+            default_sport = None
+    
+    # Apply default sport logic
+    if not sports and default_sport:
+        sports = [default_sport]
+    elif not sports:
+        sports = ['General Athletics']  # Generic fallback
     
     # Extract role/title from the line
     role_part = entry.get('full_line', '')
@@ -240,6 +381,17 @@ def map_to_coach_profile(entry):
     else:
         role = 'Coach'
     
+    # Get organization info from PDF info or use defaults
+    if pdf_info:
+        location = pdf_info.get('location', 'New Jersey')
+        organization = pdf_info.get('organization', 'University Athletics')
+        source_url = pdf_info.get('source', 'University Athletics Directory')
+    else:
+        # Fallback defaults
+        location = 'New Jersey'
+        organization = 'University Athletics'
+        source_url = 'University Athletics Directory'
+
     # Create complete coach profile matching the app structure
     coach_profile = {
         'username': entry['username'],
@@ -250,15 +402,15 @@ def map_to_coach_profile(entry):
         'experience': 5,  # Default to 5 years
         'certifications': [],
         'hourlyRate': 0,  # To be set during profile completion
-        'location': 'Smithfield, Rhode Island',  # Based on Bryant University location
+        'location': location,
         'availability': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
         'specialties': sports,
         'languages': ['English'],
-        'organization': 'Bryant University Athletics',
+        'organization': organization,
         'role': role,
         'gender': '',  # To be filled during claiming
         'ageGroup': ['Adult', 'Teen', 'Youth'],
-        'sourceUrl': 'Bryant University Men\'s Soccer Coaches Directory',
+        'sourceUrl': source_url,
         'averageRating': 0,
         'totalReviews': 0,
         'isVerified': False,
@@ -286,7 +438,7 @@ def map_to_coach_profile(entry):
     
     return coach_profile
 
-def upload_to_firestore(entries, key_path, collection='coaches', dry_run=False):
+def upload_to_firestore(entries, key_path, pdf_info=None, collection='coaches', dry_run=False):
     """
     Initialize Firebase Admin and upload coach profiles to Firestore.
     Creates unclaimed coach profiles that can be claimed during onboarding.
@@ -294,7 +446,7 @@ def upload_to_firestore(entries, key_path, collection='coaches', dry_run=False):
     if dry_run:
         print("DRY RUN MODE - No actual upload to Firestore")
         for e in entries:
-            coach_profile = map_to_coach_profile(e)
+            coach_profile = map_to_coach_profile(e, pdf_info)
             phone_info = f" | Phone: {coach_profile.get('phoneNumber', 'N/A')}" if 'phoneNumber' in coach_profile else ""
             print(f"[DRY RUN] Would create unclaimed coach profile: {coach_profile['displayName']} ({coach_profile['email']}) → coaches/{coach_profile['username']}{phone_info}")
         return
@@ -308,7 +460,7 @@ def upload_to_firestore(entries, key_path, collection='coaches', dry_run=False):
 
     for e in entries:
         try:
-            coach_profile = map_to_coach_profile(e)
+            coach_profile = map_to_coach_profile(e, pdf_info)
             username = coach_profile['username']
             
             # Check if coach profile already exists
@@ -365,7 +517,7 @@ def main():
         pdf_name = os.path.splitext(os.path.basename(args.pdf))[0]
         args.output_txt = f"coaches_filtered_{pdf_name}_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
 
-    coaches = parse_pdf(args.pdf, args.output_txt)
+    coaches, pdf_info = parse_pdf(args.pdf, args.output_txt)
     print(f"Found {len(coaches)} coach entries (filtered from PDF).")
     
     if len(coaches) == 0:
@@ -374,9 +526,9 @@ def main():
     
     # Upload to Firestore if not dry run and key is provided
     if not args.dry_run and args.key:
-        upload_to_firestore(coaches, args.key, args.collection)
+        upload_to_firestore(coaches, args.key, pdf_info, args.collection)
     elif args.dry_run:
-        upload_to_firestore(coaches, None, args.collection, dry_run=True)
+        upload_to_firestore(coaches, None, pdf_info, args.collection, dry_run=True)
     elif not args.key:
         print("No Firebase key provided - results only saved to txt file.")
         print(f"To upload to Firestore, run with --key path/to/firebase-key.json")

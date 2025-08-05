@@ -166,6 +166,7 @@ interface CoachProfile {
   id: string;
   userId: string;
   displayName: string;
+  email?: string;
   bio: string;
   sports: string[];
   experience: number;

@@ -6,14 +6,18 @@ import { auth } from '../../lib/firebase-client';
 import Image from 'next/image';
 import { useRealtimeReviews, useRealtimeCoach } from '../../lib/hooks/useRealtimeReviews';
 import RealtimeReviewModal from '../../components/RealtimeReviewModal';
-import RealtimeDemo from '../../components/RealtimeDemo';
 import BookingModal from '../../components/BookingModal';
 import MessagingModal from '../../components/MessagingModal';
+
+// =====================================
+// TYPE DEFINITIONS
+// =====================================
 
 interface CoachProfile {
   id: string;
   userId: string;
   displayName: string;
+  email?: string;
   bio: string;
   sports: string[];
   experience: number;
@@ -66,6 +70,10 @@ interface Props {
   coach: CoachProfile;
   reviews: Review[];
 }
+
+// =====================================
+// MAIN COMPONENT
+// =====================================
 
 export default function CoachProfileClient({ coach: initialCoach, reviews: initialReviews }: Props) {
   const [user, setUser] = useState<User | null>(null);
@@ -214,6 +222,32 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
             </div>
 
             <div className="flex flex-wrap items-center gap-4 text-gray-600 mb-4">
+              {coach.role && (
+                <div className="flex items-center">
+                  <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                  </svg>
+                  {coach.role}
+                </div>
+              )}
+              {coach.organization && (
+                <div className="flex items-center">
+                  <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-4m-5 0H3m2 0h2M7 7h10M7 11h4m6.938 0A2.5 2.5 0 0119 13.5v6.5" />
+                  </svg>
+                  {coach.organization}
+                </div>
+              )}
+              {coach.email && (
+                <div className="flex items-center">
+                  <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                  </svg>
+                  <a href={`mailto:${coach.email}`} className="text-blue-600 hover:text-blue-800 transition-colors">
+                    {coach.email}
+                  </a>
+                </div>
+              )}
               {coach.location && (
                 <div className="flex items-center">
                   <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -604,9 +638,6 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
            console.log('Review submitted - real-time updates will handle the rest!');
          }}
        />
-
-       {/* Real-time Demo Widget */}
-       <RealtimeDemo coachId={coach.id} />
 
        {/* Messaging Modal */}
        <MessagingModal

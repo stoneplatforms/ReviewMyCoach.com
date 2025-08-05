@@ -1,0 +1,35 @@
+COACH ENTRIES FOUND - 2025-08-04 23:10:04
+============================================================
+
+Total coaches found: 4
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ruben Resendes
+   Email: rresendes@bryant.edu
+   Username: rresendes
+   Original line: Ruben Resendes Head Coach rresendes@bryant.edu
+
+2. Brendan Pacheco
+   Email: bpacheco5@bryant.edu
+   Username: bpacheco5
+   Original line: Brendan Pacheco Assistant Coach bpacheco5@bryant.edu
+
+3. Josep Silvestre
+   Email: jpitarch@bryant.edu
+   Username: jpitarch
+   Original line: Josep Silvestre Assistant Coach jpitarch@bryant.edu
+
+4. Justin DeSousa
+   Email: tcoburn@bryant.edu
+   Username: tcoburn
+   Original line: Justin DeSousa Assistant Coach tcoburn@bryant.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Head Coach -> rresendes@bryant.edu
+• Assistant Coach -> bpacheco5@bryant.edu
+• Assistant Coach -> jpitarch@bryant.edu
+• Assistant Coach -> tcoburn@bryant.edu

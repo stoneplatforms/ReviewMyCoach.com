@@ -14,6 +14,7 @@ async function getFirebaseDb() {
 interface CoachData {
   id: string;
   displayName?: string;
+  email?: string;
   bio?: string;
   specialties?: string[];
   sports?: string[];

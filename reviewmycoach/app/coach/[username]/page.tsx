@@ -4,11 +4,16 @@ import { db } from '../../lib/firebase-client';
 import { notFound } from 'next/navigation';
 import CoachProfileClient from './CoachProfileClient';
 
+// =====================================
+// TYPE DEFINITIONS
+// =====================================
+
 interface CoachProfile {
   id: string;
   userId: string;
   username: string;
   displayName: string;
+  email?: string;
   bio: string;
   sports: string[];
   experience: number;
@@ -45,6 +50,10 @@ interface Review {
   createdAt: string | null;
   sport?: string;
 }
+
+// =====================================
+// DATA FETCHING FUNCTIONS
+// =====================================
 
 async function getCoachByUsername(username: string): Promise<CoachProfile | null> {
   try {
@@ -105,6 +114,10 @@ async function getCoachReviews(coachId: string): Promise<Review[]> {
   }
 }
 
+// =====================================
+// SEO & METADATA GENERATION
+// =====================================
+
 export async function generateMetadata({ params }: { params: Promise<{ username: string }> }) {
   const { username } = await params;
   const coach = await getCoachByUsername(username);
@@ -141,6 +154,10 @@ export async function generateMetadata({ params }: { params: Promise<{ username:
     },
   };
 }
+
+// =====================================
+// UI COMPONENTS
+// =====================================
 
 function LoadingSkeleton() {
   return (
@@ -186,16 +203,28 @@ function LoadingSkeleton() {
   );
 }
 
+// =====================================
+// UTILITY FUNCTIONS
+// =====================================
+
+function isValidUsername(username: string): boolean {
+  return !!(username && username.length >= 3 && /^[a-z0-9_]+$/.test(username));
+}
+
+// =====================================
+// MAIN PAGE COMPONENT
+// =====================================
+
 export default async function CoachProfilePage({ params }: { params: Promise<{ username: string }> }) {
   const { username } = await params;
   
   // Validate username format
-  if (!username || username.length < 3 || !/^[a-z0-9_]+$/.test(username)) {
+  if (!isValidUsername(username)) {
     notFound();
   }
   
+  // Fetch coach data
   const coach = await getCoachByUsername(username);
-  
   if (!coach) {
     notFound();
   }
