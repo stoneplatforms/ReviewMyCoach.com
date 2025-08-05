@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "review-my-coach",
+  "private_key_id": "dummy",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHExc5VyznnFbx+YrYlJJp1EmPhMH7Im98FdY3z7yjFITD7RYKUE+hvUTHpnMPTl5atnGXR+r6TnXYDpu1xluQ2uXMvXfkCQMd2q/fbDP9x+Qvvq3TBxa71BMfO8F5i7sjb+FepL+3MN2aJqy9QEDZPVqhIozAaUK+4TIqph9pCVpkaCzYhNZ0QAgLM82+C98JxeMMMmXCq37MPiUA/VD0jMuL+9HR9U0KGeUzeS8deKtUlvur1HVM3Di0sfgBOnERZGEcEPOYBXGnPs4OkOwkcn3A+rTi0h/n/HHxtnl/K7YNqiGLWI1/3G2OGN1Q/A6SnSW5TKgCKQzrhLMg3Mh5AgMBAAECggEAFHHsJgIYpTDJPSYDvHqFuZizyqmNF92m1XeTUz1igjJ5RXtJPYXsp7pode4CTcV0AJz8Itf1VKpPhVZQEjsXlv45hkLEgrGU6waqnqeI2hIivUSNVZREzBrbsTl8hUnJzmSPIMk1Z1BSx0zG234zKscXp7TZ/74lEgrOvCfo0etASQK7rcl+Se3T3KwHTyQkl9CGs43YfvGOzgLd69TEJw5Msx+ksBDHK5QAnj3ERjRLU0/MkwbJJGDaS/NxKmRnfFDTI8RyjoSq7CQEXyYH0YvrWfBVbNYgEbtZYPr0C8kohEw3ZABBSbCADIiLzQU1GEYQRRVM5p1FZAllLeVUgQKBgQDjS4Cb5nOP8JVN0XkG1Seef9xKIytiM3wxT2cZeMgBXDZNFBONeVKSTLGkNDjXlAL2nyo802ME5JhuhydYPOb8cT3vZiqKu6OCIzK3EgEUtLGmBvEYf+fT3ItSXmS2oWB1ydSaz7zFsERQS5YTjsKxs0mebIBv73ChFaTxGBqklwKBgQDgNze3q68KiuoZ+nGZP67ChKV+yjlEzBBaFLaKXU3bUQsXxVVOs+oPq71k0Q/3o7Uj/QOsE1huXB6D6NxHz60/c2jMNgRk5NSYDjrt49Lscqdmt8R2W5QzzyqDhMCHyGXdKrQESlQs2+ZzYdQ4geGmZpw7AleA2YjnHr6LmGJNbwKBgEEZFMKR5DMrgneBMRqF3g0FLcCGBhzgBgfRaAPhldbd5Cd7QoZYYw/Hq3EOC+GiYJ7lwyEcodV66zVsvBYHi1htzoFMT47gYtoY3qOUIn8dqWuVvWN47pq9JaH3qvyrh4b0wVF9geFUtJwSqe78CkL+yGz5QmfMugNIwa7Tan4NAoGAJVUMUeikHH1EvU6V245e6sRrSdEh9/KCRn1sZ11huUKlNjAFJDWQo0tVHZQxtGntnzBhjCUsdDOiYRREmTBbCFWO/XGBCcuQGkFETpfAZt4wQUoXzB0zb+zuhzdzVyhmzYxurMgze8ShelSvoTj++VXcbXbWWv3dbZ4Q2+1jcMECgYAL+i/JlwPOpeMWhZ73DuoAvXmld8o3epKovRUPmAHXGpqpRFm5b/ViKl0+hawwo3g7gJ1QSE95LIKmE79IfE73NfobvX7QX7n3UFNwuFYmpCZSyn99ldhmaKPX4vMehPHnnrLshtythTcmENV4iy4XcwydomlSDFryxwK6NOpxKA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@review-my-coach.iam.gserviceaccount.com",
+  "client_id": "dummy",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40review-my-coach.iam.gserviceaccount.com"
+}
