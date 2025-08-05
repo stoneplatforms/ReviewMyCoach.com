@@ -162,7 +162,7 @@ function SubscriptionSuccessContent() {
 
           <div className="bg-blue-50 rounded-lg p-6 mb-8">
             <h2 className="text-lg font-semibold text-blue-900 mb-3">
-              What&apos;s Next?
+              What's Next?
             </h2>
             <ul className="text-left space-y-2 text-blue-800">
               <li className="flex items-center">

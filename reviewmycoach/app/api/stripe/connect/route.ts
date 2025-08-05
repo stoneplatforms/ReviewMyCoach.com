@@ -82,8 +82,25 @@ export async function POST(req: NextRequest) {
 
   } catch (error) {
     console.error('Error creating Stripe Connect account:', error);
+    
+    // Provide more detailed error information
+    let errorMessage = 'Failed to create Stripe Connect account';
+    if (error instanceof Error) {
+      console.error('Detailed error:', error.message);
+      if (error.message.includes('No such')) {
+        errorMessage = 'Stripe configuration error. Please check your Stripe settings.';
+      } else if (error.message.includes('Invalid API key')) {
+        errorMessage = 'Invalid Stripe API key. Please check your environment variables.';
+      } else if (error.message.includes('country')) {
+        errorMessage = 'Invalid country code. Please try again with a valid country.';
+      }
+    }
+    
     return NextResponse.json(
-      { error: 'Failed to create Stripe Connect account' },
+      { 
+        error: errorMessage,
+        details: error instanceof Error ? error.message : 'Unknown error'
+      },
       { status: 500 }
     );
   }

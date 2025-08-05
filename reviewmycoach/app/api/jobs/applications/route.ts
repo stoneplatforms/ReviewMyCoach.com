@@ -54,7 +54,7 @@ export async function GET(request: NextRequest) {
 // POST - Create a new job application
 export async function POST(request: NextRequest) {
   try {
-    const { jobId, coverLetter, hourlyRate, estimatedHours, availability, idToken } = await request.json();
+    const { jobId, coverLetter, message, hourlyRate, estimatedHours, availability, idToken } = await request.json();
 
     // Verify authentication
     if (!idToken) {
@@ -82,10 +82,28 @@ export async function POST(request: NextRequest) {
     const coachDoc = coachSnapshot.docs[0];
     const coachData = coachDoc.data();
 
-    // Verify subscription status
-    if (coachData.subscriptionStatus !== 'active') {
+    // Check Coach Pro subscription status
+    const userDoc = await db.collection('users').doc(userId).get();
+    if (!userDoc.exists) {
+      return NextResponse.json({ error: 'User not found' }, { status: 404 });
+    }
+    
+    const userData = userDoc.data();
+    const subscription = userData?.subscription;
+    
+    // Check if user has active Coach Pro subscription
+    let hasCoachPro = false;
+    if (subscription) {
+      const now = new Date();
+      const expiresAt = subscription.expiresAt ? subscription.expiresAt.toDate() : null;
+      hasCoachPro = subscription.isActive === true && 
+                   subscription.plan === 'pro' && 
+                   (!expiresAt || expiresAt > now);
+    }
+    
+    if (!hasCoachPro) {
       return NextResponse.json({ 
-        error: 'Coach Pro subscription required to apply for jobs' 
+        error: 'Coach Pro subscription required to apply for jobs. Upgrade your account to access the job board.' 
       }, { status: 403 });
     }
 
@@ -112,9 +130,9 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'You have already applied for this job' }, { status: 400 });
     }
 
-    // Validate required fields
-    if (!coverLetter || !hourlyRate || !estimatedHours || !availability) {
-      return NextResponse.json({ error: 'All application fields are required' }, { status: 400 });
+    // Validate required fields - only message is required for our simplified form
+    if (!message && !coverLetter) {
+      return NextResponse.json({ error: 'Application message is required' }, { status: 400 });
     }
 
     // Create application
@@ -123,13 +141,16 @@ export async function POST(request: NextRequest) {
       coachId: userId,
       coachName: coachData.displayName,
       coachUsername: coachData.username,
+      coachEmail: decodedToken.email,
       jobTitle: jobData.title,
       jobPostedBy: jobData.postedBy,
-      coverLetter,
-      hourlyRate: parseFloat(hourlyRate),
-      estimatedHours: parseFloat(estimatedHours),
-      availability,
+      message: message || coverLetter || '',
+      coverLetter: coverLetter || message || '',
+      hourlyRate: hourlyRate ? parseFloat(hourlyRate) : null,
+      estimatedHours: estimatedHours ? parseFloat(estimatedHours) : null,
+      availability: availability || 'Not specified',
       status: 'pending',
+      appliedAt: new Date(),
       createdAt: new Date(),
       updatedAt: new Date(),
     };
@@ -150,10 +171,10 @@ export async function POST(request: NextRequest) {
         console.log('Application details:', {
           jobTitle: jobData.title,
           applicantName: coachData.displayName,
-          hourlyRate: parseFloat(hourlyRate),
-          estimatedHours: parseFloat(estimatedHours),
-          availability,
-          coverLetter
+          message: message || coverLetter,
+          hourlyRate: hourlyRate ? parseFloat(hourlyRate) : 'Not specified',
+          estimatedHours: estimatedHours ? parseFloat(estimatedHours) : 'Not specified',
+          availability: availability || 'Not specified'
         });
       }
     } catch (error) {

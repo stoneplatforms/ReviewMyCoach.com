@@ -79,24 +79,64 @@ export default function CoachDashboard() {
         username = userData.username;
         
         if (username) {
+          console.log('Found username:', username, '- fetching coach profile...');
           // Fetch coach profile using username as document ID
           const coachRef = doc(db, 'coaches', username.toLowerCase());
           const coachSnap = await getDoc(coachRef);
           
           if (coachSnap.exists()) {
-            setCoachProfile({ id: coachSnap.id, ...coachSnap.data() } as CoachProfile);
+            console.log('✅ Coach profile found with username:', username);
+            // Explicitly include the username in the coach profile
+            setCoachProfile({ 
+              id: coachSnap.id, 
+              username: username, // ✨ Fix: Explicitly set the username
+              ...coachSnap.data() 
+            } as CoachProfile);
+          } else {
+            // Try fallback - search by userId instead of username
+            console.log('Coach profile not found with username, trying userId...');
+            const coachByUserIdRef = doc(db, 'coaches', userId);
+            const coachByUserIdSnap = await getDoc(coachByUserIdRef);
+            
+            if (coachByUserIdSnap.exists()) {
+              console.log('✅ Coach profile found with userId fallback');
+              setCoachProfile({ 
+                id: coachByUserIdSnap.id, 
+                username: username, // Use the username from user profile
+                ...coachByUserIdSnap.data() 
+              } as CoachProfile);
+            } else {
+              console.log('❌ No coach profile found with username or userId');
+            }
           }
         } else {
           console.log('No username found for user');
+          // Try to fetch coach profile directly by userId as fallback
+          const coachByUserIdRef = doc(db, 'coaches', userId);
+          const coachByUserIdSnap = await getDoc(coachByUserIdRef);
+          
+          if (coachByUserIdSnap.exists()) {
+            console.log('✅ Coach profile found without username in user profile');
+            const coachData = coachByUserIdSnap.data();
+            setCoachProfile({ 
+              id: coachByUserIdSnap.id, 
+              username: coachData.username || null, // Use username from coach document if available
+              ...coachData 
+            } as CoachProfile);
+          } else {
+            console.log('❌ No coach profile found at all');
+          }
         }
       } else {
         console.log('User profile not found');
       }
 
-      // Only fetch reviews and classes if we found a username
-      if (username) {
-        // Fetch recent reviews using username as coach document ID
-        const reviewsRef = collection(db, 'coaches', username.toLowerCase(), 'reviews');
+      // Fetch reviews and classes if we have coach data
+      const coachDocId = username ? username.toLowerCase() : userId;
+      
+      try {
+        // Fetch recent reviews using coach document ID
+        const reviewsRef = collection(db, 'coaches', coachDocId, 'reviews');
         const reviewsQuery = query(
           reviewsRef,
           orderBy('createdAt', 'desc'),
@@ -108,12 +148,16 @@ export default function CoachDashboard() {
           reviewsData.push({ id: doc.id, ...doc.data() } as Review);
         });
         setReviews(reviewsData);
+      } catch (reviewError) {
+        console.log('No reviews found or error fetching reviews:', reviewError);
+      }
 
-        // Fetch active classes
+      try {
+        // Fetch active classes - try both coachId patterns
         const classesRef = collection(db, 'classes');
         const classesQuery = query(
           classesRef,
-          where('coachId', '==', userId),
+          where('coachId', '==', username || userId),
           where('status', '==', 'active')
         );
         const classesSnapshot = await getDocs(classesQuery);
@@ -122,6 +166,8 @@ export default function CoachDashboard() {
           classesData.push({ id: doc.id, ...doc.data() } as Class);
         });
         setClasses(classesData);
+      } catch (classError) {
+        console.log('No classes found or error fetching classes:', classError);
       }
 
     } catch (error) {
@@ -560,6 +606,27 @@ export default function CoachDashboard() {
                 <p className="text-xs text-gray-500">Create and manage services</p>
               </div>
               <div className="ml-auto">
+                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </Link>
+
+            <Link
+              href="/dashboard/coach/jobs"
+              className="flex items-center p-3 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors"
+            >
+              <div className="flex-shrink-0">
+                <svg className="w-6 h-6 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2-2v2m8 0V6a2 2 0 012 2v6a2 2 0 01-2 2H8a2 2 0 01-2-2V8a2 2 0 012-2h8zM16 10h.01" />
+                </svg>
+              </div>
+              <div className="ml-3 flex-1">
+                <h4 className="text-sm font-medium text-white">Job Board</h4>
+                <p className="text-xs text-gray-500">Browse coaching opportunities</p>
+              </div>
+              <div className="flex items-center">
+                <span className="text-xs bg-orange-500/20 text-orange-400 px-2 py-1 rounded-full border border-orange-500/30 mr-2">PRO</span>
                 <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>

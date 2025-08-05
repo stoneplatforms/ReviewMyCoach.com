@@ -77,6 +77,11 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'recipientId and message are required' }, { status: 400 });
     }
 
+    // Prevent self-messaging
+    if (senderId === recipientId) {
+      return NextResponse.json({ error: 'Cannot send messages to yourself' }, { status: 400 });
+    }
+
     // Get sender profile
     const senderCoachesRef = db.collection('coaches');
     const senderQuery = senderCoachesRef.where('userId', '==', senderId);
@@ -143,6 +148,11 @@ export async function POST(request: NextRequest) {
     // Update conversation with last message
     const conversationRef = db.doc(`conversations/${currentConversationId}`);
     const conversationDoc = await conversationRef.get();
+    
+    if (!conversationDoc.exists) {
+      return NextResponse.json({ error: 'Conversation not found' }, { status: 404 });
+    }
+    
     const currentUnreadCount = conversationDoc.data()?.unreadCount?.[recipientId] || 0;
     
     await conversationRef.update({
@@ -204,8 +214,20 @@ export async function POST(request: NextRequest) {
 
   } catch (error) {
     console.error('Error sending message:', error);
+    
+    // Provide more specific error information
+    let errorMessage = 'Failed to send message';
+    if (error instanceof Error) {
+      console.error('Detailed error:', error.message);
+      if (error.message.includes('NOT_FOUND')) {
+        errorMessage = 'Conversation or recipient not found';
+      } else if (error.message.includes('PERMISSION_DENIED')) {
+        errorMessage = 'Permission denied. Check authentication.';
+      }
+    }
+    
     return NextResponse.json(
-      { error: 'Failed to send message' },
+      { error: errorMessage },
       { status: 500 }
     );
   }
@@ -232,8 +254,15 @@ export async function PUT(request: NextRequest) {
     return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
-    // Reset unread count for user
+    // Check if conversation exists before updating
     const conversationRef = db.doc(`conversations/${conversationId}`);
+    const conversationDoc = await conversationRef.get();
+    
+    if (!conversationDoc.exists) {
+      return NextResponse.json({ error: 'Conversation not found' }, { status: 404 });
+    }
+    
+    // Reset unread count for user
     await conversationRef.update({
       [`unreadCount.${userId}`]: 0
     });
@@ -258,8 +287,20 @@ export async function PUT(request: NextRequest) {
 
   } catch (error) {
     console.error('Error marking messages as read:', error);
+    
+    // Provide more specific error information
+    let errorMessage = 'Failed to mark messages as read';
+    if (error instanceof Error) {
+      console.error('Detailed error:', error.message);
+      if (error.message.includes('NOT_FOUND')) {
+        errorMessage = 'Conversation not found';
+      } else if (error.message.includes('PERMISSION_DENIED')) {
+        errorMessage = 'Permission denied. Check authentication.';
+      }
+    }
+    
     return NextResponse.json(
-      { error: 'Failed to mark messages as read' },
+      { error: errorMessage },
       { status: 500 }
     );
   }

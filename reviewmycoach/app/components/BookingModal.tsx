@@ -233,7 +233,7 @@ export default function BookingModal({ isOpen, onClose, coach, services, user }:
                       </div>
                       {service.deliverables.length > 0 && (
                         <div className="mb-4">
-                          <h6 className="text-sm font-medium text-gray-700 mb-2">What you&apos;ll get:</h6>
+                          <h6 className="text-sm font-medium text-gray-700 mb-2">What you'll get:</h6>
                           <ul className="text-sm text-gray-600 space-y-1">
                             {service.deliverables.slice(0, 3).map((deliverable, index) => (
                               <li key={index} className="flex items-start">
@@ -263,7 +263,7 @@ export default function BookingModal({ isOpen, onClose, coach, services, user }:
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
                   </svg>
                   <h4 className="mt-4 text-lg font-medium text-gray-900">No Services Available</h4>
-                  <p className="mt-2 text-gray-600">This coach hasn&apos;t set up any services yet.</p>
+                  <p className="mt-2 text-gray-600">This coach hasn't set up any services yet.</p>
                 </div>
               )}
             </div>

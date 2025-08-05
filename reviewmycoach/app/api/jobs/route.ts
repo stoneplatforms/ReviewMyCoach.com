@@ -1,9 +1,51 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { auth, db } from '../../lib/firebase-admin';
 
-// GET - Fetch available jobs
+// GET - Fetch available jobs (Coach Pro required)
 export async function GET(request: NextRequest) {
   try {
+    // Check for authentication token and Coach Pro subscription
+    const authHeader = request.headers.get('authorization');
+    const token = authHeader?.replace('Bearer ', '');
+    
+    if (token) {
+      try {
+        const decodedToken = await auth.verifyIdToken(token);
+        const userId = decodedToken.uid;
+        
+        // Check Coach Pro subscription status
+        const userDoc = await db.collection('users').doc(userId).get();
+        if (userDoc.exists) {
+          const userData = userDoc.data();
+          const subscription = userData?.subscription;
+          
+          // Check if user has active Coach Pro subscription
+          let hasCoachPro = false;
+          if (subscription) {
+            const now = new Date();
+            const expiresAt = subscription.expiresAt ? subscription.expiresAt.toDate() : null;
+            hasCoachPro = subscription.isActive === true && 
+                         subscription.plan === 'pro' && 
+                         (!expiresAt || expiresAt > now);
+          }
+          
+          if (!hasCoachPro) {
+            return NextResponse.json({ 
+              error: 'Coach Pro subscription required to access job listings' 
+            }, { status: 403 });
+          }
+        }
+      } catch (error) {
+        return NextResponse.json({ 
+          error: 'Invalid authentication token' 
+        }, { status: 401 });
+      }
+    } else {
+      return NextResponse.json({ 
+        error: 'Authentication required to access job listings' 
+      }, { status: 401 });
+    }
+
     const { searchParams } = new URL(request.url);
     const status = searchParams.get('status') || 'open';
     const sport = searchParams.get('sport');

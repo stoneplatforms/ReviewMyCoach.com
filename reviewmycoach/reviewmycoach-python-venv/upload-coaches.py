@@ -86,7 +86,7 @@ def parse_pdf(path, output_txt=None):
                 if page.extract_text()
             )
 
-    # Extract area code from the text
+    # Extract area code from the text (Rhode Island commonly uses 401)
     area_code_patterns = [
         r'Area Code \((\d{3})\)',
         r'Area Code: \((\d{3})\)',
@@ -194,10 +194,19 @@ def map_to_coach_profile(entry):
     sports = []
     role_text = entry.get('full_line', '').lower()
     sport_keywords = {
-        'baseball': 'Baseball',
-        'basketball': 'Basketball', 
-        'football': 'Football',
         'soccer': 'Soccer',
+        'football': 'Soccer',  # In case they use "football" to mean soccer
+        'men\'s soccer': 'Soccer',
+        'mens soccer': 'Soccer',
+        'goalkeeper': 'Soccer',
+        'goalie': 'Soccer',
+        'midfielder': 'Soccer',
+        'defender': 'Soccer',
+        'forward': 'Soccer',
+        'striker': 'Soccer',
+        # Keep other common sports as fallback
+        'baseball': 'Baseball',
+        'basketball': 'Basketball',
         'tennis': 'Tennis',
         'swimming': 'Swimming',
         'track': 'Track & Field',
@@ -218,9 +227,9 @@ def map_to_coach_profile(entry):
         if keyword in role_text and sport not in sports:
             sports.append(sport)
     
-    # If no sport detected, default to General Coaching
+    # If no sport detected, default to Soccer since this is Men's Soccer Coaches PDF
     if not sports:
-        sports = ['General Coaching']
+        sports = ['Soccer']
     
     # Extract role/title from the line
     role_part = entry.get('full_line', '')
@@ -241,15 +250,15 @@ def map_to_coach_profile(entry):
         'experience': 5,  # Default to 5 years
         'certifications': [],
         'hourlyRate': 0,  # To be set during profile completion
-        'location': 'New Jersey',  # Based on Rowan University location
+        'location': 'Smithfield, Rhode Island',  # Based on Bryant University location
         'availability': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
         'specialties': sports,
         'languages': ['English'],
-        'organization': 'Rowan University Athletics',
+        'organization': 'Bryant University Athletics',
         'role': role,
         'gender': '',  # To be filled during claiming
         'ageGroup': ['Adult', 'Teen', 'Youth'],
-        'sourceUrl': 'Rowan University Athletics Staff Directory',
+        'sourceUrl': 'Bryant University Men\'s Soccer Coaches Directory',
         'averageRating': 0,
         'totalReviews': 0,
         'isVerified': False,
@@ -333,9 +342,9 @@ def upload_to_firestore(entries, key_path, collection='coaches', dry_run=False):
 
 def main():
     p = argparse.ArgumentParser(
-        description="Import coaches from PDF into Firestore as user documents (filters for 'coach' keyword)"
+        description="Import coaches from Bryant University Men's Soccer PDF into Firestore (filters for 'coach' keyword)"
     )
-    p.add_argument("--pdf", required=True, help="Path to the staff-directory PDF")
+    p.add_argument("--pdf", default="pdfs/Men's Soccer Coaches - Bryant University.pdf", help="Path to the PDF file (default: Bryant University Men's Soccer Coaches)")
     p.add_argument("--key", help="Path to Firebase Admin JSON key (optional for dry-run)")
     p.add_argument(
         "--collection", default="coaches",

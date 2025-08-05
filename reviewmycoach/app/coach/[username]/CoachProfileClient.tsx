@@ -261,12 +261,15 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   Hire Coach
                 </button>
               )}
-              <button
-                onClick={() => setShowMessagingModal(true)}
-                className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors font-semibold"
-              >
-                Message Coach
-              </button>
+              {/* Only show Message Coach button if viewing someone else's profile */}
+              {user?.uid !== coach.userId && (
+                <button
+                  onClick={() => setShowMessagingModal(true)}
+                  className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors font-semibold"
+                >
+                  Message Coach
+                </button>
+              )}
               <button
                 onClick={handleWriteReview}
                 className="px-6 py-2 border border-gray-300 text-gray-700 rounded-md hover:bg-gray-50 transition-colors"

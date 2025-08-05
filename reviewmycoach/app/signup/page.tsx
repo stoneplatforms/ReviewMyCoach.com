@@ -351,304 +351,314 @@ export default function SignUp() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-md w-full space-y-8">
-        {/* Header */}
-        <div>
-          <div className="mx-auto h-12 w-12 flex items-center justify-center rounded-full bg-green-100">
-            <svg className="h-6 w-6 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
-            </svg>
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-gray-900 to-black py-12 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-md w-full">
+        {/* Card Container */}
+        <div className="bg-black/95 backdrop-blur-sm rounded-3xl shadow-2xl border border-orange-500/20 p-8 space-y-8 ring-1 ring-white/10">
+          {/* Header */}
+          <div className="text-center">
+            <div className="mx-auto h-20 w-20 flex items-center justify-center rounded-full bg-gradient-to-br from-orange-500 to-red-600 shadow-2xl ring-4 ring-orange-500/30">
+              <svg className="h-10 w-10 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zM3 19.235v-.11a6.375 6.375 0 0112.75 0v.109A12.318 12.318 0 019.374 21c-2.331 0-4.512-.645-6.374-1.766z" />
+              </svg>
+            </div>
+            <h1 className="mt-8 text-center text-4xl font-bold tracking-tight text-white">
+              JOIN THE TEAM
+            </h1>
+            <p className="mt-4 text-center text-lg text-gray-300 font-medium">
+              Start your championship journey today
+            </p>
+            <p className="mt-3 text-center text-sm text-gray-400">
+              Already a champion?{' '}
+              <Link href="/signin" className="font-bold text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50">
+                SIGN IN HERE
+              </Link>
+            </p>
           </div>
-          <h2 className="mt-6 text-center text-3xl font-bold tracking-tight text-gray-900">
-            Create your account
-          </h2>
-          <p className="mt-2 text-center text-sm text-gray-600">
-            Or{' '}
-            <Link href="/signin" className="font-medium text-blue-600 hover:text-blue-500">
-              sign in to your existing account
-            </Link>
-          </p>
-        </div>
 
-        {/* Form */}
-        <form className="mt-8 space-y-6" onSubmit={handleEmailSignUp}>
-          {error && (
-            <div className="rounded-md bg-red-50 p-4">
-              <div className="flex">
-                <div className="flex-shrink-0">
-                  <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
-                    <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
-                  </svg>
-                </div>
-                <div className="ml-3">
-                  <h3 className="text-sm font-medium text-red-800">
-                    Registration Error
-                  </h3>
-                  <div className="mt-2 text-sm text-red-700">
-                    <p>{error}</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          )}
-
-          <div className="space-y-4">
-            <div className="grid grid-cols-2 gap-4">
-              <div>
-                <label htmlFor="firstName" className="block text-sm font-medium text-gray-700">
-                  First name
-                </label>
-                <input
-                  id="firstName"
-                  name="firstName"
-                  type="text"
-                  required
-                  value={formData.firstName}
-                  onChange={handleInputChange}
-                  className="mt-1 appearance-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm"
-                  placeholder="First name"
-                />
-              </div>
-              <div>
-                <label htmlFor="lastName" className="block text-sm font-medium text-gray-700">
-                  Last name
-                </label>
-                <input
-                  id="lastName"
-                  name="lastName"
-                  type="text"
-                  required
-                  value={formData.lastName}
-                  onChange={handleInputChange}
-                  className="mt-1 appearance-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm"
-                  placeholder="Last name"
-                />
-              </div>
-            </div>
-
-            {/* Username Field */}
-            <div>
-              <label htmlFor="username" className="block text-sm font-medium text-gray-700">
-                Username
-              </label>
-              <div className="mt-1 relative">
-                <input
-                  id="username"
-                  name="username"
-                  type="text"
-                  required
-                  value={formData.username}
-                  onChange={handleInputChange}
-                  className={`appearance-none relative block w-full px-3 py-2 border placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm ${
-                    usernameAvailable === false ? 'border-red-300' : 
-                    usernameAvailable === true ? 'border-green-300' : 'border-gray-300'
-                  }`}
-                  placeholder="Choose a unique username"
-                />
-                {checkingUsername && (
-                  <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
-                    <svg className="animate-spin h-4 w-4 text-gray-400" fill="none" viewBox="0 0 24 24">
-                      <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                      <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                    </svg>
-                  </div>
-                )}
-                {!checkingUsername && usernameAvailable === true && (
-                  <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
-                    <svg className="h-4 w-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
-                      <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                    </svg>
-                  </div>
-                )}
-                {!checkingUsername && usernameAvailable === false && (
-                  <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
-                    <svg className="h-4 w-4 text-red-500" fill="currentColor" viewBox="0 0 20 20">
+          {/* Form */}
+          <form className="space-y-6" onSubmit={handleEmailSignUp}>
+            {error && (
+              <div className="rounded-xl bg-red-900/30 border border-red-800/50 p-4 animate-in slide-in-from-top-2 duration-300">
+                <div className="flex">
+                  <div className="flex-shrink-0">
+                    <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
                     </svg>
                   </div>
-                )}
-              </div>
-              <p className="mt-1 text-xs text-gray-500">
-                3-20 characters, lowercase letters, numbers, and underscores only
-              </p>
-              {usernameAvailable === false && (
-                <p className="mt-1 text-xs text-red-600">
-                  This username is already taken
-                </p>
-              )}
-              {usernameAvailable === true && (
-                <p className="mt-1 text-xs text-green-600">
-                  Username is available
-                </p>
-              )}
-            </div>
-
-            {/* Display Name Preview */}
-            {(formData.firstName || formData.lastName) && (
-              <div className="bg-blue-50 border border-blue-200 rounded-md p-3">
-                <div className="flex items-center">
-                  <svg className="w-4 h-4 text-blue-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                  </svg>
-                  <span className="text-sm text-blue-700">
-                    Your display name will be: <span className="font-medium">
-                      {`${formData.firstName} ${formData.lastName}`.trim() || 'Enter your name above'}
-                    </span>
-                  </span>
-                </div>
-                {formData.username && (
-                  <div className="flex items-center mt-1">
-                    <svg className="w-4 h-4 text-blue-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
-                    </svg>
-                    <span className="text-sm text-blue-700">
-                      Your profile URL will be: <span className="font-medium">
-                        reviewmycoach.com/coach/{formData.username}
-                      </span>
-                    </span>
+                  <div className="ml-3">
+                    <h3 className="text-sm font-medium text-red-300">
+                      Unable to create account
+                    </h3>
+                    <div className="mt-1 text-sm text-red-200">
+                      <p>{error}</p>
+                    </div>
                   </div>
-                )}
+                </div>
               </div>
             )}
 
-            <div>
-              <label htmlFor="email" className="block text-sm font-medium text-gray-700">
-                Email address
-              </label>
-              <input
-                id="email"
-                name="email"
-                type="email"
-                autoComplete="email"
-                required
-                value={formData.email}
-                onChange={handleInputChange}
-                className="mt-1 appearance-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm"
-                placeholder="Enter your email"
-              />
-            </div>
+            <div className="space-y-6">
+              <div className="grid grid-cols-2 gap-4">
+                <div>
+                  <label htmlFor="firstName" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
+                    FIRST NAME
+                  </label>
+                  <input
+                    id="firstName"
+                    name="firstName"
+                    type="text"
+                    required
+                    value={formData.firstName}
+                    onChange={handleInputChange}
+                    className="appearance-none relative block w-full px-4 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                    placeholder="John"
+                  />
+                </div>
+                <div>
+                  <label htmlFor="lastName" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
+                    LAST NAME
+                  </label>
+                  <input
+                    id="lastName"
+                    name="lastName"
+                    type="text"
+                    required
+                    value={formData.lastName}
+                    onChange={handleInputChange}
+                    className="appearance-none relative block w-full px-4 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                    placeholder="Athlete"
+                  />
+                </div>
+              </div>
 
-            <div>
-              <label htmlFor="password" className="block text-sm font-medium text-gray-700">
-                Password
-              </label>
-              <input
-                id="password"
-                name="password"
-                type="password"
-                autoComplete="new-password"
-                required
-                value={formData.password}
-                onChange={handleInputChange}
-                className="mt-1 appearance-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm"
-                placeholder="Create a password"
-              />
-              <p className="mt-1 text-xs text-gray-500">Password must be at least 6 characters</p>
-            </div>
+              {/* Username Field */}
+              <div>
+                <label htmlFor="username" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
+                  USERNAME
+                </label>
+                <div className="relative">
+                  <input
+                    id="username"
+                    name="username"
+                    type="text"
+                    required
+                    value={formData.username}
+                    onChange={handleInputChange}
+                    className={`appearance-none relative block w-full px-4 py-4 pr-12 border-2 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm ${
+                      usernameAvailable === false ? 'border-red-600 focus:border-red-500 focus:ring-red-500/50' : 
+                      usernameAvailable === true ? 'border-green-600 focus:border-green-500 focus:ring-green-500/50' : 'border-gray-700'
+                    }`}
+                    placeholder="champion_2024"
+                  />
+                  {checkingUsername && (
+                    <div className="absolute inset-y-0 right-0 pr-4 flex items-center">
+                      <svg className="animate-spin h-6 w-6 text-gray-400" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                    </div>
+                  )}
+                  {!checkingUsername && usernameAvailable === true && (
+                    <div className="absolute inset-y-0 right-0 pr-4 flex items-center">
+                      <svg className="h-6 w-6 text-green-400" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                      </svg>
+                    </div>
+                  )}
+                  {!checkingUsername && usernameAvailable === false && (
+                    <div className="absolute inset-y-0 right-0 pr-4 flex items-center">
+                      <svg className="h-6 w-6 text-red-400" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
+                      </svg>
+                    </div>
+                  )}
+                </div>
+                <p className="mt-2 text-xs text-gray-400 font-medium">
+                  3-20 characters, lowercase letters, numbers, and underscores only
+                </p>
+                {usernameAvailable === false && (
+                  <p className="mt-1 text-xs text-red-400 animate-in slide-in-from-top-1 duration-200 font-bold">
+                    THAT USERNAME IS TAKEN!
+                  </p>
+                )}
+                {usernameAvailable === true && (
+                  <p className="mt-1 text-xs text-green-400 animate-in slide-in-from-top-1 duration-200 font-bold">
+                    NICE! THAT'S AVAILABLE!
+                  </p>
+                )}
+              </div>
 
-            <div>
-              <label htmlFor="confirmPassword" className="block text-sm font-medium text-gray-700">
-                Confirm password
-              </label>
-              <input
-                id="confirmPassword"
-                name="confirmPassword"
-                type="password"
-                autoComplete="new-password"
-                required
-                value={formData.confirmPassword}
-                onChange={handleInputChange}
-                className="mt-1 appearance-none relative block w-full px-3 py-2 border border-gray-300 placeholder-gray-500 text-gray-900 rounded-md focus:outline-none focus:ring-blue-500 focus:border-blue-500 focus:z-10 sm:text-sm"
-                placeholder="Confirm your password"
-              />
-            </div>
+              {/* Display Name Preview */}
+              {(formData.firstName || formData.lastName) && (
+                <div className="bg-orange-900/20 border border-orange-500/30 rounded-2xl p-5 animate-in slide-in-from-top-2 duration-300">
+                  <div className="flex items-center">
+                    <svg className="w-6 h-6 text-orange-300 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                      <path strokeLinecap="round" strokeLinejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                    </svg>
+                    <span className="text-sm text-orange-200 font-medium">
+                      YOUR CHAMPION NAME: <span className="font-bold text-orange-100">
+                        {`${formData.firstName} ${formData.lastName}`.trim() || 'ENTER YOUR NAME ABOVE'}
+                      </span>
+                    </span>
+                  </div>
+                  {formData.username && (
+                    <div className="flex items-center mt-3">
+                      <svg className="w-6 h-6 text-orange-300 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
+                      </svg>
+                      <span className="text-sm text-orange-200 font-medium">
+                        YOUR PROFILE URL: <span className="font-bold text-orange-100 break-all">
+                          reviewmycoach.com/coach/{formData.username}
+                        </span>
+                      </span>
+                    </div>
+                  )}
+                </div>
+              )}
+
+              <div>
+                <label htmlFor="email" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
+                  EMAIL ADDRESS
+                </label>
+                <input
+                  id="email"
+                  name="email"
+                  type="email"
+                  autoComplete="email"
+                  required
+                  value={formData.email}
+                  onChange={handleInputChange}
+                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  placeholder="champion@example.com"
+                />
+              </div>
+
+              <div>
+                <label htmlFor="password" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
+                  PASSWORD
+                </label>
+                <input
+                  id="password"
+                  name="password"
+                  type="password"
+                  autoComplete="new-password"
+                  required
+                  value={formData.password}
+                  onChange={handleInputChange}
+                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  placeholder="Create a strong password"
+                />
+                <p className="mt-2 text-xs text-gray-400 font-medium">Must be at least 6 characters long</p>
+              </div>
+
+              <div>
+                <label htmlFor="confirmPassword" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
+                  CONFIRM PASSWORD
+                </label>
+                <input
+                  id="confirmPassword"
+                  name="confirmPassword"
+                  type="password"
+                  autoComplete="new-password"
+                  required
+                  value={formData.confirmPassword}
+                  onChange={handleInputChange}
+                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  placeholder="Confirm your password"
+                />
+              </div>
           </div>
 
-          <div className="flex items-center">
-            <input
-              id="accept-terms"
-              name="accept-terms"
-              type="checkbox"
-              checked={acceptTerms}
-              onChange={(e) => setAcceptTerms(e.target.checked)}
-              className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
-            />
-            <label htmlFor="accept-terms" className="ml-2 block text-sm text-gray-900">
-              I agree to the{' '}
-              <a href="#" className="text-blue-600 hover:text-blue-500">
-                Terms and Conditions
+            <div className="flex items-start">
+              <input
+                id="accept-terms"
+                name="accept-terms"
+                type="checkbox"
+                checked={acceptTerms}
+                onChange={(e) => setAcceptTerms(e.target.checked)}
+                className="h-5 w-5 text-orange-500 focus:ring-orange-500/50 border-2 border-gray-600 bg-gray-900 rounded-lg transition-colors duration-200 mt-1"
+              />
+              <label htmlFor="accept-terms" className="ml-4 block text-sm text-gray-300 leading-relaxed font-medium">
+                I AGREE TO THE{' '}
+                <a href="#" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50 font-bold">
+                  TERMS & CONDITIONS
+                </a>{' '}
+                AND{' '}
+                <a href="#" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50 font-bold">
+                  PRIVACY POLICY
+                </a>
+              </label>
+            </div>
+
+            {/* reCAPTCHA Notice */}
+            <div className="text-xs text-gray-400 text-center leading-relaxed font-medium">
+              PROTECTED BY reCAPTCHA • GOOGLE{' '}
+              <a href="https://policies.google.com/privacy" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline">
+                PRIVACY
               </a>{' '}
-              and{' '}
-              <a href="#" className="text-blue-600 hover:text-blue-500">
-                Privacy Policy
-              </a>
-            </label>
-          </div>
-
-          {/* reCAPTCHA Notice */}
-          <div className="text-xs text-gray-500 text-center">
-            This site is protected by reCAPTCHA and the Google{' '}
-            <a href="https://policies.google.com/privacy" className="text-blue-600 hover:underline">
-              Privacy Policy
-            </a>{' '}
-            and{' '}
-            <a href="https://policies.google.com/terms" className="text-blue-600 hover:underline">
-              Terms of Service
-            </a>{' '}
-            apply.
-          </div>
-
-          <div>
-            <button
-              type="submit"
-              disabled={loading}
-              className="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-green-600 hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 disabled:opacity-50 disabled:cursor-not-allowed"
-            >
-              {loading ? (
-                <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-                  <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-                  <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
-                </svg>
-              ) : null}
-              Create Account
-            </button>
-          </div>
-
-          <div>
-            <div className="relative">
-              <div className="absolute inset-0 flex items-center">
-                <div className="w-full border-t border-gray-300" />
-              </div>
-              <div className="relative flex justify-center text-sm">
-                <span className="px-2 bg-gray-50 text-gray-500">Or continue with</span>
-              </div>
+              &{' '}
+              <a href="https://policies.google.com/terms" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline">
+                TERMS
+              </a>{' '}
+              APPLY
             </div>
 
-            <div className="mt-6">
+            <div>
+              <button
+                type="submit"
+                disabled={loading}
+                className="group relative w-full flex justify-center py-4 px-6 border-2 border-transparent text-lg font-bold rounded-2xl text-white bg-gradient-to-r from-orange-500 to-red-600 hover:from-orange-600 hover:to-red-700 focus:outline-none focus:ring-4 focus:ring-orange-500/50 disabled:opacity-50 disabled:cursor-not-allowed transform transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] shadow-2xl shadow-orange-500/30 disabled:hover:scale-100 uppercase tracking-wider"
+              >
+                {loading && (
+                  <svg className="animate-spin -ml-1 mr-3 h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                    <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                )}
+                {loading ? 'CREATING ACCOUNT...' : 'JOIN THE CHAMPIONS!'}
+              </button>
+            </div>
+
+            <div>
+              <div className="relative my-10">
+                <div className="absolute inset-0 flex items-center">
+                  <div className="w-full border-t-2 border-gradient-to-r from-transparent via-orange-500/30 to-transparent" style={{
+                    background: 'linear-gradient(to right, transparent, rgb(249 115 22 / 0.3), transparent)',
+                    height: '2px',
+                    border: 'none'
+                  }} />
+                </div>
+                <div className="relative flex justify-center">
+                  <span className="px-6 py-2 bg-gradient-to-r from-gray-900 via-black to-gray-900 text-orange-400 font-bold text-sm uppercase tracking-widest border border-orange-500/30 rounded-full">
+                    OR SIGN UP WITH
+                  </span>
+                </div>
+              </div>
+
               <button
                 type="button"
                 onClick={handleGoogleSignUp}
                 disabled={loading}
-                className="w-full inline-flex justify-center py-2 px-4 border border-gray-300 rounded-md shadow-sm bg-white text-sm font-medium text-gray-500 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed"
+                className="w-full inline-flex justify-center items-center py-4 px-6 border-2 border-gray-700 rounded-2xl shadow-lg bg-gray-900/50 text-base font-bold text-white hover:bg-gray-800/70 hover:border-orange-500/50 focus:outline-none focus:ring-4 focus:ring-orange-500/30 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] disabled:hover:scale-100 uppercase tracking-wider backdrop-blur-sm"
               >
-                <svg className="w-5 h-5" viewBox="0 0 24 24">
+                <svg className="w-6 h-6 mr-3" viewBox="0 0 24 24">
                   <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
                   <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
                   <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
                   <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
                 </svg>
-                <span className="ml-2">Sign up with Google</span>
+                GOOGLE SIGN UP
               </button>
             </div>
-          </div>
-        </form>
+          </form>
 
-        {/* Footer */}
-        <div className="text-center">
-          <Link href="/" className="text-sm text-gray-600 hover:text-gray-900">
-            ← Back to ReviewMyCoach
-          </Link>
+          {/* Footer */}
+          <div className="text-center pt-6">
+            <Link href="/" className="text-sm text-gray-400 hover:text-orange-400 transition-colors duration-200 font-medium uppercase tracking-wider">
+              ← BACK TO HOME
+            </Link>
+          </div>
         </div>
       </div>
     </div>

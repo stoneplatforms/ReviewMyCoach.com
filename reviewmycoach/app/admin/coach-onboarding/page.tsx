@@ -33,6 +33,17 @@ interface CoachFormData {
   };
 }
 
+interface ExistingCoach {
+  id: string;
+  displayName: string;
+  email: string;
+  sports: string[];
+  role: string;
+  organization: string;
+  isClaimed: boolean;
+  createdAt: any;
+}
+
 interface Tag {
   id: string;
   name: string;
@@ -45,6 +56,11 @@ export default function CoachOnboarding() {
   const [loading, setLoading] = useState(true);
   const [submitting, setSubmitting] = useState(false);
   const [availableTags, setAvailableTags] = useState<Tag[]>([]);
+  const [mode, setMode] = useState<'create' | 'edit' | 'browse'>('browse');
+  const [existingCoaches, setExistingCoaches] = useState<ExistingCoach[]>([]);
+  const [selectedCoachId, setSelectedCoachId] = useState<string | null>(null);
+  const [searchTerm, setSearchTerm] = useState('');
+  const [filterSport, setFilterSport] = useState('');
   const [formData, setFormData] = useState<CoachFormData>({
     displayName: '',
     email: '',
@@ -100,6 +116,7 @@ export default function CoachOnboarding() {
         }
         setUserRole(userData.role);
         await fetchTags();
+        await fetchExistingCoaches();
       } else {
         router.push('/onboarding');
       }
@@ -122,6 +139,71 @@ export default function CoachOnboarding() {
       setAvailableTags(tags);
     } catch (error) {
       console.error('Error fetching tags:', error);
+    }
+  };
+
+  const fetchExistingCoaches = async () => {
+    try {
+      const coachesRef = collection(db, 'coaches');
+      const coachesSnapshot = await getDocs(coachesRef);
+      const coaches: ExistingCoach[] = [];
+      coachesSnapshot.forEach((doc) => {
+        const data = doc.data();
+        coaches.push({
+          id: doc.id,
+          displayName: data.displayName || '',
+          email: data.email || '',
+          sports: data.sports || [],
+          role: data.role || '',
+          organization: data.organization || '',
+          isClaimed: data.isClaimed || false,
+          createdAt: data.createdAt
+        });
+      });
+      setExistingCoaches(coaches.sort((a, b) => a.displayName.localeCompare(b.displayName)));
+    } catch (error) {
+      console.error('Error fetching coaches:', error);
+    }
+  };
+
+  const loadCoachForEditing = async (coachId: string) => {
+    try {
+      const coachRef = doc(db, 'coaches', coachId);
+      const coachSnap = await getDoc(coachRef);
+      
+      if (coachSnap.exists()) {
+        const data = coachSnap.data();
+        setFormData({
+          displayName: data.displayName || '',
+          email: data.email || '',
+          username: data.username || '',
+          bio: data.bio || '',
+          sports: data.sports || [],
+          experience: data.experience || 0,
+          certifications: data.certifications || [],
+          hourlyRate: data.hourlyRate || 0,
+          location: data.location || '',
+          specialties: data.specialties || [],
+          languages: data.languages || ['English'],
+          phoneNumber: data.phoneNumber || '',
+          website: data.website || '',
+          organization: data.organization || '',
+          role: data.role || '',
+          gender: data.gender || '',
+          ageGroup: data.ageGroup || [],
+          sourceUrl: data.sourceUrl || '',
+          socialMedia: data.socialMedia || {
+            instagram: '',
+            twitter: '',
+            linkedin: ''
+          }
+        });
+        setSelectedCoachId(coachId);
+        setMode('edit');
+      }
+    } catch (error) {
+      console.error('Error loading coach for editing:', error);
+      alert('Error loading coach data');
     }
   };
 
@@ -171,67 +253,130 @@ export default function CoachOnboarding() {
 
     setSubmitting(true);
     try {
-      // Generate a unique ID for the coach
-      const coachId = `coach_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
-      
-      // Create coach profile
-      const coachRef = doc(db, 'coaches', coachId);
-      await setDoc(coachRef, {
-        userId: coachId, // Using the generated ID as userId since there's no Firebase Auth user
-        username: formData.username,
-        displayName: formData.displayName,
-        email: formData.email,
-        bio: formData.bio,
-        sports: formData.sports,
-        experience: formData.experience,
-        certifications: formData.certifications,
-        hourlyRate: formData.hourlyRate,
-        location: formData.location,
-        availability: [],
-        specialties: formData.specialties,
-        languages: formData.languages,
-        organization: formData.organization,
-        role: formData.role,
-        gender: formData.gender,
-        ageGroup: formData.ageGroup,
-        sourceUrl: formData.sourceUrl,
-        averageRating: 0,
-        totalReviews: 0,
-        isVerified: false, // Admin can verify later
-        profileImage: '',
-        phoneNumber: formData.phoneNumber,
-        website: formData.website,
-        socialMedia: formData.socialMedia,
-        createdAt: new Date(),
-        updatedAt: new Date(),
-        profileCompleted: true,
-        adminCreated: true,
-        createdBy: user.uid
-      });
+      if (mode === 'edit' && selectedCoachId) {
+        // Update existing coach
+        const coachRef = doc(db, 'coaches', selectedCoachId);
+        await setDoc(coachRef, {
+          username: formData.username,
+          displayName: formData.displayName,
+          email: formData.email,
+          bio: formData.bio,
+          sports: formData.sports,
+          experience: formData.experience,
+          certifications: formData.certifications,
+          hourlyRate: formData.hourlyRate,
+          location: formData.location,
+          specialties: formData.specialties,
+          languages: formData.languages,
+          organization: formData.organization,
+          role: formData.role,
+          gender: formData.gender,
+          ageGroup: formData.ageGroup,
+          sourceUrl: formData.sourceUrl,
+          phoneNumber: formData.phoneNumber,
+          website: formData.website,
+          socialMedia: formData.socialMedia,
+          updatedAt: new Date(),
+          lastEditedBy: user.uid
+        }, { merge: true });
 
-      // Create a corresponding user document (for consistency)
-      const userRef = doc(db, 'users', coachId);
-      await setDoc(userRef, {
-        userId: coachId,
-        username: formData.username,
-        email: formData.email,
-        displayName: formData.displayName,
-        createdAt: new Date(),
-        role: 'coach',
-        onboardingCompleted: true,
-        isVerified: false,
-        adminCreated: true,
-        createdBy: user.uid
-      });
+        alert('Coach profile updated successfully!');
+        await fetchExistingCoaches();
+        setMode('browse');
+        resetForm();
+      } else {
+        // Create new coach
+        const coachId = `coach_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
+        
+        const coachRef = doc(db, 'coaches', coachId);
+        await setDoc(coachRef, {
+          userId: coachId,
+          username: formData.username,
+          displayName: formData.displayName,
+          email: formData.email,
+          bio: formData.bio,
+          sports: formData.sports,
+          experience: formData.experience,
+          certifications: formData.certifications,
+          hourlyRate: formData.hourlyRate,
+          location: formData.location,
+          availability: [],
+          specialties: formData.specialties,
+          languages: formData.languages,
+          organization: formData.organization,
+          role: formData.role,
+          gender: formData.gender,
+          ageGroup: formData.ageGroup,
+          sourceUrl: formData.sourceUrl,
+          averageRating: 0,
+          totalReviews: 0,
+          isVerified: false,
+          isClaimed: false,
+          profileImage: '',
+          phoneNumber: formData.phoneNumber,
+          website: formData.website,
+          socialMedia: formData.socialMedia,
+          createdAt: new Date(),
+          updatedAt: new Date(),
+          profileCompleted: true,
+          adminCreated: true,
+          createdBy: user.uid
+        });
 
-      alert('Coach profile created successfully!');
-      router.push('/admin');
+        const userRef = doc(db, 'users', coachId);
+        await setDoc(userRef, {
+          userId: coachId,
+          username: formData.username,
+          email: formData.email,
+          displayName: formData.displayName,
+          createdAt: new Date(),
+          role: 'coach',
+          onboardingCompleted: true,
+          isVerified: false,
+          adminCreated: true,
+          createdBy: user.uid
+        });
+
+        alert('Coach profile created successfully!');
+        await fetchExistingCoaches();
+        setMode('browse');
+        resetForm();
+      }
     } catch (error) {
-      console.error('Error creating coach profile:', error);
-      alert(`Error creating coach profile: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      console.error(`Error ${mode === 'edit' ? 'updating' : 'creating'} coach profile:`, error);
+      alert(`Error ${mode === 'edit' ? 'updating' : 'creating'} coach profile: ${error instanceof Error ? error.message : 'Unknown error'}`);
     } finally {
       setSubmitting(false);
     }
+  };
+
+  const resetForm = () => {
+    setFormData({
+      displayName: '',
+      email: '',
+      username: '',
+      bio: '',
+      sports: [],
+      experience: 0,
+      certifications: [],
+      hourlyRate: 0,
+      location: '',
+      specialties: [],
+      languages: ['English'],
+      phoneNumber: '',
+      website: '',
+      organization: '',
+      role: '',
+      gender: '',
+      ageGroup: [],
+      sourceUrl: '',
+      socialMedia: {
+        instagram: '',
+        twitter: '',
+        linkedin: ''
+      }
+    });
+    setSelectedCoachId(null);
   };
 
   if (loading) {
@@ -247,7 +392,7 @@ export default function CoachOnboarding() {
       <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-gray-900">Access Denied</h1>
-          <p className="text-gray-600 mt-2">You don&apos;t have admin privileges.</p>
+          <p className="text-gray-600 mt-2">You don't have admin privileges.</p>
         </div>
       </div>
     );
@@ -257,6 +402,18 @@ export default function CoachOnboarding() {
   const specialtyTags = availableTags.filter(tag => tag.category === 'specialty');
   const certificationTags = availableTags.filter(tag => tag.category === 'certification');
 
+  // Filter coaches based on search and sport filter
+  const filteredCoaches = existingCoaches.filter(coach => {
+    const matchesSearch = searchTerm === '' || 
+      coach.displayName.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      coach.email.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      coach.role.toLowerCase().includes(searchTerm.toLowerCase());
+    
+    const matchesSport = filterSport === '' || coach.sports.includes(filterSport);
+    
+    return matchesSearch && matchesSport;
+  });
+
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
@@ -264,21 +421,131 @@ export default function CoachOnboarding() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-6">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900">Add New Coach</h1>
-              <p className="text-sm text-gray-600">Create a new coach profile manually</p>
+              <h1 className="text-3xl font-bold text-gray-900">
+                {mode === 'browse' ? 'Manage Coaches' : mode === 'edit' ? 'Edit Coach' : 'Add New Coach'}
+              </h1>
+              <p className="text-sm text-gray-600">
+                {mode === 'browse' ? 'Browse and edit existing coaches or create new ones' : 
+                 mode === 'edit' ? 'Update coach profile information' : 
+                 'Create a new coach profile manually'}
+              </p>
             </div>
-            <Link
-              href="/admin"
-              className="bg-gray-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-gray-700"
-            >
-              Back to Admin
-            </Link>
+            <div className="flex space-x-3">
+              {mode !== 'browse' && (
+                <button
+                  onClick={() => {
+                    setMode('browse');
+                    resetForm();
+                  }}
+                  className="bg-gray-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-gray-700"
+                >
+                  Back to Browse
+                </button>
+              )}
+              <Link
+                href="/admin"
+                className="bg-gray-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-gray-700"
+              >
+                Back to Admin
+              </Link>
+            </div>
           </div>
         </div>
       </div>
 
+      {/* Browse Coaches */}
+      {mode === 'browse' && (
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+          {/* Controls */}
+          <div className="bg-white shadow rounded-lg p-6 mb-6">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between space-y-4 sm:space-y-0">
+              <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+                <div>
+                  <input
+                    type="text"
+                    placeholder="Search coaches..."
+                    value={searchTerm}
+                    onChange={(e) => setSearchTerm(e.target.value)}
+                    className="px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+                  />
+                </div>
+                <div>
+                  <select
+                    value={filterSport}
+                    onChange={(e) => setFilterSport(e.target.value)}
+                    className="px-4 py-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500"
+                  >
+                    <option value="">All Sports</option>
+                    {sportTags.map((sport) => (
+                      <option key={sport.id} value={sport.name}>{sport.name}</option>
+                    ))}
+                  </select>
+                </div>
+              </div>
+              <button
+                onClick={() => setMode('create')}
+                className="bg-blue-600 text-white px-4 py-2 rounded-md text-sm font-medium hover:bg-blue-700"
+              >
+                Add New Coach
+              </button>
+            </div>
+            <div className="mt-4 text-sm text-gray-600">
+              Found {filteredCoaches.length} of {existingCoaches.length} coaches
+            </div>
+          </div>
+
+          {/* Coaches List */}
+          <div className="bg-white shadow rounded-lg overflow-hidden">
+            <div className="px-6 py-4 border-b border-gray-200">
+              <h3 className="text-lg font-medium text-gray-900">Existing Coaches</h3>
+            </div>
+            <div className="divide-y divide-gray-200">
+              {filteredCoaches.length > 0 ? (
+                filteredCoaches.map((coach) => (
+                  <div key={coach.id} className="px-6 py-4 hover:bg-gray-50">
+                    <div className="flex items-center justify-between">
+                      <div className="flex-1">
+                        <div className="flex items-center space-x-3">
+                          <div>
+                            <p className="text-sm font-medium text-gray-900">{coach.displayName}</p>
+                            <p className="text-sm text-gray-500">{coach.email}</p>
+                          </div>
+                          {coach.isClaimed && (
+                            <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
+                              Claimed
+                            </span>
+                          )}
+                        </div>
+                        <div className="mt-2 flex items-center space-x-4 text-sm text-gray-500">
+                          <span>{coach.role}</span>
+                          <span>•</span>
+                          <span>{coach.organization}</span>
+                          <span>•</span>
+                          <span>{coach.sports.join(', ') || 'No sports listed'}</span>
+                        </div>
+                      </div>
+                      <button
+                        onClick={() => loadCoachForEditing(coach.id)}
+                        className="bg-blue-600 text-white px-3 py-1 rounded text-sm font-medium hover:bg-blue-700"
+                      >
+                        Edit
+                      </button>
+                    </div>
+                  </div>
+                ))
+              ) : (
+                <div className="px-6 py-12 text-center">
+                  <p className="text-gray-500">No coaches found matching your criteria</p>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Form */}
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      {(mode === 'create' || mode === 'edit') && (
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <form onSubmit={handleSubmit} className="space-y-8">
           {/* Basic Information */}
           <div className="bg-white shadow px-4 py-5 sm:rounded-lg sm:p-6">
@@ -707,15 +974,16 @@ export default function CoachOnboarding() {
                     <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
                     <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
                   </svg>
-                  Creating...
+                  {mode === 'edit' ? 'Updating...' : 'Creating...'}
                 </>
               ) : (
-                'Create Coach Profile'
+                mode === 'edit' ? 'Update Coach Profile' : 'Create Coach Profile'
               )}
             </button>
           </div>
         </form>
-      </div>
+        </div>
+      )}
     </div>
   );
 } 

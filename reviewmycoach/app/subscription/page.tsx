@@ -210,7 +210,7 @@ export default function SubscriptionPage() {
               Coach Pro Active
             </div>
             <h1 className="text-4xl font-bold text-white mb-4 tracking-tight">
-              You&apos;re all set with Coach Pro
+              You're all set with Coach Pro
             </h1>
             <p className="text-xl text-gray-400 mb-12">
               Current Plan: <span className="text-white font-semibold">{coachProfile.subscriptionPlan === 'yearly' ? 'Annual' : 'Monthly'}</span>
@@ -383,7 +383,7 @@ export default function SubscriptionPage() {
           <div className="max-w-3xl mx-auto space-y-6">
             <div className="bg-gray-800/30 backdrop-blur-sm border border-gray-700/50 rounded-2xl p-8 hover:bg-gray-800/40 transition-colors">
               <h3 className="font-semibold text-white mb-3 text-lg">
-                What&apos;s the difference between Coach Pro and regular coaching?
+                What's the difference between Coach Pro and regular coaching?
               </h3>
               <p className="text-gray-400 leading-relaxed">
                 Coach Pro gives you access to premium features like unlimited job applications, priority search placement, and advanced analytics to help grow your coaching business.
@@ -395,7 +395,7 @@ export default function SubscriptionPage() {
                 Can I cancel my subscription anytime?
               </h3>
               <p className="text-gray-400 leading-relaxed">
-                Yes, you can cancel your Coach Pro subscription at any time. You&apos;ll continue to have access to Pro features until the end of your current billing period.
+                Yes, you can cancel your Coach Pro subscription at any time. You'll continue to have access to Pro features until the end of your current billing period.
               </p>
             </div>
             
@@ -404,7 +404,7 @@ export default function SubscriptionPage() {
                 How is this different from Stripe Connect earnings?
               </h3>
               <p className="text-gray-400 leading-relaxed">
-                Coach Pro is a subscription for enhanced platform features, while Stripe Connect handles your coaching session payments. They&apos;re separate systems that work together.
+                Coach Pro is a subscription for enhanced platform features, while Stripe Connect handles your coaching session payments. They're separate systems that work together.
               </p>
             </div>
           </div>

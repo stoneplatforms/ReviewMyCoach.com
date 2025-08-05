@@ -206,16 +206,19 @@ a:hover {
 
 /* Minimalistic components */
 .minimal-card {
-  background: rgba(30, 41, 59, 0.8);
+  background: rgba(0, 0, 0, 0.95);
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(71, 85, 105, 0.3);
-  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 0;
   transition: all 0.3s ease;
+  min-height: 280px;
 }
 
 .minimal-card:hover {
-  background: rgba(30, 41, 59, 0.9);
-  border-color: rgba(107, 114, 128, 0.5);
+  background: rgba(0, 0, 0, 1);
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 /* Athletic button styles */

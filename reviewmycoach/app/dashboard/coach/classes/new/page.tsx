@@ -187,6 +187,18 @@ export default function CreateClassPage() {
       const result = await response.json();
 
       if (!response.ok) {
+        // Handle Stripe Connect account requirement specially
+        if (result.error === 'Stripe Connect account required') {
+          const shouldRedirect = confirm(
+            `🏦 Payment Setup Required\n\nYou need to connect a Stripe account to receive payments for your classes.\n\nWould you like to set up payments now?`
+          );
+          
+          if (shouldRedirect) {
+            router.push('/dashboard/coach/stripe');
+            return;
+          }
+        }
+        
         throw new Error(result.error || 'Failed to create class');
       }
 

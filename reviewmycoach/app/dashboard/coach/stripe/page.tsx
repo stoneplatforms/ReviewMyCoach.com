@@ -97,7 +97,15 @@ export default function StripeConnectPage() {
         window.location.href = data.onboardingUrl;
       } else {
         const errorData = await response.json();
-        setError(errorData.error || 'Failed to connect Stripe account');
+        console.error('Stripe Connect Error:', errorData);
+        
+        // Show more detailed error information
+        let displayError = errorData.error || 'Failed to connect Stripe account';
+        if (errorData.details) {
+          displayError += ` (${errorData.details})`;
+        }
+        
+        setError(displayError);
       }
     } catch (error) {
       console.error('Error connecting Stripe:', error);

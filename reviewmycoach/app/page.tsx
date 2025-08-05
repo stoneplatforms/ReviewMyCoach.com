@@ -1,6 +1,7 @@
 import Link from "next/link";
 import GlobalSearchBar from "./components/GlobalSearchBar";
 import HeroCoachCarousel from "./components/HeroCoachCarousel";
+import DynamicSportsMosaic from "./components/DynamicSportsMosaic";
 
 export default function Home() {
   return (
@@ -19,21 +20,33 @@ export default function Home() {
             <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6 tracking-tight">
               Find Your Perfect
               <br />
-              <span className="text-transparent bg-gradient-to-r from-gray-400 via-gray-300 to-gray-500 bg-clip-text animate-pulse">
+              <span className="bg-gradient-to-r from-white via-orange-400 to-orange-600 bg-clip-text text-transparent">
                 Coach
               </span>
             </h1>
-            <p className="text-xl sm:text-2xl mb-12 text-slate-300 max-w-4xl mx-auto leading-relaxed">
-              Over 1 million authentic reviews from athletes worldwide. 
-              <span className="block mt-2 text-gray-400 font-semibold">Discover. Connect. Excel.</span>
+            <p className="text-xl sm:text-2xl text-gray-300 max-w-3xl mx-auto mb-12 leading-relaxed">
+              Connect with expert coaches in your sport. From basketball to swimming, find the perfect mentor to elevate your game.
             </p>
             
-            {/* Enhanced Search Bar */}
-            <div className="max-w-3xl mx-auto mb-12">
-              <GlobalSearchBar 
-                placeholder="Search by sport, location, or coach name..."
-                className="text-slate-900 shadow-2xl"
-              />
+            <div className="max-w-2xl mx-auto mb-8">
+              <GlobalSearchBar />
+            </div>
+
+            <div className="flex flex-col sm:flex-row items-center justify-center gap-4 text-sm text-gray-400">
+              <div className="flex items-center">
+                <div className="w-2 h-2 bg-green-500 rounded-full mr-2"></div>
+                <span>2,500+ Active Coaches</span>
+              </div>
+              <div className="hidden sm:block w-1 h-1 bg-gray-600 rounded-full"></div>
+              <div className="flex items-center">
+                <div className="w-2 h-2 bg-blue-500 rounded-full mr-2"></div>
+                <span>15+ Sports Available</span>
+              </div>
+              <div className="hidden sm:block w-1 h-1 bg-gray-600 rounded-full"></div>
+              <div className="flex items-center">
+                <div className="w-2 h-2 bg-purple-500 rounded-full mr-2"></div>
+                <span>Real Reviews</span>
+              </div>
             </div>
           </div>
         </div>
@@ -69,387 +82,8 @@ export default function Home() {
         </div>
       </div>
 
-      {/* Dynamic Sports Mosaic - No Gap Grid */}
-      <div className="bg-black relative">
-        <div className="w-full">
-          {/* Dynamic Sports Mosaic */}
-          <div className="grid grid-cols-6 grid-rows-4 gap-0 w-full h-screen">
-            {/* Basketball - Large */}
-            <Link
-              href="/search?q=basketball"
-              className="col-span-2 row-span-2 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-orange-500 to-red-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/basketball.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-6xl mb-4">🏀</div>
-                  <h3 className="text-white font-bold text-2xl mb-2">Basketball</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    2.3K
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Soccer - Wide */}
-            <Link
-              href="/search?q=soccer"
-              className="col-span-2 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-green-500 to-emerald-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/soccer.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-5xl mb-3">⚽</div>
-                  <h3 className="text-white font-bold text-xl mb-2">Soccer</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    1.8K
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Tennis - Tall */}
-            <Link
-              href="/search?q=tennis"
-              className="col-span-1 row-span-2 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-yellow-500 to-orange-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/tennis.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-5xl mb-3">🎾</div>
-                  <h3 className="text-white font-bold text-xl mb-2">Tennis</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    1.2K
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Swimming - Tall */}
-            <Link
-              href="/search?q=swimming"
-              className="col-span-1 row-span-2 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-blue-500 to-cyan-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/swimming.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-5xl mb-3">🏊</div>
-                  <h3 className="text-white font-bold text-xl mb-2">Swimming</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    940
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Baseball - Tall */}
-            <Link
-              href="/search?q=baseball"
-              className="col-span-1 row-span-2 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-red-500 to-pink-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/baseball.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-5xl mb-3">⚾</div>
-                  <h3 className="text-white font-bold text-xl mb-2">Baseball</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    1.5K
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Golf */}
-            <Link
-              href="/search?q=golf"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-green-600 to-teal-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/golf.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">⛳</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Golf</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    820
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Running */}
-            <Link
-              href="/search?q=running"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-purple-500 to-violet-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/running.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🏃</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Running</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    1.9K
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Boxing - Wide */}
-            <Link
-              href="/search?q=boxing"
-              className="col-span-2 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-red-600 to-orange-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/boxing.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-5xl mb-3">🥊</div>
-                  <h3 className="text-white font-bold text-xl mb-2">Boxing</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    650
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Yoga */}
-            <Link
-              href="/search?q=yoga"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-purple-600 to-pink-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/yoga.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🧘</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Yoga</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    1.1K
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Wrestling */}
-            <Link
-              href="/search?q=wrestling"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-slate-600 to-slate-700 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/wrestling.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🤼</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Wrestling</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    480
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Cycling - Wide */}
-            <Link
-              href="/search?q=cycling"
-              className="col-span-2 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-cyan-500 to-blue-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/cycling.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-5xl mb-3">🚴</div>
-                  <h3 className="text-white font-bold text-xl mb-2">Cycling</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    720
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Volleyball */}
-            <Link
-              href="/search?q=volleyball"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-yellow-600 to-orange-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/volleyball.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🏐</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Volleyball</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    890
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Martial Arts */}
-            <Link
-              href="/search?q=martial-arts"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-indigo-600 to-purple-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/martial-arts.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🥋</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Martial Arts</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    340
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Gymnastics */}
-            <Link
-              href="/search?q=gymnastics"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-pink-500 to-rose-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/gymnastics.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🤸</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Gymnastics</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    620
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Rock Climbing */}
-            <Link
-              href="/search?q=climbing"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-gray-600 to-gray-700 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/climbing.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🧗</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Climbing</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    290
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Surfing */}
-            <Link
-              href="/search?q=surfing"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-teal-500 to-cyan-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/surfing.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🏄</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Surfing</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    180
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Skiing */}
-            <Link
-              href="/search?q=skiing"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-blue-600 to-indigo-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/skiing.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🎿</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Skiing</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    420
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Track & Field */}
-            <Link
-              href="/search?q=track-field"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-amber-500 to-orange-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/track-field.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🏃‍♂️</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Track & Field</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    950
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Hockey */}
-            <Link
-              href="/search?q=hockey"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-slate-500 to-blue-600 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/hockey.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🏒</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Hockey</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    680
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* CrossFit - Large */}
-            <Link
-              href="/search?q=crossfit"
-              className="col-span-2 row-span-2 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-red-700 to-orange-700 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/crossfit.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-6xl mb-4">🏋️</div>
-                  <h3 className="text-white font-bold text-2xl mb-2">CrossFit</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    1.3K
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Badminton */}
-            <Link
-              href="/search?q=badminton"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-lime-500 to-green-500 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/badminton.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🏸</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Badminton</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    380
-                  </div>
-                </div>
-              </div>
-            </Link>
-
-            {/* Football */}
-            <Link
-              href="/search?q=football"
-              className="col-span-1 row-span-1 group relative"
-            >
-              <div className="w-full h-full bg-gradient-to-br from-amber-700 to-orange-800 transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center" style={{backgroundImage: 'url(/sports/football.jpg)'}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className="text-4xl mb-2 ">🏈</div>
-                  <h3 className="text-white font-bold text-lg mb-1">Football</h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    2.1K
-                  </div>
-                </div>
-              </div>
-            </Link>
-          </div>
-        </div>
-      </div>
+      {/* Dynamic Sports Mosaic - Real Coach Counts */}
+      <DynamicSportsMosaic />
 
       {/* Coach Pro Subscription Section */}
       <div className="bg-black py-20">
@@ -466,139 +100,153 @@ export default function Home() {
                 Coaching Business
               </span>
             </h2>
-            <p className="text-xl text-gray-400 mb-12 max-w-3xl mx-auto leading-relaxed">
-              Join Coach Pro and unlock premium features designed to help you attract more athletes, 
-              manage your coaching business, and maximize your earnings.
+            <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-12">
+              Join ReviewMyCoach Pro and unlock premium features to grow your coaching business, connect with more athletes, and maximize your impact.
             </p>
           </div>
           
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            {/* Features List */}
-            <div className="space-y-8">
-              {[
-                {
-                  icon: "⭐",
-                  title: "Priority Placement",
-                  description: "Get featured at the top of search results and sport categories"
-                },
-                {
-                  icon: "📊",
-                  title: "Advanced Analytics",
-                  description: "Track your profile views, review trends, and athlete engagement"
-                },
-                {
-                  icon: "💬",
-                  title: "Direct Messaging",
-                  description: "Connect directly with potential athletes and manage bookings"
-                },
-                {
-                  icon: "🎯",
-                  title: "Smart Matching",
-                  description: "Get matched with athletes looking for your specific expertise"
-                },
-                {
-                  icon: "🏆",
-                  title: "Verified Coach Badge",
-                  description: "Stand out with our exclusive verified coach certification"
-                },
-                {
-                  icon: "💳",
-                  title: "Integrated Payments",
-                  description: "Accept payments seamlessly through our Stripe integration"
-                }
-              ].map((feature, index) => (
-                <div key={index} className="flex items-start space-x-4 group">
-                  <div className="w-12 h-12 bg-orange-500/20 border border-orange-500/30 rounded-2xl flex items-center justify-center text-2xl group-hover:bg-orange-500/30 transition-colors">
-                    {feature.icon}
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-16">
+            {/* Feature 1 */}
+            <div className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-2xl p-8 border border-gray-700">
+              <div className="w-12 h-12 bg-orange-500/20 rounded-xl flex items-center justify-center mb-6">
+                <svg className="w-6 h-6 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
+                </svg>
                   </div>
-                  <div className="flex-1">
-                    <h3 className="text-white font-semibold text-lg mb-2 group-hover:text-orange-400 transition-colors">
-                      {feature.title}
-                    </h3>
-                    <p className="text-gray-400 leading-relaxed">
-                      {feature.description}
-                    </p>
-                  </div>
+              <h3 className="text-xl font-bold text-white mb-4">Priority Placement</h3>
+              <p className="text-gray-400 mb-6">Get featured in search results and increase your visibility to potential clients by up to 300%.</p>
+              <div className="flex items-center text-orange-400 text-sm font-medium">
+                <span className="w-2 h-2 bg-orange-400 rounded-full mr-2"></span>
+                3x More Visibility
                 </div>
-              ))}
             </div>
 
-            {/* Pricing Card */}
-            <div className="bg-black/80 backdrop-blur-sm border border-gray-800/50 rounded-3xl p-8 relative overflow-hidden">
-              <div className="absolute inset-0 bg-gradient-to-br from-orange-500/5 via-transparent to-orange-600/5"></div>
-              <div className="relative z-10">
-                <div className="text-center mb-8">
-                  <div className="inline-flex items-center px-4 py-2 bg-orange-500/20 border border-orange-500/30 text-orange-400 rounded-full text-sm font-medium mb-4">
-                    Most Popular
+            {/* Feature 2 */}
+            <div className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-2xl p-8 border border-gray-700">
+              <div className="w-12 h-12 bg-blue-500/20 rounded-xl flex items-center justify-center mb-6">
+                <svg className="w-6 h-6 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v4a2 2 0 01-2 2h-2a2 2 0 00-2-2z" />
+                </svg>
                   </div>
-                  <h3 className="text-3xl font-bold text-white mb-4">Coach Pro</h3>
-                  <div className="flex items-baseline justify-center mb-2">
-                    <span className="text-5xl font-bold text-white tracking-tight">$10</span>
-                    <span className="text-xl text-gray-400 ml-2">/month</span>
+              <h3 className="text-xl font-bold text-white mb-4">Advanced Analytics</h3>
+              <p className="text-gray-400 mb-6">Track your performance with detailed insights on profile views, bookings, and client engagement.</p>
+              <div className="flex items-center text-blue-400 text-sm font-medium">
+                <span className="w-2 h-2 bg-blue-400 rounded-full mr-2"></span>
+                Deep Insights
                   </div>
-                  <p className="text-gray-400 text-sm">or $96/year (save $24)</p>
                 </div>
 
-                <div className="space-y-4 mb-8">
-                  {[
-                    "Priority search placement",
-                    "Advanced analytics dashboard", 
-                    "Direct athlete messaging",
-                    "Verified coach badge",
-                    "Payment processing",
-                    "Smart athlete matching",
-                    "24/7 premium support"
-                  ].map((feature, index) => (
-                    <div key={index} className="flex items-center space-x-3">
-                      <div className="w-5 h-5 bg-orange-500/20 border border-orange-500/30 rounded-full flex items-center justify-center">
-                        <svg className="w-3 h-3 text-orange-500" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
-                          <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+            {/* Feature 3 */}
+            <div className="bg-gradient-to-br from-gray-900 to-gray-800 rounded-2xl p-8 border border-gray-700">
+              <div className="w-12 h-12 bg-green-500/20 rounded-xl flex items-center justify-center mb-6">
+                <svg className="w-6 h-6 text-green-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1" />
                         </svg>
                       </div>
-                      <span className="text-gray-300">{feature}</span>
+              <h3 className="text-xl font-bold text-white mb-4">Direct Payments</h3>
+              <p className="text-gray-400 mb-6">Accept payments directly through the platform with integrated Stripe processing and automated invoicing.</p>
+              <div className="flex items-center text-green-400 text-sm font-medium">
+                <span className="w-2 h-2 bg-green-400 rounded-full mr-2"></span>
+                Seamless Transactions
+              </div>
                     </div>
-                  ))}
                 </div>
 
+          <div className="text-center">
                 <Link 
-                  href="/onboarding"
-                  className="block w-full bg-gradient-to-r from-orange-500 to-orange-600 hover:from-orange-400 hover:to-orange-500 text-white py-4 px-8 rounded-2xl font-semibold text-center transition-all transform hover:scale-105 shadow-lg hover:shadow-orange-500/25"
+              href="/subscription"
+              className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-orange-500 to-orange-600 text-white rounded-xl font-bold text-lg hover:from-orange-600 hover:to-orange-700 transition-all duration-300 transform hover:scale-105 shadow-2xl shadow-orange-500/25"
                 >
-                  Start Your Coach Journey
+              Upgrade to Pro
+              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
                 </Link>
-                
-                <p className="text-gray-500 text-sm text-center mt-4">
-                  Already a coach? <Link href="/subscription" className="text-orange-400 hover:text-orange-300">Upgrade to Pro →</Link>
+            <p className="text-gray-400 mt-4 text-sm">
+              Start your 14-day free trial • No commitment required
                 </p>
               </div>
             </div>
           </div>
 
-          {/* Trust Indicators */}
-          <div className="mt-20 text-center">
-            <p className="text-gray-500 mb-8">Trusted by thousands of coaches worldwide</p>
-            <div className="flex flex-wrap justify-center items-center gap-8 text-gray-600">
-              <div className="flex items-center space-x-2">
-                <span className="text-2xl">🏀</span>
-                <span>2,300+ Basketball Coaches</span>
+      {/* How It Works Section */}
+      <div className="bg-gray-900 py-20">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl font-bold text-white mb-4">How It Works</h2>
+            <p className="text-xl text-gray-400 max-w-2xl mx-auto">
+              Getting started with ReviewMyCoach is simple. Find, connect, and train with the best coaches in just a few steps.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+            {/* Step 1 */}
+            <div className="text-center">
+              <div className="w-16 h-16 bg-orange-500 rounded-full flex items-center justify-center mx-auto mb-6">
+                <span className="text-2xl font-bold text-white">1</span>
               </div>
-              <div className="flex items-center space-x-2">
-                <span className="text-2xl">⚽</span>
-                <span>1,800+ Soccer Coaches</span>
+              <h3 className="text-xl font-bold text-white mb-4">Search & Discover</h3>
+              <p className="text-gray-400">
+                Browse through our extensive database of verified coaches. Filter by sport, location, experience, and reviews to find your perfect match.
+              </p>
+            </div>
+
+            {/* Step 2 */}
+            <div className="text-center">
+              <div className="w-16 h-16 bg-orange-500 rounded-full flex items-center justify-center mx-auto mb-6">
+                <span className="text-2xl font-bold text-white">2</span>
               </div>
-              <div className="flex items-center space-x-2">
-                <span className="text-2xl">🎾</span>
-                <span>1,200+ Tennis Coaches</span>
+              <h3 className="text-xl font-bold text-white mb-4">Connect & Book</h3>
+              <p className="text-gray-400">
+                View detailed profiles, read reviews, and book sessions directly. Message coaches to discuss your goals and training needs.
+              </p>
               </div>
-              <div className="flex items-center space-x-2">
-                <span className="text-2xl">🏊</span>
-                <span>940+ Swimming Coaches</span>
+
+            {/* Step 3 */}
+            <div className="text-center">
+              <div className="w-16 h-16 bg-orange-500 rounded-full flex items-center justify-center mx-auto mb-6">
+                <span className="text-2xl font-bold text-white">3</span>
               </div>
+              <h3 className="text-xl font-bold text-white mb-4">Train & Improve</h3>
+              <p className="text-gray-400">
+                Start your training journey with expert guidance. Track progress, receive feedback, and achieve your athletic goals.
+              </p>
             </div>
           </div>
         </div>
       </div>
 
+      {/* CTA Section */}
+      <div className="bg-black py-20">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <h2 className="text-4xl font-bold text-white mb-6">
+            Ready to Level Up Your Game?
+          </h2>
+          <p className="text-xl text-gray-400 mb-12">
+            Join thousands of athletes who have found their perfect coach on ReviewMyCoach.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <Link
+              href="/search"
+              className="inline-flex items-center justify-center px-8 py-4 bg-white text-black rounded-xl font-bold text-lg hover:bg-gray-100 transition-all duration-300 transform hover:scale-105"
+            >
+              Find a Coach
+              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </Link>
+            <Link
+              href="/signup"
+              className="inline-flex items-center justify-center px-8 py-4 border-2 border-white text-white rounded-xl font-bold text-lg hover:bg-white hover:text-black transition-all duration-300"
+            >
+              Join as Coach
+              <svg className="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
+            </Link>
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

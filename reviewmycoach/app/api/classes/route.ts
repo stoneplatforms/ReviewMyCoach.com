@@ -124,14 +124,23 @@ export async function POST(req: NextRequest) {
 
     const userData = userDoc.data();
     const username = userData?.username;
-    if (!username) {
-      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
+    
+    // Try to get coach profile - first by username, then by userId
+    let coachDoc;
+    if (username) {
+      coachDoc = await db.collection('coaches').doc(username.toLowerCase()).get();
     }
-
-    // Get coach profile using username
-    const coachDoc = await db.collection('coaches').doc(username).get();
+    
+    // If no coach found with username, try userId
+    if (!coachDoc?.exists) {
+      coachDoc = await db.collection('coaches').doc(userId).get();
+    }
+    
     if (!coachDoc.exists) {
-      return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
+      return NextResponse.json({ 
+        error: 'Coach profile not found',
+        message: 'Please complete your coach profile setup first'
+      }, { status: 404 });
     }
 
     const coachData = coachDoc.data();
@@ -183,7 +192,7 @@ export async function POST(req: NextRequest) {
           description: classData.description,
           metadata: {
             type: 'class',
-            coachId: username,
+            coachId: username || userId, // Use username if available, otherwise userId
             sport: classData.sport,
             classType: classData.type
           }
@@ -216,7 +225,7 @@ export async function POST(req: NextRequest) {
     // Create class document
     const newClass = {
       ...classData,
-      coachId: username,
+      coachId: username || userId, // Use username if available, otherwise userId
       coachName: coachData.displayName,
       stripeAccountId: coachData.stripeAccountId,
       stripeProductId,
@@ -273,9 +282,6 @@ export async function PUT(req: NextRequest) {
 
     const userData = userDoc.data();
     const username = userData?.username;
-    if (!username) {
-      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
-    }
 
     const { searchParams } = new URL(req.url);
     const classId = searchParams.get('id');
@@ -291,7 +297,13 @@ export async function PUT(req: NextRequest) {
     }
 
     const classData = classDoc.data();
-    if (!classData || classData.coachId !== username) {
+    // Check ownership using both username and userId patterns
+    const isOwner = classData && (
+      (username && classData.coachId === username) || 
+      classData.coachId === userId
+    );
+    
+    if (!isOwner) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 
@@ -343,9 +355,6 @@ export async function DELETE(req: NextRequest) {
 
     const userData = userDoc.data();
     const username = userData?.username;
-    if (!username) {
-      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
-    }
 
     const { searchParams } = new URL(req.url);
     const classId = searchParams.get('id');
@@ -361,7 +370,13 @@ export async function DELETE(req: NextRequest) {
     }
 
     const classData = classDoc.data();
-    if (!classData || classData.coachId !== username) {
+    // Check ownership using both username and userId patterns
+    const isOwner = classData && (
+      (username && classData.coachId === username) || 
+      classData.coachId === userId
+    );
+    
+    if (!isOwner) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 403 });
     }
 

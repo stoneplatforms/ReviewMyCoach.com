@@ -238,9 +238,7 @@ export default function HeroCoachCarousel() {
                         </span>
                       ))}
                     </div>
-                    <span className="text-xs font-semibold text-emerald-400">
-                      ${coach.hourlyRate}/hr
-                    </span>
+
                   </div>
                 </div>
               </div>

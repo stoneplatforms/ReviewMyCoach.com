@@ -70,14 +70,23 @@ export async function POST(req: NextRequest) {
 
     const userData = userDoc.data();
     const username = userData?.username;
-    if (!username) {
-      return NextResponse.json({ error: 'Username not found in user profile' }, { status: 404 });
+    
+    // Try to get coach profile - first by username, then by userId
+    let coachDoc;
+    if (username) {
+      coachDoc = await db.collection('coaches').doc(username.toLowerCase()).get();
     }
-
-    // Get coach profile using username
-    const coachDoc = await db.collection('coaches').doc(username).get();
+    
+    // If no coach found with username, try userId
+    if (!coachDoc?.exists) {
+      coachDoc = await db.collection('coaches').doc(userId).get();
+    }
+    
     if (!coachDoc.exists) {
-      return NextResponse.json({ error: 'Coach profile not found' }, { status: 404 });
+      return NextResponse.json({ 
+        error: 'Coach profile not found',
+        message: 'Please complete your coach profile setup first'
+      }, { status: 404 });
     }
 
     const coachProfile = coachDoc.data();
@@ -106,7 +115,7 @@ export async function POST(req: NextRequest) {
       description,
       stripeAccountId,
       {
-        coachId: username,
+        coachId: username || userId, // Use username if available, otherwise userId
         category,
         duration: duration.toString(),
       }
@@ -125,7 +134,7 @@ export async function POST(req: NextRequest) {
     const serviceRef = db.collection('services').doc();
     await serviceRef.set({
       id: serviceRef.id,
-      coachId: username,
+      coachId: username || userId, // Use username if available, otherwise userId
       title,
       description,
       price,

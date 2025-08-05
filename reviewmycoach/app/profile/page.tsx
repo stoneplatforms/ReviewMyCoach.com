@@ -468,7 +468,7 @@ export default function ProfilePage() {
               <div className="border-b border-gray-200 pb-6">
                 <h3 className="text-lg font-medium text-gray-900 mb-4">Change Email</h3>
                 <p className="text-sm text-gray-600 mb-4">
-                  Update your email address. You&apos;ll need to verify your new email address.
+                  Update your email address. You'll need to verify your new email address.
                 </p>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div>

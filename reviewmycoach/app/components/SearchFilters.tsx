@@ -140,14 +140,14 @@ export default function SearchFilters({
     placeholder: string
   ) => (
     <div className="flex flex-col">
-      <label htmlFor={key} className="text-sm font-medium text-gray-700 mb-1">
+      <label htmlFor={key} className="text-xs font-medium text-white mb-2 uppercase tracking-wider">
         {label}
       </label>
       <select
         id={key}
         value={filters[key as keyof typeof filters]}
         onChange={(e) => onFilterChange(key, e.target.value)}
-        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-gray-500 focus:border-gray-500 bg-white"
+        className="px-4 py-3 border border-gray-600 text-sm focus:ring-1 focus:ring-white/20 focus:border-white/30 bg-gray-800 text-white font-medium"
       >
         <option value="">{placeholder}</option>
         {options.map((option) => (
@@ -166,7 +166,7 @@ export default function SearchFilters({
     type: 'number' | 'text' = 'number'
   ) => (
     <div className="flex flex-col">
-      <label htmlFor={key} className="text-sm font-medium text-gray-700 mb-1">
+      <label htmlFor={key} className="text-xs font-medium text-white mb-2 uppercase tracking-wider">
         {label}
       </label>
       <input
@@ -175,21 +175,21 @@ export default function SearchFilters({
         value={filters[key as keyof typeof filters]}
         onChange={(e) => onFilterChange(key, e.target.value)}
         placeholder={placeholder}
-        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-gray-500 focus:border-gray-500"
+        className="px-4 py-3 border border-gray-600 text-sm focus:ring-1 focus:ring-white/20 focus:border-white/30 bg-gray-800 text-white font-medium placeholder-gray-400"
       />
     </div>
   );
 
   const renderVerifiedToggle = () => (
     <div className="flex flex-col">
-      <label htmlFor="isVerified" className="text-sm font-medium text-gray-700 mb-1">
-        Verification
+      <label htmlFor="isVerified" className="text-xs font-medium text-white mb-2 uppercase tracking-wider">
+        VERIFICATION
       </label>
       <select
         id="isVerified"
         value={filters.isVerified}
         onChange={(e) => onFilterChange('isVerified', e.target.value)}
-        className="px-3 py-2 border border-gray-300 rounded-md text-sm focus:ring-2 focus:ring-gray-500 focus:border-gray-500 bg-white"
+        className="px-4 py-3 border border-gray-600 text-sm focus:ring-1 focus:ring-white/20 focus:border-white/30 bg-gray-800 text-white font-medium"
       >
         <option value="">All coaches</option>
         <option value="true">Verified only</option>
@@ -204,53 +204,54 @@ export default function SearchFilters({
       <div className="lg:hidden mb-4">
         <button
           onClick={() => setShowMobileFilters(!showMobileFilters)}
-          className="flex items-center justify-between w-full px-4 py-2 bg-white border border-gray-300 rounded-md text-left hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-gray-500"
+          className="flex items-center justify-between w-full px-6 py-4 bg-black border border-gray-600 text-left hover:bg-gray-900 focus:outline-none focus:ring-1 focus:ring-white/20"
         >
           <span className="flex items-center">
-            <svg className="w-5 h-5 mr-2 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
+            <svg className="w-5 h-5 mr-3 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z" />
             </svg>
-            Filters
+            <span className="font-medium text-white uppercase tracking-wider">FILTERS</span>
             {hasActiveFilters && (
-              <span className="ml-2 inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-gray-100 text-gray-800">
-                Active
+              <span className="ml-3 inline-flex items-center px-2 py-1 text-xs font-medium bg-white text-black">
+                ACTIVE
               </span>
             )}
           </span>
           <svg
-            className={`w-5 h-5 text-gray-400 transition-transform ${
+            className={`w-5 h-5 text-white transition-transform ${
               showMobileFilters ? 'rotate-180' : ''
             }`}
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
+            strokeWidth={1.5}
           >
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+            <path strokeLinecap="round" strokeLinejoin="round" d="M19 9l-7 7-7-7" />
           </svg>
         </button>
       </div>
 
       {/* Filters Container */}
-      <div className={`bg-white rounded-lg border border-gray-200 p-6 ${
+      <div className={`bg-black border border-gray-600 p-6 ${
         showMobileFilters ? 'block' : 'hidden lg:block'
       }`}>
-        <div className="flex items-center justify-between mb-4">
-          <h3 className="text-lg font-semibold text-gray-900">Filter Coaches</h3>
+        <div className="flex items-center justify-between mb-6 pb-4 border-b border-gray-700">
+          <h3 className="text-lg font-medium text-white uppercase tracking-wider">FILTER CHAMPIONS</h3>
           {hasActiveFilters && (
             <button
               onClick={onClearFilters}
-              className="text-sm text-gray-600 hover:text-gray-800 font-medium flex items-center"
+              className="text-sm text-gray-400 hover:text-white font-medium flex items-center uppercase tracking-wider transition-colors duration-200"
             >
-              <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
               </svg>
-              Clear all
+              CLEAR ALL
             </button>
           )}
         </div>
 
         {/* Filter Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
           {/* Sport Filter */}
           {renderSelect('sport', 'Sport', availableOptions.sports, 'Any sport')}
 
@@ -274,9 +275,9 @@ export default function SearchFilters({
         </div>
 
         {/* Advanced Filters */}
-        <div className="mt-6 pt-4 border-t border-gray-200">
-          <h4 className="text-sm font-medium text-gray-700 mb-3">Advanced Filters</h4>
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="mt-8 pt-6 border-t border-gray-700">
+          <h4 className="text-sm font-medium text-white mb-4 uppercase tracking-wider">ADVANCED FILTERS</h4>
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             {/* Minimum Rating */}
             {renderRangeInput('minRating', 'Min Rating', '0 - 5 stars')}
 
@@ -287,7 +288,7 @@ export default function SearchFilters({
 
         {/* Active Filters Summary */}
         {hasActiveFilters && (
-          <div className="mt-4 pt-4 border-t border-gray-200">
+          <div className="mt-6 pt-6 border-t border-gray-700">
             <div className="flex flex-wrap gap-2">
               {Object.entries(filters).map(([key, value]) => {
                 if (!value || key === 'sortBy' || key === 'sortOrder') return null;
@@ -300,12 +301,12 @@ export default function SearchFilters({
                 return (
                   <span
                     key={key}
-                    className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-gray-100 text-gray-800"
+                    className="inline-flex items-center px-3 py-1 text-sm font-medium bg-white text-black"
                   >
-                    {displayValue}
+                    {displayValue.toString()}
                     <button
                       onClick={() => onFilterChange(key, '')}
-                      className="ml-2 hover:text-gray-600"
+                      className="ml-2 hover:text-gray-600 transition-colors duration-200"
                     >
                       <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z" clipRule="evenodd" />
