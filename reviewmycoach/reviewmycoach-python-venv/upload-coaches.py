@@ -155,9 +155,21 @@ def parse_pdf(path, output_txt=None):
 
     lines = text.splitlines()
     
-    # Method 1: Try single-line format first (original logic)
+    # Method 1: Try single-line format first (original logic)  
     single_line_entries = []
-    for line in lines:
+    current_sport_section = None  # Track current sport section
+    
+    for i, line in enumerate(lines):
+        # Check if this line is a sport section header
+        line_stripped = line.strip()
+        sport_section_match = re.match(r'^([A-Z\s&]+(?:\([^)]+\))?)$', line_stripped)
+        if sport_section_match and any(sport in line_stripped.lower() for sport in 
+                                      ['baseball', 'basketball', 'soccer', 'football', 'swimming', 
+                                       'volleyball', 'lacrosse', 'track', 'field hockey', 'cross country', 'softball']):
+            current_sport_section = line_stripped
+            print(f"🏃‍♂️ Found sport section: {current_sport_section}")
+            continue
+        
         m = re.search(r'[\w\.-]+@[\w\.-]+\.\w+', line)
         if not m:
             continue
@@ -191,7 +203,8 @@ def parse_pdf(path, output_txt=None):
             "email":      email,
             "username":   username,
             "full_line":  line.strip(),
-            "role": "coach"
+            "role": "coach",
+            "sport_section": current_sport_section  # Add sport context
         }
         
         if phone_number:
@@ -320,42 +333,84 @@ def map_to_coach_profile(entry, pdf_info=None):
     """
     Map scraped coach data to ReviewMyCoach coach profile structure.
     """
-    # Extract sport from role if possible
+    # Extract sport from sport section context first, then from role text
     sports = []
+    sport_section = entry.get('sport_section', '').lower() if entry.get('sport_section') else ''
     role_text = entry.get('full_line', '').lower()
-    sport_keywords = {
-        'soccer': 'Soccer',
-        'football': 'Soccer',  # In case they use "football" to mean soccer
-        'men\'s soccer': 'Soccer',
-        'mens soccer': 'Soccer',
-        'goalkeeper': 'Soccer',
-        'goalie': 'Soccer',
-        'midfielder': 'Soccer',
-        'defender': 'Soccer',
-        'forward': 'Soccer',
-        'striker': 'Soccer',
-        # Keep other common sports as fallback
-        'baseball': 'Baseball',
-        'basketball': 'Basketball',
-        'tennis': 'Tennis',
-        'swimming': 'Swimming',
-        'track': 'Track & Field',
-        'field': 'Track & Field',
-        'cross country': 'Cross Country',
-        'volleyball': 'Volleyball',
-        'golf': 'Golf',
-        'wrestling': 'Wrestling',
-        'lacrosse': 'Lacrosse',
-        'softball': 'Softball',
-        'hockey': 'Hockey',
-        'rowing': 'Rowing',
-        'strength': 'Strength & Conditioning',
-        'conditioning': 'Strength & Conditioning'
-    }
     
-    for keyword, sport in sport_keywords.items():
-        if keyword in role_text and sport not in sports:
-            sports.append(sport)
+    # Map sport sections to sports
+    if sport_section:
+        if 'basketball' in sport_section:
+            if 'men' in sport_section:
+                sports.append('Basketball (Men)')
+            elif 'women' in sport_section:
+                sports.append('Basketball (Women)')
+            else:
+                sports.append('Basketball')
+        elif 'soccer' in sport_section:
+            if 'men' in sport_section:
+                sports.append('Soccer (Men)')
+            elif 'women' in sport_section:
+                sports.append('Soccer (Women)')
+            else:
+                sports.append('Soccer')
+        elif 'football' in sport_section:
+            sports.append('Football')
+        elif 'baseball' in sport_section:
+            sports.append('Baseball')
+        elif 'softball' in sport_section:
+            sports.append('Softball')
+        elif 'swimming' in sport_section:
+            sports.append('Swimming')
+        elif 'track' in sport_section or 'field' in sport_section:
+            sports.append('Track & Field')
+        elif 'cross country' in sport_section:
+            sports.append('Cross Country')
+        elif 'volleyball' in sport_section:
+            sports.append('Volleyball')
+        elif 'lacrosse' in sport_section:
+            if 'women' in sport_section:
+                sports.append('Lacrosse (Women)')
+            else:
+                sports.append('Lacrosse')
+        elif 'field hockey' in sport_section:
+            sports.append('Field Hockey')
+    
+    # Fallback to role text analysis if no sport section context
+    if not sports:
+        sport_keywords = {
+            'soccer': 'Soccer',
+            'football': 'Soccer',  # In case they use "football" to mean soccer
+            'men\'s soccer': 'Soccer',
+            'mens soccer': 'Soccer',
+            'goalkeeper': 'Soccer',
+            'goalie': 'Soccer',
+            'midfielder': 'Soccer',
+            'defender': 'Soccer',
+            'forward': 'Soccer',
+            'striker': 'Soccer',
+            # Keep other common sports as fallback
+            'baseball': 'Baseball',
+            'basketball': 'Basketball',
+            'tennis': 'Tennis',
+            'swimming': 'Swimming',
+            'track': 'Track & Field',
+            'field': 'Track & Field',
+            'cross country': 'Cross Country',
+            'volleyball': 'Volleyball',
+            'golf': 'Golf',
+            'wrestling': 'Wrestling',
+            'lacrosse': 'Lacrosse',
+            'softball': 'Softball',
+            'hockey': 'Hockey',
+            'rowing': 'Rowing',
+            'strength': 'Strength & Conditioning',
+            'conditioning': 'Strength & Conditioning'
+        }
+        
+        for keyword, sport in sport_keywords.items():
+            if keyword in role_text and sport not in sports:
+                sports.append(sport)
     
     # Use PDF info to determine default sport and organization
     default_sport = 'Soccer'  # Default fallback
@@ -363,7 +418,7 @@ def map_to_coach_profile(entry, pdf_info=None):
         if 'bryant' in pdf_info.get('university', '').lower() and 'soccer' in pdf_info.get('source', '').lower():
             default_sport = 'Soccer'
         elif 'rowan' in pdf_info.get('university', '').lower():
-            # For Rowan, don't default to any sport - let the role text determine it
+            # For Rowan, don't default to any sport - let the section/role text determine it
             default_sport = None
     
     # Apply default sport logic
