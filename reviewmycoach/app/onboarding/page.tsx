@@ -6,13 +6,14 @@ import { doc, setDoc } from 'firebase/firestore';
 import { auth, db } from '../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 
-type OnboardingStep = 'username' | 'role' | 'claim_check' | 'claim_profile' | 'identity_verify' | 'loading';
+type OnboardingStep = 'username' | 'role' | 'coach_options' | 'claim_check' | 'claim_profile' | 'identity_verify' | 'loading';
 
 export default function Onboarding() {
   const [currentStep, setCurrentStep] = useState<OnboardingStep>('username');
   const [username, setUsername] = useState('');
   const [usernameError, setUsernameError] = useState('');
   const [selectedRole, setSelectedRole] = useState<'student' | 'coach' | null>(null);
+  const [coachChoice, setCoachChoice] = useState<'claim' | 'create' | null>(null);
   const [loading, setLoading] = useState(false);
   const [user, setUser] = useState<User | null>(null);
   const [authLoading, setAuthLoading] = useState(true);
@@ -107,6 +108,39 @@ export default function Onboarding() {
   const handleRoleSelection = async () => {
     if (!selectedRole || !user || !username) return;
     
+    if (selectedRole === 'coach') {
+      // For coaches, show coach options (claim vs create)
+      setCurrentStep('coach_options');
+      
+      // Check for claimable profiles
+      try {
+        const response = await fetch('/api/coaches/claim', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ 
+            email: user.email,
+            checkOnly: true 
+          })
+        });
+        
+        if (response.ok) {
+          const data = await response.json();
+          if (data.claimableProfiles && data.claimableProfiles.length > 0) {
+            setClaimableProfiles(data.claimableProfiles);
+          }
+        }
+      } catch (error) {
+        console.error('Error checking claimable profiles:', error);
+      }
+    } else {
+      // For students, complete onboarding immediately
+      await completeStudentOnboarding();
+    }
+  };
+
+  const completeStudentOnboarding = async () => {
+    if (!selectedRole || !user || !username) return;
+    
     setLoading(true);
     setCurrentStep('loading');
     
@@ -120,53 +154,94 @@ export default function Onboarding() {
         updatedAt: new Date()
       }, { merge: true });
 
-      // If user selected coach, create a public coach profile
-      if (selectedRole === 'coach') {
-        const coachRef = doc(db, 'coaches', username.toLowerCase());
-        await setDoc(coachRef, {
-          userId: user.uid,
-          username: username.toLowerCase(),
-          displayName: user.displayName || username,
-          email: user.email,
-          bio: '',
-          sports: [],
-          experience: 0,
-          certifications: [],
-          hourlyRate: 0,
-          location: '',
-          availability: [],
-          specialties: [],
-          languages: ['English'],
-          organization: '',
-          role: '',
-          gender: '',
-          ageGroup: [],
-          sourceUrl: '',
-          averageRating: 0,
-          totalReviews: 0,
-          isVerified: false,
-          isClaimed: true,
-          claimedAt: new Date(),
-          profileImage: '',
-          phoneNumber: '',
-          website: '',
-          socialMedia: {
-            instagram: '',
-            twitter: '',
-            linkedin: ''
-          },
-          createdAt: new Date(),
-          updatedAt: new Date(),
-          profileCompleted: false
-        });
-      }
-
       // Redirect to dashboard
       router.push('/dashboard');
     } catch (error) {
       console.error('Error updating user role:', error);
       alert(`Error updating profile: ${error instanceof Error ? error.message : 'Unknown error'}`);
       setCurrentStep('role');
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleCoachChoice = async () => {
+    if (!coachChoice || !user || !username) return;
+
+    if (coachChoice === 'claim') {
+      if (claimableProfiles.length > 0) {
+        setCurrentStep('claim_check');
+      } else {
+        alert('No claimable profiles found for your email address.');
+        return;
+      }
+    } else {
+      // Create new profile
+      await createNewCoachProfile();
+    }
+  };
+
+  const createNewCoachProfile = async () => {
+    if (!user || !username) return;
+    
+    setLoading(true);
+    setCurrentStep('loading');
+    
+    try {
+      const userRef = doc(db, 'users', user.uid);
+      
+      // Update user document with role
+      await setDoc(userRef, {
+        role: 'coach',
+        onboardingCompleted: true,
+        updatedAt: new Date()
+      }, { merge: true });
+
+      // Create a new public coach profile
+      const coachRef = doc(db, 'coaches', username.toLowerCase());
+      await setDoc(coachRef, {
+        userId: user.uid,
+        username: username.toLowerCase(),
+        displayName: user.displayName || username,
+        email: user.email,
+        bio: '',
+        sports: [],
+        experience: 0,
+        certifications: [],
+        hourlyRate: 0,
+        location: '',
+        availability: [],
+        specialties: [],
+        languages: ['English'],
+        organization: '',
+        role: '',
+        gender: '',
+        ageGroup: [],
+        sourceUrl: '',
+        averageRating: 0,
+        totalReviews: 0,
+        isVerified: false,
+        isClaimed: true,
+        claimedAt: new Date(),
+        profileImage: '',
+        phoneNumber: '',
+        website: '',
+        socialMedia: {
+          instagram: '',
+          twitter: '',
+          linkedin: ''
+        },
+        createdAt: new Date(),
+        updatedAt: new Date(),
+        profileCompleted: false
+      });
+
+      // Redirect to dashboard
+      router.push('/dashboard');
+    } catch (error) {
+      console.error('Error creating coach profile:', error);
+      alert(`Error creating profile: ${error instanceof Error ? error.message : 'Unknown error'}`);
+      setCurrentStep('coach_options');
     } finally {
       setLoading(false);
     }
@@ -181,12 +256,9 @@ export default function Onboarding() {
     }, 300);
   };
 
-  const handleSkipClaiming = () => {
-    setFadeClass('opacity-0');
-    setTimeout(() => {
-      setCurrentStep('role');
-      setFadeClass('opacity-100');
-    }, 300);
+  const handleSkipClaiming = async () => {
+    // Create new profile instead of claiming
+    await createNewCoachProfile();
   };
 
   const handleIdentityVerification = async (e: React.FormEvent) => {
@@ -448,6 +520,129 @@ export default function Onboarding() {
     </div>
   );
 
+  const renderCoachOptionsStep = () => (
+    <div className={`transition-opacity duration-300 ${fadeClass}`}>
+      <div className="space-y-6">
+        <div>
+          <h3 className="text-lg font-medium text-gray-900 mb-4">
+            Coach Profile Setup
+          </h3>
+          <p className="text-sm text-gray-600 mb-6">
+            {claimableProfiles.length > 0 
+              ? `We found ${claimableProfiles.length} existing coach profile(s) associated with your email address. Would you like to claim one of these profiles or create a new one?`
+              : 'Would you like to create a new coach profile?'
+            }
+          </p>
+          
+          <div className="space-y-4">
+            {claimableProfiles.length > 0 && (
+              <div
+                onClick={() => setCoachChoice('claim')}
+                className={`relative rounded-lg border p-4 cursor-pointer transition-all ${
+                  coachChoice === 'claim'
+                    ? 'border-blue-500 bg-blue-50'
+                    : 'border-gray-300 hover:border-gray-400'
+                }`}
+              >
+                <div className="flex items-center">
+                  <div className="flex-shrink-0">
+                    <div className={`w-5 h-5 rounded-full border-2 flex items-center justify-center ${
+                      coachChoice === 'claim'
+                        ? 'border-blue-500 bg-blue-500'
+                        : 'border-gray-300'
+                    }`}>
+                      {coachChoice === 'claim' && (
+                        <div className="w-2 h-2 rounded-full bg-white"></div>
+                      )}
+                    </div>
+                  </div>
+                  <div className="ml-3 flex-1">
+                    <div className="flex items-center">
+                      <svg className="w-6 h-6 text-blue-600 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                      </svg>
+                      <div>
+                        <h4 className="text-sm font-medium text-gray-900">Claim Existing Profile</h4>
+                        <p className="text-sm text-gray-500">
+                          Claim one of the {claimableProfiles.length} existing profile(s) we found
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            )}
+
+            <div
+              onClick={() => setCoachChoice('create')}
+              className={`relative rounded-lg border p-4 cursor-pointer transition-all ${
+                coachChoice === 'create'
+                  ? 'border-green-500 bg-green-50'
+                  : 'border-gray-300 hover:border-gray-400'
+              }`}
+            >
+              <div className="flex items-center">
+                <div className="flex-shrink-0">
+                  <div className={`w-5 h-5 rounded-full border-2 flex items-center justify-center ${
+                    coachChoice === 'create'
+                      ? 'border-green-500 bg-green-500'
+                      : 'border-gray-300'
+                  }`}>
+                    {coachChoice === 'create' && (
+                      <div className="w-2 h-2 rounded-full bg-white"></div>
+                    )}
+                  </div>
+                </div>
+                <div className="ml-3 flex-1">
+                  <div className="flex items-center">
+                    <svg className="w-6 h-6 text-green-600 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                    </svg>
+                    <div>
+                      <h4 className="text-sm font-medium text-gray-900">Create New Profile</h4>
+                      <p className="text-sm text-gray-500">
+                        Start fresh with a new coach profile
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="flex space-x-4">
+          <button
+            onClick={() => {
+              setFadeClass('opacity-0');
+              setTimeout(() => {
+                setCurrentStep('role');
+                setCoachChoice(null);
+                setFadeClass('opacity-100');
+              }, 300);
+            }}
+            className="flex-1 py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500"
+          >
+            Back
+          </button>
+          <button
+            onClick={handleCoachChoice}
+            disabled={!coachChoice || loading}
+            className="flex-1 flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            {loading ? (
+              <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+              </svg>
+            ) : null}
+            {coachChoice === 'claim' ? 'Continue to Claim' : 'Create Profile'}
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+
   const renderLoadingStep = () => (
     <div className="text-center py-8">
       <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600 mx-auto mb-4"></div>
@@ -494,8 +689,20 @@ export default function Onboarding() {
 
         <div className="flex space-x-4">
           <button
-            onClick={handleSkipClaiming}
+            onClick={() => {
+              setFadeClass('opacity-0');
+              setTimeout(() => {
+                setCurrentStep('coach_options');
+                setFadeClass('opacity-100');
+              }, 300);
+            }}
             className="flex-1 py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
+          >
+            Back
+          </button>
+          <button
+            onClick={handleSkipClaiming}
+            className="flex-1 py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-green-600 hover:bg-green-700"
           >
             Create New Profile Instead
           </button>
@@ -652,6 +859,7 @@ export default function Onboarding() {
         <p className="mt-2 text-center text-sm text-gray-600">
           {currentStep === 'username' && "Let's start by setting up your username"}
           {currentStep === 'role' && "Now, tell us what brings you here"}
+          {currentStep === 'coach_options' && "Choose your coach profile setup"}
           {currentStep === 'claim_check' && "We found existing profiles for you!"}
           {currentStep === 'identity_verify' && "Identity verification required"}
           {currentStep === 'loading' && "Setting up your profile..."}
@@ -662,6 +870,7 @@ export default function Onboarding() {
         <div className="bg-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
           {currentStep === 'username' && renderUsernameStep()}
           {currentStep === 'role' && renderRoleStep()}
+          {currentStep === 'coach_options' && renderCoachOptionsStep()}
           {currentStep === 'claim_check' && renderClaimCheckStep()}
           {currentStep === 'identity_verify' && renderIdentityVerifyStep()}
           {currentStep === 'loading' && renderLoadingStep()}
