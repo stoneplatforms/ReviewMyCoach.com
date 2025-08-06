@@ -169,7 +169,7 @@ export default function Onboarding() {
     if (!coachChoice || !user || !username) return;
 
     if (coachChoice === 'claim') {
-      if (claimableProfiles.length > 0) {
+      if (claimableProfiles && claimableProfiles.length > 0) {
         setCurrentStep('claim_check');
       } else {
         alert('No claimable profiles found for your email address.');
@@ -528,14 +528,14 @@ export default function Onboarding() {
             Coach Profile Setup
           </h3>
           <p className="text-sm text-gray-600 mb-6">
-            {claimableProfiles.length > 0 
+            {claimableProfiles && claimableProfiles.length > 0 
               ? `We found ${claimableProfiles.length} existing coach profile(s) associated with your email address. Would you like to claim one of these profiles or create a new one?`
               : 'Would you like to create a new coach profile?'
             }
           </p>
           
           <div className="space-y-4">
-            {claimableProfiles.length > 0 && (
+            {claimableProfiles && claimableProfiles.length > 0 && (
               <div
                 onClick={() => setCoachChoice('claim')}
                 className={`relative rounded-lg border p-4 cursor-pointer transition-all ${
@@ -564,7 +564,7 @@ export default function Onboarding() {
                       <div>
                         <h4 className="text-sm font-medium text-gray-900">Claim Existing Profile</h4>
                         <p className="text-sm text-gray-500">
-                          Claim one of the {claimableProfiles.length} existing profile(s) we found
+                          Claim one of the {claimableProfiles?.length || 0} existing profile(s) we found
                         </p>
                       </div>
                     </div>
@@ -659,12 +659,12 @@ export default function Onboarding() {
             We found existing coach profiles for your email!
           </h3>
           <p className="text-sm text-gray-600 mb-6">
-            We found {claimableProfiles.length} coach profile(s) associated with your email address. 
+            We found {claimableProfiles?.length || 0} coach profile(s) associated with your email address. 
             You can claim one of these profiles or create a new one.
           </p>
           
           <div className="space-y-4">
-            {claimableProfiles.map((profile, index) => (
+            {claimableProfiles && claimableProfiles.map((profile, index) => (
               <div key={profile.username} className="border border-gray-300 rounded-lg p-4 hover:border-gray-400 transition-colors">
                 <div className="flex items-start justify-between">
                   <div className="flex-1">
