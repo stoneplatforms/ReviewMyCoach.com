@@ -28,6 +28,7 @@ export default function Onboarding() {
     driversLicense: null as File | null
   });
   const router = useRouter();
+  const [claimInProgress, setClaimInProgress] = useState(false);
 
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged((user) => {
@@ -261,6 +262,70 @@ export default function Onboarding() {
     await createNewCoachProfile();
   };
 
+  const sendEmailVerificationRequest = async () => {
+    if (!user) return;
+    try {
+      setLoading(true);
+      const idToken = await user.getIdToken();
+      const res = await fetch('/api/account/verify-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ idToken })
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data?.error || 'Failed to send verification email');
+      alert('Verification email sent. Please verify and then return to claim your profile.');
+    } catch (err) {
+      alert((err as Error).message);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const attemptAutoClaim = async () => {
+    if (!user || !selectedProfile || claimInProgress) return;
+    try {
+      setClaimInProgress(true);
+      await user.reload();
+      if (!user.emailVerified) {
+        setClaimInProgress(false);
+        return;
+      }
+      const token = await user.getIdToken();
+      const claimResponse = await fetch('/api/coaches/claim', {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${token}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ coachUsername: selectedProfile.username })
+      });
+      if (!claimResponse.ok) {
+        const data = await claimResponse.json().catch(() => ({}));
+        throw new Error(data?.message || data?.error || 'Failed to claim profile');
+      }
+      router.push('/dashboard?claimed=true&verified=email');
+    } catch (err) {
+      console.error('Auto-claim error:', err);
+      alert((err as Error).message);
+      setClaimInProgress(false);
+    }
+  };
+
+  useEffect(() => {
+    if (currentStep !== 'identity_verify' || !user || !selectedProfile) return;
+    let isMounted = true;
+    const interval = setInterval(async () => {
+      if (!isMounted) return;
+      await attemptAutoClaim();
+    }, 5000);
+    // Initial immediate attempt as well
+    attemptAutoClaim();
+    return () => {
+      isMounted = false;
+      clearInterval(interval);
+    };
+  }, [currentStep, user, selectedProfile]);
   const handleIdentityVerification = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!selectedProfile || !user || !identityVerificationData.driversLicense) return;
@@ -711,6 +776,26 @@ export default function Onboarding() {
     </div>
   );
 
+  const sendEmailVerification = async () => {
+    if (!user) return;
+    try {
+      setLoading(true);
+      const idToken = await user.getIdToken();
+      const res = await fetch('/api/account/verify-email', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ idToken })
+      });
+      const data = await res.json();
+      if (!res.ok) throw new Error(data?.error || 'Failed to send verification email');
+      alert('Verification email sent. Please verify and then return to claim your profile.');
+    } catch (err) {
+      alert((err as Error).message);
+    } finally {
+      setLoading(false);
+    }
+  };
+
   const renderIdentityVerifyStep = () => (
     <div className={`transition-opacity duration-300 ${fadeClass}`}>
       <form onSubmit={handleIdentityVerification} className="space-y-6">
@@ -720,10 +805,29 @@ export default function Onboarding() {
           </h3>
           <p className="text-sm text-gray-600 mb-6">
             To claim the profile for <strong>{selectedProfile?.displayName}</strong>, 
-            we need to verify your identity using your driver's license.
+            verify your identity. Best option: verify your school email, then we will auto-claim once verified.
           </p>
           
           <div className="space-y-4">
+            <div className="border border-gray-200 rounded-md p-4">
+              <div className="flex items-start justify-between">
+                <div>
+                  <p className="font-medium text-gray-900">Verify your school email</p>
+                  <p className="text-sm text-gray-600">We will send a verification email to your school address. Once verified, you can claim instantly.</p>
+                </div>
+                <button type="button" onClick={sendEmailVerificationRequest} disabled={loading} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50">
+                  Send Verification Email
+                </button>
+              </div>
+            </div>
+
+            <div className="flex items-center justify-between bg-blue-50 border border-blue-200 rounded-md p-3">
+              <p className="text-sm text-blue-800">Already verified your email? We will detect it automatically, or you can click below.</p>
+              <button type="button" onClick={attemptAutoClaim} disabled={claimInProgress} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-blue-700 bg-white hover:bg-blue-50 disabled:opacity-50">
+                I've Verified – Claim Now
+              </button>
+            </div>
+
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
                 Full Name (as it appears on your license)
@@ -788,9 +892,21 @@ export default function Onboarding() {
               />
             </div>
 
-            <div>
+            <div className="border border-gray-200 rounded-md p-4">
+              <div className="flex items-start justify-between">
+                <div>
+                  <p className="font-medium text-gray-900">Verify your school email</p>
+                  <p className="text-sm text-gray-600">We will send a verification email to your school address. Once verified, you can claim instantly.</p>
+                </div>
+                <button type="button" onClick={sendEmailVerification} disabled={loading} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50">
+                  Send Verification Email
+                </button>
+              </div>
+            </div>
+
+            <div className="border-t pt-4">
               <label className="block text-sm font-medium text-gray-700 mb-2">
-                Driver's License Photo
+                Or upload Driver's License Photo (manual review)
               </label>
               <input
                 type="file"
@@ -837,7 +953,7 @@ export default function Onboarding() {
                 Verifying...
               </>
             ) : (
-              'Claim Profile & Verify Identity'
+              'Claim Profile & Submit ID for Review'
             )}
           </button>
         </div>

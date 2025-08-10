@@ -84,6 +84,7 @@ export async function POST(req: NextRequest) {
     const decodedToken = await auth.verifyIdToken(token);
     const userId = decodedToken.uid;
     const userEmail = decodedToken.email;
+    const emailVerified = Boolean((decodedToken as any).email_verified);
 
     const { coachUsername, verificationData } = await req.json();
 
@@ -117,12 +118,21 @@ export async function POST(req: NextRequest) {
       }, { status: 400 });
     }
 
-    // Update the coach profile to mark as claimed
+    // Require the user's email to be verified (school email control)
+    if (!emailVerified) {
+      return NextResponse.json({ 
+        error: 'Email not verified',
+        message: 'Please verify your school email before claiming this profile'
+      }, { status: 400 });
+    }
+
+    // Update the coach profile to mark as claimed and verified via email
     await coachRef.update({
       userId: userId,
       isClaimed: true,
       claimedAt: new Date(),
-      verificationStatus: 'in_review',
+      verificationStatus: 'verified',
+      verificationMethod: 'email',
       updatedAt: new Date()
     });
 

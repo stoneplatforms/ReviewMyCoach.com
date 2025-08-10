@@ -47,7 +47,7 @@ const SPORTS_CONFIG: SportConfig[] = [
     name: 'Swimming',
     searchTerm: 'swimming',
     emoji: '🏊',
-    gradient: 'from-blue-500 to-cyan-500',
+    gradient: 'from-neutral-700 to-neutral-500',
     backgroundImage: '/sports/swimming.jpg',
     gridClass: 'col-span-1 row-span-2',
     textSize: 'text-5xl mb-3'
@@ -110,7 +110,7 @@ const SPORTS_CONFIG: SportConfig[] = [
     name: 'Cycling',
     searchTerm: 'cycling',
     emoji: '🚴',
-    gradient: 'from-cyan-500 to-blue-500',
+    gradient: 'from-neutral-700 to-neutral-500',
     backgroundImage: '/sports/cycling.jpg',
     gridClass: 'col-span-2 row-span-1',
     textSize: 'text-5xl mb-3'
@@ -164,7 +164,7 @@ const SPORTS_CONFIG: SportConfig[] = [
     name: 'Skiing',
     searchTerm: 'skiing',
     emoji: '🎿',
-    gradient: 'from-blue-600 to-indigo-600',
+    gradient: 'from-neutral-700 to-neutral-600',
     backgroundImage: '/sports/skiing.jpg',
     gridClass: 'col-span-1 row-span-1',
     textSize: 'text-4xl mb-2'
@@ -182,7 +182,7 @@ const SPORTS_CONFIG: SportConfig[] = [
     name: 'Hockey',
     searchTerm: 'hockey',
     emoji: '🏒',
-    gradient: 'from-slate-500 to-blue-600',
+    gradient: 'from-neutral-700 to-neutral-600',
     backgroundImage: '/sports/hockey.jpg',
     gridClass: 'col-span-1 row-span-1',
     textSize: 'text-4xl mb-2'

@@ -135,7 +135,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
           <svg
             key={star}
             className={`${sizeClasses[size]} ${
-              star <= rating ? 'text-yellow-400' : 'text-gray-300'
+              star <= rating ? 'text-neutral-300' : 'text-neutral-700'
             }`}
             fill="currentColor"
             viewBox="0 0 20 20"
@@ -143,7 +143,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
             <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
           </svg>
         ))}
-        <span className={`ml-2 text-gray-600 ${size === 'sm' ? 'text-xs' : size === 'lg' ? 'text-base' : 'text-sm'}`}>
+        <span className={`ml-2 text-neutral-400 ${size === 'sm' ? 'text-xs' : size === 'lg' ? 'text-base' : 'text-sm'}`}>
           {rating.toFixed(1)}
         </span>
       </div>
@@ -166,13 +166,13 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
   };
 
   return (
-    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10 bg-neutral-950 text-neutral-200 min-h-screen">
       {/* Hero Section */}
-      <div className="bg-white rounded-lg shadow-lg p-8 mb-8">
-        <div className="flex flex-col md:flex-row items-start md:items-center gap-6">
+      <div className="bg-neutral-900/80 border border-neutral-800 rounded-2xl p-8 mb-10 shadow-2xl shadow-black/40 backdrop-blur-sm">
+        <div className="flex flex-col md:flex-row items-start md:items-center gap-8">
           {/* Profile Image */}
           <div className="relative">
-            <div className="w-32 h-32 bg-gray-200 rounded-full flex items-center justify-center overflow-hidden">
+            <div className="w-32 h-32 bg-neutral-800 rounded-full flex items-center justify-center overflow-hidden ring-2 ring-neutral-700">
               {coach.profileImage ? (
                 <Image
                   src={coach.profileImage}
@@ -182,13 +182,13 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   className="w-full h-full object-cover"
                 />
               ) : (
-                <svg className="w-16 h-16 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-16 h-16 text-neutral-500" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
                 </svg>
               )}
             </div>
             {coach.isVerified && (
-              <div className="absolute -bottom-1 -right-1 bg-green-500 rounded-full p-1">
+              <div className="absolute -bottom-1 -right-1 bg-emerald-500 rounded-full p-1">
                 <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
@@ -196,22 +196,44 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
             )}
           </div>
 
+          {/* Big Rating Score next to profile image */}
+          <div className="flex items-end gap-4">
+            <div>
+              <div className="text-6xl md:text-8xl font-extrabold leading-none tracking-tight bg-clip-text text-transparent bg-gradient-to-b from-neutral-100 to-neutral-400">
+                {(ratingStats.averageRating || coach.averageRating).toFixed(1)}
+              </div>
+              <div className="mt-2 text-sm text-neutral-400">Average rating</div>
+            </div>
+            <button
+              onClick={handleWriteReview}
+              className="self-center md:self-end rounded-full px-5 py-2 text-sm font-medium bg-neutral-100 text-neutral-900 hover:bg-white transition-colors"
+            >
+              Write a review
+            </button>
+          </div>
+
           {/* Coach Info */}
           <div className="flex-1">
             <div className="flex items-center gap-3 mb-2">
-              <h1 className="text-3xl font-bold text-gray-900">{coach.displayName}</h1>
+              <h1 className="text-3xl font-bold text-neutral-100 tracking-tight">{coach.displayName}</h1>
               {coach.isVerified && (
-                <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-green-100 text-green-800">
+                <span className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-emerald-900/40 text-emerald-300 border border-emerald-800">
                   Verified Coach
                 </span>
               )}
             </div>
             
-            <div className="flex items-center gap-4 mb-3">
+            <div className="flex items-center gap-4 mb-4">
               {renderStarRating(ratingStats.averageRating || coach.averageRating, 'lg')}
-              <span className="text-gray-600">({ratingStats.totalReviews || coach.totalReviews} reviews)</span>
+              <button
+                onClick={handleWriteReview}
+                className="px-4 py-1.5 bg-neutral-800 text-neutral-100 rounded-full hover:bg-neutral-700 transition-colors border border-neutral-700 text-sm"
+              >
+                Write a review
+              </button>
+              <span className="text-neutral-500">({ratingStats.totalReviews || coach.totalReviews})</span>
               {reviewsLoading && (
-                <div className="flex items-center text-blue-500">
+                <div className="flex items-center text-neutral-400">
                   <svg className="animate-spin w-4 h-4 mr-1" fill="none" viewBox="0 0 24 24">
                     <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
                     <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
@@ -221,7 +243,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
               )}
             </div>
 
-            <div className="flex flex-wrap items-center gap-4 text-gray-600 mb-4">
+            <div className="flex flex-wrap items-center gap-4 text-neutral-400 mb-4">
               {coach.role && (
                 <div className="flex items-center">
                   <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -243,7 +265,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                   <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                   </svg>
-                  <a href={`mailto:${coach.email}`} className="text-blue-600 hover:text-blue-800 transition-colors">
+                  <a href={`mailto:${coach.email}`} className="text-neutral-300 hover:text-neutral-100 transition-colors">
                     {coach.email}
                   </a>
                 </div>
@@ -264,7 +286,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                 {coach.experience} years experience
               </div>
               {coach.hourlyRate > 0 && (
-                <div className="flex items-center font-semibold text-green-600">
+                <div className="flex items-center font-semibold text-emerald-400">
                   <svg className="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1" />
                   </svg>
@@ -274,11 +296,11 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
             </div>
 
             {/* Sports Tags */}
-            <div className="flex flex-wrap gap-2 mb-4">
+            <div className="flex flex-wrap gap-2.5 mb-6">
               {coach.sports.map((sport: string) => (
                 <span
                   key={sport}
-                  className="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
+                  className="inline-flex items-center px-3 py-1.5 rounded-full text-xs font-medium bg-neutral-800/80 text-neutral-200 border border-neutral-700 shadow-inner"
                 >
                   {sport}
                 </span>
@@ -290,7 +312,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
               {services.length > 0 && (
                 <button
                   onClick={handleBookSession}
-                  className="px-6 py-2 bg-green-600 text-white rounded-md hover:bg-green-700 transition-colors font-semibold"
+                  className="px-6 py-2 bg-neutral-100 text-neutral-900 rounded-full hover:bg-white transition-colors font-semibold"
                 >
                   Hire Coach
                 </button>
@@ -299,21 +321,21 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
               {user?.uid !== coach.userId && (
                 <button
                   onClick={() => setShowMessagingModal(true)}
-                  className="px-6 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors font-semibold"
+                  className="px-6 py-2 bg-neutral-800 text-neutral-100 rounded-full hover:bg-neutral-700 transition-colors font-semibold border border-neutral-700"
                 >
                   Message Coach
                 </button>
               )}
               <button
                 onClick={handleWriteReview}
-                className="px-6 py-2 border border-gray-300 text-gray-700 rounded-md hover:bg-gray-50 transition-colors"
+                className="px-6 py-2 bg-neutral-800 text-neutral-100 rounded-full hover:bg-neutral-700 transition-colors border border-neutral-700"
               >
                 Write Review
               </button>
               {coach.phoneNumber && (
                 <a
                   href={`tel:${coach.phoneNumber}`}
-                  className="px-6 py-2 border border-gray-300 text-gray-700 rounded-md hover:bg-gray-50 transition-colors"
+                  className="px-6 py-2 bg-neutral-800 text-neutral-100 rounded-full hover:bg-neutral-700 transition-colors border border-neutral-700"
                 >
                   Call
                 </a>
@@ -327,22 +349,22 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
         {/* Main Content */}
         <div className="lg:col-span-2 space-y-6">
           {/* About */}
-          <div className="bg-white rounded-lg shadow p-6">
-            <h2 className="text-xl font-semibold text-gray-900 mb-4">About</h2>
-            <p className="text-gray-700 leading-relaxed">
+          <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 shadow-xl shadow-black/30">
+            <h2 className="text-xl font-semibold text-neutral-100 mb-4">About</h2>
+            <p className="text-neutral-300 leading-relaxed">
               {coach.bio || "This coach hasn't added a bio yet."}
             </p>
           </div>
 
           {/* Specialties */}
           {coach.specialties.length > 0 && (
-            <div className="bg-white rounded-lg shadow p-6">
-              <h2 className="text-xl font-semibold text-gray-900 mb-4">Specialties</h2>
+            <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 shadow-xl shadow-black/30">
+              <h2 className="text-xl font-semibold text-neutral-100 mb-4">Specialties</h2>
               <div className="flex flex-wrap gap-2">
                 {coach.specialties.map((specialty: string) => (
                   <span
                     key={specialty}
-                    className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-purple-100 text-purple-800"
+                    className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-neutral-800 text-neutral-200 border border-neutral-700"
                   >
                     {specialty}
                   </span>
@@ -353,46 +375,46 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
           {/* Services */}
           {services.length > 0 && (
-            <div className="bg-white rounded-lg shadow p-6">
-              <h2 className="text-xl font-semibold text-gray-900 mb-4 flex items-center">
-                <svg className="w-5 h-5 text-green-500 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 shadow-xl shadow-black/30">
+              <h2 className="text-xl font-semibold text-neutral-100 mb-4 flex items-center">
+                <svg className="w-5 h-5 text-neutral-300 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
                 </svg>
                 Available Services
               </h2>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 {services.map((service) => (
-                  <div key={service.id} className="border border-gray-200 rounded-lg p-4 hover:border-green-300 transition-colors">
+                  <div key={service.id} className="border border-neutral-800 rounded-xl p-4 hover:border-neutral-600 transition-colors bg-neutral-950/40">
                     <div className="flex items-start justify-between mb-3">
-                      <h3 className="font-semibold text-gray-900">{service.title}</h3>
-                      <span className="text-lg font-bold text-green-600">${service.price}</span>
+                      <h3 className="font-semibold text-neutral-100">{service.title}</h3>
+                      <span className="text-lg font-bold text-neutral-100">${service.price}</span>
                     </div>
-                    <p className="text-gray-600 text-sm mb-3">{service.description}</p>
-                    <div className="flex items-center justify-between text-sm text-gray-500 mb-3">
+                    <p className="text-neutral-400 text-sm mb-3">{service.description}</p>
+                    <div className="flex items-center justify-between text-sm text-neutral-400 mb-3">
                       <span>{service.duration} minutes</span>
                       <span className="capitalize">{service.category.replace('-', ' ')}</span>
                     </div>
                     {service.deliverables.length > 0 && (
                       <div className="mb-3">
-                        <h4 className="text-xs font-medium text-gray-700 mb-1">What you get:</h4>
-                        <ul className="text-xs text-gray-600 space-y-0.5">
+                        <h4 className="text-xs font-medium text-neutral-300 mb-1">What you get:</h4>
+                        <ul className="text-xs text-neutral-400 space-y-0.5">
                           {service.deliverables.slice(0, 3).map((deliverable, index) => (
                             <li key={index} className="flex items-start">
-                              <svg className="w-3 h-3 text-green-500 mr-1 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <svg className="w-3 h-3 text-neutral-300 mr-1 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                               </svg>
                               {deliverable}
                             </li>
                           ))}
                           {service.deliverables.length > 3 && (
-                            <li className="text-gray-500">+{service.deliverables.length - 3} more...</li>
+                            <li className="text-neutral-500">+{service.deliverables.length - 3} more...</li>
                           )}
                         </ul>
                       </div>
                     )}
                     <button
                       onClick={handleBookSession}
-                      className="w-full px-4 py-2 bg-green-600 text-white text-sm rounded-md hover:bg-green-700 transition-colors"
+                      className="w-full px-4 py-2 bg-neutral-100 text-neutral-900 text-sm rounded-md hover:bg-white transition-colors"
                     >
                       Book This Service
                     </button>
@@ -404,20 +426,20 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
           {/* Certifications */}
           {coach.certifications.length > 0 && (
-            <div className="bg-white rounded-lg shadow p-6">
-              <h2 className="text-xl font-semibold text-gray-900 mb-4 flex items-center">
-                <svg className="w-5 h-5 text-blue-500 mr-2" fill="currentColor" viewBox="0 0 20 20">
+            <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 shadow-xl shadow-black/30">
+              <h2 className="text-xl font-semibold text-neutral-100 mb-4 flex items-center">
+                <svg className="w-5 h-5 text-neutral-300 mr-2" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
                 Certifications & Credentials
               </h2>
-                             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                 {coach.certifications.map((cert: string, index: number) => (
-                   <div key={index} className="flex items-center p-3 bg-blue-50 rounded-lg border border-blue-200">
-                     <svg className="w-5 h-5 text-blue-600 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+                {coach.certifications.map((cert: string, index: number) => (
+                  <div key={index} className="flex items-center p-3 bg-neutral-800 rounded-lg border border-neutral-700">
+                    <svg className="w-5 h-5 text-neutral-300 mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                      </svg>
-                     <span className="text-gray-700 font-medium">{cert}</span>
+                    <span className="text-neutral-200 font-medium">{cert}</span>
                    </div>
                  ))}
                </div>
@@ -425,17 +447,17 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
           )}
 
           {/* Enhanced Reviews Section */}
-          <div className="bg-white rounded-lg shadow p-6">
+          <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 shadow-xl shadow-black/30">
             <div className="flex items-center justify-between mb-6">
                              <div className="flex items-center gap-4">
-                 <h2 className="text-xl font-semibold text-gray-900">
+                <h2 className="text-xl font-semibold text-neutral-100">
                    Reviews & Ratings
                  </h2>
                  <div className="flex items-center gap-2">
-                   <div className="text-3xl font-bold text-yellow-500">
+                  <div className="text-3xl font-bold text-neutral-100">
                      {(ratingStats.averageRating || coach.averageRating).toFixed(1)}
                    </div>
-                   <div className="text-sm text-gray-600">
+                  <div className="text-sm text-neutral-400">
                      <div>{renderStarRating(ratingStats.averageRating || coach.averageRating, 'sm')}</div>
                      <div>({ratingStats.totalReviews || coach.totalReviews} reviews)</div>
                    </div>
@@ -443,7 +465,7 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                </div>
               <button
                 onClick={handleWriteReview}
-                className="text-blue-600 hover:text-blue-500 text-sm font-medium flex items-center gap-1"
+                className="text-neutral-200 hover:text-white text-sm font-medium flex items-center gap-1"
               >
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
@@ -454,24 +476,24 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
 
                          {/* Rating Distribution */}
              {ratingStats.totalReviews > 0 && (
-               <div className="mb-6 p-4 bg-gray-50 rounded-lg">
-                 <h3 className="text-sm font-medium text-gray-700 mb-3">Rating Distribution</h3>
+              <div className="mb-6 p-4 bg-neutral-950/40 rounded-xl border border-neutral-800">
+                <h3 className="text-sm font-medium text-neutral-300 mb-3">Rating Distribution</h3>
                  {[5, 4, 3, 2, 1].map(rating => {
                    const count = ratingStats.ratingDistribution[rating] || 0;
                    const percentage = ratingStats.totalReviews > 0 ? (count / ratingStats.totalReviews) * 100 : 0;
                    return (
                      <div key={rating} className="flex items-center gap-2 mb-1">
-                       <span className="text-sm text-gray-600 w-3">{rating}</span>
-                       <svg className="w-3 h-3 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                      <span className="text-sm text-neutral-400 w-3">{rating}</span>
+                      <svg className="w-3 h-3 text-neutral-300" fill="currentColor" viewBox="0 0 20 20">
                          <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z" />
                        </svg>
-                       <div className="flex-1 bg-gray-200 rounded-full h-2">
-                         <div 
-                           className="bg-yellow-400 h-2 rounded-full transition-all duration-300"
+                      <div className="flex-1 bg-neutral-800 rounded-full h-2">
+                        <div 
+                          className="bg-neutral-300 h-2 rounded-full transition-all duration-300"
                            style={{ width: `${percentage}%` }}
                          ></div>
                        </div>
-                       <span className="text-xs text-gray-500 w-8">{count}</span>
+                      <span className="text-xs text-neutral-500 w-8">{count}</span>
                      </div>
                    );
                  })}
@@ -481,19 +503,19 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
             {reviews.length > 0 ? (
               <div className="space-y-6">
                 {reviews.map(review => (
-                  <div key={review.id} className="border-b border-gray-200 pb-6 last:border-b-0">
+                  <div key={review.id} className="border-b border-neutral-800 pb-6 last:border-b-0">
                     <div className="flex items-start justify-between mb-3">
                       <div className="flex items-center gap-3">
-                        <div className="w-10 h-10 bg-gray-300 rounded-full flex items-center justify-center">
-                          <span className="text-gray-600 font-medium text-sm">
+                        <div className="w-10 h-10 bg-neutral-800 rounded-full flex items-center justify-center">
+                          <span className="text-neutral-300 font-medium text-sm">
                             {review.studentName.charAt(0).toUpperCase()}
                           </span>
                         </div>
                         <div>
                           <div className="flex items-center gap-2 mb-1">
-                            <span className="font-medium text-gray-900">{review.studentName}</span>
+                            <span className="font-medium text-neutral-100">{review.studentName}</span>
                             {review.sport && (
-                              <span className="text-xs bg-blue-100 text-blue-700 px-2 py-1 rounded-full">
+                              <span className="text-xs bg-neutral-800 text-neutral-300 px-2 py-1 rounded-full border border-neutral-700">
                                 {review.sport}
                               </span>
                             )}
@@ -501,24 +523,24 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
                           {renderStarRating(review.rating, 'sm')}
                         </div>
                       </div>
-                      <span className="text-sm text-gray-500">
+                      <span className="text-sm text-neutral-400">
                         {formatDate(review.createdAt)}
                       </span>
                     </div>
-                    <p className="text-gray-700 leading-relaxed pl-13">{review.reviewText}</p>
+                    <p className="text-neutral-300 leading-relaxed pl-13">{review.reviewText}</p>
                   </div>
                 ))}
               </div>
             ) : (
               <div className="text-center py-12">
-                <svg className="w-16 h-16 text-gray-300 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-16 h-16 text-neutral-700 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                 </svg>
-                <h3 className="text-lg font-medium text-gray-900 mb-2">No reviews yet</h3>
-                <p className="text-gray-500 mb-4">Be the first to review this coach and help others make informed decisions!</p>
+                <h3 className="text-lg font-medium text-neutral-100 mb-2">No reviews yet</h3>
+                <p className="text-neutral-400 mb-4">Be the first to review this coach and help others make informed decisions!</p>
                 <button
                   onClick={handleWriteReview}
-                  className="inline-flex items-center px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors"
+                  className="inline-flex items-center px-4 py-2 bg-neutral-100 text-neutral-900 rounded-md hover:bg-white transition-colors"
                 >
                   Write the first review
                 </button>
@@ -530,86 +552,42 @@ export default function CoachProfileClient({ coach: initialCoach, reviews: initi
         {/* Sidebar */}
         <div className="space-y-6">
           {/* Quick Info */}
-          <div className="bg-white rounded-lg shadow p-6">
-            <h3 className="text-lg font-semibold text-gray-900 mb-4">Quick Info</h3>
+          <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 shadow-xl shadow-black/30">
+            <h3 className="text-lg font-semibold text-neutral-100 mb-4">Quick Info</h3>
             <div className="space-y-3">
               <div className="flex justify-between">
-                <span className="text-gray-600">Experience:</span>
-                <span className="font-medium">{coach.experience} years</span>
+                <span className="text-neutral-400">Experience:</span>
+                <span className="font-medium text-neutral-200">{coach.experience} years</span>
               </div>
               {coach.hourlyRate > 0 && (
                 <div className="flex justify-between">
-                  <span className="text-gray-600">Rate:</span>
-                  <span className="font-medium text-green-600">${coach.hourlyRate}/hour</span>
+                  <span className="text-neutral-400">Rate:</span>
+                  <span className="font-medium text-neutral-200">${coach.hourlyRate}/hour</span>
                 </div>
               )}
               <div className="flex justify-between">
-                <span className="text-gray-600">Languages:</span>
-                <span className="font-medium">{coach.languages.join(', ')}</span>
+                <span className="text-neutral-400">Languages:</span>
+                <span className="font-medium text-neutral-200">{coach.languages.join(', ')}</span>
               </div>
             </div>
           </div>
 
           {/* Availability */}
           {coach.availability.length > 0 && (
-            <div className="bg-white rounded-lg shadow p-6">
-              <h3 className="text-lg font-semibold text-gray-900 mb-4">Availability</h3>
+            <div className="bg-neutral-900 border border-neutral-800 rounded-2xl p-6 shadow-xl shadow-black/30">
+              <h3 className="text-lg font-semibold text-neutral-100 mb-4">Availability</h3>
               <div className="space-y-2">
                 {coach.availability.map((slot: string) => (
                   <div key={slot} className="flex items-center">
-                    <div className="w-2 h-2 bg-green-400 rounded-full mr-2"></div>
-                    <span className="text-sm text-gray-700">{slot}</span>
+                    <div className="w-2 h-2 bg-neutral-400 rounded-full mr-2"></div>
+                    <span className="text-sm text-neutral-300">{slot}</span>
                   </div>
                 ))}
               </div>
             </div>
           )}
 
-          {/* Contact & Social */}
-          <div className="bg-white rounded-lg shadow p-6">
-            <h3 className="text-lg font-semibold text-gray-900 mb-4">Connect</h3>
-            <div className="space-y-3">
-              {coach.website && (
-                <a
-                  href={coach.website}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center text-blue-600 hover:text-blue-500"
-                >
-                  <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                  </svg>
-                  Website
-                </a>
-              )}
-              {coach.socialMedia?.instagram && (
-                <a
-                  href={`https://instagram.com/${coach.socialMedia.instagram.replace('@', '')}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center text-pink-600 hover:text-pink-500"
-                >
-                  <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 6.621 5.367 11.988 11.988 11.988s11.987-5.367 11.987-11.988C24.004 5.367 18.637.001 12.017.001zM8.449 16.988c-1.297 0-2.448-.49-3.32-1.293C3.925 14.547 3.5 13.396 3.5 12.1c0-1.297.424-2.449 1.129-3.596.872-.803 2.023-1.293 3.32-1.293 1.297 0 2.448.49 3.32 1.293.705 1.147 1.129 2.299 1.129 3.596 0 1.296-.424 2.447-1.129 3.595-.872.803-2.023 1.293-3.32 1.293z"/>
-                  </svg>
-                  Instagram
-                </a>
-              )}
-              {coach.socialMedia?.twitter && (
-                <a
-                  href={`https://twitter.com/${coach.socialMedia.twitter.replace('@', '')}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center text-blue-400 hover:text-blue-300"
-                >
-                  <svg className="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
-                    <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
-                  </svg>
-                  Twitter
-                </a>
-              )}
-            </div>
-          </div>
+          {/* Connect section removed per request */}
         </div>
       </div>
 

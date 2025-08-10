@@ -238,26 +238,22 @@ export default function SearchPageClient() {
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
       {/* Page Header */}
-      <div className="mb-8 border-b border-orange-500/30 pb-8">
+      <div className="mb-8 border-b border-neutral-800 pb-8">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <h1 className="text-4xl font-bold text-white mb-4 uppercase tracking-wider">
-              FIND YOUR CHAMPION COACH
-            </h1>
-            <p className="text-gray-300 text-lg font-medium">
-              SEARCH THROUGH OUR ELITE NETWORK OF VERIFIED COACHES
-            </p>
+            <h1 className="text-3xl md:text-4xl font-semibold text-neutral-100 tracking-tight mb-2">Search coaches</h1>
+            <p className="text-neutral-400">Filter by sport, location, verification, and more</p>
           </div>
           {user && (
             <div className="mt-6 sm:mt-0">
               <button
                 onClick={() => setShowPostJobModal(true)}
-                className="bg-gradient-to-r from-orange-500 to-red-600 hover:from-orange-600 hover:to-red-700 text-white px-8 py-4 font-bold text-lg uppercase tracking-wider transition-all duration-200 transform hover:scale-105 border-2 border-transparent flex items-center shadow-lg"
+                className="px-4 py-2 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white border border-neutral-300"
               >
-                <svg className="w-6 h-6 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 4v16m8-8H4" />
                 </svg>
-                POST COACHING JOB
+                Post coaching job
               </button>
             </div>
           )}
@@ -266,7 +262,7 @@ export default function SearchPageClient() {
 
       {/* Search Bar */}
       <div className="mb-8">
-        <div className="bg-black border border-gray-600 p-1">
+        <div className="p-1">
           <GlobalSearchBar
             placeholder="Search coaches, sports, locations..."
             showSuggestions={false}
@@ -284,8 +280,8 @@ export default function SearchPageClient() {
       />
 
       {/* Results Summary */}
-      <div className="mb-6 flex items-center justify-between bg-black border border-gray-600 p-4">
-        <div className="text-sm text-gray-300 font-medium uppercase tracking-wider">
+      <div className="mb-6 flex items-center justify-between bg-neutral-900/60 backdrop-blur border border-neutral-800 p-4 rounded-2xl">
+        <div className="text-sm text-neutral-300 font-medium">
           {loading ? (
             'Searching coaches...'
           ) : error ? (
@@ -294,11 +290,11 @@ export default function SearchPageClient() {
             <>
               {results.total > 0 ? (
                 <>
-                  SHOWING {((currentPage - 1) * ITEMS_PER_PAGE) + 1}-{Math.min(currentPage * ITEMS_PER_PAGE, results.total)} OF {results.total} COACHES
+                  Showing {((currentPage - 1) * ITEMS_PER_PAGE) + 1}-{Math.min(currentPage * ITEMS_PER_PAGE, results.total)} of {results.total} coaches
                   {debouncedSearchTerm && ` for "${debouncedSearchTerm}"`}
                 </>
               ) : hasActiveFilters ? (
-                'No coaches found - adjust your filters'
+                'No coaches found — adjust your filters'
               ) : (
                 'Use filters to find your perfect coach'
               )}
@@ -308,7 +304,7 @@ export default function SearchPageClient() {
 
         {/* Sort Options */}
         <div className="flex items-center space-x-3">
-          <label htmlFor="sortBy" className="text-sm text-gray-300 font-medium uppercase tracking-wider">SORT:</label>
+          <label htmlFor="sortBy" className="text-sm text-neutral-400 font-medium">Sort:</label>
           <select
             id="sortBy"
             value={`${filters.sortBy}-${filters.sortOrder}`}
@@ -317,7 +313,7 @@ export default function SearchPageClient() {
               handleFilterChange('sortBy', sortBy);
               handleFilterChange('sortOrder', sortOrder);
             }}
-            className="text-sm border border-gray-600 bg-gray-800 text-white px-3 py-2 focus:ring-1 focus:ring-white/20 focus:border-white/30 font-medium"
+            className="text-sm border border-neutral-800 bg-neutral-900 text-neutral-200 px-3 py-2 rounded-md focus:outline-none"
           >
             <option value="averageRating-desc">Highest Rated</option>
             <option value="averageRating-asc">Lowest Rated</option>
@@ -332,35 +328,35 @@ export default function SearchPageClient() {
 
       {/* Error State */}
       {error && (
-        <div className="mb-6 p-6 bg-red-900/20 border-2 border-red-500">
+        <div className="mb-6 p-6 bg-red-950/40 border border-red-900/40 rounded-2xl">
           <div className="flex items-center">
-            <svg className="w-6 h-6 text-red-400 mr-3" fill="currentColor" viewBox="0 0 20 20">
+            <svg className="w-6 h-6 text-red-300 mr-3" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
             </svg>
-            <p className="text-red-200 font-bold uppercase tracking-wider">{error}</p>
+            <p className="text-red-200 font-medium">{error}</p>
           </div>
         </div>
       )}
 
       {/* Loading State */}
       {loading && (
-        <div className="border-2 border-gray-700 mb-8">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0">
+        <div className="mb-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[...Array(ITEMS_PER_PAGE)].map((_, i) => (
-              <div key={i} className="bg-gray-900 border-r border-b border-gray-700 p-6 animate-pulse">
+              <div key={i} className="bg-neutral-900/60 border border-neutral-800 rounded-2xl p-6 animate-pulse min-h-[240px]">
                 <div className="flex items-center space-x-4 mb-4">
-                  <div className="w-16 h-16 bg-gray-800"></div>
+                  <div className="w-16 h-16 bg-neutral-900"></div>
                   <div className="flex-1">
-                    <div className="h-4 bg-gray-800 mb-2"></div>
-                    <div className="h-3 bg-gray-800 w-1/2"></div>
+                    <div className="h-4 bg-neutral-900 mb-2"></div>
+                    <div className="h-3 bg-neutral-900 w-1/2"></div>
                   </div>
                 </div>
                 <div className="space-y-2">
-                  <div className="h-3 bg-gray-800"></div>
-                  <div className="h-3 bg-gray-800 w-5/6"></div>
+                  <div className="h-3 bg-neutral-900"></div>
+                  <div className="h-3 bg-neutral-900 w-5/6"></div>
                 </div>
                 <div className="mt-4">
-                  <div className="h-8 bg-gray-800"></div>
+                  <div className="h-8 bg-neutral-900"></div>
                 </div>
               </div>
             ))}
@@ -371,12 +367,10 @@ export default function SearchPageClient() {
       {/* Results Grid */}
       {!loading && results.coaches.length > 0 && (
         <>
-          <div className="border-2 border-gray-700 mb-8">
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-0">
-              {results.coaches.map((coach, index) => (
-                <div key={coach.id} className={`border-r border-b border-gray-700 ${
-                  index % 3 === 2 ? 'md:border-r-0' : ''
-                } ${Math.floor(index / 3) === Math.floor((results.coaches.length - 1) / 3) ? 'border-b-0' : ''}`}>
+          <div className="mb-8">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {results.coaches.map((coach) => (
+                <div key={coach.id} className="h-full">
                   <CoachCard coach={coach} />
                 </div>
               ))}
@@ -384,7 +378,7 @@ export default function SearchPageClient() {
           </div>
 
           {/* Pagination */}
-          <div className="border border-gray-600 bg-black p-6">
+          <div className="border border-neutral-800 bg-neutral-900/60 backdrop-blur p-6 rounded-2xl">
             <Pagination
               currentPage={currentPage}
               totalPages={results.totalPages}
@@ -399,22 +393,20 @@ export default function SearchPageClient() {
 
       {/* Empty State */}
       {!loading && !error && results.coaches.length === 0 && hasActiveFilters && (
-        <div className="text-center py-16 border-2 border-gray-700 bg-gray-900">
-          <svg className="w-20 h-20 text-gray-600 mx-auto mb-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
+        <div className="text-center py-16 border border-neutral-800 bg-neutral-900/60 backdrop-blur rounded-2xl">
+          <svg className="w-16 h-16 text-neutral-600 mx-auto mb-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
-          <h3 className="text-2xl font-bold text-white mb-4 uppercase tracking-wider">NO CHAMPIONS FOUND</h3>
-          <p className="text-gray-300 mb-8 text-lg font-medium">
-                            COULDN'T FIND ANY COACHES MATCHING YOUR CRITERIA
-          </p>
+          <h3 className="text-xl font-semibold text-neutral-100 mb-2">No coaches found</h3>
+          <p className="text-neutral-400 mb-6">Try changing your filters.</p>
           <button
             onClick={handleClearFilters}
-            className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-orange-500 to-red-600 hover:from-orange-600 hover:to-red-700 text-white font-bold uppercase tracking-wider transition-all duration-200 transform hover:scale-105"
+            className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white"
           >
-            <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+            <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
             </svg>
-            CLEAR ALL FILTERS
+            Clear all filters
           </button>
         </div>
       )}

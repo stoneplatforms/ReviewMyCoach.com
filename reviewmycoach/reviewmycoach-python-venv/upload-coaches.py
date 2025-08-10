@@ -83,6 +83,11 @@ def detect_pdf_info(path, text_content):
         pdf_info['organization'] = 'Rowan University Athletics'
         pdf_info['location'] = 'Glassboro, New Jersey'
         pdf_info['source'] = 'Rowan University Athletics Staff Directory'
+    elif 'rutgers' in filename:
+        pdf_info['university'] = 'Rutgers'
+        pdf_info['organization'] = 'Rutgers University Athletics'
+        pdf_info['location'] = 'Piscataway, New Jersey'
+        pdf_info['source'] = 'Rutgers University Athletics Staff Directory'
     
     # Analyze content for additional context
     content_lower = text_content.lower()
@@ -96,6 +101,11 @@ def detect_pdf_info(path, text_content):
         if not pdf_info['organization']:
             pdf_info['organization'] = 'Rowan University Athletics'
             pdf_info['location'] = 'Glassboro, New Jersey'
+    elif 'rutgers university' in content_lower or 'scarlet knights' in content_lower:
+        pdf_info['university'] = 'Rutgers'
+        if not pdf_info['organization']:
+            pdf_info['organization'] = 'Rutgers University Athletics'
+            pdf_info['location'] = 'Piscataway, New Jersey'
     
     return pdf_info
 
@@ -549,9 +559,9 @@ def upload_to_firestore(entries, key_path, pdf_info=None, collection='coaches', 
 
 def main():
     p = argparse.ArgumentParser(
-        description="Import coaches from Bryant University Men's Soccer PDF into Firestore (filters for 'coach' keyword)"
+        description="Import coaches from a University Athletics PDF into Firestore (filters for 'coach' keyword). Supports Bryant/Rowan/Rutgers formats."
     )
-    p.add_argument("--pdf", default="pdfs/Men's Soccer Coaches - Bryant University.pdf", help="Path to the PDF file (default: Bryant University Men's Soccer Coaches)")
+    p.add_argument("--pdf", default="pdfs/Staff Directory - Rutgers University Athletics.pdf", help="Path to the PDF file (default: Rutgers Staff Directory)")
     p.add_argument("--key", help="Path to Firebase Admin JSON key (optional for dry-run)")
     p.add_argument(
         "--collection", default="coaches",

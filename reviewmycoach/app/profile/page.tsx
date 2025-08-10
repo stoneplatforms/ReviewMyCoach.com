@@ -38,7 +38,14 @@ export default function ProfilePage() {
 
   const loadCoachProfile = useCallback(async (userId: string) => {
     try {
-      const coachRef = doc(db, 'coaches', userId);
+      // First, get username from users collection (same approach as coach dashboard)
+      const userDocRef = doc(db, 'users', userId);
+      const userDoc = await getDoc(userDocRef);
+      const usernameFromUsers = userDoc.exists() ? (userDoc.data() as any)?.username : null;
+      
+      // Try to load by username document id if present, else by userId doc
+      const coachDocId = usernameFromUsers ? String(usernameFromUsers).toLowerCase() : userId;
+      const coachRef = doc(db, 'coaches', coachDocId);
       const coachSnap = await getDoc(coachRef);
       
       if (coachSnap.exists()) {
@@ -46,7 +53,7 @@ export default function ProfilePage() {
         setFormData({
           ...data,
           displayName: data.displayName || user?.displayName || '',
-          username: data.username || '',
+          username: (data as any).username || usernameFromUsers || '',
           phoneNumber: data.phoneNumber || '',
           email: data.email || user?.email || '',
           emailVerified: data.emailVerified || false,
@@ -58,7 +65,7 @@ export default function ProfilePage() {
           ...prev,
           userId: userId,
           displayName: user?.displayName || '',
-          username: '',
+          username: usernameFromUsers || '',
           email: user?.email || '',
           emailVerified: false,
           isPublic: true
@@ -149,7 +156,9 @@ export default function ProfilePage() {
 
     setSaving(true);
     try {
-      const coachRef = doc(db, 'coaches', user.uid);
+      // Determine coach document id: prefer username (lowercased), fallback to uid
+      const docId = formData.username?.trim() ? formData.username.trim().toLowerCase() : user.uid;
+      const coachRef = doc(db, 'coaches', docId);
       await setDoc(coachRef, {
         displayName: formData.displayName,
         username: formData.username?.trim() || null,

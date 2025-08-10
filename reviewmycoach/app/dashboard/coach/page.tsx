@@ -5,6 +5,7 @@ import { collection, query, where, getDocs, orderBy, doc, getDoc, limit } from '
 import { auth, db } from '../../lib/firebase-client';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
+import MessagingModal from '../../components/MessagingModal';
 
 interface Review {
   id: string;
@@ -45,18 +46,31 @@ interface CoachProfile {
   sourceUrl?: string;
 }
 
+interface Conversation {
+  id: string;
+  participants: string[];
+  lastMessage: string;
+  lastMessageAt?: string;
+  unreadCount?: Record<string, number>;
+}
+
 export default function CoachDashboard() {
   const [coachProfile, setCoachProfile] = useState<CoachProfile | null>(null);
   const [reviews, setReviews] = useState<Review[]>([]);
   const [classes, setClasses] = useState<Class[]>([]);
   const [loading, setLoading] = useState(true);
   const [statsLoading, setStatsLoading] = useState(true);
+  const [conversations, setConversations] = useState<Conversation[]>([]);
+  const [messagesOpen, setMessagesOpen] = useState(false);
+  const [recipientId, setRecipientId] = useState<string | null>(null);
+  const [recipientName, setRecipientName] = useState<string>('');
   const router = useRouter();
 
   useEffect(() => {
     const unsubscribe = auth.onAuthStateChanged(async (user) => {
       if (user) {
         await fetchCoachData(user.uid);
+        await fetchConversations(user.uid);
       } else {
         router.push('/signin');
       }
@@ -177,6 +191,50 @@ export default function CoachDashboard() {
     }
   };
 
+  const fetchConversations = async (userId: string) => {
+    try {
+      const res = await fetch(`/api/messages?userId=${encodeURIComponent(userId)}`);
+      if (res.ok) {
+        const data = await res.json();
+        setConversations(data.conversations || []);
+      }
+    } catch (error) {
+      console.error('Error fetching conversations:', error);
+    }
+  };
+
+  const resolveDisplayName = async (targetUserId: string): Promise<string> => {
+    // Try user profile first
+    try {
+      const userRef = doc(db, 'users', targetUserId);
+      const userSnap = await getDoc(userRef);
+      if (userSnap.exists()) {
+        const u = userSnap.data() as any;
+        return u.displayName || u.username || u.email || 'User';
+      }
+    } catch {}
+    // Then try coaches by userId
+    try {
+      const coachesRef = collection(db, 'coaches');
+      const q = query(coachesRef, where('userId', '==', targetUserId));
+      const snap = await getDocs(q);
+      if (!snap.empty) {
+        const c = snap.docs[0].data() as any;
+        return c.displayName || c.username || 'User';
+      }
+    } catch {}
+    return 'User';
+  };
+
+  const openConversationModal = async (conversation: Conversation) => {
+    const currentUserId = auth.currentUser?.uid;
+    if (!currentUserId) return;
+    const otherId = conversation.participants.find((p) => p !== currentUserId) || '';
+    setRecipientId(otherId);
+    setRecipientName(await resolveDisplayName(otherId));
+    setMessagesOpen(true);
+  };
+
   const renderStarRating = (rating: number) => {
     return (
       <div className="flex items-center">
@@ -262,19 +320,15 @@ export default function CoachDashboard() {
       <div className="mb-8">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold text-white">
-              Coach Dashboard
-            </h1>
-            <p className="mt-2 text-gray-300">
-              Manage your coaching profile and track your performance
-            </p>
-            <div className="mt-2 flex items-center space-x-4">
-              <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-neutral-800 text-white">
+            <h1 className="text-3xl md:text-4xl font-semibold text-neutral-100 tracking-tight">Dashboard</h1>
+            <p className="mt-2 text-neutral-400">Manage your profile, conversations, classes and reviews</p>
+            <div className="mt-2 flex items-center space-x-3">
+              <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-neutral-900 text-neutral-200 border border-neutral-800">
                 Coach
               </span>
               {coachProfile?.isVerified && (
-                <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 text-green-800">
-                  <svg className="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20">
+                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-neutral-900 text-neutral-200 border border-neutral-800">
+                  <svg className="w-3 h-3 mr-1 text-neutral-300" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                   </svg>
                   Verified
@@ -285,7 +339,7 @@ export default function CoachDashboard() {
           <div className="flex space-x-3">
             <Link
               href="/profile"
-              className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-neutral-900 hover:bg-gray-700"
+              className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-100 bg-neutral-900 border border-neutral-800 hover:bg-neutral-800"
             >
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
@@ -296,7 +350,7 @@ export default function CoachDashboard() {
               <>
                 <Link
                   href={profileUrl}
-                  className="inline-flex items-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-gray-600 hover:bg-gray-700"
+                  className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white border border-neutral-300"
                 >
                   <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -306,7 +360,7 @@ export default function CoachDashboard() {
                 </Link>
                 <button
                   onClick={() => navigator.clipboard.writeText(fullProfileUrl || '')}
-                  className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-white bg-neutral-900 hover:bg-gray-700"
+                  className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-100 bg-neutral-900 border border-neutral-800 hover:bg-neutral-800"
                 >
                   <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -315,8 +369,8 @@ export default function CoachDashboard() {
                 </button>
               </>
             ) : (
-              <div className="text-sm text-white bg-neutral-900 border border-neutral-700 rounded-md px-3 py-2">
-                Add a username in your profile to get a public profile link
+              <div className="text-sm text-neutral-300 bg-neutral-900 border border-neutral-800 rounded-full px-3 py-2">
+                Add a username to get a public profile link
               </div>
             )}
           </div>
@@ -325,30 +379,30 @@ export default function CoachDashboard() {
 
       {/* Profile Completion Alert */}
       {coachProfile && !coachProfile.bio && (
-        <div className="bg-neutral-900 border border-yellow-200 rounded-lg p-6 mb-8">
+        <div className="bg-neutral-900/60 backdrop-blur border border-neutral-800 rounded-2xl p-6 mb-8">
           <div className="flex items-start">
             <div className="flex-shrink-0">
-              <svg className="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+              <svg className="w-5 h-5 text-neutral-300" fill="currentColor" viewBox="0 0 20 20">
                 <path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" />
               </svg>
             </div>
             <div className="ml-3 flex-1">
-              <h3 className="text-sm font-medium text-yellow-800">Complete Your Profile</h3>
-              <div className="mt-2 text-sm text-white">
+              <h3 className="text-sm font-medium text-neutral-200">Complete Your Profile</h3>
+              <div className="mt-2 text-sm text-neutral-300">
                 <p>Your public profile is live but incomplete. Add a bio, sports, and other details to attract more students.</p>
               </div>
               <div className="mt-4">
                 <div className="flex space-x-3">
                   <Link
                     href="/dashboard/coach/profile/edit"
-                    className="text-sm bg-neutral-800 text-white rounded-md px-3 py-2 font-medium hover:bg-yellow-200 transition-colors"
+                    className="text-sm bg-neutral-100 text-neutral-900 rounded-full px-3 py-2 font-medium hover:bg-white transition-colors"
                   >
                     Complete Profile
                   </Link>
                   {profileUrl && (
                     <Link
                       href={profileUrl}
-                      className="text-sm text-white underline hover:text-yellow-600"
+                      className="text-sm text-neutral-300 underline hover:text-white"
                     >
                       Preview Public Profile →
                     </Link>
@@ -363,16 +417,16 @@ export default function CoachDashboard() {
       {/* Stats Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
         {stats.map((stat) => (
-          <div key={stat.name} className="bg-neutral-900 rounded-lg shadow p-6">
+          <div key={stat.name} className="bg-neutral-900/60 backdrop-blur border border-neutral-800 rounded-2xl shadow p-6">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <div className={`w-8 h-8 rounded-md flex items-center justify-center ${stat.color}`}>
+                <div className="w-8 h-8 rounded-xl flex items-center justify-center bg-neutral-800 text-neutral-200 ring-1 ring-neutral-700">
                   {stat.icon}
                 </div>
               </div>
               <div className="ml-4">
-                <p className="text-sm font-medium text-gray-500">{stat.name}</p>
-                <p className="text-2xl font-semibold text-white">{stat.value}</p>
+                <p className="text-sm font-medium text-neutral-400">{stat.name}</p>
+                <p className="text-2xl font-semibold text-neutral-100">{stat.value}</p>
               </div>
             </div>
           </div>
@@ -381,33 +435,33 @@ export default function CoachDashboard() {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* Recent Reviews */}
-        <div className="bg-neutral-900 rounded-lg shadow">
-          <div className="px-6 py-4 border-b border-gray-700">
-            <h2 className="text-xl font-semibold text-white">Recent Reviews</h2>
-            <p className="text-sm text-gray-300 mt-1">
+        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow">
+          <div className="px-6 py-4 border-b border-neutral-800">
+            <h2 className="text-xl font-semibold text-neutral-100">Recent Reviews</h2>
+            <p className="text-sm text-neutral-400 mt-1">
               What students are saying about your coaching
             </p>
           </div>
           <div className="p-6">
             {statsLoading ? (
               <div className="flex items-center justify-center py-8">
-                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-600"></div>
+                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-neutral-700"></div>
               </div>
             ) : reviews.length > 0 ? (
               <div className="space-y-4">
                 {reviews.map((review) => (
-                  <div key={review.id} className="border border-gray-700 rounded-lg p-4">
+                  <div key={review.id} className="border border-neutral-800 rounded-xl p-4 bg-neutral-950/50">
                     <div className="flex items-start justify-between">
                       <div className="flex-1">
                         <div className="flex items-center mb-2">
                           {renderStarRating(review.rating)}
                         </div>
-                        <p className="text-white mb-2">{review.reviewText}</p>
-                        <p className="text-sm text-gray-500">
+                        <p className="text-neutral-100 mb-2">{review.reviewText}</p>
+                        <p className="text-sm text-neutral-400">
                           By: {review.studentName}
                         </p>
                         {review.createdAt && (
-                          <p className="text-xs text-gray-400 mt-1">
+                          <p className="text-xs text-neutral-500 mt-1">
                             {new Date(review.createdAt.toDate()).toLocaleDateString()}
                           </p>
                         )}
@@ -418,7 +472,7 @@ export default function CoachDashboard() {
                 <div className="text-center">
                   <Link
                     href="/dashboard/coach/reviews"
-                    className="text-gray-300 hover:text-gray-500 text-sm font-medium"
+                    className="text-neutral-300 hover:text-white text-sm font-medium"
                   >
                     View all reviews →
                   </Link>
@@ -426,11 +480,11 @@ export default function CoachDashboard() {
               </div>
             ) : (
               <div className="text-center py-8">
-                <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="mx-auto h-12 w-12 text-neutral-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                 </svg>
-                <h3 className="mt-2 text-sm font-medium text-white">No reviews yet</h3>
-                <p className="mt-1 text-sm text-gray-500">
+                <h3 className="mt-2 text-sm font-medium text-neutral-100">No reviews yet</h3>
+                <p className="mt-1 text-sm text-neutral-500">
                   Complete your profile to start getting reviews from students.
                 </p>
               </div>
@@ -439,29 +493,29 @@ export default function CoachDashboard() {
         </div>
 
         {/* Active Classes */}
-        <div className="bg-neutral-900 rounded-lg shadow">
-          <div className="px-6 py-4 border-b border-gray-700">
-            <h2 className="text-xl font-semibold text-white">Active Classes</h2>
-            <p className="text-sm text-gray-300 mt-1">
+        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow">
+          <div className="px-6 py-4 border-b border-neutral-800">
+            <h2 className="text-xl font-semibold text-neutral-100">Active Classes</h2>
+            <p className="text-sm text-neutral-400 mt-1">
               Manage your current coaching sessions
             </p>
           </div>
           <div className="p-6">
             {statsLoading ? (
               <div className="flex items-center justify-center py-8">
-                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-600"></div>
+                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-neutral-700"></div>
               </div>
             ) : classes.length > 0 ? (
               <div className="space-y-4">
                 {classes.map((classItem) => (
-                  <div key={classItem.id} className="border border-gray-700 rounded-lg p-4">
-                    <h4 className="font-medium text-white">{classItem.title}</h4>
-                    <p className="text-sm text-gray-300 mt-1">{classItem.sport}</p>
+                  <div key={classItem.id} className="border border-neutral-800 rounded-xl p-4 bg-neutral-950/50">
+                    <h4 className="font-medium text-neutral-100">{classItem.title}</h4>
+                    <p className="text-sm text-neutral-400 mt-1">{classItem.sport}</p>
                     <div className="flex items-center justify-between mt-2">
-                      <span className="text-sm text-gray-500">
+                      <span className="text-sm text-neutral-500">
                         {classItem.participants}/{classItem.maxParticipants} participants
                       </span>
-                      <span className="text-sm font-medium text-green-600">
+                      <span className="text-sm font-medium text-neutral-300">
                         ${classItem.price}
                       </span>
                     </div>
@@ -470,7 +524,7 @@ export default function CoachDashboard() {
                 <div className="text-center">
                   <Link
                     href="/dashboard/coach/classes"
-                    className="text-gray-300 hover:text-gray-500 text-sm font-medium"
+                    className="text-neutral-300 hover:text-white text-sm font-medium"
                   >
                     Manage all classes →
                   </Link>
@@ -478,17 +532,17 @@ export default function CoachDashboard() {
               </div>
             ) : (
               <div className="text-center py-8">
-                <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="mx-auto h-12 w-12 text-neutral-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
                 </svg>
-                <h3 className="mt-2 text-sm font-medium text-white">No active classes</h3>
-                <p className="mt-1 text-sm text-gray-500">
+                <h3 className="mt-2 text-sm font-medium text-neutral-100">No active classes</h3>
+                <p className="mt-1 text-sm text-neutral-500">
                   Create your first class to start accepting students.
                 </p>
                 <div className="mt-6">
                   <Link
                     href="/dashboard/coach/classes/new"
-                    className="inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700"
+                    className="inline-flex items-center px-4 py-2 border border-neutral-700 shadow-sm text-sm font-medium rounded-full text-neutral-100 bg-neutral-900 hover:bg-neutral-800"
                   >
                     Create Class
                   </Link>
@@ -499,15 +553,15 @@ export default function CoachDashboard() {
         </div>
 
         {/* Profile URL Card */}
-        <div className="bg-neutral-900 rounded-lg shadow p-6">
-          <h3 className="text-lg font-semibold text-white mb-4">Your Public Profile</h3>
+        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow p-6">
+          <h3 className="text-lg font-semibold text-neutral-100 mb-4">Your Public Profile</h3>
           <div className="space-y-3">
             <div>
-              <label className="block text-sm font-medium text-white mb-1">
+              <label className="block text-sm font-medium text-neutral-200 mb-1">
                 Profile URL
               </label>
               <div className="flex items-center space-x-2">
-                <code className="flex-1 px-3 py-2 bg-neutral-800 border border-gray-700 rounded-md text-sm text-gray-300 font-mono break-all">
+                <code className="flex-1 px-3 py-2 bg-neutral-950 border border-neutral-800 rounded-md text-sm text-neutral-300 font-mono break-all">
                   {fullProfileUrl || 'N/A'}
                 </code>
                 <button
@@ -516,7 +570,7 @@ export default function CoachDashboard() {
                       navigator.clipboard.writeText(fullProfileUrl);
                     }
                   }}
-                  className="p-2 text-gray-500 hover:text-white transition-colors"
+                  className="p-2 text-neutral-400 hover:text-white transition-colors"
                   title="Copy URL"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -531,32 +585,28 @@ export default function CoachDashboard() {
                 <Link
                   href={profileUrl}
                   target="_blank"
-                  className="flex-1 text-center px-3 py-2 bg-gray-600 text-white text-sm rounded-md hover:bg-gray-700 transition-colors"
+                  className="flex-1 text-center px-3 py-2 bg-neutral-100 text-neutral-900 text-sm rounded-full hover:bg-white transition-colors"
                 >
                   View Profile
                 </Link>
               ) : (
-                <div className="flex-1 text-center px-3 py-2 bg-neutral-800 text-gray-500 text-sm rounded-md">
+                <div className="flex-1 text-center px-3 py-2 bg-neutral-950 border border-neutral-800 text-neutral-500 text-sm rounded-full">
                   Add username to view profile
                 </div>
               )}
               <Link
                 href="/dashboard/coach/profile/edit"
-                className="flex-1 text-center px-3 py-2 border border-gray-300 text-white text-sm rounded-md hover:bg-gray-700 transition-colors"
+                className="flex-1 text-center px-3 py-2 border border-neutral-700 text-neutral-100 text-sm rounded-full hover:bg-neutral-800 transition-colors"
               >
                 Edit Profile
               </Link>
             </div>
 
             {coachProfile && (
-              <div className="pt-3 border-t border-gray-700">
+              <div className="pt-3 border-t border-neutral-800">
                 <div className="flex items-center justify-between text-sm">
-                  <span className="text-gray-300">Profile Status:</span>
-                  <span className={`font-medium ${
-                    coachProfile.bio && coachProfile.sports.length > 0 
-                      ? 'text-green-600' 
-                      : 'text-yellow-600'
-                  }`}>
+                  <span className="text-neutral-400">Profile Status:</span>
+                  <span className={`font-medium text-neutral-200`}>
                     {coachProfile.bio && coachProfile.sports.length > 0 
                       ? 'Complete' 
                       : 'Needs Attention'
@@ -569,24 +619,24 @@ export default function CoachDashboard() {
         </div>
 
         {/* Services & Payment Setup */}
-        <div className="bg-neutral-900 rounded-lg shadow p-6">
-          <h3 className="text-lg font-semibold text-white mb-4">Services & Payments</h3>
+        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow p-6">
+          <h3 className="text-lg font-semibold text-neutral-100 mb-4">Services & Payments</h3>
           <div className="space-y-3">
             <Link
               href="/dashboard/coach/stripe"
-              className="flex items-center p-3 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors"
+              className="flex items-center p-3 border border-neutral-800 rounded-xl hover:bg-neutral-800 transition-colors"
             >
               <div className="flex-shrink-0">
-                <svg className="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-6 h-6 text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
                 </svg>
               </div>
               <div className="ml-3 flex-1">
-                <h4 className="text-sm font-medium text-white">Payment Setup</h4>
-                <p className="text-xs text-gray-500">Connect Stripe to receive payments</p>
+                <h4 className="text-sm font-medium text-neutral-100">Payment Setup</h4>
+                <p className="text-xs text-neutral-400">Connect Stripe to receive payments</p>
               </div>
               <div className="ml-auto">
-                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
               </div>
@@ -594,19 +644,19 @@ export default function CoachDashboard() {
 
             <Link
               href="/dashboard/coach/services"
-              className="flex items-center p-3 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors"
+              className="flex items-center p-3 border border-neutral-800 rounded-xl hover:bg-neutral-800 transition-colors"
             >
               <div className="flex-shrink-0">
-                <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-6 h-6 text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
                 </svg>
               </div>
               <div className="ml-3 flex-1">
-                <h4 className="text-sm font-medium text-white">My Services</h4>
-                <p className="text-xs text-gray-500">Create and manage services</p>
+                <h4 className="text-sm font-medium text-neutral-100">My Services</h4>
+                <p className="text-xs text-neutral-400">Create and manage services</p>
               </div>
               <div className="ml-auto">
-                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
               </div>
@@ -614,33 +664,33 @@ export default function CoachDashboard() {
 
             <Link
               href="/dashboard/coach/jobs"
-              className="flex items-center p-3 border border-gray-700 rounded-lg hover:bg-gray-700 transition-colors"
+              className="flex items-center p-3 border border-neutral-800 rounded-xl hover:bg-neutral-800 transition-colors"
             >
               <div className="flex-shrink-0">
-                <svg className="w-6 h-6 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-6 h-6 text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2-2v2m8 0V6a2 2 0 012 2v6a2 2 0 01-2 2H8a2 2 0 01-2-2V8a2 2 0 012-2h8zM16 10h.01" />
                 </svg>
               </div>
               <div className="ml-3 flex-1">
-                <h4 className="text-sm font-medium text-white">Job Board</h4>
-                <p className="text-xs text-gray-500">Browse coaching opportunities</p>
+                <h4 className="text-sm font-medium text-neutral-100">Job Board</h4>
+                <p className="text-xs text-neutral-400">Browse coaching opportunities</p>
               </div>
               <div className="flex items-center">
-                <span className="text-xs bg-orange-500/20 text-orange-400 px-2 py-1 rounded-full border border-orange-500/30 mr-2">PRO</span>
-                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <span className="text-xs bg-neutral-800 text-neutral-200 px-2 py-1 rounded-full border border-neutral-700 mr-2">PRO</span>
+                <svg className="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
               </div>
             </Link>
 
-            <div className="text-xs text-gray-500 mt-4 p-3 bg-gray-900 rounded-lg">
+            <div className="text-xs text-neutral-400 mt-4 p-4 bg-neutral-950 border border-neutral-800 rounded-xl">
               <div className="flex items-start">
-                <svg className="w-4 h-4 text-white mr-2 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-neutral-200 mr-2 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
                 <div>
-                  <p className="font-medium text-white mb-1">Start earning from coaching:</p>
-                  <ol className="list-decimal list-inside space-y-1 text-gray-300">
+                  <p className="font-medium text-neutral-100 mb-1">Start earning from coaching:</p>
+                  <ol className="list-decimal list-inside space-y-1 text-neutral-300">
                     <li>Connect Stripe to accept payments</li>
                     <li>Create your coaching services</li>
                     <li>Students book and pay automatically</li>
@@ -651,7 +701,60 @@ export default function CoachDashboard() {
             </div>
           </div>
         </div>
+
+        {/* Messages */}
+        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow lg:col-span-2">
+          <div className="px-6 py-4 border-b border-neutral-800 flex items-center justify-between">
+            <div>
+              <h2 className="text-xl font-semibold text-neutral-100">Messages</h2>
+              <p className="text-sm text-neutral-400 mt-1">Conversations with students and clients</p>
+            </div>
+            <Link href="/dashboard/coach/messages" className="text-sm text-neutral-300 hover:text-white">
+              Open full inbox →
+            </Link>
+          </div>
+          <div className="p-0">
+            {conversations.length > 0 ? (
+              <div className="divide-y divide-neutral-800">
+                {conversations.slice(0, 6).map((c) => {
+                  const unread = c.unreadCount?.[auth.currentUser?.uid || ''] || 0;
+                  const other = c.participants.find((p) => p !== auth.currentUser?.uid) || 'Conversation';
+                  return (
+                    <button
+                      key={c.id}
+                      onClick={() => openConversationModal(c)}
+                      className="w-full text-left px-4 py-3 flex items-center justify-between hover:bg-neutral-800/60 transition-colors"
+                    >
+                      <div className="min-w-0 mr-3">
+                        <div className="text-sm text-neutral-100 truncate">{other}</div>
+                        <div className="text-xs text-neutral-400 truncate">{c.lastMessage}</div>
+                      </div>
+                      {unread > 0 && (
+                        <span className="text-xs bg-neutral-700 text-neutral-100 px-2 py-0.5 rounded-full">{unread}</span>
+                      )}
+                    </button>
+                  );
+                })}
+              </div>
+            ) : (
+              <div className="py-14 text-center">
+                <div className="w-8 h-8 mx-auto mb-2 rounded-full border-2 border-dashed border-neutral-700 flex items-center justify-center text-neutral-400">💬</div>
+                <div className="text-sm font-medium text-neutral-300">No conversations yet</div>
+                <div className="text-xs text-neutral-500 mt-1">You will see new messages here.</div>
+              </div>
+            )}
+          </div>
+        </div>
       </div>
+
+      {/* Messaging Modal */}
+      <MessagingModal
+        isOpen={messagesOpen && !!recipientId}
+        onClose={() => setMessagesOpen(false)}
+        recipientId={recipientId || ''}
+        recipientName={recipientName}
+        user={auth.currentUser}
+      />
     </div>
   );
 } 

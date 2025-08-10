@@ -13,11 +13,12 @@ async function getInstances() {
       db: firebaseAdminModule.db,
       findCoachByUserId: firebaseAdminModule.findCoachByUserId,
       createConnectAccount: stripeModule.createConnectAccount,
-      createAccountLink: stripeModule.createAccountLink
+      createAccountLink: stripeModule.createAccountLink,
+      getConnectAccount: stripeModule.getConnectAccount
     };
   } catch (error) {
     console.error('Failed to load modules in stripe connect route:', error);
-    return { auth: null, db: null, findCoachByUserId: null, createConnectAccount: null, createAccountLink: null };
+    return { auth: null, db: null, findCoachByUserId: null, createConnectAccount: null, createAccountLink: null, getConnectAccount: null };
   }
 }
 
@@ -107,7 +108,7 @@ export async function POST(req: NextRequest) {
 }
 
 export async function GET(req: NextRequest) {
-  const { auth, db } = await getInstances();
+  const { auth, db, getConnectAccount } = await getInstances();
   
   // Early return if modules aren't initialized
   if (!db || !auth) {
@@ -139,13 +140,52 @@ export async function GET(req: NextRequest) {
     }
 
     const accountData = accountDoc.data();
+
+    // Fallback reconciliation with Stripe if webhook hasn't updated yet
+    let latestStatus = accountData?.accountStatus;
+    let chargesEnabled = accountData?.chargesEnabled;
+    let payoutsEnabled = accountData?.payoutsEnabled;
+    let requirements = accountData?.requirements;
+
+    if (getConnectAccount && accountData?.stripeAccountId) {
+      try {
+        const stripeAccount = await getConnectAccount(accountData.stripeAccountId);
+        chargesEnabled = stripeAccount.charges_enabled;
+        payoutsEnabled = stripeAccount.payouts_enabled;
+        requirements = stripeAccount.requirements;
+        if (chargesEnabled && payoutsEnabled) {
+          latestStatus = 'active';
+        } else if (requirements?.currently_due && requirements.currently_due.length > 0) {
+          latestStatus = 'requires_action';
+        } else {
+          latestStatus = 'pending';
+        }
+
+        // Persist if changed
+        if (latestStatus !== accountData?.accountStatus) {
+          await accountRef.update({
+            accountStatus: latestStatus,
+            chargesEnabled,
+            payoutsEnabled,
+            requirements,
+            updatedAt: new Date(),
+          });
+        }
+      } catch (e) {
+        console.warn('Stripe reconciliation failed:', e);
+      }
+    }
+
     return NextResponse.json({
       accountId: accountData?.stripeAccountId,
-      status: accountData?.accountStatus,
+      status: latestStatus,
       email: accountData?.email,
       country: accountData?.country,
       createdAt: accountData?.createdAt,
       updatedAt: accountData?.updatedAt,
+      chargesEnabled,
+      payoutsEnabled,
+      requirements,
     });
 
   } catch (error) {
@@ -156,3 +196,44 @@ export async function GET(req: NextRequest) {
     );
   }
 } 
+
+// PUT - Recreate onboarding link for an existing account (continue setup)
+export async function PUT(req: NextRequest) {
+  const { auth, db, createAccountLink } = await getInstances();
+
+  if (!db || !auth || !createAccountLink) {
+    return NextResponse.json({ error: 'Service unavailable' }, { status: 503 });
+  }
+
+  try {
+    const { idToken } = await req.json();
+    if (!idToken) {
+      return NextResponse.json({ error: 'ID token is required' }, { status: 400 });
+    }
+
+    const decoded = await auth.verifyIdToken(idToken);
+    const userId = decoded.uid;
+
+    const existingRef = db.collection('stripe_accounts').doc(userId);
+    const existingDoc = await existingRef.get();
+    if (!existingDoc.exists) {
+      return NextResponse.json({ error: 'Stripe account not found' }, { status: 404 });
+    }
+
+    const { stripeAccountId } = existingDoc.data() as any;
+    if (!stripeAccountId) {
+      return NextResponse.json({ error: 'Stripe account ID missing' }, { status: 400 });
+    }
+
+    const returnUrl = `${process.env.NEXT_PUBLIC_BASE_URL}/dashboard/coach/stripe/return`;
+    const refreshUrl = `${process.env.NEXT_PUBLIC_BASE_URL}/dashboard/coach/stripe/refresh`;
+    const accountLink = await createAccountLink(stripeAccountId, returnUrl, refreshUrl);
+
+    await existingRef.update({ updatedAt: new Date() });
+
+    return NextResponse.json({ onboardingUrl: accountLink.url });
+  } catch (error) {
+    console.error('Error recreating Stripe onboarding link:', error);
+    return NextResponse.json({ error: 'Failed to create onboarding link' }, { status: 500 });
+  }
+}

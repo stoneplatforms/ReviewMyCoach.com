@@ -146,7 +146,7 @@ export default function HeroCoachCarousel() {
       <div className="relative h-48 overflow-hidden">
         <div className="flex animate-pulse space-x-4">
           {[...Array(6)].map((_, i) => (
-            <div key={i} className="flex-shrink-0 w-80 h-40 bg-gray-800 rounded-xl"></div>
+            <div key={i} className="flex-shrink-0 w-80 h-40 bg-neutral-900 rounded-xl"></div>
           ))}
         </div>
       </div>
@@ -159,8 +159,8 @@ export default function HeroCoachCarousel() {
   return (
     <div className="relative h-48 overflow-hidden">
       {/* Fade overlays */}
-      <div className="absolute left-0 top-0 z-10 w-20 h-full bg-gradient-to-r from-black to-transparent pointer-events-none"></div>
-      <div className="absolute right-0 top-0 z-10 w-20 h-full bg-gradient-to-l from-black to-transparent pointer-events-none"></div>
+      <div className="absolute left-0 top-0 z-10 w-20 h-full bg-gradient-to-r from-neutral-950/95 to-transparent pointer-events-none"></div>
+      <div className="absolute right-0 top-0 z-10 w-20 h-full bg-gradient-to-l from-neutral-950/95 to-transparent pointer-events-none"></div>
       
       {/* Scrolling container */}
       <div className="flex space-x-4 animate-scroll-left">
@@ -171,12 +171,12 @@ export default function HeroCoachCarousel() {
             <Link
               key={`${coach.id}-${index}`}
               href={profileUrl}
-              className="flex-shrink-0 w-80 h-40 bg-gray-900/50 backdrop-blur-sm border border-gray-700/50 rounded-xl p-4 hover:bg-gray-800/60 hover:border-gray-600/60 transition-all duration-300 group"
+              className="flex-shrink-0 w-80 h-40 bg-neutral-900/60 backdrop-blur border border-neutral-800 rounded-2xl p-4 hover:bg-neutral-900/70 hover:border-neutral-700 transition-all duration-300 group"
             >
               <div className="flex items-start space-x-3 h-full">
                 {/* Profile Image */}
                 <div className="relative flex-shrink-0">
-                  <div className="w-12 h-12 bg-gradient-to-r from-gray-600 to-gray-500 rounded-full flex items-center justify-center overflow-hidden ring-2 ring-gray-500/30">
+                  <div className="w-12 h-12 bg-neutral-900 rounded-full flex items-center justify-center overflow-hidden ring-1 ring-neutral-700">
                     {coach.profileImage ? (
                       <Image
                         src={coach.profileImage}
@@ -186,15 +186,15 @@ export default function HeroCoachCarousel() {
                         className="w-full h-full object-cover"
                       />
                     ) : (
-                      <svg className="w-6 h-6 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
+                      <svg className="w-6 h-6 text-neutral-400" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
                       </svg>
                     )}
                   </div>
                   {coach.isVerified && (
-                    <div className="absolute -bottom-1 -right-1 bg-emerald-500 rounded-full p-0.5 ring-1 ring-gray-900">
-                      <svg className="w-2 h-2 text-white" fill="currentColor" viewBox="0 0 20 20">
-                        <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                    <div className="absolute -bottom-1 -right-1 bg-neutral-200 text-neutral-900 rounded-full p-0.5 ring-1 ring-neutral-900">
+                      <svg className="w-2 h-2" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.707a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 10-1.414 1.414l2 2a1 1 0 001.414 0l3-3z" clipRule="evenodd" />
                       </svg>
                     </div>
                   )}
@@ -203,17 +203,17 @@ export default function HeroCoachCarousel() {
                 {/* Coach Info */}
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2 mb-1">
-                    <h3 className="text-sm font-semibold text-white truncate group-hover:text-gray-200 transition-colors">
+                    <h3 className="text-sm font-semibold text-neutral-100 truncate group-hover:text-neutral-200 transition-colors">
                       {coach.displayName}
                     </h3>
                     {coach.isVerified && (
-                      <span className="inline-flex items-center px-1 py-0.5 rounded-full text-xs font-medium bg-emerald-500/20 text-emerald-400 ring-1 ring-emerald-400/30">
-                        ✓
+                      <span className="inline-flex items-center px-1 py-0.5 rounded-full text-[10px] font-medium bg-neutral-800 text-neutral-200 ring-1 ring-neutral-700">
+                        Verified
                       </span>
                     )}
                   </div>
                   
-                  <div className="flex items-center text-xs text-gray-400 mb-1">
+                  <div className="flex items-center text-xs text-neutral-400 mb-1">
                     <svg className="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -223,7 +223,7 @@ export default function HeroCoachCarousel() {
 
                   {renderStarRating(coach.averageRating)}
 
-                  <p className="text-gray-300 text-xs mt-2 line-clamp-2">
+                  <p className="text-neutral-300 text-xs mt-2 line-clamp-2">
                     {coach.bio}
                   </p>
 
@@ -232,7 +232,7 @@ export default function HeroCoachCarousel() {
                       {coach.sports.slice(0, 2).map((sport) => (
                         <span
                           key={sport}
-                          className="inline-flex items-center px-1.5 py-0.5 rounded-full text-xs font-medium bg-gray-500/20 text-gray-400 ring-1 ring-gray-400/30"
+                          className="inline-flex items-center px-1.5 py-0.5 rounded-full text-xs font-medium bg-neutral-800/50 text-neutral-300 ring-1 ring-neutral-700/50"
                         >
                           {sport}
                         </span>

@@ -60,27 +60,24 @@ function SignInForm() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-gray-900 to-black py-12 px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen flex items-center justify-center bg-neutral-950 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full">
         {/* Card Container */}
-        <div className="bg-black/95 backdrop-blur-sm rounded-3xl shadow-2xl border border-orange-500/20 p-8 space-y-8 ring-1 ring-white/10">
+        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 p-8 space-y-8">
           {/* Header */}
           <div className="text-center">
-            <div className="mx-auto h-20 w-20 flex items-center justify-center rounded-full bg-gradient-to-br from-orange-500 to-red-600 shadow-2xl ring-4 ring-orange-500/30">
-              <svg className="h-10 w-10 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <div className="mx-auto h-16 w-16 flex items-center justify-center rounded-full bg-neutral-900 ring-1 ring-neutral-800">
+              <svg className="h-8 w-8 text-neutral-200" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
               </svg>
             </div>
-            <h1 className="mt-8 text-center text-4xl font-bold tracking-tight text-white">
-              WELCOME BACK
+            <h1 className="mt-6 text-center text-3xl font-semibold tracking-tight text-neutral-100">
+              Sign in
             </h1>
-            <p className="mt-4 text-center text-lg text-gray-300 font-medium">
-              Ready to dominate your goals?
-            </p>
-            <p className="mt-3 text-center text-sm text-gray-400">
+            <p className="mt-3 text-center text-sm text-neutral-400">
               New here?{' '}
-              <Link href="/signup" className="font-bold text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50">
-                JOIN THE TEAM
+              <Link href="/signup" className="font-medium text-neutral-200 underline hover:text-white">
+                Create an account
               </Link>
             </p>
           </div>
@@ -88,15 +85,15 @@ function SignInForm() {
           {/* Form */}
           <form className="space-y-6" onSubmit={handleEmailSignIn}>
             {error && (
-              <div className="rounded-xl bg-red-900/30 border border-red-800/50 p-4 animate-in slide-in-from-top-2 duration-300">
+              <div className="rounded-xl bg-red-950/40 border border-red-900/40 p-4">
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <svg className="h-5 w-5 text-red-400" viewBox="0 0 20 20" fill="currentColor">
+                    <svg className="h-5 w-5 text-red-300" viewBox="0 0 20 20" fill="currentColor">
                       <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
                     </svg>
                   </div>
                   <div className="ml-3">
-                    <h3 className="text-sm font-medium text-red-300">
+                    <h3 className="text-sm font-medium text-red-200">
                       Authentication Error
                     </h3>
                     <div className="mt-2 text-sm text-red-200">
@@ -109,8 +106,8 @@ function SignInForm() {
 
             <div className="space-y-6">
               <div>
-                <label htmlFor="email" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                  EMAIL ADDRESS
+                <label htmlFor="email" className="block text-sm font-medium text-neutral-300 mb-2">
+                  Email address
                 </label>
                 <input
                   id="email"
@@ -120,14 +117,14 @@ function SignInForm() {
                   required
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  className="w-full px-4 py-3 bg-neutral-950 border border-neutral-800 rounded-md text-neutral-100 placeholder-neutral-500 focus:outline-none"
                   placeholder="your.email@example.com"
                 />
               </div>
 
               <div>
-                <label htmlFor="password" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                  PASSWORD
+                <label htmlFor="password" className="block text-sm font-medium text-neutral-300 mb-2">
+                  Password
                 </label>
                 <input
                   id="password"
@@ -137,7 +134,7 @@ function SignInForm() {
                   required
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
-                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  className="w-full px-4 py-3 bg-neutral-950 border border-neutral-800 rounded-md text-neutral-100 placeholder-neutral-500 focus:outline-none"
                   placeholder="Enter your password"
                 />
               </div>
@@ -149,16 +146,16 @@ function SignInForm() {
                   id="remember-me"
                   name="remember-me"
                   type="checkbox"
-                  className="h-5 w-5 text-orange-500 focus:ring-orange-500/50 border-2 border-gray-600 bg-gray-900 rounded-lg transition-colors duration-200"
+                  className="h-4 w-4 text-neutral-100 focus:ring-0 border-neutral-700 bg-neutral-900 rounded"
                 />
-                <label htmlFor="remember-me" className="ml-3 block text-sm text-gray-300 font-medium">
-                  KEEP ME LOGGED IN
+                <label htmlFor="remember-me" className="ml-3 block text-sm text-neutral-400">
+                  Keep me logged in
                 </label>
               </div>
 
               <div className="text-sm">
-                <a href="#" className="font-bold text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50">
-                  FORGOT PASSWORD?
+                <a href="#" className="font-medium text-neutral-300 hover:text-white underline">
+                  Forgot password?
                 </a>
               </div>
             </div>
@@ -167,7 +164,7 @@ function SignInForm() {
             <button
               type="submit"
               disabled={loading}
-              className="group relative w-full flex justify-center py-2 px-4 border border-transparent text-sm font-medium rounded-md text-white bg-gray-600 hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-500 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="group relative w-full flex justify-center py-2 px-4 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white disabled:opacity-50 disabled:cursor-not-allowed"
             >
               {loading ? (
                 <svg className="animate-spin -ml-1 mr-3 h-5 w-5 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
@@ -180,17 +177,13 @@ function SignInForm() {
           </div>
 
             <div>
-              <div className="relative my-10">
+              <div className="relative my-8">
                 <div className="absolute inset-0 flex items-center">
-                  <div className="w-full border-t-2 border-gradient-to-r from-transparent via-orange-500/30 to-transparent" style={{
-                    background: 'linear-gradient(to right, transparent, rgb(249 115 22 / 0.3), transparent)',
-                    height: '2px',
-                    border: 'none'
-                  }} />
+                  <div className="w-full border-t border-neutral-800" />
                 </div>
                 <div className="relative flex justify-center">
-                  <span className="px-6 py-2 bg-gradient-to-r from-gray-900 via-black to-gray-900 text-orange-400 font-bold text-sm uppercase tracking-widest border border-orange-500/30 rounded-full">
-                    OR SIGN IN WITH
+                  <span className="px-3 py-1 bg-neutral-950 text-neutral-400 text-xs rounded-full border border-neutral-800">
+                    Or sign in with
                   </span>
                 </div>
               </div>
@@ -199,7 +192,7 @@ function SignInForm() {
                 type="button"
                 onClick={handleGoogleSignIn}
                 disabled={loading}
-                className="w-full inline-flex justify-center items-center py-4 px-6 border-2 border-gray-700 rounded-2xl shadow-lg bg-gray-900/50 text-base font-bold text-white hover:bg-gray-800/70 hover:border-orange-500/50 focus:outline-none focus:ring-4 focus:ring-orange-500/30 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] disabled:hover:scale-100 uppercase tracking-wider backdrop-blur-sm"
+                className="w-full inline-flex justify-center items-center py-3 px-4 border border-neutral-800 rounded-full bg-neutral-900 text-neutral-100 hover:bg-neutral-800 transition-colors disabled:opacity-50"
               >
                 <svg className="w-6 h-6 mr-3" viewBox="0 0 24 24">
                   <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
@@ -207,15 +200,15 @@ function SignInForm() {
                   <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
                   <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
                 </svg>
-                GOOGLE SIGN IN
+                Continue with Google
               </button>
             </div>
         </form>
 
           {/* Footer */}
           <div className="text-center pt-6">
-            <Link href="/" className="text-sm text-gray-400 hover:text-orange-400 transition-colors duration-200 font-medium uppercase tracking-wider">
-              ← BACK TO HOME
+            <Link href="/" className="text-sm text-neutral-400 hover:text-white transition-colors">
+              ← Back to home
             </Link>
           </div>
         </div>

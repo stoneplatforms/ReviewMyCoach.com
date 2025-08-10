@@ -351,27 +351,24 @@ export default function SignUp() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-black via-gray-900 to-black py-12 px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen flex items-center justify-center bg-neutral-950 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full">
         {/* Card Container */}
-        <div className="bg-black/95 backdrop-blur-sm rounded-3xl shadow-2xl border border-orange-500/20 p-8 space-y-8 ring-1 ring-white/10">
+        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 p-8 space-y-8">
           {/* Header */}
           <div className="text-center">
-            <div className="mx-auto h-20 w-20 flex items-center justify-center rounded-full bg-gradient-to-br from-orange-500 to-red-600 shadow-2xl ring-4 ring-orange-500/30">
-              <svg className="h-10 w-10 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+            <div className="mx-auto h-16 w-16 flex items-center justify-center rounded-full bg-neutral-900 ring-1 ring-neutral-800">
+              <svg className="h-8 w-8 text-neutral-200" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M18 7.5v3m0 0v3m0-3h3m-3 0h-3m-2.25-4.125a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zM3 19.235v-.11a6.375 6.375 0 0112.75 0v.109A12.318 12.318 0 019.374 21c-2.331 0-4.512-.645-6.374-1.766z" />
               </svg>
             </div>
-            <h1 className="mt-8 text-center text-4xl font-bold tracking-tight text-white">
-              JOIN THE TEAM
+            <h1 className="mt-6 text-center text-3xl font-semibold tracking-tight text-neutral-100">
+              Create your account
             </h1>
-            <p className="mt-4 text-center text-lg text-gray-300 font-medium">
-              Start your championship journey today
-            </p>
-            <p className="mt-3 text-center text-sm text-gray-400">
-              Already a champion?{' '}
-              <Link href="/signin" className="font-bold text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50">
-                SIGN IN HERE
+            <p className="mt-3 text-center text-sm text-neutral-400">
+              Already have an account?{' '}
+              <Link href="/signin" className="font-medium text-neutral-200 underline hover:text-white">
+                Sign in
               </Link>
             </p>
           </div>
@@ -401,8 +398,8 @@ export default function SignUp() {
             <div className="space-y-6">
               <div className="grid grid-cols-2 gap-4">
                 <div>
-                  <label htmlFor="firstName" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                    FIRST NAME
+                  <label htmlFor="firstName" className="block text-sm font-medium text-neutral-300 mb-2">
+                    First name
                   </label>
                   <input
                     id="firstName"
@@ -411,13 +408,13 @@ export default function SignUp() {
                     required
                     value={formData.firstName}
                     onChange={handleInputChange}
-                    className="appearance-none relative block w-full px-4 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                    className="w-full px-4 py-3 bg-neutral-950 border border-neutral-800 rounded-md text-neutral-100 placeholder-neutral-500 focus:outline-none"
                     placeholder="John"
                   />
                 </div>
                 <div>
-                  <label htmlFor="lastName" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                    LAST NAME
+                  <label htmlFor="lastName" className="block text-sm font-medium text-neutral-300 mb-2">
+                    Last name
                   </label>
                   <input
                     id="lastName"
@@ -426,7 +423,7 @@ export default function SignUp() {
                     required
                     value={formData.lastName}
                     onChange={handleInputChange}
-                    className="appearance-none relative block w-full px-4 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                    className="w-full px-4 py-3 bg-neutral-950 border border-neutral-800 rounded-md text-neutral-100 placeholder-neutral-500 focus:outline-none"
                     placeholder="Athlete"
                   />
                 </div>
@@ -434,8 +431,8 @@ export default function SignUp() {
 
               {/* Username Field */}
               <div>
-                <label htmlFor="username" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                  USERNAME
+                <label htmlFor="username" className="block text-sm font-medium text-neutral-300 mb-2">
+                  Username
                 </label>
                 <div className="relative">
                   <input
@@ -445,9 +442,8 @@ export default function SignUp() {
                     required
                     value={formData.username}
                     onChange={handleInputChange}
-                    className={`appearance-none relative block w-full px-4 py-4 pr-12 border-2 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm ${
-                      usernameAvailable === false ? 'border-red-600 focus:border-red-500 focus:ring-red-500/50' : 
-                      usernameAvailable === true ? 'border-green-600 focus:border-green-500 focus:ring-green-500/50' : 'border-gray-700'
+                    className={`w-full px-4 py-3 pr-10 bg-neutral-950 border text-neutral-100 placeholder-neutral-500 rounded-md focus:outline-none ${
+                      usernameAvailable === false ? 'border-red-600' : usernameAvailable === true ? 'border-green-600' : 'border-neutral-800'
                     }`}
                     placeholder="champion_2024"
                   />
@@ -474,7 +470,7 @@ export default function SignUp() {
                     </div>
                   )}
                 </div>
-                <p className="mt-2 text-xs text-gray-400 font-medium">
+                <p className="mt-2 text-xs text-neutral-500">
                   3-20 characters, lowercase letters, numbers, and underscores only
                 </p>
                 {usernameAvailable === false && (
@@ -491,24 +487,24 @@ export default function SignUp() {
 
               {/* Display Name Preview */}
               {(formData.firstName || formData.lastName) && (
-                <div className="bg-orange-900/20 border border-orange-500/30 rounded-2xl p-5 animate-in slide-in-from-top-2 duration-300">
+                <div className="bg-neutral-900/60 border border-neutral-800 rounded-md p-4">
                   <div className="flex items-center">
-                    <svg className="w-6 h-6 text-orange-300 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                    <svg className="w-5 h-5 text-neutral-300 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
                       <path strokeLinecap="round" strokeLinejoin="round" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
                     </svg>
-                    <span className="text-sm text-orange-200 font-medium">
-                      YOUR CHAMPION NAME: <span className="font-bold text-orange-100">
+                    <span className="text-sm text-neutral-300">
+                      Display name: <span className="font-medium text-neutral-100">
                         {`${formData.firstName} ${formData.lastName}`.trim() || 'ENTER YOUR NAME ABOVE'}
                       </span>
                     </span>
                   </div>
                   {formData.username && (
                     <div className="flex items-center mt-3">
-                      <svg className="w-6 h-6 text-orange-300 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                      <svg className="w-5 h-5 text-neutral-300 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
                         <path strokeLinecap="round" strokeLinejoin="round" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1" />
                       </svg>
-                      <span className="text-sm text-orange-200 font-medium">
-                        YOUR PROFILE URL: <span className="font-bold text-orange-100 break-all">
+                      <span className="text-sm text-neutral-300">
+                        Profile URL: <span className="font-medium text-neutral-100 break-all">
                           reviewmycoach.com/coach/{formData.username}
                         </span>
                       </span>
@@ -518,8 +514,8 @@ export default function SignUp() {
               )}
 
               <div>
-                <label htmlFor="email" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                  EMAIL ADDRESS
+                <label htmlFor="email" className="block text-sm font-medium text-neutral-300 mb-2">
+                  Email address
                 </label>
                 <input
                   id="email"
@@ -529,14 +525,14 @@ export default function SignUp() {
                   required
                   value={formData.email}
                   onChange={handleInputChange}
-                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  className="w-full px-4 py-3 bg-neutral-950 border border-neutral-800 rounded-md text-neutral-100 placeholder-neutral-500 focus:outline-none"
                   placeholder="champion@example.com"
                 />
               </div>
 
               <div>
-                <label htmlFor="password" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                  PASSWORD
+                <label htmlFor="password" className="block text-sm font-medium text-neutral-300 mb-2">
+                  Password
                 </label>
                 <input
                   id="password"
@@ -546,15 +542,15 @@ export default function SignUp() {
                   required
                   value={formData.password}
                   onChange={handleInputChange}
-                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  className="w-full px-4 py-3 bg-neutral-950 border border-neutral-800 rounded-md text-neutral-100 placeholder-neutral-500 focus:outline-none"
                   placeholder="Create a strong password"
                 />
-                <p className="mt-2 text-xs text-gray-400 font-medium">Must be at least 6 characters long</p>
+                <p className="mt-2 text-xs text-neutral-500">Must be at least 6 characters long</p>
               </div>
 
               <div>
-                <label htmlFor="confirmPassword" className="block text-sm font-bold text-white mb-3 uppercase tracking-wider">
-                  CONFIRM PASSWORD
+                <label htmlFor="confirmPassword" className="block text-sm font-medium text-neutral-300 mb-2">
+                  Confirm password
                 </label>
                 <input
                   id="confirmPassword"
@@ -564,7 +560,7 @@ export default function SignUp() {
                   required
                   value={formData.confirmPassword}
                   onChange={handleInputChange}
-                  className="appearance-none relative block w-full px-5 py-4 border-2 border-gray-700 placeholder-gray-400 text-white rounded-2xl focus:outline-none focus:ring-2 focus:ring-orange-500/50 focus:border-orange-500 transition-all duration-200 bg-gray-900/50 hover:bg-gray-900/70 text-base font-medium backdrop-blur-sm"
+                  className="w-full px-4 py-3 bg-neutral-950 border border-neutral-800 rounded-md text-neutral-100 placeholder-neutral-500 focus:outline-none"
                   placeholder="Confirm your password"
                 />
               </div>
@@ -577,38 +573,30 @@ export default function SignUp() {
                 type="checkbox"
                 checked={acceptTerms}
                 onChange={(e) => setAcceptTerms(e.target.checked)}
-                className="h-5 w-5 text-orange-500 focus:ring-orange-500/50 border-2 border-gray-600 bg-gray-900 rounded-lg transition-colors duration-200 mt-1"
+                className="h-4 w-4 text-neutral-100 focus:ring-0 border-neutral-700 bg-neutral-900 rounded mt-1"
               />
-              <label htmlFor="accept-terms" className="ml-4 block text-sm text-gray-300 leading-relaxed font-medium">
-                I AGREE TO THE{' '}
-                <a href="#" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50 font-bold">
-                  TERMS & CONDITIONS
-                </a>{' '}
-                AND{' '}
-                <a href="#" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline decoration-orange-400/50 font-bold">
-                  PRIVACY POLICY
-                </a>
+              <label htmlFor="accept-terms" className="ml-3 block text-sm text-neutral-400 leading-relaxed">
+                I agree to the
+                <a href="#" className="ml-1 text-neutral-200 underline hover:text-white">Terms & Conditions</a>
+                <span className="mx-1">and</span>
+                <a href="#" className="text-neutral-200 underline hover:text-white">Privacy Policy</a>
               </label>
             </div>
 
             {/* reCAPTCHA Notice */}
-            <div className="text-xs text-gray-400 text-center leading-relaxed font-medium">
-              PROTECTED BY reCAPTCHA • GOOGLE{' '}
-              <a href="https://policies.google.com/privacy" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline">
-                PRIVACY
-              </a>{' '}
-              &{' '}
-              <a href="https://policies.google.com/terms" className="text-orange-400 hover:text-orange-300 transition-colors duration-200 underline">
-                TERMS
-              </a>{' '}
-              APPLY
+            <div className="text-xs text-neutral-500 text-center leading-relaxed">
+              Protected by reCAPTCHA • Google
+              <a href="https://policies.google.com/privacy" className="ml-1 text-neutral-300 underline hover:text-white">Privacy</a>
+              <span className="mx-1">&</span>
+              <a href="https://policies.google.com/terms" className="text-neutral-300 underline hover:text-white">Terms</a>
+              apply
             </div>
 
             <div>
               <button
                 type="submit"
                 disabled={loading}
-                className="group relative w-full flex justify-center py-4 px-6 border-2 border-transparent text-lg font-bold rounded-2xl text-white bg-gradient-to-r from-orange-500 to-red-600 hover:from-orange-600 hover:to-red-700 focus:outline-none focus:ring-4 focus:ring-orange-500/50 disabled:opacity-50 disabled:cursor-not-allowed transform transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] shadow-2xl shadow-orange-500/30 disabled:hover:scale-100 uppercase tracking-wider"
+                className="group relative w-full flex justify-center py-2 px-4 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 {loading && (
                   <svg className="animate-spin -ml-1 mr-3 h-6 w-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
@@ -621,17 +609,13 @@ export default function SignUp() {
             </div>
 
             <div>
-              <div className="relative my-10">
+              <div className="relative my-8">
                 <div className="absolute inset-0 flex items-center">
-                  <div className="w-full border-t-2 border-gradient-to-r from-transparent via-orange-500/30 to-transparent" style={{
-                    background: 'linear-gradient(to right, transparent, rgb(249 115 22 / 0.3), transparent)',
-                    height: '2px',
-                    border: 'none'
-                  }} />
+                  <div className="w-full border-t border-neutral-800" />
                 </div>
                 <div className="relative flex justify-center">
-                  <span className="px-6 py-2 bg-gradient-to-r from-gray-900 via-black to-gray-900 text-orange-400 font-bold text-sm uppercase tracking-widest border border-orange-500/30 rounded-full">
-                    OR SIGN UP WITH
+                  <span className="px-3 py-1 bg-neutral-950 text-neutral-400 text-xs rounded-full border border-neutral-800">
+                    Or sign up with
                   </span>
                 </div>
               </div>
@@ -640,7 +624,7 @@ export default function SignUp() {
                 type="button"
                 onClick={handleGoogleSignUp}
                 disabled={loading}
-                className="w-full inline-flex justify-center items-center py-4 px-6 border-2 border-gray-700 rounded-2xl shadow-lg bg-gray-900/50 text-base font-bold text-white hover:bg-gray-800/70 hover:border-orange-500/50 focus:outline-none focus:ring-4 focus:ring-orange-500/30 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 hover:scale-[1.02] active:scale-[0.98] disabled:hover:scale-100 uppercase tracking-wider backdrop-blur-sm"
+                className="w-full inline-flex justify-center items-center py-3 px-4 border border-neutral-800 rounded-full bg-neutral-900 text-neutral-100 hover:bg-neutral-800 transition-colors disabled:opacity-50"
               >
                 <svg className="w-6 h-6 mr-3" viewBox="0 0 24 24">
                   <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
@@ -648,15 +632,15 @@ export default function SignUp() {
                   <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
                   <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
                 </svg>
-                GOOGLE SIGN UP
+                Continue with Google
               </button>
             </div>
           </form>
 
           {/* Footer */}
           <div className="text-center pt-6">
-            <Link href="/" className="text-sm text-gray-400 hover:text-orange-400 transition-colors duration-200 font-medium uppercase tracking-wider">
-              ← BACK TO HOME
+            <Link href="/" className="text-sm text-neutral-400 hover:text-white transition-colors">
+              ← Back to home
             </Link>
           </div>
         </div>
