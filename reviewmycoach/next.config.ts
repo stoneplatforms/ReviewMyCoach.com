@@ -1,5 +1,7 @@
 import type { NextConfig } from "next";
 
+const isProd = process.env.NODE_ENV === 'production';
+
 const nextConfig: NextConfig = {
   eslint: {
     // Warning: This allows production builds to successfully complete even if
@@ -16,9 +18,7 @@ const nextConfig: NextConfig = {
       },
     ],
   },
-  experimental: {
-    forceSwcTransforms: true,
-  },
+  ...(isProd ? { experimental: { forceSwcTransforms: true } } : {}),
 };
 
 export default nextConfig;
