@@ -1,0 +1,262 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:51
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Buffalo State University
+Organization: Buffalo State University Athletics
+State: New York
+
+Total coaches found: 31
+
+PARSED ENTRIES:
+----------------------------------------
+1. Maria Roberts
+   Email: depetemc@buffalostate.edu
+   Username: depetemc
+   Sports: Volleyball
+   Title: SWA/Head Women's Volleyball Coach
+   Original line: Maria Roberts SWA/Head Women's Volleyball Coach depetemc@buffalostate.edu (716) 878-
+
+2. Katie Kearns
+   Email: baglioka@buffalostate.edu
+   Username: baglioka
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Katie Kearns Head Strength & Conditioning Coach baglioka@buffalostate.edu (716) 878-
+
+3. Alia Stark
+   Email: starkas@buffalostate.edu
+   Username: starkas
+   Sports: Soccer
+   Title: Head Acrobatics & Tumbling Coach
+   Original line: Alia Stark Head Acrobatics & Tumbling Coach starkas@buffalostate.edu (716) 878-
+
+4. Mike Berkun
+   Email: berkunms@buffalostate.edu
+   Username: berkunms
+   Sports: Basketball
+   Title: Head Men's Basketball Coach
+   Original line: Mike Berkun Head Men's Basketball Coach berkunms@buffalostate.edu (716) 878-
+
+5. Darius Lawrence
+   Email: lawrend@buffalostate.edu
+   Username: lawrend
+   Sports: Basketball
+   Title: Assistant Men's Basketball Coach
+   Original line: Darius Lawrence Assistant Men's Basketball Coach lawrend@buffalostate.edu (716) 878-
+
+6. Scott Foster
+   Email: fostersd@buffalostate.edu
+   Username: fostersd
+   Sports: Basketball
+   Title: Head Women's Basketball Coach
+   Original line: Scott Foster Head Women's Basketball Coach fostersd@buffalostate.edu (716) 878-
+
+7. Lazarus Morgan
+   Email: morganll@buffalostate.edu
+   Username: morganll
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Lazarus Morgan Head Football Coach morganll@buffalostate.edu (716) 878-
+
+8. Holden Whitehead
+   Email: whitehhw@buffalostate.edu
+   Username: whitehhw
+   Sports: Football
+   Title: Assistant Football Coach - Defensive
+   Original line: Holden Whitehead Assistant Football Coach - Defensive whitehhw@buffalostate.edu (716) 878-
+
+9. Tyrone Nichols
+   Email: nicholtm@buffalostate.edu
+   Username: nicholtm
+   Sports: Football
+   Title: Assistant Football Coach - Offensive
+   Original line: Tyrone Nichols Assistant Football Coach - Offensive nicholtm@buffalostate.edu (716) 878-
+
+10. Special Teams
+   Email: williagc@buffalostate.edu
+   Username: williagc
+   Sports: Football
+   Title: G. Chandler Williams Jr. Assistant Football Coach
+   Original line: G. Chandler Williams Jr. Assistant Football Coach - Special Teams williagc@buffalostate.edu (716) 878-
+
+11. Running Backs
+   Email: mathewam@buffalostate.edu
+   Username: mathewam
+   Sports: Football
+   Title: Anthony Mathews Assistant Football Coach
+   Original line: Anthony Mathews Assistant Football Coach - Running Backs mathewam@buffalostate.edu (716) 878-
+
+12. Steve Murphy
+   Email: murphysj@buffalostate.edu
+   Username: murphysj
+   Sports: Football
+   Title: Head Men's Hockey Coach
+   Original line: Steve Murphy Head Men's Hockey Coach murphysj@buffalostate.edu (716) 878-
+
+13. Marcus Gloss
+   Email: glossmr@buffalostate.edu
+   Username: glossmr
+   Sports: Football
+   Title: Associate Men's Hockey Coach
+   Original line: Marcus Gloss Associate Men's Hockey Coach glossmr@buffalostate.edu (716) 878-
+
+14. Rachel Grampp
+   Email: gramppre@buffalostate.edu
+   Username: gramppre
+   Sports: Football
+   Title: Head Women's Hockey Coach
+   Original line: Rachel Grampp Head Women's Hockey Coach gramppre@buffalostate.edu (716) 878-
+
+15. Christian Foerstner
+   Email: foerstcc@buffalostate.edu
+   Username: foerstcc
+   Sports: Football
+   Title: Assistant Women's Hockey Coach
+   Original line: Christian Foerstner Assistant Women's Hockey Coach foerstcc@buffalostate.edu (716) 878-
+
+16. Bean Minerd
+   Email: minerdc@buffalostate.edu
+   Username: minerdc
+   Sports: Football
+   Title: Interim Head Women's Lacrosse Coach
+   Original line: Bean Minerd Interim Head Women's Lacrosse Coach minerdc@buffalostate.edu (716) 878-
+
+17. Francesco Cardillo
+   Email: cardilf@buffalostate.edu
+   Username: cardilf
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Francesco Cardillo Head Men's Soccer Coach cardilf@buffalostate.edu (716) 878-
+
+18. August Finn
+   Email: finna@buffalostate.edu
+   Username: finna
+   Sports: Football
+   Title: Associate Head Men's Soccer Coach
+   Original line: August Finn Associate Head Men's Soccer Coach finna@buffalostate.edu (716) 878-
+
+19. Victoria Caruso
+   Email: colottv@buffalostate.edu
+   Username: colottv
+   Sports: Football
+   Title: Interim Head Women's Soccer Coach
+   Original line: Victoria Caruso Interim Head Women's Soccer Coach colottv@buffalostate.edu (716) 878-
+
+20. Nate Holler
+   Email: hollernh@buffalostate.edu
+   Username: hollernh
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Nate Holler Assistant Women's Soccer Coach hollernh@buffalostate.edu (716) 878-
+
+21. Jamie Brown
+   Email: brownjl@buffalostate.edu
+   Username: brownjl
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Jamie Brown Head Softball Coach brownjl@buffalostate.edu (716) 878-
+
+22. Julia Blujus
+   Email: blujusjc@buffalostate.edu
+   Username: blujusjc
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Julia Blujus Assistant Softball Coach blujusjc@buffalostate.edu (716) 878-
+
+23. Maria Roberts
+   Email: depetemc@buffalostate.edu
+   Username: depetemc
+   Sports: Track & Field
+   Title: SWA/Head Women's Volleyball Coach
+   Original line: Maria Roberts SWA/Head Women's Volleyball Coach depetemc@buffalostate.edu (716) 878-
+
+24. Meadow Wittman
+   Email: wittmamm@buffalostate.edu
+   Username: wittmamm
+   Sports: Track & Field
+   Title: Assistant Women's Volleyball Coach
+   Original line: Meadow Wittman Assistant Women's Volleyball Coach wittmamm@buffalostate.edu (716) 878-
+
+25. Daniel Miranda
+   Email: mirandd@buffalostate.edu
+   Username: mirandd
+   Sports: Track & Field
+   Title: Head Men's Volleyball Coach
+   Original line: Daniel Miranda Head Men's Volleyball Coach mirandd@buffalostate.edu (716) 878-
+
+26. Oscar 
+   Email: munoztor@buffalostate.edu
+   Username: munoztor
+   Sports: Track & Field
+   Title: oz Trinidad Assistant Men's Volleyball Coach
+   Original line: Oscar Muñoz Trinidad Assistant Men's Volleyball Coach munoztor@buffalostate.edu (716) 878-
+
+27. Jeff Charge
+   Email: venturjm@buffalostate.edu
+   Username: venturjm
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 3679 venturjm@buffalostate.edu
+
+28.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Track and Field Coach - Throws
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Track and Field Coach - Throws 3578
+
+29.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 5561
+
+30. Michael Line
+   Email: drywamr@buffalostate.edu
+   Username: drywamr
+   Sports: Hockey
+   Title: s Hockey Coach
+   Original line: Dan Yustin Assistant Men's Hockey Coach drywamr@buffalostate.edu
+
+31. TBA 
+   Email: 
+   Username: tba
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: TBA TBA Head Women's Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Maria Roberts SWA/Head Women's Volleyball Coach depetemc@buffalostate.edu (716) 878-
+• Katie Kearns Head Strength & Conditioning Coach baglioka@buffalostate.edu (716) 878-
+• Alia Stark Head Acrobatics & Tumbling Coach starkas@buffalostate.edu (716) 878-
+• Mike Berkun Head Men's Basketball Coach berkunms@buffalostate.edu (716) 878-
+• Darius Lawrence Assistant Men's Basketball Coach lawrend@buffalostate.edu (716) 878-
+• Scott Foster Head Women's Basketball Coach fostersd@buffalostate.edu (716) 878-
+• Lazarus Morgan Head Football Coach morganll@buffalostate.edu (716) 878-
+• Holden Whitehead Assistant Football Coach - Defensive whitehhw@buffalostate.edu (716) 878-
+• Tyrone Nichols Assistant Football Coach - Offensive nicholtm@buffalostate.edu (716) 878-
+• G. Chandler Williams Jr. Assistant Football Coach - Special Teams williagc@buffalostate.edu (716) 878-
+• Anthony Mathews Assistant Football Coach - Running Backs mathewam@buffalostate.edu (716) 878-
+• Steve Murphy Head Men's Hockey Coach murphysj@buffalostate.edu (716) 878-
+• Marcus Gloss Associate Men's Hockey Coach glossmr@buffalostate.edu (716) 878-
+• Rachel Grampp Head Women's Hockey Coach gramppre@buffalostate.edu (716) 878-
+• Christian Foerstner Assistant Women's Hockey Coach foerstcc@buffalostate.edu (716) 878-
+• Bean Minerd Interim Head Women's Lacrosse Coach minerdc@buffalostate.edu (716) 878-
+• Francesco Cardillo Head Men's Soccer Coach cardilf@buffalostate.edu (716) 878-
+• August Finn Associate Head Men's Soccer Coach finna@buffalostate.edu (716) 878-
+• Victoria Caruso Interim Head Women's Soccer Coach colottv@buffalostate.edu (716) 878-
+• Nate Holler Assistant Women's Soccer Coach hollernh@buffalostate.edu (716) 878-
+• Jamie Brown Head Softball Coach brownjl@buffalostate.edu (716) 878-
+• Julia Blujus Assistant Softball Coach blujusjc@buffalostate.edu (716) 878-
+• Maria Roberts SWA/Head Women's Volleyball Coach depetemc@buffalostate.edu (716) 878-
+• Meadow Wittman Assistant Women's Volleyball Coach wittmamm@buffalostate.edu (716) 878-
+• Daniel Miranda Head Men's Volleyball Coach mirandd@buffalostate.edu (716) 878-
+• Oscar Muñoz Trinidad Assistant Men's Volleyball Coach munoztor@buffalostate.edu (716) 878-

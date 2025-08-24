@@ -1,0 +1,553 @@
+COACH ENTRIES FOUND - 2025-08-24 17:47:41
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Hamilton College
+Organization: Hamilton College Athletics
+State: New York
+
+Total coaches found: 68
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dave Abdou
+   Email: dabdou@hamilton.edu
+   Username: dabdou
+   Sports: Golf
+   Title: Equipment Manager / Assistant Golf Coach
+   Original line: Dave Abdou Equipment Manager / Assistant Golf Coach dabdou@hamilton.edu 315-859-
+
+2. Blood Fitness
+   Email: jswearin@hamilton.edu
+   Username: jswearin
+   Sports: Strength & Conditioning
+   Title: Josh Swearingen Head Strength and Conditioning Coach/Assistant Director of
+   Original line: Josh Swearingen Head Strength and Conditioning Coach/Assistant Director of Blood Fitness jswearin@hamilton.edu 315-859-
+
+3. Kayla Brownhill
+   Email: kbrownhi@hamilton.edu
+   Username: kbrownhi
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Kayla Brownhill Assistant Strength and Conditioning Coach kbrownhi@hamilton.edu
+
+4. Tim Byrnes
+   Email: tbyrnes@hamilton.edu
+   Username: tbyrnes
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tim Byrnes Head Coach tbyrnes@hamilton.edu 315-859-
+
+5. Nolan Driscoll
+   Email: ndriscol@hamilton.edu
+   Username: ndriscol
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Nolan Driscoll Assistant Coach ndriscol@hamilton.edu 315-859-
+
+6. Adam Stockwell
+   Email: astockwe@hamilton.edu
+   Username: astockwe
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Adam Stockwell Head Coach astockwe@hamilton.edu 315-859-
+
+7. Ryan Schmadel
+   Email: rschmade@hamilton.edu
+   Username: rschmade
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Ryan Schmadel Assistant Coach rschmade@hamilton.edu 315-859-
+
+8. Mahogany Green
+   Email: mmgreen@hamilton.edu
+   Username: mmgreen
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Mahogany Green Head Coach mmgreen@hamilton.edu 315-859-
+
+9. John Sanchez
+   Email: jdsanche@hamilton.edu
+   Username: jdsanche
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: John Sanchez Assistant Coach jdsanche@hamilton.edu 315-859-
+
+10. Brett Hull
+   Email: bhull@hamilton.edu
+   Username: bhull
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brett Hull Head Coach bhull@hamilton.edu 315-859-
+
+11. Lucas Burdick
+   Email: lburdick@hamilton.edu
+   Username: lburdick
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Lucas Burdick Assistant Coach lburdick@hamilton.edu
+
+12. Ellen Hull
+   Email: ehull@hamilton.edu
+   Username: ehull
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ellen Hull Head Coach ehull@hamilton.edu 315-859-
+
+13. Lucas Burdick
+   Email: lburdick@hamilton.edu
+   Username: lburdick
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Lucas Burdick Assistant Coach lburdick@hamilton.edu
+
+14. Missy Mariano
+   Email: mmariano@hamilton.edu
+   Username: mmariano
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Missy Mariano Head Coach mmariano@hamilton.edu 315-859-
+
+15. Nicole Matos
+   Email: nmatos@hamilton.edu
+   Username: nmatos
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Nicole Matos Assistant Coach nmatos@hamilton.edu 315-859-
+
+16. Emily Conroe
+   Email: econroe@hamilton.edu
+   Username: econroe
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Emily Conroe Assistant Coach econroe@hamilton.edu
+
+17. Dave Murray
+   Email: dmurray@hamilton.edu
+   Username: dmurray
+   Sports: Football
+   Title: Head Coach
+   Original line: Dave Murray Head Coach dmurray@hamilton.edu 315-859-
+
+18. Jeff Friedman
+   Email: jfriedma@hamilton.edu
+   Username: jfriedma
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jeff Friedman Assistant Coach jfriedma@hamilton.edu 315-859-
+
+19. Deon Mash
+   Email: dmash@hamilton.edu
+   Username: dmash
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Deon Mash Assistant Coach dmash@hamilton.edu 315-859-
+
+20. Dalton Maska
+   Email: dmaska@hamilton.edu
+   Username: dmaska
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Dalton Maska Assistant Coach dmaska@hamilton.edu 315-859-
+
+21. Matt Wright
+   Email: mgwright@hamilton.edu
+   Username: mgwright
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matt Wright Assistant Coach mgwright@hamilton.edu 315-859-
+
+22. Bill Pawloski
+   Email: wpawlosk@hamilton.edu
+   Username: wpawlosk
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Bill Pawloski Assistant Coach wpawlosk@hamilton.edu
+
+23. Lauren Cupp
+   Email: lcupp@hamilton.edu
+   Username: lcupp
+   Sports: Football
+   Title: Head Coach
+   Original line: Lauren Cupp Head Coach lcupp@hamilton.edu 315-859-
+
+24. Dave Abdou
+   Email: dabdou@hamilton.edu
+   Username: dabdou
+   Sports: Football
+   Title: Equipment Manager / Assistant Golf Coach
+   Original line: Dave Abdou Equipment Manager / Assistant Golf Coach dabdou@hamilton.edu 315-859-
+
+25. Paul Hagstrom
+   Email: phagstro@hamilton.edu
+   Username: phagstro
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Paul Hagstrom Assistant Coach phagstro@hamilton.edu 315-859-
+
+26. Rob Haberbusch
+   Email: rhaberbu@hamilton.edu
+   Username: rhaberbu
+   Sports: Football
+   Title: Head Coach
+   Original line: Rob Haberbusch Head Coach rhaberbu@hamilton.edu 315-859-
+
+27. Stephen Castriota
+   Email: scastrio@hamilton.edu
+   Username: scastrio
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Stephen Castriota Assistant Coach scastrio@hamilton.edu 315-859-
+
+28. Kayte Holtz
+   Email: kholtz@hamilton.edu
+   Username: kholtz
+   Sports: Football
+   Title: Head Coach
+   Original line: Kayte Holtz Head Coach kholtz@hamilton.edu 315-859-
+
+29. Abby Kuhns
+   Email: akuhns@hamilton.edu
+   Username: akuhns
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Abby Kuhns Assistant Coach akuhns@hamilton.edu 315-859-
+
+30. Alex Bollnow
+   Email: abollnow@hamilton.edu
+   Username: abollnow
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Alex Bollnow Assistant Coach abollnow@hamilton.edu
+
+31. Ryan Pascarella
+   Email: rpascare@hamilton.edu
+   Username: rpascare
+   Sports: Football
+   Title: Goaltender Coach
+   Original line: Ryan Pascarella Goaltender Coach rpascare@hamilton.edu
+
+32. Scott Barnard
+   Email: menslacrosse@hamilton.edu
+   Username: menslacrosse
+   Sports: Football
+   Title: Head Coach
+   Original line: Scott Barnard Head Coach menslacrosse@hamilton.edu 315-859-
+
+33. Cam Stone
+   Email: cjstone@hamilton.edu
+   Username: cjstone
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Cam Stone Assistant Coach cjstone@hamilton.edu 315-859-
+
+34. Kaillie Kelly
+   Email: kkelly2@hamilton.edu
+   Username: kkelly2
+   Sports: Football
+   Title: Head Coach
+   Original line: Kaillie Kelly Head Coach kkelly2@hamilton.edu 315-859-
+
+35. Reegan Vorgang
+   Email: rvorgang@hamilton.edu
+   Username: rvorgang
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Reegan Vorgang Assistant Coach rvorgang@hamilton.edu 315-859-
+
+36. Kalley Friedman
+   Email: kgreer@hamilton.edu
+   Username: kgreer
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kalley Friedman Assistant Coach kgreer@hamilton.edu
+
+37. Anna Lindgren-Streicher
+   Email: alindgre@hamilton.edu
+   Username: alindgre
+   Sports: Football
+   Title: Head Coach
+   Original line: Anna Lindgren-Streicher Head Coach alindgre@hamilton.edu 315-859-
+
+38. Meg Conan
+   Email: mconan@hamilton.edu
+   Username: mconan
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Meg Conan Assistant Coach mconan@hamilton.edu 315-859-
+
+39. Brian Dawe
+   Email: bdawe@hamilton.edu
+   Username: bdawe
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brian Dawe Assistant Coach bdawe@hamilton.edu
+
+40. Brendan Ujvary
+   Email: bujvary@hamilton.edu
+   Username: bujvary
+   Sports: Football
+   Title: Head Coach
+   Original line: Brendan Ujvary Head Coach bujvary@hamilton.edu 315-859-
+
+41. Matthew Guinto
+   Email: mguinto@hamilton.edu
+   Username: mguinto
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matthew Guinto Assistant Coach mguinto@hamilton.edu 315-859-
+
+42. Colette Gilligan
+   Email: cgilliga@hamilton.edu
+   Username: cgilliga
+   Sports: Football
+   Title: Head Coach
+   Original line: Colette Gilligan Head Coach cgilliga@hamilton.edu 315-859-
+
+43. Travis Regner
+   Email: tregner@hamilton.edu
+   Username: tregner
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Travis Regner Assistant Coach tregner@hamilton.edu 315-859-
+
+44. Stephanie Hartquist
+   Email: shartqui@hamilton.edu
+   Username: shartqui
+   Sports: Softball
+   Title: Head Coach
+   Original line: Stephanie Hartquist Head Coach shartqui@hamilton.edu 315-859-
+
+45. Kirstin Mapes
+   Email: kmapes@hamilton.edu
+   Username: kmapes
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kirstin Mapes Assistant Coach kmapes@hamilton.edu 315-859-
+
+46. Erin Robson
+   Email: erobson@hamilton.edu
+   Username: erobson
+   Sports: Softball
+   Title: Head Coach
+   Original line: Erin Robson Head Coach erobson@hamilton.edu 315-859-
+
+47. John Geissinger
+   Email: jgeissin@hamilton.edu
+   Username: jgeissin
+   Sports: Softball
+   Title: Head Coach
+   Original line: John Geissinger Head Coach jgeissin@hamilton.edu 315-859-
+
+48. Ted Mebust
+   Email: tmebust@hamilton.edu
+   Username: tmebust
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ted Mebust Assistant Coach tmebust@hamilton.edu 315-859-
+
+49. Peter Arsenault
+   Email: parsenau@hamilton.edu
+   Username: parsenau
+   Sports: Softball
+   Title: Head Coach
+   Original line: Peter Arsenault Head Coach parsenau@hamilton.edu 315-859-
+
+50. Billy Boykin
+   Email: wboykin@hamilton.edu
+   Username: wboykin
+   Sports: Softball
+   Title: Head Coach
+   Original line: Billy Boykin Head Coach wboykin@hamilton.edu 315-859-
+
+51. Brett Hull
+   Email: bhull@hamilton.edu
+   Username: bhull
+   Sports: Softball
+   Title: Head Coach
+   Original line: Brett Hull Head Coach bhull@hamilton.edu 315-859-
+
+52. Steve Talbot
+   Email: stalbot@hamilton.edu
+   Username: stalbot
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Steve Talbot Assistant Coach stalbot@hamilton.edu 315-859-
+
+53. Lucas Burdick
+   Email: lburdick@hamilton.edu
+   Username: lburdick
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Lucas Burdick Assistant Coach lburdick@hamilton.edu
+
+54. Austen Johnson
+   Email: axjohnso@hamilton.edu
+   Username: axjohnso
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Austen Johnson Assistant Coach axjohnso@hamilton.edu
+
+55. Ellen Hull
+   Email: ehull@hamilton.edu
+   Username: ehull
+   Sports: Softball
+   Title: Head Coach
+   Original line: Ellen Hull Head Coach ehull@hamilton.edu 315-859-
+
+56. Steve Talbot
+   Email: stalbot@hamilton.edu
+   Username: stalbot
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Steve Talbot Assistant Coach stalbot@hamilton.edu 315-859-
+
+57. Lucas Burdick
+   Email: lburdick@hamilton.edu
+   Username: lburdick
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Lucas Burdick Assistant Coach lburdick@hamilton.edu
+
+58. Austen Johnson
+   Email: axjohnso@hamilton.edu
+   Username: axjohnso
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Austen Johnson Assistant Coach axjohnso@hamilton.edu
+
+59. Kristin Baker
+   Email: kbaker@hamilton.edu
+   Username: kbaker
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Kristin Baker Head Coach kbaker@hamilton.edu 315-859-
+
+60. Brittany Orminski
+   Email: borminsk@hamilton.edu
+   Username: borminsk
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Brittany Orminski Assistant Coach borminsk@hamilton.edu 315-859-
+
+61. Tyler Hudson
+   Email: 
+   Username: tyler.hudson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyler Hudson Assistant Coach
+
+62. Terry Stanimer
+   Email: 
+   Username: terry.stanimer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Terry Stanimer Assistant Coach
+
+63. Casey Goaltending
+   Email: 
+   Username: casey.goaltending
+   Sports: Soccer
+   Title: Casey Boone Goaltending Coach
+   Original line: Casey Boone Goaltending Coach
+
+64. Mackay Rippey
+   Email: 
+   Username: mackay.rippey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mackay Rippey Assistant Coach
+
+65. Mike Fornino
+   Email: 
+   Username: mike.fornino
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mike Fornino Assistant Coach
+
+66. Dan Jonas
+   Email: 
+   Username: dan.jonas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dan Jonas Assistant Coach
+
+67. Mitch Maryhugh
+   Email: 
+   Username: mitch.maryhugh
+   Sports: Soccer
+   Title: Mitch Maryhugh Diving Coach
+   Original line: Mitch Maryhugh Diving Coach
+
+68. Saleh Eltayeb
+   Email: 
+   Username: saleh.eltayeb
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Saleh Eltayeb Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dave Abdou Equipment Manager / Assistant Golf Coach dabdou@hamilton.edu 315-859-
+• Josh Swearingen Head Strength and Conditioning Coach/Assistant Director of Blood Fitness jswearin@hamilton.edu 315-859-
+• Kayla Brownhill Assistant Strength and Conditioning Coach kbrownhi@hamilton.edu
+• Tim Byrnes Head Coach tbyrnes@hamilton.edu 315-859-
+• Nolan Driscoll Assistant Coach ndriscol@hamilton.edu 315-859-
+• Adam Stockwell Head Coach astockwe@hamilton.edu 315-859-
+• Ryan Schmadel Assistant Coach rschmade@hamilton.edu 315-859-
+• Mahogany Green Head Coach mmgreen@hamilton.edu 315-859-
+• John Sanchez Assistant Coach jdsanche@hamilton.edu 315-859-
+• Brett Hull Head Coach bhull@hamilton.edu 315-859-
+• Lucas Burdick Assistant Coach lburdick@hamilton.edu
+• Ellen Hull Head Coach ehull@hamilton.edu 315-859-
+• Lucas Burdick Assistant Coach lburdick@hamilton.edu
+• Missy Mariano Head Coach mmariano@hamilton.edu 315-859-
+• Nicole Matos Assistant Coach nmatos@hamilton.edu 315-859-
+• Emily Conroe Assistant Coach econroe@hamilton.edu
+• Dave Murray Head Coach dmurray@hamilton.edu 315-859-
+• Jeff Friedman Assistant Coach jfriedma@hamilton.edu 315-859-
+• Deon Mash Assistant Coach dmash@hamilton.edu 315-859-
+• Dalton Maska Assistant Coach dmaska@hamilton.edu 315-859-
+• Matt Wright Assistant Coach mgwright@hamilton.edu 315-859-
+• Bill Pawloski Assistant Coach wpawlosk@hamilton.edu
+• Lauren Cupp Head Coach lcupp@hamilton.edu 315-859-
+• Dave Abdou Equipment Manager / Assistant Golf Coach dabdou@hamilton.edu 315-859-
+• Paul Hagstrom Assistant Coach phagstro@hamilton.edu 315-859-
+• Rob Haberbusch Head Coach rhaberbu@hamilton.edu 315-859-
+• Stephen Castriota Assistant Coach scastrio@hamilton.edu 315-859-
+• Kayte Holtz Head Coach kholtz@hamilton.edu 315-859-
+• Abby Kuhns Assistant Coach akuhns@hamilton.edu 315-859-
+• Alex Bollnow Assistant Coach abollnow@hamilton.edu
+• Ryan Pascarella Goaltender Coach rpascare@hamilton.edu
+• Scott Barnard Head Coach menslacrosse@hamilton.edu 315-859-
+• Cam Stone Assistant Coach cjstone@hamilton.edu 315-859-
+• Kaillie Kelly Head Coach kkelly2@hamilton.edu 315-859-
+• Reegan Vorgang Assistant Coach rvorgang@hamilton.edu 315-859-
+• Kalley Friedman Assistant Coach kgreer@hamilton.edu
+• Anna Lindgren-Streicher Head Coach alindgre@hamilton.edu 315-859-
+• Meg Conan Assistant Coach mconan@hamilton.edu 315-859-
+• Brian Dawe Assistant Coach bdawe@hamilton.edu
+• Brendan Ujvary Head Coach bujvary@hamilton.edu 315-859-
+• Matthew Guinto Assistant Coach mguinto@hamilton.edu 315-859-
+• Colette Gilligan Head Coach cgilliga@hamilton.edu 315-859-
+• Travis Regner Assistant Coach tregner@hamilton.edu 315-859-
+• Stephanie Hartquist Head Coach shartqui@hamilton.edu 315-859-
+• Kirstin Mapes Assistant Coach kmapes@hamilton.edu 315-859-
+• Erin Robson Head Coach erobson@hamilton.edu 315-859-
+• John Geissinger Head Coach jgeissin@hamilton.edu 315-859-
+• Ted Mebust Assistant Coach tmebust@hamilton.edu 315-859-
+• Peter Arsenault Head Coach parsenau@hamilton.edu 315-859-
+• Billy Boykin Head Coach wboykin@hamilton.edu 315-859-
+• Brett Hull Head Coach bhull@hamilton.edu 315-859-
+• Steve Talbot Assistant Coach stalbot@hamilton.edu 315-859-
+• Lucas Burdick Assistant Coach lburdick@hamilton.edu
+• Austen Johnson Assistant Coach axjohnso@hamilton.edu
+• Ellen Hull Head Coach ehull@hamilton.edu 315-859-
+• Steve Talbot Assistant Coach stalbot@hamilton.edu 315-859-
+• Lucas Burdick Assistant Coach lburdick@hamilton.edu
+• Austen Johnson Assistant Coach axjohnso@hamilton.edu
+• Kristin Baker Head Coach kbaker@hamilton.edu 315-859-
+• Brittany Orminski Assistant Coach borminsk@hamilton.edu 315-859-

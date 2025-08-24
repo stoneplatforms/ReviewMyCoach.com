@@ -1,0 +1,73 @@
+COACH ENTRIES FOUND - 2025-08-24 17:46:03
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Clinton College
+Organization: Clinton College Athletics
+State: New York
+
+Total coaches found: 7
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cameron Knox
+   Email: cknox@clintoncollege.edu
+   Username: cknox
+   Sports: Soccer
+   Title: s Life-Growth Coach
+   Phone: (803) 909-8183
+   Original line: Cameron Knox Men’s Life-Growth Coach 803-909-8183 cknox@clintoncollege.edu
+
+2. Nikki Nance
+   Email: nnance@clintoncollege.edu
+   Username: nnance
+   Sports: Golf
+   Title: s Golf Coach
+   Phone: 803.517.2161
+   Original line: Nikki Nance Head Men's Golf Coach 803.517.2161 nnance@clintoncollege.edu
+
+3. Arlanda Best
+   Email: abest@clintoncollege.edu
+   Username: abest
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Phone: (919) 920-1659
+   Original line: Arlanda Best Assistant Volleyball Coach 919-920-1659 abest@clintoncollege.edu
+
+4. Donnie Ingram
+   Email: dingram@clintoncollege.edu
+   Username: dingram
+   Sports: Soccer
+   Title: Growth Coach/Counselor
+   Original line: Growth Coach/Counselor dingram@clintoncollege.edu
+
+5. Vincent Robinson
+   Email: vrobinson@clintoncollege.edu
+   Username: vrobinson
+   Sports: Soccer
+   Title: Life-Growth Coach
+   Original line: Life-Growth Coach vrobinson@clintoncollege.edu
+
+6. Wakita SAAC
+   Email: wbarksdale@clintoncollege.edu
+   Username: wbarksdale
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach wbarksdale@clintoncollege.edu
+
+7.  
+   Email: 
+   Username: 
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Conditioning Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cameron Knox Men’s Life-Growth Coach 803-909-8183 cknox@clintoncollege.edu
+• Nikki Nance Head Men's Golf Coach 803.517.2161 nnance@clintoncollege.edu
+• Arlanda Best Assistant Volleyball Coach 919-920-1659 abest@clintoncollege.edu

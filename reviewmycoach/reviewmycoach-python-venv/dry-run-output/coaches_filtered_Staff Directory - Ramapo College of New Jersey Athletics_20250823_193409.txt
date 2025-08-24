@@ -1,0 +1,424 @@
+COACH ENTRIES FOUND - 2025-08-23 19:34:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Ramapo College of New Jersey
+Organization: Ramapo College of New Jersey Athletics
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. DJ Pinton
+   Email: dpinton@ramapo.edu
+   Username: dpinton
+   Sports: Soccer
+   Title: Head Coach/Athletic Facilities/Budget Coord
+   Original line: DJ Pinton Head Coach/Athletic Facilities/Budget Coord. dpinton@ramapo.edu 201-684-
+
+2. Mike Eineker
+   Email: meineker@ramapo.edu
+   Username: meineker
+   Sports: Soccer
+   Title: Head Coach/Academic Support
+   Original line: Mike Eineker Head Coach/Academic Support meineker@ramapo.edu 201-684-
+
+3. Nicole Barbella
+   Email: nbarbel1@ramapo.edu
+   Username: nbarbel1
+   Sports: Soccer
+   Title: Athletics Operations Assistant/Transportation Coordinator/Head Coach
+   Original line: Nicole Barbella Athletics Operations Assistant/Transportation Coordinator/Head Coach nbarbel1@ramapo.edu 201-684-
+
+4. Ryan Rinsky
+   Email: rrinsky@ramapo.edu
+   Username: rrinsky
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ryan Rinsky Head Coach rrinsky@ramapo.edu 201-684-
+
+5. Walker Larson
+   Email: wlarson@ramapo.edu
+   Username: wlarson
+   Sports: Baseball
+   Title: Pitching Coach
+   Original line: Walker Larson Pitching Coach wlarson@ramapo.edu
+
+6. Joe Maugeri
+   Email: jmaugeri@ramapo.edu
+   Username: jmaugeri
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Joe Maugeri Associate Head Coach jmaugeri@ramapo.edu
+
+7. Chuck McBreen
+   Email: cmcbreen@ramapo.edu
+   Username: cmcbreen
+   Sports: Basketball (Men)
+   Title: Head Coach
+   Original line: Chuck McBreen Head Coach cmcbreen@ramapo.edu 201-684-
+
+8. Mike Eineker
+   Email: meineker@ramapo.edu
+   Username: meineker
+   Sports: Basketball (Men)
+   Title: Head Coach/Academic Support
+   Original line: Mike Eineker Head Coach/Academic Support meineker@ramapo.edu 201-684-
+
+9. Alina Duran
+   Email: aduran1@ramapo.edu
+   Username: aduran1
+   Sports: Cross Country
+   Title: Assistant Coach - Throws
+   Original line: Alina Duran Assistant Coach - Throws aduran1@ramapo.edu
+
+10. Rachel McHale
+   Email: rmchale1@ramapo.edu
+   Username: rmchale1
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Rachel McHale Head Coach rmchale1@ramapo.edu 201-684-
+
+11. Nicole Barbella
+   Email: nbarbel1@ramapo.edu
+   Username: nbarbel1
+   Sports: Lacrosse (Women)
+   Title: Head Coach
+   Original line: Nicole Barbella Head Coach nbarbel1@ramapo.edu 201-684-
+
+12. DJ Pinton
+   Email: dpinton@ramapo.edu
+   Username: dpinton
+   Sports: Soccer (Men)
+   Title: Head Coach/Athletic Facilities/Budget Coord
+   Original line: DJ Pinton Head Coach/Athletic Facilities/Budget Coord. dpinton@ramapo.edu 201-684-
+
+13. Kevin Rosenberg
+   Email: krosenb2@ramapo.edu
+   Username: krosenb2
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Kevin Rosenberg Assistant Coach krosenb2@ramapo.edu
+
+14. Abby Shiffler
+   Email: ashiffle@ramapo.edu
+   Username: ashiffle
+   Sports: Soccer (Men)
+   Title: Head Coach
+   Original line: Abby Shiffler Head Coach ashiffle@ramapo.edu 201-684-
+
+15. Kevin Rosenberg
+   Email: krosenb2@ramapo.edu
+   Username: krosenb2
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Kevin Rosenberg Assistant Coach krosenb2@ramapo.edu
+
+16. Bridgette Quimpo
+   Email: bquimpo@ramapo.edu
+   Username: bquimpo
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Bridgette Quimpo Head Softball Coach bquimpo@ramapo.edu 201-684-
+
+17. Gary Orr
+   Email: gorr@ramapo.edu
+   Username: gorr
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Gary Orr Head Coach gorr@ramapo.edu 201-684-
+
+18. Ackeme Brown
+   Email: abrown8@ramapo.edu
+   Username: abrown8
+   Sports: Track & Field
+   Title: Assistant Coach - Sprints
+   Original line: Ackeme Brown Assistant Coach - Sprints abrown8@ramapo.edu
+
+19. Alina Duran
+   Email: aduran1@ramapo.edu
+   Username: aduran1
+   Sports: Track & Field
+   Title: Assistant Coach - Throws
+   Original line: Alina Duran Assistant Coach - Throws aduran1@ramapo.edu
+
+20. Tyler Kwinta
+   Email: tkwinta@ramapo.edu
+   Username: tkwinta
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Tyler Kwinta Head Coach tkwinta@ramapo.edu 201-684-
+
+21. Kristin Garibell
+   Email: kgaribel@ramapo.edu
+   Username: kgaribel
+   Sports: Volleyball
+   Title: Cheerleading Head Coach
+   Original line: Kristin Garibell Cheerleading Head Coach kgaribel@ramapo.edu
+
+22. Valentina DeSantis
+   Email: vdesanti@ramapo.edu
+   Username: vdesanti
+   Sports: Volleyball
+   Title: Dance Team Head Coach
+   Original line: Valentina DeSantis Dance Team Head Coach vdesanti@ramapo.edu
+
+23. Raza Baig
+   Email: RCNJClubTennis@ramapo.edu
+   Username: RCNJClubTennis
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Raza Baig Tennis Club Head Coach (Men's & Women's) RCNJClubTennis@ramapo.edu
+
+24. Jan Koslowsky
+   Email: jkoslows@ramapo.edu
+   Username: jkoslows
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 7680 jkoslows@ramapo.edu
+
+25. Brian Baranok
+   Email: 
+   Username: brian.baranok
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brian Baranok Assistant Coach
+
+26. Nick Camilleri
+   Email: 
+   Username: nick.camilleri
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Camilleri Assistant Coach
+
+27. Sean Donaghue
+   Email: 
+   Username: sean.donaghue
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Donaghue Assistant Coach
+
+28. Greg Westhelle
+   Email: 
+   Username: greg.westhelle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Greg Westhelle Assistant Coach
+
+29. James Garthaffner
+   Email: 
+   Username: james.garthaffner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: James Garthaffner Assistant Coach
+
+30. Chris Affuso
+   Email: 
+   Username: chris.affuso
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Affuso Assistant Coach
+
+31. Christopher Moseley
+   Email: 
+   Username: christopher.moseley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Christopher Moseley Assistant Coach
+
+32. Brian Osterlof
+   Email: 
+   Username: brian.osterlof
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brian Osterlof Assistant Coach
+
+33. Joe Esposito
+   Email: 
+   Username: joe.esposito
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Esposito Assistant Coach
+
+34. Joseph Kirk
+   Email: 
+   Username: joseph.kirk
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joseph Kirk Assistant Coach
+
+35. Dave DeFerrari
+   Email: 
+   Username: dave.deferrari
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dave DeFerrari Assistant Coach
+
+36. Elisha 
+   Email: 
+   Username: elisha
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Elisha Cross Assistant Coach
+
+37. Brianna Volunteer
+   Email: 
+   Username: brianna.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brianna Curto Volunteer Assistant Coach
+
+38. Julianna Volunteer
+   Email: 
+   Username: julianna.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Julianna McClain Volunteer Assistant Coach
+
+39. Dirceu Hurtado
+   Email: 
+   Username: dirceu.hurtado
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dirceu Hurtado Assistant Coach
+
+40. Peter Bonilla
+   Email: 
+   Username: peter.bonilla
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Peter Bonilla Assistant Coach
+
+41. Josh Schaffer
+   Email: 
+   Username: josh.schaffer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Schaffer Assistant Coach
+
+42. Yuri Quevedo
+   Email: 
+   Username: yuri.quevedo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Yuri Quevedo Assistant Coach
+
+43. Susie Volunteer
+   Email: 
+   Username: susie.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Susie Matsutani Volunteer Assistant Coach
+
+44. Ashley Stever
+   Email: 
+   Username: ashley.stever
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ashley Stever Assistant Coach
+
+45. Ilissa Volunteer
+   Email: 
+   Username: ilissa.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ilissa Whittaker Volunteer Assistant Coach
+
+46. Keith Volunteer
+   Email: 
+   Username: keith.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Keith Riggio Volunteer Assistant Coach
+
+47. Carissa Campbell
+   Email: 
+   Username: carissa.campbell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carissa Campbell Assistant Coach
+
+48. Kelly Nulty
+   Email: 
+   Username: kelly.nulty
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelly Nulty Assistant Coach
+
+49. Justina Cassavell
+   Email: jcassave@ramapo.edu
+   Username: jcassave
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Max Dubac Assistant Coach jcassave@ramapo.edu
+
+50. Angela Team
+   Email: 
+   Username: angela.team
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Angela Mazariegos Dance Team Assistant Coach
+
+51. Prasanna Fernando
+   Email: 
+   Username: prasanna.fernando
+   Sports: Tennis
+   Title: Head Coach
+   Original line: Prasanna Fernando Tennis Club Assistant Head Coach (Men's & Women's)
+
+52. Mike Ice
+   Email: 
+   Username: mike.ice
+   Sports: Hockey
+   Title: Head Coach
+   Original line: Mike Winters Ice Hockey Head Coach (Club)
+
+53. Rick Ice
+   Email: 
+   Username: rick.ice
+   Sports: Hockey
+   Title: Assistant Coach
+   Original line: Rick Kimble Ice Hockey Assistant Coach (Club)
+
+54. Zach Ice
+   Email: 
+   Username: zach.ice
+   Sports: Hockey
+   Title: Assistant Coach
+   Original line: Zach Toy Ice Hockey Assistant Coach (Club)
+
+55. Mike Volunteer
+   Email: 
+   Username: mike.volunteer
+   Sports: Hockey
+   Title: Assistant Coach
+   Original line: Mike Pitek Ice Hockey Volunteer Assistant Coach (Club)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• DJ Pinton Head Coach/Athletic Facilities/Budget Coord. dpinton@ramapo.edu 201-684-
+• Mike Eineker Head Coach/Academic Support meineker@ramapo.edu 201-684-
+• Nicole Barbella Athletics Operations Assistant/Transportation Coordinator/Head Coach nbarbel1@ramapo.edu 201-684-
+• Ryan Rinsky Head Coach rrinsky@ramapo.edu 201-684-
+• Walker Larson Pitching Coach wlarson@ramapo.edu
+• Joe Maugeri Associate Head Coach jmaugeri@ramapo.edu
+• Chuck McBreen Head Coach cmcbreen@ramapo.edu 201-684-
+• Mike Eineker Head Coach/Academic Support meineker@ramapo.edu 201-684-
+• Alina Duran Assistant Coach - Throws aduran1@ramapo.edu
+• Rachel McHale Head Coach rmchale1@ramapo.edu 201-684-
+• Nicole Barbella Head Coach nbarbel1@ramapo.edu 201-684-
+• DJ Pinton Head Coach/Athletic Facilities/Budget Coord. dpinton@ramapo.edu 201-684-
+• Kevin Rosenberg Assistant Coach krosenb2@ramapo.edu
+• Abby Shiffler Head Coach ashiffle@ramapo.edu 201-684-
+• Kevin Rosenberg Assistant Coach krosenb2@ramapo.edu
+• Bridgette Quimpo Head Softball Coach bquimpo@ramapo.edu 201-684-
+• Gary Orr Head Coach gorr@ramapo.edu 201-684-
+• Ackeme Brown Assistant Coach - Sprints abrown8@ramapo.edu
+• Alina Duran Assistant Coach - Throws aduran1@ramapo.edu
+• Tyler Kwinta Head Coach tkwinta@ramapo.edu 201-684-
+• Kristin Garibell Cheerleading Head Coach kgaribel@ramapo.edu
+• Valentina DeSantis Dance Team Head Coach vdesanti@ramapo.edu
+• Raza Baig Tennis Club Head Coach (Men's & Women's) RCNJClubTennis@ramapo.edu

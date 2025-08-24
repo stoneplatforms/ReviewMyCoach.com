@@ -1,0 +1,154 @@
+COACH ENTRIES FOUND - 2025-08-23 19:29:13
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: SALEM COMMUNITY COLLEGE
+Organization: Salem Community College Athletics
+
+Total coaches found: 17
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ashley Johnson
+   Email: ajohnson@salemcc.edu
+   Username: ajohnson
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ashley Johnson Head Coach ajohnson@salemcc.edu
+
+2. Ashley Johnson
+   Email: ajohnson@salemcc.edu
+   Username: ajohnson
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ashley Johnson Head Coach ajohnson@salemcc.edu
+
+3. Brian Marsh
+   Email: bmarsh@salemcc.edu
+   Username: bmarsh
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (215) 284-3433
+   Original line: Brian Marsh Head Coach (215) 284-3433 bmarsh@salemcc.edu
+
+4. Kiara Eubanks
+   Email: keubanks@salemcc.edu
+   Username: keubanks
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (301) 806-1604
+   Original line: Kiara Eubanks Assistant Coach (301) 806-1604 keubanks@salemcc.edu
+
+5. Garret Sample
+   Email: gsample@salemcc.edu
+   Username: gsample
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (610) 931-8423
+   Original line: Garret Sample Assistant Coach (610) 931-8423 gsample@salemcc.edu
+
+6. Mike Green
+   Email: migreen@salemcc.edu
+   Username: migreen
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mike Green Head Coach migreen@salemcc.edu
+
+7. Thomas Wilkerson
+   Email: twilkerson@salemcc.edu
+   Username: twilkerson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Thomas Wilkerson Assistant Coach twilkerson@salemcc.edu
+
+8. Marvin Kilgore
+   Email: mkilgore@salemcc.edu
+   Username: mkilgore
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Marvin Kilgore Assistant Coach mkilgore@salemcc.edu
+
+9. Angel Rodriguez
+   Email: arodriguez@salemcc.edu
+   Username: arodriguez
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Angel Rodriguez Head Coach arodriguez@salemcc.edu
+
+10. Mackenzie Freas
+   Email: mfreas@salemcc.edu
+   Username: mfreas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mackenzie Freas Assistant Coach mfreas@salemcc.edu
+
+11. Chris Watson
+   Email: cwatson@salemcc.edu
+   Username: cwatson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Watson Assistant Coach cwatson@salemcc.edu
+
+12. Josie Bryszerwski
+   Email: jbryszewski@salemcc.ed
+   Username: jbryszewski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josie Bryszerwski Assistant Coach jbryszewski@salemcc.ed
+
+13. Justin Zbikowski
+   Email: jzbikowski@salemcc.edu
+   Username: jzbikowski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Justin Zbikowski Assistant Coach jzbikowski@salemcc.edu
+
+14. Chip Chapman
+   Email: achapman@salemcc.edu
+   Username: achapman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chip Chapman Assistant Coach achapman@salemcc.edu
+
+15. Tyler McGarvey
+   Email: tmcgarvey@salemcc.edu
+   Username: tmcgarvey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyler McGarvey Assistant Coach tmcgarvey@salemcc.edu
+
+16. Bob Hughes
+   Email: rhughes@salemcc.edu
+   Username: rhughes
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Head Coach rhughes@salemcc.edu
+
+17.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ashley Johnson Head Coach ajohnson@salemcc.edu
+• Ashley Johnson Head Coach ajohnson@salemcc.edu
+• Brian Marsh Head Coach (215) 284-3433 bmarsh@salemcc.edu
+• Kiara Eubanks Assistant Coach (301) 806-1604 keubanks@salemcc.edu
+• Garret Sample Assistant Coach (610) 931-8423 gsample@salemcc.edu
+• Mike Green Head Coach migreen@salemcc.edu
+• Thomas Wilkerson Assistant Coach twilkerson@salemcc.edu
+• Marvin Kilgore Assistant Coach mkilgore@salemcc.edu
+• Angel Rodriguez Head Coach arodriguez@salemcc.edu
+• Mackenzie Freas Assistant Coach mfreas@salemcc.edu
+• Chris Watson Assistant Coach cwatson@salemcc.edu
+• Josie Bryszerwski Assistant Coach jbryszewski@salemcc.ed
+• Justin Zbikowski Assistant Coach jzbikowski@salemcc.edu
+• Chip Chapman Assistant Coach achapman@salemcc.edu
+• Tyler McGarvey Assistant Coach tmcgarvey@salemcc.edu

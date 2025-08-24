@@ -1,0 +1,304 @@
+COACH ENTRIES FOUND - 2025-08-24 17:50:01
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Niagara University
+Organization: Niagara University Athletics
+State: New York
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michelle Liaison
+   Email: mgranieri@niagara.edu
+   Username: mgranieri
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Michelle Granieri Mental Health Counselor – Student-Athlete Liaison; Head Coach (Danceline) mgranieri@niagara.edu 716-286-
+
+2. Sydney Rice
+   Email: rice@niagara.edu
+   Username: rice
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Sydney Rice Head Strength & Conditioning Coach rice@niagara.edu
+
+3. Matt Metz
+   Email: matthewmetz@niagara.edu
+   Username: matthewmetz
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Matt Metz Assistant Strength & Conditioning Coach matthewmetz@niagara.edu
+
+4. Matt Spatafora
+   Email: mspatafora@niagara.edu
+   Username: mspatafora
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Matt Spatafora Head Coach mspatafora@niagara.edu 716-286-
+
+5. Matt Hape
+   Email: mhape@niagara.edu
+   Username: mhape
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Hape Assistant Coach mhape@niagara.edu
+
+6. Chris Buchanan
+   Email: buchanan@niagara.edu
+   Username: buchanan
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Chris Buchanan Assistant Coach buchanan@niagara.edu
+
+7. Will Holland
+   Email: wholland@niagara.edu
+   Username: wholland
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Will Holland Assistant Coach wholland@niagara.edu
+
+8. Jada Pierce
+   Email: jpierce@niagara.edu
+   Username: jpierce
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jada Pierce Head Coach jpierce@niagara.edu
+
+9. Brianna Chambers
+   Email: bchambers@niagara.edu
+   Username: bchambers
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Brianna Chambers Associate Head Coach bchambers@niagara.edu 716-286-
+
+10. Lester Harbin
+   Email: lharbin@niagara.edu
+   Username: lharbin
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Lester Harbin Associate Head Coach lharbin@niagara.edu 716-286-
+
+11. Jeff Walsh
+   Email: jefferywalsh@niagara.edu
+   Username: jefferywalsh
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jeff Walsh Head Coach jefferywalsh@niagara.edu
+
+12. Brittany Tully
+   Email: btully@niagara.edu
+   Username: btully
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brittany Tully Head Coach btully@niagara.edu
+
+13. Nick Gray
+   Email: ngray@niagara.edu
+   Username: ngray
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Nick Gray Head Coach ngray@niagara.edu
+
+14. Michelle Liaison
+   Email: mgranieri@niagara.edu
+   Username: mgranieri
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Michelle Granieri Mental Health Counselor – Student-Athlete Liaison; Head Coach (Danceline) mgranieri@niagara.edu 716-286-
+
+15. Tim Frank
+   Email: tfrank@niagara.edu
+   Username: tfrank
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tim Frank Head Coach tfrank@niagara.edu
+
+16. Mark Phalon
+   Email: nupurpleeagles@gmail.com
+   Username: nupurpleeagles
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Mark Phalon Associate Head Coach nupurpleeagles@gmail.com
+
+17. Wendy Stone
+   Email: wstone@niagara.edu
+   Username: wstone
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Wendy Stone Head Coach wstone@niagara.edu 716-286-
+
+18. Amy Rhodes
+   Email: amartin@niagara.edu
+   Username: amartin
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Amy Rhodes Associate Head Coach amartin@niagara.edu 716-286-
+
+19. Bill Boyle
+   Email: wboyle@niagara.edu
+   Username: wboyle
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bill Boyle Head Coach wboyle@niagara.edu 716-286-
+
+20. David Hesch
+   Email: dhesch@niagara.edu
+   Username: dhesch
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: David Hesch Assistant Coach dhesch@niagara.edu
+
+21. Donny George
+   Email: donnyg@niagara.edu
+   Username: donnyg
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Donny George Head Coach donnyg@niagara.edu
+
+22. Kendrick Tarmino
+   Email: ktarmino@niagara.edu
+   Username: ktarmino
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kendrick Tarmino Assistant Coach ktarmino@niagara.edu
+
+23. Matt Bosse
+   Email: mbosse@niagara.edu
+   Username: mbosse
+   Sports: Softball
+   Title: Head Coach
+   Original line: Matt Bosse Head Coach mbosse@niagara.edu
+
+24. Erick Garcia
+   Email: egarcia@niagara.edu
+   Username: egarcia
+   Sports: Softball
+   Title: Head Coach
+   Original line: Erick Garcia Head Coach egarcia@niagara.edu
+
+25. Kendra Daigler
+   Email: kdaigler@niagara.edu
+   Username: kdaigler
+   Sports: Softball
+   Title: Garcia Assistant Coach
+   Original line: Kendra Daigler Garcia Assistant Coach kdaigler@niagara.edu
+
+26. Nick Gray
+   Email: ngray@niagara.edu
+   Username: ngray
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Nick Gray Head Coach ngray@niagara.edu
+
+27. Ren Cefra
+   Email: rcefra@niagara.edu
+   Username: rcefra
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Ren Cefra Head Coach rcefra@niagara.edu 716-286-
+
+28. Greg Paulus
+   Email: 
+   Username: greg.paulus
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Greg Paulus Head Coach 716-286-
+
+29. Holly Johnson
+   Email: 
+   Username: holly.johnson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Holly Johnson Assistant Coach
+
+30. Dom Clementi
+   Email: 
+   Username: dom.clementi
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dom Clementi Assistant Coach
+
+31.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach TBD
+
+32. Jason Lammers
+   Email: 
+   Username: jason.lammers
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jason Lammers Head Coach
+
+33. Philip Rhodes
+   Email: prhodes@niagara.edu
+   Username: prhodes
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tehoka Nanticoke Assistant Coach prhodes@niagara.edu
+
+34. Matt Lopoyda
+   Email: 
+   Username: matt.lopoyda
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Lopoyda Assistant Coach
+
+35. Dan Goalkeeper
+   Email: 
+   Username: dan.goalkeeper
+   Sports: Soccer
+   Title: Dan Panaro Goalkeeper Coach
+   Original line: Dan Panaro Goalkeeper Coach
+
+36. Paul Gray
+   Email: 
+   Username: paul.gray
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Paul Gray Head Coach
+
+37. Stacia Gollogly
+   Email: 
+   Username: stacia.gollogly
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Stacia Gollogly Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michelle Granieri Mental Health Counselor – Student-Athlete Liaison; Head Coach (Danceline) mgranieri@niagara.edu 716-286-
+• Sydney Rice Head Strength & Conditioning Coach rice@niagara.edu
+• Matt Metz Assistant Strength & Conditioning Coach matthewmetz@niagara.edu
+• Matt Spatafora Head Coach mspatafora@niagara.edu 716-286-
+• Matt Hape Assistant Coach mhape@niagara.edu
+• Chris Buchanan Assistant Coach buchanan@niagara.edu
+• Will Holland Assistant Coach wholland@niagara.edu
+• Jada Pierce Head Coach jpierce@niagara.edu
+• Brianna Chambers Associate Head Coach bchambers@niagara.edu 716-286-
+• Lester Harbin Associate Head Coach lharbin@niagara.edu 716-286-
+• Jeff Walsh Head Coach jefferywalsh@niagara.edu
+• Brittany Tully Head Coach btully@niagara.edu
+• Nick Gray Head Coach ngray@niagara.edu
+• Michelle Granieri Mental Health Counselor – Student-Athlete Liaison; Head Coach (Danceline) mgranieri@niagara.edu 716-286-
+• Tim Frank Head Coach tfrank@niagara.edu
+• Mark Phalon Associate Head Coach nupurpleeagles@gmail.com
+• Wendy Stone Head Coach wstone@niagara.edu 716-286-
+• Amy Rhodes Associate Head Coach amartin@niagara.edu 716-286-
+• Bill Boyle Head Coach wboyle@niagara.edu 716-286-
+• David Hesch Assistant Coach dhesch@niagara.edu
+• Donny George Head Coach donnyg@niagara.edu
+• Kendrick Tarmino Assistant Coach ktarmino@niagara.edu
+• Matt Bosse Head Coach mbosse@niagara.edu
+• Erick Garcia Head Coach egarcia@niagara.edu
+• Kendra Daigler Garcia Assistant Coach kdaigler@niagara.edu
+• Nick Gray Head Coach ngray@niagara.edu
+• Ren Cefra Head Coach rcefra@niagara.edu 716-286-

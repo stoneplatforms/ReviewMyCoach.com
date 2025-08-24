@@ -1,0 +1,407 @@
+COACH ENTRIES FOUND - 2025-08-24 17:47:19
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Farmingdale State College
+Organization: Farmingdale State College Athletics
+State: New York
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Williams
+   Email: williar@farmingdale.edu
+   Username: williar
+   Sports: Golf
+   Title: Assistant AD / Head Men's Golf Coach
+   Original line: Ryan Williams Assistant AD / Head Men's Golf Coach williar@farmingdale.edu 934-420-
+
+2. Facility Rentals
+   Email: twomeyb@farmingdale.edu
+   Username: twomeyb
+   Sports: Basketball
+   Title: Brendan Twomey Head Men's Basketball Coach /
+   Original line: Brendan Twomey Head Men's Basketball Coach / Facility Rentals twomeyb@farmingdale.edu 934-420-
+
+3. Erin Calkins
+   Email: calkine@farmingdale.edu
+   Username: calkine
+   Sports: Lacrosse
+   Title: s Lacrosse Coach / Academics
+   Original line: Erin Calkins Head Women's Lacrosse Coach / Academics calkine@farmingdale.edu 934-420-
+
+4. Keith Osik
+   Email: osikk@farmingdale.edu
+   Username: osikk
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Keith Osik Head Baseball Coach osikk@farmingdale.edu 934-420-
+
+5. Mike McCabe
+   Email: mccabemg@farmingdale.edu
+   Username: mccabemg
+   Sports: Baseball
+   Title: Associate Head Baseball Coach
+   Original line: Mike McCabe Associate Head Baseball Coach mccabemg@farmingdale.edu
+
+6. Anthony Zitaglio
+   Email: zitaglam@farmingdale.edu
+   Username: zitaglam
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Anthony Zitaglio Assistant Baseball Coach zitaglam@farmingdale.edu
+
+7. Facility Rentals
+   Email: twomeyb@farmingdale.edu
+   Username: twomeyb
+   Sports: Baseball
+   Title: Brendan Twomey Head Men's Basketball Coach /
+   Original line: Brendan Twomey Head Men's Basketball Coach / Facility Rentals twomeyb@farmingdale.edu 934-420-
+
+8. Team Apparel
+   Email: raisfes@farmingdale.edu
+   Username: raisfes
+   Sports: Baseball
+   Title: Steve Raisfeld Associate Head Men's Basketball Coach /
+   Original line: Steve Raisfeld Associate Head Men's Basketball Coach / Team Apparel raisfes@farmingdale.edu 934-420-
+
+9. George Riefenstahl
+   Email: riefgp@farmingdale.edu
+   Username: riefgp
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: George Riefenstahl Assistant Men's Basketball Coach riefgp@farmingdale.edu
+
+10. Jaylin Miller
+   Email: millerjj@farmingdale.edu
+   Username: millerjj
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Jaylin Miller Assistant Men's Basketball Coach millerjj@farmingdale.edu
+
+11. Mark Dellecave
+   Email: dellecms@farmingdale.edu
+   Username: dellecms
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Mark Dellecave Head Women's Basketball Coach dellecms@farmingdale.edu 934-420-
+
+12. Daniela Georgieva
+   Email: georgid@farmingdale.edu
+   Username: georgid
+   Sports: Baseball
+   Title: Head Cross Country and Track & Field Coach
+   Original line: Daniela Georgieva Head Cross Country and Track & Field Coach georgid@farmingdale.edu 934-420-
+
+13. Ryan Williams
+   Email: williar@farmingdale.edu
+   Username: williar
+   Sports: Baseball
+   Title: Assistant AD / Head Men's Golf Coach
+   Original line: Ryan Williams Assistant AD / Head Men's Golf Coach williar@farmingdale.edu 934-420-
+
+14. Sean Chamberlain
+   Email: chambese@farmingdale.edu
+   Username: chambese
+   Sports: Baseball
+   Title: Head Men's Lacrosse Coach
+   Original line: Sean Chamberlain Head Men's Lacrosse Coach chambese@farmingdale.edu 934-420-
+
+15. Terrence Haggerty
+   Email: haggertm@farmingdale.edu
+   Username: haggertm
+   Sports: Baseball
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Terrence Haggerty Assistant Men's Lacrosse Coach - Offensive Coordinator haggertm@farmingdale.edu
+
+16. Brendan Chamberlain
+   Email: chambebr@farmingdale.edu
+   Username: chambebr
+   Sports: Baseball
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Brendan Chamberlain Assistant Men's Lacrosse Coach - Recruiting Director chambebr@farmingdale.edu
+
+17. Asst 
+   Email: wandlejd@farmingdale.edu
+   Username: wandlejd
+   Sports: Baseball
+   Title: Jake Wandle Assistant Men's Lacrosse Coach
+   Original line: Jake Wandle Assistant Men's Lacrosse Coach - Asst. Defensive wandlejd@farmingdale.edu
+
+18. Erin Calkins
+   Email: calkine@farmingdale.edu
+   Username: calkine
+   Sports: Baseball
+   Title: s Lacrosse Coach / Academics
+   Original line: Erin Calkins Head Women's Lacrosse Coach / Academics calkine@farmingdale.edu 934-420-
+
+19. Chuck Schimpf
+   Email: schimpc@farmingdale.edu
+   Username: schimpc
+   Sports: Baseball
+   Title: Head Men's Soccer Coach
+   Original line: Chuck Schimpf Head Men's Soccer Coach schimpc@farmingdale.edu 934-420-
+
+20. Ashley Monzillo
+   Email: monzai@farmingdale.edu
+   Username: monzai
+   Sports: Baseball
+   Title: Assistant Men's & Women's Soccer Coach
+   Original line: Ashley Monzillo Assistant Men's & Women's Soccer Coach - Director of monzai@farmingdale.edu
+
+21. Chris Roche
+   Email: rochec@farmingdale.edu
+   Username: rochec
+   Sports: Baseball
+   Title: Head Women's Soccer Coach
+   Original line: Chris Roche Head Women's Soccer Coach rochec@farmingdale.edu 934-420-
+
+22. Fred Pavey
+   Email: paveyf@farmingdale.edu
+   Username: paveyf
+   Sports: Baseball
+   Title: Assistant Women's Soccer Coach
+   Original line: Fred Pavey Assistant Women's Soccer Coach paveyf@farmingdale.edu
+
+23. Ashley Monzillo
+   Email: monzai@farmingdale.edu
+   Username: monzai
+   Sports: Baseball
+   Title: Assistant Men's & Women's Soccer Coach
+   Original line: Ashley Monzillo Assistant Men's & Women's Soccer Coach - Director of monzai@farmingdale.edu
+
+24. Travel 
+   Email: penninla@farmingdale.edu
+   Username: penninla
+   Sports: Softball
+   Title: Liz Pennino Head Softball Coach /
+   Original line: Liz Pennino Head Softball Coach / Travel Coordinator penninla@farmingdale.edu 934-420-
+
+25. Frank Montelione
+   Email: montelfj@farmingdale.edu
+   Username: montelfj
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Frank Montelione Assistant Softball Coach montelfj@farmingdale.edu
+
+26. Derek Stanya
+   Email: stanyada@farmingdale.edu
+   Username: stanyada
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Derek Stanya Assistant Softball Coach stanyada@farmingdale.edu
+
+27. Adam Waterhouse
+   Email: waterha@farmingdale.edu
+   Username: waterha
+   Sports: Softball
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Adam Waterhouse Head Men's and Women's Tennis Coach waterha@farmingdale.edu 934-420-
+
+28. Rich Hume
+   Email: humer@farmingdale.edu
+   Username: humer
+   Sports: Softball
+   Title: Associate Head Men's and Women's Tennis Coach
+   Original line: Rich Hume Associate Head Men's and Women's Tennis Coach humer@farmingdale.edu
+
+29. Daniela Georgieva
+   Email: georgid@farmingdale.edu
+   Username: georgid
+   Sports: Softball
+   Title: Head Cross Country and Track & Field Coach
+   Original line: Daniela Georgieva Head Cross Country and Track & Field Coach georgid@farmingdale.edu 934-420-
+
+30. Stan Georgiev
+   Email: georgisb@farmingdale.edu
+   Username: georgisb
+   Sports: Softball
+   Title: Volunteer Assistant Track & Field Coach
+   Original line: Stan Georgiev Volunteer Assistant Track & Field Coach georgisb@farmingdale.edu
+
+31. Kellie Block
+   Email: blockka@farmingdale.edu
+   Username: blockka
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Kellie Block Head Women's Volleyball Coach blockka@farmingdale.edu 934-420-
+
+32. Brooke Cole
+   Email: colebb@farmingdale.edu
+   Username: colebb
+   Sports: Softball
+   Title: Associate Head Women's Volleyball Coach
+   Original line: Brooke Cole Associate Head Women's Volleyball Coach colebb@farmingdale.edu
+
+33. Rory Block
+   Email: blockre@farmingdale.edu
+   Username: blockre
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Rory Block Assistant Women's Volleyball Coach blockre@farmingdale.edu
+
+34. Jalyn Brown
+   Email: 
+   Username: jalyn.brown
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Jalyn Brown Assistant Women's Basketball Coach
+
+35. Essence Casey
+   Email: 
+   Username: essence.casey
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Essence Casey Assistant Women's Basketball Coach
+
+36. Stacy Papantoniou
+   Email: 
+   Username: stacy.papantoniou
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Stacy Papantoniou Assistant Women's Basketball Coach
+
+37. Emily Pohalski
+   Email: 
+   Username: emily.pohalski
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Emily Pohalski Assistant Women's Basketball Coach
+
+38. Joseph VI
+   Email: 
+   Username: joseph.vi
+   Sports: Track & Field, Cross Country
+   Title: Joseph Stocken VI Assistant Cross Country/Track & Field Coach
+   Original line: Joseph Stocken VI Assistant Cross Country/Track & Field Coach
+
+39. Alycia Haynes
+   Email: 
+   Username: alycia.haynes
+   Sports: Track & Field, Cross Country
+   Title: Alycia Haynes Assistant Cross Country/Track & Field Coach
+   Original line: Alycia Haynes Assistant Cross Country/Track & Field Coach
+
+40. Michael Montagnino
+   Email: 
+   Username: michael.montagnino
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Michael Montagnino Assistant Men's Golf Coach
+
+41. Brad Castaldy
+   Email: 
+   Username: brad.castaldy
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Brad Castaldy Assistant Men's Golf Coach
+
+42. Antonio Masone
+   Email: 
+   Username: antonio.masone
+   Sports: Lacrosse
+   Title: s Lacrosse Coach - Defensive Coordinator
+   Original line: Antonio Masone Assistant Men's Lacrosse Coach - Defensive Coordinator
+
+43. Christian Chamberlain
+   Email: 
+   Username: christian.chamberlain
+   Sports: Lacrosse
+   Title: s Lacrosse Coach - Specialist Coordinator
+   Original line: Christian Chamberlain Assistant Men's Lacrosse Coach - Specialist Coordinator
+
+44. Erin Collins
+   Email: 
+   Username: erin.collins
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Erin Collins Assistant Women's Lacrosse Coach
+
+45. Jennifer Lukas
+   Email: 
+   Username: jennifer.lukas
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Jennifer Lukas Assistant Women's Lacrosse Coach
+
+46. Athena Vogiatzis
+   Email: 
+   Username: athena.vogiatzis
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Athena Vogiatzis Assistant Women's Lacrosse Coach
+
+47. John Stueckenschneider
+   Email: 
+   Username: john.stueckenschneider
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: John Stueckenschneider Assistant Men's & Women's Soccer Coach
+
+48. Sam Anjo
+   Email: 
+   Username: sam.anjo
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Sam Anjo Assistant Men's Soccer Coach
+
+49. Caryl Senn-Griffiths
+   Email: 
+   Username: caryl.senn.griffiths
+   Sports: Track & Field
+   Title: Caryl Senn-Griffiths Assistant Track & Field Coach
+   Original line: Caryl Senn-Griffiths Assistant Track & Field Coach
+
+50. Jim Henderson
+   Email: 
+   Username: jim.henderson
+   Sports: Track & Field
+   Title: Jim Henderson Assistant Track & Field Coach
+   Original line: Jim Henderson Assistant Track & Field Coach
+
+51. Mikayla Profeta
+   Email: 
+   Username: mikayla.profeta
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Mikayla Profeta Assistant Women's Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Williams Assistant AD / Head Men's Golf Coach williar@farmingdale.edu 934-420-
+• Brendan Twomey Head Men's Basketball Coach / Facility Rentals twomeyb@farmingdale.edu 934-420-
+• Erin Calkins Head Women's Lacrosse Coach / Academics calkine@farmingdale.edu 934-420-
+• Keith Osik Head Baseball Coach osikk@farmingdale.edu 934-420-
+• Mike McCabe Associate Head Baseball Coach mccabemg@farmingdale.edu
+• Anthony Zitaglio Assistant Baseball Coach zitaglam@farmingdale.edu
+• Brendan Twomey Head Men's Basketball Coach / Facility Rentals twomeyb@farmingdale.edu 934-420-
+• Steve Raisfeld Associate Head Men's Basketball Coach / Team Apparel raisfes@farmingdale.edu 934-420-
+• George Riefenstahl Assistant Men's Basketball Coach riefgp@farmingdale.edu
+• Jaylin Miller Assistant Men's Basketball Coach millerjj@farmingdale.edu
+• Mark Dellecave Head Women's Basketball Coach dellecms@farmingdale.edu 934-420-
+• Daniela Georgieva Head Cross Country and Track & Field Coach georgid@farmingdale.edu 934-420-
+• Ryan Williams Assistant AD / Head Men's Golf Coach williar@farmingdale.edu 934-420-
+• Sean Chamberlain Head Men's Lacrosse Coach chambese@farmingdale.edu 934-420-
+• Terrence Haggerty Assistant Men's Lacrosse Coach - Offensive Coordinator haggertm@farmingdale.edu
+• Brendan Chamberlain Assistant Men's Lacrosse Coach - Recruiting Director chambebr@farmingdale.edu
+• Jake Wandle Assistant Men's Lacrosse Coach - Asst. Defensive wandlejd@farmingdale.edu
+• Erin Calkins Head Women's Lacrosse Coach / Academics calkine@farmingdale.edu 934-420-
+• Chuck Schimpf Head Men's Soccer Coach schimpc@farmingdale.edu 934-420-
+• Ashley Monzillo Assistant Men's & Women's Soccer Coach - Director of monzai@farmingdale.edu
+• Chris Roche Head Women's Soccer Coach rochec@farmingdale.edu 934-420-
+• Fred Pavey Assistant Women's Soccer Coach paveyf@farmingdale.edu
+• Ashley Monzillo Assistant Men's & Women's Soccer Coach - Director of monzai@farmingdale.edu
+• Liz Pennino Head Softball Coach / Travel Coordinator penninla@farmingdale.edu 934-420-
+• Frank Montelione Assistant Softball Coach montelfj@farmingdale.edu
+• Derek Stanya Assistant Softball Coach stanyada@farmingdale.edu
+• Adam Waterhouse Head Men's and Women's Tennis Coach waterha@farmingdale.edu 934-420-
+• Rich Hume Associate Head Men's and Women's Tennis Coach humer@farmingdale.edu
+• Daniela Georgieva Head Cross Country and Track & Field Coach georgid@farmingdale.edu 934-420-
+• Stan Georgiev Volunteer Assistant Track & Field Coach georgisb@farmingdale.edu
+• Kellie Block Head Women's Volleyball Coach blockka@farmingdale.edu 934-420-
+• Brooke Cole Associate Head Women's Volleyball Coach colebb@farmingdale.edu
+• Rory Block Assistant Women's Volleyball Coach blockre@farmingdale.edu

@@ -1,0 +1,166 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:43
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Michael Cullen College Laboratory Technician mcullen@bmcc.cuny.edu 212-220-8262
+Organization: Borough of Manhattan Community College Athletics
+State: New York
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. Thomas Beirne
+   Email: tbeirne@bmcc.cuny.edu
+   Username: tbeirne
+   Sports: Baseball
+   Title: Head Coach - Baseball
+   Phone: (212) 776-6088
+   Original line: Thomas Beirne Head Coach - Baseball tbeirne@bmcc.cuny.edu 212-776-6088
+
+2. Ricardo Villanueva
+   Email: rvillanueva@bmcc.cuny.edu
+   Username: rvillanueva
+   Sports: Cross Country
+   Title: Head Coach - Cross Country/Track & Field
+   Phone: (212) 220-8260
+   Original line: Ricardo Villanueva Head Coach - Cross Country/Track & Field rvillanueva@bmcc.cuny.edu 212-220-8260
+
+3. Tommy Keenan
+   Email: tkeenan@bmcc.cuny.edu
+   Username: tkeenan
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (212) 776-6480
+   Original line: Tommy Keenan Head Coach - Men's Basketball tkeenan@bmcc.cuny.edu 212-776-6480
+
+4. Modou Seck
+   Email: mseck@bmcc.cuny.edu
+   Username: mseck
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Modou Seck Head Coach - Men's Soccer mseck@bmcc.cuny.edu
+
+5. Vaughn Titus
+   Email: vtitus@bmcc.cuny.edu
+   Username: vtitus
+   Sports: Cross Country
+   Title: Head Coach - Men's &
+   Phone: (212) 776-6088
+   Original line: Vaughn Titus Head Coach - Men's & Women's Volleyball vtitus@bmcc.cuny.edu 212-776-6088
+
+6. Ricardo Villanueva
+   Email: rvillanueva@bmcc.cuny.edu
+   Username: rvillanueva
+   Sports: Track & Field
+   Title: Head Coach - Cross Country/Track & Field
+   Phone: (212) 220-8260
+   Original line: Ricardo Villanueva Head Coach - Cross Country/Track & Field rvillanueva@bmcc.cuny.edu 212-220-8260
+
+7. Anthony Alfaro
+   Email: aalfaro@bmcc.cuny.edu
+   Username: aalfaro
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: (212) 776-2713
+   Original line: Anthony Alfaro Head Coach – Women’s Basketball aalfaro@bmcc.cuny.edu 212-776-2713
+
+8. Tobechukwu Obi
+   Email: tobi@bmcc.cuny.edu
+   Username: tobi
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Tobechukwu Obi Head Coach - Women's Soccer tobi@bmcc.cuny.edu
+
+9. Vaughn Titus
+   Email: vtitus@bmcc.cuny.edu
+   Username: vtitus
+   Sports: Track & Field
+   Title: Head Coach - Men's &
+   Phone: (212) 776-6088
+   Original line: Vaughn Titus Head Coach - Men's & Women's Volleyball vtitus@bmcc.cuny.edu 212-776-6088
+
+10. Matthew Ruiz
+   Email: mruiz@bmcc.cuny.edu
+   Username: mruiz
+   Sports: Baseball
+   Title: Assistant Coach - Baseball
+   Original line: Jacob Tobin Assistant Coach - Baseball mruiz@bmcc.cuny.edu
+
+11. Eva Lassen
+   Email: elassen@bmcc.cuny.edu
+   Username: elassen
+   Sports: Track & Field, Cross Country
+   Title: Assistant Coach - Cross Country/Track & Field
+   Original line: Roy Gomes Assistant Coach - Cross Country/Track & Field elassen@bmcc.cuny.edu
+
+12. William Brown
+   Email: 
+   Username: william.brown
+   Sports: Basketball
+   Title: Head Coach - Men
+   Original line: William Brown Associate Head Coach - Men's Basketball
+
+13. Rory Plunkett
+   Email: 
+   Username: rory.plunkett
+   Sports: Basketball
+   Title: Assistant Coach - Men
+   Original line: Rory Plunkett Assistant Coach - Men's Basketball
+
+14. Dimitri Weeks
+   Email: 
+   Username: dimitri.weeks
+   Sports: Basketball
+   Title: Assistant Coach - Men
+   Original line: Dimitri Weeks Assistant Coach - Men's Basketball
+
+15. Souleymane Bah
+   Email: 
+   Username: souleymane.bah
+   Sports: Soccer
+   Title: Assistant Coach - Men
+   Original line: Souleymane Bah Assistant Coach - Men's Soccer
+
+16. Fernman Jones
+   Email: 
+   Username: fernman.jones
+   Sports: Basketball
+   Title: Assistant Coach - Women
+   Original line: Fernman Jones Assistant Coach - Women's Basketball
+
+17. Alicia Tomby
+   Email: 
+   Username: alicia.tomby
+   Sports: Basketball
+   Title: Assistant Coach - Women
+   Original line: Alicia Tomby Assistant Coach - Women's Basketball
+
+18. Keshawna Weston
+   Email: 
+   Username: keshawna.weston
+   Sports: Basketball
+   Title: Assistant Coach - Women
+   Original line: Keshawna Weston Assistant Coach - Women's Basketball
+
+19. Antonnecier James
+   Email: 
+   Username: antonnecier.james
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Antonnecier James Assistant Coach - Women's Soccer
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Thomas Beirne Head Coach - Baseball tbeirne@bmcc.cuny.edu 212-776-6088
+• Ricardo Villanueva Head Coach - Cross Country/Track & Field rvillanueva@bmcc.cuny.edu 212-220-8260
+• Tommy Keenan Head Coach - Men's Basketball tkeenan@bmcc.cuny.edu 212-776-6480
+• Modou Seck Head Coach - Men's Soccer mseck@bmcc.cuny.edu
+• Vaughn Titus Head Coach - Men's & Women's Volleyball vtitus@bmcc.cuny.edu 212-776-6088
+• Ricardo Villanueva Head Coach - Cross Country/Track & Field rvillanueva@bmcc.cuny.edu 212-220-8260
+• Anthony Alfaro Head Coach – Women’s Basketball aalfaro@bmcc.cuny.edu 212-776-2713
+• Tobechukwu Obi Head Coach - Women's Soccer tobi@bmcc.cuny.edu
+• Vaughn Titus Head Coach - Men's & Women's Volleyball vtitus@bmcc.cuny.edu 212-776-6088

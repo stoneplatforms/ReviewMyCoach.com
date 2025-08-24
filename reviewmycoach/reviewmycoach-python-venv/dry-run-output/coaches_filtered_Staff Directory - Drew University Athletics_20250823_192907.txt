@@ -1,0 +1,531 @@
+COACH ENTRIES FOUND - 2025-08-23 19:29:08
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Drew University
+Organization: Drew University Athletics
+
+Total coaches found: 66
+
+PARSED ENTRIES:
+----------------------------------------
+1. Erica Mehalick
+   Email: emehalick@drew.edu
+   Username: emehalick
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (973) 408-3017
+   Original line: Erica Mehalick Head Softball Coach, Senior Woman emehalick@drew.edu 973-408-3017
+
+2. Brian Eberly
+   Email: beberly@drew.edu
+   Username: beberly
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: (973) 408-3902
+   Original line: Brian Eberly Head Baseball Coach beberly@drew.edu 973-408-3902
+
+3. Vinny Carlesi
+   Email: vcarlesi@drew.edu
+   Username: vcarlesi
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Phone: (973) 408-3902
+   Original line: Vinny Carlesi Jr. Assistant Baseball Coach vcarlesi@drew.edu 973-408-3902
+
+4. Nick DeStio
+   Email: ndestio@drew.edu
+   Username: ndestio
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Nick DeStio Assistant Baseball Coach ndestio@drew.edu
+
+5. Anthony Goergen
+   Email: agoergen@drew.edu
+   Username: agoergen
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Anthony Goergen Assistant Baseball Coach agoergen@drew.edu
+
+6. Joseph Zanko
+   Email: jzanko@drew.edu
+   Username: jzanko
+   Sports: Cross Country
+   Title: III Fencing Head Coach
+   Phone: (973) 408-3497
+   Original line: Joseph Zanko III Fencing Head Coach jzanko@drew.edu 973-408-3497
+
+7. Andrew Zlotnick
+   Email: azlotnick@drew.edu
+   Username: azlotnick
+   Sports: Cross Country
+   Title: Assistant Fencing Coach
+   Original line: Andrew Zlotnick Assistant Fencing Coach azlotnick@drew.edu
+
+8. Claire Busch
+   Email: cbusch@drew.edu
+   Username: cbusch
+   Sports: Cross Country
+   Title: Assistant Fencing Coach
+   Original line: Claire Busch Assistant Fencing Coach cbusch@drew.edu
+
+9. Summer Kortmann
+   Email: swashburn@drew.edu
+   Username: swashburn
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Phone: (973) 408-3440
+   Original line: Summer Kortmann Head Field Hockey Coach swashburn@drew.edu 973-408-3440
+
+10. Jenna Segrave
+   Email: jsegrave@drew.edu
+   Username: jsegrave
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Jenna Segrave Assistant Field Hockey Coach jsegrave@drew.edu
+
+11. Lucas Artigliere
+   Email: lartigliere@drew.edu
+   Username: lartigliere
+   Sports: Track & Field
+   Title: Head Golf Coach
+   Phone: (973) 408-3473
+   Original line: Lucas Artigliere Head Golf Coach lartigliere@drew.edu 973-408-3473
+
+12. Ryan Van
+   Email: rvanzelst@drew.edu
+   Username: rvanzelst
+   Sports: Basketball (Men)
+   Title: Zelst Head Men's Basketball Coach
+   Phone: (973) 408-3719
+   Original line: Ryan Van Zelst Head Men's Basketball Coach rvanzelst@drew.edu 973-408-3719
+
+13. Dylan Musial
+   Email: dmusial@drew.edu
+   Username: dmusial
+   Sports: Basketball (Men)
+   Title: Assistant Men's Basketball Coach
+   Original line: Dylan Musial Assistant Men's Basketball Coach dmusial@drew.edu
+
+14. Malcolm Sidebottom
+   Email: msidebottom@drew.edu
+   Username: msidebottom
+   Sports: Basketball (Men)
+   Title: s Basketball Coach/Head
+   Original line: Malcolm Sidebottom Assistant Men's Basketball Coach/Head msidebottom@drew.edu
+
+15. Josh Kline
+   Email: jkline@drew.edu
+   Username: jkline
+   Sports: Basketball (Men)
+   Title: Assistant Men's Basketball Coach
+   Original line: Josh Kline Assistant Men's Basketball Coach jkline@drew.edu
+
+16. Dan Leidl
+   Email: dleidl@drew.edu
+   Username: dleidl
+   Sports: Basketball (Men)
+   Title: Men's Lacrosse Head Coach
+   Phone: (973) 408-3573
+   Original line: Dan Leidl C'97 Men's Lacrosse Head Coach dleidl@drew.edu 973-408-3573
+
+17. Dave DeRiso
+   Email: dderiso@drew.edu
+   Username: dderiso
+   Sports: Basketball (Men)
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Dave DeRiso C'00 Assistant Men's Lacrosse Coach dderiso@drew.edu
+
+18. Lenny Armuth
+   Email: larmuth@drew.edu
+   Username: larmuth
+   Sports: Basketball (Men)
+   Title: Head Men's Soccer Coach
+   Phone: (973) 408-3135
+   Original line: Lenny Armuth Head Men's Soccer Coach larmuth@drew.edu 973-408-3135
+
+19. Alan McClintock
+   Email: amcclintock@drew.edu
+   Username: amcclintock
+   Sports: Basketball (Men)
+   Title: Assistant Men's Soccer Coach
+   Original line: Alan McClintock Assistant Men's Soccer Coach amcclintock@drew.edu
+
+20. Julian Diaz
+   Email: jdiaz1@drew.edu
+   Username: jdiaz1
+   Sports: Basketball (Men)
+   Title: Head Men's Volleyball Coach
+   Phone: (973) 408-3491
+   Original line: Julian Diaz Head Men's Volleyball Coach jdiaz1@drew.edu 973-408-3491
+
+21. Luke Frankenfield
+   Email: lfrankenfield@drew.edu
+   Username: lfrankenfield
+   Sports: Basketball (Men)
+   Title: Assistant Men's Volleyball Coach
+   Original line: Luke Frankenfield Assistant Men's Volleyball Coach lfrankenfield@drew.edu
+
+22. Erica Mehalick
+   Email: emehalick@drew.edu
+   Username: emehalick
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (973) 408-3017
+   Original line: Erica Mehalick Head Softball Coach, Senior Woman emehalick@drew.edu 973-408-3017
+
+23. Rich Munson
+   Email: rmunson@drew.edu
+   Username: rmunson
+   Sports: Swimming
+   Title: Head Swimming & Diving Coach /
+   Phone: (973) 408-3516
+   Original line: Rich Munson Head Swimming & Diving Coach / rmunson@drew.edu 973-408-3516
+
+24. Logan Cale
+   Email: lcale@drew.edu
+   Username: lcale
+   Sports: Swimming
+   Title: Assistant Swimming & Diving Coach
+   Original line: Logan Cale Assistant Swimming & Diving Coach lcale@drew.edu
+
+25. Geoffrey Diehl
+   Email: gdiehl@drew.edu
+   Username: gdiehl
+   Sports: Swimming
+   Title: Head Tennis Coach
+   Phone: (973) 408-3115
+   Original line: Geoffrey Diehl Head Tennis Coach gdiehl@drew.edu 973-408-3115
+
+26. Steve Leo
+   Email: sleo@drew.edu
+   Username: sleo
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach
+   Original line: Steve Leo Assistant Track & Field Coach sleo@drew.edu
+
+27. John Olenowski
+   Email: jolenowski@drew.edu
+   Username: jolenowski
+   Sports: Track & Field
+   Title: Head Women's Baskeball Coach
+   Phone: (973) 408-3616
+   Original line: John Olenowski Head Women's Baskeball Coach jolenowski@drew.edu 973-408-3616
+
+28. Gwen Alberici
+   Email: galberici@drew.edu
+   Username: galberici
+   Sports: Track & Field
+   Title: Assistant Women's Basketball Coach
+   Original line: Gwen Alberici Assistant Women's Basketball Coach galberici@drew.edu
+
+29. Shawn Elwood
+   Email: selwood@drew.edu
+   Username: selwood
+   Sports: Track & Field
+   Title: Assistant Women's Basketball Coach
+   Original line: Shawn Elwood Assistant Women's Basketball Coach selwood@drew.edu
+
+30. Stefani Peluso
+   Email: speluso@drew.edu
+   Username: speluso
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Phone: (973) 408-3087
+   Original line: Stefani Peluso Head Women's Lacrosse Coach speluso@drew.edu 973-408-3087
+
+31. Diana Perry
+   Email: dperry1@drew.edu
+   Username: dperry1
+   Sports: Track & Field
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Diana Perry Assistant Women's Lacrosse Coach dperry1@drew.edu
+
+32. Brendan Michael
+   Email: bmichael@drew.edu
+   Username: bmichael
+   Sports: Track & Field
+   Title: Women's Soccer Head Coach
+   Phone: (973) 408-3459
+   Original line: Brendan Michael Women's Soccer Head Coach bmichael@drew.edu 973-408-3459
+
+33. Santiago Salme
+   Email: ssalme@drew.edu
+   Username: ssalme
+   Sports: Track & Field
+   Title: Assistant Women's Soccer Coach
+   Original line: Santiago Salme Assistant Women's Soccer Coach ssalme@drew.edu
+
+34. Amanda Rachwal
+   Email: arachwal1@drew.edu
+   Username: arachwal1
+   Sports: Track & Field
+   Title: Head Women's Volleyball Coach
+   Original line: Amanda Rachwal Head Women's Volleyball Coach arachwal1@drew.edu
+
+35. Julian Diaz
+   Email: jdiaz1@drew.edu
+   Username: jdiaz1
+   Sports: Track & Field
+   Title: Head Men's Volleyball Coach
+   Phone: (973) 408-3491
+   Original line: Julian Diaz Head Men's Volleyball Coach jdiaz1@drew.edu 973-408-3491
+
+36. Cailyn Ross
+   Email: cross2@drew.edu
+   Username: cross2
+   Sports: Track & Field
+   Title: Assistant Women's Volleyball Coach
+   Original line: Cailyn Ross Assistant Women's Volleyball Coach cross2@drew.edu
+
+37. Brad Hedden
+   Email: 
+   Username: brad.hedden
+   Sports: Baseball
+   Title: Brad Hedden Assistant Baseball Coach
+   Original line: Brad Hedden Assistant Baseball Coach
+
+38. Ross Halkias
+   Email: 
+   Username: ross.halkias
+   Sports: Baseball
+   Title: Ross Halkias Assistant Baseball Coach
+   Original line: Ross Halkias Assistant Baseball Coach
+
+39. Sean Buldiger
+   Email: 
+   Username: sean.buldiger
+   Sports: Baseball
+   Title: Sean Buldiger Assistant Baseball Coach
+   Original line: Sean Buldiger Assistant Baseball Coach
+
+40. Nick Pellegrino
+   Email: 
+   Username: nick.pellegrino
+   Sports: Baseball
+   Title: Nick Pellegrino Assistant Baseball Coach
+   Original line: Nick Pellegrino Assistant Baseball Coach
+
+41. Sean Robinson
+   Email: srobinson2@drew.edu
+   Username: srobinson2
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach srobinson2@drew.edu
+
+42. Lorraine Maloney
+   Email: 
+   Username: lorraine.maloney
+   Sports: Track & Field, Hockey
+   Title: Lorraine Maloney Assistant Field Hockey Coach
+   Original line: Lorraine Maloney Assistant Field Hockey Coach
+
+43. Sheila Volunteer
+   Email: 
+   Username: sheila.volunteer
+   Sports: Track & Field, Hockey
+   Title: Sheila Roth Volunteer Assistant Field Hockey Coach
+   Original line: Sheila Roth Volunteer Assistant Field Hockey Coach
+
+44. Michael Artigliere
+   Email: 
+   Username: michael.artigliere
+   Sports: Golf
+   Title: Michael Artigliere Assistant Golf Coach
+   Original line: Michael Artigliere Assistant Golf Coach
+
+45. Nick Driver
+   Email: 
+   Username: nick.driver
+   Sports: Golf
+   Title: Nick Driver Assistant Golf Coach
+   Original line: Nick Driver Assistant Golf Coach
+
+46. Matvey Pangan
+   Email: 
+   Username: matvey.pangan
+   Sports: Golf
+   Title: Matvey Pangan Assistant Golf Coach
+   Original line: Matvey Pangan Assistant Golf Coach
+
+47. Andy Brock
+   Email: 
+   Username: andy.brock
+   Sports: Golf
+   Title: Andy Brock Assistant Golf Coach
+   Original line: Andy Brock Assistant Golf Coach
+
+48. Developmental 
+   Email: 
+   Username: developmental
+   Sports: Soccer
+   Title: Developmental Coach
+   Original line: Developmental Coach
+
+49. Alex Previdi
+   Email: 
+   Username: alex.previdi
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Alex Previdi C'94 Assistant Men's Lacrosse Coach
+
+50. Mike Falco
+   Email: 
+   Username: mike.falco
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Mike Falco Assistant Men's Lacrosse Coach
+
+51. Jonny Bronander
+   Email: 
+   Username: jonny.bronander
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Jonny Bronander C'22 Assistant Men's Lacrosse Coach
+
+52. Michael Campanella
+   Email: 
+   Username: michael.campanella
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Michael Campanella III C'23 Assistant Men's Lacrosse Coach
+
+53. Alex Higgins
+   Email: 
+   Username: alex.higgins
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Alex Higgins C'24 Assistant Men's Lacrosse Coach
+
+54. Carlos Figueroa
+   Email: 
+   Username: carlos.figueroa
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Carlos Figueroa Assistant Men's Soccer Coach
+
+55. Arjun Dewan
+   Email: 
+   Username: arjun.dewan
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Arjun Dewan Assistant Men's Soccer Coach
+
+56. Paul Goalkeepers
+   Email: 
+   Username: paul.goalkeepers
+   Sports: Soccer
+   Title: Paul Neumaier Goalkeepers Coach
+   Original line: Paul Neumaier Goalkeepers Coach
+
+57. Marie McClure
+   Email: 
+   Username: marie.mcclure
+   Sports: Swimming
+   Title: Marie McClure Assistant Swimming Coach
+   Original line: Marie McClure Assistant Swimming Coach
+
+58. Kelley Kehoe
+   Email: 
+   Username: kelley.kehoe
+   Sports: Soccer
+   Title: Kelley Kehoe Diving Coach
+   Original line: Kelley Kehoe Diving Coach
+
+59. Terry Hall
+   Email: 
+   Username: terry.hall
+   Sports: Tennis
+   Title: Terry Hall Assistant Tennis Coach
+   Original line: Terry Hall Assistant Tennis Coach
+
+60. Jordan Vasarkovy
+   Email: 
+   Username: jordan.vasarkovy
+   Sports: Tennis
+   Title: Jordan Vasarkovy Assistant Tennis Coach
+   Original line: Jordan Vasarkovy Assistant Tennis Coach
+
+61. Robert Epstein
+   Email: 
+   Username: robert.epstein
+   Sports: Tennis
+   Title: Robert Epstein Assistant Tennis Coach
+   Original line: Robert Epstein Assistant Tennis Coach
+
+62. Jordan Pacheco
+   Email: 
+   Username: jordan.pacheco
+   Sports: Track & Field
+   Title: Jordan Pacheco Assistant Track & Field Coach
+   Original line: Jordan Pacheco Assistant Track & Field Coach (Pole
+
+63. Anthony SanFilippo
+   Email: 
+   Username: anthony.sanfilippo
+   Sports: Track & Field
+   Title: Anthony SanFilippo Assistant Track & Field Coach
+   Original line: Anthony SanFilippo Assistant Track & Field Coach (Throws)
+
+64. Austin Alvarado
+   Email: 
+   Username: austin.alvarado
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Austin Alvarado Assistant Women's Soccer Coach
+
+65. Emma Greggo
+   Email: 
+   Username: emma.greggo
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Emma Greggo Assistant Women's Soccer Coach
+
+66. Rebecca Racine
+   Email: 
+   Username: rebecca.racine
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Rebecca Racine Assistant Women's Soccer Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Erica Mehalick Head Softball Coach, Senior Woman emehalick@drew.edu 973-408-3017
+• Brian Eberly Head Baseball Coach beberly@drew.edu 973-408-3902
+• Vinny Carlesi Jr. Assistant Baseball Coach vcarlesi@drew.edu 973-408-3902
+• Nick DeStio Assistant Baseball Coach ndestio@drew.edu
+• Anthony Goergen Assistant Baseball Coach agoergen@drew.edu
+• Joseph Zanko III Fencing Head Coach jzanko@drew.edu 973-408-3497
+• Andrew Zlotnick Assistant Fencing Coach azlotnick@drew.edu
+• Claire Busch Assistant Fencing Coach cbusch@drew.edu
+• Summer Kortmann Head Field Hockey Coach swashburn@drew.edu 973-408-3440
+• Jenna Segrave Assistant Field Hockey Coach jsegrave@drew.edu
+• Lucas Artigliere Head Golf Coach lartigliere@drew.edu 973-408-3473
+• Ryan Van Zelst Head Men's Basketball Coach rvanzelst@drew.edu 973-408-3719
+• Dylan Musial Assistant Men's Basketball Coach dmusial@drew.edu
+• Malcolm Sidebottom Assistant Men's Basketball Coach/Head msidebottom@drew.edu
+• Josh Kline Assistant Men's Basketball Coach jkline@drew.edu
+• Dan Leidl C'97 Men's Lacrosse Head Coach dleidl@drew.edu 973-408-3573
+• Dave DeRiso C'00 Assistant Men's Lacrosse Coach dderiso@drew.edu
+• Lenny Armuth Head Men's Soccer Coach larmuth@drew.edu 973-408-3135
+• Alan McClintock Assistant Men's Soccer Coach amcclintock@drew.edu
+• Julian Diaz Head Men's Volleyball Coach jdiaz1@drew.edu 973-408-3491
+• Luke Frankenfield Assistant Men's Volleyball Coach lfrankenfield@drew.edu
+• Erica Mehalick Head Softball Coach, Senior Woman emehalick@drew.edu 973-408-3017
+• Rich Munson Head Swimming & Diving Coach / rmunson@drew.edu 973-408-3516
+• Logan Cale Assistant Swimming & Diving Coach lcale@drew.edu
+• Geoffrey Diehl Head Tennis Coach gdiehl@drew.edu 973-408-3115
+• Steve Leo Assistant Track & Field Coach sleo@drew.edu
+• John Olenowski Head Women's Baskeball Coach jolenowski@drew.edu 973-408-3616
+• Gwen Alberici Assistant Women's Basketball Coach galberici@drew.edu
+• Shawn Elwood Assistant Women's Basketball Coach selwood@drew.edu
+• Stefani Peluso Head Women's Lacrosse Coach speluso@drew.edu 973-408-3087
+• Diana Perry Assistant Women's Lacrosse Coach dperry1@drew.edu
+• Brendan Michael Women's Soccer Head Coach bmichael@drew.edu 973-408-3459
+• Santiago Salme Assistant Women's Soccer Coach ssalme@drew.edu
+• Amanda Rachwal Head Women's Volleyball Coach arachwal1@drew.edu
+• Julian Diaz Head Men's Volleyball Coach jdiaz1@drew.edu 973-408-3491
+• Cailyn Ross Assistant Women's Volleyball Coach cross2@drew.edu

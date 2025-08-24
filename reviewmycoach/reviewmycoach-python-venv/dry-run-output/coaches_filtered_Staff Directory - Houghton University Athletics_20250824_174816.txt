@@ -1,0 +1,339 @@
+COACH ENTRIES FOUND - 2025-08-24 17:48:16
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Houghton University
+Organization: Houghton University Athletics
+State: New York
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ben Campbell
+   Email: ben.campbell@houghton.edu
+   Username: ben.campbell
+   Sports: Soccer
+   Title: Head Coach /
+   Original line: Ben Campbell Head Coach / Director of ben.campbell@houghton.edu
+
+2. Jeremy Bialek
+   Email: jeremy.bialek@houghton.edu
+   Username: jeremy.bialek
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jeremy Bialek Head Coach jeremy.bialek@houghton.edu Nielsen Center
+
+3. Damion Witty
+   Email: damion.witty@houghton.edu
+   Username: damion.witty
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Damion Witty Assistant Coach damion.witty@houghton.edu
+
+4. Phil Pellegrino
+   Email: phil.pellegrino@houghton.edu
+   Username: phil.pellegrino
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Phil Pellegrino Head Coach phil.pellegrino@houghton.edu Nielsen Center
+
+5. Carlee Miller
+   Email: carlee.miller@houghton.edu
+   Username: carlee.miller
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carlee Miller Assistant Coach carlee.miller@houghton.edu
+
+6. Hannah Ogden
+   Email: hannah.zgrablich@houghton.edu
+   Username: hannah.zgrablich
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Hannah Ogden Head Coach hannah.zgrablich@houghton.edu 585-567- Kerr-Pegula
+
+7. Scott Reitnour
+   Email: scott.reitnour@houghton.edu
+   Username: scott.reitnour
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Scott Reitnour Head Coach scott.reitnour@houghton.edu 585-567- Kerr-Pegula
+
+8. Caleb Loew
+   Email: caleb.loew@houghton.edu
+   Username: caleb.loew
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Caleb Loew Assistant Coach caleb.loew@houghton.edu
+
+9. Esther Pellegrino
+   Email: esther.pellegrino@houghton.edu
+   Username: esther.pellegrino
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Esther Pellegrino Head Coach esther.pellegrino@houghton.edu Kerr-Pegula
+
+10. Natalie Milne
+   Email: natalie.milne@houghton.edu
+   Username: natalie.milne
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Natalie Milne Assistant Coach natalie.milne@houghton.edu
+
+11. Ben Campbell
+   Email: ben.campbell@houghton.edu
+   Username: ben.campbell
+   Sports: Cross Country
+   Title: Head Coach /
+   Original line: Ben Campbell Head Coach / Director of ben.campbell@houghton.edu
+
+12. David Bourne
+   Email: david.bourne@houghton.edu
+   Username: david.bourne
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: David Bourne Head Coach david.bourne@houghton.edu 585-802-
+
+13. Danielle Heffernan
+   Email: danielle.heffernan@houghton.edu
+   Username: danielle.heffernan
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Danielle Heffernan Head Coach danielle.heffernan@houghton.edu Kerr-Pegula
+
+14. Riley Pettit
+   Email: riley.pettit@houghton.edu
+   Username: riley.pettit
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Riley Pettit Assistant Coach riley.pettit@houghton.edu
+
+15. Brian Reitnour
+   Email: brian.reitnour@houghton.edu
+   Username: brian.reitnour
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brian Reitnour Head Coach brian.reitnour@houghton.edu 585-567- Kerr-Pegula
+
+16. Olivia Kincanon
+   Email: olivia.kincanon@houghton.edu
+   Username: olivia.kincanon
+   Sports: Softball
+   Title: Head Coach
+   Original line: Olivia Kincanon Head Coach olivia.kincanon@houghton.edu Kerr-Pegula
+
+17. Hannah Bailey
+   Email: hannah.bailey@houghton.edu
+   Username: hannah.bailey
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Hannah Bailey Assistant Coach hannah.bailey@houghton.edu 585-567- Chamberlain
+
+18. Micah Schilke
+   Email: micah.schilke@houghton.edu
+   Username: micah.schilke
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Micah Schilke Associate Head Coach micah.schilke@houghton.edu
+
+19. Micah Schilke
+   Email: micah.schilke@houghton.edu
+   Username: micah.schilke
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Micah Schilke Associate Head Coach micah.schilke@houghton.edu
+
+20. Ben Campbell
+   Email: ben.campbell@houghton.edu
+   Username: ben.campbell
+   Sports: Track & Field
+   Title: Head Coach /
+   Original line: Ben Campbell Head Coach / Director of ben.campbell@houghton.edu
+
+21. Matthew Webb
+   Email: matthew.webb@houghton.edu
+   Username: matthew.webb
+   Sports: Tennis, Track & Field
+   Title: Head Tennis Coach
+   Original line: Head Tennis Coach 9489 Field House 214 matthew.webb@houghton.edu
+
+22. Kelsie Ashley
+   Email: athletics@houghton.edu
+   Username: athletics
+   Sports: Hockey
+   Title: Assistant Coach
+   Original line: Hockey Assistant Coach athletics@houghton.edu
+
+23. Deanna ATC
+   Email: deanna.hand@houghton.edu
+   Username: deanna.hand
+   Sports: Soccer
+   Title: Coach/Athletic Trainer
+   Original line: Coach/Athletic Trainer 114D deanna.hand@houghton.edu
+
+24. Titus Ahrens
+   Email: 
+   Username: titus.ahrens
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Titus Ahrens Assistant Coach
+
+25. Josh Bailey
+   Email: 
+   Username: josh.bailey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Bailey Assistant Coach
+
+26. Cody Hirons
+   Email: 
+   Username: cody.hirons
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cody Hirons Assistant Coach
+
+27. Tabitha Clark
+   Email: 
+   Username: tabitha.clark
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tabitha Clark Assistant Coach
+
+28. Kelsie Ashley
+   Email: 
+   Username: kelsie.ashley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelsie Ashley Assistant Coach
+
+29. Jenna Slayton
+   Email: jenna.lutz@houghton.edu
+   Username: jenna.lutz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tobias Webb Assistant Coach jenna.lutz@houghton.edu
+
+30. Bridget Walton
+   Email: 
+   Username: bridget.walton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bridget Walton Assistant Coach
+
+31. Ella Smith
+   Email: 
+   Username: ella.smith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ella Smith Assistant Coach
+
+32. Tom Kenney
+   Email: 
+   Username: tom.kenney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Kenney Assistant Coach
+
+33. Nick Pettit
+   Email: 
+   Username: nick.pettit
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Pettit Assistant Coach
+
+34. Brandon Gettig
+   Email: 
+   Username: brandon.gettig
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Gettig Assistant Coach
+
+35. Morgan Neno
+   Email: 
+   Username: morgan.neno
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Morgan Neno Assistant Coach
+
+36. Austin Beauregard
+   Email: 
+   Username: austin.beauregard
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Austin Beauregard Head Coach
+
+37. David Volunteer
+   Email: 
+   Username: david.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: David Sabato Volunteer Assistant Coach
+
+38. Patrick Hager
+   Email: patrick.hager@houghton.edu
+   Username: patrick.hager
+   Sports: Soccer
+   Title: Coach - Jumps
+   Original line: Coach - Jumps patrick.hager@houghton.edu
+
+39.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach - Throws
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach - Throws
+
+40. Brennan Lewandowski
+   Email: 
+   Username: brennan.lewandowski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brennan Lewandowski Assistant Coach
+
+41. Evan Kurtz
+   Email: 
+   Username: evan.kurtz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Evan Kurtz Assistant Coach
+
+42. Alexandria Leary
+   Email: 
+   Username: alexandria.leary
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alexandria Leary Assistant Coach
+
+43. Natasha Davis
+   Email: 
+   Username: natasha.davis
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Natasha Davis Head Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ben Campbell Head Coach / Director of ben.campbell@houghton.edu
+• Jeremy Bialek Head Coach jeremy.bialek@houghton.edu Nielsen Center
+• Damion Witty Assistant Coach damion.witty@houghton.edu
+• Phil Pellegrino Head Coach phil.pellegrino@houghton.edu Nielsen Center
+• Carlee Miller Assistant Coach carlee.miller@houghton.edu
+• Hannah Ogden Head Coach hannah.zgrablich@houghton.edu 585-567- Kerr-Pegula
+• Scott Reitnour Head Coach scott.reitnour@houghton.edu 585-567- Kerr-Pegula
+• Caleb Loew Assistant Coach caleb.loew@houghton.edu
+• Esther Pellegrino Head Coach esther.pellegrino@houghton.edu Kerr-Pegula
+• Natalie Milne Assistant Coach natalie.milne@houghton.edu
+• Ben Campbell Head Coach / Director of ben.campbell@houghton.edu
+• David Bourne Head Coach david.bourne@houghton.edu 585-802-
+• Danielle Heffernan Head Coach danielle.heffernan@houghton.edu Kerr-Pegula
+• Riley Pettit Assistant Coach riley.pettit@houghton.edu
+• Brian Reitnour Head Coach brian.reitnour@houghton.edu 585-567- Kerr-Pegula
+• Olivia Kincanon Head Coach olivia.kincanon@houghton.edu Kerr-Pegula
+• Hannah Bailey Assistant Coach hannah.bailey@houghton.edu 585-567- Chamberlain
+• Micah Schilke Associate Head Coach micah.schilke@houghton.edu
+• Micah Schilke Associate Head Coach micah.schilke@houghton.edu
+• Ben Campbell Head Coach / Director of ben.campbell@houghton.edu

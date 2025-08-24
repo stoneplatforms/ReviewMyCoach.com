@@ -1,0 +1,243 @@
+COACH ENTRIES FOUND - 2025-08-24 17:48:52
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University Physicians of Brooklyn
+Organization: Lehman College Athletics
+State: New York
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Peter Kiernan
+   Email: peter.kiernan@lehman.cuny.edu
+   Username: peter.kiernan
+   Sports: Soccer
+   Title: APEX Aquatics Director/Swim Coach
+   Original line: Peter Kiernan APEX Aquatics Director/Swim Coach peter.kiernan@lehman.cuny.edu 7123
+
+2. Eric Harrison
+   Email: eric.harrison@lehman.cuny.edu
+   Username: eric.harrison
+   Sports: Basketball
+   Title: Head Coach
+   Original line: Eric Harrison Head Coach Women's Basketball/Schedule eric.harrison@lehman.cuny.edu 7175
+
+3. Chris Delgado
+   Email: christopher.delgado1@lehman.cuny.edu
+   Username: christopher.delgado1
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Chris Delgado Head Coach christopher.delgado1@lehman.cuny.edu
+
+4. Steven Schulman
+   Email: steven.schulman@lehman.cuny.edu
+   Username: steven.schulman
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Steven Schulman Head Coach steven.schulman@lehman.cuny.edu 7745
+
+5. Jean Marcial
+   Email: jmarcial99@gmail.com
+   Username: jmarcial99
+   Sports: Baseball
+   Title: Associate Head Coach Coach
+   Original line: Jean Marcial Associate Head Coach Coach jmarcial99@gmail.com
+
+6. Phil Terry
+   Email: Terryphilip21@yahoo.com
+   Username: Terryphilip21
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Phil Terry Volunteer Assistant Coach Terryphilip21@yahoo.com 7745
+
+7. Eric Harrison
+   Email: eric.harrison@lehman.cuny.edu
+   Username: eric.harrison
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Eric Harrison Head Coach Women's Basketball/Schedule eric.harrison@lehman.cuny.edu 7175
+
+8. John Ridley
+   Email: jridldy43@gmail.com
+   Username: jridldy43
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: John Ridley Assistant Coach jridldy43@gmail.com 7175
+
+9. Michael Francis
+   Email: Michael.Francis@lehman.cuny.edu
+   Username: Michael.Francis
+   Sports: Baseball
+   Title: Head Coach Cross Country and Track
+   Original line: Michael Francis Head Coach Cross Country and Track and Field Michael.Francis@lehman.cuny.edu 1131
+
+10. Dily Felix
+   Email: dily.felix@lehman.cuny.edu
+   Username: dily.felix
+   Sports: Softball
+   Title: Co-Interim Head Coach
+   Original line: Dily Felix Co-Interim Head Coach dily.felix@lehman.cuny.edu
+
+11. Mickki Curtin
+   Email: MICHELLE.CURTIN@lehman.cuny.edu
+   Username: MICHELLE.CURTIN
+   Sports: Softball
+   Title: Co-Interim Head Coach
+   Original line: Mickki Curtin Co-Interim Head Coach MICHELLE.CURTIN@lehman.cuny.edu
+
+12. Peter Kiernan
+   Email: peter.kiernan@lehman.cuny.edu
+   Username: peter.kiernan
+   Sports: Softball
+   Title: Head Coach
+   Original line: Peter Kiernan Head Coach peter.kiernan@lehman.cuny.edu 7123
+
+13. Freddy Sanchez
+   Email: freddy.sanchez@lehman.cuny.edu
+   Username: freddy.sanchez
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Freddy Sanchez Assistant Coach freddy.sanchez@lehman.cuny.edu 7123
+
+14. Toma Gojcevic
+   Email: toma.gojcevic@lehman.cuny.edu
+   Username: toma.gojcevic
+   Sports: Softball
+   Title: Head Coach
+   Original line: Toma Gojcevic Head Coach toma.gojcevic@lehman.cuny.edu 1142
+
+15. Zoran Milojevic
+   Email: zoran.milojevic@lehman.cuny.edu
+   Username: zoran.milojevic
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Zoran Milojevic Assistant Coach zoran.milojevic@lehman.cuny.edu
+
+16. Toma Gojcevic
+   Email: toma.gojcevic@lehman.cuny.edu
+   Username: toma.gojcevic
+   Sports: Softball
+   Title: Head Coach
+   Original line: Toma Gojcevic Head Coach toma.gojcevic@lehman.cuny.edu 1142
+
+17. Joe Pennetti
+   Email: giuseppe.pennetti@lehman.cuny.edu
+   Username: giuseppe.pennetti
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Joe Pennetti Assistant Coach giuseppe.pennetti@lehman.cuny.edu
+
+18. Mickki Curtin
+   Email: MICHELLE.CURTIN@lehman.cuny.edu
+   Username: MICHELLE.CURTIN
+   Sports: Softball
+   Title: Head Coach Men's &
+   Original line: Mickki Curtin Head Coach Men's & Women's Volleyball MICHELLE.CURTIN@lehman.cuny.edu
+
+19. Mickki Curtin
+   Email: MICHELLE.CURTIN@lehman.cuny.edu
+   Username: MICHELLE.CURTIN
+   Sports: Softball
+   Title: Head Coach Men's &
+   Original line: Mickki Curtin Head Coach Men's & Women's Volleyball MICHELLE.CURTIN@lehman.cuny.edu
+
+20. Jeff Nerenberg
+   Email: JEFF.NERENBERG@lehman.cuny.edu
+   Username: JEFF.NERENBERG
+   Sports: Softball
+   Title: Head Coach
+   Phone: (646) 528-0173
+   Original line: Jeff Nerenberg Head Coach JEFF.NERENBERG@lehman.cuny.edu 646-528-0173 (C)
+
+21. Jeff Nerenberg
+   Email: JEFF.NERENBERG@lehman.cuny.edu
+   Username: JEFF.NERENBERG
+   Sports: Softball
+   Title: Head Coach
+   Phone: (646) 528-0173
+   Original line: Jeff Nerenberg Head Coach JEFF.NERENBERG@lehman.cuny.edu 646-528-0173 (C)
+
+22. Tony Photographer
+   Email: photo@tonycorrea.com
+   Username: photo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nilson Ibert Assistant Coach photo@tonycorrea.com
+
+23. Venu Panniker
+   Email: 
+   Username: venu.panniker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Venu Panniker Assistant Coach
+
+24. Will Feldman
+   Email: 
+   Username: will.feldman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Will Feldman Assistant Coach
+
+25. Juan Gonzalez
+   Email: 
+   Username: juan.gonzalez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Juan Gonzalez Assistant Coach
+
+26. Chris Bowman
+   Email: 
+   Username: chris.bowman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Bowman Assistant Coach
+
+27. Hugh Campbell
+   Email: 
+   Username: hugh.campbell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hugh Campbell Assistant Coach
+
+28. Freddie Rodriguez
+   Email: 
+   Username: freddie.rodriguez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Freddie Rodriguez Assistant Coach
+
+29. Vitoria Reis
+   Email: 
+   Username: vitoria.reis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Vitoria Heloany Reis Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Peter Kiernan APEX Aquatics Director/Swim Coach peter.kiernan@lehman.cuny.edu 7123
+• Eric Harrison Head Coach Women's Basketball/Schedule eric.harrison@lehman.cuny.edu 7175
+• Chris Delgado Head Coach christopher.delgado1@lehman.cuny.edu
+• Steven Schulman Head Coach steven.schulman@lehman.cuny.edu 7745
+• Jean Marcial Associate Head Coach Coach jmarcial99@gmail.com
+• Phil Terry Volunteer Assistant Coach Terryphilip21@yahoo.com 7745
+• Eric Harrison Head Coach Women's Basketball/Schedule eric.harrison@lehman.cuny.edu 7175
+• John Ridley Assistant Coach jridldy43@gmail.com 7175
+• Michael Francis Head Coach Cross Country and Track and Field Michael.Francis@lehman.cuny.edu 1131
+• Dily Felix Co-Interim Head Coach dily.felix@lehman.cuny.edu
+• Mickki Curtin Co-Interim Head Coach MICHELLE.CURTIN@lehman.cuny.edu
+• Peter Kiernan Head Coach peter.kiernan@lehman.cuny.edu 7123
+• Freddy Sanchez Assistant Coach freddy.sanchez@lehman.cuny.edu 7123
+• Toma Gojcevic Head Coach toma.gojcevic@lehman.cuny.edu 1142
+• Zoran Milojevic Assistant Coach zoran.milojevic@lehman.cuny.edu
+• Toma Gojcevic Head Coach toma.gojcevic@lehman.cuny.edu 1142
+• Joe Pennetti Assistant Coach giuseppe.pennetti@lehman.cuny.edu
+• Mickki Curtin Head Coach Men's & Women's Volleyball MICHELLE.CURTIN@lehman.cuny.edu
+• Mickki Curtin Head Coach Men's & Women's Volleyball MICHELLE.CURTIN@lehman.cuny.edu
+• Jeff Nerenberg Head Coach JEFF.NERENBERG@lehman.cuny.edu 646-528-0173 (C)
+• Jeff Nerenberg Head Coach JEFF.NERENBERG@lehman.cuny.edu 646-528-0173 (C)

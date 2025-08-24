@@ -1,0 +1,862 @@
+COACH ENTRIES FOUND - 2025-08-23 19:33:58
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Princeton University
+Organization: Princeton University Athletics
+
+Total coaches found: 104
+
+PARSED ENTRIES:
+----------------------------------------
+1. Claudia Ralph
+   Email: pucheer@princeton.edu
+   Username: pucheer
+   Sports: Soccer
+   Title: Cheerleading Coach
+   Original line: Claudia Ralph Cheerleading Coach pucheer@princeton.edu
+
+2. Angie Brambley
+   Email: brambley@princeton.edu
+   Username: brambley
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (609) 258-3524
+   Original line: Angie Brambley- Head Coach, 609-258-3524 brambley@princeton.edu Jadwin Gym
+
+3. Kyle Bonicki
+   Email: kb3084@princeton.edu
+   Username: kb3084
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kyle Bonicki Assistant Coach kb3084@princeton.edu Jadwin Gym
+
+4. Barry Davis
+   Email: drbarry.davis@princeton.edu
+   Username: drbarry.davis
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Barry Davis Assistant Coach drbarry.davis@princeton.edu
+
+5. Mathew Johnson
+   Email: mat.johnson@princeton.edu
+   Username: mat.johnson
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mathew Johnson Assistant Coach mat.johnson@princeton.edu
+
+6. Carla Berube
+   Email: cberube@princeton.edu
+   Username: cberube
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (609) 258-2721
+   Original line: Carla Berube Head Coach 609-258-2721 cberube@princeton.edu Jadwin Gym
+
+7. Jordan Edwards
+   Email: jtedwards@princeton.edu
+   Username: jtedwards
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (609) 258-5088
+   Original line: Jordan Edwards Assistant Coach 609-258-5088 jtedwards@princeton.edu Jadwin Gym
+
+8. Brad Hunt
+   Email: hunt2@princeton.edu
+   Username: hunt2
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (609) 258-2457
+   Original line: Brad Hunt Head Coach 609-258-2457 hunt2@princeton.edu Jadwin Gym
+
+9. Michelle 
+   Email: meisenreich@princeton.edu
+   Username: meisenreich
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (609) 258-3522
+   Original line: Michelle Head Coach of Track 609-258-3522 meisenreich@princeton.edu Jadwin Gym
+
+10. Zoltan Dudas
+   Email: zdudas@princeton.edu
+   Username: zdudas
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (609) 258-3519
+   Original line: Zoltan Dudas Head Coach 609-258-3519 zdudas@princeton.edu Jadwin Gym
+
+11. Aleks Ochocki
+   Email: ao3315@princeton.edu
+   Username: ao3315
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Aleks Ochocki Assistant Coach ao3315@princeton.edu Jadwin Gym
+
+12. Oleg Stetsiv
+   Email: ostetsiv@princeton.edu
+   Username: ostetsiv
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Oleg Stetsiv Assistant Coach ostetsiv@princeton.edu Jadwin Gym
+
+13. Pat Harris
+   Email: ph9179@princeton.edu
+   Username: ph9179
+   Sports: Track & Field
+   Title: Assistant Coach
+   Phone: (609) 258-3859
+   Original line: Pat Harris Assistant Coach 609-258-3859 ph9179@princeton.edu Dillon Gym
+
+14. Pattie Gillern
+   Email: pgillern@princeton.edu
+   Username: pgillern
+   Sports: Track & Field
+   Title: Assistant Coach
+   Phone: (609) 258-3859
+   Original line: Pattie Gillern Assistant Coach 609-258-3859 pgillern@princeton.edu Dillon Gym
+
+15. John Sibel
+   Email: sibel@princeton.edu
+   Username: sibel
+   Sports: Football
+   Title: Tight Ends Coach
+   Original line: John Sibel Tight Ends Coach sibel@princeton.edu Jadwin Gym
+
+16. Jason Nichols
+   Email: jason.nichols@princeton.edu
+   Username: jason.nichols
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Jason Nichols Running Backs Coach jason.nichols@princeton.edu Jadwin Gym
+
+17. Lou Stagner
+   Email: ls8312@princeton.edu
+   Username: ls8312
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Lou Stagner Assistant Coach ls8312@princeton.edu Dillon Gym
+
+18. Erika DeSanty
+   Email: edesanty@princeton.edu
+   Username: edesanty
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-1636
+   Original line: Erika DeSanty Head Coach 609-258-1636 edesanty@princeton.edu Dillon Gym
+
+19. Ben Syer
+   Email: ben.syer@princeton.edu
+   Username: ben.syer
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-6616
+   Original line: Ben Syer Head Coach 609-258-6616 ben.syer@princeton.edu Baker Rink
+
+20. Connor Jones
+   Email: connor.jones@princeton.edu
+   Username: connor.jones
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Connor Jones Assistant Coach connor.jones@princeton.edu Baker Rink
+
+21. Shane Talarico
+   Email: stalarico@princeton.edu
+   Username: stalarico
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Shane Talarico Assistant Coach stalarico@princeton.edu Baker Rink
+
+22. Dan Henningson
+   Email: dan.henningson@princeton.edu
+   Username: dan.henningson
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Dan Henningson Assistant Coach dan.henningson@princeton.edu
+
+23. Courtney Kessel
+   Email: cpkessel@princeton.edu
+   Username: cpkessel
+   Sports: Football
+   Title: Head Coach
+   Original line: Courtney Kessel Head Coach cpkessel@princeton.edu Baker Rink
+
+24. Taylor 
+   Email: tw5069@princeton.edu
+   Username: tw5069
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Taylor Assistant Coach tw5069@princeton.edu Baker Rink
+
+25. Casey Dowd
+   Email: casey.dowd@princeton.edu
+   Username: casey.dowd
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (609) 258-4978
+   Original line: Casey Dowd Assistant Coach 609-258-4978 casey.dowd@princeton.edu Dillon Gym
+
+26. Jenn Cook
+   Email: jc30@princeton.edu
+   Username: jc30
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-2382
+   Original line: Jenn Cook Head Coach 609-258-2382 jc30@princeton.edu Dillon Gym
+
+27. Molly Dougherty
+   Email: molly.dougherty@princeton.edu
+   Username: molly.dougherty
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Molly Dougherty Assistant Coach molly.dougherty@princeton.edu Dillon Gym
+
+28. Maggie Brown
+   Email: mb2123@princeton.edu
+   Username: mb2123
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Maggie Brown Assistant Coach mb2123@princeton.edu Dillon Gym
+
+29. Greg Hughes
+   Email: gchughes@princeton.edu
+   Username: gchughes
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-5356
+   Original line: Greg Hughes Head Coach 609-258-5356 gchughes@princeton.edu Shea Rowing Center
+
+30. Jason Elefant
+   Email: jelefant@princeton.edu
+   Username: jelefant
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (609) 647-6481
+   Original line: Jason Elefant Assistant Coach 609-647-6481 jelefant@princeton.edu Shea Rowing Center
+
+31. John Inman
+   Email: ji7051@princeton.edu
+   Username: ji7051
+   Sports: Football
+   Title: Assistant Coach
+   Original line: John Inman Assistant Coach ji7051@princeton.edu
+
+32. David Burke
+   Email: david.burke@princeton.edu
+   Username: david.burke
+   Sports: Football
+   Title: Assistant Coach
+   Original line: David Burke Assistant Coach david.burke@princeton.edu Shea Rowing Center
+
+33. Paul Rassam
+   Email: zprassam@princeton.edu
+   Username: zprassam
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-2402
+   Original line: Paul Rassam Head Coach 609-258-2402 zprassam@princeton.edu Shea Rowing Center
+
+34. Chris Pedicone
+   Email: cp6063@princeton.edu
+   Username: cp6063
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Chris Pedicone Assistant Coach cp6063@princeton.edu Shea Rowing Center
+
+35. Lori Dauphiny
+   Email: dauphiny@princeton.edu
+   Username: dauphiny
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-6373
+   Original line: Lori Dauphiny Head Coach 609-258-6373 dauphiny@princeton.edu Shea Rowing Center
+
+36. Astrid Wettstein
+   Email: awettste@princeton.edu
+   Username: awettste
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Astrid Wettstein Assistant Coach awettste@princeton.edu
+
+37. Richmond Coney
+   Email: richmondconey@princeton.edu
+   Username: richmondconey
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Richmond Coney Assistant Coach richmondconey@princeton.edu
+
+38. Anna Kalfaian
+   Email: kalfaian@princeton.edu
+   Username: kalfaian
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Anna Kalfaian Assistant Coach kalfaian@princeton.edu Shea Rowing Center
+
+39. Josie Ziluca
+   Email: josie.ziluca@princeton.edu
+   Username: josie.ziluca
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-8489
+   Original line: Josie Ziluca Head Coach 609-258-8489 josie.ziluca@princeton.edu Racquet and Recreation Fieldhouse
+
+40. Holly Abrams
+   Email: ha1693@princeton.edu
+   Username: ha1693
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Holly Abrams Assistant Coach ha1693@princeton.edu Racquet & Recreation Fieldhouse
+
+41. Jim Barlow
+   Email: jimbarlo@princeton.edu
+   Username: jimbarlo
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-4977
+   Original line: Jim Barlow Head Coach 609-258-4977 jimbarlo@princeton.edu Dillon Gym
+
+42. Sam Maira
+   Email: smaira@princeton.edu
+   Username: smaira
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Sam Maira Assistant Coach smaira@princeton.edu Dillon Gym
+
+43. Sean Driscoll
+   Email: wsoccer@princeton.edu
+   Username: wsoccer
+   Sports: Football
+   Title: Head Coach
+   Phone: (609) 258-5092
+   Original line: Sean Driscoll Head Coach 609-258-5092 wsoccer@princeton.edu Dillon Gym
+
+44. Chris Duggan
+   Email: cd9868@princeton.edu
+   Username: cd9868
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Chris Duggan Assistant Coach cd9868@princeton.edu Dillon Gym
+
+45. Lisa Van
+   Email: lsweeney@princeton.edu
+   Username: lsweeney
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-2289
+   Original line: Lisa Van Head Coach 609-258-2289 lsweeney@princeton.edu Jadwin Gym
+
+46. Alyssa Davis
+   Email: alyssad@princeton.edu
+   Username: alyssad
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (609) 258-4669
+   Original line: Alyssa Davis Assistant Coach 609-258-4669 alyssad@princeton.edu Jadwin Gym
+
+47. Nicole Arias
+   Email: narias@princeton.edu
+   Username: narias
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nicole Arias Assistant Coach narias@princeton.edu Jadwin Gym
+
+48. Ashley 
+   Email: ashleyam@princeton.edu
+   Username: ashleyam
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ashley Assistant Coach ashleyam@princeton.edu Jadwin Gym
+
+49. Alan Clyne
+   Email: ac4677@princeton.edu
+   Username: ac4677
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alan Clyne Assistant Coach ac4677@princeton.edu Jadwin Gym
+
+50. Neil Pomphrey
+   Email: npomphrey@pppl.gov
+   Username: npomphrey
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (609) 258-3886
+   Original line: Neil Pomphrey Assistant Coach 609-258-3886 npomphrey@pppl.gov Jadwin Gym
+
+51. Gail Ramsay
+   Email: ramsay@princeton.edu
+   Username: ramsay
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-5089
+   Original line: Gail Ramsay Head Coach 609-258-5089 ramsay@princeton.edu Racquet and Recreation Fieldhouse
+
+52. Matt Crispino
+   Email: crispino@princeton.edu
+   Username: crispino
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-3544
+   Original line: Matt Crispino Head Coach 609-258-3544 crispino@princeton.edu DeNunzio Pool
+
+53. Ted Everett
+   Email: Ted.Everett@princeton.edu
+   Username: Ted.Everett
+   Sports: Softball
+   Title: Head Diving Coach
+   Original line: Ted Everett Head Diving Coach Ted.Everett@princeton.edu DeNunzio Pool
+
+54. Mia Nonnenberg
+   Email: mmnonnenberg@princeton.edu
+   Username: mmnonnenberg
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mia Nonnenberg Assistant Coach mmnonnenberg@princeton.edu DeNunzio Pool
+
+55. Zach Lebovic
+   Email: zlebovic@princeton.edu
+   Username: zlebovic
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Zach Lebovic Assistant Coach zlebovic@princeton.edu
+
+56. Abby Brethauer
+   Email: ab7373@princeton.edu
+   Username: ab7373
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-1140
+   Original line: Abby Brethauer Head Coach 609-258-1140 ab7373@princeton.edu DeNunzio Pool
+
+57. Ted Everett
+   Email: Ted.Everett@princeton.edu
+   Username: Ted.Everett
+   Sports: Softball
+   Title: Head Diving Coach
+   Original line: Ted Everett Head Diving Coach Ted.Everett@princeton.edu DeNunzio Pool
+
+58. Kelsey Reott
+   Email: kr8934@princeton.edu
+   Username: kr8934
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kelsey Reott Assistant Coach kr8934@princeton.edu DeNunzio Pool
+
+59. Emmett Adams
+   Email: ea0236@princeton.edu
+   Username: ea0236
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Emmett Adams Assistant Coach ea0236@princeton.edu
+
+60. Billy Pate
+   Email: bpate@princeton.edu
+   Username: bpate
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-6990
+   Original line: Billy Pate Head Coach 609-258-6990 bpate@princeton.edu Racquet and Recreation Fieldhouse
+
+61. Jason Kros
+   Email: jkros@princeton.edu
+   Username: jkros
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jason Kros Assistant Coach jkros@princeton.edu Jadwin Gym
+
+62. Elizabeth 
+   Email: ebegley@princeton.edu
+   Username: ebegley
+   Sports: Softball
+   Title: Head Coach/Women
+   Original line: Elizabeth Head Coach/Women's ebegley@princeton.edu Racquet and Recreation Fieldhouse
+
+63. Sydney Berlin
+   Email: sydney.berlin@princeton.edu
+   Username: sydney.berlin
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sydney Berlin Assistant Coach sydney.berlin@princeton.edu Jadwin Gym
+
+64. Duke Taylor
+   Email: duke.taylor@princeton.edu
+   Username: duke.taylor
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Duke Taylor Assistant Coach duke.taylor@princeton.edu Jadwin Gym
+
+65. Greg Foster
+   Email: gf6176@princeton.edu
+   Username: gf6176
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Greg Foster Sr. Assistant Coach gf6176@princeton.edu
+
+66. Mike Maira
+   Email: mjmaira@princeton.edu
+   Username: mjmaira
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mike Maira Assistant Coach mjmaira@princeton.edu Jadwin Gym
+
+67. Marshall Faurot
+   Email: mf5192@princeton.edu
+   Username: mf5192
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Marshall Faurot Assistant Coach mf5192@princeton.edu Jadwin Gym
+
+68. Derick Ringo
+   Email: ad9540@princeton.edu
+   Username: ad9540
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Derick (Ringo) Assistant Coach ad9540@princeton.edu Jadwin Gym
+
+69. Michelle 
+   Email: meisenreich@princeton.edu
+   Username: meisenreich
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-3522
+   Original line: Michelle Head Coach of Track 609-258-3522 meisenreich@princeton.edu Jadwin Gym
+
+70. Brad Hunt
+   Email: hunt2@princeton.edu
+   Username: hunt2
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (609) 258-2457
+   Original line: Brad Hunt Assistant Coach 609-258-2457 hunt2@princeton.edu Jadwin Gym
+
+71. Reuben Jones
+   Email: reubenj@princeton.edu
+   Username: reubenj
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Reuben Jones Assistant Coach reubenj@princeton.edu Jadwin Gym
+
+72. Mike Maira
+   Email: mjmaira@princeton.edu
+   Username: mjmaira
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mike Maira Assistant Coach mjmaira@princeton.edu Jadwin Gym
+
+73. Sam Shweisky
+   Email: shweisky@princeton.edu
+   Username: shweisky
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-9016
+   Original line: Sam Shweisky Head Coach 609-258-9016 shweisky@princeton.edu Dillon Gym
+
+74. Sabrina King
+   Email: sking@princeton.edu
+   Username: sking
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-3532
+   Original line: Sabrina King Head Coach 609-258-3532 sking@princeton.edu Dillon Gym
+
+75. Daniel Ford
+   Email: df3831@princeton.edu
+   Username: df3831
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Daniel Ford Assistant Coach df3831@princeton.edu
+
+76. Huw Helman
+   Email: hdhelman@princeton.edu
+   Username: hdhelman
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Huw Helman Assistant Coach hdhelman@princeton.edu DeNunzio Pool
+
+77. Bella Baia
+   Email: bellabaia@princeton.edu
+   Username: bellabaia
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Bella Baia Assistant Coach bellabaia@princeton.edu DeNunzio Pool
+
+78. Joe Dubuque
+   Email: jdubuque@princeton.edu
+   Username: jdubuque
+   Sports: Softball
+   Title: Head Coach
+   Phone: (609) 258-5248
+   Original line: Joe Dubuque Head Coach 609-258-5248 jdubuque@princeton.edu Jadwin Gym
+
+79. Cody Brewer
+   Email: cb1376@princeton.edu
+   Username: cb1376
+   Sports: Softball
+   Title: Head Assistant Coach
+   Original line: Cody Brewer Head Assistant Coach cb1376@princeton.edu Jadwin Gym
+
+80. Anthony 
+   Email: aashnault@princeton.edu
+   Username: aashnault
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Anthony Assistant Coach aashnault@princeton.edu Jadwin Gym
+
+81. Ryan Wolfe
+   Email: rw3386@princeton.edu
+   Username: rw3386
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ryan Wolfe Assistant Coach rw3386@princeton.edu Jadwin Gym
+
+82. Name 
+   Email: 
+   Username: name
+   Sports: Soccer
+   Title: Name of coach
+   Original line: Name of coach or staff member
+
+83. Jason Jackson
+   Email: jgg109@princeton.edu
+   Username: jgg109
+   Sports: Soccer
+   Title: DeVincenzi Coach
+   Original line: DeVincenzi Coach, Performance jgg109@princeton.edu
+
+84. Goshkagarian 
+   Email: 
+   Username: goshkagarian
+   Sports: Soccer
+   Title: Goshkagarian Performance Coach
+   Original line: Goshkagarian Performance Coach
+
+85. Fahsbender 
+   Email: 
+   Username: fahsbender
+   Sports: Soccer
+   Title: Fahsbender Performance Coach
+   Original line: Fahsbender Performance Coach
+
+86. James 
+   Email: jdevince@princeton.edu
+   Username: jdevince
+   Sports: Soccer
+   Title: Performance Coach
+   Original line: Performance Coach jdevince@princeton.edu
+
+87. Gavin Worker
+   Email: gavinj@princeton.edu
+   Username: gavinj
+   Sports: Soccer
+   Title: Head Coach
+   Original line: '42 Head Coach of gavinj@princeton.edu
+
+88. Patrick Fellow
+   Email: pw1944@princeton.edu
+   Username: pw1944
+   Sports: Soccer
+   Title: Coach/Recruiting
+   Original line: Coach/Recruiting pw1944@princeton.edu
+
+89.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach
+
+90. Mike Athanassiades
+   Email: mikeb@princeton.edu
+   Username: mikeb
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach mikeb@princeton.edu
+
+91.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach Of Men's
+
+92. Dina Rizzo
+   Email: drizzo22@princeton.edu
+   Username: drizzo22
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jr.'25 Head Coach of drizzo22@princeton.edu
+
+93.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach, Co-
+
+94. Bob Caldwell
+   Email: football@princeton.edu
+   Username: football
+   Sports: Soccer
+   Title: & Def Line Coach
+   Original line: & Def Line Coach football@princeton.edu
+
+95.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Inside
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Inside
+
+96. Steve Verbit
+   Email: verbit@princeton.edu
+   Username: verbit
+   Sports: Soccer
+   Title: Coach/Co-Defensive
+   Original line: Coach/Co-Defensive verbit@princeton.edu
+
+97. Mike Weick
+   Email: mweick@princeton.edu
+   Username: mweick
+   Sports: Soccer
+   Title: acks Coach
+   Original line: acks Coach mweick@princeton.edu
+
+98. Mark Rosenbaum
+   Email: marktr@princeton.edu
+   Username: marktr
+   Sports: Soccer
+   Title: Coach/Passing Game
+   Original line: Coach/Passing Game marktr@princeton.edu
+
+99. Brandon Cuevas
+   Email: bacuevas@princeton.edu
+   Username: bacuevas
+   Sports: Soccer
+   Title: Backs Coach
+   Original line: Backs Coach bacuevas@princeton.edu
+
+100. Anthony 
+   Email: afratt@princeton.edu
+   Username: afratt
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Head Coach of Men's afratt@princeton.edu
+
+101.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: P01 P02 Head Coach
+
+102. Tom Moffat
+   Email: 
+   Username: tom.moffat
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Moffat Assistant Coach 609-258-2438 Dillon Gym
+
+103.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach of Men's
+
+104. Polo 
+   Email: 
+   Username: polo
+   Sports: Soccer
+   Title: Polo Coach
+   Original line: Polo Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Claudia Ralph Cheerleading Coach pucheer@princeton.edu
+• Angie Brambley- Head Coach, 609-258-3524 brambley@princeton.edu Jadwin Gym
+• Kyle Bonicki Assistant Coach kb3084@princeton.edu Jadwin Gym
+• Barry Davis Assistant Coach drbarry.davis@princeton.edu
+• Mathew Johnson Assistant Coach mat.johnson@princeton.edu
+• Carla Berube Head Coach 609-258-2721 cberube@princeton.edu Jadwin Gym
+• Jordan Edwards Assistant Coach 609-258-5088 jtedwards@princeton.edu Jadwin Gym
+• Brad Hunt Head Coach 609-258-2457 hunt2@princeton.edu Jadwin Gym
+• Michelle Head Coach of Track 609-258-3522 meisenreich@princeton.edu Jadwin Gym
+• Zoltan Dudas Head Coach 609-258-3519 zdudas@princeton.edu Jadwin Gym
+• Aleks Ochocki Assistant Coach ao3315@princeton.edu Jadwin Gym
+• Oleg Stetsiv Assistant Coach ostetsiv@princeton.edu Jadwin Gym
+• Pat Harris Assistant Coach 609-258-3859 ph9179@princeton.edu Dillon Gym
+• Pattie Gillern Assistant Coach 609-258-3859 pgillern@princeton.edu Dillon Gym
+• John Sibel Tight Ends Coach sibel@princeton.edu Jadwin Gym
+• Jason Nichols Running Backs Coach jason.nichols@princeton.edu Jadwin Gym
+• Lou Stagner Assistant Coach ls8312@princeton.edu Dillon Gym
+• Erika DeSanty Head Coach 609-258-1636 edesanty@princeton.edu Dillon Gym
+• Ben Syer Head Coach 609-258-6616 ben.syer@princeton.edu Baker Rink
+• Connor Jones Assistant Coach connor.jones@princeton.edu Baker Rink
+• Shane Talarico Assistant Coach stalarico@princeton.edu Baker Rink
+• Dan Henningson Assistant Coach dan.henningson@princeton.edu
+• Courtney Kessel Head Coach cpkessel@princeton.edu Baker Rink
+• Taylor Assistant Coach tw5069@princeton.edu Baker Rink
+• Casey Dowd Assistant Coach 609-258-4978 casey.dowd@princeton.edu Dillon Gym
+• Jenn Cook Head Coach 609-258-2382 jc30@princeton.edu Dillon Gym
+• Molly Dougherty Assistant Coach molly.dougherty@princeton.edu Dillon Gym
+• Maggie Brown Assistant Coach mb2123@princeton.edu Dillon Gym
+• Greg Hughes Head Coach 609-258-5356 gchughes@princeton.edu Shea Rowing Center
+• Jason Elefant Assistant Coach 609-647-6481 jelefant@princeton.edu Shea Rowing Center
+• John Inman Assistant Coach ji7051@princeton.edu
+• David Burke Assistant Coach david.burke@princeton.edu Shea Rowing Center
+• Paul Rassam Head Coach 609-258-2402 zprassam@princeton.edu Shea Rowing Center
+• Chris Pedicone Assistant Coach cp6063@princeton.edu Shea Rowing Center
+• Lori Dauphiny Head Coach 609-258-6373 dauphiny@princeton.edu Shea Rowing Center
+• Astrid Wettstein Assistant Coach awettste@princeton.edu
+• Richmond Coney Assistant Coach richmondconey@princeton.edu
+• Anna Kalfaian Assistant Coach kalfaian@princeton.edu Shea Rowing Center
+• Josie Ziluca Head Coach 609-258-8489 josie.ziluca@princeton.edu Racquet and Recreation Fieldhouse
+• Holly Abrams Assistant Coach ha1693@princeton.edu Racquet & Recreation Fieldhouse
+• Jim Barlow Head Coach 609-258-4977 jimbarlo@princeton.edu Dillon Gym
+• Sam Maira Assistant Coach smaira@princeton.edu Dillon Gym
+• Sean Driscoll Head Coach 609-258-5092 wsoccer@princeton.edu Dillon Gym
+• Chris Duggan Assistant Coach cd9868@princeton.edu Dillon Gym
+• Lisa Van Head Coach 609-258-2289 lsweeney@princeton.edu Jadwin Gym
+• Alyssa Davis Assistant Coach 609-258-4669 alyssad@princeton.edu Jadwin Gym
+• Nicole Arias Assistant Coach narias@princeton.edu Jadwin Gym
+• Ashley Assistant Coach ashleyam@princeton.edu Jadwin Gym
+• Alan Clyne Assistant Coach ac4677@princeton.edu Jadwin Gym
+• Neil Pomphrey Assistant Coach 609-258-3886 npomphrey@pppl.gov Jadwin Gym
+• Gail Ramsay Head Coach 609-258-5089 ramsay@princeton.edu Racquet and Recreation Fieldhouse
+• Matt Crispino Head Coach 609-258-3544 crispino@princeton.edu DeNunzio Pool
+• Ted Everett Head Diving Coach Ted.Everett@princeton.edu DeNunzio Pool
+• Mia Nonnenberg Assistant Coach mmnonnenberg@princeton.edu DeNunzio Pool
+• Zach Lebovic Assistant Coach zlebovic@princeton.edu
+• Abby Brethauer Head Coach 609-258-1140 ab7373@princeton.edu DeNunzio Pool
+• Ted Everett Head Diving Coach Ted.Everett@princeton.edu DeNunzio Pool
+• Kelsey Reott Assistant Coach kr8934@princeton.edu DeNunzio Pool
+• Emmett Adams Assistant Coach ea0236@princeton.edu
+• Billy Pate Head Coach 609-258-6990 bpate@princeton.edu Racquet and Recreation Fieldhouse
+• Jason Kros Assistant Coach jkros@princeton.edu Jadwin Gym
+• Elizabeth Head Coach/Women's ebegley@princeton.edu Racquet and Recreation Fieldhouse
+• Sydney Berlin Assistant Coach sydney.berlin@princeton.edu Jadwin Gym
+• Duke Taylor Assistant Coach duke.taylor@princeton.edu Jadwin Gym
+• Greg Foster Sr. Assistant Coach gf6176@princeton.edu
+• Mike Maira Assistant Coach mjmaira@princeton.edu Jadwin Gym
+• Marshall Faurot Assistant Coach mf5192@princeton.edu Jadwin Gym
+• Derick (Ringo) Assistant Coach ad9540@princeton.edu Jadwin Gym
+• Michelle Head Coach of Track 609-258-3522 meisenreich@princeton.edu Jadwin Gym
+• Brad Hunt Assistant Coach 609-258-2457 hunt2@princeton.edu Jadwin Gym
+• Reuben Jones Assistant Coach reubenj@princeton.edu Jadwin Gym
+• Mike Maira Assistant Coach mjmaira@princeton.edu Jadwin Gym
+• Sam Shweisky Head Coach 609-258-9016 shweisky@princeton.edu Dillon Gym
+• Sabrina King Head Coach 609-258-3532 sking@princeton.edu Dillon Gym
+• Daniel Ford Assistant Coach df3831@princeton.edu
+• Huw Helman Assistant Coach hdhelman@princeton.edu DeNunzio Pool
+• Bella Baia Assistant Coach bellabaia@princeton.edu DeNunzio Pool
+• Joe Dubuque Head Coach 609-258-5248 jdubuque@princeton.edu Jadwin Gym
+• Cody Brewer Head Assistant Coach cb1376@princeton.edu Jadwin Gym
+• Anthony Assistant Coach aashnault@princeton.edu Jadwin Gym
+• Ryan Wolfe Assistant Coach rw3386@princeton.edu Jadwin Gym

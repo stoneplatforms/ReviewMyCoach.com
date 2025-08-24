@@ -1,0 +1,374 @@
+COACH ENTRIES FOUND - 2025-08-23 19:29:12
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Rowan
+Organization: Rowan University Athletics
+Location: Glassboro, New Jersey
+Source: Rowan University Athletics Staff Directory
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Roane
+   Email: eroane@rcsj.edu
+   Username: eroane
+   Sports: Basketball
+   Title: Men's Basketball Assistant Coach
+   Original line: Steve Roane Men's Basketball Assistant Coach eroane@rcsj.edu
+
+2. Steve Roane
+   Email: eroane@rcsj.edu
+   Username: eroane
+   Sports: Basketball
+   Title: Men's Basketball Assistant Coach
+   Original line: Steve Roane Men's Basketball Assistant Coach eroane@rcsj.edu 
+
+3. Steve DePasquale
+   Email: sdepasqu@rcsj.edu
+   Username: sdepasqu
+   Sports: Softball
+   Title: Head Coach
+   Original line: Steve DePasquale Softball Head Coach 856 468 5000 Ext. 2207 sdepasqu@rcsj.edu
+
+4. Catherine Dunn
+   Email: cdunn8@rcsj.edu
+   Username: cdunn8
+   Sports: Basketball
+   Title: Women's Basketball Assistant Coach
+   Original line: Catherine Dunn Women's Basketball Assistant Coach cdunn8@rcsj.edu
+
+5. Ryan Hughes
+   Email: rhughes@rcgc.edu
+   Username: rhughes
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Ryan Hughes Women's Track & Field Head Coach 856 468 5000 Ext. 6336 rhughes@rcgc.edu
+
+6. Samantha Bevilacqua
+   Email: sbevila1@rcsj.edu
+   Username: sbevila1
+   Sports: Volleyball
+   Title: Women's Volleyball Head Coach
+   Original line: Samantha Bevilacqua Women's Volleyball Head Coach sbevila1@rcsj.edu
+
+7. Kristin Bellamy
+   Email: kbellam2@rcsj.edu
+   Username: kbellam2
+   Sports: Volleyball
+   Title: Women's Volleyball Assistant Coach
+   Original line: Kristin Bellamy Women's Volleyball Assistant Coach kbellam2@rcsj.edu
+
+8. Ke'alohilani Naone-Carter
+   Email: knaoneca@rcsj.edu
+   Username: knaoneca
+   Sports: Volleyball
+   Title: Women's Volleyball Assistant Coach
+   Original line: Ke'alohilani Naone-Carter Women's Volleyball Assistant Coach knaoneca@rcsj.edu
+
+9. Ryan Hughes
+   Email: rhughes@rcsj.edu
+   Username: rhughes
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Ryan Hughes Women's Cross Country Head Coach 856 468 5000 Ext. 6336 rhughes@rcsj.edu
+
+10. Tom Eichhorn
+   Email: teichhor@rcsj.edu
+   Username: teichhor
+   Sports: Soccer
+   Title: Women's Soccer Head Coach
+   Original line: Tom Eichhorn Women's Soccer Head Coach teichhor@rcsj.edu
+
+11. Kenyatta Collins
+   Email: kcollin6@rcsj.edu
+   Username: kcollin6
+   Sports: Soccer
+   Title: Women's Soccer Assistant Coach
+   Original line: Kenyatta Collins Women's Soccer Assistant Coach kcollin6@rcsj.edu 
+
+12. Rob Valli
+   Email: rvalli@rcsj.edu
+   Username: rvalli
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Rob Valli Baseball Head Coach 856 468 5000 Ext. 2213 rvalli@rcsj.edu
+
+13. Paul Toppin
+   Email: ptoppin@rcsj.edu
+   Username: ptoppin
+   Sports: Wrestling
+   Title: Interim Wrestling Head Coach
+   Original line: Paul Toppin Interim Wrestling Head Coach ptoppin@rcsj.edu
+
+14. Riley Onorato
+   Email: ronorato@rcsj.edu
+   Username: ronorato
+   Sports: Wrestling
+   Title: Wrestling Assistant Coach
+   Original line: Riley Onorato Wrestling Assistant Coach ronorato@rcsj.edu
+
+15. Ryan Hughes
+   Email: rhughes@rcsj.edu
+   Username: rhughes
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Ryan Hughes Men's Track and Field Head Coach 856 468 5000 Ext. 6336 rhughes@rcsj.edu
+
+16. Joseph CSCS
+   Email: jkalnas1@rcsj.edu
+   Username: jkalnas1
+   Sports: Track & Field
+   Title: s Track & Field Assistant Coach
+   Original line: Joseph C. Kalnas, CSCS Men's Track & Field Assistant Coach - jkalnas1@rcsj.edu
+
+17. Ryan Hughes
+   Email: rhughes@rcsj.edu
+   Username: rhughes
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Ryan Hughes Men's Cross Country Head Coach 856 468 5000 Ext. 6336 rhughes@rcsj.edu
+
+18. Brandon Williams
+   Email: brandonwill1028@gmail.com
+   Username: brandonwill1028
+   Sports: Basketball
+   Title: Men's Basketball Coach
+   Original line: Brandon Williams Men's Basketball Coach brandonwill1028@gmail.com
+
+19. Steve Roane
+   Email: eroane@rcsj.edu
+   Username: eroane
+   Sports: Basketball
+   Title: Men's Basketball Assistant Coach
+   Original line: Steve Roane Men's Basketball Assistant Coach eroane@rcsj.edu
+
+20. Craig Wicken
+   Email: cwicken@rcsj.edu
+   Username: cwicken
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (856) 468-5000
+   Original line: Craig Wicken Men's Soccer Head Coach 856-468-5000, Ext. 2207 cwicken@rcsj.edu 
+
+21. Andrew McNellis
+   Email: amcnell1@rcsj.edu
+   Username: amcnell1
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (856) 468-5000
+   Original line: Andrew McNellis Men's Soccer Assistant Coach 856-468-5000, Ext. 2207 amcnell1@rcsj.edu
+
+22. Brian Rowan
+   Email: browan@rcsj.edu
+   Username: browan
+   Sports: Tennis
+   Title: Head Coach
+   Original line: Brian Rowan Men's Tennis Head Coach 856 468 5000 Ext. 2263 browan@rcsj.edu
+
+23. Guy Davidson
+   Email: gdavids1@rcsj.edu
+   Username: gdavids1
+   Sports: Golf
+   Title: Head Coach
+   Phone: (856) 494-5691
+   Original line: Guy Davidson Golf Head Coach (856) 494-5691 gdavids1@rcsj.edu
+
+24. Lauren Vilimas
+   Email: lvilimas@rcsj.edu
+   Username: lvilimas
+   Sports: Golf
+   Title: Golf Assistant Coach
+   Original line: Lauren Vilimas Golf Assistant Coach lvilimas@rcsj.edu
+
+25. Guy Davidson
+   Email: gdavids1@rcsj.edu
+   Username: gdavids1
+   Sports: Golf
+   Title: Head Coach
+   Phone: (856) 494-5691
+   Original line: Guy Davidson Golf Head Coach (856) 494-5691 gdavids1@rcsj.edu
+
+26. Lauren Vilimas
+   Email: lvilimas@rcsj.edu
+   Username: lvilimas
+   Sports: Golf
+   Title: Golf Assistant Coach
+   Original line: Lauren Vilimas Golf Assistant Coach lvilimas@rcsj.edu
+
+27. Mary Jewett
+   Email: mary@ajewett16.com
+   Username: mary
+   Sports: Tennis
+   Title: Women's Tennis Coach
+   Original line: Mary Jewett Women's Tennis Coach mary@ajewett16.com
+
+28.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: s Basketball Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Women's Basketball Coach 
+
+29. Bill Collins
+   Email: 
+   Username: bill.collins
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Bill Collins Softball Assistant Coach
+
+30. Lynnsie Collins
+   Email: 
+   Username: lynnsie.collins
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Lynnsie Collins Softball Assistant Coach
+
+31.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: s Basketball Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Women's Basketball Coach
+
+32. Rich Cooper
+   Email: rcooper3@rcsj.edu
+   Username: rcooper3
+   Sports: Strength & Conditioning
+   Title: Coach - Throws/Strength &
+   Original line: Coach - Throws/Strength & rcooper3@rcsj.edu
+
+33.  
+   Email: 
+   Username: 
+   Sports: General Athletics
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+34. Nikki Tricocci
+   Email: 
+   Username: nikki.tricocci
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nikki Tricocci Women's Soccer Assistant Coach
+
+35. Greg Chew
+   Email: 
+   Username: greg.chew
+   Sports: Baseball
+   Title: Assistant Coach - Pitching
+   Original line: Greg Chew Baseball Assistant Coach - Pitching
+
+36. Austin Darrow
+   Email: 
+   Username: austin.darrow
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Austin Darrow Baseball Assistant Coach
+
+37. Mark Fischer
+   Email: 
+   Username: mark.fischer
+   Sports: Wrestling
+   Title: Assistant Coach
+   Original line: Mark Fischer Wrestling Assistant Coach
+
+38. Richard Johnson
+   Email: 
+   Username: richard.johnson
+   Sports: General Athletics
+   Title: Assistant Coach - Sprints
+   Original line: Richard Johnson Assistant Coach - Sprints, Hurdles,
+
+39. Sharon Schilling
+   Email: 
+   Username: sharon.schilling
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Sharon Schilling Men's Cross Country Assistant Coach
+
+40. John Byrd
+   Email: 
+   Username: john.byrd
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: John Byrd Men's Basketball Assistant Coach
+
+41. Anthony Laube
+   Email: 
+   Username: anthony.laube
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Anthony Laube Men's Basketball Assistant Coach
+
+42. John Lewis
+   Email: 
+   Username: john.lewis
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: John Lewis Men's Basketball Assistant Coach
+
+43. Nick Sheppard
+   Email: 
+   Username: nick.sheppard
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: Nick Sheppard Men's Tennis Assistant Coach
+
+44. Sean Sloane
+   Email: 
+   Username: sean.sloane
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: Sean Sloane Men's Tennis Assistant Coach
+
+45. Nick Raddi
+   Email: 
+   Username: nick.raddi
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: Nick Raddi Men's Tennis Assistant Coach
+
+46. Nick Raddi
+   Email: 
+   Username: nick.raddi
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: Nick Raddi Women's Tennis Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Roane Men's Basketball Assistant Coach eroane@rcsj.edu
+• Steve Roane Men's Basketball Assistant Coach eroane@rcsj.edu 
+• Steve DePasquale Softball Head Coach 856 468 5000 Ext. 2207 sdepasqu@rcsj.edu
+• Catherine Dunn Women's Basketball Assistant Coach cdunn8@rcsj.edu
+• Ryan Hughes Women's Track & Field Head Coach 856 468 5000 Ext. 6336 rhughes@rcgc.edu
+• Samantha Bevilacqua Women's Volleyball Head Coach sbevila1@rcsj.edu
+• Kristin Bellamy Women's Volleyball Assistant Coach kbellam2@rcsj.edu
+• Ke'alohilani Naone-Carter Women's Volleyball Assistant Coach knaoneca@rcsj.edu
+• Ryan Hughes Women's Cross Country Head Coach 856 468 5000 Ext. 6336 rhughes@rcsj.edu
+• Tom Eichhorn Women's Soccer Head Coach teichhor@rcsj.edu
+• Kenyatta Collins Women's Soccer Assistant Coach kcollin6@rcsj.edu 
+• Rob Valli Baseball Head Coach 856 468 5000 Ext. 2213 rvalli@rcsj.edu
+• Paul Toppin Interim Wrestling Head Coach ptoppin@rcsj.edu
+• Riley Onorato Wrestling Assistant Coach ronorato@rcsj.edu
+• Ryan Hughes Men's Track and Field Head Coach 856 468 5000 Ext. 6336 rhughes@rcsj.edu
+• Joseph C. Kalnas, CSCS Men's Track & Field Assistant Coach - jkalnas1@rcsj.edu
+• Ryan Hughes Men's Cross Country Head Coach 856 468 5000 Ext. 6336 rhughes@rcsj.edu
+• Brandon Williams Men's Basketball Coach brandonwill1028@gmail.com
+• Steve Roane Men's Basketball Assistant Coach eroane@rcsj.edu
+• Craig Wicken Men's Soccer Head Coach 856-468-5000, Ext. 2207 cwicken@rcsj.edu 
+• Andrew McNellis Men's Soccer Assistant Coach 856-468-5000, Ext. 2207 amcnell1@rcsj.edu
+• Brian Rowan Men's Tennis Head Coach 856 468 5000 Ext. 2263 browan@rcsj.edu
+• Guy Davidson Golf Head Coach (856) 494-5691 gdavids1@rcsj.edu
+• Lauren Vilimas Golf Assistant Coach lvilimas@rcsj.edu
+• Guy Davidson Golf Head Coach (856) 494-5691 gdavids1@rcsj.edu
+• Lauren Vilimas Golf Assistant Coach lvilimas@rcsj.edu
+• Mary Jewett Women's Tennis Coach mary@ajewett16.com

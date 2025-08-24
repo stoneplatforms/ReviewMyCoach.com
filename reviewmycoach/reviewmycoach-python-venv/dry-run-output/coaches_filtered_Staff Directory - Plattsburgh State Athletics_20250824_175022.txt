@@ -1,0 +1,349 @@
+COACH ENTRIES FOUND - 2025-08-24 17:50:22
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Plattsburgh State
+Organization: Plattsburgh State Athletics
+State: New York
+
+Total coaches found: 40
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brett Willmott
+   Email: willmobd@plattsburgh.edu
+   Username: willmobd
+   Sports: Strength & Conditioning
+   Title: Head Strength and Conditioning Coach
+   Phone: (518) 564-4145
+   Original line: Brett Willmott '95 Head Strength and Conditioning Coach willmobd@plattsburgh.edu (518) 564-4145
+
+2. Sam Quinn-Loeb
+   Email: squin012@plattsburgh.edu
+   Username: squin012
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: (518) 564-4136
+   Original line: Sam Quinn-Loeb Head Baseball Coach squin012@plattsburgh.edu (518) 564-4136
+
+3. Andrew Krug
+   Email: krug3810@plattsburgh.edu
+   Username: krug3810
+   Sports: Cross Country
+   Title: Assistant Cross Country Coach
+   Phone: (518) 564-4345
+   Original line: Andrew Krug '10 Assistant Cross Country Coach krug3810@plattsburgh.edu (518) 564-4345
+
+4. Mike Blaine
+   Email: mblai008@plattsburgh.edu
+   Username: mblai008
+   Sports: Cross Country
+   Title: Head Men's Basketball Coach
+   Phone: (518) 564-4143
+   Original line: Mike Blaine Head Men's Basketball Coach mblai008@plattsburgh.edu (518) 564-4143
+
+5. Dylan Trombley
+   Email: dtrom004@plattsburgh.edu
+   Username: dtrom004
+   Sports: Cross Country
+   Title: Assistant Men's Basketball Coach
+   Phone: (518) 564-4313
+   Original line: Dylan Trombley M '25 Assistant Men's Basketball Coach dtrom004@plattsburgh.edu (518) 564-4313
+
+6. Travis Gorham
+   Email: gorh9066@plattsburgh.edu
+   Username: gorh9066
+   Sports: Cross Country
+   Title: Volunteer Assistant Men's Basketball Coach
+   Phone: (518) 564-5418
+   Original line: Travis Gorham '09 Volunteer Assistant Men's Basketball Coach gorh9066@plattsburgh.edu (518) 564-5418
+
+7. Anthony Skiffington
+   Email: askif001@plattsburgh.edu
+   Username: askif001
+   Sports: Cross Country
+   Title: Volunteer Assistant Men's Basketball Coach
+   Original line: Anthony Skiffington Volunteer Assistant Men's Basketball Coach askif001@plattsburgh.edu
+
+8. Steve Moffat
+   Email: moffatsc@plattsburgh.edu
+   Username: moffatsc
+   Sports: Cross Country
+   Title: Head Men's Ice Hockey Coach
+   Phone: (518) 564-3607
+   Original line: Steve Moffat '98 Head Men's Ice Hockey Coach moffatsc@plattsburgh.edu (518) 564-3607
+
+9. Neil Mulcahy
+   Email: nmulc001@plattsburgh.edu
+   Username: nmulc001
+   Sports: Cross Country
+   Title: Assistant Men's Ice Hockey Coach
+   Phone: (518) 564-3607
+   Original line: Neil Mulcahy '87 Assistant Men's Ice Hockey Coach nmulc001@plattsburgh.edu (518) 564-3607
+
+10. Zach Nedbalski
+   Email: znedb001@plattsburgh.edu
+   Username: znedb001
+   Sports: Cross Country
+   Title: Head Men's Lacrosse Coach
+   Phone: (518) 564-3139
+   Original line: Zach Nedbalski Head Men's Lacrosse Coach znedb001@plattsburgh.edu (518) 564-3139
+
+11. Mark Chatt
+   Email: mchat002@plattsburgh.edu
+   Username: mchat002
+   Sports: Cross Country
+   Title: Assistant Men's Lacrosse Coach
+   Phone: (518) 564-3127
+   Original line: Mark Chatt Assistant Men's Lacrosse Coach mchat002@plattsburgh.edu (518) 564-3127
+
+12. Chris Taylor
+   Email: ctayl012@plattsburgh.edu
+   Username: ctayl012
+   Sports: Cross Country
+   Title: Head Men's Soccer Coach
+   Phone: (518) 564-4142
+   Original line: Chris Taylor '11 Head Men's Soccer Coach ctayl012@plattsburgh.edu (518) 564-4142
+
+13. Sergio Hernandez
+   Email: shern029@plattsburgh.edu
+   Username: shern029
+   Sports: Cross Country
+   Title: Assistant Men's Soccer Coach
+   Original line: Sergio Hernandez Assistant Men's Soccer Coach shern029@plattsburgh.edu
+
+14. Jessica Miller
+   Email: jmill095@plattsburgh.edu
+   Username: jmill095
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (518) 564-4144
+   Original line: Jessica Miller Head Softball Coach jmill095@plattsburgh.edu (518) 564-4144
+
+15. Brad Marshall
+   Email: bmars012@plattsburgh.edu
+   Username: bmars012
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Brad Marshall Assistant Softball Coach bmars012@plattsburgh.edu
+
+16. Andrew Krug
+   Email: krug3810@plattsburgh.edu
+   Username: krug3810
+   Sports: Track & Field
+   Title: Head Track and Field Coach
+   Phone: (518) 564-4345
+   Original line: Andrew Krug '10 Head Track and Field Coach krug3810@plattsburgh.edu (518) 564-4345
+
+17. Brett Willmott
+   Email: willmobd@plattsburgh.edu
+   Username: willmobd
+   Sports: Track & Field
+   Title: Associate Head Track and Field Coach
+   Phone: (518) 564-4145
+   Original line: Brett Willmott '95 Associate Head Track and Field Coach willmobd@plattsburgh.edu (518) 564-4145
+
+18. Ben Sarraf
+   Email: bsarr001@plattsburgh.edu
+   Username: bsarr001
+   Sports: Track & Field
+   Title: Head Women's Basketball Coach
+   Phone: (518) 564-4160
+   Original line: Ben Sarraf Head Women's Basketball Coach bsarr001@plattsburgh.edu (518) 564-4160
+
+19. Keith Wasberg
+   Email: kwasb001@plattsburgh.edu
+   Username: kwasb001
+   Sports: Track & Field
+   Title: Assistant Women's Basketball Coach
+   Phone: (518) 564-4151
+   Original line: Keith Wasberg Assistant Women's Basketball Coach kwasb001@plattsburgh.edu (518) 564-4151
+
+20. Kevin Houle
+   Email: houlekj@plattsburgh.edu
+   Username: houlekj
+   Sports: Track & Field
+   Title: Head Women's Ice Hockey Coach
+   Phone: (518) 564-4243
+   Original line: Kevin Houle Head Women's Ice Hockey Coach houlekj@plattsburgh.edu (518) 564-4243
+
+21. Emma Killeen
+   Email: ekill003@plattsburgh.edu
+   Username: ekill003
+   Sports: Track & Field
+   Title: Assistant Women's Ice Hockey Coach
+   Phone: (518) 564-4243
+   Original line: Emma Killeen '22 Assistant Women's Ice Hockey Coach ekill003@plattsburgh.edu (518) 564-4243
+
+22. Anna Bissell
+   Email: abiss003@plattsburgh.edu
+   Username: abiss003
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Phone: (518) 564-4127
+   Original line: Anna Bissell Head Women's Lacrosse Coach abiss003@plattsburgh.edu (518) 564-4127
+
+23. Whitney Frary
+   Email: wfrar001@plattsburgh.edu
+   Username: wfrar001
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Phone: (518) 564-4141
+   Original line: Whitney Frary Head Women's Soccer Coach wfrar001@plattsburgh.edu (518) 564-4141
+
+24. Sarah Erno
+   Email: serno001@plattsburgh.edu
+   Username: serno001
+   Sports: Track & Field
+   Title: Assistant Women's Soccer Coach
+   Phone: (518) 564-3274
+   Original line: Sarah Erno Assistant Women's Soccer Coach serno001@plattsburgh.edu (518) 564-3274
+
+25. Claire Said
+   Email: csaid001@plattsburgh.edu
+   Username: csaid001
+   Sports: Track & Field
+   Title: Assistant Women's Soccer Coach
+   Original line: Claire Said Assistant Women's Soccer Coach csaid001@plattsburgh.edu
+
+26. Chris Waterbury
+   Email: waterbcp@plattsburgh.edu
+   Username: waterbcp
+   Sports: Track & Field
+   Title: Women's Tennis Coach
+   Original line: Chris Waterbury Women's Tennis Coach waterbcp@plattsburgh.edu (518) 570 7727
+
+27. Alex Rine
+   Email: arine001@plattsburgh.edu
+   Username: arine001
+   Sports: Track & Field
+   Title: Assistant Women's Tennis Coach
+   Original line: Alex Rine Assistant Women's Tennis Coach arine001@plattsburgh.edu
+
+28. Karen Waterbury
+   Email: karen.waterbury@plattsburgh.edu
+   Username: karen.waterbury
+   Sports: Track & Field
+   Title: Assistant Women's Tennis Coach
+   Original line: Karen Waterbury Assistant Women's Tennis Coach karen.waterbury@plattsburgh.edu
+
+29. Eimile O'Brien
+   Email: eobri013@plattsburgh.edu
+   Username: eobri013
+   Sports: Track & Field
+   Title: Head Women's Volleyball Coach
+   Phone: (518) 564-4244
+   Original line: Eimile O'Brien Head Women's Volleyball Coach eobri013@plattsburgh.edu 518-564-4244
+
+30. Deirdre Physician
+   Email: healthcenter@plattsburgh.edu
+   Username: healthcenter
+   Sports: Baseball
+   Title: Rene Colon Assistant Baseball Coach
+   Original line: Rene Colon Assistant Baseball Coach healthcenter@plattsburgh.edu
+
+31. Lisa Vicencio
+   Email: vicencla@plattsburgh.edu
+   Username: vicencla
+   Sports: Baseball
+   Title: Andrew Kramer Volunteer Assistant Baseball Coach
+   Original line: Andrew Kramer Volunteer Assistant Baseball Coach vicencla@plattsburgh.edu
+
+32. Todd Volunteer
+   Email: 
+   Username: todd.volunteer
+   Sports: Baseball
+   Title: Todd Everleth Volunteer Assistant Baseball Coach
+   Original line: Todd Everleth Volunteer Assistant Baseball Coach
+
+33. Tom Volunteer
+   Email: 
+   Username: tom.volunteer
+   Sports: Baseball
+   Title: Tom Neale Volunteer Assistant Baseball Coach
+   Original line: Tom Neale Volunteer Assistant Baseball Coach
+
+34.  
+   Email: 
+   Username: 
+   Sports: Cross Country
+   Title: Cross Country Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Cross Country Coach
+
+35. Bill Goalie
+   Email: 
+   Username: bill.goalie
+   Sports: Soccer, Hockey
+   Title: s Ice Hockey Goalie Coach
+   Original line: Bill Corbo Men's Ice Hockey Goalie Coach
+
+36. Dan Volunteer
+   Email: 
+   Username: dan.volunteer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Dan Clements '24 Volunteer Assistant Men's Lacrosse Coach
+
+37. Brett Rotz
+   Email: 
+   Username: brett.rotz
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Brett Rotz Assistant Men's Soccer Coach
+
+38. Deanna Zoch
+   Email: 
+   Username: deanna.zoch
+   Sports: Track & Field
+   Title: Assistant Track and Field Coach
+   Original line: Deanna Zoch '24 Assistant Track and Field Coach
+
+39. Kassi Goalie
+   Email: 
+   Username: kassi.goalie
+   Sports: Soccer, Hockey
+   Title: s Ice Hockey Goalie Coach
+   Original line: Kassi Abbott '19 Women's Ice Hockey Goalie Coach
+
+40. Tyler Harsch
+   Email: 
+   Username: tyler.harsch
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Tyler Harsch '24 Assistant Women's Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brett Willmott '95 Head Strength and Conditioning Coach willmobd@plattsburgh.edu (518) 564-4145
+• Sam Quinn-Loeb Head Baseball Coach squin012@plattsburgh.edu (518) 564-4136
+• Andrew Krug '10 Assistant Cross Country Coach krug3810@plattsburgh.edu (518) 564-4345
+• Mike Blaine Head Men's Basketball Coach mblai008@plattsburgh.edu (518) 564-4143
+• Dylan Trombley M '25 Assistant Men's Basketball Coach dtrom004@plattsburgh.edu (518) 564-4313
+• Travis Gorham '09 Volunteer Assistant Men's Basketball Coach gorh9066@plattsburgh.edu (518) 564-5418
+• Anthony Skiffington Volunteer Assistant Men's Basketball Coach askif001@plattsburgh.edu
+• Steve Moffat '98 Head Men's Ice Hockey Coach moffatsc@plattsburgh.edu (518) 564-3607
+• Neil Mulcahy '87 Assistant Men's Ice Hockey Coach nmulc001@plattsburgh.edu (518) 564-3607
+• Zach Nedbalski Head Men's Lacrosse Coach znedb001@plattsburgh.edu (518) 564-3139
+• Mark Chatt Assistant Men's Lacrosse Coach mchat002@plattsburgh.edu (518) 564-3127
+• Chris Taylor '11 Head Men's Soccer Coach ctayl012@plattsburgh.edu (518) 564-4142
+• Sergio Hernandez Assistant Men's Soccer Coach shern029@plattsburgh.edu
+• Jessica Miller Head Softball Coach jmill095@plattsburgh.edu (518) 564-4144
+• Brad Marshall Assistant Softball Coach bmars012@plattsburgh.edu
+• Andrew Krug '10 Head Track and Field Coach krug3810@plattsburgh.edu (518) 564-4345
+• Brett Willmott '95 Associate Head Track and Field Coach willmobd@plattsburgh.edu (518) 564-4145
+• Ben Sarraf Head Women's Basketball Coach bsarr001@plattsburgh.edu (518) 564-4160
+• Keith Wasberg Assistant Women's Basketball Coach kwasb001@plattsburgh.edu (518) 564-4151
+• Kevin Houle Head Women's Ice Hockey Coach houlekj@plattsburgh.edu (518) 564-4243
+• Emma Killeen '22 Assistant Women's Ice Hockey Coach ekill003@plattsburgh.edu (518) 564-4243
+• Anna Bissell Head Women's Lacrosse Coach abiss003@plattsburgh.edu (518) 564-4127
+• Whitney Frary Head Women's Soccer Coach wfrar001@plattsburgh.edu (518) 564-4141
+• Sarah Erno Assistant Women's Soccer Coach serno001@plattsburgh.edu (518) 564-3274
+• Claire Said Assistant Women's Soccer Coach csaid001@plattsburgh.edu
+• Chris Waterbury Women's Tennis Coach waterbcp@plattsburgh.edu (518) 570 7727
+• Alex Rine Assistant Women's Tennis Coach arine001@plattsburgh.edu
+• Karen Waterbury Assistant Women's Tennis Coach karen.waterbury@plattsburgh.edu
+• Eimile O'Brien Head Women's Volleyball Coach eobri013@plattsburgh.edu 518-564-4244

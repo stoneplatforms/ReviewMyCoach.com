@@ -1,0 +1,409 @@
+COACH ENTRIES FOUND - 2025-08-24 17:50:16
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Pace University
+Organization: Pace University Athletics
+State: New York
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kayte Biordi
+   Email: kkinsley@pace.edu
+   Username: kkinsley
+   Sports: Track & Field, Hockey
+   Title: Assistant Athletics Director/Head Field Hockey Coach
+   Original line: Kayte Biordi Assistant Athletics Director/Head Field Hockey Coach kkinsley@pace.edu 914-773-
+
+2. Tom Mariano
+   Email: tmariano@pace.edu
+   Username: tmariano
+   Sports: Lacrosse
+   Title: Assistant Athletics Director/Head Men's Lacrosse Coach
+   Original line: Tom Mariano Assistant Athletics Director/Head Men's Lacrosse Coach tmariano@pace.edu 914-773-
+
+3. Hank Manning
+   Email: hmanning@pace.edu
+   Username: hmanning
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Hank Manning Head Coach hmanning@pace.edu 914-773-
+
+4. Pete Raimondi
+   Email: baseball@pace.edu
+   Username: baseball
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Pete Raimondi Assistant Coach baseball@pace.edu
+
+5. Tim Bausher
+   Email: tbausher@pace.edu
+   Username: tbausher
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tim Bausher Assistant Coach tbausher@pace.edu
+
+6. Joe Kesselmark
+   Email: baseball@pace.edu
+   Username: baseball
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Joe Kesselmark Assistant Coach baseball@pace.edu
+
+7. John Elliott
+   Email: jelliott3@pace.edu
+   Username: jelliott3
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: John Elliott Head Coach jelliott3@pace.edu 914-773-
+
+8. Kayte Biordi
+   Email: kkinsley@pace.edu
+   Username: kkinsley
+   Sports: Track & Field
+   Title: Assistant Athletics Director/Head Field Hockey Coach
+   Original line: Kayte Biordi Assistant Athletics Director/Head Field Hockey Coach kkinsley@pace.edu 914-773-
+
+9. Chad Walker
+   Email: cwalker2@pace.edu
+   Username: cwalker2
+   Sports: Football
+   Title: Head Coach
+   Original line: Chad Walker Head Coach cwalker2@pace.edu 914-773-
+
+10. Conor Gilmartin-Donohue
+   Email: cgilmartindonohue@pace.edu
+   Username: cgilmartindonohue
+   Sports: Football
+   Title: Offensive Coordinator/Offensive Line Coach
+   Original line: Conor Gilmartin-Donohue Offensive Coordinator/Offensive Line Coach cgilmartindonohue@pace.edu 914-773-
+
+11. Neimar Santouse
+   Email: nsantouse@pace.edu
+   Username: nsantouse
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Neimar Santouse Wide Receivers Coach nsantouse@pace.edu 914-773-
+
+12. Garret Lynn
+   Email: glynn@pace.edu
+   Username: glynn
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: Garret Lynn Defensive Line Coach glynn@pace.edu 914-773-
+
+13. Roderick Plummer
+   Email: rplummer2@pace.edu
+   Username: rplummer2
+   Sports: Football
+   Title: Defensive Coordinator/Defensive Backs Coach
+   Original line: Roderick Plummer Defensive Coordinator/Defensive Backs Coach rplummer2@pace.edu 917-773-
+
+14. Jake Amsler
+   Email: jamsler@pace.edu
+   Username: jamsler
+   Sports: Football
+   Title: Special Teams/Linebackers Coach
+   Original line: Jake Amsler Special Teams/Linebackers Coach jamsler@pace.edu 914-773-
+
+15. Matt Healing
+   Email: mhealing@pace.edu
+   Username: mhealing
+   Sports: Football
+   Title: Head Coach
+   Original line: Matt Healing Head Coach mhealing@pace.edu 914-773-
+
+16. Jon Merceus
+   Email: jmerceus@pace.edu
+   Username: jmerceus
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jon Merceus Assistant Coach jmerceus@pace.edu 914-773-
+
+17. Sean Rigothi
+   Email: srigothi@pace.edu
+   Username: srigothi
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Sean Rigothi Assistant Coach srigothi@pace.edu 914-773-
+
+18. Tom Mariano
+   Email: tmariano@pace.edu
+   Username: tmariano
+   Sports: Football
+   Title: Assistant Athletics Director/Head Men's Lacrosse Coach
+   Original line: Tom Mariano Assistant Athletics Director/Head Men's Lacrosse Coach tmariano@pace.edu 914-773-
+
+19. Joe Licata
+   Email: jlicata@pace.edu
+   Username: jlicata
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Joe Licata Assistant Coach jlicata@pace.edu
+
+20. Lew Janavey
+   Email: ljanavey@pace.edu
+   Username: ljanavey
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Lew Janavey Assistant Coach ljanavey@pace.edu
+
+21. Edward Evans
+   Email: eevans@pace.edu
+   Username: eevans
+   Sports: Football
+   Title: Head Coach
+   Original line: Edward Evans Head Coach eevans@pace.edu 914-773-
+
+22. Brian McKee
+   Email: bmckee@pace.edu
+   Username: bmckee
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brian McKee Assistant Coach bmckee@pace.edu
+
+23. Claudia Stabile
+   Email: cstabile@pace.edu
+   Username: cstabile
+   Sports: Softball
+   Title: Head Coach
+   Original line: Claudia Stabile Head Coach cstabile@pace.edu 914-773-
+
+24. John Elliott
+   Email: jelliott3@pace.edu
+   Username: jelliott3
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: John Elliott Assistant Coach jelliott3@pace.edu 914-773-
+
+25. Victor Penaloza
+   Email: vpenaloza@pace.edu
+   Username: vpenaloza
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Victor Penaloza Head Coach vpenaloza@pace.edu 914-773-
+
+26. Dylan Korn
+   Email: dkorn@pace.edu
+   Username: dkorn
+   Sports: Swimming
+   Title: Diving Coach
+   Original line: Dylan Korn Diving Coach dkorn@pace.edu 914-773-
+
+27. Dan Ho
+   Email: dho@pace.edu
+   Username: dho
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Dan Ho Assistant Coach dho@pace.edu
+
+28. Carrie Seymour
+   Email: cseymour@pace.edu
+   Username: cseymour
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Carrie Seymour Head Coach cseymour@pace.edu 914-773-
+
+29. Patrina Blow
+   Email: pblow@pace.edu
+   Username: pblow
+   Sports: Swimming
+   Title: Associate Head Coach
+   Original line: Patrina Blow Associate Head Coach pblow@pace.edu 914-773-
+
+30. Tricia Molfetta
+   Email: pmolfetta@pace.edu
+   Username: pmolfetta
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Tricia Molfetta Head Coach pmolfetta@pace.edu 914-773-
+
+31. Melissa Alamprese
+   Email: malamprese@pace.edu
+   Username: malamprese
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Melissa Alamprese Assistant Coach malamprese@pace.edu 914-773-
+
+32. Amber Neumann
+   Email: aneumann@pace.edu
+   Username: aneumann
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Amber Neumann Assistant Coach aneumann@pace.edu 914-773-
+
+33. Brittany Soto
+   Email: bsoto@pace.edu
+   Username: bsoto
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Brittany Soto Head Coach bsoto@pace.edu (914) 773-
+
+34. Amanda Alayon-Wilkins
+   Email: awilkins@pace.edu
+   Username: awilkins
+   Sports: Swimming
+   Title: Head Volleyball Coach
+   Original line: Amanda Alayon-Wilkins Head Volleyball Coach awilkins@pace.edu 914-773-
+
+35. Jamie Calandro
+   Email: jcalandro@pace.edu
+   Username: jcalandro
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Jamie Calandro Assistant Coach jcalandro@pace.edu
+
+36. Kelly Volunteer
+   Email: 
+   Username: kelly.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelly Adams Volunteer Assistant Coach
+
+37. Jenna Graduate
+   Email: 
+   Username: jenna.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jenna McCrudden Graduate Assistant Coach
+
+38. Derrick Davis
+   Email: 
+   Username: derrick.davis
+   Sports: Soccer
+   Title: Derrick Davis Assistant Defensive Line Coach
+   Original line: Derrick Davis Assistant Defensive Line Coach
+
+39. Braden Bohannon
+   Email: 
+   Username: braden.bohannon
+   Sports: Soccer
+   Title: Braden Bohannon Assistant Offensive Line Coach
+   Original line: Braden Bohannon Assistant Offensive Line Coach
+
+40. Brandon Jacobs
+   Email: 
+   Username: brandon.jacobs
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Jacobs Assistant Coach 914-773-
+
+41. Tray Graduate
+   Email: 
+   Username: tray.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tray Alexander Graduate Assistant Coach
+
+42. Jojo Janavey
+   Email: 
+   Username: jojo.janavey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jojo Janavey Assistant Coach
+
+43. Ryan Gorup
+   Email: 
+   Username: ryan.gorup
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Gorup Assistant Coach
+
+44. Brealand Edwards
+   Email: 
+   Username: brealand.edwards
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brealand Edwards Assistant Coach
+
+45. Nina Volunteer
+   Email: 
+   Username: nina.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nina Iturriaga Volunteer Assistant Coach
+
+46. Brianna Graduate
+   Email: 
+   Username: brianna.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brianna Shea Graduate Assistant Coach
+
+47. Gisselle Graduate
+   Email: 
+   Username: gisselle.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gisselle Garcia Graduate Assistant Coach
+
+48. Brielle Team
+   Email: 
+   Username: brielle.team
+   Sports: Soccer
+   Title: Brielle Wymbs Dance Team Coach
+   Original line: Brielle Wymbs Dance Team Coach
+
+49. Arielle Gallucci
+   Email: 
+   Username: arielle.gallucci
+   Sports: Soccer
+   Title: Arielle Gallucci Cheerleading Coach
+   Original line: Arielle Gallucci Cheerleading Coach
+
+50. Arianna Graduate
+   Email: 
+   Username: arianna.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Arianna Stockinger Graduate Assistant Coach
+
+51. Angelina Graduate
+   Email: 
+   Username: angelina.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Angelina Iocca Graduate Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kayte Biordi Assistant Athletics Director/Head Field Hockey Coach kkinsley@pace.edu 914-773-
+• Tom Mariano Assistant Athletics Director/Head Men's Lacrosse Coach tmariano@pace.edu 914-773-
+• Hank Manning Head Coach hmanning@pace.edu 914-773-
+• Pete Raimondi Assistant Coach baseball@pace.edu
+• Tim Bausher Assistant Coach tbausher@pace.edu
+• Joe Kesselmark Assistant Coach baseball@pace.edu
+• John Elliott Head Coach jelliott3@pace.edu 914-773-
+• Kayte Biordi Assistant Athletics Director/Head Field Hockey Coach kkinsley@pace.edu 914-773-
+• Chad Walker Head Coach cwalker2@pace.edu 914-773-
+• Conor Gilmartin-Donohue Offensive Coordinator/Offensive Line Coach cgilmartindonohue@pace.edu 914-773-
+• Neimar Santouse Wide Receivers Coach nsantouse@pace.edu 914-773-
+• Garret Lynn Defensive Line Coach glynn@pace.edu 914-773-
+• Roderick Plummer Defensive Coordinator/Defensive Backs Coach rplummer2@pace.edu 917-773-
+• Jake Amsler Special Teams/Linebackers Coach jamsler@pace.edu 914-773-
+• Matt Healing Head Coach mhealing@pace.edu 914-773-
+• Jon Merceus Assistant Coach jmerceus@pace.edu 914-773-
+• Sean Rigothi Assistant Coach srigothi@pace.edu 914-773-
+• Tom Mariano Assistant Athletics Director/Head Men's Lacrosse Coach tmariano@pace.edu 914-773-
+• Joe Licata Assistant Coach jlicata@pace.edu
+• Lew Janavey Assistant Coach ljanavey@pace.edu
+• Edward Evans Head Coach eevans@pace.edu 914-773-
+• Brian McKee Assistant Coach bmckee@pace.edu
+• Claudia Stabile Head Coach cstabile@pace.edu 914-773-
+• John Elliott Assistant Coach jelliott3@pace.edu 914-773-
+• Victor Penaloza Head Coach vpenaloza@pace.edu 914-773-
+• Dylan Korn Diving Coach dkorn@pace.edu 914-773-
+• Dan Ho Assistant Coach dho@pace.edu
+• Carrie Seymour Head Coach cseymour@pace.edu 914-773-
+• Patrina Blow Associate Head Coach pblow@pace.edu 914-773-
+• Tricia Molfetta Head Coach pmolfetta@pace.edu 914-773-
+• Melissa Alamprese Assistant Coach malamprese@pace.edu 914-773-
+• Amber Neumann Assistant Coach aneumann@pace.edu 914-773-
+• Brittany Soto Head Coach bsoto@pace.edu (914) 773-
+• Amanda Alayon-Wilkins Head Volleyball Coach awilkins@pace.edu 914-773-
+• Jamie Calandro Assistant Coach jcalandro@pace.edu

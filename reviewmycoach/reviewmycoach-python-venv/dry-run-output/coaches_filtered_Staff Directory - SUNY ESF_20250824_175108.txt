@@ -1,0 +1,128 @@
+COACH ENTRIES FOUND - 2025-08-24 17:51:08
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: SUNY ESF
+Organization: SUNY ESF Athletics
+State: New York
+
+Total coaches found: 14
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nathan Co
+   Email: nwojslw@gmail.com
+   Username: nwojslw
+   Sports: Soccer
+   Title: Wojslaw -Head Bass Fishing Coach
+   Phone: (585) 445-4989
+   Original line: Nathan Wojslaw Co-Head Bass Fishing Coach 585-445-4989 nwojslw@gmail.com
+
+2. Nicholas Co
+   Email: nesander@syr.edu
+   Username: nesander
+   Sports: Soccer
+   Title: Sanderson -Head Bass Fishing Coach
+   Phone: (716) 393-6272
+   Original line: Nicholas Sanderson Co-Head Bass Fishing Coach 716-393-6272 nesander@syr.edu
+
+3. Adam Scalisi
+   Email: adscalis@esf.edu
+   Username: adscalis
+   Sports: Soccer
+   Title: Men's Soccer Head Coach
+   Original line: Adam Scalisi Men's Soccer Head Coach adscalis@esf.edu
+
+4. Dominick Manno
+   Email: djmanno@esf.edu
+   Username: djmanno
+   Sports: Soccer
+   Title: Men's Soccer Assistant Coach
+   Original line: Dominick Manno Men's Soccer Assistant Coach djmanno@esf.edu
+
+5. Mandy Olinski
+   Email: ajdarin@esf.edu
+   Username: ajdarin
+   Sports: Soccer
+   Title: Women's Soccer Head Coach
+   Original line: Mandy Olinski Women's Soccer Head Coach ajdarin@esf.edu
+
+6. John D'Antonio
+   Email: jodanton@esf.edu
+   Username: jodanton
+   Sports: Basketball
+   Title: Head Coach
+   Phone: (315) 470-4933
+   Original line: John D'Antonio Men's Basketball Head Coach (315) 470-4933 jodanton@esf.edu
+
+7. John Turbeville
+   Email: jturbev@esf.edu
+   Username: jturbev
+   Sports: Golf
+   Title: Golf Coach
+   Phone: (315) 470-6660
+   Original line: John Turbeville Golf Coach (315) 470-6660 jturbev@esf.edu
+
+8. Sofia Hvozda
+   Email: shvozda@esf.edu
+   Username: shvozda
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Sports Head Coach shvozda@esf.edu
+
+9. Sports 
+   Email: 
+   Username: sports
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sports Assistant Coach
+
+10. Emily Ellithorpe
+   Email: eellitho@syr.edu
+   Username: eellitho
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Max Cutie Men's Soccer Assistant Coach eellitho@syr.edu
+
+11.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+12. Mighty Oaks
+   Email: 
+   Username: mighty.oaks
+   Sports: Cross Country
+   Title: coach
+   Original line: Mighty Oaks Cross Country Coaches
+
+13. Mike Melfi
+   Email: mjmelfi@esf.edu
+   Username: mjmelfi
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Country/Track Head Coach mjmelfi@esf.edu
+
+14.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country/Track Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nathan Wojslaw Co-Head Bass Fishing Coach 585-445-4989 nwojslw@gmail.com
+• Nicholas Sanderson Co-Head Bass Fishing Coach 716-393-6272 nesander@syr.edu
+• Adam Scalisi Men's Soccer Head Coach adscalis@esf.edu
+• Dominick Manno Men's Soccer Assistant Coach djmanno@esf.edu
+• Mandy Olinski Women's Soccer Head Coach ajdarin@esf.edu
+• John D'Antonio Men's Basketball Head Coach (315) 470-4933 jodanton@esf.edu
+• John Turbeville Golf Coach (315) 470-6660 jturbev@esf.edu

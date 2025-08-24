@@ -1,0 +1,208 @@
+COACH ENTRIES FOUND - 2025-08-24 17:51:48
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: St. Joseph's University - Brooklyn
+Organization: St. Joseph's University - Brooklyn Athletics
+State: New York
+
+Total coaches found: 24
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rich Pecoraro
+   Email: rpecoraro@sjny.edu
+   Username: rpecoraro
+   Sports: Baseball
+   Title: III Head Baseball Coach
+   Original line: Rich Pecoraro III Head Baseball Coach (718) 940- rpecoraro@sjny.edu
+
+2. Tyler Zucker
+   Email: tzucker@sjny.edu
+   Username: tzucker
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Tyler Zucker Assistant Baseball Coach (718) 940- tzucker@sjny.edu
+
+3. Tran Hennessy
+   Email: thennessy2@sjny.edu
+   Username: thennessy2
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Tran Hennessy Assistant Baseball Coach (718) 940- thennessy2@sjny.edu
+
+4. Eric Del
+   Email: erosso2@sjny.edu
+   Username: erosso2
+   Sports: Baseball
+   Title: Rosso Assistant Baseball Coach
+   Original line: Eric Del Rosso Assistant Baseball Coach erosso2@sjny.edu
+
+5. Sebastien Etheart
+   Email: setheart2@sjny.edu
+   Username: setheart2
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Sebastien Etheart Assistant Men's Basketball Coach (718) 940- setheart2@sjny.edu
+
+6. Alec Willis
+   Email: awillis@sjny.edu
+   Username: awillis
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Alec Willis Assistant Men's Basketball Coach (718) 940- awillis@sjny.edu
+
+7. Nol Serqa
+   Email: nserqa@sjny.edu
+   Username: nserqa
+   Sports: Baseball
+   Title: s Soccer Coach
+   Original line: Nol Serqa Head Men's Soccer Coach (718) 940- nserqa@sjny.edu
+
+8. Leonel Volunteer
+   Email: lbravo@sjny.edu
+   Username: lbravo
+   Sports: Baseball
+   Title: s Volleyball Coach
+   Original line: Leonel Bravo Volunteer Assistant Men's Volleyball Coach (718) 940- lbravo@sjny.edu
+
+9. TBD 
+   Email: mvalentine2@sjny.edu
+   Username: mvalentine2
+   Sports: Baseball
+   Title: Head Men's Volleyball Coach
+   Original line: TBD TBD Head Men's Volleyball Coach mvalentine2@sjny.edu
+
+10. Tyler Bay
+   Email: tbay@sjny.edu
+   Username: tbay
+   Sports: Baseball
+   Title: s Cross Country Coach
+   Original line: Tyler Bay Head Men's & Women's Cross Country Coach (718) 940- tbay@sjny.edu
+
+11. Dino Mastropierro
+   Email: cmastropierro2@sjny.edu
+   Username: cmastropierro2
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Dino Mastropierro Head Softball Coach (718) 940- cmastropierro2@sjny.edu
+
+12. Jimmy Volunteer
+   Email: jkorotki@sjny.edu
+   Username: jkorotki
+   Sports: Softball
+   Title: Korotki Assistant Softball Coach
+   Original line: Jimmy Korotki Volunteer Assistant Softball Coach (718) 940- jkorotki@sjny.edu
+
+13. Freddy Suarez
+   Email: fsuarez@sjny.edu
+   Username: fsuarez
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Freddy Suarez Assistant Softball Coach (718) 940- fsuarez@sjny.edu
+
+14. Crystal Johnson
+   Email: cjohnson16@sjny.edu
+   Username: cjohnson16
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Crystal Johnson Assistant Softball Coach (718) 940- cjohnson16@sjny.edu
+
+15. Lauren Quesada
+   Email: lquesada2@sjny.edu
+   Username: lquesada2
+   Sports: Softball
+   Title: s Basketball Coach
+   Original line: Lauren Quesada Assistant Women's Basketball Coach (718) 940- lquesada2@sjny.edu
+
+16. Tammam Chalak
+   Email: tchalak@sjny.edu
+   Username: tchalak
+   Sports: Softball
+   Title: s Soccer Coach
+   Original line: Tammam Chalak Head Women's Soccer Coach (718) 940- tchalak@sjny.edu
+
+17. Mia Calamari
+   Email: mcalamari@sjny.edu
+   Username: mcalamari
+   Sports: Softball
+   Title: Assistant Women's Soccer Coach
+   Original line: Mia Calamari Assistant Women's Soccer Coach mcalamari@sjny.edu
+
+18. Symone Sweazie
+   Email: ssweazie@sjny.edu
+   Username: ssweazie
+   Sports: Softball
+   Title: s Soccer Coach
+   Original line: Symone Sweazie Assistant Women's Soccer Coach (718) 940- ssweazie@sjny.edu
+
+19. Antonio Mihail
+   Email: amihail@sjny.edu
+   Username: amihail
+   Sports: Softball
+   Title: s Volleyball Coach
+   Original line: Antonio Mihail Head Women's Volleyball Coach (718) 940- amihail@sjny.edu
+
+20. Edgar Lazaro
+   Email: elazaro@sjny.edu
+   Username: elazaro
+   Sports: Softball
+   Title: s Volleyball Coach
+   Original line: Edgar Lazaro Assistant Women's Volleyball Coach (718) 940- elazaro@sjny.edu
+
+21. Domenico DeLisi
+   Email: ddelisi@sjny.edu
+   Username: ddelisi
+   Sports: Softball
+   Title: s Flag Football Coach
+   Original line: Domenico DeLisi Head Women's Flag Football Coach (718) 940- ddelisi@sjny.edu
+
+22. Anthony DeMarco
+   Email: ademarco@sjny.edu
+   Username: ademarco
+   Sports: Softball
+   Title: s Flag Football Coach
+   Original line: Anthony DeMarco Assistant Women's Flag Football Coach (718) 940- ademarco@sjny.edu
+
+23.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: Basketball Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Basketball Coach
+
+24. Chris Volunteer
+   Email: 
+   Username: chris.volunteer
+   Sports: Basketball
+   Title: Chris Tracy Volunteer Coach
+   Original line: Chris Tracy Volunteer Coach (Men's Basketball)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Rich Pecoraro III Head Baseball Coach (718) 940- rpecoraro@sjny.edu
+• Tyler Zucker Assistant Baseball Coach (718) 940- tzucker@sjny.edu
+• Tran Hennessy Assistant Baseball Coach (718) 940- thennessy2@sjny.edu
+• Eric Del Rosso Assistant Baseball Coach erosso2@sjny.edu
+• Sebastien Etheart Assistant Men's Basketball Coach (718) 940- setheart2@sjny.edu
+• Alec Willis Assistant Men's Basketball Coach (718) 940- awillis@sjny.edu
+• Nol Serqa Head Men's Soccer Coach (718) 940- nserqa@sjny.edu
+• Leonel Bravo Volunteer Assistant Men's Volleyball Coach (718) 940- lbravo@sjny.edu
+• TBD TBD Head Men's Volleyball Coach mvalentine2@sjny.edu
+• Tyler Bay Head Men's & Women's Cross Country Coach (718) 940- tbay@sjny.edu
+• Dino Mastropierro Head Softball Coach (718) 940- cmastropierro2@sjny.edu
+• Jimmy Korotki Volunteer Assistant Softball Coach (718) 940- jkorotki@sjny.edu
+• Freddy Suarez Assistant Softball Coach (718) 940- fsuarez@sjny.edu
+• Crystal Johnson Assistant Softball Coach (718) 940- cjohnson16@sjny.edu
+• Lauren Quesada Assistant Women's Basketball Coach (718) 940- lquesada2@sjny.edu
+• Tammam Chalak Head Women's Soccer Coach (718) 940- tchalak@sjny.edu
+• Mia Calamari Assistant Women's Soccer Coach mcalamari@sjny.edu
+• Symone Sweazie Assistant Women's Soccer Coach (718) 940- ssweazie@sjny.edu
+• Antonio Mihail Head Women's Volleyball Coach (718) 940- amihail@sjny.edu
+• Edgar Lazaro Assistant Women's Volleyball Coach (718) 940- elazaro@sjny.edu
+• Domenico DeLisi Head Women's Flag Football Coach (718) 940- ddelisi@sjny.edu
+• Anthony DeMarco Assistant Women's Flag Football Coach (718) 940- ademarco@sjny.edu

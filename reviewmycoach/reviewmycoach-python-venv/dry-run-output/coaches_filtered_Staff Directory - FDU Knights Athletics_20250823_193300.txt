@@ -1,0 +1,268 @@
+COACH ENTRIES FOUND - 2025-08-23 19:33:00
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: FDU Knights
+Organization: FDU Knights Athletics
+
+Total coaches found: 32
+
+PARSED ENTRIES:
+----------------------------------------
+1. Manny Roman
+   Email: eroman@fdu.edu
+   Username: eroman
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Manny Roman Head Coach eroman@fdu.edu
+
+2. Ethan Newton
+   Email: e.newton@fdu.edu
+   Username: e.newton
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Ethan Newton Associate Head Coach e.newton@fdu.edu
+
+3. Josh Hayes
+   Email: j.hayes@fdu.edu
+   Username: j.hayes
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Josh Hayes Associate Head Coach j.hayes@fdu.edu
+
+4. Tom Kiely
+   Email: t.kiely@fdu.edu
+   Username: t.kiely
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tom Kiely Assistant Coach t.kiely@fdu.edu
+
+5. Nate Stitchell
+   Email: n.stitchell@fdu.edu
+   Username: n.stitchell
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Nate Stitchell Assistant Coach n.stitchell@fdu.edu
+
+6. Stephanie Gaitley
+   Email: s.gaitley@fdu.edu
+   Username: s.gaitley
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Stephanie Gaitley Head Coach s.gaitley@fdu.edu
+
+7. Jessica Simmonds
+   Email: jsimm41@fdu.edu
+   Username: jsimm41
+   Sports: Baseball
+   Title: Associate Head Coach/Recruiting Coordinator
+   Original line: Jessica Simmonds Associate Head Coach/Recruiting Coordinator jsimm41@fdu.edu
+
+8. Jeremy Thompson
+   Email: j.thompson2@fdu.edu
+   Username: j.thompson2
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jeremy Thompson Assistant Coach j.thompson2@fdu.edu
+
+9. Ty Rozier
+   Email: t.rozier@fdu.edu
+   Username: t.rozier
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Ty Rozier Assistant Coach t.rozier@fdu.edu
+
+10. K.J. Martinez
+   Email: k.martinez@fdu.edu
+   Username: k.martinez
+   Sports: Baseball
+   Title: Head Coach
+   Original line: K.J. Martinez Head Coach k.martinez@fdu.edu
+
+11. Greg Rupp
+   Email: g.rupp@fdu.edu
+   Username: g.rupp
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Greg Rupp Head Coach g.rupp@fdu.edu
+
+12. Jessica Pandolf
+   Email: jpandolf@fdu.edu
+   Username: jpandolf
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jessica Pandolf Head Coach jpandolf@fdu.edu
+
+13. Caitlin Morrow
+   Email: c.morrow@fdu.edu
+   Username: c.morrow
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Caitlin Morrow Assistant Coach c.morrow@fdu.edu
+
+14. Jaymee Highcock
+   Email: j.highcock@fdu.edu
+   Username: j.highcock
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jaymee Highcock Head Coach j.highcock@fdu.edu
+
+15. Tiago Capela
+   Email: t.capela@fdu.edu
+   Username: t.capela
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinatior
+   Original line: Tiago Capela Assistant Coach/Recruiting Coordinatior t.capela@fdu.edu
+
+16. Jovin Grewal
+   Email: j.grewal@v.fdu.edu
+   Username: j.grewal
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jovin Grewal Assistant Coach j.grewal@v.fdu.edu
+
+17. Eric Teepe
+   Email: eteepe@fdu.edu
+   Username: eteepe
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Eric Teepe Head Coach eteepe@fdu.edu
+
+18. Elma Kolenovic
+   Email: e.kolenovic@fdu.edu
+   Username: e.kolenovic
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Elma Kolenovic Assistant Coach e.kolenovic@fdu.edu
+
+19. Chris Foye
+   Email: cfoye@fdu.edu
+   Username: cfoye
+   Sports: Softball
+   Title: Head Coach
+   Original line: Chris Foye Head Coach cfoye@fdu.edu
+
+20. Alison Meagher
+   Email: a.meagher@fdu.edu
+   Username: a.meagher
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alison Meagher Assistant Coach a.meagher@fdu.edu
+
+21. Alex Cole
+   Email: a.cole1@fdu.edu
+   Username: a.cole1
+   Sports: Softball
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Alex Cole Head Men's and Women's Tennis Coach a.cole1@fdu.edu
+
+22. Wesley Stratis
+   Email: w.stephens@fdu.edu
+   Username: w.stephens
+   Sports: Softball
+   Title: Head Coach
+   Original line: Wesley Stephens Elia G. Stratis Head Coach of Cross Country, Track and Field w.stephens@fdu.edu
+
+23. Leroy Solomon
+   Email: leroy_solomon8@fdu.edu
+   Username: leroy_solomon8
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Leroy Solomon Assistant Coach leroy_solomon8@fdu.edu
+
+24. Desirae Osley
+   Email: d.osley@fdu.edu
+   Username: d.osley
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Desirae Osley Assistant Coach d.osley@fdu.edu
+
+25. Errol Jeffrey
+   Email: e.jeffrey@fdu.edu
+   Username: e.jeffrey
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Errol Jeffrey Assistant Coach e.jeffrey@fdu.edu
+
+26. Karl France
+   Email: karlfrance@fdu.edu
+   Username: karlfrance
+   Sports: Softball
+   Title: Head Coach
+   Original line: Karl France Head Coach karlfrance@fdu.edu
+
+27. David Nguyen
+   Email: d.nguyen@fdu.edu
+   Username: d.nguyen
+   Sports: Softball
+   Title: Head Coach
+   Original line: David Nguyen Head Coach d.nguyen@fdu.edu
+
+28. Crystal Simmons
+   Email: cheer@fdu.edu
+   Username: cheer
+   Sports: Softball
+   Title: Head Coach
+   Original line: Crystal Simmons Head Coach cheer@fdu.edu
+
+29. Jester Graduate
+   Email: j.hutchison@student.fdu.edu
+   Username: j.hutchison
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jack Castleberry Head Coach j.hutchison@student.fdu.edu
+
+30. Derrick Volunteer
+   Email: 
+   Username: derrick.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Derrick Birdsong Volunteer Assistant Coach
+
+31. Carl Taylor
+   Email: 
+   Username: carl.taylor
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carl Taylor Assistant Coach
+
+32. Yasmin Seabrook
+   Email: 
+   Username: yasmin.seabrook
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Yasmin Seabrook Associate Head Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Manny Roman Head Coach eroman@fdu.edu
+• Ethan Newton Associate Head Coach e.newton@fdu.edu
+• Josh Hayes Associate Head Coach j.hayes@fdu.edu
+• Tom Kiely Assistant Coach t.kiely@fdu.edu
+• Nate Stitchell Assistant Coach n.stitchell@fdu.edu
+• Stephanie Gaitley Head Coach s.gaitley@fdu.edu
+• Jessica Simmonds Associate Head Coach/Recruiting Coordinator jsimm41@fdu.edu
+• Jeremy Thompson Assistant Coach j.thompson2@fdu.edu
+• Ty Rozier Assistant Coach t.rozier@fdu.edu
+• K.J. Martinez Head Coach k.martinez@fdu.edu
+• Greg Rupp Head Coach g.rupp@fdu.edu
+• Jessica Pandolf Head Coach jpandolf@fdu.edu
+• Caitlin Morrow Assistant Coach c.morrow@fdu.edu
+• Jaymee Highcock Head Coach j.highcock@fdu.edu
+• Tiago Capela Assistant Coach/Recruiting Coordinatior t.capela@fdu.edu
+• Jovin Grewal Assistant Coach j.grewal@v.fdu.edu
+• Eric Teepe Head Coach eteepe@fdu.edu
+• Elma Kolenovic Assistant Coach e.kolenovic@fdu.edu
+• Chris Foye Head Coach cfoye@fdu.edu
+• Alison Meagher Assistant Coach a.meagher@fdu.edu
+• Alex Cole Head Men's and Women's Tennis Coach a.cole1@fdu.edu
+• Wesley Stephens Elia G. Stratis Head Coach of Cross Country, Track and Field w.stephens@fdu.edu
+• Leroy Solomon Assistant Coach leroy_solomon8@fdu.edu
+• Desirae Osley Assistant Coach d.osley@fdu.edu
+• Errol Jeffrey Assistant Coach e.jeffrey@fdu.edu
+• Karl France Head Coach karlfrance@fdu.edu
+• David Nguyen Head Coach d.nguyen@fdu.edu
+• Crystal Simmons Head Coach cheer@fdu.edu

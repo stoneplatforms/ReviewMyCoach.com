@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-08-24 17:52:13
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: The City College of New York
+Organization: The City College of New York Athletics
+State: New York
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Losche
+   Email: slosche@ccny.cuny.edu
+   Username: slosche
+   Sports: Baseball
+   Title: Head Coach - Baseball
+   Phone: 510-6954
+   Original line: Scott Losche Head Coach - Baseball slosche@ccny.cuny.edu 917.510-6954
+
+2. Christopher Jimenez
+   Email: cjimenez@ccny.cuny.edu
+   Username: cjimenez
+   Sports: Baseball
+   Title: Assistant Coach - Baseball
+   Original line: Christopher Jimenez Assistant Coach - Baseball cjimenez@ccny.cuny.edu
+
+3. Daniel Colon
+   Email: ccnymbb@gtest.ccny.cuny.edu
+   Username: ccnymbb
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Daniel Colon Head Coach - Men's Basketball ccnymbb@gtest.ccny.cuny.edu
+
+4. Marcello Di
+   Email: mdirusso@ccny.cuny.edu
+   Username: mdirusso
+   Sports: Baseball
+   Title: Russo Head Coach
+   Original line: Marcello Di Russo Head Coach - Women's Basketball mdirusso@ccny.cuny.edu CoachDiRusso
+
+5. Joseph Benson
+   Email: jbenson@ccny.cuny.edu
+   Username: jbenson
+   Sports: Baseball
+   Title: Head Coach - Cross Country and Track & Field
+   Original line: Joseph Benson Head Coach - Cross Country and Track & Field jbenson@ccny.cuny.edu
+
+6. Paul Yuen
+   Email: pyuen@ccny.cuny.edu
+   Username: pyuen
+   Sports: Baseball
+   Title: Head Coach - Fencing
+   Phone: 212.650.8396
+   Original line: Paul Yuen Head Coach - Fencing pyuen@ccny.cuny.edu 212.650.8396
+
+7. Femaria Joseph
+   Email: fjoseph@ccny.cuny.edu
+   Username: fjoseph
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Femaria Joseph Assistant Coach - Women's Fencing fjoseph@ccny.cuny.edu
+
+8. Roger Gonzalez
+   Email: rogergonzaleznyc@gmail.com
+   Username: rogergonzaleznyc
+   Sports: Lacrosse
+   Title: Head Coach
+   Phone: 646-3313
+   Original line: Roger Gonzalez Head Coach - Men's Soccer rogergonzaleznyc@gmail.com 646-3313832
+
+9. Bryant Ibarra
+   Email: bryantibarra01@gmail.com
+   Username: bryantibarra01
+   Sports: Lacrosse
+   Title: Goalkeeping Coach
+   Original line: Bryant Ibarra Goalkeeping Coach - Men's Soccer bryantibarra01@gmail.com
+
+10. Yanique Newman
+   Email: ynewman21@gmail.com
+   Username: ynewman21
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Yanique Newman Head Coach - Women's Soccer ynewman21@gmail.com
+
+11. Joseph Benson
+   Email: jbenson@ccny.cuny.edu
+   Username: jbenson
+   Sports: Lacrosse
+   Title: Head Coach - Cross Country and Track & Field
+   Original line: Joseph Benson Head Coach - Cross Country and Track & Field jbenson@ccny.cuny.edu
+
+12. Nick Diunte
+   Email: ndiunte@ccny.cuny.edu
+   Username: ndiunte
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Nick Diunte Head Coach - Men's Volleyball ndiunte@ccny.cuny.edu
+
+13. James Versailles
+   Email: jamesv@gtest.ccny.cuny.edu
+   Username: jamesv
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Roberto Fernandez Volunteer Assistant Coach jamesv@gtest.ccny.cuny.edu
+
+14. Jerry Sidman
+   Email: 
+   Username: jerry.sidman
+   Sports: Baseball
+   Title: Assistant Coach - Baseball
+   Original line: Jerry Sidman Assistant Coach - Baseball
+
+15. Jose Lopez
+   Email: 
+   Username: jose.lopez
+   Sports: Baseball
+   Title: Assistant Coach - Baseball
+   Original line: Jose Lopez Assistant Coach - Baseball
+
+16. Barry Gonzalez
+   Email: 
+   Username: barry.gonzalez
+   Sports: Basketball
+   Title: Assistant Coach - Women
+   Original line: Barry Gonzalez Assistant Coach - Women's Basketball
+
+17. Alessandro Petrini
+   Email: 
+   Username: alessandro.petrini
+   Sports: Basketball
+   Title: Assistant Coach - Women
+   Original line: Alessandro Petrini Assistant Coach - Women's Basketball
+
+18. Lia Castillo
+   Email: 
+   Username: lia.castillo
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Lia Castillo Assistant Coach - Women's Fencing
+
+19. Adam Ella
+   Email: 
+   Username: adam.ella
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Adam AscioneD' Ella Assistant Coach - Women's Fencing
+
+20. Jonathan Zaskorski
+   Email: 
+   Username: jonathan.zaskorski
+   Sports: Hockey
+   Title: Head Coach - Ice Hockey
+   Original line: Jonathan Zaskorski Head Coach - Ice Hockey (Club)
+
+21. Nicholas Ice
+   Email: Ntagarelli@gmail.com
+   Username: Ntagarelli
+   Sports: Lacrosse
+   Title: Assistant Coach - Men
+   Original line: Ryan Garling Assistant Coach - Men's Lacrosse Ntagarelli@gmail.com
+
+22. Eoin Collins
+   Email: 
+   Username: eoin.collins
+   Sports: Lacrosse
+   Title: Assistant Coach - Men
+   Original line: Eoin Collins Assistant Coach - Men's Lacrosse
+
+23. Norb Ecksl
+   Email: norbecksl@gmail.com
+   Username: norbecksl
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carlos Islas Volunteer Assistant Coach norbecksl@gmail.com
+
+24. MacKenzie Moreno
+   Email: 
+   Username: mackenzie.moreno
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: MacKenzie Moreno Assistant Coach - Women's Soccer
+
+25. Leanna Rodriguez
+   Email: 
+   Username: leanna.rodriguez
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Leanna Rodriguez Assistant Coach - Women's Soccer
+
+26. Gabrielle Cillibrasi
+   Email: 
+   Username: gabrielle.cillibrasi
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Gabrielle Cillibrasi Assistant Coach - Women's Soccer
+
+27. Perla Sanchez
+   Email: 
+   Username: perla.sanchez
+   Sports: Volleyball
+   Title: Head Coach - Women
+   Original line: Perla Sanchez Head Coach - Women's Volleyball
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Losche Head Coach - Baseball slosche@ccny.cuny.edu 917.510-6954
+• Christopher Jimenez Assistant Coach - Baseball cjimenez@ccny.cuny.edu
+• Daniel Colon Head Coach - Men's Basketball ccnymbb@gtest.ccny.cuny.edu
+• Marcello Di Russo Head Coach - Women's Basketball mdirusso@ccny.cuny.edu CoachDiRusso
+• Joseph Benson Head Coach - Cross Country and Track & Field jbenson@ccny.cuny.edu
+• Paul Yuen Head Coach - Fencing pyuen@ccny.cuny.edu 212.650.8396
+• Femaria Joseph Assistant Coach - Women's Fencing fjoseph@ccny.cuny.edu
+• Roger Gonzalez Head Coach - Men's Soccer rogergonzaleznyc@gmail.com 646-3313832
+• Bryant Ibarra Goalkeeping Coach - Men's Soccer bryantibarra01@gmail.com
+• Yanique Newman Head Coach - Women's Soccer ynewman21@gmail.com
+• Joseph Benson Head Coach - Cross Country and Track & Field jbenson@ccny.cuny.edu
+• Nick Diunte Head Coach - Men's Volleyball ndiunte@ccny.cuny.edu

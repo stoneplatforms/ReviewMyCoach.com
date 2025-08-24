@@ -1,0 +1,451 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:56
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Clarkson University
+Organization: Clarkson University Athletics
+State: New York
+
+Total coaches found: 53
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tad Johnson
+   Email: tjohnson@clarkson.edu
+   Username: tjohnson
+   Sports: Hockey, Strength & Conditioning
+   Title: Head Strength & Conditioning Coach - Hockey
+   Phone: (315) 268-6615
+   Original line: Tad Johnson Head Strength & Conditioning Coach - Hockey tjohnson@clarkson.edu 315-268-6615
+
+2. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+3. Alpine Ski
+   Email: mencacl@clarkson.edu
+   Username: mencacl
+   Sports: Soccer
+   Title: Lorenzo Mencaccini Head Coach
+   Original line: Lorenzo Mencaccini Head Coach - Alpine Ski mencacl@clarkson.edu
+
+4. Alpine Skiing
+   Email: karlsscm@clarkson.edu
+   Username: karlsscm
+   Sports: Soccer
+   Title: Christopher Kerven Assistant Coach
+   Original line: Christopher Kerven Assistant Coach - Alpine Skiing karlsscm@clarkson.edu
+
+5. Jim Kane
+   Email: jkanebas@clarkson.edu
+   Username: jkanebas
+   Sports: Baseball
+   Title: Head Coach - Baseball
+   Phone: (315) 268-3759
+   Original line: Jim Kane Head Coach - Baseball jkanebas@clarkson.edu 315-268-3759
+
+6. Stephen Colangelo
+   Email: colangsd@clarkson.edu
+   Username: colangsd
+   Sports: Baseball
+   Title: Assistant Coach - Baseball
+   Original line: Stephen Colangelo Assistant Coach - Baseball colangsd@clarkson.edu
+
+7. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Baseball
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+8. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Cross Country
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+9. Tyler Cline
+   Email: clinekt@clarkson.edu
+   Username: clinekt
+   Sports: Cross Country
+   Title: Head Coach - Golf
+   Original line: Tyler Cline Head Coach - Golf clinekt@clarkson.edu
+
+10. Brant Bomberger
+   Email: bomberbl@clarkson.edu
+   Username: bomberbl
+   Sports: Cross Country
+   Title: Assistant Coach - Golf
+   Original line: Brant Bomberger Assistant Coach - Golf bomberbl@clarkson.edu
+
+11. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Cross Country
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+12. Jeff Gorski
+   Email: jgorski@clarkson.edu
+   Username: jgorski
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (315) 268-3766
+   Original line: Jeff Gorski Head Coach - Men's Basketball jgorski@clarkson.edu 315-268-3766
+
+13. Aidan Holmes
+   Email: aholme@clarkson.edu
+   Username: aholme
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Aidan Holmes Assistant Coach - Men's Basketball aholme@clarkson.edu
+
+14. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Cross Country
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+15. Chris Brooks
+   Email: cbrooks@clarkson.edu
+   Username: cbrooks
+   Sports: Cross Country
+   Title: Associate Head Coach
+   Phone: (315) 268-3756
+   Original line: Chris Brooks Associate Head Coach cbrooks@clarkson.edu 315-268-3756
+
+16. Corey Leivermann
+   Email: cleiverm@clarkson.edu
+   Username: cleiverm
+   Sports: Cross Country
+   Title: Assistant Coach
+   Phone: (315) 268-7838
+   Original line: Corey Leivermann Assistant Coach cleiverm@clarkson.edu 315-268-7838
+
+17. Sebastian Ragno
+   Email: sjragno@clarkson.edu
+   Username: sjragno
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Sebastian Ragno Assistant Coach sjragno@clarkson.edu
+
+18. Tad Johnson
+   Email: tjohnson@clarkson.edu
+   Username: tjohnson
+   Sports: Cross Country
+   Title: Head Strength & Conditioning Coach - Hockey
+   Phone: (315) 268-6615
+   Original line: Tad Johnson Head Strength & Conditioning Coach - Hockey tjohnson@clarkson.edu 315-268-6615
+
+19. Mike Clougherty
+   Email: cloughmg@clarkson.edu
+   Username: cloughmg
+   Sports: Cross Country
+   Title: Video Coach
+   Original line: Mike Clougherty Video Coach - Hockey Operations cloughmg@clarkson.edu
+
+20. Bill Bergan
+   Email: lacrosse@clarkson.edu
+   Username: lacrosse
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (315) 268-3767
+   Original line: Bill Bergan Head Coach - Men's Lacrosse lacrosse@clarkson.edu 315-268-3767
+
+21. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Cross Country
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+22. Carter Lincoln
+   Email: clincoln@clarkson.edu
+   Username: clincoln
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (315) 268-7983
+   Original line: Carter Lincoln Head Coach - Men's Soccer clincoln@clarkson.edu 315-268-7983
+
+23. Jonah Stekly
+   Email: steklyj@clarkson.edu
+   Username: steklyj
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Jonah Stekly Assistant Coach - Men's Soccer steklyj@clarkson.edu
+
+24. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Cross Country
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+25. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Cross Country
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+26. Kristen McGaughey
+   Email: kmcgaugh@clarkson.edu
+   Username: kmcgaugh
+   Sports: Softball
+   Title: Head Coach - Softball
+   Phone: (315) 268-2057
+   Original line: Kristen McGaughey Head Coach - Softball kmcgaugh@clarkson.edu 315-268-2057
+
+27. Devin Fitzpatrick
+   Email: fitzpad@clarkson.edu
+   Username: fitzpad
+   Sports: Softball
+   Title: Assistant Coach - Softball
+   Original line: Devin Fitzpatrick Assistant Coach - Softball fitzpad@clarkson.edu
+
+28. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Softball
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+29. Marc Danin
+   Email: mdanin@clarkson.edu
+   Username: mdanin
+   Sports: Swimming
+   Title: Head Coach - Swimming & Diving
+   Phone: (315) 268-3745
+   Original line: Marc Danin Head Coach - Swimming & Diving mdanin@clarkson.edu 315-268-3745
+
+30. Finn Halstead
+   Email: halstefw@clarkson.edu
+   Username: halstefw
+   Sports: Swimming
+   Title: Assistant Coach - Swimming
+   Original line: Finn Halstead Assistant Coach - Swimming halstefw@clarkson.edu
+
+31. Spencer Bernat
+   Email: bernatsg@clarkson.edu
+   Username: bernatsg
+   Sports: Swimming
+   Title: Assistant Coach - Diving
+   Original line: Spencer Bernat Assistant Coach - Diving bernatsg@clarkson.edu
+
+32. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Swimming
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+33. Carol LaMarche
+   Email: clamarch@clarkson.edu
+   Username: clamarch
+   Sports: Volleyball
+   Title: Head Coach - Volleyball
+   Phone: (315) 268-4448
+   Original line: Carol LaMarche Head Coach - Volleyball clamarch@clarkson.edu 315-268-4448
+
+34. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Volleyball
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+35. Sherry Dobbs
+   Email: sdobbsjr@clarkson.edu
+   Username: sdobbsjr
+   Sports: Volleyball
+   Title: Jr. Head Coach
+   Phone: (315) 268-3757
+   Original line: Sherry Dobbs Jr. Head Coach - Women's Basketball sdobbsjr@clarkson.edu 315-268-3757
+
+36. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Volleyball
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+37. Matt Desrosiers
+   Email: mdesrosi@clarkson.edu
+   Username: mdesrosi
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (315) 268-3735
+   Original line: Matt Desrosiers Head Coach - Women's Hockey mdesrosi@clarkson.edu 315-268-3735
+
+38. Cassidy Vinkle
+   Email: vinklec@clarkson.edu
+   Username: vinklec
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Cassidy Warner (Vinkle) Assistant Coach vinklec@clarkson.edu
+
+39. Cam Basarab
+   Email: cbasarab@clarkson.edu
+   Username: cbasarab
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Cam Basarab Assistant Coach cbasarab@clarkson.edu
+
+40. Kris Hogg
+   Email: khogg@clarkson.edu
+   Username: khogg
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Kris Hogg Assistant Coach khogg@clarkson.edu
+
+41. Tad Johnson
+   Email: tjohnson@clarkson.edu
+   Username: tjohnson
+   Sports: Volleyball
+   Title: Head Strength & Conditioning Coach - Hockey
+   Phone: (315) 268-6615
+   Original line: Tad Johnson Head Strength & Conditioning Coach - Hockey tjohnson@clarkson.edu 315-268-6615
+
+42. Jasmine Lauwers
+   Email: lauwerjm@clarkson.edu
+   Username: lauwerjm
+   Sports: Volleyball
+   Title: Video Coach
+   Original line: Jasmine Lauwers Video Coach - Hockey Operations lauwerjm@clarkson.edu
+
+43. Ally Burrows
+   Email: aburrows@clarkson.edu
+   Username: aburrows
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (315) 268-3743
+   Original line: Ally Burrows Head Coach - Women's Lacrosse aburrows@clarkson.edu 315-268-3743
+
+44. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Volleyball
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+45. Zac Shaw
+   Email: zshaw@clarkson.edu
+   Username: zshaw
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (315) 268-3758
+   Original line: Zac Shaw Head Coach - Women's Soccer zshaw@clarkson.edu 315-268-3758
+
+46. Garrett Ferguson
+   Email: gferguso@clarkson.edu
+   Username: gferguso
+   Sports: Volleyball
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+
+47. Josh Bartell
+   Email: jbartell@clarkson.edu
+   Username: jbartell
+   Sports: Baseball
+   Title: Assistant Coach - Baseball
+   Original line: Joe Godomsky Assistant Coach - Baseball jbartell@clarkson.edu
+
+48. Dana Hatton
+   Email: 
+   Username: dana.hatton
+   Sports: Cross Country
+   Title: Head Coach - Cross Country/Nordic Skiing
+   Original line: Dana Hatton Head Coach - Cross Country/Nordic Skiing
+
+49.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+50. Korey Bunal
+   Email: kbunal@clarkson.edu
+   Username: kbunal
+   Sports: Soccer
+   Title: Assistant Coach - Men
+   Original line: Demba Ba Assistant Coach - Men's Soccer kbunal@clarkson.edu
+
+51. Sara Silva
+   Email: 
+   Username: sara.silva
+   Sports: Volleyball
+   Title: Assistant Coach - Volleyball
+   Original line: Sara Da Silva Assistant Coach - Volleyball
+
+52. Jacob Equipment
+   Email: jfacey@clarkson.edu
+   Username: jfacey
+   Sports: Lacrosse
+   Title: Assistant Coach - Women
+   Original line: Ariel Shweiki Assistant Coach - Women's Lacrosse jfacey@clarkson.edu
+
+53. Aida Kardovic
+   Email: 
+   Username: aida.kardovic
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Aida Kardovic Assistant Coach - Women's Soccer
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tad Johnson Head Strength & Conditioning Coach - Hockey tjohnson@clarkson.edu 315-268-6615
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Lorenzo Mencaccini Head Coach - Alpine Ski mencacl@clarkson.edu
+• Christopher Kerven Assistant Coach - Alpine Skiing karlsscm@clarkson.edu
+• Jim Kane Head Coach - Baseball jkanebas@clarkson.edu 315-268-3759
+• Stephen Colangelo Assistant Coach - Baseball colangsd@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Tyler Cline Head Coach - Golf clinekt@clarkson.edu
+• Brant Bomberger Assistant Coach - Golf bomberbl@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Jeff Gorski Head Coach - Men's Basketball jgorski@clarkson.edu 315-268-3766
+• Aidan Holmes Assistant Coach - Men's Basketball aholme@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Chris Brooks Associate Head Coach cbrooks@clarkson.edu 315-268-3756
+• Corey Leivermann Assistant Coach cleiverm@clarkson.edu 315-268-7838
+• Sebastian Ragno Assistant Coach sjragno@clarkson.edu
+• Tad Johnson Head Strength & Conditioning Coach - Hockey tjohnson@clarkson.edu 315-268-6615
+• Mike Clougherty Video Coach - Hockey Operations cloughmg@clarkson.edu
+• Bill Bergan Head Coach - Men's Lacrosse lacrosse@clarkson.edu 315-268-3767
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Carter Lincoln Head Coach - Men's Soccer clincoln@clarkson.edu 315-268-7983
+• Jonah Stekly Assistant Coach - Men's Soccer steklyj@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Kristen McGaughey Head Coach - Softball kmcgaugh@clarkson.edu 315-268-2057
+• Devin Fitzpatrick Assistant Coach - Softball fitzpad@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Marc Danin Head Coach - Swimming & Diving mdanin@clarkson.edu 315-268-3745
+• Finn Halstead Assistant Coach - Swimming halstefw@clarkson.edu
+• Spencer Bernat Assistant Coach - Diving bernatsg@clarkson.edu
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Carol LaMarche Head Coach - Volleyball clamarch@clarkson.edu 315-268-4448
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Sherry Dobbs Jr. Head Coach - Women's Basketball sdobbsjr@clarkson.edu 315-268-3757
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Matt Desrosiers Head Coach - Women's Hockey mdesrosi@clarkson.edu 315-268-3735
+• Cassidy Warner (Vinkle) Assistant Coach vinklec@clarkson.edu
+• Cam Basarab Assistant Coach cbasarab@clarkson.edu
+• Kris Hogg Assistant Coach khogg@clarkson.edu
+• Tad Johnson Head Strength & Conditioning Coach - Hockey tjohnson@clarkson.edu 315-268-6615
+• Jasmine Lauwers Video Coach - Hockey Operations lauwerjm@clarkson.edu
+• Ally Burrows Head Coach - Women's Lacrosse aburrows@clarkson.edu 315-268-3743
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu
+• Zac Shaw Head Coach - Women's Soccer zshaw@clarkson.edu 315-268-3758
+• Garrett Ferguson Assistant Strength and Conditioning Coach gferguso@clarkson.edu

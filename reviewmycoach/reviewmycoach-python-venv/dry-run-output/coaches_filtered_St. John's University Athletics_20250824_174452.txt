@@ -1,0 +1,409 @@
+COACH ENTRIES FOUND - 2025-08-24 17:44:53
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: St. John's University
+Organization: St. John's University Athletics
+State: New York
+
+Total coaches found: 56
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dr Masur
+   Email: 
+   Username: dr.masur
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dr. David Masur Associate Athletics Director/Men's Soccer Head Coach 6197
+
+2. Al Caronia
+   Email: 
+   Username: al.caronia
+   Sports: Strength & Conditioning
+   Title: Al Caronia Strength & Conditioning Coach
+   Original line: Al Caronia Strength & Conditioning Coach 5362
+
+3. Jeffrey Eveillard
+   Email: 
+   Username: jeffrey.eveillard
+   Sports: Strength & Conditioning
+   Title: Jeffrey Eveillard Strength & Conditioning Coach
+   Original line: Jeffrey Eveillard Strength & Conditioning Coach
+
+4. Christine Group
+   Email: 
+   Username: christine.group
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Christine McCarton Support Group Coordinator/Head Coach, Dance Team
+
+5. Alexa Pope
+   Email: 
+   Username: alexa.pope
+   Sports: Soccer
+   Title: Alexa Pope Assistant Cheer Coach
+   Original line: Alexa Pope Assistant Cheer Coach
+
+6. Annie Kambouras
+   Email: 
+   Username: annie.kambouras
+   Sports: Soccer
+   Title: Annie Kambouras Head Cheerleading Coach
+   Original line: Annie Kambouras Head Cheerleading Coach
+
+7. Mike Hampton
+   Email: 
+   Username: mike.hampton
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mike Hampton Head Coach 6148
+
+8. George Brown
+   Email: 
+   Username: george.brown
+   Sports: Soccer
+   Title: Head Coach/Pitching Coach
+   Original line: George Brown Associate Head Coach/Pitching Coach 7523
+
+9. John Valente
+   Email: 
+   Username: john.valente
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Valente Assistant Coach
+
+10. Kathy Varsity
+   Email: 
+   Username: kathy.varsity
+   Sports: Soccer
+   Title: coach
+   Original line: Kathy Lally Senior Secretary for Varsity Coaches 6747
+
+11. Garrett Volunteer
+   Email: 
+   Username: garrett.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Garrett Scavelli Volunteer Assistant Coach
+
+12. Rick Pitino
+   Email: 
+   Username: rick.pitino
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Rick Pitino Head Coach 6225
+
+13. Steve Masiello
+   Email: 
+   Username: steve.masiello
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Steve Masiello Associate Head Coach 5885
+
+14. Ricky Johns
+   Email: 
+   Username: ricky.johns
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ricky Johns Assistant Coach 3714
+
+15. Bob Walsh
+   Email: 
+   Username: bob.walsh
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bob Walsh Assistant Coach 7687
+
+16. Taliek Brown
+   Email: 
+   Username: taliek.brown
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taliek Brown Assistant Coach 2543
+
+17. Joe Tartamella
+   Email: 
+   Username: joe.tartamella
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Joe Tartamella Head Coach 6139
+
+18. Steve Pogue
+   Email: 
+   Username: steve.pogue
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Steve Pogue Associate Head Coach 6003
+
+19. Vanessa Abel
+   Email: 
+   Username: vanessa.abel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Vanessa Abel Assistant Coach
+
+20. Joe Rutigliano
+   Email: 
+   Username: joe.rutigliano
+   Sports: Soccer
+   Title: Assistant Coach & Chief Strategist
+   Original line: Joe Rutigliano Assistant Coach & Chief Strategist
+
+21. Kaity Healy
+   Email: 
+   Username: kaity.healy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaity Healy Assistant Coach
+
+22. Yury Gelman
+   Email: 
+   Username: yury.gelman
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Yury Gelman Head Coach 5027
+
+23. Sergey Danilov
+   Email: 
+   Username: sergey.danilov
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sergey Danilov Assistant Coach
+
+24. Sergey Isayenko
+   Email: 
+   Username: sergey.isayenko
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sergey Isayenko Assistant Coach
+
+25. Phil Wildermuth
+   Email: 
+   Username: phil.wildermuth
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Phil Wildermuth Head Coach 2058
+
+26. Ambry Bishop
+   Email: 
+   Username: ambry.bishop
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ambry Bishop- Head Coach 2558
+
+27. Justin Turri
+   Email: 
+   Username: justin.turri
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Justin Turri Head Coach
+
+28. Kyle Turri
+   Email: 
+   Username: kyle.turri
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Turri Assistant Coach
+
+29. Christian Klipstein
+   Email: 
+   Username: christian.klipstein
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Christian Klipstein Assistant Coach
+
+30. David Drozjock
+   Email: 
+   Username: david.drozjock
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: David Drozjock Assistant Coach
+
+31. David Janezic
+   Email: 
+   Username: david.janezic
+   Sports: Soccer
+   Title: Head Coach
+   Original line: David Janezic Associate Head Coach 2098
+
+32. John Ciano
+   Email: 
+   Username: john.ciano
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Ciano Assistant Coach 7925
+
+33. Seth Roland
+   Email: 
+   Username: seth.roland
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Seth Roland Assistant Coach
+
+34. Richard Ongaro
+   Email: 
+   Username: richard.ongaro
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Richard Ongaro Assistant Coach
+
+35. Ian Stone
+   Email: 
+   Username: ian.stone
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ian Stone Head Coach 6163
+
+36. Amy Marron
+   Email: 
+   Username: amy.marron
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Amy Marron Associate Head Coach 7618
+
+37. Samie Scaffidi
+   Email: 
+   Username: samie.scaffidi
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Samie Scaffidi Assistant Coach
+
+38. Athina Student
+   Email: 
+   Username: athina.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Athina Sofroniou Student Assistant Coach
+
+39. Nikki Goalkeeping
+   Email: 
+   Username: nikki.goalkeeping
+   Sports: Soccer
+   Title: Nikki Pasquarella Goalkeeping Coach
+   Original line: Nikki Pasquarella Goalkeeping Coach
+
+40. Michelle DePolo
+   Email: 
+   Username: michelle.depolo
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Michelle DePolo Head Coach
+
+41. Marissa Rizzi
+   Email: 
+   Username: marissa.rizzi
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Marissa Rizzi Assistant Coach
+
+42. Sean Crowell
+   Email: 
+   Username: sean.crowell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Crowell Assistant Coach
+
+43. Elliott Blount
+   Email: 
+   Username: elliott.blount
+   Sports: Cross Country
+   Title: Head Coach/Recruiting Coordinator
+   Original line: Elliott Blount Cross Country Head Coach/Recruiting Coordinator
+
+44. Lexia Robinson
+   Email: 
+   Username: lexia.robinson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lexia Robinson Assistant Coach
+
+45. Tom Volunteer
+   Email: 
+   Username: tom.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Farrell Volunteer Assistant Coach
+
+46. Rodney Volunteer
+   Email: 
+   Username: rodney.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rodney Wiltshire Volunteer Assistant Coach
+
+47. Michael Volunteer
+   Email: 
+   Username: michael.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michael Robinson Volunteer Assistant Coach
+
+48. Bob Volunteer
+   Email: 
+   Username: bob.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bob Sorenson Volunteer Assistant Coach
+
+49. Dillon Pottish
+   Email: 
+   Username: dillon.pottish
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dillon Pottish Head Coach
+
+50. Carlos Maldonado
+   Email: 
+   Username: carlos.maldonado
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carlos Maldonado Assistant Coach
+
+51. Brenden Volk
+   Email: 
+   Username: brenden.volk
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brenden Volk Assistant Coach
+
+52. Lauren Leo
+   Email: 
+   Username: lauren.leo
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Lauren Leo Head Coach 2026
+
+53. Jayden Nielsen
+   Email: 
+   Username: jayden.nielsen
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: Jayden Nielsen Assistant Coach, Women's Tennis
+
+54. Joanne Persico
+   Email: 
+   Username: joanne.persico
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Joanne Persico Head Coach 1872
+
+55. Bryan Weber
+   Email: 
+   Username: bryan.weber
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Bryan Weber Associate Head Coach 2317
+
+56. Ryan Cole
+   Email: 
+   Username: ryan.cole
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Cole Assistant Coach 718-990-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

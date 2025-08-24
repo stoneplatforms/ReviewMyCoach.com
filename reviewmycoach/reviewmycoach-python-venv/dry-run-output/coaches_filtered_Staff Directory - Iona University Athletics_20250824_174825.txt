@@ -1,0 +1,503 @@
+COACH ENTRIES FOUND - 2025-08-24 17:48:26
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Iona University
+Organization: Iona University Athletics
+State: New York
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1.  Strength
+   Email: jmitchell@iona.edu
+   Username: jmitchell
+   Sports: Strength & Conditioning
+   Title: Assistant and Conditioning Coach
+   Phone: (914) 633-2665
+   Original line: Assistant Strength and Conditioning Coach Juan Mitchell (914) 633-2665 jmitchell@iona.edu
+
+2.  Strength
+   Email: rbrooks@iona.edu
+   Username: rbrooks
+   Sports: Strength & Conditioning
+   Title: Assistant and Conditioning Coach
+   Phone: (914) 633-2665
+   Original line: Assistant Strength and Conditioning Coach Rashaan Brooks Jr. (914) 633-2665 rbrooks@iona.edu
+
+3.  Strength
+   Email: hboldt@iona.edu
+   Username: hboldt
+   Sports: Strength & Conditioning
+   Title: Assistant and Conditioning Coach
+   Phone: (914) 633-2665
+   Original line: Assistant Strength and Conditioning Coach Hannah Boldt (914) 633-2665 hboldt@iona.edu
+
+4. Jeshleman 
+   Email: jeshleman@iona.edu
+   Username: jeshleman
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (914) 633-2661
+   Original line: Head Coach Jacquie Eshleman (914) 633-2661 jeshleman@iona.edu
+
+5. Sydney Hess
+   Email: shess@iona.edu
+   Username: shess
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach Sydney Hess shess@iona.edu
+
+6. Jenna DeCoursey
+   Email: jdecoursey@iona.edu
+   Username: jdecoursey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach Jenna DeCoursey jdecoursey@iona.edu
+
+7. Cburke 
+   Email: cburke@iona.edu
+   Username: cburke
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 633-2319
+   Original line: Head Coach Conor Burke (914) 633-2319 cburke@iona.edu
+
+8. Mscimanico 
+   Email: mscimanico@iona.edu
+   Username: mscimanico
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 633-2319
+   Original line: Associate Head Coach Mike Scimanico (914) 633-2319 mscimanico@iona.edu
+
+9. Jlyonsharrison 
+   Email: Jlyonsharrison@iona.edu
+   Username: Jlyonsharrison
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2319
+   Original line: Assistant Coach John Lyons-Harrison (914) 633-2319 Jlyonsharrison@iona.edu
+
+10. Aandrew 
+   Email: aandrew@iona.edu
+   Username: aandrew
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2319
+   Original line: Assistant Coach Alex Andrew (914) 633-2319 aandrew@iona.edu
+
+11. Patrick Wallace
+   Email: pwallace@iona.edu
+   Username: pwallace
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Patrick Wallace pwallace@iona.edu
+
+12. Ronald Ramon
+   Email: rramon@iona.edu
+   Username: rramon
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Ronald Ramon rramon@iona.edu
+
+13. Kris Saulny
+   Email: ksaulny@iona.edu
+   Username: ksaulny
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Kris Saulny ksaulny@iona.edu
+
+14. Michael Thompson
+   Email: mjthompson@iona.edu
+   Username: mjthompson
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Michael Thompson mjthompson@iona.edu
+
+15. WOMEN'S BASKETBALL
+   Email: aszumilo@iona.edu
+   Username: aszumilo
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 633-2321
+   Original line: Head Coach Angelika Szumilo (914) 633-2321 aszumilo@iona.edu
+
+16. WOMEN'S BASKETBALL
+   Email: agratch@iona.edu
+   Username: agratch
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-7721
+   Original line: Assistant Coach Aaron Gratch (914) 633-7721 agratch@iona.edu
+
+17. WOMEN'S BASKETBALL
+   Email: cmordi@iona.edu
+   Username: cmordi
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2415
+   Original line: Assistant Coach Christian Mordi (914) 633-2415 cmordi@iona.edu
+
+18. Mstanley 
+   Email: mstanley@iona.edu
+   Username: mstanley
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2415
+   Original line: Assistant Coach Madison Stanley (914) 633-2415 mstanley@iona.edu
+
+19. Vmoffett 
+   Email: vmoffett@iona.edu
+   Username: vmoffett
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2102
+   Original line: Assistant Coach Vann Moffett (914) 633-2102 vmoffett@iona.edu
+
+20. Csauer 
+   Email: csauer@iona.edu
+   Username: csauer
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2102
+   Original line: Assistant Coach Chris Sauer (914) 633-2102 csauer@iona.edu
+
+21. Ydickerson 
+   Email: ydickerson@iona.edu
+   Username: ydickerson
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2102
+   Original line: Assistant Coach Yelena Dickerson (914) 633-2102 ydickerson@iona.edu
+
+22. Pforson 
+   Email: pforson@iona.edu
+   Username: pforson
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2102
+   Original line: Assistant Coach Prince Forson (914) 633-2102 pforson@iona.edu
+
+23. Graduate 
+   Email: mconnelly1@gaels.iona.edu
+   Username: mconnelly1
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2102
+   Original line: Graduate Assistant Coach Molly Connelly (914) 633-2102 mconnelly1@gaels.iona.edu
+
+24. David Tottori
+   Email: dtottori@iona.edu
+   Username: dtottori
+   Sports: Baseball
+   Title: Head Women's Coach
+   Original line: Head Women's Coach David Tottori dtottori@iona.edu
+
+25. Msosik 
+   Email: msosik@iona.edu
+   Username: msosik
+   Sports: Baseball
+   Title: Assistant Coach - Men Michael Sosik
+   Phone: (914) 633-2071
+   Original line: Assistant Coach - Men Michael Sosik (914) 633-2071 msosik@iona.edu
+
+26. MEN'S LACROSSE
+   Email: csurman@iona.edu
+   Username: csurman
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 633-2526
+   Original line: Head Coach Chad Surman (914) 633-2526 csurman@iona.edu
+
+27. MEN'S LACROSSE
+   Email: bkavanagh@iona.edu
+   Username: bkavanagh
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2526
+   Original line: Assistant Coach Brendan Kavanagh (914) 633-2526 bkavanagh@iona.edu
+
+28. MEN'S LACROSSE
+   Email: pdolan@iona.edu
+   Username: pdolan
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2526
+   Original line: Assistant Coach Peter Dolan (914) 633-2526 pdolan@iona.edu
+
+29. Gkane 
+   Email: gkane@iona.edu
+   Username: gkane
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2526
+   Original line: Assistant Coach Gerard Kane (914) 633-2526 gkane@iona.edu
+
+30. WOMEN'S LACROSSE
+   Email: lkahn@iona.edu
+   Username: lkahn
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 637-2777
+   Original line: Head Coach Lauren Kahn (914) 637-2777 lkahn@iona.edu
+
+31. WOMEN'S LACROSSE
+   Email: srubeo@iona.edu
+   Username: srubeo
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 637-2777
+   Original line: Associate Head Coach Rocco Rubeo (914) 637-2777 srubeo@iona.edu
+
+32. WOMEN'S LACROSSE
+   Email: lmarshall@iona.edu
+   Username: lmarshall
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 637-2777
+   Original line: Assistant Coach Leah Marshall (914) 637-2777 lmarshall@iona.edu
+
+33. Jtivnan 
+   Email: jtivnan@iona.edu
+   Username: jtivnan
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2031
+   Original line: Assistant Coach Jacob Tivnan (914) 633-2031 jtivnan@iona.edu
+
+34. Kmason 
+   Email: kmason@iona.edu
+   Username: kmason
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2031
+   Original line: Assistant Coach Kelley Mason (914) 633-2031 kmason@iona.edu
+
+35. MEN'S SOCCER
+   Email: jhamilton@iona.edu
+   Username: jhamilton
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 633-2315
+   Original line: Head Coach James Hamilton (914) 633-2315 jhamilton@iona.edu
+
+36. MEN'S SOCCER
+   Email: awhitehead@iona.edu
+   Username: awhitehead
+   Sports: Baseball
+   Title: Coach
+   Phone: (914) 633-2315
+   Original line: Associate Head Coach Adam Whitehead (914) 633-2315 awhitehead@iona.edu
+
+37. MEN'S SOCCER
+   Email: zhaobsh@iona.edu
+   Username: zhaobsh
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2315
+   Original line: Assistant Coach Zade Haobsh (914) 633-2315 zhaobsh@iona.edu
+
+38. WOMEN'S SOCCER
+   Email: tplourde@iona.edu
+   Username: tplourde
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (914) 633-2131
+   Original line: Head Coach Todd Plourde (914) 633-2131 tplourde@iona.edu
+
+39. WOMEN'S SOCCER
+   Email: mwalker@iona.edu
+   Username: mwalker
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2131
+   Original line: Assistant Coach Marty Walker (914) 633-2131 mwalker@iona.edu
+
+40. WOMEN'S SOCCER
+   Email: mpdavis@iona.edu
+   Username: mpdavis
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (914) 633-2131
+   Original line: Assistant Coach Marc Davis (914) 633-2131 mpdavis@iona.edu
+
+41. Faith Preziosi
+   Email: fpreziosi@iona.edu
+   Username: fpreziosi
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Faith Preziosi fpreziosi@iona.edu
+
+42. Arusso 
+   Email: arusso@iona.edu
+   Username: arusso
+   Sports: Softball
+   Title: Head Coach
+   Phone: (914) 637-7756
+   Original line: Head Coach Andy Russo (914) 637-7756 arusso@iona.edu
+
+43. Ncavataro 
+   Email: ncavataro@iona.edu
+   Username: ncavataro
+   Sports: Softball
+   Title: Head Coach
+   Phone: (914) 633-2323
+   Original line: Head Coach Nick Cavataro (914) 633-2323 ncavataro@iona.edu
+
+44. Mpacsi 
+   Email: mpacsi@iona.edu
+   Username: mpacsi
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (914) 633-2323
+   Original line: Assistant Coach Mauro Pacsi (914) 633-2323 mpacsi@iona.edu
+
+45. Diving 
+   Email: marnold@iona.edu
+   Username: marnold
+   Sports: Softball
+   Title: Coach
+   Phone: (914) 633-2323
+   Original line: Diving Coach Maureen Ledden Arnold (914) 633-2323 marnold@iona.edu
+
+46. Ldasilveria 
+   Email: ldasilveria@iona.edu
+   Username: ldasilveria
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (914) 633-2323
+   Original line: Assistant Coach Luiza Da Silveira (914) 633-2323 ldasilveria@iona.edu
+
+47. Lhaddad 
+   Email: lhaddad@iona.edu
+   Username: lhaddad
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (914) 633-2323
+   Original line: Assistant Coach Lucas Haddad (914) 633-2323 lhaddad@iona.edu
+
+48. Awilson 
+   Email: awilson@iona.edu
+   Username: awilson
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (914) 633-2323
+   Original line: Assistant Coach Aidan Wilson (914) 633-2323 awilson@iona.edu
+
+49. Akaufman 
+   Email: akaufman@iona.edu
+   Username: akaufman
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (914) 633-2317
+   Original line: Head Coach Alyssa Kaufman (914) 633-2317 akaufman@iona.edu
+
+50. Jskeen 
+   Email: jskeen@iona.edu
+   Username: jskeen
+   Sports: Volleyball
+   Title: Assistant Coach
+   Phone: (914) 633-2317
+   Original line: Assistant Coach Jacqueline Skeen (914) 633-2317 jskeen@iona.edu
+
+51. Jteves 
+   Email: jteves@iona.edu
+   Username: jteves
+   Sports: Volleyball
+   Title: Assistant Coach
+   Phone: (914) 633-2317
+   Original line: Assistant Coach Joseph Teves (914) 633-2317 jteves@iona.edu
+
+52. Bdkelly 
+   Email: bdkelly@iona.edu
+   Username: bdkelly
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (914) 633-2313
+   Original line: Head Coach Brian Kelly (914) 633-2313 bdkelly@iona.edu
+
+53. Pjudge 
+   Email: pjudge@iona.edu
+   Username: pjudge
+   Sports: Volleyball
+   Title: Assistant Coach
+   Phone: (914) 633-2313
+   Original line: Assistant Coach Patrick Judge (914) 633-2313 pjudge@iona.edu
+
+54. Bjudge 
+   Email: bjudge@iona.edu
+   Username: bjudge
+   Sports: Volleyball
+   Title: Assistant Coach - Women Brenna Judge
+   Phone: (914) 633-2313
+   Original line: Assistant Coach - Women Brenna Judge (914) 633-2313 bjudge@iona.edu
+
+55.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach Dan Geriot
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Strength and Conditioning Coach Juan Mitchell (914) 633-2665 jmitchell@iona.edu
+• Assistant Strength and Conditioning Coach Rashaan Brooks Jr. (914) 633-2665 rbrooks@iona.edu
+• Assistant Strength and Conditioning Coach Hannah Boldt (914) 633-2665 hboldt@iona.edu
+• Head Coach Jacquie Eshleman (914) 633-2661 jeshleman@iona.edu
+• Assistant Coach Sydney Hess shess@iona.edu
+• Assistant Coach Jenna DeCoursey jdecoursey@iona.edu
+• Head Coach Conor Burke (914) 633-2319 cburke@iona.edu
+• Associate Head Coach Mike Scimanico (914) 633-2319 mscimanico@iona.edu
+• Assistant Coach John Lyons-Harrison (914) 633-2319 Jlyonsharrison@iona.edu
+• Assistant Coach Alex Andrew (914) 633-2319 aandrew@iona.edu
+• Assistant Coach Patrick Wallace pwallace@iona.edu
+• Assistant Coach Ronald Ramon rramon@iona.edu
+• Assistant Coach Kris Saulny ksaulny@iona.edu
+• Assistant Coach Michael Thompson mjthompson@iona.edu
+• Head Coach Angelika Szumilo (914) 633-2321 aszumilo@iona.edu
+• Assistant Coach Aaron Gratch (914) 633-7721 agratch@iona.edu
+• Assistant Coach Christian Mordi (914) 633-2415 cmordi@iona.edu
+• Assistant Coach Madison Stanley (914) 633-2415 mstanley@iona.edu
+• Assistant Coach Vann Moffett (914) 633-2102 vmoffett@iona.edu
+• Assistant Coach Chris Sauer (914) 633-2102 csauer@iona.edu
+• Assistant Coach Yelena Dickerson (914) 633-2102 ydickerson@iona.edu
+• Assistant Coach Prince Forson (914) 633-2102 pforson@iona.edu
+• Graduate Assistant Coach Molly Connelly (914) 633-2102 mconnelly1@gaels.iona.edu
+• Head Women's Coach David Tottori dtottori@iona.edu
+• Assistant Coach - Men Michael Sosik (914) 633-2071 msosik@iona.edu
+• Head Coach Chad Surman (914) 633-2526 csurman@iona.edu
+• Assistant Coach Brendan Kavanagh (914) 633-2526 bkavanagh@iona.edu
+• Assistant Coach Peter Dolan (914) 633-2526 pdolan@iona.edu
+• Assistant Coach Gerard Kane (914) 633-2526 gkane@iona.edu
+• Head Coach Lauren Kahn (914) 637-2777 lkahn@iona.edu
+• Associate Head Coach Rocco Rubeo (914) 637-2777 srubeo@iona.edu
+• Assistant Coach Leah Marshall (914) 637-2777 lmarshall@iona.edu
+• Assistant Coach Jacob Tivnan (914) 633-2031 jtivnan@iona.edu
+• Assistant Coach Kelley Mason (914) 633-2031 kmason@iona.edu
+• Head Coach James Hamilton (914) 633-2315 jhamilton@iona.edu
+• Associate Head Coach Adam Whitehead (914) 633-2315 awhitehead@iona.edu
+• Assistant Coach Zade Haobsh (914) 633-2315 zhaobsh@iona.edu
+• Head Coach Todd Plourde (914) 633-2131 tplourde@iona.edu
+• Assistant Coach Marty Walker (914) 633-2131 mwalker@iona.edu
+• Assistant Coach Marc Davis (914) 633-2131 mpdavis@iona.edu
+• Assistant Coach Faith Preziosi fpreziosi@iona.edu
+• Head Coach Andy Russo (914) 637-7756 arusso@iona.edu
+• Head Coach Nick Cavataro (914) 633-2323 ncavataro@iona.edu
+• Assistant Coach Mauro Pacsi (914) 633-2323 mpacsi@iona.edu
+• Diving Coach Maureen Ledden Arnold (914) 633-2323 marnold@iona.edu
+• Assistant Coach Luiza Da Silveira (914) 633-2323 ldasilveria@iona.edu
+• Assistant Coach Lucas Haddad (914) 633-2323 lhaddad@iona.edu
+• Assistant Coach Aidan Wilson (914) 633-2323 awilson@iona.edu
+• Head Coach Alyssa Kaufman (914) 633-2317 akaufman@iona.edu
+• Assistant Coach Jacqueline Skeen (914) 633-2317 jskeen@iona.edu
+• Assistant Coach Joseph Teves (914) 633-2317 jteves@iona.edu
+• Head Coach Brian Kelly (914) 633-2313 bdkelly@iona.edu
+• Assistant Coach Patrick Judge (914) 633-2313 pjudge@iona.edu
+• Assistant Coach - Women Brenna Judge (914) 633-2313 bjudge@iona.edu

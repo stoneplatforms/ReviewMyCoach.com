@@ -1,0 +1,110 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:55
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Cayuga Community College
+Organization: Cayuga Community College Athletics
+State: New York
+
+Total coaches found: 12
+
+PARSED ENTRIES:
+----------------------------------------
+1. John Rizzo
+   Email: baseball@cayuga-cc.edu
+   Username: baseball
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: (315) 702-7718
+   Original line: John Rizzo Head Baseball Coach 315-702-7718 baseball@cayuga-cc.edu
+
+2. Shea Beachner
+   Email: claytarget@Cayuga-cc.edu
+   Username: claytarget
+   Sports: Soccer
+   Title: Head Clay Target Coach
+   Phone: (315) 294-8811
+   Original line: Shea Beachner Head Clay Target Coach 315-294-8811 claytarget@Cayuga-cc.edu
+
+3. Chris Davison
+   Email: msoccer@cayuga-cc.edu
+   Username: msoccer
+   Sports: Soccer
+   Title: s Soccer Coach
+   Phone: (315) 294-8815
+   Original line: Chris Davison Head Men's Soccer Coach 315-294-8815 msoccer@cayuga-cc.edu
+
+4. Mike Spicer
+   Email: softball@cayuga-cc.edu
+   Username: softball
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Mike Spicer Head Softball Coach softball@cayuga-cc.edu
+
+5. Andrew Information
+   Email: apoole4@cayuga-cc.edu
+   Username: apoole4
+   Sports: Baseball
+   Title: TJ Gamba Assistant Baseball Coach
+   Original line: TJ Gamba Assistant Baseball Coach apoole4@cayuga-cc.edu
+
+6. TBA 
+   Email: atc@cayuga-cc.edu
+   Username: atc
+   Sports: Baseball
+   Title: Bill Ashby Assistant Baseball Coach
+   Original line: Bill Ashby Assistant Baseball Coach atc@cayuga-cc.edu
+
+7. Dan Flanick
+   Email: 
+   Username: dan.flanick
+   Sports: Baseball
+   Title: Dan Flanick Assistant Baseball Coach
+   Original line: Dan Flanick Assistant Baseball Coach
+
+8. Bob Hendershot
+   Email: 
+   Username: bob.hendershot
+   Sports: Baseball
+   Title: Bob Hendershot Assistant Baseball Coach
+   Original line: Bob Hendershot Assistant Baseball Coach
+
+9.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach cc.edu
+
+10.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+11. Tom Wilmot
+   Email: 
+   Username: tom.wilmot
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Wilmot Assistant Coach
+
+12. TBA 
+   Email: 
+   Username: tba
+   Sports: Volleyball
+   Title: TBA Head Volleyball Coach
+   Original line: TBA Head Volleyball Coach wvolleyball@cayuga-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John Rizzo Head Baseball Coach 315-702-7718 baseball@cayuga-cc.edu
+• Shea Beachner Head Clay Target Coach 315-294-8811 claytarget@Cayuga-cc.edu
+• Chris Davison Head Men's Soccer Coach 315-294-8815 msoccer@cayuga-cc.edu
+• Mike Spicer Head Softball Coach softball@cayuga-cc.edu

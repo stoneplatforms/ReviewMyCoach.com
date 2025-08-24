@@ -1,0 +1,229 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:05
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: St. Thomas Aquinas
+Organization: St. Thomas Aquinas Athletics
+State: New York
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ray Kondracki
+   Email: rkondrac@stac.edu
+   Username: rkondrac
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Ray Kondracki Cross Country Head Coach 845-398-4065 rkondrac@stac.edu
+
+2. Edison Aviles
+   Email: esanchez@stac.edu
+   Username: esanchez
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Edison Sanchez Aviles Men's Soccer Head Coach 845-398-4065 esanchez@stac.edu
+
+3. Ray Kondracki
+   Email: rkondrac@stac.edu
+   Username: rkondrac
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Ray Kondracki Track & Field Head Coach 845-398-4065 rkondrac@stac.edu
+
+4. Matthew Ice
+   Email: icehockey@stac.edu
+   Username: icehockey
+   Sports: Hockey
+   Title: Head Coach
+   Phone: (201) 913-4536
+   Original line: Matthew Schuster Ice Hockey Head Coach 201-913-4536 icehockey@stac.edu
+
+5. John-Michael Guarino
+   Email: jguarino@stac.edu
+   Username: jguarino
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (845) 398-4027
+   Original line: John-Michael Guarino Baseball Head Coach 845-398-4027 jguarino@stac.edu
+
+6. Ross Hitting
+   Email: ibartzio@stac.edu
+   Username: ibartzio
+   Sports: Baseball
+   Title: Bartziokas Baseball Coach
+   Phone: (845) 398-4027
+   Original line: Ross Bartziokas Baseball Hitting Coach 845-398-4027 ibartzio@stac.edu
+
+7. Salvatore Pitching
+   Email: sferro@stac.edu
+   Username: sferro
+   Sports: Baseball
+   Title: Ferro Baseball Coach
+   Phone: (845) 398-4027
+   Original line: Salvatore Ferro Baseball Pitching Coach 845-398-4027 sferro@stac.edu
+
+8. Manny Bench
+   Email: mdelrosa@stac.edu
+   Username: mdelrosa
+   Sports: Baseball
+   Title: DelRosario Baseball Coach
+   Phone: (845) 398-4027
+   Original line: Manny DelRosario Baseball Bench Coach 845-398-4027 mdelrosa@stac.edu
+
+9. John Bullpen
+   Email: jarcher@stac.edu
+   Username: jarcher
+   Sports: Baseball
+   Title: Archer Baseball Coach
+   Phone: (845) 398-4027
+   Original line: John Archer Baseball Bullpen Coach 845-398-4027 jarcher@stac.edu
+
+10. Kristen Sullivan
+   Email: ksulliva@stac.edu
+   Username: ksulliva
+   Sports: Softball
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Kristen Sullivan Softball Head Coach 845-398-4065 ksulliva@stac.edu
+
+11. Stephen Ferrara
+   Email: sferrara@stac.edu
+   Username: sferrara
+   Sports: Golf
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Stephen Ferrara Golf Head Coach 845-398-4065 sferrara@stac.edu
+
+12. Ray Kondracki
+   Email: rkondrac@stac.edu
+   Username: rkondrac
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Ray Kondracki Track & Field Head Coach 845-398-4065 rkondrac@stac.edu
+
+13. Daniel Rockhill
+   Email: drockhil@stac.edu
+   Username: drockhil
+   Sports: Tennis
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Daniel Rockhill Men's Tennis Head Coach 845-398-4065 drockhil@stac.edu
+
+14. Bryan Kondracki
+   Email: bkondrac@stac.edu
+   Username: bkondrac
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (845) 398-4065
+   Original line: Bryan Kondracki Esports Head Coach 845-398-4065 bkondrac@stac.edu
+
+15. Abbey MS
+   Email: afallon@stac.edu
+   Username: afallon
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach afallon@stac.edu
+
+16. Kyle Marsha
+   Email: kmarsha@stac.edu
+   Username: kmarsha
+   Sports: Soccer
+   Title: coach
+   Original line: Fall Coaches kmarsha@stac.edu
+
+17.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+18. Patrick McAvoy
+   Email: pmcavoy@stac.edu
+   Username: pmcavoy
+   Sports: Soccer
+   Title: Goalkeeper Coach
+   Original line: Goalkeeper Coach pmcavoy@stac.edu
+
+19.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach
+
+20. Nicola Vuuren
+   Email: nvanvuur@stac.edu
+   Username: nvanvuur
+   Sports: Soccer
+   Title: Defensive Line Coach
+   Original line: Defensive Line Coach nvanvuur@stac.edu
+
+21. Matt Sprint
+   Email: mbarry@stac.edu
+   Username: mbarry
+   Sports: Soccer
+   Title: Backs Coach
+   Original line: Backs Coach mbarry@stac.edu
+
+22. Marquis Sprint
+   Email: mwatson@stac.edu
+   Username: mwatson
+   Sports: Soccer
+   Title: Quarterbacks Coach
+   Original line: Quarterbacks Coach mwatson@stac.edu
+
+23. Gennaro Sprint
+   Email: gflora@stac.edu
+   Username: gflora
+   Sports: Soccer
+   Title: Line Coach
+   Original line: Line Coach gflora@stac.edu
+
+24. Anna Sprint
+   Email: amajkut@stac.edu
+   Username: amajkut
+   Sports: Soccer
+   Title: coach
+   Original line: Winter Coaches amajkut@stac.edu
+
+25. Spring 
+   Email: 
+   Username: spring
+   Sports: Soccer
+   Title: coach
+   Original line: Spring Coaches
+
+26. Hailey Galison
+   Email: hgalison@stac.edu
+   Username: hgalison
+   Sports: Soccer
+   Title: Head Coach & Recuriting
+   Original line: Head Coach & Recuriting hgalison@stac.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ray Kondracki Cross Country Head Coach 845-398-4065 rkondrac@stac.edu
+• Edison Sanchez Aviles Men's Soccer Head Coach 845-398-4065 esanchez@stac.edu
+• Ray Kondracki Track & Field Head Coach 845-398-4065 rkondrac@stac.edu
+• Matthew Schuster Ice Hockey Head Coach 201-913-4536 icehockey@stac.edu
+• John-Michael Guarino Baseball Head Coach 845-398-4027 jguarino@stac.edu
+• Ross Bartziokas Baseball Hitting Coach 845-398-4027 ibartzio@stac.edu
+• Salvatore Ferro Baseball Pitching Coach 845-398-4027 sferro@stac.edu
+• Manny DelRosario Baseball Bench Coach 845-398-4027 mdelrosa@stac.edu
+• John Archer Baseball Bullpen Coach 845-398-4027 jarcher@stac.edu
+• Kristen Sullivan Softball Head Coach 845-398-4065 ksulliva@stac.edu
+• Stephen Ferrara Golf Head Coach 845-398-4065 sferrara@stac.edu
+• Ray Kondracki Track & Field Head Coach 845-398-4065 rkondrac@stac.edu
+• Daniel Rockhill Men's Tennis Head Coach 845-398-4065 drockhil@stac.edu
+• Bryan Kondracki Esports Head Coach 845-398-4065 bkondrac@stac.edu

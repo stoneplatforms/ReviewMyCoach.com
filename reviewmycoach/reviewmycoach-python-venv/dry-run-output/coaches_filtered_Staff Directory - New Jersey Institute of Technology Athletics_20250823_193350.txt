@@ -1,0 +1,471 @@
+COACH ENTRIES FOUND - 2025-08-23 19:33:51
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University Heights
+Organization: New Jersey Institute of Technology Athletics
+
+Total coaches found: 58
+
+PARSED ENTRIES:
+----------------------------------------
+1. Shawn Aquatic
+   Email: shawn.m.bryan@njit.edu
+   Username: shawn.m.bryan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shawn Bryan Aquatic Director / Assistant Coach Men's Swim & shawn.m.bryan@njit.edu 973-596-
+
+2. Robbie McClellan
+   Email: rmcclell@njit.edu
+   Username: rmcclell
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Robbie McClellan Head Coach rmcclell@njit.edu 973-596-
+
+3. Anthony Deleo
+   Email: anthony.j.deleo@njit.edu
+   Username: anthony.j.deleo
+   Sports: Baseball
+   Title: Pitching and Catching Coach
+   Original line: Anthony Deleo Assistant Coach | Pitching and Catching Coach anthony.j.deleo@njit.edu 973-596-
+
+4. Matthew Greely
+   Email: MG835@NJIT.edu
+   Username: MG835
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matthew Greely Assistant Coach MG835@NJIT.edu 973-596-
+
+5. Marquay Mayo
+   Email: marquay.mayo@njit.edu
+   Username: marquay.mayo
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Marquay Mayo Assistant Coach marquay.mayo@njit.edu
+
+6. RaShawn Stores
+   Email: rashawn.stores@njit.edu
+   Username: rashawn.stores
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: RaShawn Stores Assistant Coach rashawn.stores@njit.edu 973-596-
+
+7. Pete Lappas
+   Email: Peter.Lappas@NJIT.edu
+   Username: Peter.Lappas
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Pete Lappas Assistant Coach Peter.Lappas@NJIT.edu (973) 596-
+
+8. Thomas Messinger
+   Email: Thomas.Messinger@NJIT.edu
+   Username: Thomas.Messinger
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Thomas Messinger Assistant Coach Thomas.Messinger@NJIT.edu 973-596-
+
+9. Ty Goode
+   Email: tg386@njit.edu
+   Username: tg386
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Ty Goode Assistant Coach tg386@njit.edu
+
+10. Mike Lane
+   Email: mlane@njit.edu
+   Username: mlane
+   Sports: Basketball (Men)
+   Title: Head Coach
+   Original line: Mike Lane Head Coach mlane@njit.edu 973-596-
+
+11. Colleen Moriarty
+   Email: colleen.moriarty@njit.edu
+   Username: colleen.moriarty
+   Sports: Basketball (Men)
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Colleen Moriarty Assistant Coach/Recruiting Coordinator colleen.moriarty@njit.edu 973-596-
+
+12. Payce Lange
+   Email: ppl@njit.edu
+   Username: ppl
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Payce Lange Assistant Coach ppl@njit.edu 973-596-
+
+13. Player 
+   Email: keg23@njit.edu
+   Username: keg23
+   Sports: Basketball (Men)
+   Title: Kelly Guarino Assistant Coach and Director
+   Original line: Kelly Guarino Assistant Coach and Director of Player keg23@njit.edu 973-596-
+
+14. Stefana Niemo
+   Email: bowling@njit.edu
+   Username: bowling
+   Sports: Basketball (Men)
+   Title: Head Coach
+   Original line: Stefana Niemo Head Coach bowling@njit.edu
+
+15. Adesina Sampson
+   Email: cheer@njit.edu
+   Username: cheer
+   Sports: Basketball (Men)
+   Title: Cheer Team Head Coach
+   Original line: Adesina Sampson Cheer Team Head Coach cheer@njit.edu
+
+16. Jason Munsch
+   Email: jason.s.munsch@njit.edu
+   Username: jason.s.munsch
+   Sports: Cross Country
+   Title: Head Cross Country/Track & Field Coach
+   Original line: Jason Munsch Head Cross Country/Track & Field Coach jason.s.munsch@njit.edu 973-596-
+
+17. Mike Cook
+   Email: michael.cook@njit.edu
+   Username: michael.cook
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Mike Cook Assistant Coach (Distance) michael.cook@njit.edu 973-558-
+
+18. Michael Bindas
+   Email: michael.bindas@njit.edu
+   Username: michael.bindas
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Michael Bindas Head Coach michael.bindas@njit.edu 973-596-
+
+19. Ben Igoe
+   Email: benjamin.d.igoe@njit.edu
+   Username: benjamin.d.igoe
+   Sports: Cross Country
+   Title: Assistant Coach - Saber
+   Original line: Ben Igoe Assistant Coach - Saber benjamin.d.igoe@njit.edu
+
+20. Dennis Sikorjak
+   Email: icehockey@njit.edu
+   Username: icehockey
+   Sports: Cross Country
+   Title: Head Coach/Team Representative
+   Original line: Dennis Sikorjak Head Coach/Team Representative icehockey@njit.edu
+
+21. Adrian Wong
+   Email: icehockey@njit.edu
+   Username: icehockey
+   Sports: Cross Country
+   Title: Assistant Coach - Defense
+   Original line: Adrian Wong Assistant Coach - Defense icehockey@njit.edu
+
+22. Michael Caufield
+   Email: icehockey@njit.edu
+   Username: icehockey
+   Sports: Cross Country
+   Title: Assistant Coach - Offense
+   Original line: Michael Caufield Assistant Coach - Offense icehockey@njit.edu
+
+23. Eric Wolf
+   Email: ebw@njit.edu
+   Username: ebw
+   Sports: Lacrosse
+   Title: Head Men's Lacrosse Coach
+   Original line: Eric Wolf Head Men's Lacrosse Coach ebw@njit.edu 973-596-
+
+24. Bobby Russo
+   Email: rr779@njit.edu
+   Username: rr779
+   Sports: Lacrosse
+   Title: Assistant Coach/Defensive Coordinator
+   Original line: Bobby Russo Assistant Coach/Defensive Coordinator rr779@njit.edu 973-596-
+
+25. Corey Yunker
+   Email: corey.yunker@njit.edu
+   Username: corey.yunker
+   Sports: Lacrosse
+   Title: Assistant Coach/Offensive Coordinator
+   Original line: Corey Yunker Assistant Coach/Offensive Coordinator corey.yunker@njit.edu
+
+26. Fernando Barboto
+   Email: barboto@njit.edu
+   Username: barboto
+   Sports: Soccer (Men)
+   Title: Head Coach
+   Original line: Fernando Barboto Head Coach barboto@njit.edu 973-596-
+
+27. Matthew Uy
+   Email: muy@njit.edu
+   Username: muy
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Matthew Uy Assistant Coach muy@njit.edu 973-596-
+
+28. Augi Freitas
+   Email: afreitas@njit.edu
+   Username: afreitas
+   Sports: Soccer (Men)
+   Title: Assistant Coach/Head Recruiter
+   Original line: Augi Freitas Assistant Coach/Head Recruiter afreitas@njit.edu 973-596-
+
+29. Alex Luna
+   Email: g07262@njit.edu
+   Username: g07262
+   Sports: Soccer (Men)
+   Title: Goalkeeper Coach
+   Original line: Alex Luna Goalkeeper Coach g07262@njit.edu
+
+30. Ally Nick
+   Email: nick@njit.edu
+   Username: nick
+   Sports: Soccer (Men)
+   Title: Head Coach
+   Original line: Ally Nick Head Coach nick@njit.edu 973-596-
+
+31. Ariana Ruela
+   Email: ariana.ruela@njit.edu
+   Username: ariana.ruela
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Ariana Ruela Assistant Coach ariana.ruela@njit.edu 973-596-
+
+32. Jordan Nash
+   Email: jordan.nash@njit.edu
+   Username: jordan.nash
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Jordan Nash Assistant Coach jordan.nash@njit.edu 973-596-
+
+33. Bobby Fisk
+   Email: fisk@njit.edu
+   Username: fisk
+   Sports: Soccer (Men)
+   Title: Head Coach
+   Original line: Bobby Fisk Head Coach fisk@njit.edu 973-642-
+
+34. Drew Culp
+   Email: culp@njit.edu
+   Username: culp
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Drew Culp Assistant Coach culp@njit.edu 973-596-
+
+35. Rory Gallagher
+   Email: rory.gallagher@njit.edu
+   Username: rory.gallagher
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Rory Gallagher Assistant Coach rory.gallagher@njit.edu 973-596-
+
+36. Edward Jules
+   Email: ej246@njit.edu
+   Username: ej246
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Edward Jules Assistant Coach ej246@njit.edu 973-596-
+
+37. Ron Farina
+   Email: farina@njit.edu
+   Username: farina
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Ron Farina Head Coach, Swimming & Diving farina@njit.edu 973-596-
+
+38. Shawn Aquatic
+   Email: shawn.m.bryan@njit.edu
+   Username: shawn.m.bryan
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Shawn Bryan Aquatic Director / Assistant Coach Men's Swim & shawn.m.bryan@njit.edu 973-596-
+
+39. Timothy Lynch
+   Email: timothy.lynch@njit.edu
+   Username: timothy.lynch
+   Sports: Swimming
+   Title: Assistant Coach/Head
+   Original line: Timothy Lynch Assistant Coach/Head Diving Coach timothy.lynch@njit.edu
+
+40. Marco Matteucci
+   Email: marco.j.matteucci@njit.edu
+   Username: marco.j.matteucci
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Marco Matteucci Head Coach - Men's Tennis marco.j.matteucci@njit.edu 973-596-
+
+41. Patricia Piorkowski
+   Email: patricia.piorkowski@njit.edu
+   Username: patricia.piorkowski
+   Sports: Swimming
+   Title: McDonald Head Coach
+   Original line: Patricia Piorkowski McDonald Head Coach - Women's Tennis patricia.piorkowski@njit.edu 973-596-
+
+42. Jason Munsch
+   Email: jason.s.munsch@njit.edu
+   Username: jason.s.munsch
+   Sports: Swimming
+   Title: Head Cross Country/Track & Field Coach
+   Original line: Jason Munsch Head Cross Country/Track & Field Coach jason.s.munsch@njit.edu 973-596-
+
+43. Anthony Gotto
+   Email: anthony.b.gotto@njit.edu
+   Username: anthony.b.gotto
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Anthony Gotto Assistant Coach (Throws) anthony.b.gotto@njit.edu
+
+44. Jerome Robinson
+   Email: jerome.robinson@njit.edu
+   Username: jerome.robinson
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Jerome Robinson Assistant Coach (Jumps) jerome.robinson@njit.edu
+
+45. Mike Cook
+   Email: michael.cook@njit.edu
+   Username: michael.cook
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Mike Cook Assistant Coach (Distance) michael.cook@njit.edu 973-558-
+
+46. Danny Goncalves
+   Email: danny.goncalves@njit.edu
+   Username: danny.goncalves
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Danny Goncalves Head Coach danny.goncalves@njit.edu 973-596-
+
+47. Dan Reilly
+   Email: daniel.j.reilly@njit.edu
+   Username: daniel.j.reilly
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Dan Reilly Assistant Coach daniel.j.reilly@njit.edu 973-596-
+
+48. Pedro Trevino
+   Email: pedro.trevino@njit.edu
+   Username: pedro.trevino
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Pedro Trevino Head Coach pedro.trevino@njit.edu 973-596-
+
+49. Jackie Ahlers
+   Email: jacqueline.ahlers@njit.edu
+   Username: jacqueline.ahlers
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Jackie Ahlers Assistant Coach jacqueline.ahlers@njit.edu 973-596-
+
+50. Grant Billmeier
+   Email: 
+   Username: grant.billmeier
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Grant Billmeier Head Coach
+
+51. Drew Laun
+   Email: 
+   Username: drew.laun
+   Sports: Soccer
+   Title: Assistant Coach - Foil
+   Original line: Drew Laun Assistant Coach - Foil
+
+52. Demetrios Valsamis
+   Email: 
+   Username: demetrios.valsamis
+   Sports: Soccer
+   Title: Assistant Coach - Foil
+   Original line: Demetrios Valsamis Assistant Coach - Foil
+
+53. Maria Castagnola
+   Email: 
+   Username: maria.castagnola
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Maria Josefina Castagnola Assistant Coach
+
+54. Abbie Volunteer
+   Email: 
+   Username: abbie.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Abbie Roberts Volunteer Assistant Coach
+
+55. Madison Student
+   Email: 
+   Username: madison.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Madison Miller Student Assistant Coach
+
+56. Nick Hennig
+   Email: 
+   Username: nick.hennig
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Hennig Assistant Coach
+
+57. John Volunteer
+   Email: 
+   Username: john.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Crombie Volunteer Assistant Coach
+
+58. Maritza Melendez
+   Email: 
+   Username: maritza.melendez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Maritza Melendez Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Shawn Bryan Aquatic Director / Assistant Coach Men's Swim & shawn.m.bryan@njit.edu 973-596-
+• Robbie McClellan Head Coach rmcclell@njit.edu 973-596-
+• Anthony Deleo Assistant Coach | Pitching and Catching Coach anthony.j.deleo@njit.edu 973-596-
+• Matthew Greely Assistant Coach MG835@NJIT.edu 973-596-
+• Marquay Mayo Assistant Coach marquay.mayo@njit.edu
+• RaShawn Stores Assistant Coach rashawn.stores@njit.edu 973-596-
+• Pete Lappas Assistant Coach Peter.Lappas@NJIT.edu (973) 596-
+• Thomas Messinger Assistant Coach Thomas.Messinger@NJIT.edu 973-596-
+• Ty Goode Assistant Coach tg386@njit.edu
+• Mike Lane Head Coach mlane@njit.edu 973-596-
+• Colleen Moriarty Assistant Coach/Recruiting Coordinator colleen.moriarty@njit.edu 973-596-
+• Payce Lange Assistant Coach ppl@njit.edu 973-596-
+• Kelly Guarino Assistant Coach and Director of Player keg23@njit.edu 973-596-
+• Stefana Niemo Head Coach bowling@njit.edu
+• Adesina Sampson Cheer Team Head Coach cheer@njit.edu
+• Jason Munsch Head Cross Country/Track & Field Coach jason.s.munsch@njit.edu 973-596-
+• Mike Cook Assistant Coach (Distance) michael.cook@njit.edu 973-558-
+• Michael Bindas Head Coach michael.bindas@njit.edu 973-596-
+• Ben Igoe Assistant Coach - Saber benjamin.d.igoe@njit.edu
+• Dennis Sikorjak Head Coach/Team Representative icehockey@njit.edu
+• Adrian Wong Assistant Coach - Defense icehockey@njit.edu
+• Michael Caufield Assistant Coach - Offense icehockey@njit.edu
+• Eric Wolf Head Men's Lacrosse Coach ebw@njit.edu 973-596-
+• Bobby Russo Assistant Coach/Defensive Coordinator rr779@njit.edu 973-596-
+• Corey Yunker Assistant Coach/Offensive Coordinator corey.yunker@njit.edu
+• Fernando Barboto Head Coach barboto@njit.edu 973-596-
+• Matthew Uy Assistant Coach muy@njit.edu 973-596-
+• Augi Freitas Assistant Coach/Head Recruiter afreitas@njit.edu 973-596-
+• Alex Luna Goalkeeper Coach g07262@njit.edu
+• Ally Nick Head Coach nick@njit.edu 973-596-
+• Ariana Ruela Assistant Coach ariana.ruela@njit.edu 973-596-
+• Jordan Nash Assistant Coach jordan.nash@njit.edu 973-596-
+• Bobby Fisk Head Coach fisk@njit.edu 973-642-
+• Drew Culp Assistant Coach culp@njit.edu 973-596-
+• Rory Gallagher Assistant Coach rory.gallagher@njit.edu 973-596-
+• Edward Jules Assistant Coach ej246@njit.edu 973-596-
+• Ron Farina Head Coach, Swimming & Diving farina@njit.edu 973-596-
+• Shawn Bryan Aquatic Director / Assistant Coach Men's Swim & shawn.m.bryan@njit.edu 973-596-
+• Timothy Lynch Assistant Coach/Head Diving Coach timothy.lynch@njit.edu
+• Marco Matteucci Head Coach - Men's Tennis marco.j.matteucci@njit.edu 973-596-
+• Patricia Piorkowski McDonald Head Coach - Women's Tennis patricia.piorkowski@njit.edu 973-596-
+• Jason Munsch Head Cross Country/Track & Field Coach jason.s.munsch@njit.edu 973-596-
+• Anthony Gotto Assistant Coach (Throws) anthony.b.gotto@njit.edu
+• Jerome Robinson Assistant Coach (Jumps) jerome.robinson@njit.edu
+• Mike Cook Assistant Coach (Distance) michael.cook@njit.edu 973-558-
+• Danny Goncalves Head Coach danny.goncalves@njit.edu 973-596-
+• Dan Reilly Assistant Coach daniel.j.reilly@njit.edu 973-596-
+• Pedro Trevino Head Coach pedro.trevino@njit.edu 973-596-
+• Jackie Ahlers Assistant Coach jacqueline.ahlers@njit.edu 973-596-

@@ -1,0 +1,345 @@
+COACH ENTRIES FOUND - 2025-08-24 17:47:55
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: © 2025 Herkimer College. All rights reserved.
+Organization: Herkimer College Athletics
+State: New York
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lane Potter
+   Email: potterlm@herkimer.edu
+   Username: potterlm
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: Lane Potter Head Coach (315) 866-0300 ext. 2228 potterlm@herkimer.edu
+
+2. Mike Harrington
+   Email: Harringmj@herkimer.edu
+   Username: Harringmj
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (315) 866-0300
+   Original line: Mike Harrington Assistant Coach (315) 866-0300 ext. 8305 Harringmj@herkimer.edu
+
+3. Matt Lee
+   Email: leemc@herkimer.edu
+   Username: leemc
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: Matt Lee Head Coach (315) 866-0300 ext. 8344 leemc@herkimer.edu
+
+4. Steve Heitz
+   Email: CoachHeitz@msn.com
+   Username: CoachHeitz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Steve Heitz Assistant Coach CoachHeitz@msn.com
+
+5. Jason Brundage
+   Email: Brundagjj@herkimer.edu
+   Username: Brundagjj
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jason Brundage Assistant Coach Brundagjj@herkimer.edu
+
+6. Anthony DeLuca
+   Email: delucaaa@herkimer.edu
+   Username: delucaaa
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 574-4035
+   Original line: Anthony DeLuca Head Coach (315) 574-4035 delucaaa@herkimer.edu
+
+7. Rick Salamone
+   Email: Salamonrj@herkimer.edu
+   Username: Salamonrj
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Rick Salamone Head Coach Salamonrj@herkimer.edu
+
+8. Bob Leary
+   Email: learyrt@herkimer.edu
+   Username: learyrt
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 601-1980
+   Original line: Bob Leary Head Coach (315) 601-1980 learyrt@herkimer.edu
+
+9. Pepe Aragon
+   Email: aragonpl@herkimer.edu
+   Username: aragonpl
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: Pepe Aragon Head Coach (315) 866-0300 ext. 8388 aragonpl@herkimer.edu
+
+10. Nicholas Lanckton
+   Email: lancktnj@herkimer.edu
+   Username: lancktnj
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: Nicholas Lanckton Head Coach (315) 866-0300 ext. 8255 lancktnj@herkimer.edu
+
+11. John Campagna
+   Email: campagnjw@herkimer.edu
+   Username: campagnjw
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: John Campagna Head Coach (315) 866-0300 ext. 8398 campagnjw@herkimer.edu
+
+12. John Campagna
+   Email: campagnjw@herkimer.edu
+   Username: campagnjw
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: John Campagna Head Coach (315) 866-0300 ext. 8398 campagnjw@herkimer.edu
+
+13. Dan Stalteri
+   Email: Coachstalteri@gmail.com
+   Username: Coachstalteri
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dan Stalteri Head Coach Coachstalteri@gmail.com
+
+14. Matt Hazzard
+   Email: hazzarma@herkimer.edu
+   Username: hazzarma
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (607) 227-9497
+   Original line: Matt Hazzard Head Coach 607-227-9497 hazzarma@herkimer.edu
+
+15. Jenna Faulkner
+   Email: Faulknejl@herkimer.edu
+   Username: Faulknejl
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (315) 866-0300
+   Original line: Jenna Faulkner Assistant Coach (315) 866-0300 ext. 8321 Faulknejl@herkimer.edu
+
+16. Charity Dygert
+   Email: charitydygert@gmail.com
+   Username: charitydygert
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Charity Dygert Assistant Coach charitydygert@gmail.com
+
+17. Anthony DeLuca
+   Email: delucaaa@herkimer.edu
+   Username: delucaaa
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 574-4035
+   Original line: Anthony DeLuca Head Coach (315) 574-4035 delucaaa@herkimer.edu
+
+18. Rick Salamone
+   Email: Salamonrj@herkimer.edu
+   Username: Salamonrj
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Rick Salamone Head Coach Salamonrj@herkimer.edu
+
+19. Damon Neish
+   Email: neishdj@herkimer.edu
+   Username: neishdj
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: Damon Neish Head Coach 315-866-0300 ext.8353 neishdj@herkimer.edu
+
+20. Anel Pajazetovic
+   Email: apajazetovic22@outlook.com
+   Username: apajazetovic22
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anel Pajazetovic Assistant Coach apajazetovic22@outlook.com
+
+21. Bobbie-Lee Goalkeeper
+   Email: bobbie_lee_hall@yahoo.com
+   Username: bobbie_lee_hall
+   Sports: Soccer
+   Title: Coach
+   Phone: (315) 717-4483
+   Original line: Bobbie-Lee Hall Goalkeeper Coach 315-717-4483 bobbie_lee_hall@yahoo.com
+
+22. Nicholas Lanckton
+   Email: lancktnj@herkimer.edu
+   Username: lancktnj
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: Nicholas Lanckton Head Coach (315) 866-0300 ext. 8255 lancktnj@herkimer.edu
+
+23. John Campagna
+   Email: campagnjw@herkimer.edu
+   Username: campagnjw
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (315) 866-0300
+   Original line: John Campagna Head Coach (315) 866-0300 ext. 8398 campagnjw@herkimer.edu
+
+24. Terry McKane
+   Email: tgmckane@gmail.com
+   Username: tgmckane
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Terry McKane Head Coach tgmckane@gmail.com
+
+25. Krista Kozma
+   Email: Kozmakl@herkimer.edu
+   Username: Kozmakl
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Krista Kozma Assistant Coach Kozmakl@herkimer.edu
+
+26. Mark Frye
+   Email: 
+   Username: mark.frye
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mark Frye Assistant Coach
+
+27. Spud Lee
+   Email: 
+   Username: spud.lee
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Spud Lee Assistant Coach
+
+28. Tanner Zacek
+   Email: 
+   Username: tanner.zacek
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tanner Zacek Assistant Coach
+
+29. Scott Petrie
+   Email: 
+   Username: scott.petrie
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Scott Petrie Assistant Coach
+
+30. Branndon Davis
+   Email: 
+   Username: branndon.davis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Branndon Davis Assistant Coach
+
+31. Jeremy Leary
+   Email: 
+   Username: jeremy.leary
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeremy Leary Assistant Coach
+
+32. Kyle Tritten
+   Email: 
+   Username: kyle.tritten
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Tritten Assistant Coach
+
+33. Molly Leary
+   Email: 
+   Username: molly.leary
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Molly Leary Assistant Coach
+
+34. Nick DePalo
+   Email: 
+   Username: nick.depalo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick DePalo Assistant Coach
+
+35. Todd Stoller
+   Email: 
+   Username: todd.stoller
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Todd Stoller Assistant Coach
+
+36. Casey Bartlett
+   Email: 
+   Username: casey.bartlett
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Casey Bartlett Assistant Coach
+
+37. Dave Clayton
+   Email: 
+   Username: dave.clayton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dave Clayton Assistant Coach
+
+38. Daniel Goalkeeper
+   Email: 
+   Username: daniel.goalkeeper
+   Sports: Soccer
+   Title: Daniel Espantoso Goalkeeper Coach
+   Original line: Daniel Espantoso Goalkeeper Coach
+
+39. Jasmine Martin
+   Email: 
+   Username: jasmine.martin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jasmine Martin Assistant Coach
+
+40. Jake Consulting
+   Email: 
+   Username: jake.consulting
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Haney Consulting Assistant Coach
+
+41. Emma Bilinski
+   Email: 
+   Username: emma.bilinski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emma Bilinski Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lane Potter Head Coach (315) 866-0300 ext. 2228 potterlm@herkimer.edu
+• Mike Harrington Assistant Coach (315) 866-0300 ext. 8305 Harringmj@herkimer.edu
+• Matt Lee Head Coach (315) 866-0300 ext. 8344 leemc@herkimer.edu
+• Steve Heitz Assistant Coach CoachHeitz@msn.com
+• Jason Brundage Assistant Coach Brundagjj@herkimer.edu
+• Anthony DeLuca Head Coach (315) 574-4035 delucaaa@herkimer.edu
+• Rick Salamone Head Coach Salamonrj@herkimer.edu
+• Bob Leary Head Coach (315) 601-1980 learyrt@herkimer.edu
+• Pepe Aragon Head Coach (315) 866-0300 ext. 8388 aragonpl@herkimer.edu
+• Nicholas Lanckton Head Coach (315) 866-0300 ext. 8255 lancktnj@herkimer.edu
+• John Campagna Head Coach (315) 866-0300 ext. 8398 campagnjw@herkimer.edu
+• John Campagna Head Coach (315) 866-0300 ext. 8398 campagnjw@herkimer.edu
+• Dan Stalteri Head Coach Coachstalteri@gmail.com
+• Matt Hazzard Head Coach 607-227-9497 hazzarma@herkimer.edu
+• Jenna Faulkner Assistant Coach (315) 866-0300 ext. 8321 Faulknejl@herkimer.edu
+• Charity Dygert Assistant Coach charitydygert@gmail.com
+• Anthony DeLuca Head Coach (315) 574-4035 delucaaa@herkimer.edu
+• Rick Salamone Head Coach Salamonrj@herkimer.edu
+• Damon Neish Head Coach 315-866-0300 ext.8353 neishdj@herkimer.edu
+• Anel Pajazetovic Assistant Coach apajazetovic22@outlook.com
+• Bobbie-Lee Hall Goalkeeper Coach 315-717-4483 bobbie_lee_hall@yahoo.com
+• Nicholas Lanckton Head Coach (315) 866-0300 ext. 8255 lancktnj@herkimer.edu
+• John Campagna Head Coach (315) 866-0300 ext. 8398 campagnjw@herkimer.edu
+• Terry McKane Head Coach tgmckane@gmail.com
+• Krista Kozma Assistant Coach Kozmakl@herkimer.edu

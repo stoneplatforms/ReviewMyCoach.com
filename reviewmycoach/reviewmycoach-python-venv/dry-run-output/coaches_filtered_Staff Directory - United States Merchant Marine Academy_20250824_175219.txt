@@ -1,0 +1,311 @@
+COACH ENTRIES FOUND - 2025-08-24 17:52:19
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: United States Merchant Marine Academy
+Organization: United States Merchant Marine Academy Athletics
+State: New York
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michael Notebaert
+   Email: notebaertm@usmma.edu
+   Username: notebaertm
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Michael Notebaert Head Coach notebaertm@usmma.edu 516-726-
+
+2. Lou Bernardi
+   Email: bernardil@usmma.edu
+   Username: bernardil
+   Sports: Baseball
+   Title: Pitching Coach/Recruiting Coordinator
+   Original line: Lou Bernardi Pitching Coach/Recruiting Coordinator bernardil@usmma.edu 516-726-
+
+3. Rob Pryor
+   Email: pryorr@usmma.edu
+   Username: pryorr
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Rob Pryor Head Coach pryorr@usmma.edu 516-726-
+
+4. Reed McLean
+   Email: mcleanr@usmma.edu
+   Username: mcleanr
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Reed McLean Assistant Coach mcleanr@usmma.edu 516-726-
+
+5. Shang Yang
+   Email: yangs@usmma.edu
+   Username: yangs
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Shang Yang Assistant Coach yangs@usmma.edu
+
+6. Alexa Shields
+   Email: shieldsa@usmma.edu
+   Username: shieldsa
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Alexa Shields Head Coach shieldsa@usmma.edu 516-726-
+
+7. Kristina Sanicola
+   Email: sanicolak@usmma.edu
+   Username: sanicolak
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kristina Sanicola Assistant Coach sanicolak@usmma.edu
+
+8. Tamara McSloy
+   Email: mcsloyt@usmma.edu
+   Username: mcsloyt
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tamara McSloy Assistant Coach mcsloyt@usmma.edu 516-726-
+
+9. Kayla Koelbel
+   Email: koelbelk@usmma.edu
+   Username: koelbelk
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Kayla Koelbel Head Coach koelbelk@usmma.edu 516-726-
+
+10. Will Razzano
+   Email: razzanow@usmma.edu
+   Username: razzanow
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Will Razzano Assistant Coach razzanow@usmma.edu 516-726-
+
+11. Jameson Croall
+   Email: croallj@usmma.edu
+   Username: croallj
+   Sports: Football
+   Title: Head Coach
+   Original line: Jameson Croall Head Coach croallj@usmma.edu 516-726-
+
+12. James Kikel
+   Email: kikelj@usmma.edu
+   Username: kikelj
+   Sports: Football
+   Title: Offensive Coordinator/Quarterbacks Coach/Recruiting Coordinator
+   Original line: James Kikel Offensive Coordinator/Quarterbacks Coach/Recruiting Coordinator kikelj@usmma.edu 516-726-
+
+13. Harry Passante
+   Email: passanteh@usmma.edu
+   Username: passanteh
+   Sports: Football
+   Title: Defensive Coordinator/Safeties Coach
+   Original line: Harry Passante Defensive Coordinator/Safeties Coach passanteh@usmma.edu 516-726-
+
+14. Lou Scala
+   Email: scalal@usmma.edu
+   Username: scalal
+   Sports: Football
+   Title: Special Teams Coordinator/Defensive Line Coach
+   Original line: Lou Scala Special Teams Coordinator/Defensive Line Coach scalal@usmma.edu 516-726-
+
+15. Ryan Bartel
+   Email: bartelr@usmma.edu
+   Username: bartelr
+   Sports: Football
+   Title: Offensive Line Coach
+   Original line: Ryan Bartel Offensive Line Coach bartelr@usmma.edu 516-726-
+
+16. Mike Stroud
+   Email: stroudm@usmma.edu
+   Username: stroudm
+   Sports: Football
+   Title: Cornerbacks Coach
+   Original line: Mike Stroud Cornerbacks Coach stroudm@usmma.edu
+
+17. George Karafantis
+   Email: karafantisg@usmma.edu
+   Username: karafantisg
+   Sports: Football
+   Title: Inside Linebackers Coach
+   Original line: George Karafantis Inside Linebackers Coach karafantisg@usmma.edu
+
+18. Kyle Novak
+   Email: novakk@usmma.edu
+   Username: novakk
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Kyle Novak Wide Receivers Coach novakk@usmma.edu
+
+19. Dan Paccione
+   Email: paccioned@usmma.edu
+   Username: paccioned
+   Sports: Football
+   Title: Head Coach
+   Original line: Dan Paccione Head Coach paccioned@usmma.edu 516-726-
+
+20. Jason Miller
+   Email: millerj@usmma.edu
+   Username: millerj
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jason Miller Assistant Coach millerj@usmma.edu 516-726-
+
+21. John Espey
+   Email: espeyj@usmma.edu
+   Username: espeyj
+   Sports: Football
+   Title: Assistant Coach
+   Original line: John Espey Assistant Coach espeyj@usmma.edu
+
+22. Arthur Frooks
+   Email: frooksa@usmma.edu
+   Username: frooksa
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Arthur Frooks '11 Assistant Coach frooksa@usmma.edu
+
+23. Ray Waters
+   Email: watersr@usmma.edu
+   Username: watersr
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ray Waters '15 Assistant Coach watersr@usmma.edu
+
+24. Kyle Simensky
+   Email: simenskyk@usmma.edu
+   Username: simenskyk
+   Sports: Football
+   Title: Head Coach
+   Original line: Kyle Simensky Head Coach simenskyk@usmma.edu 516-726-
+
+25. Maegan Meritz
+   Email: meritzm@usmma.edu
+   Username: meritzm
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Maegan Meritz Assistant Coach meritzm@usmma.edu 516-726-
+
+26. Drew McCarthy
+   Email: mccarthya@usmma.edu
+   Username: mccarthya
+   Sports: Football
+   Title: Head Coach
+   Original line: Drew McCarthy Head Coach mccarthya@usmma.edu 516-726-
+
+27. Carlos Mendes
+   Email: mendesc@usmma.edu
+   Username: mendesc
+   Sports: Football
+   Title: Head Coach
+   Original line: Carlos Mendes Head Coach mendesc@usmma.edu 516-726-
+
+28. Salma Tarik
+   Email: tariks@usmma.edu
+   Username: tariks
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Salma Tarik Assistant Coach tariks@usmma.edu 516-726-
+
+29. Commander Sean
+   Email: tedescos@usmma.edu
+   Username: tedescos
+   Sports: Football
+   Title: Tedesco Head Coach
+   Original line: Commander Sean M. Tedesco Head Coach tedescos@usmma.edu 516-726-
+
+30. LT Lopez
+   Email: lopezj@usmma.edu
+   Username: lopezj
+   Sports: Football
+   Title: USMS Diving Coach
+   Original line: LT Johan C. Lopez, USMS Diving Coach lopezj@usmma.edu 516-726-
+
+31. Jonathan Jones
+   Email: jonesj@usmma.edu
+   Username: jonesj
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jonathan Jones Assistant Coach jonesj@usmma.edu 516-726-
+
+32. Tony Nocera
+   Email: noceraa@usmma.edu
+   Username: noceraa
+   Sports: Football
+   Title: Head Coach
+   Original line: Tony Nocera Head Coach noceraa@usmma.edu 516-726-
+
+33. Kyleigh Kappas
+   Email: kappask@usmma.edu
+   Username: kappask
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kyleigh Kappas '20 Assistant Coach kappask@usmma.edu 516-726-
+
+34. Beau Bruno
+   Email: brunob@usmma.edu
+   Username: brunob
+   Sports: Football
+   Title: Head Coach
+   Original line: Beau Bruno Head Coach brunob@usmma.edu 516-726-
+
+35. Gene Kobilansky
+   Email: kobilanskye@usmma.edu
+   Username: kobilanskye
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Gene Kobilansky Assistant Coach kobilanskye@usmma.edu 516-726-
+
+36. Chris Rodrigo
+   Email: 
+   Username: chris.rodrigo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Rodrigo Assistant Coach
+
+37. Alexandra Gregorek
+   Email: 
+   Username: alexandra.gregorek
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alexandra Gregorek Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michael Notebaert Head Coach notebaertm@usmma.edu 516-726-
+• Lou Bernardi Pitching Coach/Recruiting Coordinator bernardil@usmma.edu 516-726-
+• Rob Pryor Head Coach pryorr@usmma.edu 516-726-
+• Reed McLean Assistant Coach mcleanr@usmma.edu 516-726-
+• Shang Yang Assistant Coach yangs@usmma.edu
+• Alexa Shields Head Coach shieldsa@usmma.edu 516-726-
+• Kristina Sanicola Assistant Coach sanicolak@usmma.edu
+• Tamara McSloy Assistant Coach mcsloyt@usmma.edu 516-726-
+• Kayla Koelbel Head Coach koelbelk@usmma.edu 516-726-
+• Will Razzano Assistant Coach razzanow@usmma.edu 516-726-
+• Jameson Croall Head Coach croallj@usmma.edu 516-726-
+• James Kikel Offensive Coordinator/Quarterbacks Coach/Recruiting Coordinator kikelj@usmma.edu 516-726-
+• Harry Passante Defensive Coordinator/Safeties Coach passanteh@usmma.edu 516-726-
+• Lou Scala Special Teams Coordinator/Defensive Line Coach scalal@usmma.edu 516-726-
+• Ryan Bartel Offensive Line Coach bartelr@usmma.edu 516-726-
+• Mike Stroud Cornerbacks Coach stroudm@usmma.edu
+• George Karafantis Inside Linebackers Coach karafantisg@usmma.edu
+• Kyle Novak Wide Receivers Coach novakk@usmma.edu
+• Dan Paccione Head Coach paccioned@usmma.edu 516-726-
+• Jason Miller Assistant Coach millerj@usmma.edu 516-726-
+• John Espey Assistant Coach espeyj@usmma.edu
+• Arthur Frooks '11 Assistant Coach frooksa@usmma.edu
+• Ray Waters '15 Assistant Coach watersr@usmma.edu
+• Kyle Simensky Head Coach simenskyk@usmma.edu 516-726-
+• Maegan Meritz Assistant Coach meritzm@usmma.edu 516-726-
+• Drew McCarthy Head Coach mccarthya@usmma.edu 516-726-
+• Carlos Mendes Head Coach mendesc@usmma.edu 516-726-
+• Salma Tarik Assistant Coach tariks@usmma.edu 516-726-
+• Commander Sean M. Tedesco Head Coach tedescos@usmma.edu 516-726-
+• LT Johan C. Lopez, USMS Diving Coach lopezj@usmma.edu 516-726-
+• Jonathan Jones Assistant Coach jonesj@usmma.edu 516-726-
+• Tony Nocera Head Coach noceraa@usmma.edu 516-726-
+• Kyleigh Kappas '20 Assistant Coach kappask@usmma.edu 516-726-
+• Beau Bruno Head Coach brunob@usmma.edu 516-726-
+• Gene Kobilansky Assistant Coach kobilanskye@usmma.edu 516-726-

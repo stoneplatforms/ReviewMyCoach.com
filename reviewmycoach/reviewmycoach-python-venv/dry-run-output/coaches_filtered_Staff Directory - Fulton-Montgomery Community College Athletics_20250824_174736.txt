@@ -1,0 +1,104 @@
+COACH ENTRIES FOUND - 2025-08-24 17:47:37
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: FULTON-MONTGOMERY COMMUNITY COLLEGE
+Organization: Fulton-Montgomery Community College Athletics
+State: New York
+
+Total coaches found: 11
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dave Hennessey
+   Email: dhenn14@nycap.rr.com
+   Username: dhenn14
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Dave Hennessey Head Coach, Baseball dhenn14@nycap.rr.com
+
+2. Ed Collar
+   Email: edward.collar@fmcc.edu
+   Username: edward.collar
+   Sports: Basketball
+   Title: Head Coach
+   Phone: (518) 332-3387
+   Original line: Ed Collar Head Coach, Men's Basketball 518-332-3387 edward.collar@fmcc.edu
+
+3. Lamine Samb
+   Email: lsamb@fmcc.edu
+   Username: lsamb
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (518) 354-9800
+   Original line: Lamine Samb Head Coach, Men's Soccer 518-354-9800 lsamb@fmcc.edu
+
+4. Noel Egelston
+   Email: jnegelston76@gmail.com
+   Username: jnegelston76
+   Sports: Softball
+   Title: Head Coach
+   Phone: (518) 848-0216
+   Original line: Noel Egelston Head Coach, Softball 518-848-0216 jnegelston76@gmail.com
+
+5. Kevin Jones
+   Email: kevin.jones@fmcc.suny.edu
+   Username: kevin.jones
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kevin Jones Head Coach, Women's (518) 736-FMCC kevin.jones@fmcc.suny.edu
+
+6. Tina Olyer
+   Email: OlyerT@thearclexington.org
+   Username: OlyerT
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (518) 224-8650
+   Original line: Tina Olyer Head Coach, Women's 518-224-8650 OlyerT@thearclexington.org
+
+7. Arturo Mcleod
+   Email: 
+   Username: arturo.mcleod
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Arturo Mcleod Assistant Coach, Men's
+
+8. Jared DeMagistris
+   Email: 
+   Username: jared.demagistris
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jared DeMagistris Assistant Coach, Men's
+
+9. Justin Leo
+   Email: 
+   Username: justin.leo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Justin Leo Assistant Coach, Men's
+
+10. Shawn Flynn
+   Email: 
+   Username: shawn.flynn
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shawn Flynn Assistant Coach, Women's
+
+11. Mike Calvello
+   Email: 
+   Username: mike.calvello
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mike Calvello Assistant Coach, Women's
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dave Hennessey Head Coach, Baseball dhenn14@nycap.rr.com
+• Ed Collar Head Coach, Men's Basketball 518-332-3387 edward.collar@fmcc.edu
+• Lamine Samb Head Coach, Men's Soccer 518-354-9800 lsamb@fmcc.edu
+• Noel Egelston Head Coach, Softball 518-848-0216 jnegelston76@gmail.com
+• Kevin Jones Head Coach, Women's (518) 736-FMCC kevin.jones@fmcc.suny.edu
+• Tina Olyer Head Coach, Women's 518-224-8650 OlyerT@thearclexington.org

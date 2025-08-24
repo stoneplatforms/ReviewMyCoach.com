@@ -1,0 +1,475 @@
+COACH ENTRIES FOUND - 2025-08-24 17:50:54
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Kevin Roche University Producer/Director/Editor ktretc@rit.edu 585-475-
+Organization: Rochester Institute of Technology Athletics
+State: New York
+
+Total coaches found: 58
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Kelly
+   Email: rmkatl@rit.edu
+   Username: rmkatl
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Ryan Kelly Head Strength & Conditioning Coach rmkatl@rit.edu 585-475-
+
+2. Terique Boyd
+   Email: tabatl@rit.edu
+   Username: tabatl
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Phone: 475-2679
+   Original line: Terique Boyd Assistant Strength & Conditioning Coach tabatl@rit.edu 475-2679
+
+3. Rob Grow
+   Email: rcgrar@rit.edu
+   Username: rcgrar
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Rob Grow Head Coach rcgrar@rit.edu 585-475-
+
+4. Tyler Leichtenberger
+   Email: tlatl@rit.edu
+   Username: tlatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tyler Leichtenberger Assistant Coach tlatl@rit.edu 585-475-
+
+5. Dominic Parker
+   Email: dopatl@rit.edu
+   Username: dopatl
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Dominic Parker Head Coach dopatl@rit.edu 585-475-
+
+6. Mick Kuberka
+   Email: mzkatl@rit.edu
+   Username: mzkatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mick Kuberka Assistant Coach mzkatl@rit.edu
+
+7. Terris Sanders
+   Email: tvsath@rit.edu
+   Username: tvsath
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Terris Sanders Assistant Coach tvsath@rit.edu
+
+8. Melissa Kuberka
+   Email: mgkatl@rit.edu
+   Username: mgkatl
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Melissa Kuberka Head Coach mgkatl@rit.edu 585-475-
+
+9. Brianne Moxley
+   Email: bkmatl@rit.edu
+   Username: bkmatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Brianne Moxley Assistant Coach bkmatl@rit.edu
+
+10. Emily Nestler
+   Email: emnatl@rit.edu
+   Username: emnatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Emily Nestler Assistant Coach emnatl@rit.edu
+
+11. David Warth
+   Email: djwatl@rit.edu
+   Username: djwatl
+   Sports: Baseball
+   Title: Head Coach
+   Original line: David Warth Head Coach djwatl@rit.edu 585-475-
+
+12. Matt Thomas
+   Email: ritmhky@rit.edu
+   Username: ritmhky
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Matt Thomas Head Coach ritmhky@rit.edu
+
+13. Dave Insalaco
+   Email: ritmhky@rit.edu
+   Username: ritmhky
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Dave Insalaco Associate Head Coach ritmhky@rit.edu
+
+14. Shane Madolora
+   Email: ritmhky@rit.edu
+   Username: ritmhky
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Shane Madolora Assistant Coach ritmhky@rit.edu
+
+15. Josh Mitchell
+   Email: ritmhky@rit.edu
+   Username: ritmhky
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Josh Mitchell Assistant Coach ritmhky@rit.edu
+
+16. Josh Guernsey
+   Email: jwgatl@rit.edu
+   Username: jwgatl
+   Sports: Baseball
+   Title: Video Coach
+   Original line: Josh Guernsey Video Coach jwgatl@rit.edu
+
+17. Celeste Bruce
+   Email: ritwih@rit.edu
+   Username: ritwih
+   Sports: Baseball
+   Title: Bates Women's Hockey Coach
+   Original line: Celeste Brown Bruce B. Bates Women's Hockey Coach ritwih@rit.edu
+
+18. Jordin Pardoski
+   Email: ritwih@rit.edu
+   Username: ritwih
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jordin Pardoski Assistant Coach ritwih@rit.edu
+
+19. Josh Graser
+   Email: ritwih@rit.edu
+   Username: ritwih
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Josh Graser Assistant Coach ritwih@rit.edu
+
+20. Jake Coon
+   Email: mlaxrecruits@rit.edu
+   Username: mlaxrecruits
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jake Coon Head Coach mlaxrecruits@rit.edu 585-475-
+
+21. Shawn Wilkins
+   Email: mlaxrecruits@rit.edu
+   Username: mlaxrecruits
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Shawn Wilkins Assistant Coach mlaxrecruits@rit.edu 585-475-
+
+22. Erin Wagner
+   Email: erwatl@rit.edu
+   Username: erwatl
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Erin Wagner Head Coach erwatl@rit.edu 585-475-
+
+23. Emily Hawryschuk
+   Email: ejhatl@rit.edu
+   Username: ejhatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Emily Hawryschuk Assistant Coach ejhatl@rit.edu
+
+24. Carol Schoenecker
+   Email: cmsatl@rit.edu
+   Username: cmsatl
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Carol Schoenecker Head Coach cmsatl@rit.edu 585-475-
+
+25. Frank Sankey
+   Email: fxsatl@rit.edu
+   Username: fxsatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Frank Sankey Jr. Assistant Coach fxsatl@rit.edu
+
+26. Bill Garno
+   Email: bill.garno@rit.edu
+   Username: bill.garno
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bill Garno Head Coach bill.garno@rit.edu 585-475-
+
+27. Yuri Lavrynenko
+   Email: yvlatl@rit.edu
+   Username: yvlatl
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Yuri Lavrynenko Associate Head Coach yvlatl@rit.edu 585-475-
+
+28. Kevin May
+   Email: kxmatl@rit.edu
+   Username: kxmatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kevin May Assistant Coach kxmatl@rit.edu 585-475-
+
+29. Travis Wood
+   Email: tkwatl@rit.edu
+   Username: tkwatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Travis Wood Assistant Coach tkwatl@rit.edu 585-475-
+
+30. Liz Masterson
+   Email: eematl@rit.edu
+   Username: eematl
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Liz Masterson Head Coach eematl@rit.edu 585-475-
+
+31. Monica Cook
+   Email: mjcatl@rit.edu
+   Username: mjcatl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Monica Cook Assistant Coach mjcatl@rit.edu 585-475-
+
+32. Juan Sanchez
+   Email: jsmatl@rit.edu
+   Username: jsmatl
+   Sports: Baseball
+   Title: Mendez Assistant Coach
+   Original line: Juan Sanchez Mendez Assistant Coach jsmatl@rit.edu 585-475-
+
+33. Rebecca Stryker
+   Email: rcmatl@rit.edu
+   Username: rcmatl
+   Sports: Softball
+   Title: Head Coach
+   Original line: Rebecca Stryker Head Coach rcmatl@rit.edu 585-475-
+
+34. Susan Valone
+   Email: smvatl@rit.edu
+   Username: smvatl
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Susan Valone Assistant Coach smvatl@rit.edu 585-475-
+
+35. Madisen Baldwin
+   Email: mabstp@rit.edu
+   Username: mabstp
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Madisen Baldwin Assistant Coach mabstp@rit.edu 585-475-
+
+36. Phil Baretela
+   Email: pjbatl@rit.edu
+   Username: pjbatl
+   Sports: Softball
+   Title: Head Coach
+   Original line: Phil Baretela Head Coach pjbatl@rit.edu 585-475-
+
+37. Cliff Devries
+   Email: cwdatl@rit.edu
+   Username: cwdatl
+   Sports: Softball
+   Title: Head Diving Coach
+   Original line: Cliff Devries Head Diving Coach cwdatl@rit.edu 585-224-
+
+38. Daniel Dubois
+   Email: dsdatl@rit.edu
+   Username: dsdatl
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Daniel Dubois Assistant Coach dsdatl@rit.edu
+
+39. Tom Linhart
+   Email: tmlatl@rit.edu
+   Username: tmlatl
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tom Linhart Head Coach tmlatl@rit.edu 585-475-
+
+40. David Warth
+   Email: djwatl@rit.edu
+   Username: djwatl
+   Sports: Softball
+   Title: Head Coach
+   Original line: David Warth Head Coach djwatl@rit.edu 585-475-
+
+41. Nick Jones
+   Email: nmjatl@rit.edu
+   Username: nmjatl
+   Sports: Softball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Nick Jones Assistant Coach/Recruiting Coordinator nmjatl@rit.edu 585-475-
+
+42. Kendra Bush
+   Email: kmbatl@rit.edu
+   Username: kmbatl
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kendra Bush Assistant Coach kmbatl@rit.edu 585-475-
+
+43. Ethan Maguire
+   Email: wematl@rit.edu
+   Username: wematl
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Ethan Maguire Volunteer Assistant Coach wematl@rit.edu
+
+44. Jim Lodes
+   Email: jelatl@rit.edu
+   Username: jelatl
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jim Lodes Head Coach jelatl@rit.edu 585-475-
+
+45. Jason Kozak
+   Email: jdkath@rit.edu
+   Username: jdkath
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jason Kozak Assistant Coach jdkath@rit.edu
+
+46. Jason Bovenzi
+   Email: jabatl@rit.edu
+   Username: jabatl
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jason Bovenzi Head Coach jabatl@rit.edu 585-475-
+
+47. James Cannon
+   Email: jrcatl@rit.edu
+   Username: jrcatl
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: James Cannon Assistant Coach jrcatl@rit.edu 585-475-
+
+48. Justin Raines
+   Email: jdratl@rit.edu
+   Username: jdratl
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Justin Raines Assistant Coach jdratl@rit.edu 585-475-
+
+49. Torsten Gillespie
+   Email: txgatl@rit.edu
+   Username: txgatl
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Torsten Gillespie Assistant Coach txgatl@rit.edu 585-475-
+
+50. Sean Peacock
+   Email: sxpatl@rit.edu
+   Username: sxpatl
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sean Peacock Assistant Coach sxpatl@rit.edu 585-475-
+
+51. Katie Post
+   Email: kjpatl@rit.edu
+   Username: kjpatl
+   Sports: Softball
+   Title: Head Coach
+   Original line: Katie Post Head Coach kjpatl@rit.edu 585-475-
+
+52. Kevin Producer
+   Email: ktretc@rit.edu
+   Username: ktretc
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ben Terzini Volunteer Assistant Coach 585-475- ktretc@rit.edu
+
+53. Rachel Volunteer
+   Email: 
+   Username: rachel.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rachel Hillhouse Volunteer Assistant Coach
+
+54. Olivia Folette
+   Email: 
+   Username: olivia.folette
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Olivia Folette Assistant Coach
+
+55. Joe Greene
+   Email: 
+   Username: joe.greene
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Greene Assistant Coach
+
+56. John-Martin Volunteer
+   Email: 
+   Username: john.martin.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John-Martin Cannon Volunteer Assistant Coach 585-475-
+
+57. John Volunteer
+   Email: 
+   Username: john.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Boyle Volunteer Assistant Coach
+
+58. Kirmani Scott
+   Email: 
+   Username: kirmani.scott
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kirmani Scott Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Kelly Head Strength & Conditioning Coach rmkatl@rit.edu 585-475-
+• Terique Boyd Assistant Strength & Conditioning Coach tabatl@rit.edu 475-2679
+• Rob Grow Head Coach rcgrar@rit.edu 585-475-
+• Tyler Leichtenberger Assistant Coach tlatl@rit.edu 585-475-
+• Dominic Parker Head Coach dopatl@rit.edu 585-475-
+• Mick Kuberka Assistant Coach mzkatl@rit.edu
+• Terris Sanders Assistant Coach tvsath@rit.edu
+• Melissa Kuberka Head Coach mgkatl@rit.edu 585-475-
+• Brianne Moxley Assistant Coach bkmatl@rit.edu
+• Emily Nestler Assistant Coach emnatl@rit.edu
+• David Warth Head Coach djwatl@rit.edu 585-475-
+• Matt Thomas Head Coach ritmhky@rit.edu
+• Dave Insalaco Associate Head Coach ritmhky@rit.edu
+• Shane Madolora Assistant Coach ritmhky@rit.edu
+• Josh Mitchell Assistant Coach ritmhky@rit.edu
+• Josh Guernsey Video Coach jwgatl@rit.edu
+• Celeste Brown Bruce B. Bates Women's Hockey Coach ritwih@rit.edu
+• Jordin Pardoski Assistant Coach ritwih@rit.edu
+• Josh Graser Assistant Coach ritwih@rit.edu
+• Jake Coon Head Coach mlaxrecruits@rit.edu 585-475-
+• Shawn Wilkins Assistant Coach mlaxrecruits@rit.edu 585-475-
+• Erin Wagner Head Coach erwatl@rit.edu 585-475-
+• Emily Hawryschuk Assistant Coach ejhatl@rit.edu
+• Carol Schoenecker Head Coach cmsatl@rit.edu 585-475-
+• Frank Sankey Jr. Assistant Coach fxsatl@rit.edu
+• Bill Garno Head Coach bill.garno@rit.edu 585-475-
+• Yuri Lavrynenko Associate Head Coach yvlatl@rit.edu 585-475-
+• Kevin May Assistant Coach kxmatl@rit.edu 585-475-
+• Travis Wood Assistant Coach tkwatl@rit.edu 585-475-
+• Liz Masterson Head Coach eematl@rit.edu 585-475-
+• Monica Cook Assistant Coach mjcatl@rit.edu 585-475-
+• Juan Sanchez Mendez Assistant Coach jsmatl@rit.edu 585-475-
+• Rebecca Stryker Head Coach rcmatl@rit.edu 585-475-
+• Susan Valone Assistant Coach smvatl@rit.edu 585-475-
+• Madisen Baldwin Assistant Coach mabstp@rit.edu 585-475-
+• Phil Baretela Head Coach pjbatl@rit.edu 585-475-
+• Cliff Devries Head Diving Coach cwdatl@rit.edu 585-224-
+• Daniel Dubois Assistant Coach dsdatl@rit.edu
+• Tom Linhart Head Coach tmlatl@rit.edu 585-475-
+• David Warth Head Coach djwatl@rit.edu 585-475-
+• Nick Jones Assistant Coach/Recruiting Coordinator nmjatl@rit.edu 585-475-
+• Kendra Bush Assistant Coach kmbatl@rit.edu 585-475-
+• Ethan Maguire Volunteer Assistant Coach wematl@rit.edu
+• Jim Lodes Head Coach jelatl@rit.edu 585-475-
+• Jason Kozak Assistant Coach jdkath@rit.edu
+• Jason Bovenzi Head Coach jabatl@rit.edu 585-475-
+• James Cannon Assistant Coach jrcatl@rit.edu 585-475-
+• Justin Raines Assistant Coach jdratl@rit.edu 585-475-
+• Torsten Gillespie Assistant Coach txgatl@rit.edu 585-475-
+• Sean Peacock Assistant Coach sxpatl@rit.edu 585-475-
+• Katie Post Head Coach kjpatl@rit.edu 585-475-

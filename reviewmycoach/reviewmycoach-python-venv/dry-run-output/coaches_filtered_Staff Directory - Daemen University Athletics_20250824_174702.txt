@@ -1,0 +1,308 @@
+COACH ENTRIES FOUND - 2025-08-24 17:47:02
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Daemen University
+Organization: Daemen University Athletics
+State: New York
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. TJ LaVigne
+   Email: tlavigne@daemen.edu
+   Username: tlavigne
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: TJ LaVigne Head Strength & Conditioning Coach tlavigne@daemen.edu
+
+2. Mike MacDonald
+   Email: mmacdona@daemen.edu
+   Username: mmacdona
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mike MacDonald Head Coach mmacdona@daemen.edu (716) 839-
+
+3. Angel Parker
+   Email: aparker@daemen.edu
+   Username: aparker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Angel Parker Assistant Coach aparker@daemen.edu
+
+4. Daniel Antkowiak
+   Email: dantkowi@daemen.edu
+   Username: dantkowi
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Daniel Antkowiak Head Coach dantkowi@daemen.edu
+
+5. Pete Gratien
+   Email: pgratien@daemen.edu
+   Username: pgratien
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Pete Gratien Head Coach pgratien@daemen.edu
+
+6. Kelsey Ryan
+   Email: kgratien@daemen.edu
+   Username: kgratien
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelsey Ryan Assistant Coach kgratien@daemen.edu
+
+7. Maggie Fuentes
+   Email: mneedham@daemen.edu
+   Username: mneedham
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Maggie Fuentes Assistant Coach (Track & Field - Throws) mneedham@daemen.edu
+
+8. Jason Cukierski
+   Email: jcukiers@daemen.edu
+   Username: jcukiers
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jason Cukierski Assistant Coach (Track & Field - Sprints/Jumps) jcukiers@daemen.edu
+
+9. Judy Arlington
+   Email: jarlingt@daemen.edu
+   Username: jarlingt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Judy Arlington Assistant Coach jarlingt@daemen.edu
+
+10. David Schwinger
+   Email: david.schwinger@daemen.edu
+   Username: david.schwinger
+   Sports: Soccer
+   Title: Graduate Assistant Coach
+   Original line: David Schwinger Graduate Assistant Coach david.schwinger@daemen.edu
+
+11. Emily Bitka
+   Email: ebitka@daemen.edu
+   Username: ebitka
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Emily Bitka Head Coach ebitka@daemen.edu (716) 839-
+
+12. Megan Mikolajek
+   Email: mmikolaj@daemen.edu
+   Username: mmikolaj
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Megan Mikolajek Assistant Coach mmikolaj@daemen.edu
+
+13. Bediako Swan
+   Email: bswan@daemen.edu
+   Username: bswan
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Bediako Swan Head Coach bswan@daemen.edu (716) 839-
+
+14. Anfernee Stokes
+   Email: anfernee.stokes@daemen.edu
+   Username: anfernee.stokes
+   Sports: Soccer
+   Title: Graduate Assistant Coach
+   Original line: Anfernee Stokes Graduate Assistant Coach anfernee.stokes@daemen.edu
+
+15. Dan Dolan
+   Email: ddolan@daemen.edu
+   Username: ddolan
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dan Dolan Head Coach ddolan@daemen.edu (716) 566-
+
+16. Corey DeVille
+   Email: cdeville@daemen.edu
+   Username: cdeville
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Corey DeVille Assistant Coach cdeville@daemen.edu
+
+17. Brian Annibali
+   Email: bannibal@daemen.edu
+   Username: bannibal
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brian Annibali Assistant Coach bannibal@daemen.edu
+
+18. Dan Panaro
+   Email: dpanaro@daemen.edu
+   Username: dpanaro
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dan Panaro Assistant Coach dpanaro@daemen.edu
+
+19. Ana Muruzabal
+   Email: ana.muruzabal@daemen.edu
+   Username: ana.muruzabal
+   Sports: Soccer
+   Title: Graduate Assistant Coach
+   Original line: Ana Muruzabal Graduate Assistant Coach ana.muruzabal@daemen.edu
+
+20. Richard Greco
+   Email: rgreco@daemen.edu
+   Username: rgreco
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Richard Greco, Jr. Head Coach rgreco@daemen.edu (716) 839-
+
+21. Estefania Garcia
+   Email: estefania.garcia@daemen.edu
+   Username: estefania.garcia
+   Sports: Soccer
+   Title: Graduate Assistant Coach
+   Original line: Estefania Garcia Graduate Assistant Coach estefania.garcia@daemen.edu
+
+22. Darek Przybyl
+   Email: dprzybyl@daemen.edu
+   Username: dprzybyl
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Darek Przybyl Head Coach dprzybyl@daemen.edu
+
+23. Michael Krueger
+   Email: michael.krueger@daemen.edu
+   Username: michael.krueger
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michael Krueger Assistant Coach michael.krueger@daemen.edu
+
+24. Ryan Parker
+   Email: ryan.parker@daemen.edu
+   Username: ryan.parker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Parker Assistant Coach ryan.parker@daemen.edu
+
+25. Kaysie Shebeneck
+   Email: kshebene@daemen.edu
+   Username: kshebene
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kaysie Shebeneck Head Coach kshebene@daemen.edu (716) 566-
+
+26. Bret Stothart
+   Email: bstothar@daemen.edu
+   Username: bstothar
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Fruscio Assistant Coach bstothar@daemen.edu
+
+27. Carol Faculty
+   Email: cbartlo@daemen.edu
+   Username: cbartlo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Desmond Randall Assistant Coach cbartlo@daemen.edu
+
+28. Zach Graduate
+   Email: 
+   Username: zach.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zach Fahey Graduate Assistant Coach
+
+29. Dylan Graduate
+   Email: 
+   Username: dylan.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dylan Hurley Graduate Assistant Coach
+
+30. Jeff Hart
+   Email: 
+   Username: jeff.hart
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeff Hart Assistant Coach
+
+31. Jaye Pratt
+   Email: 
+   Username: jaye.pratt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jaye Pratt Assistant Coach (Sprints/Jumps/Hurdles)
+
+32. Dana Bacher
+   Email: 
+   Username: dana.bacher
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dana Bacher Assistant Coach
+
+33. Hailey Graduate
+   Email: 
+   Username: hailey.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hailey Rooney Graduate Assistant Coach
+
+34. Abel Ameyaw
+   Email: 
+   Username: abel.ameyaw
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Abel Ameyaw Assistant Coach
+
+35. Zach Schneider
+   Email: 
+   Username: zach.schneider
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zach Schneider Assistant Coach
+
+36. Sean Graduate
+   Email: 
+   Username: sean.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Califf Graduate Assistant Coach
+
+37. Andrew Braun
+   Email: 
+   Username: andrew.braun
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andrew Braun Assistant Coach
+
+38. Dunja Graduate
+   Email: 
+   Username: dunja.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dunja Masic Graduate Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• TJ LaVigne Head Strength & Conditioning Coach tlavigne@daemen.edu
+• Mike MacDonald Head Coach mmacdona@daemen.edu (716) 839-
+• Angel Parker Assistant Coach aparker@daemen.edu
+• Daniel Antkowiak Head Coach dantkowi@daemen.edu
+• Pete Gratien Head Coach pgratien@daemen.edu
+• Kelsey Ryan Assistant Coach kgratien@daemen.edu
+• Maggie Fuentes Assistant Coach (Track & Field - Throws) mneedham@daemen.edu
+• Jason Cukierski Assistant Coach (Track & Field - Sprints/Jumps) jcukiers@daemen.edu
+• Judy Arlington Assistant Coach jarlingt@daemen.edu
+• David Schwinger Graduate Assistant Coach david.schwinger@daemen.edu
+• Emily Bitka Head Coach ebitka@daemen.edu (716) 839-
+• Megan Mikolajek Assistant Coach mmikolaj@daemen.edu
+• Bediako Swan Head Coach bswan@daemen.edu (716) 839-
+• Anfernee Stokes Graduate Assistant Coach anfernee.stokes@daemen.edu
+• Dan Dolan Head Coach ddolan@daemen.edu (716) 566-
+• Corey DeVille Assistant Coach cdeville@daemen.edu
+• Brian Annibali Assistant Coach bannibal@daemen.edu
+• Dan Panaro Assistant Coach dpanaro@daemen.edu
+• Ana Muruzabal Graduate Assistant Coach ana.muruzabal@daemen.edu
+• Richard Greco, Jr. Head Coach rgreco@daemen.edu (716) 839-
+• Estefania Garcia Graduate Assistant Coach estefania.garcia@daemen.edu
+• Darek Przybyl Head Coach dprzybyl@daemen.edu
+• Michael Krueger Assistant Coach michael.krueger@daemen.edu
+• Ryan Parker Assistant Coach ryan.parker@daemen.edu
+• Kaysie Shebeneck Head Coach kshebene@daemen.edu (716) 566-

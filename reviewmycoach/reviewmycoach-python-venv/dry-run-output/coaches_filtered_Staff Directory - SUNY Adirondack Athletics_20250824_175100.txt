@@ -1,0 +1,152 @@
+COACH ENTRIES FOUND - 2025-08-24 17:51:01
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: SUNY Adirondack
+Organization: SUNY Adirondack Athletics
+State: New York
+
+Total coaches found: 18
+
+PARSED ENTRIES:
+----------------------------------------
+1. Leon Lopez
+   Email: msoccer@sunyacc.edu
+   Username: msoccer
+   Sports: Soccer
+   Title: Head Men's Soccer Coach
+   Original line: Leon Lopez Head Men's Soccer Coach msoccer@sunyacc.edu
+
+2. Viola Kotulak
+   Email: volleyball@sunyacc.edu
+   Username: volleyball
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Phone: (917) 439-1173
+   Original line: Viola Kotulak Head Volleyball Coach 917-439-1173 volleyball@sunyacc.edu
+
+3. Michael Yeager
+   Email: golf@sunyacc.edu
+   Username: golf
+   Sports: Golf
+   Title: Head Golf Coach
+   Original line: Michael Yeager Head Golf Coach golf@sunyacc.edu
+
+4. Chris Markowski
+   Email: softball@sunyacc.edu
+   Username: softball
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (518) 339-9828
+   Original line: Chris Markowski Head Softball Coach 518-339-9828 softball@sunyacc.edu
+
+5. Paul Mound
+   Email: baseball@sunyacc.edu
+   Username: baseball
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Paul Mound Head Baseball Coach baseball@sunyacc.edu
+
+6. Ashley Rosario
+   Email: rosarioa@sunyacc.edu
+   Username: rosarioa
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach rosarioa@sunyacc.edu
+
+7. Tobey Wellness
+   Email: giffordt@sunyacc.edu
+   Username: giffordt
+   Sports: Soccer
+   Title: coach
+   Original line: https://www.sunyadktimberwolves.com/information/directory/Coaching_Staff?utm_source=chatgpt.com 1/4 giffordt@sunyacc.edu
+
+8. Lucas McCane
+   Email: wsoccer@sunyacc.edu
+   Username: wsoccer
+   Sports: Soccer, Volleyball
+   Title: Cassandra Wagemann Assistant Volleyball Coach
+   Original line: Cassandra Wagemann Assistant Volleyball Coach wsoccer@sunyacc.edu
+
+9. Aidan Glynn
+   Email: wbasketball@sunyacc.edu
+   Username: wbasketball
+   Sports: Basketball
+   Title: coach
+   Original line: https://www.sunyadktimberwolves.com/information/directory/Coaching_Staff?utm_source=chatgpt.com 2/4 wbasketball@sunyacc.edu
+
+10.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: Basketball Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Basketball Coach
+
+11. Rory Johnson
+   Email: 
+   Username: rory.johnson
+   Sports: Golf
+   Title: Rory Johnson Assistant Golf Coach
+   Original line: Rory Johnson Assistant Golf Coach
+
+12. Megan Cardino
+   Email: 
+   Username: megan.cardino
+   Sports: Softball
+   Title: Megan Cardino Assistant Softball Coach
+   Original line: Megan Cardino Assistant Softball Coach
+
+13. Brandi Markowski
+   Email: 
+   Username: brandi.markowski
+   Sports: Softball
+   Title: Brandi Markowski Assistant Softball Coach
+   Original line: Brandi Markowski Assistant Softball Coach
+
+14. Alexa Abbatantuono
+   Email: 
+   Username: alexa.abbatantuono
+   Sports: Softball
+   Title: Alexa Abbatantuono Assistant Softball Coach
+   Original line: Alexa Abbatantuono Assistant Softball Coach
+
+15. Chris Hackett
+   Email: 
+   Username: chris.hackett
+   Sports: Baseball
+   Title: Chris Hackett Assistant Baseball Coach
+   Original line: Chris Hackett Assistant Baseball Coach
+
+16. Charlie Darrah
+   Email: 
+   Username: charlie.darrah
+   Sports: Baseball
+   Title: Charlie Darrah Assistant Baseball Coach
+   Original line: Charlie Darrah Assistant Baseball Coach
+
+17. Riley Orr
+   Email: 
+   Username: riley.orr
+   Sports: Baseball
+   Title: Riley Orr Assistant Baseball Coach
+   Original line: Riley Orr Assistant Baseball Coach
+
+18.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: https://www.sunyadktimberwolves.com/information/directory/Coaching_Staff?utm_source=chatgpt.com 3/4
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Leon Lopez Head Men's Soccer Coach msoccer@sunyacc.edu
+• Viola Kotulak Head Volleyball Coach 917-439-1173 volleyball@sunyacc.edu
+• Michael Yeager Head Golf Coach golf@sunyacc.edu
+• Chris Markowski Head Softball Coach 518-339-9828 softball@sunyacc.edu
+• Paul Mound Head Baseball Coach baseball@sunyacc.edu

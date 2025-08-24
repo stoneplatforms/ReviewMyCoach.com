@@ -1,0 +1,570 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:08
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Adelphi University
+Organization: Adelphi University Athletics
+State: New York
+
+Total coaches found: 71
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nicholas Siano
+   Email: nsiano@adelphi.edu
+   Username: nsiano
+   Sports: Soccer
+   Title: Assistant Sports Performance Coach
+   Original line: Nicholas Siano Assistant Sports Performance Coach nsiano@adelphi.edu
+
+2. Mike Gaffney
+   Email: mgaffney@adelphi.edu
+   Username: mgaffney
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Mike Gaffney Head Coach mgaffney@adelphi.edu
+
+3. Pat McCabe
+   Email: patmccabe@adelphi.edu
+   Username: patmccabe
+   Sports: Baseball
+   Title: Pitching Coach
+   Original line: Pat McCabe Pitching Coach patmccabe@adelphi.edu (516)-877-
+
+4. Dave Duke
+   Email: dduke@adelphi.edu
+   Username: dduke
+   Sports: Baseball
+   Title: Head Coach/Assistant
+   Original line: Dave Duke Head Coach/Assistant Athletic Director dduke@adelphi.edu (516) 877-
+
+5. Mike Claxton
+   Email: mclaxton@adelphi.edu
+   Username: mclaxton
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mike Claxton Assistant Coach mclaxton@adelphi.edu (516) 877-
+
+6. Andrew Delaney
+   Email: adelaney@adelphi.edu
+   Username: adelaney
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Andrew Delaney Assistant Coach adelaney@adelphi.edu (516)-877-
+
+7. Taylor Carbonel
+   Email: tcarbonel@adelphi.edu
+   Username: tcarbonel
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Taylor Carbonel Assistant Coach tcarbonel@adelphi.edu (516)-877-
+
+8. Kevin Coyle
+   Email: kcoyle@adelphi.edu
+   Username: kcoyle
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kevin Coyle Assistant Coach kcoyle@adelphi.edu (516)-877-
+
+9. Sade Jackson
+   Email: sjackson@adelphi.edu
+   Username: sjackson
+   Sports: Baseball
+   Title: Head Coach/Assistant
+   Original line: Sade Jackson Head Coach/Assistant Athletic Director sjackson@adelphi.edu (516) 877-
+
+10. Zhaneia Thybulle
+   Email: zthybulle@adelphi.edu
+   Username: zthybulle
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Zhaneia Thybulle Assistant Coach zthybulle@adelphi.edu (516) 877-
+
+11. Jenna Jordan
+   Email: jejordan@adelphi.edu
+   Username: jejordan
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jenna Jordan Assistant Coach jejordan@adelphi.edu (516) 877-
+
+12. Arthur O'Connor
+   Email: aoconnor@adelphi.edu
+   Username: aoconnor
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Arthur O'Connor Head Coach aoconnor@adelphi.edu (516) 237-
+
+13. Katie Rees
+   Email: krees@adelphi.edu
+   Username: krees
+   Sports: Cross Country
+   Title: Head Coach/Assistant
+   Original line: Katie Rees Head Coach/Assistant Athletic Director krees@adelphi.edu (516) 877-
+
+14. Jess Mulhern
+   Email: jmulhern@adelphi.edu
+   Username: jmulhern
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Jess Mulhern Head Coach jmulhern@adelphi.edu (516) 877-
+
+15. Michaela Zabicki
+   Email: mzabicki@adelphi.edu
+   Username: mzabicki
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Michaela Zabicki Assistant Coach mzabicki@adelphi.edu (516) 877-
+
+16. David Mattana
+   Email: dmattana@adelphi.edu
+   Username: dmattana
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: David Mattana Head Coach dmattana@adelphi.edu (516) 877-
+
+17. Matthew Sweeney
+   Email: msweeney@adelphi.edu
+   Username: msweeney
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Matthew Sweeney Assistant Coach msweeney@adelphi.edu (516) 877-
+
+18. Bill Bresnan
+   Email: wbresnanjr@adelphi.edu
+   Username: wbresnanjr
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Bill Bresnan Head Coach wbresnanjr@adelphi.edu (516) 877-
+
+19. Gordon Purdie
+   Email: purdie@adelphi.edu
+   Username: purdie
+   Sports: Track & Field
+   Title: Head Coach/Assistant
+   Original line: Gordon Purdie Head Coach/Assistant Athletic Director purdie@adelphi.edu (516) 877-
+
+20. Joe Catalanotti
+   Email: jcatalanotti@adelphi.edu
+   Username: jcatalanotti
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Joe Catalanotti Associate Head Coach jcatalanotti@adelphi.edu (516) 877-
+
+21. Michael Draper
+   Email: mdraper@adelphi.edu
+   Username: mdraper
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Michael Draper Assistant Coach mdraper@adelphi.edu (516) 877-
+
+22. Brian Volpi
+   Email: bvolpi@adelphi.edu
+   Username: bvolpi
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Brian Volpi Assistant Coach bvolpi@adelphi.edu (516) 877-
+
+23. Greg Puskuldjian
+   Email: gpuskuldjian@adelphi.edu
+   Username: gpuskuldjian
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Greg Puskuldjian Assistant Coach gpuskuldjian@adelphi.edu (516) 877-
+
+24. Billy Smithwick
+   Email: wsmithwick@adelphi.edu
+   Username: wsmithwick
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Billy Smithwick Assistant Coach wsmithwick@adelphi.edu (516) 877-
+
+25. Brian Harinski
+   Email: bharinski@adelphi.edu
+   Username: bharinski
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Brian Harinski Assistant Coach bharinski@adelphi.edu
+
+26. Pat McCabe
+   Email: pmccabe@adelphi.edu
+   Username: pmccabe
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Pat McCabe Head Coach pmccabe@adelphi.edu (516) 877-
+
+27. Frankie Caridi
+   Email: fcaridi@adelphi.edu
+   Username: fcaridi
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Frankie Caridi Associate Head Coach fcaridi@adelphi.edu (516) 877-
+
+28. Gary Book
+   Email: gbook@adelphi.edu
+   Username: gbook
+   Sports: Track & Field
+   Title: Head Coach/Assistant
+   Original line: Gary Book Head Coach/Assistant Athletic Director gbook@adelphi.edu (516) 877-
+
+29. Christian Vazquez
+   Email: cvazquez@adelphi.edu
+   Username: cvazquez
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Christian Vazquez Assistant Coach cvazquez@adelphi.edu (516) 877-
+
+30. Jonah Landow
+   Email: jlandow@adelphi.edu
+   Username: jlandow
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach/Data Analyst
+   Original line: Jonah Landow Volunteer Assistant Coach/Data Analyst jlandow@adelphi.edu
+
+31. Brooke DeRosa
+   Email: bderosa@adelphi.edu
+   Username: bderosa
+   Sports: Track & Field
+   Title: Head Coach/Assistant
+   Original line: Brooke DeRosa Head Coach/Assistant Athletic Director bderosa@adelphi.edu (516) 877-
+
+32. Paul Yarde
+   Email: yardiepo@gmail.com
+   Username: yardiepo
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Paul Yarde Assistant Coach yardiepo@gmail.com (516) 877-
+
+33. Will Frohnhoefer
+   Email: wfrohnhoefer@adelphi.edu
+   Username: wfrohnhoefer
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Will Frohnhoefer Assistant Coach wfrohnhoefer@adelphi.edu (516) 877-
+
+34. Jenna Laird
+   Email: jlaird@adelphi.edu
+   Username: jlaird
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jenna Laird Assistant Coach jlaird@adelphi.edu
+
+35. Delaney Haley
+   Email: dhaley@adelphi.edu
+   Username: dhaley
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Delaney Haley Assistant Coach dhaley@adelphi.edu
+
+36. Marc Danin
+   Email: mdanin@adelphi.edu
+   Username: mdanin
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Marc Danin Head Coach mdanin@adelphi.edu (516) 877-
+
+37. Trevor Foti
+   Email: tfoti@adelphi.edu
+   Username: tfoti
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Trevor Foti Assistant Coach tfoti@adelphi.edu (516) 877-
+
+38. Kristopher Sweetman
+   Email: ksweetman@adelphi.edu
+   Username: ksweetman
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Kristopher Sweetman Assistant Coach ksweetman@adelphi.edu (516) 877-
+
+39. Daniella Cornelia
+   Email: dcornelia@adelphi.edu
+   Username: dcornelia
+   Sports: Swimming
+   Title: Diving Coach
+   Original line: Daniella Cornelia Diving Coach dcornelia@adelphi.edu (516) 877-
+
+40. Rebecca Fakas
+   Email: rfakas@adelphi.edu
+   Username: rfakas
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Rebecca Fakas Head Coach rfakas@adelphi.edu (516) 877-
+
+41. Karen Serina
+   Email: kserina@adelphi.edu
+   Username: kserina
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Karen Serina Assistant Coach kserina@adelphi.edu (516) 877-
+
+42. Daniel Casesa
+   Email: dcasesa@adelphi.edu
+   Username: dcasesa
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Daniel Casesa Assistant Coach dcasesa@adelphi.edu (516) 877-
+
+43. Rebecca Fakas
+   Email: rfakas@adelphi.edu
+   Username: rfakas
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Rebecca Fakas Head Coach rfakas@adelphi.edu (516) 877-
+
+44. Karen Serina
+   Email: kserina@adelphi.edu
+   Username: kserina
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Karen Serina Assistant Coach kserina@adelphi.edu (516) 877-
+
+45. Daniel Casesa
+   Email: dcasesa@adelphi.edu
+   Username: dcasesa
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Daniel Casesa Assistant Coach dcasesa@adelphi.edu (516) 877-
+
+46. Katie Rees
+   Email: krees@adelphi.edu
+   Username: krees
+   Sports: Track & Field
+   Title: Head Coach/Assistant
+   Original line: Katie Rees Head Coach/Assistant Athletic Director krees@adelphi.edu (516) 877-
+
+47. Valmore Holt
+   Email: vholt@adelphi.edu
+   Username: vholt
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Valmore Holt, Ph.D. Assistant Coach vholt@adelphi.edu (516) 877-
+
+48. Kenneth Coleman
+   Email: kennethcoleman@mail.adelphi.edu
+   Username: kennethcoleman
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Kenneth Coleman Assistant Coach kennethcoleman@mail.adelphi.edu (516) 877-
+
+49. Kyria Moore
+   Email: kmoore@adelphi.edu
+   Username: kmoore
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Kyria Moore Assistant Coach kmoore@adelphi.edu (516) 877-
+
+50. Dr 
+   Email: swashington@adelphi.edu
+   Username: swashington
+   Sports: Track & Field
+   Title: Lena Washington Assistant Coach
+   Original line: Dr. Lena Washington Assistant Coach swashington@adelphi.edu
+
+51. Benjamin Sandt
+   Email: bsandt@adelphi.edu
+   Username: bsandt
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Benjamin Sandt Assistant Coach bsandt@adelphi.edu (516) 877-
+
+52. Brenna Valsted
+   Email: bvalsted@adelphi.edu
+   Username: bvalsted
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Brenna Valsted Assistant Coach bvalsted@adelphi.edu
+
+53. Diana Princi
+   Email: dprinci@adelphi.edu
+   Username: dprinci
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Diana Princi Head Coach dprinci@adelphi.edu (516) 877-
+
+54. Alex Campbell
+   Email: campbell@adelphi.edu
+   Username: campbell
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Alex Campbell Head Coach campbell@adelphi.edu (516) 877-
+
+55. Carissa Grimaldi
+   Email: cgrimaldi@adelphi.edu
+   Username: cgrimaldi
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Carissa Grimaldi Assistant Coach cgrimaldi@adelphi.edu (516) 877-
+
+56. Geena Perfetti
+   Email: gperfetti@adelphi.edu
+   Username: gperfetti
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Geena Perfetti Assistant Coach gperfetti@adelphi.edu (516) 877-
+
+57. Paige Sztabnik
+   Email: 
+   Username: paige.sztabnik
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Paige Sztabnik Assistant Coach
+
+58. Nick Nanan
+   Email: 
+   Username: nick.nanan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Nanan Assistant Coach
+
+59. Diego Llanos
+   Email: 
+   Username: diego.llanos
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Diego Llanos Assistant Coach
+
+60. Jake Orfano
+   Email: 
+   Username: jake.orfano
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Orfano Assistant Coach
+
+61. Francesca Manzella
+   Email: 
+   Username: francesca.manzella
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Francesca Manzella Assistant Coach (516) 877-
+
+62. Kelly-Ann McGrath
+   Email: 
+   Username: kelly.ann.mcgrath
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelly-Ann McGrath Assistant Coach
+
+63. Danielle Marino
+   Email: 
+   Username: danielle.marino
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Danielle Marino Assistant Coach
+
+64. Bryan Alcantara
+   Email: 
+   Username: bryan.alcantara
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bryan Alcantara Assistant Coach
+
+65. Stu Volunteer
+   Email: 
+   Username: stu.volunteer
+   Sports: Soccer
+   Title: Assistant Coach/Goalkeeper Coach
+   Original line: Stu Newman Volunteer Assistant Coach/Goalkeeper Coach
+
+66. Daniel Volunteer
+   Email: 
+   Username: daniel.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Daniel De La Heras Volunteer Assistant Coach
+
+67. Danny Leon
+   Email: 
+   Username: danny.leon
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Danny Leon, Jr. Assistant Coach (516) 877-
+
+68. Krista Aliscio
+   Email: 
+   Username: krista.aliscio
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Krista Aliscio Assistant Coach
+
+69. Tom Cornelia
+   Email: 
+   Username: tom.cornelia
+   Sports: Soccer
+   Title: Tom Cornelia Diving Coach
+   Original line: Tom Cornelia Diving Coach (516) 877-
+
+70. Justin McMackin
+   Email: 
+   Username: justin.mcmackin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Justin McMackin Assistant Coach (516) 877-
+
+71. Jaydin Nowak
+   Email: 
+   Username: jaydin.nowak
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jaydin Nowak Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nicholas Siano Assistant Sports Performance Coach nsiano@adelphi.edu
+• Mike Gaffney Head Coach mgaffney@adelphi.edu
+• Pat McCabe Pitching Coach patmccabe@adelphi.edu (516)-877-
+• Dave Duke Head Coach/Assistant Athletic Director dduke@adelphi.edu (516) 877-
+• Mike Claxton Assistant Coach mclaxton@adelphi.edu (516) 877-
+• Andrew Delaney Assistant Coach adelaney@adelphi.edu (516)-877-
+• Taylor Carbonel Assistant Coach tcarbonel@adelphi.edu (516)-877-
+• Kevin Coyle Assistant Coach kcoyle@adelphi.edu (516)-877-
+• Sade Jackson Head Coach/Assistant Athletic Director sjackson@adelphi.edu (516) 877-
+• Zhaneia Thybulle Assistant Coach zthybulle@adelphi.edu (516) 877-
+• Jenna Jordan Assistant Coach jejordan@adelphi.edu (516) 877-
+• Arthur O'Connor Head Coach aoconnor@adelphi.edu (516) 237-
+• Katie Rees Head Coach/Assistant Athletic Director krees@adelphi.edu (516) 877-
+• Jess Mulhern Head Coach jmulhern@adelphi.edu (516) 877-
+• Michaela Zabicki Assistant Coach mzabicki@adelphi.edu (516) 877-
+• David Mattana Head Coach dmattana@adelphi.edu (516) 877-
+• Matthew Sweeney Assistant Coach msweeney@adelphi.edu (516) 877-
+• Bill Bresnan Head Coach wbresnanjr@adelphi.edu (516) 877-
+• Gordon Purdie Head Coach/Assistant Athletic Director purdie@adelphi.edu (516) 877-
+• Joe Catalanotti Associate Head Coach jcatalanotti@adelphi.edu (516) 877-
+• Michael Draper Assistant Coach mdraper@adelphi.edu (516) 877-
+• Brian Volpi Assistant Coach bvolpi@adelphi.edu (516) 877-
+• Greg Puskuldjian Assistant Coach gpuskuldjian@adelphi.edu (516) 877-
+• Billy Smithwick Assistant Coach wsmithwick@adelphi.edu (516) 877-
+• Brian Harinski Assistant Coach bharinski@adelphi.edu
+• Pat McCabe Head Coach pmccabe@adelphi.edu (516) 877-
+• Frankie Caridi Associate Head Coach fcaridi@adelphi.edu (516) 877-
+• Gary Book Head Coach/Assistant Athletic Director gbook@adelphi.edu (516) 877-
+• Christian Vazquez Assistant Coach cvazquez@adelphi.edu (516) 877-
+• Jonah Landow Volunteer Assistant Coach/Data Analyst jlandow@adelphi.edu
+• Brooke DeRosa Head Coach/Assistant Athletic Director bderosa@adelphi.edu (516) 877-
+• Paul Yarde Assistant Coach yardiepo@gmail.com (516) 877-
+• Will Frohnhoefer Assistant Coach wfrohnhoefer@adelphi.edu (516) 877-
+• Jenna Laird Assistant Coach jlaird@adelphi.edu
+• Delaney Haley Assistant Coach dhaley@adelphi.edu
+• Marc Danin Head Coach mdanin@adelphi.edu (516) 877-
+• Trevor Foti Assistant Coach tfoti@adelphi.edu (516) 877-
+• Kristopher Sweetman Assistant Coach ksweetman@adelphi.edu (516) 877-
+• Daniella Cornelia Diving Coach dcornelia@adelphi.edu (516) 877-
+• Rebecca Fakas Head Coach rfakas@adelphi.edu (516) 877-
+• Karen Serina Assistant Coach kserina@adelphi.edu (516) 877-
+• Daniel Casesa Assistant Coach dcasesa@adelphi.edu (516) 877-
+• Rebecca Fakas Head Coach rfakas@adelphi.edu (516) 877-
+• Karen Serina Assistant Coach kserina@adelphi.edu (516) 877-
+• Daniel Casesa Assistant Coach dcasesa@adelphi.edu (516) 877-
+• Katie Rees Head Coach/Assistant Athletic Director krees@adelphi.edu (516) 877-
+• Valmore Holt, Ph.D. Assistant Coach vholt@adelphi.edu (516) 877-
+• Kenneth Coleman Assistant Coach kennethcoleman@mail.adelphi.edu (516) 877-
+• Kyria Moore Assistant Coach kmoore@adelphi.edu (516) 877-
+• Dr. Lena Washington Assistant Coach swashington@adelphi.edu
+• Benjamin Sandt Assistant Coach bsandt@adelphi.edu (516) 877-
+• Brenna Valsted Assistant Coach bvalsted@adelphi.edu
+• Diana Princi Head Coach dprinci@adelphi.edu (516) 877-
+• Alex Campbell Head Coach campbell@adelphi.edu (516) 877-
+• Carissa Grimaldi Assistant Coach cgrimaldi@adelphi.edu (516) 877-
+• Geena Perfetti Assistant Coach gperfetti@adelphi.edu (516) 877-

@@ -1,0 +1,578 @@
+COACH ENTRIES FOUND - 2025-08-23 19:33:27
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Main University - (732) 571-3400
+Organization: Monmouth University Athletics
+
+Total coaches found: 72
+
+PARSED ENTRIES:
+----------------------------------------
+1. Gio Grassi
+   Email: ggrassi@monmouth.edu
+   Username: ggrassi
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gio Grassi Assistant Director of Athletic Performance ggrassi@monmouth.edu 732-263- CoachGioGrassi
+
+2. Julie Stankiewicz
+   Email: jstankie@monmouth.edu
+   Username: jstankie
+   Sports: Soccer
+   Title: Director of Aquatics / Assistant Coach
+   Original line: Julie Stankiewicz Director of Aquatics / Assistant Coach jstankie@monmouth.edu
+
+3. Marisa DiCristina
+   Email: mdicrist@monmouth.edu
+   Username: mdicrist
+   Sports: Soccer
+   Title: Cheerleading Coach
+   Original line: Marisa DiCristina Cheerleading Coach mdicrist@monmouth.edu
+
+4. Shannon Marren
+   Email: smarren@monmouth.edu
+   Username: smarren
+   Sports: Soccer
+   Title: Dance Team Coach
+   Original line: Shannon Marren Dance Team Coach smarren@monmouth.edu
+
+5. Dean Ehehalt
+   Email: dehehalt@monmouth.edu
+   Username: dehehalt
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Dean Ehehalt Head Coach dehehalt@monmouth.edu 732-263-
+
+6. Mike Russo
+   Email: mirusso@monmouth.edu
+   Username: mirusso
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mike Russo Assistant Coach mirusso@monmouth.edu
+
+7. Phil Stahl
+   Email: phstahl@monmouth.edu
+   Username: phstahl
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Phil Stahl Volunteer Assistant Coach phstahl@monmouth.edu
+
+8. Brian Reese
+   Email: breese@monmouth.edu
+   Username: breese
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Brian Reese Assistant Coach breese@monmouth.edu
+
+9. Clive Bentick
+   Email: cbentick@monmouth.edu
+   Username: cbentick
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Clive Bentick Assistant Coach cbentick@monmouth.edu
+
+10. Player Development
+   Email: mseaborn@monmouth.edu
+   Username: mseaborn
+   Sports: Baseball
+   Title: Micah Seaborn Assistant Coach for
+   Original line: Micah Seaborn Assistant Coach for Player Development mseaborn@monmouth.edu
+
+11. Justin Dempsey
+   Email: judempse@monmouth.edu
+   Username: judempse
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Justin Dempsey Volunteer Assistant Coach judempse@monmouth.edu
+
+12. Aja Boyd
+   Email: aboyd@monmouth.edu
+   Username: aboyd
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Aja Boyd Assistant Coach aboyd@monmouth.edu Coach_AjaB
+
+13. Karen Grygiel
+   Email: kgrygiel@monmouth.edu
+   Username: kgrygiel
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Karen Grygiel Head Coach kgrygiel@monmouth.edu 732-263-
+
+14. Damon Godfrey
+   Email: dgodfrey@monmouth.edu
+   Username: dgodfrey
+   Sports: Cross Country
+   Title: Cross Country Head Coach / Track &
+   Original line: Damon Godfrey Cross Country Head Coach / Track & Field Associate dgodfrey@monmouth.edu 732-263- monmouth_xc
+
+15. Hanna Peterson
+   Email: hpeterso@monmouth.edu
+   Username: hpeterso
+   Sports: Cross Country
+   Title: Assistant Coach - Distance
+   Original line: Hanna Peterson Assistant Coach - Distance hpeterso@monmouth.edu 732-571-
+
+16. Carli Figlio
+   Email: cfiglio@monmouth.edu
+   Username: cfiglio
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Carli Figlio Head Coach cfiglio@monmouth.edu 732-263- CoachFigs_FH
+
+17. David Williamson
+   Email: dawillia@monmouth.edu
+   Username: dawillia
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: David Williamson Assistant Coach dawillia@monmouth.edu 732-571- Saveywil1
+
+18. Cameron Kinsella
+   Email: ckinsell@monmouth.edu
+   Username: ckinsell
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Cameron Kinsella Assistant Coach ckinsell@monmouth.edu 732-263-
+
+19. Kevin Callahan
+   Email: kcallaha@monmouth.edu
+   Username: kcallaha
+   Sports: Football
+   Title: Head Coach
+   Original line: Kevin Callahan Head Coach kcallaha@monmouth.edu
+
+20. Jeff Gallo
+   Email: jgallo@monmouth.edu
+   Username: jgallo
+   Sports: Football
+   Title: Associate Head Coach / Offensive Coordinator /
+   Original line: Jeff Gallo Associate Head Coach / Offensive Coordinator / jgallo@monmouth.edu 732-263- CoachJeffGallo
+
+21. Brian Gabriel
+   Email: bgabriel@monmouth.edu
+   Username: bgabriel
+   Sports: Football
+   Title: Run Game Coordinator / Offensive Line Coach
+   Original line: Brian Gabriel Run Game Coordinator / Offensive Line Coach bgabriel@monmouth.edu 732-263- CoachGabeMU
+
+22. Jimmy Robertson
+   Email: jroberts@monmouth.edu
+   Username: jroberts
+   Sports: Football
+   Title: Pass Game Coordinator / Quarterbacks Coach
+   Original line: Jimmy Robertson Pass Game Coordinator / Quarterbacks Coach jroberts@monmouth.edu 732-263- JimRobertsonQB
+
+23. Kevin Callahan
+   Email: kecallah@monmouth.edu
+   Username: kecallah
+   Sports: Football
+   Title: Jr. Wide Receivers Coach /
+   Original line: Kevin Callahan Jr. Wide Receivers Coach / Recruiting Coordinator kecallah@monmouth.edu 732-263- Coach_KCal
+
+24. Sam Dorsett
+   Email: sdorsett@monmouth.edu
+   Username: sdorsett
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Sam Dorsett Running Backs Coach sdorsett@monmouth.edu 732-263- CoachSamDorsett
+
+25. Dennis Teams
+   Email: dlong@monmouth.edu
+   Username: dlong
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Dennis Long Special Teams Coordinator dlong@monmouth.edu 732-263- CoachDennisLong
+
+26. Codey Cole
+   Email: ccole@monmouth.edu
+   Username: ccole
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: Codey Cole Defensive Line Coach ccole@monmouth.edu CoachCole94
+
+27. Game 
+   Email: ldirienz@monmouth.edu
+   Username: ldirienz
+   Sports: Football
+   Title: Louis DiRienzo Jr. Linebackers Coach / Run
+   Original line: Louis DiRienzo Jr. Linebackers Coach / Run Game Coordinator ldirienz@monmouth.edu Coach_DiRienzo
+
+28. Kamau Dumas
+   Email: kdumas@monmouth.edu
+   Username: kdumas
+   Sports: Football
+   Title: Defensive Backs Coach
+   Original line: Kamau Dumas Defensive Backs Coach kdumas@monmouth.edu CoachKDumas
+
+29. Mark Bryson
+   Email: mbryson@monmouth.edu
+   Username: mbryson
+   Sports: Football
+   Title: Director of Golf/Women's Golf Head Coach
+   Original line: Mark Bryson Director of Golf/Women's Golf Head Coach mbryson@monmouth.edu 732-571-
+
+30. Andrew DeYoung
+   Email: adeyoung@monmouth.edu
+   Username: adeyoung
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Andrew DeYoung Assistant Coach adeyoung@monmouth.edu 732-263-
+
+31. Mark Bryson
+   Email: mbryson@monmouth.edu
+   Username: mbryson
+   Sports: Football
+   Title: Director of Golf/Women's Golf Head Coach
+   Original line: Mark Bryson Director of Golf/Women's Golf Head Coach mbryson@monmouth.edu 732-571-
+
+32. Brian Fisher
+   Email: bfisher@monmouth.edu
+   Username: bfisher
+   Sports: Football
+   Title: Head Coach
+   Original line: Brian Fisher Head Coach bfisher@monmouth.edu 732-263- Coach__Fish
+
+33. Andrew Geison
+   Email: ageison@monmouth.edu
+   Username: ageison
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Andrew Geison Associate Head Coach ageison@monmouth.edu 732-263- goose_hawk
+
+34. Matt Trapani
+   Email: mtrapani@monmouth.edu
+   Username: mtrapani
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matt Trapani Assistant Coach mtrapani@monmouth.edu 732-263-
+
+35. Jordan Trautman
+   Email: jtrautma@monmouth.edu
+   Username: jtrautma
+   Sports: Football
+   Title: Head Coach
+   Original line: Jordan Trautman Head Coach jtrautma@monmouth.edu 732-263-
+
+36. Christie Kaestner
+   Email: ckaestne@monmouth.edu
+   Username: ckaestne
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Christie Kaestner Associate Head Coach ckaestne@monmouth.edu 732-263-
+
+37. Scott Belford
+   Email: sbelford@monmouth.edu
+   Username: sbelford
+   Sports: Football
+   Title: Head Coach
+   Original line: Scott Belford Head Coach sbelford@monmouth.edu 732-571-
+
+38. Olivia Staff
+   Email: ostaff@monmouth.edu
+   Username: ostaff
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Olivia Staff Associate Head Coach ostaff@monmouth.edu 732-263-
+
+39. Emily Culmone
+   Email: eculmone@monmouth.edu
+   Username: eculmone
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Emily Culmone Assistant Coach eculmone@monmouth.edu 732-263-
+
+40. Mike Sparta
+   Email: msparta@monmouth.edu
+   Username: msparta
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Mike Sparta Graduate Assistant Coach msparta@monmouth.edu
+
+41. Robert McCourt
+   Email: rmccourt@monmouth.edu
+   Username: rmccourt
+   Sports: Football
+   Title: Head Coach
+   Original line: Robert McCourt Head Coach rmccourt@monmouth.edu 732-263-
+
+42. Hugh MacDonald
+   Email: hmacdona@monmouth.edu
+   Username: hmacdona
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Hugh MacDonald Associate Head Coach hmacdona@monmouth.edu 732-263-
+
+43. Kylee Flynn
+   Email: kprossi@monmouth.edu
+   Username: kprossi
+   Sports: Football
+   Title: Head Coach
+   Original line: Kylee Flynn Head Coach kprossi@monmouth.edu 732-263-
+
+44. Taylor Laverty
+   Email: tlaverty@monmouth.edu
+   Username: tlaverty
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Taylor Laverty Associate Head Coach tlaverty@monmouth.edu
+
+45. Justin Howell
+   Email: jhowell@monmouth.edu
+   Username: jhowell
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Justin Howell Assistant Coach jhowell@monmouth.edu
+
+46. Morgan Royer
+   Email: mroyer@monmouth.edu
+   Username: mroyer
+   Sports: Softball
+   Title: Head Coach
+   Original line: Morgan Royer Head Coach mroyer@monmouth.edu 732-571- MorganRoyer
+
+47. Mia Marinakis
+   Email: emarinak@monmouth.edu
+   Username: emarinak
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mia Marinakis Assistant Coach emarinak@monmouth.edu 732-263-
+
+48. Hayley Masi
+   Email: hmasi@monmouth.edu
+   Username: hmasi
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Hayley Masi Head Coach hmasi@monmouth.edu
+
+49. Steve Levine
+   Email: slevine@monmouth.edu
+   Username: slevine
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Steve Levine Assistant Coach slevine@monmouth.edu 732-263-
+
+50. Julie Stankiewicz
+   Email: jstankie@monmouth.edu
+   Username: jstankie
+   Sports: Swimming
+   Title: Director of Aquatics / Assistant Coach
+   Original line: Julie Stankiewicz Director of Aquatics / Assistant Coach jstankie@monmouth.edu
+
+51. Chris Leicht
+   Email: cleicht@monmouth.edu
+   Username: cleicht
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Chris Leicht Head Coach cleicht@monmouth.edu 570-441- LeichtChris
+
+52. Patrice Murray
+   Email: pmurray@monmouth.edu
+   Username: pmurray
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Patrice Murray Head Coach pmurray@monmouth.edu 732-571-
+
+53. Jordan Torney
+   Email: jtorney@monmouth.edu
+   Username: jtorney
+   Sports: Track & Field
+   Title: Head Coach For Track & Field
+   Original line: Jordan Torney Head Coach For Track & Field jtorney@monmouth.edu
+
+54. Damon Godfrey
+   Email: dgodfrey@monmouth.edu
+   Username: dgodfrey
+   Sports: Track & Field
+   Title: Cross Country Head Coach / Track &
+   Original line: Damon Godfrey Cross Country Head Coach / Track & Field Associate dgodfrey@monmouth.edu 732-263- monmouth_xc
+
+55. Devin Barry
+   Email: dbarry@monmouth.edu
+   Username: dbarry
+   Sports: Track & Field
+   Title: Assistant Coach - Jumps
+   Original line: Devin Barry Assistant Coach - Jumps dbarry@monmouth.edu 732-263-
+
+56. Colton Lambert
+   Email: clambert@monmouth.edu
+   Username: clambert
+   Sports: Track & Field
+   Title: Assistant Coach - Vaults
+   Original line: Colton Lambert Assistant Coach - Vaults clambert@monmouth.edu
+
+57. Hanna Peterson
+   Email: hpeterso@monmouth.edu
+   Username: hpeterso
+   Sports: Track & Field
+   Title: Assistant Coach - Distance
+   Original line: Hanna Peterson Assistant Coach - Distance hpeterso@monmouth.edu 732-571-
+
+58. Eli Fisher
+   Email: efisher@monmouth.edu
+   Username: efisher
+   Sports: Soccer
+   Title: Head Coach
+   Original line: King Rice Head Coach efisher@monmouth.edu
+
+59. Rick General
+   Email: rcallaha@monmouth.edu
+   Username: rcallaha
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Cait Wetmore Head Coach CaitWetmore rcallaha@monmouth.edu
+
+60. Chris Schifano
+   Email: cschifan@monmouth.edu
+   Username: cschifan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Haigh Assistant Coach cschifan@monmouth.edu
+
+61. Cristina Centeno
+   Email: 
+   Username: cristina.centeno
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cristina Centeno Assistant Coach
+
+62.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach 5881
+
+63. Tight Ends
+   Email: 
+   Username: tight.ends
+   Sports: Soccer
+   Title: Tight Ends Coach
+   Original line: Tight Ends Coach 5495
+
+64. Meg Douty
+   Email: 
+   Username: meg.douty
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Meg Douty Assistant Coach
+
+65. Laurent Rouzaire
+   Email: 
+   Username: laurent.rouzaire
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Laurent Rouzaire Assistant Coach
+
+66. Julio Volunteer
+   Email: 
+   Username: julio.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Julio Vacacela Volunteer Assistant Coach
+
+67. Dani Graduate
+   Email: 
+   Username: dani.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dani Dabroski Graduate Assistant Coach
+
+68. Cassandra Volunteer
+   Email: 
+   Username: cassandra.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cassandra Fostik Volunteer Assistant Coach
+
+69. Patrick Volunteer
+   Email: 
+   Username: patrick.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Patrick Liu Volunteer Assistant Coach
+
+70. Victor Volunteer
+   Email: 
+   Username: victor.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Victor Castro Volunteer Assistant Coach
+
+71. Bob Volunteer
+   Email: 
+   Username: bob.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bob Taylor Volunteer Assistant Coach
+
+72. Andrew Liskowitz
+   Email: 
+   Username: andrew.liskowitz
+   Sports: Soccer
+   Title: Assistant Coach - Throws
+   Original line: Andrew Liskowitz Assistant Coach - Throws
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Gio Grassi Assistant Director of Athletic Performance ggrassi@monmouth.edu 732-263- CoachGioGrassi
+• Julie Stankiewicz Director of Aquatics / Assistant Coach jstankie@monmouth.edu
+• Marisa DiCristina Cheerleading Coach mdicrist@monmouth.edu
+• Shannon Marren Dance Team Coach smarren@monmouth.edu
+• Dean Ehehalt Head Coach dehehalt@monmouth.edu 732-263-
+• Mike Russo Assistant Coach mirusso@monmouth.edu
+• Phil Stahl Volunteer Assistant Coach phstahl@monmouth.edu
+• Brian Reese Assistant Coach breese@monmouth.edu
+• Clive Bentick Assistant Coach cbentick@monmouth.edu
+• Micah Seaborn Assistant Coach for Player Development mseaborn@monmouth.edu
+• Justin Dempsey Volunteer Assistant Coach judempse@monmouth.edu
+• Aja Boyd Assistant Coach aboyd@monmouth.edu Coach_AjaB
+• Karen Grygiel Head Coach kgrygiel@monmouth.edu 732-263-
+• Damon Godfrey Cross Country Head Coach / Track & Field Associate dgodfrey@monmouth.edu 732-263- monmouth_xc
+• Hanna Peterson Assistant Coach - Distance hpeterso@monmouth.edu 732-571-
+• Carli Figlio Head Coach cfiglio@monmouth.edu 732-263- CoachFigs_FH
+• David Williamson Assistant Coach dawillia@monmouth.edu 732-571- Saveywil1
+• Cameron Kinsella Assistant Coach ckinsell@monmouth.edu 732-263-
+• Kevin Callahan Head Coach kcallaha@monmouth.edu
+• Jeff Gallo Associate Head Coach / Offensive Coordinator / jgallo@monmouth.edu 732-263- CoachJeffGallo
+• Brian Gabriel Run Game Coordinator / Offensive Line Coach bgabriel@monmouth.edu 732-263- CoachGabeMU
+• Jimmy Robertson Pass Game Coordinator / Quarterbacks Coach jroberts@monmouth.edu 732-263- JimRobertsonQB
+• Kevin Callahan Jr. Wide Receivers Coach / Recruiting Coordinator kecallah@monmouth.edu 732-263- Coach_KCal
+• Sam Dorsett Running Backs Coach sdorsett@monmouth.edu 732-263- CoachSamDorsett
+• Dennis Long Special Teams Coordinator dlong@monmouth.edu 732-263- CoachDennisLong
+• Codey Cole Defensive Line Coach ccole@monmouth.edu CoachCole94
+• Louis DiRienzo Jr. Linebackers Coach / Run Game Coordinator ldirienz@monmouth.edu Coach_DiRienzo
+• Kamau Dumas Defensive Backs Coach kdumas@monmouth.edu CoachKDumas
+• Mark Bryson Director of Golf/Women's Golf Head Coach mbryson@monmouth.edu 732-571-
+• Andrew DeYoung Assistant Coach adeyoung@monmouth.edu 732-263-
+• Mark Bryson Director of Golf/Women's Golf Head Coach mbryson@monmouth.edu 732-571-
+• Brian Fisher Head Coach bfisher@monmouth.edu 732-263- Coach__Fish
+• Andrew Geison Associate Head Coach ageison@monmouth.edu 732-263- goose_hawk
+• Matt Trapani Assistant Coach mtrapani@monmouth.edu 732-263-
+• Jordan Trautman Head Coach jtrautma@monmouth.edu 732-263-
+• Christie Kaestner Associate Head Coach ckaestne@monmouth.edu 732-263-
+• Scott Belford Head Coach sbelford@monmouth.edu 732-571-
+• Olivia Staff Associate Head Coach ostaff@monmouth.edu 732-263-
+• Emily Culmone Assistant Coach eculmone@monmouth.edu 732-263-
+• Mike Sparta Graduate Assistant Coach msparta@monmouth.edu
+• Robert McCourt Head Coach rmccourt@monmouth.edu 732-263-
+• Hugh MacDonald Associate Head Coach hmacdona@monmouth.edu 732-263-
+• Kylee Flynn Head Coach kprossi@monmouth.edu 732-263-
+• Taylor Laverty Associate Head Coach tlaverty@monmouth.edu
+• Justin Howell Assistant Coach jhowell@monmouth.edu
+• Morgan Royer Head Coach mroyer@monmouth.edu 732-571- MorganRoyer
+• Mia Marinakis Assistant Coach emarinak@monmouth.edu 732-263-
+• Hayley Masi Head Coach hmasi@monmouth.edu
+• Steve Levine Assistant Coach slevine@monmouth.edu 732-263-
+• Julie Stankiewicz Director of Aquatics / Assistant Coach jstankie@monmouth.edu
+• Chris Leicht Head Coach cleicht@monmouth.edu 570-441- LeichtChris
+• Patrice Murray Head Coach pmurray@monmouth.edu 732-571-
+• Jordan Torney Head Coach For Track & Field jtorney@monmouth.edu
+• Damon Godfrey Cross Country Head Coach / Track & Field Associate dgodfrey@monmouth.edu 732-263- monmouth_xc
+• Devin Barry Assistant Coach - Jumps dbarry@monmouth.edu 732-263-
+• Colton Lambert Assistant Coach - Vaults clambert@monmouth.edu
+• Hanna Peterson Assistant Coach - Distance hpeterso@monmouth.edu 732-571-

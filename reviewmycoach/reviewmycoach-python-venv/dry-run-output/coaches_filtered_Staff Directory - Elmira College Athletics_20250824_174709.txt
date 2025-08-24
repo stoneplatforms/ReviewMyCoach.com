@@ -1,0 +1,443 @@
+COACH ENTRIES FOUND - 2025-08-24 17:47:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Elmira College
+Organization: Elmira College Athletics
+State: New York
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. John Maio
+   Email: jmaio@elmira.edu
+   Username: jmaio
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: John Maio Head Strength & Conditioning Coach jmaio@elmira.edu (607) 735-
+
+2. Sage Mayer
+   Email: smayer@elmira.edu
+   Username: smayer
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Sage Mayer Assistant Strength & Conditioning Coach smayer@elmira.edu
+
+3. Anthony Goncalves
+   Email: agoncalves@elmira.edu
+   Username: agoncalves
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Anthony Goncalves Head Baseball Coach agoncalves@elmira.edu (607) 735-
+
+4. Adam Winchell
+   Email: awinchell@elmira.edu
+   Username: awinchell
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Adam Winchell Assistant Baseball Coach awinchell@elmira.edu
+
+5. Ryan Scott
+   Email: rscott@elmira.edu
+   Username: rscott
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Ryan Scott Assistant Baseball Coach rscott@elmira.edu
+
+6. Jack Donnelly
+   Email: jdonnelly19@elmira.edu
+   Username: jdonnelly19
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Jack Donnelly '19 Assistant Baseball Coach jdonnelly19@elmira.edu
+
+7. Cameron Heggie
+   Email: cheggie18@elmira.edu
+   Username: cheggie18
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Cameron Heggie '18 Assistant Baseball Coach cheggie18@elmira.edu
+
+8. Denis Tobin
+   Email: dtobin@elmira.edu
+   Username: dtobin
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Denis Tobin Head Men's Basketball Coach dtobin@elmira.edu
+
+9. Thad Phillips
+   Email: tphillips@elmira.edu
+   Username: tphillips
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Thad Phillips Head Women's Basketball Coach tphillips@elmira.edu (607) 735-
+
+10. Billy McCrae
+   Email: wmccrae@elmira.edu
+   Username: wmccrae
+   Sports: Baseball
+   Title: s Basketball Coach / Assistant
+   Original line: Billy McCrae Assistant Women's Basketball Coach / Assistant wmccrae@elmira.edu
+
+11. Rachel Vespucci
+   Email: rvespucci19@elmira.edu
+   Username: rvespucci19
+   Sports: Baseball
+   Title: Volunteer Assistant Women's Basketball Coach
+   Original line: Rachel Vespucci '19 Volunteer Assistant Women's Basketball Coach rvespucci19@elmira.edu
+
+12. Bekka Brown
+   Email: rbrown18@elmira.edu
+   Username: rbrown18
+   Sports: Baseball
+   Title: Assistant Cheerleading Coach
+   Original line: Bekka Brown '18 Assistant Cheerleading Coach rbrown18@elmira.edu
+
+13. Ally DonVito
+   Email: adonvito20@elmira.edu
+   Username: adonvito20
+   Sports: Baseball
+   Title: Assistant Cheerleading Coach
+   Original line: Ally DonVito '20 Assistant Cheerleading Coach adonvito20@elmira.edu
+
+14. Anthony MS
+   Email: aaffissio@elmira.edu
+   Username: aaffissio
+   Sports: Baseball
+   Title: Head Esports Coach
+   Original line: Anthony Affissio, MS '25 Head Esports Coach aaffissio@elmira.edu
+
+15. Michael Magnusen
+   Email: mmagnusen@elmira.edu
+   Username: mmagnusen
+   Sports: Baseball
+   Title: Assistant Esports Coach
+   Original line: Michael Magnusen Assistant Esports Coach mmagnusen@elmira.edu
+
+16. Anfaal Faisal
+   Email: afaisal@elmira.edu
+   Username: afaisal
+   Sports: Baseball
+   Title: Assistant Esports Coach
+   Original line: Anfaal Faisal Assistant Esports Coach afaisal@elmira.edu
+
+17. Woman 
+   Email: jgalatioto@elmira.edu
+   Username: jgalatioto
+   Sports: Track & Field
+   Title: Jessica Galatioto Head Field Hockey Coach /
+   Original line: Jessica Galatioto Head Field Hockey Coach / Senior Woman jgalatioto@elmira.edu
+
+18. Hannah Whittier
+   Email: hwhittier@elmira.edu
+   Username: hwhittier
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Hannah Whittier '23 Assistant Field Hockey Coach hwhittier@elmira.edu
+
+19. Mike Grace
+   Email: mgrace@elmira.edu
+   Username: mgrace
+   Sports: Track & Field
+   Title: s Ice Hockey Coach / Co-Head
+   Original line: Mike Grace Assistant Men's Ice Hockey Coach / Co-Head mgrace@elmira.edu
+
+20. Greg Haney
+   Email: ghaney@elmira.edu
+   Username: ghaney
+   Sports: Track & Field
+   Title: Head Women's Ice Hockey Coach
+   Original line: Greg Haney Head Women's Ice Hockey Coach ghaney@elmira.edu
+
+21. Jimmy Poreda
+   Email: jporeda@elmira.edu
+   Username: jporeda
+   Sports: Track & Field
+   Title: Assistant Women's Ice Hockey Coach
+   Original line: Jimmy Poreda Assistant Women's Ice Hockey Coach jporeda@elmira.edu
+
+22. Pat Sullivan
+   Email: psullivan@elmira.edu
+   Username: psullivan
+   Sports: Track & Field
+   Title: Head Men's Lacrosse Coach
+   Original line: Pat Sullivan '00 Head Men's Lacrosse Coach psullivan@elmira.edu
+
+23. Cassidy Prather
+   Email: cprather@elmira.edu
+   Username: cprather
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Original line: Cassidy Prather Head Women's Lacrosse Coach cprather@elmira.edu
+
+24. Jim McIntyre
+   Email: jmcintyre@elmira.edu
+   Username: jmcintyre
+   Sports: Track & Field
+   Title: Men's Soccer Head Coach
+   Original line: Jim McIntyre Men's Soccer Head Coach jmcintyre@elmira.edu (607) 735-
+
+25. Zach Corwin
+   Email: zcorwin@elmira.edu
+   Username: zcorwin
+   Sports: Track & Field
+   Title: Assistant Men's Soccer Coach
+   Original line: Zach Corwin Assistant Men's Soccer Coach zcorwin@elmira.edu
+
+26. Bill Kelly
+   Email: wkelly@elmira.edu
+   Username: wkelly
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Original line: Bill Kelly Head Women's Soccer Coach wkelly@elmira.edu
+
+27. Christian Grady
+   Email: cgrady@elmira.edu
+   Username: cgrady
+   Sports: Track & Field
+   Title: Assistant Women's Soccer Coach
+   Original line: Christian Grady Assistant Women's Soccer Coach cgrady@elmira.edu
+
+28. Ryan McDonough
+   Email: rmcdonough18@elmira.edu
+   Username: rmcdonough18
+   Sports: Softball
+   Title: Head Men's Volleyball Coach
+   Original line: Ryan McDonough '19 Head Men's Volleyball Coach rmcdonough18@elmira.edu (607) 735-
+
+29. Flag 
+   Email: sterry@elmira.edu
+   Username: sterry
+   Sports: Softball
+   Title: Savannah Terry '
+   Original line: Savannah Terry '21 Women's Volleyball Head Coach / Flag Football sterry@elmira.edu
+
+30. Jordan Peiser
+   Email: jpeiser@elmira.edu
+   Username: jpeiser
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Jordan Peiser '24 Assistant Women's Volleyball Coach jpeiser@elmira.edu
+
+31. John Franchi
+   Email: jfranchi@elmira.edu
+   Username: jfranchi
+   Sports: Softball
+   Title: Men's Wrestling Head Coach
+   Original line: John Franchi Men's Wrestling Head Coach jfranchi@elmira.edu
+
+32. Cody Griswold
+   Email: cgriswold@elmira.edu
+   Username: cgriswold
+   Sports: Softball
+   Title: Head Women's Wrestling Coach
+   Original line: Cody Griswold Head Women's Wrestling Coach cgriswold@elmira.edu (607) 731-
+
+33. Clint Morse
+   Email: cmorse@elmira.edu
+   Username: cmorse
+   Sports: Softball
+   Title: Assistant Women's Wrestling Coach
+   Original line: Clint Morse Assistant Women's Wrestling Coach cmorse@elmira.edu
+
+34. Flag 
+   Email: sterry@elmira.edu
+   Username: sterry
+   Sports: Football
+   Title: Savannah Terry '
+   Original line: Savannah Terry '21 Women's Volleyball Head Coach / Flag Football sterry@elmira.edu
+
+35. Billy McCrae
+   Email: wmccrae@elmira.edu
+   Username: wmccrae
+   Sports: Football
+   Title: s Basketball Coach / Assistant
+   Original line: Billy McCrae Assistant Women's Basketball Coach / Assistant wmccrae@elmira.edu
+
+36. Mason Esworthy
+   Email: jesworthy@elmira.edu
+   Username: jesworthy
+   Sports: Football
+   Title: Head Club Ice Hockey Coach
+   Original line: Mason Esworthy Head Club Ice Hockey Coach jesworthy@elmira.edu (540) 581-
+
+37. Robyn Bennett
+   Email: rbennett@elmira.edu
+   Username: rbennett
+   Sports: Football
+   Title: Head Dance Coach
+   Original line: Robyn Bennett Head Dance Coach rbennett@elmira.edu
+
+38. Madison Pelchar
+   Email: mpelchar24@elmira.edu
+   Username: mpelchar24
+   Sports: Football
+   Title: Volunteer Assistant Dance Coach
+   Original line: Madison Pelchar '24 Volunteer Assistant Dance Coach mpelchar24@elmira.edu
+
+39. Rhonda Faunce
+   Email: rfaunce@elmira.edu
+   Username: rfaunce
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 1967 rfaunce@elmira.edu
+
+40.  
+   Email: 
+   Username: 
+   Sports: Hockey
+   Title: Hockey Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Hockey Coach
+
+41. Flag 
+   Email: 
+   Username: flag
+   Sports: Soccer
+   Title: Flag Football Coach
+   Original line: Flag Football Coach
+
+42. Torin MS
+   Email: 
+   Username: torin.ms
+   Sports: Soccer
+   Title: Assistant Esports Coach
+   Original line: Torin Nethaway, BS '22, MS '24 Assistant Esports Coach
+
+43.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: s Golf Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Men's Golf Coach
+
+44. Aaron Saul
+   Email: asaul@elmira.edu
+   Username: asaul
+   Sports: Hockey
+   Title: s Ice Hockey Coach
+   Original line: Kurt Kalweit '84 Assistant Men's Ice Hockey Coach asaul@elmira.edu
+
+45.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Recruiting Coordinator
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Recruiting Coordinator
+
+46. Connor Thorpe
+   Email: 
+   Username: connor.thorpe
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Connor Thorpe Assistant Men's Soccer Coach
+
+47. Wendi Hammond
+   Email: 
+   Username: wendi.hammond
+   Sports: Softball
+   Title: Wendi Hammond Assistant Softball Coach
+   Original line: Wendi Hammond Assistant Softball Coach
+
+48. Greg Volunteer
+   Email: 
+   Username: greg.volunteer
+   Sports: Softball
+   Title: Greg Cole Volunteer Assistant Softball Coach
+   Original line: Greg Cole Volunteer Assistant Softball Coach
+
+49. Darius Green
+   Email: 
+   Username: darius.green
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Darius Green '24 Assistant Men's Wrestling Coach
+
+50. Pat Volunteer
+   Email: 
+   Username: pat.volunteer
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Pat Audinwood Volunteer Assistant Men's Wrestling Coach
+
+51. Brian Volunteer
+   Email: 
+   Username: brian.volunteer
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Brian Pickering Volunteer Assistant Men's Wrestling Coach
+
+52. Steve Volunteer
+   Email: 
+   Username: steve.volunteer
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Steve Pickering Volunteer Assistant Men's Wrestling Coach
+
+53. Bobby Volunteer
+   Email: 
+   Username: bobby.volunteer
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Bobby Seymour Volunteer Assistant Men's Wrestling Coach
+
+54. David Volunteer
+   Email: 
+   Username: david.volunteer
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: David White Volunteer Assistant Men's Wrestling Coach
+
+55. Steve Terry
+   Email: 
+   Username: steve.terry
+   Sports: Soccer
+   Title: Steve Terry Assistant Flag Football Coach
+   Original line: Steve Terry Assistant Flag Football Coach (Defensive
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John Maio Head Strength & Conditioning Coach jmaio@elmira.edu (607) 735-
+• Sage Mayer Assistant Strength & Conditioning Coach smayer@elmira.edu
+• Anthony Goncalves Head Baseball Coach agoncalves@elmira.edu (607) 735-
+• Adam Winchell Assistant Baseball Coach awinchell@elmira.edu
+• Ryan Scott Assistant Baseball Coach rscott@elmira.edu
+• Jack Donnelly '19 Assistant Baseball Coach jdonnelly19@elmira.edu
+• Cameron Heggie '18 Assistant Baseball Coach cheggie18@elmira.edu
+• Denis Tobin Head Men's Basketball Coach dtobin@elmira.edu
+• Thad Phillips Head Women's Basketball Coach tphillips@elmira.edu (607) 735-
+• Billy McCrae Assistant Women's Basketball Coach / Assistant wmccrae@elmira.edu
+• Rachel Vespucci '19 Volunteer Assistant Women's Basketball Coach rvespucci19@elmira.edu
+• Bekka Brown '18 Assistant Cheerleading Coach rbrown18@elmira.edu
+• Ally DonVito '20 Assistant Cheerleading Coach adonvito20@elmira.edu
+• Anthony Affissio, MS '25 Head Esports Coach aaffissio@elmira.edu
+• Michael Magnusen Assistant Esports Coach mmagnusen@elmira.edu
+• Anfaal Faisal Assistant Esports Coach afaisal@elmira.edu
+• Jessica Galatioto Head Field Hockey Coach / Senior Woman jgalatioto@elmira.edu
+• Hannah Whittier '23 Assistant Field Hockey Coach hwhittier@elmira.edu
+• Mike Grace Assistant Men's Ice Hockey Coach / Co-Head mgrace@elmira.edu
+• Greg Haney Head Women's Ice Hockey Coach ghaney@elmira.edu
+• Jimmy Poreda Assistant Women's Ice Hockey Coach jporeda@elmira.edu
+• Pat Sullivan '00 Head Men's Lacrosse Coach psullivan@elmira.edu
+• Cassidy Prather Head Women's Lacrosse Coach cprather@elmira.edu
+• Jim McIntyre Men's Soccer Head Coach jmcintyre@elmira.edu (607) 735-
+• Zach Corwin Assistant Men's Soccer Coach zcorwin@elmira.edu
+• Bill Kelly Head Women's Soccer Coach wkelly@elmira.edu
+• Christian Grady Assistant Women's Soccer Coach cgrady@elmira.edu
+• Ryan McDonough '19 Head Men's Volleyball Coach rmcdonough18@elmira.edu (607) 735-
+• Savannah Terry '21 Women's Volleyball Head Coach / Flag Football sterry@elmira.edu
+• Jordan Peiser '24 Assistant Women's Volleyball Coach jpeiser@elmira.edu
+• John Franchi Men's Wrestling Head Coach jfranchi@elmira.edu
+• Cody Griswold Head Women's Wrestling Coach cgriswold@elmira.edu (607) 731-
+• Clint Morse Assistant Women's Wrestling Coach cmorse@elmira.edu
+• Savannah Terry '21 Women's Volleyball Head Coach / Flag Football sterry@elmira.edu
+• Billy McCrae Assistant Women's Basketball Coach / Assistant wmccrae@elmira.edu
+• Mason Esworthy Head Club Ice Hockey Coach jesworthy@elmira.edu (540) 581-
+• Robyn Bennett Head Dance Coach rbennett@elmira.edu
+• Madison Pelchar '24 Volunteer Assistant Dance Coach mpelchar24@elmira.edu

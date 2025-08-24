@@ -1,0 +1,406 @@
+COACH ENTRIES FOUND - 2025-08-24 17:48:46
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Keuka College
+Organization: Keuka College Athletics
+State: New York
+
+Total coaches found: 49
+
+PARSED ENTRIES:
+----------------------------------------
+1. Paige Emborsky
+   Email: pemborsky@keuka.edu
+   Username: pemborsky
+   Sports: Basketball
+   Title: Eligibility Certification Officer / Head Women's Basketball Coach
+   Phone: 315.279.5489
+   Original line: Paige Emborsky Eligibility Certification Officer / Head Women's Basketball Coach pemborsky@keuka.edu 315.279.5489
+
+2. Ryan Johnson
+   Email: rmjohnson@keuka.edu
+   Username: rmjohnson
+   Sports: Cross Country, Strength & Conditioning
+   Title: Strength and Conditioning Coach / Head Cross
+   Original line: Ryan Johnson Strength and Conditioning Coach / Head Cross Country Coach rmjohnson@keuka.edu
+
+3. Matt Michalski
+   Email: mmichalski@keuka.edu
+   Username: mmichalski
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 315.279.5803
+   Original line: Matt Michalski Head Coach mmichalski@keuka.edu 315.279.5803
+
+4. Daniel Steve
+   Email: dsteve@keuka.edu
+   Username: dsteve
+   Sports: Baseball
+   Title: Pitching Coach
+   Original line: Daniel Steve Pitching Coach dsteve@keuka.edu
+
+5. Tom Wilk
+   Email: twilk@keuka.edu
+   Username: twilk
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 315.279.5691
+   Original line: Tom Wilk Head Coach twilk@keuka.edu 315.279.5691
+
+6. Paige Emborsky
+   Email: pemborsky@keuka.edu
+   Username: pemborsky
+   Sports: Baseball
+   Title: Eligibility Certification Officer / Head Women's Basketball Coach
+   Phone: 315.279.5489
+   Original line: Paige Emborsky Eligibility Certification Officer / Head Women's Basketball Coach pemborsky@keuka.edu 315.279.5489
+
+7. Alijah Ellis
+   Email: aellis@keuka.edu
+   Username: aellis
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Alijah Ellis Assistant Coach aellis@keuka.edu
+
+8. Ryan Johnson
+   Email: rmjohnson@keuka.edu
+   Username: rmjohnson
+   Sports: Baseball
+   Title: Strength and Conditioning Coach / Head Cross
+   Original line: Ryan Johnson Strength and Conditioning Coach / Head Cross Country Coach rmjohnson@keuka.edu
+
+9. Ryan Johnson
+   Email: rmjohnson@keuka.edu
+   Username: rmjohnson
+   Sports: Baseball
+   Title: Strength and Conditioning Coach / Head Cross
+   Original line: Ryan Johnson Strength and Conditioning Coach / Head Cross Country Coach rmjohnson@keuka.edu
+
+10. Shelly Baker
+   Email: sbaker1@keuka.edu
+   Username: sbaker1
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Shelly Baker Head Coach sbaker1@keuka.edu
+
+11. Jessica Franklin
+   Email: jfranklin@keuka.edu
+   Username: jfranklin
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 315.279.5884
+   Original line: Jessica Franklin Head Coach jfranklin@keuka.edu 315.279.5884
+
+12. Ben Guiliano
+   Email: bguiliano@keuka.edu
+   Username: bguiliano
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Ben Guiliano Head Coach bguiliano@keuka.edu
+
+13. Ben Guiliano
+   Email: bguiliano@keuka.edu
+   Username: bguiliano
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Ben Guiliano Head Coach bguiliano@keuka.edu
+
+14. Ty Trombley
+   Email: jtrombley@keuka.edu
+   Username: jtrombley
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 315.279.5689
+   Original line: Ty Trombley Head Coach jtrombley@keuka.edu 315.279.5689
+
+15. Courtney Lafler
+   Email: clafler@keuka.edu
+   Username: clafler
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 315.279.5409
+   Original line: Courtney Lafler Head Coach clafler@keuka.edu 315.279.5409
+
+16. Jordan Sullivan
+   Email: jsullivan2@keuka.edu
+   Username: jsullivan2
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 315.279.5805
+   Original line: Jordan Sullivan Head Coach jsullivan2@keuka.edu 315.279.5805
+
+17. Quintin Rogers
+   Email: qrogers@keuka.edu
+   Username: qrogers
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 585.944.7612
+   Original line: Quintin Rogers Head Coach qrogers@keuka.edu 585.944.7612
+
+18. Jess Wilcox
+   Email: jmwilcox@keuka.edu
+   Username: jmwilcox
+   Sports: Softball
+   Title: Head Coach
+   Phone: 315.279.5619
+   Original line: Jess Wilcox Head Coach jmwilcox@keuka.edu 315.279.5619
+
+19. Rachel Fiser
+   Email: rfiser@keuka.edu
+   Username: rfiser
+   Sports: Softball
+   Title: Head Coach
+   Phone: 315.279.5011
+   Original line: Rachel Fiser Head Coach rfiser@keuka.edu 315.279.5011
+
+20. Nicole Rivera
+   Email: nrivera@keuka.edu
+   Username: nrivera
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nicole Rivera Assistant Coach nrivera@keuka.edu
+
+21. Dayna Edholm
+   Email: dedholm@keuka.edu
+   Username: dedholm
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Dayna Edholm Assistant Coach dedholm@keuka.edu
+
+22. Casey Hunziker
+   Email: chunziker@keuka.edu
+   Username: chunziker
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Casey Hunziker Assistant Coach chunziker@keuka.edu
+
+23. Angel Schoonover
+   Email: aschoonover@keuka.edu
+   Username: aschoonover
+   Sports: Baseball
+   Title: coach
+   Original line: BASEBALL COACHING STAFF aschoonover@keuka.edu
+
+24.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S BASKETBALL COACHING STAFF
+
+25.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S BASKETBALL COACHING STAFF
+
+26. John Emborsky
+   Email: 
+   Username: john.emborsky
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Emborsky Assistant Coach
+
+27.  
+   Email: 
+   Username: 
+   Sports: Cross Country
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S CROSS COUNTRY COACHING STAFF
+
+28. Ali Reigle
+   Email: 
+   Username: ali.reigle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ali Reigle Assistant Coach
+
+29. Liam Prendergast
+   Email: 
+   Username: liam.prendergast
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Liam Prendergast Assistant Coach
+
+30.  
+   Email: 
+   Username: 
+   Sports: Cross Country
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S CROSS COUNTRY COACHING STAFF
+
+31.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: CHEERLEADING COACHING STAFF
+
+32.  
+   Email: 
+   Username: 
+   Sports: Track & Field, Hockey
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: FIELD HOCKEY COACHING STAFF
+
+33. Erin Norris
+   Email: 
+   Username: erin.norris
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erin Norris Assistant Coach
+
+34.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S GOLF COACHING STAFF
+
+35.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S GOLF COACHING STAFF
+
+36. Travis Simmons
+   Email: tsimmons@keuka.edu
+   Username: tsimmons
+   Sports: Lacrosse
+   Title: coach
+   Original line: MEN'S LACROSSE COACHING STAFF tsimmons@keuka.edu
+
+37. Brandon Grace
+   Email: 
+   Username: brandon.grace
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Grace Assistant Coach
+
+38. Brandon Trombley
+   Email: 
+   Username: brandon.trombley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Trombley Assistant Coach
+
+39. Steven Carlson
+   Email: 
+   Username: steven.carlson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Steven Carlson Assistant Coach
+
+40. Jake Hinshaw
+   Email: 
+   Username: jake.hinshaw
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Hinshaw Assistant Coach
+
+41.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S LACROSSE COACHING STAFF
+
+42.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S SOCCER COACHING STAFF
+
+43. Ibrahim Kapidzic
+   Email: 
+   Username: ibrahim.kapidzic
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ibrahim Kapidzic Assistant Coach
+
+44. Nate Masucci
+   Email: 
+   Username: nate.masucci
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nate Masucci Assistant Coach
+
+45.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S SOCCER COACHING STAFF
+
+46. Caitie Broderick
+   Email: 
+   Username: caitie.broderick
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caitie Broderick Assistant Coach
+
+47. Meghan Humphrey
+   Email: 
+   Username: meghan.humphrey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Meghan Humphrey Assistant Coach
+
+48.  
+   Email: 
+   Username: 
+   Sports: Softball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: SOFTBALL COACHING STAFF
+
+49.  
+   Email: 
+   Username: 
+   Sports: Volleyball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S VOLLEYBALL COACHING STAFF
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Paige Emborsky Eligibility Certification Officer / Head Women's Basketball Coach pemborsky@keuka.edu 315.279.5489
+• Ryan Johnson Strength and Conditioning Coach / Head Cross Country Coach rmjohnson@keuka.edu
+• Matt Michalski Head Coach mmichalski@keuka.edu 315.279.5803
+• Daniel Steve Pitching Coach dsteve@keuka.edu
+• Tom Wilk Head Coach twilk@keuka.edu 315.279.5691
+• Paige Emborsky Eligibility Certification Officer / Head Women's Basketball Coach pemborsky@keuka.edu 315.279.5489
+• Alijah Ellis Assistant Coach aellis@keuka.edu
+• Ryan Johnson Strength and Conditioning Coach / Head Cross Country Coach rmjohnson@keuka.edu
+• Ryan Johnson Strength and Conditioning Coach / Head Cross Country Coach rmjohnson@keuka.edu
+• Shelly Baker Head Coach sbaker1@keuka.edu
+• Jessica Franklin Head Coach jfranklin@keuka.edu 315.279.5884
+• Ben Guiliano Head Coach bguiliano@keuka.edu
+• Ben Guiliano Head Coach bguiliano@keuka.edu
+• Ty Trombley Head Coach jtrombley@keuka.edu 315.279.5689
+• Courtney Lafler Head Coach clafler@keuka.edu 315.279.5409
+• Jordan Sullivan Head Coach jsullivan2@keuka.edu 315.279.5805
+• Quintin Rogers Head Coach qrogers@keuka.edu 585.944.7612
+• Jess Wilcox Head Coach jmwilcox@keuka.edu 315.279.5619
+• Rachel Fiser Head Coach rfiser@keuka.edu 315.279.5011
+• Nicole Rivera Assistant Coach nrivera@keuka.edu
+• Dayna Edholm Assistant Coach dedholm@keuka.edu
+• Casey Hunziker Assistant Coach chunziker@keuka.edu

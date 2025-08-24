@@ -1,0 +1,293 @@
+COACH ENTRIES FOUND - 2025-08-23 19:32:42
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Caldwell University
+Organization: Caldwell University Athletics
+
+Total coaches found: 35
+
+PARSED ENTRIES:
+----------------------------------------
+1. David Caposele
+   Email: dcaposele@caldwell.edu
+   Username: dcaposele
+   Sports: Strength & Conditioning
+   Title: Strength & Conditioning Coach
+   Original line: David Caposele Strength & Conditioning Coach dcaposele@caldwell.edu
+
+2. Amirah Boyd
+   Email: aboyd@caldwell.edu
+   Username: aboyd
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Amirah Boyd Head Coach aboyd@caldwell.edu 973-618-
+
+3. Nick Luciano
+   Email: nluciano@caldwell.edu
+   Username: nluciano
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Nick Luciano Head Coach nluciano@caldwell.edu
+
+4. Zach Fernandez
+   Email: zfernandez@caldwell.edu
+   Username: zfernandez
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Zach Fernandez Assistant Coach zfernandez@caldwell.edu
+
+5. Kieran Koch
+   Email: kkoch@caldwell.edu
+   Username: kkoch
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Kieran Koch Assistant Coach/Recruiting Coordinator kkoch@caldwell.edu
+
+6. Jerry Gamone
+   Email: ggamone@caldwell.edu
+   Username: ggamone
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jerry Gamone Assistant Coach ggamone@caldwell.edu
+
+7. Dean Johnson
+   Email: djohnson@caldwell.edu
+   Username: djohnson
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Dean Johnson Head Coach djohnson@caldwell.edu 973-618-
+
+8. Joe Scott
+   Email: kscott@caldwell.edu
+   Username: kscott
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Joe Scott Assistant Coach kscott@caldwell.edu 973-618-
+
+9. Ed Ryan
+   Email: eryan@caldwell.edu
+   Username: eryan
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Ed Ryan Assistant Coach eryan@caldwell.edu 973-618-
+
+10. Christie Conforti
+   Email: cconforti@caldwell.edu
+   Username: cconforti
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Christie Conforti Head Coach cconforti@caldwell.edu 973-618-
+
+11. Christie Marrone
+   Email: cmarrone@caldwell.edu
+   Username: cmarrone
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Christie Marrone Assistant Coach cmarrone@caldwell.edu 973-618-
+
+12. Amiya Rankins
+   Email: arankins@caldwell.edu
+   Username: arankins
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Amiya Rankins Assistant Coach arankins@caldwell.edu
+
+13. Ken Yokobosky
+   Email: kyokobosky@caldwell.edu
+   Username: kyokobosky
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ken Yokobosky Head Coach kyokobosky@caldwell.edu 973-618-
+
+14. Kyle Price
+   Email: kprice@caldwell.edu
+   Username: kprice
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Kyle Price Head Coach kprice@caldwell.edu 973-618-
+
+15. Dominic Scorcia
+   Email: dscorcia@caldwell.edu
+   Username: dscorcia
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Dominic Scorcia Head Coach dscorcia@caldwell.edu 973-618-
+
+16. Amanda Picozzi
+   Email: apicozzi@caldwell.edu
+   Username: apicozzi
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Amanda Picozzi Head Coach apicozzi@caldwell.edu 401-523-
+
+17. Max Correa
+   Email: mcorrea@caldwell.edu
+   Username: mcorrea
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Max Correa Head Coach mcorrea@caldwell.edu
+
+18. Alex Velazquez
+   Email: Avelazquez@caldwell.edu
+   Username: Avelazquez
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Alex Velazquez Assistant Coach Avelazquez@caldwell.edu
+
+19. Sammy Adjei
+   Email: sadjei@caldwell.edu
+   Username: sadjei
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Sammy Adjei Head Coach sadjei@caldwell.edu 973-618-
+
+20. Joshua Merchan
+   Email: jmerchan@caldwell.edu
+   Username: jmerchan
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Joshua Merchan Assistant Coach jmerchan@caldwell.edu
+
+21. Lindsay Mayer
+   Email: lmayer@caldwell.edu
+   Username: lmayer
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Lindsay Mayer Head Softball Coach lmayer@caldwell.edu 973-618-
+
+22. Robert Guerriero
+   Email: rguerriero@caldwell.edu
+   Username: rguerriero
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Robert Guerriero Assistant Coach rguerriero@caldwell.edu
+
+23. Louie Matsakis
+   Email: lmatsakis@caldwell.edu
+   Username: lmatsakis
+   Sports: Football
+   Title: Head Coach
+   Original line: Louie Matsakis Head Coach lmatsakis@caldwell.edu 973-618-
+
+24. Rob Lomoriello
+   Email: rlomoriello@caldwell.edu
+   Username: rlomoriello
+   Sports: Football
+   Title: Defensive Coordinator/DB Coach
+   Original line: Rob Lomoriello Defensive Coordinator/DB Coach rlomoriello@caldwell.edu
+
+25. T.J. Kroncke
+   Email: tkroncke@caldwell.edu
+   Username: tkroncke
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: T.J. Kroncke Defensive Line Coach tkroncke@caldwell.edu
+
+26. Peter Brand
+   Email: pbrand@caldwell.edu
+   Username: pbrand
+   Sports: Football
+   Title: Quarterbacks Coach
+   Original line: Peter Brand Quarterbacks Coach pbrand@caldwell.edu
+
+27. Nick Serpico
+   Email: nserpico@caldwell.edu
+   Username: nserpico
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nick Serpico Assistant Coach nserpico@caldwell.edu
+
+28. Jeff Bliss
+   Email: jbliss@caldwell.edu
+   Username: jbliss
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jeff Bliss Assistant Coach jbliss@caldwell.edu
+
+29. Kyle Price
+   Email: kprice@caldwell.edu
+   Username: kprice
+   Sports: Football
+   Title: Head Coach
+   Original line: Kyle Price Head Coach kprice@caldwell.edu 973-618-
+
+30. Nick Serpico
+   Email: nserpico@caldwell.edu
+   Username: nserpico
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nick Serpico Assistant Coach nserpico@caldwell.edu
+
+31. Alex Geddes
+   Email: ageddes1@caldwell.edu
+   Username: ageddes1
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Alex Geddes Volunteer Assistant Coach ageddes1@caldwell.edu
+
+32. Hector Colon
+   Email: hcolon@caldwell.edu
+   Username: hcolon
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Hector Colon Head Coach hcolon@caldwell.edu 973-618-
+
+33. Jake Salvatore
+   Email: 
+   Username: jake.salvatore
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Salvatore Assistant Coach
+
+34. Jay Backs
+   Email: 
+   Username: jay.backs
+   Sports: Soccer
+   Title: Jay Tiseo Running Backs Coach
+   Original line: Jay Tiseo Running Backs Coach
+
+35. TBA 
+   Email: 
+   Username: tba
+   Sports: Soccer
+   Title: Head Coach
+   Original line: TBA . Head Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• David Caposele Strength & Conditioning Coach dcaposele@caldwell.edu
+• Amirah Boyd Head Coach aboyd@caldwell.edu 973-618-
+• Nick Luciano Head Coach nluciano@caldwell.edu
+• Zach Fernandez Assistant Coach zfernandez@caldwell.edu
+• Kieran Koch Assistant Coach/Recruiting Coordinator kkoch@caldwell.edu
+• Jerry Gamone Assistant Coach ggamone@caldwell.edu
+• Dean Johnson Head Coach djohnson@caldwell.edu 973-618-
+• Joe Scott Assistant Coach kscott@caldwell.edu 973-618-
+• Ed Ryan Assistant Coach eryan@caldwell.edu 973-618-
+• Christie Conforti Head Coach cconforti@caldwell.edu 973-618-
+• Christie Marrone Assistant Coach cmarrone@caldwell.edu 973-618-
+• Amiya Rankins Assistant Coach arankins@caldwell.edu
+• Ken Yokobosky Head Coach kyokobosky@caldwell.edu 973-618-
+• Kyle Price Head Coach kprice@caldwell.edu 973-618-
+• Dominic Scorcia Head Coach dscorcia@caldwell.edu 973-618-
+• Amanda Picozzi Head Coach apicozzi@caldwell.edu 401-523-
+• Max Correa Head Coach mcorrea@caldwell.edu
+• Alex Velazquez Assistant Coach Avelazquez@caldwell.edu
+• Sammy Adjei Head Coach sadjei@caldwell.edu 973-618-
+• Joshua Merchan Assistant Coach jmerchan@caldwell.edu
+• Lindsay Mayer Head Softball Coach lmayer@caldwell.edu 973-618-
+• Robert Guerriero Assistant Coach rguerriero@caldwell.edu
+• Louie Matsakis Head Coach lmatsakis@caldwell.edu 973-618-
+• Rob Lomoriello Defensive Coordinator/DB Coach rlomoriello@caldwell.edu
+• T.J. Kroncke Defensive Line Coach tkroncke@caldwell.edu
+• Peter Brand Quarterbacks Coach pbrand@caldwell.edu
+• Nick Serpico Assistant Coach nserpico@caldwell.edu
+• Jeff Bliss Assistant Coach jbliss@caldwell.edu
+• Kyle Price Head Coach kprice@caldwell.edu 973-618-
+• Nick Serpico Assistant Coach nserpico@caldwell.edu
+• Alex Geddes Volunteer Assistant Coach ageddes1@caldwell.edu
+• Hector Colon Head Coach hcolon@caldwell.edu 973-618-

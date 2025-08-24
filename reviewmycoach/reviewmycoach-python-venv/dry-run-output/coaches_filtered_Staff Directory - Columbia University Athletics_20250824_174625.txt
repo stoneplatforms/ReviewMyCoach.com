@@ -1,0 +1,799 @@
+COACH ENTRIES FOUND - 2025-08-24 17:46:26
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Columbia University
+Organization: Columbia University Athletics
+State: New York
+
+Total coaches found: 98
+
+PARSED ENTRIES:
+----------------------------------------
+1. Derek Davis
+   Email: dd2148@columbia.edu
+   Username: dd2148
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Derek Davis Head Coach 212- 854- dd2148@columbia.edu
+
+2. Savannah Ward
+   Email: savannah.ward@columbia.edu
+   Username: savannah.ward
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Savannah Ward Assistant Coach savannah.ward@columbia.edu
+
+3. Brett Boretti
+   Email: bmb2117@columbia.edu
+   Username: bmb2117
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brett Boretti Head Coach 212-854- bmb2117@columbia.edu
+
+4. Tom Carty
+   Email: tcc2140@columbia.edu
+   Username: tcc2140
+   Sports: Baseball
+   Title: Associate Head Coach/Pitching Coach
+   Original line: Tom Carty Associate Head Coach/Pitching Coach tcc2140@columbia.edu
+
+5. David Vandercook
+   Email: drv2108@columbia.edu
+   Username: drv2108
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: David Vandercook Assistant Coach/Recruiting Coordinator drv2108@columbia.edu
+
+6. Canyon Kyle
+   Email: jck2187@columbia.edu
+   Username: jck2187
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Canyon Kyle Assistant Coach jck2187@columbia.edu
+
+7. Kevin Hovde
+   Email: culionsmbb@columbia.edu
+   Username: culionsmbb
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Kevin Hovde Head Coach culionsmbb@columbia.edu
+
+8. Mark McGonigal
+   Email: mm6870@columbia.edu
+   Username: mm6870
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mark McGonigal Assistant Coach mm6870@columbia.edu
+
+9. Shasha Brown
+   Email: sb3253@columbia.edu
+   Username: sb3253
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Shasha Brown Assistant Coach sb3253@columbia.edu
+
+10. Matt Elkin
+   Email: me2967@columbia.edu
+   Username: me2967
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Elkin Assistant Coach me2967@columbia.edu
+
+11. Tyler Cordell
+   Email: tc2832@columbia.edu
+   Username: tc2832
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tyler Cordell Associate Head Coach 212-854- tc2832@columbia.edu
+
+12. Allie Bassetti
+   Email: ab5506@columbia.edu
+   Username: ab5506
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Allie Bassetti Assistant Coach 212-854- ab5506@columbia.edu
+
+13. Kizmahr Grell
+   Email: kg3245@columbia.edu
+   Username: kg3245
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kizmahr Grell Assistant Coach 212-854- kg3245@columbia.edu
+
+14. Michael Aufrichtig
+   Email: ma3110@columbia.edu
+   Username: ma3110
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Michael Aufrichtig Head Coach 212-854- ma3110@columbia.edu
+
+15. Seoung Lee
+   Email: swl2119@columbia.edu
+   Username: swl2119
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Seoung Woo Lee Assistant Coach (Foil/Epee) swl2119@columbia.edu
+
+16. Gidon Retzkin
+   Email: gr2639@columbia.edu
+   Username: gr2639
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Gidon Retzkin Assistant Coach (Foil) gr2639@columbia.edu
+
+17. Sara Vicenzin
+   Email: sv2826@columbia.edu
+   Username: sv2826
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Sara Vicenzin Assistant Coach (Sabre) sv2826@columbia.edu
+
+18. Guillermo Sardinas
+   Email: gm3215@columbia.edu
+   Username: gm3215
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Guillermo Madrigal Sardinas Assistant Coach (Epee) gm3215@columbia.edu
+
+19. Niki Miller
+   Email: nm3607@columbia.edu
+   Username: nm3607
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Niki Miller Head Coach 212-851- nm3607@columbia.edu
+
+20. Jack Gallucci
+   Email: jg4946@columbia.edu
+   Username: jg4946
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jack Gallucci Assistant Coach jg4946@columbia.edu
+
+21. Hayley Hayden
+   Email: hfh2120@columbia.edu
+   Username: hfh2120
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Hayley Hayden Assistant Coach hfh2120@columbia.edu
+
+22. Jon Alexander
+   Email: football@columbia.edu
+   Username: football
+   Sports: Football
+   Title: Head Coach
+   Original line: Jon Poppe Patricia & Shepard Alexander Head Coach of Football 212-854- football@columbia.edu
+
+23. Justin Stovall
+   Email: js4718@columbia.edu
+   Username: js4718
+   Sports: Football
+   Title: Head Coach
+   Original line: Justin Stovall Defensive Coordinator/Associate Head Coach 212-854- js4718@columbia.edu
+
+24. Seitu Smith
+   Email: ss7190@columbia.edu
+   Username: ss7190
+   Sports: Football
+   Title: Offensive Coordinator/Quarterbacks Coach
+   Original line: Seitu Smith Offensive Coordinator/Quarterbacks Coach ss7190@columbia.edu
+
+25. Chris Batti
+   Email: cb3961@columbia.edu
+   Username: cb3961
+   Sports: Football
+   Title: Tight Ends Coach
+   Original line: Chris Batti Tight Ends Coach cb3961@columbia.edu
+
+26. AJ Gallagher
+   Email: ag4939@columbia.edu
+   Username: ag4939
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: AJ Gallagher Wide Receivers Coach ag4939@columbia.edu
+
+27. Andrew Backs
+   Email: ak4238@columbia.edu
+   Username: ak4238
+   Sports: Football
+   Title: Kukesh Defensive Coach/Defensive Pass Game Coordinator
+   Original line: Andrew Kukesh Defensive Backs Coach/Defensive Pass Game Coordinator 212-854- ak4238@columbia.edu
+
+28. Teams 
+   Email: gm3161@columbia.edu
+   Username: gm3161
+   Sports: Football
+   Title: Garrett McLaughlin Defensive Line Coach/Special
+   Original line: Garrett McLaughlin Defensive Line Coach/Special Teams Coordinator gm3161@columbia.edu
+
+29. Gregory Skjold
+   Email: gs2999@columbia.edu
+   Username: gs2999
+   Sports: Football
+   Title: Offensive Line Coach
+   Original line: Gregory Skjold Offensive Line Coach gs2999@columbia.edu
+
+30. Kenneth Tinsley
+   Email: kt2997@columbia.edu
+   Username: kt2997
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Kenneth Tinsley Running Backs Coach kt2997@columbia.edu
+
+31. Justin Woodley
+   Email: jw3572@columbia.edu
+   Username: jw3572
+   Sports: Football
+   Title: Linebackers Coach
+   Original line: Justin Woodley Linebackers Coach jw3572@columbia.edu
+
+32. Rich Mueller
+   Email: rkm2107@columbia.edu
+   Username: rkm2107
+   Sports: Football
+   Title: Head Coach
+   Original line: Rich Mueller Head Coach 212-854- rkm2107@columbia.edu
+
+33. Ben Peluso
+   Email: bj2359@columbia.edu
+   Username: bj2359
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ben Peluso Assistant Coach 212-854- bj2359@columbia.edu
+
+34. Christopher Arkin
+   Email: caa2113@columbia.edu
+   Username: caa2113
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Christopher Arkin Assistant Coach caa2113@columbia.edu
+
+35. Amy Weeks
+   Email: aew2169@columbia.edu
+   Username: aew2169
+   Sports: Football
+   Title: Head Coach
+   Original line: Amy Weeks Head Coach 212-854- aew2169@columbia.edu
+
+36. Katie Rudolph
+   Email: kr3132@columbia.edu
+   Username: kr3132
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Katie Rudolph Assistant Coach 212-854- kr3132@columbia.edu
+
+37. Christine Shao
+   Email: cls2253@columbia.edu
+   Username: cls2253
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Christine Shao Assistant Coach cls2253@columbia.edu
+
+38. Anne Murray
+   Email: am5768@columbia.edu
+   Username: am5768
+   Sports: Lacrosse
+   Title: Head Lacrosse Coach
+   Original line: Anne Murray Head Lacrosse Coach 212-854- am5768@columbia.edu
+
+39. Shannon Nee
+   Email: sn2978@columbia.edu
+   Username: sn2978
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Shannon Nee Associate Head Coach 212-854- sn2978@columbia.edu
+
+40. Jourdan Roemer
+   Email: jr4728@columbia.edu
+   Username: jr4728
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Jourdan Roemer Assistant Coach jr4728@columbia.edu
+
+41. Maggie Brown
+   Email: meb2370@columbia.edu
+   Username: meb2370
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Maggie Brown Assistant Coach meb2370@columbia.edu
+
+42. Andrew Hess
+   Email: ah3475@columbia.edu
+   Username: ah3475
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Andrew Hess Assistant Head Coach 212-854- ah3475@columbia.edu
+
+43. Laurel Korholz
+   Email: lvk2109@columbia.edu
+   Username: lvk2109
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Laurel Korholz Assistant Coach lvk2109@columbia.edu
+
+44. Noah Axford
+   Email: na3117@columbia.edu
+   Username: na3117
+   Sports: Lacrosse
+   Title: Assistant Coach/Boatwright
+   Original line: Noah Axford Assistant Coach/Boatwright na3117@columbia.edu
+
+45. Maggie Gavin
+   Email: mld2168@columbia.edu
+   Username: mld2168
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Maggie Gavin Assistant Coach mld2168@columbia.edu
+
+46. Nich Parker
+   Email: nal2134@columbia.edu
+   Username: nal2134
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Nich Lee Parker Head Coach 212-854- nal2134@columbia.edu
+
+47. Thomas Wenk
+   Email: tw2937@columbia.edu
+   Username: tw2937
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Thomas Wenk Assistant Coach 513-417- tw2937@columbia.edu
+
+48. Noah Axford
+   Email: na3117@columbia.edu
+   Username: na3117
+   Sports: Lacrosse
+   Title: Assistant Coach/Boatwright
+   Original line: Noah Axford Assistant Coach/Boatwright na3117@columbia.edu
+
+49. Maggie Gavin
+   Email: mld2168@columbia.edu
+   Username: mld2168
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Maggie Gavin Assistant Coach mld2168@columbia.edu
+
+50. Evan Olson
+   Email: ewo2109@columbia.edu
+   Username: ewo2109
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Evan Olson Assistant Coach ewo2109@columbia.edu
+
+51. Emerson Curry
+   Email: ec2979@columbia.edu
+   Username: ec2979
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Emerson Curry Head Coach 212-854- ec2979@columbia.edu
+
+52. Samantha Warren
+   Email: srw2150@columbia.edu
+   Username: srw2150
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Samantha Warren Associate Head Coach 212-854- srw2150@columbia.edu
+
+53. Alexander Canale
+   Email: adc2210@columbia.edu
+   Username: adc2210
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Alexander Canale Assistant Coach adc2210@columbia.edu
+
+54. Noah Axford
+   Email: na3117@columbia.edu
+   Username: na3117
+   Sports: Lacrosse
+   Title: Assistant Coach/Boatwright
+   Original line: Noah Axford Assistant Coach/Boatwright na3117@columbia.edu
+
+55. Maggie Gavin
+   Email: mld2168@columbia.edu
+   Username: mld2168
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Maggie Gavin Assistant Coach mld2168@columbia.edu
+
+56. Michael Casper
+   Email: columbiamsoccer@gmail.com
+   Username: columbiamsoccer
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Michael Casper Head Coach columbiamsoccer@gmail.com
+
+57. Kevin Valdovinos
+   Email: columbiamsoccer@gmail.com
+   Username: columbiamsoccer
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Kevin Valdovinos Assistant Coach 212-851- columbiamsoccer@gmail.com
+
+58. Tobias Esche
+   Email: columbiamsoccer@gmail.com
+   Username: columbiamsoccer
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Tobias Esche Assistant Coach 212-851- columbiamsoccer@gmail.com
+
+59. Andrew Fishman
+   Email: columbiamsoccer@gmail.com
+   Username: columbiamsoccer
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Andrew Fishman Assistant Coach 212-851- columbiamsoccer@gmail.com
+
+60. Tracey Bartholomew
+   Email: columbiawsoccer@gmail.com
+   Username: columbiawsoccer
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Tracey Bartholomew Head Coach 212-854- columbiawsoccer@gmail.com
+
+61. Amphone Keovongmanysar
+   Email: columbiawsoccer@gmail.com
+   Username: columbiawsoccer
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Amphone Keovongmanysar Associate Head Coach 212-851- columbiawsoccer@gmail.com
+
+62. Jack Abelson
+   Email: columbiawsoccer@gmail.com
+   Username: columbiawsoccer
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Jack Abelson Assistant Coach (212) 851- columbiawsoccer@gmail.com
+
+63. Jennifer Teague
+   Email: jt2839@columbia.edu
+   Username: jt2839
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jennifer Teague Head Coach 212-854- jt2839@columbia.edu
+
+64. Madison Maida
+   Email: mm6519@columbia.edu
+   Username: mm6519
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Madison Maida Assistant Coach 212-854- mm6519@columbia.edu
+
+65. Andrea Bombace
+   Email: Ab6007@columbia.edu
+   Username: Ab6007
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Andrea Bombace Assistant Coach 212-851- Ab6007@columbia.edu
+
+66. Chris Torrey
+   Email: cs3820@columbia.edu
+   Username: cs3820
+   Sports: Softball
+   Title: Head Coach
+   Original line: Chris Sachvie Kenneth W. Torrey Head Coach of Squash 212-854- cs3820@columbia.edu
+
+67. Nayelly Hernandez-Walker
+   Email: ndw2120@columbia.edu
+   Username: ndw2120
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nayelly Hernandez-Walker Assistant Coach ndw2120@columbia.edu
+
+68. Chris Fernandez
+   Email: cf2986@columbia.edu
+   Username: cf2986
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Chris Fernandez Assistant Coach cf2986@columbia.edu
+
+69. Chris Torrey
+   Email: cs3820@columbia.edu
+   Username: cs3820
+   Sports: Softball
+   Title: Head Coach
+   Original line: Chris Sachvie Kenneth W. Torrey Head Coach of Squash 212-854- cs3820@columbia.edu
+
+70. Nayelly Hernandez-Walker
+   Email: ndw2120@columbia.edu
+   Username: ndw2120
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nayelly Hernandez-Walker Assistant Coach ndw2120@columbia.edu
+
+71. Chris Fernandez
+   Email: cf2986@columbia.edu
+   Username: cf2986
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Chris Fernandez Assistant Coach cf2986@columbia.edu
+
+72. Jim Bolster
+   Email: jbb2@columbia.edu
+   Username: jbb2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jim Bolster Head Coach 212-854- jbb2@columbia.edu
+
+73. Scott Donie
+   Email: srd2158@columbia.edu
+   Username: srd2158
+   Sports: Softball
+   Title: Head Diving Coach
+   Original line: Scott Donie Head Diving Coach 212-854- srd2158@columbia.edu
+
+74. Gustavo Leal
+   Email: gsl2106@columbia.edu
+   Username: gsl2106
+   Sports: Softball
+   Title: Head Coach
+   Original line: Gustavo Leal Associate Head Coach 212-854- gsl2106@columbia.edu
+
+75. Derrick Butts
+   Email: djb2240@columbia.edu
+   Username: djb2240
+   Sports: Softball
+   Title: Assistant Diving Coach
+   Original line: Derrick Butts Assistant Diving Coach djb2240@columbia.edu
+
+76. Nathan Freeman
+   Email: nf2534@columbia.edu
+   Username: nf2534
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nathan Freeman Assistant Coach nf2534@columbia.edu
+
+77. Diana Caskey
+   Email: dbc3@columbia.edu
+   Username: dbc3
+   Sports: Softball
+   Title: Head Coach
+   Original line: Diana Caskey Head Coach 212-854- dbc3@columbia.edu
+
+78. Scott Donie
+   Email: srd2158@columbia.edu
+   Username: srd2158
+   Sports: Softball
+   Title: Head Diving Coach
+   Original line: Scott Donie Head Diving Coach 212-854- srd2158@columbia.edu
+
+79. Demerae Christianson
+   Email: dc3125@columbia.edu
+   Username: dc3125
+   Sports: Softball
+   Title: Head Coach
+   Original line: Demerae Christianson Associate Head Coach, Recruiting Coordinator dc3125@columbia.edu
+
+80. Peter Haas
+   Email: phh2119@columbia.edu
+   Username: phh2119
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Peter Haas Assistant Coach phh2119@columbia.edu
+
+81. Howard Endelman
+   Email: hme10@columbia.edu
+   Username: hme10
+   Sports: Softball
+   Title: Bidyut K. Goswami Head Coach of Men's Tennis and
+   Original line: Howard Endelman Bidyut K. Goswami Head Coach of Men's Tennis and Director of hme10@columbia.edu
+
+82. Marco Kroes
+   Email: hk3400@columbia.edu
+   Username: hk3400
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Marco Kroes Assistant Coach hk3400@columbia.edu
+
+83. Ismael Merino
+   Email: im2767@columbia.edu
+   Username: im2767
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ismael Merino Assistant Coach im2767@columbia.edu
+
+84. Ilene Weintraub
+   Email: ijw2@columbia.edu
+   Username: ijw2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Ilene Weintraub Head Coach 917-353- ijw2@columbia.edu
+
+85. Todd Weisse
+   Email: tw2648@columbia.edu
+   Username: tw2648
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Todd Weisse Assistant Coach tw2648@columbia.edu
+
+86. David Lado
+   Email: dml2222@columbia.edu
+   Username: dml2222
+   Sports: Track & Field
+   Title: Assistant Coach/Jumps and Sprints
+   Original line: David Lado Assistant Coach/Jumps and Sprints 212-854- dml2222@columbia.edu
+
+87. David Pickett
+   Email: dp3263@columbia.edu
+   Username: dp3263
+   Sports: Track & Field
+   Title: Assistant Coach/Sprints and Relays
+   Original line: David Pickett Assistant Coach/Sprints and Relays 212-854- dp3263@columbia.edu
+
+88. Pole Vault
+   Email: lj2654@columbia.edu
+   Username: lj2654
+   Sports: Track & Field
+   Title: Lawrence Johnson Assistant Coach/Multi Events &
+   Original line: Lawrence Johnson Assistant Coach/Multi Events & Pole Vault lj2654@columbia.edu
+
+89. Max Lydum
+   Email: ml5263@columbia.edu
+   Username: ml5263
+   Sports: Track & Field
+   Title: Assistant Coach/Throws
+   Original line: Max Lydum Assistant Coach/Throws ml5263@columbia.edu
+
+90. Patric Santiago
+   Email: ps3309@columbia.edu
+   Username: ps3309
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Patric Santiago Head Volleyball Coach 212-854- ps3309@columbia.edu
+
+91. Angel Agu
+   Email: aa5625@columbia.edu
+   Username: aa5625
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Angel Agu Assistant Coach 212-854- aa5625@columbia.edu
+
+92. Joshua Ayzenberg
+   Email: ja3915@columbia.edu
+   Username: ja3915
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Joshua Ayzenberg Assistant Coach ja3915@columbia.edu
+
+93. Torri Henry
+   Email: th3214@columbia.edu
+   Username: th3214
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Torri Henry Assistant Coach th3214@columbia.edu
+
+94. Donny Pritzlaff
+   Email: dap2213@columbia.edu
+   Username: dap2213
+   Sports: Volleyball
+   Title: Andrew F. Barth Head Coach
+   Original line: Donny Pritzlaff Andrew F. Barth Head Coach of Wrestling dap2213@columbia.edu
+
+95. Sebastian Rivera
+   Email: sr4274@columbia.edu
+   Username: sr4274
+   Sports: Volleyball
+   Title: David and Michael Barry Assistant Coach
+   Original line: Sebastian Rivera David and Michael Barry Assistant Coach of Wrestling sr4274@columbia.edu
+
+96. Jeff Buxton
+   Email: jb5158@columbia.edu
+   Username: jb5158
+   Sports: Volleyball
+   Title: John Huemer Assistant Coach
+   Original line: Jeff Buxton John Huemer Assistant Coach of Wrestling jb5158@columbia.edu
+
+97. Megan Griffith
+   Email: 
+   Username: megan.griffith
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Megan Griffith Head Coach 212-854-
+
+98. Sean Smith
+   Email: ss7077@columbia.edu
+   Username: ss7077
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach ss7077@columbia.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Derek Davis Head Coach 212- 854- dd2148@columbia.edu
+• Savannah Ward Assistant Coach savannah.ward@columbia.edu
+• Brett Boretti Head Coach 212-854- bmb2117@columbia.edu
+• Tom Carty Associate Head Coach/Pitching Coach tcc2140@columbia.edu
+• David Vandercook Assistant Coach/Recruiting Coordinator drv2108@columbia.edu
+• Canyon Kyle Assistant Coach jck2187@columbia.edu
+• Kevin Hovde Head Coach culionsmbb@columbia.edu
+• Mark McGonigal Assistant Coach mm6870@columbia.edu
+• Shasha Brown Assistant Coach sb3253@columbia.edu
+• Matt Elkin Assistant Coach me2967@columbia.edu
+• Tyler Cordell Associate Head Coach 212-854- tc2832@columbia.edu
+• Allie Bassetti Assistant Coach 212-854- ab5506@columbia.edu
+• Kizmahr Grell Assistant Coach 212-854- kg3245@columbia.edu
+• Michael Aufrichtig Head Coach 212-854- ma3110@columbia.edu
+• Seoung Woo Lee Assistant Coach (Foil/Epee) swl2119@columbia.edu
+• Gidon Retzkin Assistant Coach (Foil) gr2639@columbia.edu
+• Sara Vicenzin Assistant Coach (Sabre) sv2826@columbia.edu
+• Guillermo Madrigal Sardinas Assistant Coach (Epee) gm3215@columbia.edu
+• Niki Miller Head Coach 212-851- nm3607@columbia.edu
+• Jack Gallucci Assistant Coach jg4946@columbia.edu
+• Hayley Hayden Assistant Coach hfh2120@columbia.edu
+• Jon Poppe Patricia & Shepard Alexander Head Coach of Football 212-854- football@columbia.edu
+• Justin Stovall Defensive Coordinator/Associate Head Coach 212-854- js4718@columbia.edu
+• Seitu Smith Offensive Coordinator/Quarterbacks Coach ss7190@columbia.edu
+• Chris Batti Tight Ends Coach cb3961@columbia.edu
+• AJ Gallagher Wide Receivers Coach ag4939@columbia.edu
+• Andrew Kukesh Defensive Backs Coach/Defensive Pass Game Coordinator 212-854- ak4238@columbia.edu
+• Garrett McLaughlin Defensive Line Coach/Special Teams Coordinator gm3161@columbia.edu
+• Gregory Skjold Offensive Line Coach gs2999@columbia.edu
+• Kenneth Tinsley Running Backs Coach kt2997@columbia.edu
+• Justin Woodley Linebackers Coach jw3572@columbia.edu
+• Rich Mueller Head Coach 212-854- rkm2107@columbia.edu
+• Ben Peluso Assistant Coach 212-854- bj2359@columbia.edu
+• Christopher Arkin Assistant Coach caa2113@columbia.edu
+• Amy Weeks Head Coach 212-854- aew2169@columbia.edu
+• Katie Rudolph Assistant Coach 212-854- kr3132@columbia.edu
+• Christine Shao Assistant Coach cls2253@columbia.edu
+• Anne Murray Head Lacrosse Coach 212-854- am5768@columbia.edu
+• Shannon Nee Associate Head Coach 212-854- sn2978@columbia.edu
+• Jourdan Roemer Assistant Coach jr4728@columbia.edu
+• Maggie Brown Assistant Coach meb2370@columbia.edu
+• Andrew Hess Assistant Head Coach 212-854- ah3475@columbia.edu
+• Laurel Korholz Assistant Coach lvk2109@columbia.edu
+• Noah Axford Assistant Coach/Boatwright na3117@columbia.edu
+• Maggie Gavin Assistant Coach mld2168@columbia.edu
+• Nich Lee Parker Head Coach 212-854- nal2134@columbia.edu
+• Thomas Wenk Assistant Coach 513-417- tw2937@columbia.edu
+• Noah Axford Assistant Coach/Boatwright na3117@columbia.edu
+• Maggie Gavin Assistant Coach mld2168@columbia.edu
+• Evan Olson Assistant Coach ewo2109@columbia.edu
+• Emerson Curry Head Coach 212-854- ec2979@columbia.edu
+• Samantha Warren Associate Head Coach 212-854- srw2150@columbia.edu
+• Alexander Canale Assistant Coach adc2210@columbia.edu
+• Noah Axford Assistant Coach/Boatwright na3117@columbia.edu
+• Maggie Gavin Assistant Coach mld2168@columbia.edu
+• Michael Casper Head Coach columbiamsoccer@gmail.com
+• Kevin Valdovinos Assistant Coach 212-851- columbiamsoccer@gmail.com
+• Tobias Esche Assistant Coach 212-851- columbiamsoccer@gmail.com
+• Andrew Fishman Assistant Coach 212-851- columbiamsoccer@gmail.com
+• Tracey Bartholomew Head Coach 212-854- columbiawsoccer@gmail.com
+• Amphone Keovongmanysar Associate Head Coach 212-851- columbiawsoccer@gmail.com
+• Jack Abelson Assistant Coach (212) 851- columbiawsoccer@gmail.com
+• Jennifer Teague Head Coach 212-854- jt2839@columbia.edu
+• Madison Maida Assistant Coach 212-854- mm6519@columbia.edu
+• Andrea Bombace Assistant Coach 212-851- Ab6007@columbia.edu
+• Chris Sachvie Kenneth W. Torrey Head Coach of Squash 212-854- cs3820@columbia.edu
+• Nayelly Hernandez-Walker Assistant Coach ndw2120@columbia.edu
+• Chris Fernandez Assistant Coach cf2986@columbia.edu
+• Chris Sachvie Kenneth W. Torrey Head Coach of Squash 212-854- cs3820@columbia.edu
+• Nayelly Hernandez-Walker Assistant Coach ndw2120@columbia.edu
+• Chris Fernandez Assistant Coach cf2986@columbia.edu
+• Jim Bolster Head Coach 212-854- jbb2@columbia.edu
+• Scott Donie Head Diving Coach 212-854- srd2158@columbia.edu
+• Gustavo Leal Associate Head Coach 212-854- gsl2106@columbia.edu
+• Derrick Butts Assistant Diving Coach djb2240@columbia.edu
+• Nathan Freeman Assistant Coach nf2534@columbia.edu
+• Diana Caskey Head Coach 212-854- dbc3@columbia.edu
+• Scott Donie Head Diving Coach 212-854- srd2158@columbia.edu
+• Demerae Christianson Associate Head Coach, Recruiting Coordinator dc3125@columbia.edu
+• Peter Haas Assistant Coach phh2119@columbia.edu
+• Howard Endelman Bidyut K. Goswami Head Coach of Men's Tennis and Director of hme10@columbia.edu
+• Marco Kroes Assistant Coach hk3400@columbia.edu
+• Ismael Merino Assistant Coach im2767@columbia.edu
+• Ilene Weintraub Head Coach 917-353- ijw2@columbia.edu
+• Todd Weisse Assistant Coach tw2648@columbia.edu
+• David Lado Assistant Coach/Jumps and Sprints 212-854- dml2222@columbia.edu
+• David Pickett Assistant Coach/Sprints and Relays 212-854- dp3263@columbia.edu
+• Lawrence Johnson Assistant Coach/Multi Events & Pole Vault lj2654@columbia.edu
+• Max Lydum Assistant Coach/Throws ml5263@columbia.edu
+• Patric Santiago Head Volleyball Coach 212-854- ps3309@columbia.edu
+• Angel Agu Assistant Coach 212-854- aa5625@columbia.edu
+• Joshua Ayzenberg Assistant Coach ja3915@columbia.edu
+• Torri Henry Assistant Coach th3214@columbia.edu
+• Donny Pritzlaff Andrew F. Barth Head Coach of Wrestling dap2213@columbia.edu
+• Sebastian Rivera David and Michael Barry Assistant Coach of Wrestling sr4274@columbia.edu
+• Jeff Buxton John Huemer Assistant Coach of Wrestling jb5158@columbia.edu

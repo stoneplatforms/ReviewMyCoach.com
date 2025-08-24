@@ -1,0 +1,567 @@
+COACH ENTRIES FOUND - 2025-08-24 17:51:58
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: St. Lawrence University
+Organization: St. Lawrence University Athletics
+State: New York
+
+Total coaches found: 70
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jared Hatz
+   Email: jhatz@stlawu.edu
+   Username: jhatz
+   Sports: Strength & Conditioning
+   Title: Head Strength and Conditioning Coach
+   Original line: Jared Hatz Head Strength and Conditioning Coach jhatz@stlawu.edu (315) 229-
+
+2. Willi Steinrotter
+   Email: wsteinrotter@stlawu.edu
+   Username: wsteinrotter
+   Sports: Soccer
+   Title: Head Alpine Skiing Coach
+   Original line: Willi Steinrotter Head Alpine Skiing Coach wsteinrotter@stlawu.edu (315) 229-
+
+3. Helen Hume
+   Email: hhume@stlawu.edu
+   Username: hhume
+   Sports: Soccer
+   Title: Assistant Alpine Skiing Coach
+   Original line: Helen Hume Assistant Alpine Skiing Coach hhume@stlawu.edu
+
+4. Kenny Collins
+   Email: kccollins@stlawu.edu
+   Username: kccollins
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Kenny Collins Head Baseball Coach kccollins@stlawu.edu (315) 229-
+
+5. Eamonn Andre
+   Email: eandre@stlawu.edu
+   Username: eandre
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Eamonn Andre Assistant Baseball Coach eandre@stlawu.edu (315)-229-
+
+6. Chris Downs
+   Email: cdowns@stlawu.edu
+   Username: cdowns
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Chris Downs Head Men's Basketball Coach cdowns@stlawu.edu (315) 229-
+
+7. Kaleb Cook
+   Email: kcook@stlawu.edu
+   Username: kcook
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Kaleb Cook Assistant Men's Basketball Coach kcook@stlawu.edu
+
+8. Dan Roiger
+   Email: droiger@stlawu.edu
+   Username: droiger
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Dan Roiger Head Women's Basketball Coach droiger@stlawu.edu (315) 229-
+
+9. Erin Kumler
+   Email: ekumler@stlawu.edu
+   Username: ekumler
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Erin Kumler Assistant Women's Basketball Coach ekumler@stlawu.edu
+
+10. John Newman
+   Email: jnewman@stlawu.edu
+   Username: jnewman
+   Sports: Baseball
+   Title: Head Men's Cross Country and Track and Field Coach
+   Original line: John Newman Head Men's Cross Country and Track and Field Coach jnewman@stlawu.edu (315) 229-
+
+11. Christopher O'Donnell
+   Email: codonnell@stlawu.edu
+   Username: codonnell
+   Sports: Baseball
+   Title: Assistant Cross Country and Track and Field Coach
+   Original line: Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+
+12. Christopher O'Donnell
+   Email: codonnell@stlawu.edu
+   Username: codonnell
+   Sports: Baseball
+   Title: Assistant Cross Country and Track and Field Coach
+   Original line: Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+
+13. Kadin deRuijter
+   Email: kderuijter@stlawu.edu
+   Username: kderuijter
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Kadin deRuijter Esports Coordinator, Head Coach kderuijter@stlawu.edu (315) 229-
+
+14. Eric Shinnick
+   Email: eshinnick@stlawu.edu
+   Username: eshinnick
+   Sports: Baseball
+   Title: League of Legends Coach
+   Original line: Eric Shinnick League of Legends Coach eshinnick@stlawu.edu (315) 229-
+
+15. Oliver Bikhazi-Green
+   Email: obikhazigreen@stlawu.edu
+   Username: obikhazigreen
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Oliver Bikhazi-Green Assistant Field Hockey Coach obikhazigreen@stlawu.edu
+
+16. Dan Munn
+   Email: dpuckhaber@stlawu.edu
+   Username: dpuckhaber
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Dan Puckhaber Stephen P. Munn '64 Head Football Coach dpuckhaber@stlawu.edu (315) 229-
+
+17. Daniel Lawther
+   Email: dlawther@stlawu.edu
+   Username: dlawther
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Daniel Lawther Assistant Football Coach, Quarterbacks, Offensive dlawther@stlawu.edu
+
+18. Trey Everson
+   Email: teverson@stlawu.edu
+   Username: teverson
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Trey Everson Assistant Football Coach, Cornerbacks, Defensive teverson@stlawu.edu
+
+19. Josh Larson
+   Email: jmlarson@stlawu.edu
+   Username: jmlarson
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Josh Larson Assistant Football Coach, Statistics, Defensive Assistant jmlarson@stlawu.edu
+
+20. Teaghin Andre
+   Email: tandre@stlawu.edu
+   Username: tandre
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Teaghin Andre Assistant Football Coach, Offensive Assistant tandre@stlawu.edu
+
+21. Dave Clausen
+   Email: dclausen@stlawu.edu
+   Username: dclausen
+   Sports: Football
+   Title: Mary A. Lawrence Head Coach for Men’s
+   Original line: Dave Clausen Mary A. Lawrence Head Coach for Men’s and Women’s dclausen@stlawu.edu
+
+22. Maren Aikens
+   Email: meaikens@stlawu.edu
+   Username: meaikens
+   Sports: Football
+   Title: Assistant Golf Coach
+   Original line: Maren Aikens Assistant Golf Coach meaikens@stlawu.edu
+
+23. Brent Charles
+   Email: bbrekke@stlawu.edu
+   Username: bbrekke
+   Sports: Football
+   Title: Appleton II Head Men's Hockey Coach
+   Original line: Brent Brekke Charles W. Appleton II Head Men's Hockey Coach bbrekke@stlawu.edu (315) 229-
+
+24. Tommy Hill
+   Email: tmhill@stlawu.edu
+   Username: tmhill
+   Sports: Football
+   Title: Associate Head Men's Hockey Coach
+   Original line: Tommy Hill Associate Head Men's Hockey Coach tmhill@stlawu.edu (315) 229-
+
+25. Chris Wells
+   Email: cwells@stlawu.edu
+   Username: cwells
+   Sports: Football
+   Title: Head Women's Hockey Coach
+   Original line: Chris Wells Head Women's Hockey Coach cwells@stlawu.edu (315) 229-
+
+26. Ted Wisner
+   Email: twisner@stlawu.edu
+   Username: twisner
+   Sports: Football
+   Title: Associate Head Women's Hockey Coach
+   Original line: Ted Wisner Associate Head Women's Hockey Coach twisner@stlawu.edu (315) 229-
+
+27. Brittney Gout
+   Email: bgout@stlawu.edu
+   Username: bgout
+   Sports: Football
+   Title: Instructor / Assistant Women's Hockey Coach
+   Original line: Brittney Gout Instructor / Assistant Women's Hockey Coach bgout@stlawu.edu (315) 229-
+
+28. John O'Connor
+   Email: jpoconnor@stlawu.edu
+   Username: jpoconnor
+   Sports: Football
+   Title: Assistant Men's Lacrosse Coach
+   Original line: John O'Connor Assistant Men's Lacrosse Coach jpoconnor@stlawu.edu
+
+29. Tom Ryan
+   Email: tryan@stlawu.edu
+   Username: tryan
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Tom Ryan Head Women's Lacrosse Coach tryan@stlawu.edu (315) 229-
+
+30. Laura Wells
+   Email: lcwells@stlawu.edu
+   Username: lcwells
+   Sports: Football
+   Title: Women's Lacrosse Assistant Coach
+   Original line: Laura Wells Women's Lacrosse Assistant Coach lcwells@stlawu.edu
+
+31. Ethan Townsend
+   Email: etownsend@stlawu.edu
+   Username: etownsend
+   Sports: Football
+   Title: Head Men's and Women's Nordic Skiing Coach
+   Original line: Ethan Townsend Head Men's and Women's Nordic Skiing Coach etownsend@stlawu.edu (315) 229-
+
+32. Mary Drueding
+   Email: mdrueding@stlawu.edu
+   Username: mdrueding
+   Sports: Football
+   Title: Head Riding Coach
+   Original line: Mary Drueding Head Riding Coach mdrueding@stlawu.edu (315) 229-
+
+33. Cate Wagner
+   Email: cwagner@stlawu.edu
+   Username: cwagner
+   Sports: Football
+   Title: Assistant Riding Coach
+   Original line: Cate Wagner Assistant Riding Coach cwagner@stlawu.edu (315) 229-
+
+34. Nick Hughes
+   Email: nhughes@stlawu.edu
+   Username: nhughes
+   Sports: Football
+   Title: Head Women's Rowing Coach
+   Original line: Nick Hughes Director of Rowing, Head Women's Rowing Coach nhughes@stlawu.edu (315) 229-
+
+35. George Repicky
+   Email: grepicky@stlawu.edu
+   Username: grepicky
+   Sports: Football
+   Title: Head Men's Rowing Coach
+   Original line: George Repicky Associate Director of Rowing, Head Men's Rowing Coach grepicky@stlawu.edu (315) 229-
+
+36. Mike Toshack
+   Email: mtoshack@stlawu.edu
+   Username: mtoshack
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Mike Toshack Head Men's Soccer Coach mtoshack@stlawu.edu (315) 229-
+
+37. Nate Hanna
+   Email: nhanna@stlawu.edu
+   Username: nhanna
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Nate Hanna Assistant Men's Soccer Coach nhanna@stlawu.edu
+
+38. Eric Shinnick
+   Email: eshinnick@stlawu.edu
+   Username: eshinnick
+   Sports: Football
+   Title: League of Legends Coach
+   Original line: Eric Shinnick League of Legends Coach eshinnick@stlawu.edu (315) 229-
+
+39. Dima Kaliakin
+   Email: dkaliakin@stlawu.edu
+   Username: dkaliakin
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Dima Kaliakin Head Women's Soccer Coach dkaliakin@stlawu.edu
+
+40. Simone Neivel
+   Email: sneivel@stlawu.edu
+   Username: sneivel
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Simone Neivel Assistant Women's Soccer Coach sneivel@stlawu.edu
+
+41. Willi Steinrotter
+   Email: wsteinrotter@stlawu.edu
+   Username: wsteinrotter
+   Sports: Football
+   Title: Assistant Soccer Coach
+   Original line: Willi Steinrotter Assistant Soccer Coach wsteinrotter@stlawu.edu (315) 229-
+
+42. Zola Braswell
+   Email: zbraswell@stlawu.edu
+   Username: zbraswell
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Zola Braswell Assistant Softball Coach zbraswell@stlawu.edu
+
+43. David Morrish
+   Email: dmorrish@stlawu.edu
+   Username: dmorrish
+   Sports: Softball
+   Title: Head Men's and Women's Squash Coach
+   Original line: David Morrish Head Men's and Women's Squash Coach dmorrish@stlawu.edu (315) 229-
+
+44. Hannah Guthrie
+   Email: hguthrie@stlawu.edu
+   Username: hguthrie
+   Sports: Softball
+   Title: Assistant Men's and Women's Squash Coach
+   Original line: Hannah Guthrie Assistant Men's and Women's Squash Coach hguthrie@stlawu.edu
+
+45. Rachel Curtiss
+   Email: rcurtiss@stlawu.edu
+   Username: rcurtiss
+   Sports: Swimming
+   Title: s Swimming Coach
+   Original line: Rachel Curtiss Head Men's and Women's Swimming Coach, Aquatics rcurtiss@stlawu.edu (315) 229-
+
+46. Noah Murphy
+   Email: nmurphy@stlawu.edu
+   Username: nmurphy
+   Sports: Swimming
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Noah Murphy Head Men's and Women's Tennis Coach nmurphy@stlawu.edu (315) 229-
+
+47. Ezenna Emuka
+   Email: eemuka@stlawu.edu
+   Username: eemuka
+   Sports: Swimming
+   Title: Assistant Men's and Women's Tennis Coach
+   Original line: Ezenna Emuka Assistant Men's and Women's Tennis Coach eemuka@stlawu.edu
+
+48. Noah Murphy
+   Email: nmurphy@stlawu.edu
+   Username: nmurphy
+   Sports: Swimming
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Noah Murphy Head Men's and Women's Tennis Coach nmurphy@stlawu.edu (315) 229-
+
+49. Ezenna Emuka
+   Email: eemuka@stlawu.edu
+   Username: eemuka
+   Sports: Swimming
+   Title: Assistant Men's and Women's Tennis Coach
+   Original line: Ezenna Emuka Assistant Men's and Women's Tennis Coach eemuka@stlawu.edu
+
+50. John Newman
+   Email: jnewman@stlawu.edu
+   Username: jnewman
+   Sports: Swimming
+   Title: Head Men's Cross Country and Track and Field Coach
+   Original line: John Newman Head Men's Cross Country and Track and Field Coach jnewman@stlawu.edu (315) 229-
+
+51. Erik Geier
+   Email: egeier@stlawu.edu
+   Username: egeier
+   Sports: Swimming
+   Title: Assistant Track and Field Coach
+   Original line: Erik Geier Assistant Track and Field Coach egeier@stlawu.edu
+
+52. Nancy Putman
+   Email: naputman@stlawu.edu
+   Username: naputman
+   Sports: Swimming
+   Title: Assistant Track and Field Coach
+   Original line: Nancy Putman Assistant Track and Field Coach naputman@stlawu.edu
+
+53. Christopher O'Donnell
+   Email: codonnell@stlawu.edu
+   Username: codonnell
+   Sports: Swimming
+   Title: Assistant Cross Country and Track and Field Coach
+   Original line: Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+
+54. John Newman
+   Email: jnewman@stlawu.edu
+   Username: jnewman
+   Sports: Swimming
+   Title: Head Men's Cross Country and Track and Field Coach
+   Original line: John Newman Head Men's Cross Country and Track and Field Coach jnewman@stlawu.edu (315) 229-
+
+55. Erik Geier
+   Email: egeier@stlawu.edu
+   Username: egeier
+   Sports: Swimming
+   Title: Assistant Track and Field Coach
+   Original line: Erik Geier Assistant Track and Field Coach egeier@stlawu.edu
+
+56. Nancy Putman
+   Email: naputman@stlawu.edu
+   Username: naputman
+   Sports: Swimming
+   Title: Assistant Track and Field Coach
+   Original line: Nancy Putman Assistant Track and Field Coach naputman@stlawu.edu
+
+57. Christopher O'Donnell
+   Email: codonnell@stlawu.edu
+   Username: codonnell
+   Sports: Swimming
+   Title: Assistant Cross Country and Track and Field Coach
+   Original line: Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+
+58. Shelly Roiger
+   Email: sroiger@stlawu.edu
+   Username: sroiger
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Shelly Roiger Head Volleyball Coach sroiger@stlawu.edu (315) 229-
+
+59. Franco Bari
+   Email: athleticdirector@stlawu.edu
+   Username: athleticdirector
+   Sports: Track & Field, Hockey
+   Title: Programs/Head Field Hockey Coach
+   Original line: Programs/Head Field Hockey Coach 5780 athleticdirector@stlawu.edu
+
+60. Fran Grembowicz
+   Email: fgrembowicz@stlawu.edu
+   Username: fgrembowicz
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Men's Lacrosse Coach 5786 fgrembowicz@stlawu.edu
+
+61. Emily Miller
+   Email: elmiller@stlawu.edu
+   Username: elmiller
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 5415 elmiller@stlawu.edu
+
+62. Mark Bickelhaupt
+   Email: 
+   Username: mark.bickelhaupt
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Mark Bickelhaupt Assistant Men's Basketball Coach
+
+63.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 5813
+
+64. Kyle Flanagan
+   Email: 
+   Username: kyle.flanagan
+   Sports: Hockey
+   Title: s Hockey Coach
+   Original line: Kyle Flanagan Assistant Men's Hockey Coach
+
+65.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 5739
+
+66. Mare Instructor
+   Email: mmacdougall@stlawu.edu
+   Username: mmacdougall
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Peter Koch Assistant Men's Lacrosse Coach mmacdougall@stlawu.edu
+
+67. Kathryn Brown
+   Email: 
+   Username: kathryn.brown
+   Sports: Rowing
+   Title: s Rowing Coach
+   Original line: Kathryn Brown Assistant Men's & Women's Rowing Coach
+
+68. To Announced
+   Email: 
+   Username: to.announced
+   Sports: Softball
+   Title: To Be Announced Head Softball Coach
+   Original line: To Be Announced Head Softball Coach
+
+69. Carrie Robinson
+   Email: 
+   Username: carrie.robinson
+   Sports: Swimming
+   Title: Carrie Robinson Assistant Swimming and Diving Coach
+   Original line: Carrie Robinson Assistant Swimming and Diving Coach
+
+70. Cheyenne Young
+   Email: 
+   Username: cheyenne.young
+   Sports: Volleyball
+   Title: Cheyenne Young Assistant Volleyball Coach
+   Original line: Cheyenne Young Assistant Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jared Hatz Head Strength and Conditioning Coach jhatz@stlawu.edu (315) 229-
+• Willi Steinrotter Head Alpine Skiing Coach wsteinrotter@stlawu.edu (315) 229-
+• Helen Hume Assistant Alpine Skiing Coach hhume@stlawu.edu
+• Kenny Collins Head Baseball Coach kccollins@stlawu.edu (315) 229-
+• Eamonn Andre Assistant Baseball Coach eandre@stlawu.edu (315)-229-
+• Chris Downs Head Men's Basketball Coach cdowns@stlawu.edu (315) 229-
+• Kaleb Cook Assistant Men's Basketball Coach kcook@stlawu.edu
+• Dan Roiger Head Women's Basketball Coach droiger@stlawu.edu (315) 229-
+• Erin Kumler Assistant Women's Basketball Coach ekumler@stlawu.edu
+• John Newman Head Men's Cross Country and Track and Field Coach jnewman@stlawu.edu (315) 229-
+• Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+• Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+• Kadin deRuijter Esports Coordinator, Head Coach kderuijter@stlawu.edu (315) 229-
+• Eric Shinnick League of Legends Coach eshinnick@stlawu.edu (315) 229-
+• Oliver Bikhazi-Green Assistant Field Hockey Coach obikhazigreen@stlawu.edu
+• Dan Puckhaber Stephen P. Munn '64 Head Football Coach dpuckhaber@stlawu.edu (315) 229-
+• Daniel Lawther Assistant Football Coach, Quarterbacks, Offensive dlawther@stlawu.edu
+• Trey Everson Assistant Football Coach, Cornerbacks, Defensive teverson@stlawu.edu
+• Josh Larson Assistant Football Coach, Statistics, Defensive Assistant jmlarson@stlawu.edu
+• Teaghin Andre Assistant Football Coach, Offensive Assistant tandre@stlawu.edu
+• Dave Clausen Mary A. Lawrence Head Coach for Men’s and Women’s dclausen@stlawu.edu
+• Maren Aikens Assistant Golf Coach meaikens@stlawu.edu
+• Brent Brekke Charles W. Appleton II Head Men's Hockey Coach bbrekke@stlawu.edu (315) 229-
+• Tommy Hill Associate Head Men's Hockey Coach tmhill@stlawu.edu (315) 229-
+• Chris Wells Head Women's Hockey Coach cwells@stlawu.edu (315) 229-
+• Ted Wisner Associate Head Women's Hockey Coach twisner@stlawu.edu (315) 229-
+• Brittney Gout Instructor / Assistant Women's Hockey Coach bgout@stlawu.edu (315) 229-
+• John O'Connor Assistant Men's Lacrosse Coach jpoconnor@stlawu.edu
+• Tom Ryan Head Women's Lacrosse Coach tryan@stlawu.edu (315) 229-
+• Laura Wells Women's Lacrosse Assistant Coach lcwells@stlawu.edu
+• Ethan Townsend Head Men's and Women's Nordic Skiing Coach etownsend@stlawu.edu (315) 229-
+• Mary Drueding Head Riding Coach mdrueding@stlawu.edu (315) 229-
+• Cate Wagner Assistant Riding Coach cwagner@stlawu.edu (315) 229-
+• Nick Hughes Director of Rowing, Head Women's Rowing Coach nhughes@stlawu.edu (315) 229-
+• George Repicky Associate Director of Rowing, Head Men's Rowing Coach grepicky@stlawu.edu (315) 229-
+• Mike Toshack Head Men's Soccer Coach mtoshack@stlawu.edu (315) 229-
+• Nate Hanna Assistant Men's Soccer Coach nhanna@stlawu.edu
+• Eric Shinnick League of Legends Coach eshinnick@stlawu.edu (315) 229-
+• Dima Kaliakin Head Women's Soccer Coach dkaliakin@stlawu.edu
+• Simone Neivel Assistant Women's Soccer Coach sneivel@stlawu.edu
+• Willi Steinrotter Assistant Soccer Coach wsteinrotter@stlawu.edu (315) 229-
+• Zola Braswell Assistant Softball Coach zbraswell@stlawu.edu
+• David Morrish Head Men's and Women's Squash Coach dmorrish@stlawu.edu (315) 229-
+• Hannah Guthrie Assistant Men's and Women's Squash Coach hguthrie@stlawu.edu
+• Rachel Curtiss Head Men's and Women's Swimming Coach, Aquatics rcurtiss@stlawu.edu (315) 229-
+• Noah Murphy Head Men's and Women's Tennis Coach nmurphy@stlawu.edu (315) 229-
+• Ezenna Emuka Assistant Men's and Women's Tennis Coach eemuka@stlawu.edu
+• Noah Murphy Head Men's and Women's Tennis Coach nmurphy@stlawu.edu (315) 229-
+• Ezenna Emuka Assistant Men's and Women's Tennis Coach eemuka@stlawu.edu
+• John Newman Head Men's Cross Country and Track and Field Coach jnewman@stlawu.edu (315) 229-
+• Erik Geier Assistant Track and Field Coach egeier@stlawu.edu
+• Nancy Putman Assistant Track and Field Coach naputman@stlawu.edu
+• Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+• John Newman Head Men's Cross Country and Track and Field Coach jnewman@stlawu.edu (315) 229-
+• Erik Geier Assistant Track and Field Coach egeier@stlawu.edu
+• Nancy Putman Assistant Track and Field Coach naputman@stlawu.edu
+• Christopher O'Donnell Assistant Cross Country and Track and Field Coach codonnell@stlawu.edu
+• Shelly Roiger Head Volleyball Coach sroiger@stlawu.edu (315) 229-

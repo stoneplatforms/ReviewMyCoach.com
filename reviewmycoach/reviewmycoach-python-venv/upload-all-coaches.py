@@ -67,7 +67,8 @@ def detect_pdf_info(path, text_content):
         'university': '',
         'organization': '',
         'location': '',
-        'source': ''
+        'source': '',
+        'state': ''
     }
     
     # Analyze filename
@@ -89,6 +90,15 @@ def detect_pdf_info(path, text_content):
         pdf_info['location'] = 'Piscataway, New Jersey'
         pdf_info['source'] = 'Rutgers University Athletics Staff Directory'
     
+    # Infer state from folder path
+    lowered_path = path.lower()
+    if '/pdfs/ny' in lowered_path or '\\pdfs\\ny' in lowered_path:
+        pdf_info['state'] = 'New York'
+    elif '/pdfs/nj' in lowered_path or '\\pdfs\\nj' in lowered_path:
+        pdf_info['state'] = 'New Jersey'
+    elif '/pdfs/az' in lowered_path or '\\pdfs\\az' in lowered_path:
+        pdf_info['state'] = 'Arizona'
+
     # Analyze content for additional context
     content_lower = text_content.lower()
     if 'bryant university' in content_lower:
@@ -107,6 +117,19 @@ def detect_pdf_info(path, text_content):
             pdf_info['organization'] = 'Rutgers University Athletics'
             pdf_info['location'] = 'Piscataway, New Jersey'
     
+    # Generic university detection from prominent lines
+    if not pdf_info['university']:
+        # Look for lines with University/College/Academy/Institute/School early in the doc
+        lines = [ln.strip() for ln in text_content.splitlines() if ln and len(ln.strip()) > 2]
+        candidates = []
+        for ln in lines[:200]:
+            if re.search(r"\b(University|College|Academy|Institute|School)\b", ln, flags=re.IGNORECASE):
+                # Avoid overly generic headers
+                if not re.search(r"(?i)staff|directory|athletics", ln):
+                    candidates.append(ln)
+        if candidates:
+            # Prefer the shortest reasonable candidate (less clutter)
+            pdf_info['university'] = min(candidates, key=lambda s: len(s))
     return pdf_info
 
 def infer_org_from_filename(path: str):
@@ -474,8 +497,26 @@ def parse_pdf(path, output_txt=None):
             last_name  = tokens[1] if len(tokens) > 1 else ""
             first_name, last_name = sanitize_name(first_name, last_name)
         if not first_name and not last_name:
-            df_first, df_last = derive_name_from_email(email)
-            first_name, last_name = sanitize_name(df_first, df_last)
+            # Try to recover name from up to 3 previous lines if they look like a standalone name
+            recovered_first = ""
+            recovered_last = ""
+            for back in range(1, 4):
+                if i - back < 0:
+                    break
+                prev = (lines[i - back] or "").strip()
+                if not prev or '@' in prev.lower() or 'coach' in prev.lower():
+                    continue
+                m_name = re.match(r"^([A-Z][A-Za-z’'\-]+)\s+([A-Z][A-Za-z’'\-]+)(?:\s+[A-Z][A-Za-z’'\-]+)?$", prev)
+                if m_name:
+                    recovered_first = m_name.group(1)
+                    recovered_last = m_name.group(2)
+                    break
+            if recovered_first or recovered_last:
+                first_name, last_name = sanitize_name(recovered_first, recovered_last)
+            else:
+                # Fallback to deriving from email
+                df_first, df_last = derive_name_from_email(email)
+                first_name, last_name = sanitize_name(df_first, df_last)
         # Heuristic: if title segment looks like "<Last> Coach", use that as last name
         if (not last_name) and (s_title or name_part):
             title_source = (s_title or name_part or "").strip()
@@ -502,6 +543,14 @@ def parse_pdf(path, output_txt=None):
             m_ln = re.match(r"^([A-Za-z][A-Za-z’'\-]+)\s+Coach\b", title_text.strip(), flags=re.IGNORECASE)
             if m_ln:
                 last_name = m_ln.group(1)
+                if not first_name:
+                    df_first2, df_last2 = derive_name_from_email(email)
+                    # Prefer the email-derived part that isn't the same as last_name
+                    if df_first2 and (not df_last2 or df_last2.lower() == last_name.lower()):
+                        first_name = df_first2
+                    elif df_last2 and df_last2.lower() != last_name.lower():
+                        first_name = df_last2
+                first_name, last_name = sanitize_name(first_name, last_name)
         title_text = normalize_title(title_text, name_part)
         title_text = strip_name_from_title(title_text, first_name, last_name)
         # Strip a lone surname before 'Coach' if it appears in the username or email-derived tokens
@@ -595,7 +644,22 @@ def parse_pdf(path, output_txt=None):
                 first_name = name_tokens[0] if name_tokens else ""
                 last_name = " ".join(name_tokens[1:]) if len(name_tokens) > 1 else ""
                 first_name, last_name = sanitize_name(first_name, last_name)
-                
+                # If name still missing, try deriving from email
+                if not first_name and not last_name and email:
+                    df_first_ml, df_last_ml = derive_name_from_email(email)
+                    first_name, last_name = sanitize_name(df_first_ml, df_last_ml)
+                # If still missing last name and title looks like '<Last> Coach', set last and derive first from email
+                if (not last_name) and coach_title:
+                    m_last_ml = re.match(r"^([A-Za-z][A-Za-z’'\-]+)\s+Coach\b", coach_title.strip(), flags=re.IGNORECASE)
+                    if m_last_ml:
+                        last_name = m_last_ml.group(1)
+                        if not first_name and email:
+                            df_first_ml2, df_last_ml2 = derive_name_from_email(email)
+                            if df_first_ml2 and (not df_last_ml2 or df_last_ml2.lower() == last_name.lower()):
+                                first_name = df_first_ml2
+                            elif df_last_ml2 and df_last_ml2.lower() != last_name.lower():
+                                first_name = df_last_ml2
+                        first_name, last_name = sanitize_name(first_name, last_name)
                 entry = {
                     "first_name": first_name,
                     "last_name": last_name,
@@ -759,6 +823,8 @@ def write_to_txt(entries, all_lines, output_path, pdf_info=None):
             f.write("-" * 40 + "\n")
             f.write(f"University: {university}\n")
             f.write(f"Organization: {organization}\n")
+            if pdf_info.get('state'):
+                f.write(f"State: {pdf_info['state']}\n")
             if location:
                 f.write(f"Location: {location}\n")
             if source:
@@ -1027,7 +1093,7 @@ def map_to_coach_profile(entry, pdf_info=None):
     
     # Get organization info from PDF info or use defaults
     if pdf_info:
-        location = pdf_info.get('location', 'New Jersey')
+        location = (pdf_info.get('state') or pdf_info.get('location') or 'New Jersey')
         organization = pdf_info.get('organization', 'University Athletics')
         source_url = pdf_info.get('source', 'University Athletics Directory')
     else:
@@ -1043,7 +1109,7 @@ def map_to_coach_profile(entry, pdf_info=None):
         'email': entry['email'],
         'bio': f"Experienced {role.lower()} specializing in {', '.join(sports).lower()}.",
         'sports': sports,
-        'experience': 5,  # Default to 5 years
+        # 'experience' intentionally omitted per user request
         'certifications': [],
         'hourlyRate': 0,  # To be set during profile completion
         'location': location,
@@ -1051,6 +1117,7 @@ def map_to_coach_profile(entry, pdf_info=None):
         'specialties': sports,
         'languages': ['English'],
         'organization': organization,
+        'university': pdf_info.get('university', ''),
         'role': role,
         'gender': '',  # To be filled during claiming
         'ageGroup': ['Adult', 'Teen', 'Youth'],

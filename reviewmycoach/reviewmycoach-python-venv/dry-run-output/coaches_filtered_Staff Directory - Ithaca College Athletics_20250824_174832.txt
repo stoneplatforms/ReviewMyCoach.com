@@ -1,0 +1,638 @@
+COACH ENTRIES FOUND - 2025-08-24 17:48:33
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Ithaca College
+Organization: Ithaca College Athletics
+State: New York
+
+Total coaches found: 81
+
+PARSED ENTRIES:
+----------------------------------------
+1. Donte Garcia
+   Email: dgarcia2@ithaca.edu
+   Username: dgarcia2
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Donte Garcia Assistant Strength and Conditioning Coach dgarcia2@ithaca.edu 607/274-
+
+2. Madison Mulligan
+   Email: mmulligan1@ithaca.edu
+   Username: mmulligan1
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Madison Mulligan Assistant Coach mmulligan1@ithaca.edu
+
+3. David Valesente
+   Email: dvalesente@ithaca.edu
+   Username: dvalesente
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: David Valesente Head Baseball Coach dvalesente@ithaca.edu 607/274-
+
+4. Cooper Belyea
+   Email: cbelyea1@ithaca.edu
+   Username: cbelyea1
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Cooper Belyea Assistant Coach cbelyea1@ithaca.edu 607/274-
+
+5. Mike McSloy
+   Email: mmcsloy@ithaca.edu
+   Username: mmcsloy
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Mike McSloy Head Men's Basketball Coach mmcsloy@ithaca.edu
+
+6. Mike Sasso
+   Email: msasso@ithaca.edu
+   Username: msasso
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mike Sasso Assistant Coach msasso@ithaca.edu 607/274-
+
+7. Dan Raymond
+   Email: draymond@ithaca.edu
+   Username: draymond
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Dan Raymond Head Women's Basketball Coach draymond@ithaca.edu 607/274-
+
+8. Elizabeth Thompson
+   Email: ethompson3@ithaca.edu
+   Username: ethompson3
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Elizabeth Thompson Assistant Coach ethompson3@ithaca.edu 607/274-
+
+9. Erin Dinan
+   Email: edinan@ithaca.edu
+   Username: edinan
+   Sports: Baseball
+   Title: Frahm Head Men's & Women's Cross Country Coach
+   Original line: Erin Dinan Frahm Head Men's & Women's Cross Country Coach edinan@ithaca.edu 607/274-
+
+10. Erin Dinan
+   Email: edinan@ithaca.edu
+   Username: edinan
+   Sports: Baseball
+   Title: Frahm Head Men's & Women's Cross Country Coach
+   Original line: Erin Dinan Frahm Head Men's & Women's Cross Country Coach edinan@ithaca.edu 607/274-
+
+11. Kaitlyn Wahila
+   Email: kwahila@ithaca.edu
+   Username: kwahila
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Kaitlyn Wahila Head Field Hockey Coach kwahila@ithaca.edu 607/274-
+
+12. Mo Ordnung
+   Email: mordnung@ithaca.edu
+   Username: mordnung
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Mo Ordnung Associate Head Coach mordnung@ithaca.edu 607/274-
+
+13. Michael Toerper
+   Email: mtoerper@ithaca.edu
+   Username: mtoerper
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Michael Toerper Head Football Coach (Defensive Coordinator/Defensive mtoerper@ithaca.edu 607/274-
+
+14. Kerry Grigsby
+   Email: kgrigsby@ithaca.edu
+   Username: kgrigsby
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kerry Grigsby Assistant Coach (Defensive Line) kgrigsby@ithaca.edu
+
+15. Drew Miller
+   Email: amiller19@ithaca.edu
+   Username: amiller19
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Drew Miller Assistant Coach (Offensive Line) amiller19@ithaca.edu
+
+16. Keith Batson
+   Email: kbatson@ithaca.edu
+   Username: kbatson
+   Sports: Football
+   Title: Head Women's Golf Coach
+   Original line: Keith Batson Head Women's Golf Coach kbatson@ithaca.edu 607/745-
+
+17. Rick Suddaby
+   Email: rsuddaby@ithaca.edu
+   Username: rsuddaby
+   Sports: Football
+   Title: Head Gymnastics Coach
+   Original line: Rick Suddaby Head Gymnastics Coach rsuddaby@ithaca.edu 607/274-
+
+18. Tommy Pearce
+   Email: tpearce@ithaca.edu
+   Username: tpearce
+   Sports: Football
+   Title: Head Men's Lacrosse Coach
+   Original line: Tommy Pearce Head Men's Lacrosse Coach tpearce@ithaca.edu 607/274-
+
+19. Torin Varn
+   Email: tvarn@ithaca.edu
+   Username: tvarn
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Torin Varn Assistant Coach tvarn@ithaca.edu 607/274-
+
+20. Karrie Moore
+   Email: kmoore@ithaca.edu
+   Username: kmoore
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Karrie Moore Head Women's Lacrosse Coach kmoore@ithaca.edu 607/274-
+
+21. Madison Mulligan
+   Email: mmulligan1@ithaca.edu
+   Username: mmulligan1
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Madison Mulligan Assistant Coach mmulligan1@ithaca.edu
+
+22. Gabe Kuhn
+   Email: gkuhn@ithaca.edu
+   Username: gkuhn
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Gabe Kuhn Head Men's Soccer Coach gkuhn@ithaca.edu 607/274-
+
+23. Dylan Kilpatrick
+   Email: dkilpatrick@ithaca.edu
+   Username: dkilpatrick
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Dylan Kilpatrick Assistant Coach dkilpatrick@ithaca.edu 607/274-
+
+24. Mindy Quigg
+   Email: mquigg@ithaca.edu
+   Username: mquigg
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Mindy Quigg Head Women's Soccer Coach mquigg@ithaca.edu 607/274-
+
+25. Javi Mejia
+   Email: jmejia1@ithaca.edu
+   Username: jmejia1
+   Sports: Football
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Javi Mejia Assistant Coach/Recruiting Coordinator jmejia1@ithaca.edu 607/274-
+
+26. Kelly Robichaud
+   Email: krobich1@ithaca.edu
+   Username: krobich1
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Kelly Robichaud Head Softball Coach krobich1@ithaca.edu 607/274-
+
+27. Payton Cutting
+   Email: pcutting@ithaca.edu
+   Username: pcutting
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Payton Cutting Assistant Coach pcutting@ithaca.edu 607/274-
+
+28. Mike Blakely-Armitage
+   Email: marmitage@ithaca.edu
+   Username: marmitage
+   Sports: Softball
+   Title: Head Swimming and Diving Coach
+   Original line: Mike Blakely-Armitage Head Swimming and Diving Coach marmitage@ithaca.edu 607/274-
+
+29. Chris Griffin
+   Email: cgriffin@ithaca.edu
+   Username: cgriffin
+   Sports: Softball
+   Title: Aquatics Coordinator and Diving Coach
+   Original line: Chris Griffin Aquatics Coordinator and Diving Coach cgriffin@ithaca.edu 607/274-
+
+30. Noah Beck
+   Email: nbeck@ithaca.edu
+   Username: nbeck
+   Sports: Softball
+   Title: Assistant Swimming & Diving Coach
+   Original line: Noah Beck Assistant Swimming & Diving Coach and Assistant nbeck@ithaca.edu 607/274-
+
+31. Paula Miller
+   Email: pmiller@ithaca.edu
+   Username: pmiller
+   Sports: Softball
+   Title: Volunteer Assistant Swimming & Diving Coach
+   Original line: Paula Miller Volunteer Assistant Swimming & Diving Coach pmiller@ithaca.edu
+
+32. Mike Blakely-Armitage
+   Email: marmitage@ithaca.edu
+   Username: marmitage
+   Sports: Softball
+   Title: Head Swimming and Diving Coach
+   Original line: Mike Blakely-Armitage Head Swimming and Diving Coach marmitage@ithaca.edu 607/274-
+
+33. Chris Griffin
+   Email: cgriffin@ithaca.edu
+   Username: cgriffin
+   Sports: Softball
+   Title: Aquatics Coordinator and Diving Coach
+   Original line: Chris Griffin Aquatics Coordinator and Diving Coach cgriffin@ithaca.edu 607/274-
+
+34. Noah Beck
+   Email: nbeck@ithaca.edu
+   Username: nbeck
+   Sports: Softball
+   Title: Assistant Swimming & Diving Coach
+   Original line: Noah Beck Assistant Swimming & Diving Coach and Assistant nbeck@ithaca.edu 607/274-
+
+35. Paula Miller
+   Email: pmiller@ithaca.edu
+   Username: pmiller
+   Sports: Softball
+   Title: Volunteer Assistant Swimming & Diving Coach
+   Original line: Paula Miller Volunteer Assistant Swimming & Diving Coach pmiller@ithaca.edu
+
+36. Justin Stangel
+   Email: jstangel@ithaca.edu
+   Username: jstangel
+   Sports: Softball
+   Title: Head Men's Rowing Coach
+   Original line: Justin Stangel Head Men's Rowing Coach jstangel@ithaca.edu 315/447-
+
+37. Jake Lentz
+   Email: jlentz@ithaca.edu
+   Username: jlentz
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jake Lentz Assistant Coach jlentz@ithaca.edu
+
+38. Beth Greene
+   Email: egreene@ithaca.edu
+   Username: egreene
+   Sports: Softball
+   Title: Head Women's Rowing & Sculling Coach
+   Original line: Beth Greene Head Women's Rowing & Sculling Coach egreene@ithaca.edu 607/274-
+
+39. Gregg Seiz
+   Email: gseiz@ithaca.edu
+   Username: gseiz
+   Sports: Softball
+   Title: Assistant Women's Rowing & Sculling Coach
+   Original line: Gregg Seiz Assistant Women's Rowing & Sculling Coach gseiz@ithaca.edu
+
+40. Tom Rishcoff
+   Email: trishcoff@ithaca.edu
+   Username: trishcoff
+   Sports: Softball
+   Title: Head Men's Tennis Coach
+   Original line: Tom Rishcoff Head Men's Tennis Coach trishcoff@ithaca.edu 607/274-
+
+41. Carl Simna
+   Email: csimna@ithaca.edu
+   Username: csimna
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Carl Simna Assistant Coach csimna@ithaca.edu
+
+42. Mari Mitchell
+   Email: mmitchell@ithaca.edu
+   Username: mmitchell
+   Sports: Softball
+   Title: Head Women's Tennis Coach
+   Original line: Mari Mitchell Head Women's Tennis Coach mmitchell@ithaca.edu 607/351-
+
+43. Carl Simna
+   Email: csimna@ithaca.edu
+   Username: csimna
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Carl Simna Assistant Coach csimna@ithaca.edu
+
+44. Jennifer Potter
+   Email: jpotter@ithaca.edu
+   Username: jpotter
+   Sports: Track & Field
+   Title: Head Women's Track & Field Coach
+   Original line: Jennifer Potter Head Women's Track & Field Coach jpotter@ithaca.edu 607/274-
+
+45. Stargell Williams
+   Email: swilliams5@ithaca.edu
+   Username: swilliams5
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Stargell Williams Head Men's Track & Field Coach (Throws) swilliams5@ithaca.edu 607/274-
+
+46. Erin Dinan
+   Email: edinan@ithaca.edu
+   Username: edinan
+   Sports: Track & Field
+   Title: Frahm Head Men's & Women's Cross Country Coach
+   Original line: Erin Dinan Frahm Head Men's & Women's Cross Country Coach edinan@ithaca.edu 607/274-
+
+47. Mary Wallenbeck
+   Email: mawallenbeck@ithaca.edu
+   Username: mawallenbeck
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Mary Wallenbeck Assistant Coach (Jumps) mawallenbeck@ithaca.edu 607/274-
+
+48. Tara Stilwell
+   Email: tstilwell@ithaca.edu
+   Username: tstilwell
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Tara Stilwell Head Volleyball Coach tstilwell@ithaca.edu 607/274-
+
+49. Mark Lucas
+   Email: mlucas3@ithaca.edu
+   Username: mlucas3
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Mark Lucas Assistant Coach mlucas3@ithaca.edu 607/274-
+
+50. Marty Nichols
+   Email: mnichols@ithaca.edu
+   Username: mnichols
+   Sports: Volleyball
+   Title: Head Men's Wrestling Coach
+   Original line: Marty Nichols Head Men's Wrestling Coach mnichols@ithaca.edu 607/274-
+
+51. Center 
+   Email: cchukwuezi@ithaca.edu
+   Username: cchukwuezi
+   Sports: Volleyball
+   Title: Eze Chukwuezi Assistant Coach/Fitness
+   Original line: Eze Chukwuezi Assistant Coach/Fitness Center Manager cchukwuezi@ithaca.edu
+
+52. Marc Israel
+   Email: wrestling@ithaca.edu
+   Username: wrestling
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Marc Israel Assistant Coach wrestling@ithaca.edu
+
+53. Ricardo Gomez
+   Email: rgomez1@ithaca.edu
+   Username: rgomez1
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Ricardo Gomez Assistant Coach rgomez1@ithaca.edu
+
+54. Ryan Ciotoli
+   Email: rciotoli@ithaca.edu
+   Username: rciotoli
+   Sports: Volleyball
+   Title: Head Women's Wrestling Coach
+   Original line: Ryan Ciotoli Head Women's Wrestling Coach rciotoli@ithaca.edu
+
+55. Kenny Graduate
+   Email: 
+   Username: kenny.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kenny Fraser Graduate Assistant Coach
+
+56. Jim Mullins
+   Email: 
+   Username: jim.mullins
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jim Mullins Assistant Coach
+
+57. Kiley Student
+   Email: 
+   Username: kiley.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kiley Sullivan Student Assistant Coach
+
+58. Juliann Student
+   Email: 
+   Username: juliann.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Juliann Vadney Student Assistant Coach
+
+59. Juliana Student
+   Email: 
+   Username: juliana.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Juliana Valli Student Assistant Coach
+
+60. Emma Student
+   Email: 
+   Username: emma.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emma Garver Student Assistant Coach
+
+61. Backs 
+   Email: 
+   Username: backs
+   Sports: Soccer
+   Title: Backs Coach
+   Original line: Backs Coach) 1972
+
+62. Ben Mason
+   Email: 
+   Username: ben.mason
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ben Mason Assistant Coach (RBs, TEs, Co-Special Teams
+
+63. Will Margraff
+   Email: 
+   Username: will.margraff
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Will Margraff Assistant Coach (LBs, Co-Special Teams Coordinator)
+
+64. Will Gladney
+   Email: 
+   Username: will.gladney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Will Gladney Assistant Coach (Wide Receivers)
+
+65. Jake Connolly
+   Email: 
+   Username: jake.connolly
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Connolly Assistant Coach (Safeties)
+
+66. Sophia Volunteer
+   Email: 
+   Username: sophia.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sophia Israel Volunteer Assistant Coach
+
+67. Kim Suddaby
+   Email: 
+   Username: kim.suddaby
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kim Suddaby Assistant Coach
+
+68. Hormoz Faculty
+   Email: hormoz@ithaca.edu
+   Username: hormoz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andy Byrne Assistant Coach hormoz@ithaca.edu
+
+69. Tom Keane
+   Email: 
+   Username: tom.keane
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Keane Assistant Coach
+
+70. Emily Graduate
+   Email: 
+   Username: emily.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emily Wade Graduate Assistant Coach
+
+71. Julia Student
+   Email: 
+   Username: julia.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Julia Cascone Student Assistant Coach
+
+72. Ally Student
+   Email: 
+   Username: ally.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ally Stanton Student Assistant Coach
+
+73. Dan Raymond
+   Email: 
+   Username: dan.raymond
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dan Raymond Assistant Coach
+
+74. Kaitlyn Volunteer
+   Email: 
+   Username: kaitlyn.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaitlyn Judd Volunteer Assistant Coach
+
+75. Aubrey Graduate
+   Email: 
+   Username: aubrey.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aubrey Syron Graduate Assistant Coach
+
+76. Lara Graduate
+   Email: 
+   Username: lara.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lara Mitchell Graduate Assistant Coach
+
+77. Tara Masters
+   Email: 
+   Username: tara.masters
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tara Masters Assistant Coach
+
+78. Imke Volunteer
+   Email: 
+   Username: imke.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Imke Reimers Volunteer Assistant Coach
+
+79. Dom Mikula
+   Email: 
+   Username: dom.mikula
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dom Mikula Assistant Coach (Pole Vault)
+
+80. Raytchelle Graduate
+   Email: 
+   Username: raytchelle.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Raytchelle Dos Santos Miranda Graduate Assistant Coach
+
+81. Angela Faculty
+   Email: adifran1@ithaca.edu
+   Username: adifran1
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Travis Jones Assistant Coach adifran1@ithaca.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Donte Garcia Assistant Strength and Conditioning Coach dgarcia2@ithaca.edu 607/274-
+• Madison Mulligan Assistant Coach mmulligan1@ithaca.edu
+• David Valesente Head Baseball Coach dvalesente@ithaca.edu 607/274-
+• Cooper Belyea Assistant Coach cbelyea1@ithaca.edu 607/274-
+• Mike McSloy Head Men's Basketball Coach mmcsloy@ithaca.edu
+• Mike Sasso Assistant Coach msasso@ithaca.edu 607/274-
+• Dan Raymond Head Women's Basketball Coach draymond@ithaca.edu 607/274-
+• Elizabeth Thompson Assistant Coach ethompson3@ithaca.edu 607/274-
+• Erin Dinan Frahm Head Men's & Women's Cross Country Coach edinan@ithaca.edu 607/274-
+• Erin Dinan Frahm Head Men's & Women's Cross Country Coach edinan@ithaca.edu 607/274-
+• Kaitlyn Wahila Head Field Hockey Coach kwahila@ithaca.edu 607/274-
+• Mo Ordnung Associate Head Coach mordnung@ithaca.edu 607/274-
+• Michael Toerper Head Football Coach (Defensive Coordinator/Defensive mtoerper@ithaca.edu 607/274-
+• Kerry Grigsby Assistant Coach (Defensive Line) kgrigsby@ithaca.edu
+• Drew Miller Assistant Coach (Offensive Line) amiller19@ithaca.edu
+• Keith Batson Head Women's Golf Coach kbatson@ithaca.edu 607/745-
+• Rick Suddaby Head Gymnastics Coach rsuddaby@ithaca.edu 607/274-
+• Tommy Pearce Head Men's Lacrosse Coach tpearce@ithaca.edu 607/274-
+• Torin Varn Assistant Coach tvarn@ithaca.edu 607/274-
+• Karrie Moore Head Women's Lacrosse Coach kmoore@ithaca.edu 607/274-
+• Madison Mulligan Assistant Coach mmulligan1@ithaca.edu
+• Gabe Kuhn Head Men's Soccer Coach gkuhn@ithaca.edu 607/274-
+• Dylan Kilpatrick Assistant Coach dkilpatrick@ithaca.edu 607/274-
+• Mindy Quigg Head Women's Soccer Coach mquigg@ithaca.edu 607/274-
+• Javi Mejia Assistant Coach/Recruiting Coordinator jmejia1@ithaca.edu 607/274-
+• Kelly Robichaud Head Softball Coach krobich1@ithaca.edu 607/274-
+• Payton Cutting Assistant Coach pcutting@ithaca.edu 607/274-
+• Mike Blakely-Armitage Head Swimming and Diving Coach marmitage@ithaca.edu 607/274-
+• Chris Griffin Aquatics Coordinator and Diving Coach cgriffin@ithaca.edu 607/274-
+• Noah Beck Assistant Swimming & Diving Coach and Assistant nbeck@ithaca.edu 607/274-
+• Paula Miller Volunteer Assistant Swimming & Diving Coach pmiller@ithaca.edu
+• Mike Blakely-Armitage Head Swimming and Diving Coach marmitage@ithaca.edu 607/274-
+• Chris Griffin Aquatics Coordinator and Diving Coach cgriffin@ithaca.edu 607/274-
+• Noah Beck Assistant Swimming & Diving Coach and Assistant nbeck@ithaca.edu 607/274-
+• Paula Miller Volunteer Assistant Swimming & Diving Coach pmiller@ithaca.edu
+• Justin Stangel Head Men's Rowing Coach jstangel@ithaca.edu 315/447-
+• Jake Lentz Assistant Coach jlentz@ithaca.edu
+• Beth Greene Head Women's Rowing & Sculling Coach egreene@ithaca.edu 607/274-
+• Gregg Seiz Assistant Women's Rowing & Sculling Coach gseiz@ithaca.edu
+• Tom Rishcoff Head Men's Tennis Coach trishcoff@ithaca.edu 607/274-
+• Carl Simna Assistant Coach csimna@ithaca.edu
+• Mari Mitchell Head Women's Tennis Coach mmitchell@ithaca.edu 607/351-
+• Carl Simna Assistant Coach csimna@ithaca.edu
+• Jennifer Potter Head Women's Track & Field Coach jpotter@ithaca.edu 607/274-
+• Stargell Williams Head Men's Track & Field Coach (Throws) swilliams5@ithaca.edu 607/274-
+• Erin Dinan Frahm Head Men's & Women's Cross Country Coach edinan@ithaca.edu 607/274-
+• Mary Wallenbeck Assistant Coach (Jumps) mawallenbeck@ithaca.edu 607/274-
+• Tara Stilwell Head Volleyball Coach tstilwell@ithaca.edu 607/274-
+• Mark Lucas Assistant Coach mlucas3@ithaca.edu 607/274-
+• Marty Nichols Head Men's Wrestling Coach mnichols@ithaca.edu 607/274-
+• Eze Chukwuezi Assistant Coach/Fitness Center Manager cchukwuezi@ithaca.edu
+• Marc Israel Assistant Coach wrestling@ithaca.edu
+• Ricardo Gomez Assistant Coach rgomez1@ithaca.edu
+• Ryan Ciotoli Head Women's Wrestling Coach rciotoli@ithaca.edu

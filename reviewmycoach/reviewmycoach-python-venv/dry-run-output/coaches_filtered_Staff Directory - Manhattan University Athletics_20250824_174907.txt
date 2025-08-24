@@ -1,0 +1,356 @@
+COACH ENTRIES FOUND - 2025-08-24 17:49:07
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Manhattan University
+Organization: Manhattan University Athletics
+State: New York
+
+Total coaches found: 43
+
+PARSED ENTRIES:
+----------------------------------------
+1. Natalie Portwood
+   Email: nportwood01@manhattan.edu
+   Username: nportwood01
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Natalie Portwood Assistant Strength and Conditioning Coach nportwood01@manhattan.edu
+
+2. Victoria Aulov
+   Email: VAulov01@Manhattan.edu
+   Username: VAulov01
+   Sports: Soccer
+   Title: Cheerleading Assistant Coach
+   Original line: Victoria Aulov Cheerleading Assistant Coach VAulov01@Manhattan.edu
+
+3. Caroline Oliver
+   Email: COliver02@Manhattan.edu
+   Username: COliver02
+   Sports: Soccer
+   Title: Cheerleading Head Coach
+   Original line: Caroline Oliver Cheerleading Head Coach COliver02@Manhattan.edu
+
+4. Madeline Donohue
+   Email: Madeline.Donohue@manhattan.edu
+   Username: Madeline.Donohue
+   Sports: Soccer
+   Title: Head Dance Team Coach
+   Original line: Madeline Donohue '21 Head Dance Team Coach Madeline.Donohue@manhattan.edu
+
+5. Brylee Watkins
+   Email: Brylee.Watkins@manhattan.edu
+   Username: Brylee.Watkins
+   Sports: Soccer
+   Title: Assistant Dance Coach
+   Original line: Brylee Watkins Assistant Dance Coach Brylee.Watkins@manhattan.edu
+
+6. Hallie Fowler
+   Email: hfowler02@manhattan.edu
+   Username: hfowler02
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Hallie Fowler Head Coach, Acrobatics & Tumbling hfowler02@manhattan.edu
+
+7. Steven Rosen
+   Email: srosen02@manhattan.edu
+   Username: srosen02
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Steven Rosen Head Coach 718-862- srosen02@manhattan.edu
+
+8. Scott Wingo
+   Email: dwingo01@manhattan.edu
+   Username: dwingo01
+   Sports: Baseball
+   Title: Assistant Coach - Hitting
+   Original line: Scott Wingo Assistant Coach - Hitting dwingo01@manhattan.edu
+
+9. Steve Englert
+   Email: senglert01@manhattan.edu
+   Username: senglert01
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Steve Englert Assistant Coach senglert01@manhattan.edu
+
+10. Will Hesslink
+   Email: whesslink01@manhattan.edu
+   Username: whesslink01
+   Sports: Baseball
+   Title: Assistant Coach - Pitching
+   Original line: Will Hesslink Assistant Coach - Pitching 718-862- whesslink01@manhattan.edu
+
+11. John Gallagher
+   Email: coachgal@manhattan.edu
+   Username: coachgal
+   Sports: Baseball
+   Title: Head Coach
+   Original line: John Gallagher Head Coach 718-862- coachgal@manhattan.edu
+
+12. Tim Brooks
+   Email: tim.brooks@manhattan.edu
+   Username: tim.brooks
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tim Brooks Assistant Coach 718-862- tim.brooks@manhattan.edu
+
+13. Anthony Doran
+   Email: adoran01@manhattan.edu
+   Username: adoran01
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Anthony Doran Assistant Coach 718-862- adoran01@manhattan.edu
+
+14. Lynch 
+   Email: jlynch08@manhattan.edu
+   Username: jlynch08
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: JR Lynch Assistant Coach 718-862- jlynch08@manhattan.edu
+
+15. Andrew Wisniewski
+   Email: awisniewski01@manhattan.edu
+   Username: awisniewski01
+   Sports: Baseball
+   Title: Assistant Coach/Director of Player Development
+   Original line: Andrew Wisniewski Assistant Coach/Director of Player Development 718-862- awisniewski01@manhattan.edu
+
+16. Tommy Dempsey
+   Email: tdempsey01@manhattan.edu
+   Username: tdempsey01
+   Sports: Baseball
+   Title: Assistant Coach/Director of Basketball Operations
+   Original line: Tommy Dempsey Assistant Coach/Director of Basketball Operations 718-862- tdempsey01@manhattan.edu
+
+17. Heather Vulin
+   Email: hvulin01@manhattan.edu
+   Username: hvulin01
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Heather Vulin Head Coach 718-862- hvulin01@manhattan.edu
+
+18. Callan Stores
+   Email: ctaylor05@manhattan.edu
+   Username: ctaylor05
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Callan Stores Associate Head Coach 718-862- ctaylor05@manhattan.edu
+
+19. Cori Coleman
+   Email: ccoleman05@manhattan.edu
+   Username: ccoleman05
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Cori Coleman Assistant Coach ccoleman05@manhattan.edu
+
+20. Todd Witzleben
+   Email: twitzleben01@manhattan.edu
+   Username: twitzleben01
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+
+21. Todd Witzleben
+   Email: twitzleben01@manhattan.edu
+   Username: twitzleben01
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+
+22. Keith Prokop
+   Email: kprokop01@manhattan.edu
+   Username: kprokop01
+   Sports: Baseball
+   Title: Head Men's and Women's Golf Coach
+   Original line: Keith Prokop Head Men's and Women's Golf Coach kprokop01@manhattan.edu
+
+23. Keith Prokop
+   Email: kprokop01@manhattan.edu
+   Username: kprokop01
+   Sports: Baseball
+   Title: Head Men's and Women's Golf Coach
+   Original line: Keith Prokop Head Men's and Women's Golf Coach kprokop01@manhattan.edu
+
+24. Doug Sage
+   Email: dsage01@manhattan.edu
+   Username: dsage01
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Doug Sage Head Coach 718-862- dsage01@manhattan.edu
+
+25. Jenna Dingler
+   Email: jdingler01@manhattan.edu
+   Username: jdingler01
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jenna Dingler Head Coach 718-862- jdingler01@manhattan.edu
+
+26. Parker Brown
+   Email: pbrown06@manhattan.edu
+   Username: pbrown06
+   Sports: Baseball
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Parker Brown Assistant Women's Lacrosse Coach pbrown06@manhattan.edu
+
+27. Tom Giovatto
+   Email: tgiovatto01@manhattan.edu
+   Username: tgiovatto01
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tom Giovatto Head Coach tgiovatto01@manhattan.edu
+
+28. Andrew Santos
+   Email: asantos06@manhattan.edu
+   Username: asantos06
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Andrew Santos '15 Assistant Coach 718-862- asantos06@manhattan.edu
+
+29. Brendan Lawler
+   Email: brendan.lawler@manhattan.edu
+   Username: brendan.lawler
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brendan Lawler Head Coach 718-862- brendan.lawler@manhattan.edu
+
+30. Brad Bolton
+   Email: bbolton01@manhattan.edu
+   Username: bbolton01
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Brad Bolton Associate Head Coach bbolton01@manhattan.edu
+
+31. Bridget Hurlman
+   Email: bridget.hurlman@manhattan.edu
+   Username: bridget.hurlman
+   Sports: Softball
+   Title: Head Coach
+   Original line: Bridget Hurlman Head Coach 718-862- bridget.hurlman@manhattan.edu
+
+32. Brian Hansbury
+   Email: jhansbury01@manhattan.edu
+   Username: jhansbury01
+   Sports: Softball
+   Title: Head Coach
+   Original line: Brian Hansbury Head Coach, Swimming & Diving jhansbury01@manhattan.edu
+
+33. Brian Hansbury
+   Email: jhansbury01@manhattan.edu
+   Username: jhansbury01
+   Sports: Softball
+   Title: Head Coach
+   Original line: Brian Hansbury Head Coach, Swimming & Diving jhansbury01@manhattan.edu
+
+34. Todd Witzleben
+   Email: twitzleben01@manhattan.edu
+   Username: twitzleben01
+   Sports: Softball
+   Title: Head Coach
+   Original line: Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+
+35. Todd Witzleben
+   Email: twitzleben01@manhattan.edu
+   Username: twitzleben01
+   Sports: Softball
+   Title: Head Coach
+   Original line: Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+
+36. Chris Schortgen
+   Email: cschortgen01@manhattan.edu
+   Username: cschortgen01
+   Sports: Softball
+   Title: Head Coach
+   Original line: Chris Schortgen Head Coach cschortgen01@manhattan.edu
+
+37. Mauro Miletic
+   Email: mmiletic01@manhattan.edu
+   Username: mmiletic01
+   Sports: Softball
+   Title: Head Coach
+   Original line: Mauro Miletic Head Coach 718-862- mmiletic01@manhattan.edu
+
+38. Sara Atai
+   Email: satai01@manhattan.edu
+   Username: satai01
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sara Atai Assistant Coach 718-862- satai01@manhattan.edu
+
+39. Dee Davis
+   Email: 
+   Username: dee.davis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dee Dee Davis '23 Assistant Coach
+
+40. Dan Seibel
+   Email: 
+   Username: dan.seibel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dan Seibel Assistant Coach
+
+41. Jason Orban
+   Email: 
+   Username: jason.orban
+   Sports: Soccer
+   Title: Assistant Coach - Goalkeeping
+   Original line: Jason Orban Assistant Coach - Goalkeeping
+
+42. Fabio Reato
+   Email: 
+   Username: fabio.reato
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Fabio Reato Assistant Coach
+
+43. Patrick Part-Time
+   Email: pmcgrath01@manhattan.edu
+   Username: pmcgrath01
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Gil Assistant Coach pmcgrath01@manhattan.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Natalie Portwood Assistant Strength and Conditioning Coach nportwood01@manhattan.edu
+• Victoria Aulov Cheerleading Assistant Coach VAulov01@Manhattan.edu
+• Caroline Oliver Cheerleading Head Coach COliver02@Manhattan.edu
+• Madeline Donohue '21 Head Dance Team Coach Madeline.Donohue@manhattan.edu
+• Brylee Watkins Assistant Dance Coach Brylee.Watkins@manhattan.edu
+• Hallie Fowler Head Coach, Acrobatics & Tumbling hfowler02@manhattan.edu
+• Steven Rosen Head Coach 718-862- srosen02@manhattan.edu
+• Scott Wingo Assistant Coach - Hitting dwingo01@manhattan.edu
+• Steve Englert Assistant Coach senglert01@manhattan.edu
+• Will Hesslink Assistant Coach - Pitching 718-862- whesslink01@manhattan.edu
+• John Gallagher Head Coach 718-862- coachgal@manhattan.edu
+• Tim Brooks Assistant Coach 718-862- tim.brooks@manhattan.edu
+• Anthony Doran Assistant Coach 718-862- adoran01@manhattan.edu
+• JR Lynch Assistant Coach 718-862- jlynch08@manhattan.edu
+• Andrew Wisniewski Assistant Coach/Director of Player Development 718-862- awisniewski01@manhattan.edu
+• Tommy Dempsey Assistant Coach/Director of Basketball Operations 718-862- tdempsey01@manhattan.edu
+• Heather Vulin Head Coach 718-862- hvulin01@manhattan.edu
+• Callan Stores Associate Head Coach 718-862- ctaylor05@manhattan.edu
+• Cori Coleman Assistant Coach ccoleman05@manhattan.edu
+• Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+• Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+• Keith Prokop Head Men's and Women's Golf Coach kprokop01@manhattan.edu
+• Keith Prokop Head Men's and Women's Golf Coach kprokop01@manhattan.edu
+• Doug Sage Head Coach 718-862- dsage01@manhattan.edu
+• Jenna Dingler Head Coach 718-862- jdingler01@manhattan.edu
+• Parker Brown Assistant Women's Lacrosse Coach pbrown06@manhattan.edu
+• Tom Giovatto Head Coach tgiovatto01@manhattan.edu
+• Andrew Santos '15 Assistant Coach 718-862- asantos06@manhattan.edu
+• Brendan Lawler Head Coach 718-862- brendan.lawler@manhattan.edu
+• Brad Bolton Associate Head Coach bbolton01@manhattan.edu
+• Bridget Hurlman Head Coach 718-862- bridget.hurlman@manhattan.edu
+• Brian Hansbury Head Coach, Swimming & Diving jhansbury01@manhattan.edu
+• Brian Hansbury Head Coach, Swimming & Diving jhansbury01@manhattan.edu
+• Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+• Todd Witzleben Head Coach, Cross Country and Track & Field twitzleben01@manhattan.edu
+• Chris Schortgen Head Coach cschortgen01@manhattan.edu
+• Mauro Miletic Head Coach 718-862- mmiletic01@manhattan.edu
+• Sara Atai Assistant Coach 718-862- satai01@manhattan.edu

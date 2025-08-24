@@ -205,7 +205,8 @@ function LoadingSkeleton() {
 // =====================================
 
 function isValidUsername(username: string): boolean {
-  return !!(username && username.length >= 3 && /^[a-z0-9_]+$/.test(username));
+  // Allow lowercase letters, digits, underscores, and periods
+  return !!(username && username.length >= 3 && /^[a-z0-9_.]+$/.test(username));
 }
 
 // =====================================

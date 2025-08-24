@@ -1,0 +1,217 @@
+COACH ENTRIES FOUND - 2025-08-24 17:53:18
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: York College
+Organization: York College Athletics
+State: New York
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Clarence Emengo
+   Email: cemengo@york.cuny.edu
+   Username: cemengo
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Clarence Emengo Head Coach cemengo@york.cuny.edu 718.262.5114
+
+2. Elijah Trotman
+   Email: etrotman901@york.cuny.edu
+   Username: etrotman901
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: 718.262.5114
+   Original line: Elijah Trotman Assistant Coach etrotman901@york.cuny.edu 718.262.5114
+
+3. Sharif Skinner
+   Email: sskinner901@york.cuny.edu
+   Username: sskinner901
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: 718.262.5114
+   Original line: Sharif Skinner Assistant Coach sskinner901@york.cuny.edu 718.262.5114
+
+4. To Be
+   Email: cchristian@york.cuny.edu
+   Username: cchristian
+   Sports: Soccer
+   Title: Announced Head Coach
+   Original line: To Be Announced Head Coach cchristian@york.cuny.edu
+
+5. Nicole Oudkerk
+   Email: noudkerk901@york.cuny.edu
+   Username: noudkerk901
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: 718.262.5114
+   Original line: Nicole Oudkerk '09 Assistant Coach noudkerk901@york.cuny.edu 718.262.5114
+
+6. Alex Dankwa
+   Email: coachdankwa@gmail.com
+   Username: coachdankwa
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Alex Dankwa Head Coach coachdankwa@gmail.com 718.262.5114
+
+7. To Be
+   Email: cchristian@york.cuny.edu
+   Username: cchristian
+   Sports: Soccer
+   Title: Announced Assistant Coach
+   Original line: To Be Announced Assistant Coach cchristian@york.cuny.edu
+
+8. Brahim Chhab
+   Email: bchhab901@york.cuny.edu
+   Username: bchhab901
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Brahim Chhab Head Coach bchhab901@york.cuny.edu 718.262.5114
+
+9. Hunter Meitz
+   Email: huntermeitz1@gmail.com
+   Username: huntermeitz1
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: 718.262.5114
+   Original line: Hunter Meitz Assistant Coach huntermeitz1@gmail.com 718.262.5114
+
+10. Ovid Cusu
+   Email: ocusu901@york.cuny.edu
+   Username: ocusu901
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Ovid Cusu Head Coach ocusu901@york.cuny.edu 718.262.5114
+
+11. David Santos
+   Email: davidsantos2416@gmail.com
+   Username: davidsantos2416
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: David Santos Assistant Coach davidsantos2416@gmail.com
+
+12. Tracey Marshall
+   Email: TMarshall@york.cuny.edu
+   Username: TMarshall
+   Sports: Softball
+   Title: Head Coach
+   Phone: 718.262.5207
+   Original line: Tracey Marshall Head Coach TMarshall@york.cuny.edu 718.262.5207
+
+13. Joviette Frederick
+   Email: jfrederick901@york.cuny.edu
+   Username: jfrederick901
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: 718.262.5114
+   Original line: Joviette Frederick '14 Assistant Coach jfrederick901@york.cuny.edu 718.262.5114
+
+14. Gary Walunas
+   Email: gwalunas901@york.cuny.edu
+   Username: gwalunas901
+   Sports: Softball
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Gary Walunas Head Coach gwalunas901@york.cuny.edu 718.262.5114
+
+15. Branislav Grujic
+   Email: bgrujic901@york.cuny.edu
+   Username: bgrujic901
+   Sports: Softball
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Branislav Grujic Head Coach bgrujic901@york.cuny.edu 718.262.5114
+
+16. Kathleen DeRienzo
+   Email: kderienzo901@york.cuny.edu
+   Username: kderienzo901
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: 718.262.5114
+   Original line: Kathleen DeRienzo Assistant Coach kderienzo901@york.cuny.edu 718.262.5114
+
+17. Alex Dankwa
+   Email: coachdankwa@gmail.com
+   Username: coachdankwa
+   Sports: Softball
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Alex Dankwa Head Coach coachdankwa@gmail.com 718.262.5114
+
+18. To Be
+   Email: cchristian@york.cuny.edu
+   Username: cchristian
+   Sports: Softball
+   Title: Announced Assistant Coach
+   Original line: To Be Announced Assistant Coach cchristian@york.cuny.edu
+
+19. Anthony Reyes
+   Email: areyes901@york.cuny.edu
+   Username: areyes901
+   Sports: Softball
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Anthony Reyes Head Coach areyes901@york.cuny.edu 718.262.5114
+
+20. Adil Manji
+   Email: amanji901@york.cuny.edu
+   Username: amanji901
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: 718.262.5114
+   Original line: Adil Manji Assistant Coach amanji901@york.cuny.edu 718.262.5114
+
+21. Mario Tang
+   Email: mtang901@york.cuny.edu
+   Username: mtang901
+   Sports: Softball
+   Title: Head Coach
+   Phone: 718.262.5114
+   Original line: Mario Tang Head Coach mtang901@york.cuny.edu 718.262.5114
+
+22. Nadaysia Nivar
+   Email: nnivar901@york.cuny.edu
+   Username: nnivar901
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nadaysia Nivar '24 Assistant Coach nnivar901@york.cuny.edu
+
+23. To Announced
+   Email: 
+   Username: to.announced
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: To Be Announced Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Clarence Emengo Head Coach cemengo@york.cuny.edu 718.262.5114
+• Elijah Trotman Assistant Coach etrotman901@york.cuny.edu 718.262.5114
+• Sharif Skinner Assistant Coach sskinner901@york.cuny.edu 718.262.5114
+• To Be Announced Head Coach cchristian@york.cuny.edu
+• Nicole Oudkerk '09 Assistant Coach noudkerk901@york.cuny.edu 718.262.5114
+• Alex Dankwa Head Coach coachdankwa@gmail.com 718.262.5114
+• To Be Announced Assistant Coach cchristian@york.cuny.edu
+• Brahim Chhab Head Coach bchhab901@york.cuny.edu 718.262.5114
+• Hunter Meitz Assistant Coach huntermeitz1@gmail.com 718.262.5114
+• Ovid Cusu Head Coach ocusu901@york.cuny.edu 718.262.5114
+• David Santos Assistant Coach davidsantos2416@gmail.com
+• Tracey Marshall Head Coach TMarshall@york.cuny.edu 718.262.5207
+• Joviette Frederick '14 Assistant Coach jfrederick901@york.cuny.edu 718.262.5114
+• Gary Walunas Head Coach gwalunas901@york.cuny.edu 718.262.5114
+• Branislav Grujic Head Coach bgrujic901@york.cuny.edu 718.262.5114
+• Kathleen DeRienzo Assistant Coach kderienzo901@york.cuny.edu 718.262.5114
+• Alex Dankwa Head Coach coachdankwa@gmail.com 718.262.5114
+• To Be Announced Assistant Coach cchristian@york.cuny.edu
+• Anthony Reyes Head Coach areyes901@york.cuny.edu 718.262.5114
+• Adil Manji Assistant Coach amanji901@york.cuny.edu 718.262.5114
+• Mario Tang Head Coach mtang901@york.cuny.edu 718.262.5114
+• Nadaysia Nivar '24 Assistant Coach nnivar901@york.cuny.edu

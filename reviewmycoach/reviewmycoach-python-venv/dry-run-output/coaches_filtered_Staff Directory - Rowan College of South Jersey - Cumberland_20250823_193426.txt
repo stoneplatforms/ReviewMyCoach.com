@@ -1,0 +1,232 @@
+COACH ENTRIES FOUND - 2025-08-23 19:34:26
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Rowan
+Organization: Rowan University Athletics
+Location: Glassboro, New Jersey
+Source: Rowan University Athletics Staff Directory
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joey Gorman
+   Email: JGorman9@rcsj.edu
+   Username: JGorman9
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Joey Gorman Head Coach JGorman9@rcsj.edu
+
+2. Darrin Stalling
+   Email: DStallin@rcsj.edu
+   Username: DStallin
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Darrin Stalling Head Coach DStallin@rcsj.edu
+
+3. Kyle Cerana
+   Email: KCerana@rcsj.edu
+   Username: KCerana
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Kyle Cerana Head Coach KCerana@rcsj.edu
+
+4. John McClain
+   Email: JMcClai1@rcsj.edu
+   Username: JMcClai1
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: John McClain Head Coach JMcClai1@rcsj.edu
+
+5. Darrin Stalling
+   Email: DStallin@rcsj.edu
+   Username: DStallin
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Darrin Stalling Head Coach DStallin@rcsj.edu
+
+6. Darrin Stalling
+   Email: DStallin@rcsj.edu
+   Username: DStallin
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Darrin Stalling Head Coach DStallin@rcsj.edu
+
+7. Rodney Velardi
+   Email: RVelard1@rcsj.edu
+   Username: RVelard1
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Rodney Velardi Head Coach RVelard1@rcsj.edu
+
+8. George Linen
+   Email: GLinen1@rcsj.edu
+   Username: GLinen1
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: George Linen Head Coach GLinen1@rcsj.edu
+
+9. Kyle Cerana
+   Email: KCerana@rcsj.edu
+   Username: KCerana
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Kyle Cerana Head Coach KCerana@rcsj.edu
+
+10. Jason Hearn
+   Email: JHearn1@rcsj.edu
+   Username: JHearn1
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Jason Hearn Head Coach JHearn1@rcsj.edu
+
+11. Jonathan Dijamco
+   Email: JDijamco@rcsj.edu
+   Username: JDijamco
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Marty Cortellessa Assistant Coach JDijamco@rcsj.edu
+
+12. Jeanna DuBois
+   Email: JDuBois4@rcsj.edu
+   Username: JDuBois4
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Ryan Ellis Assistant Coach JDuBois4@rcsj.edu
+
+13. Kaila Boyer
+   Email: KBoyer3@rcsj.edu
+   Username: KBoyer3
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Tom Ryder Assistant Coach KBoyer3@rcsj.edu
+
+14. Mike Freund
+   Email: 
+   Username: mike.freund
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Mike Freund Assistant Coach
+
+15. John Yowler
+   Email: 
+   Username: john.yowler
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: John Yowler Assistant Coach
+
+16. Joe Gorman
+   Email: 
+   Username: joe.gorman
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Joe Gorman Sr. Assistant Coach
+
+17. Jack McDonald
+   Email: 
+   Username: jack.mcdonald
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Jack McDonald Assistant Coach
+
+18. Joey Sauers
+   Email: 
+   Username: joey.sauers
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Joey Sauers Assistant Coach
+
+19. Andy Kerestesy
+   Email: 
+   Username: andy.kerestesy
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Andy Kerestesy Assistant Coach
+
+20. Melissa Rossi
+   Email: 
+   Username: melissa.rossi
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Melissa Del Rossi Assistant Coach
+
+21. Tommy Egan
+   Email: 
+   Username: tommy.egan
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Tommy Egan Assistant Coach
+
+22. Mahlon Stewart
+   Email: 
+   Username: mahlon.stewart
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Mahlon Stewart Assistant Coach
+
+23. Olivia Asst
+   Email: 
+   Username: olivia.asst
+   Sports: General Athletics
+   Title: Coach
+   Original line: Olivia Powers Asst. Coach
+
+24. Bailey Asst
+   Email: 
+   Username: bailey.asst
+   Sports: General Athletics
+   Title: Coach
+   Original line: Bailey Pennino Asst. Coach
+
+25. Adrian McGriff
+   Email: 
+   Username: adrian.mcgriff
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Adrian McGriff Assistant Coach
+
+26. Shyron Bailey
+   Email: 
+   Username: shyron.bailey
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Shyron Bailey Assistant Coach
+
+27.  
+   Email: 
+   Username: 
+   Sports: General Athletics
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+28. Rick Adkisson
+   Email: 
+   Username: rick.adkisson
+   Sports: General Athletics
+   Title: Assistant Coach
+   Original line: Rick Adkisson Assistant Coach
+
+29. Darrin Stalling
+   Email: 
+   Username: darrin.stalling
+   Sports: General Athletics
+   Title: Head Coach
+   Original line: Darrin Stalling Head Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joey Gorman Head Coach JGorman9@rcsj.edu
+• Darrin Stalling Head Coach DStallin@rcsj.edu
+• Kyle Cerana Head Coach KCerana@rcsj.edu
+• John McClain Head Coach JMcClai1@rcsj.edu
+• Darrin Stalling Head Coach DStallin@rcsj.edu
+• Darrin Stalling Head Coach DStallin@rcsj.edu
+• Rodney Velardi Head Coach RVelard1@rcsj.edu
+• George Linen Head Coach GLinen1@rcsj.edu
+• Kyle Cerana Head Coach KCerana@rcsj.edu
+• Jason Hearn Head Coach JHearn1@rcsj.edu

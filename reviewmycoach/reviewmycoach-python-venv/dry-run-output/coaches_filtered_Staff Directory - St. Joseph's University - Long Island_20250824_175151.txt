@@ -1,0 +1,388 @@
+COACH ENTRIES FOUND - 2025-08-24 17:51:51
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: St. Joseph's University - Long Island
+Organization: St. Joseph's University - Long Island Athletics
+State: New York
+
+Total coaches found: 48
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chris Aquatics
+   Email: cbrandenberger@sjny.edu
+   Username: cbrandenberger
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chris Brandenberger Aquatics Director/Danzi Center Supervisor/Head Coach 631-687- cbrandenberger@sjny.edu
+
+2. Kerry Connolly
+   Email: kconnolly7@sjny.edu
+   Username: kconnolly7
+   Sports: Soccer
+   Title: Head Coach/Danzi Center Supervisor
+   Original line: Kerry Connolly Head Coach/Danzi Center Supervisor 631-687- kconnolly7@sjny.edu
+
+3. AJ Uhl
+   Email: auhl@sjny.edu
+   Username: auhl
+   Sports: Soccer
+   Title: Head Coach/Danzi Center Supervisor
+   Original line: AJ Uhl Head Coach/Danzi Center Supervisor 631-687- auhl@sjny.edu
+
+4. Tom Caputo
+   Email: tcaputo@sjny.edu
+   Username: tcaputo
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tom Caputo Head Coach 631-687- tcaputo@sjny.edu
+
+5. Elliot Robles
+   Email: erobles@sjny.edu
+   Username: erobles
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Elliot Robles Assistant Coach 631-687- erobles@sjny.edu
+
+6. Phil Krpata
+   Email: pkrpata@sjny.edu
+   Username: pkrpata
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Phil Krpata Assistant Coach 631-687- pkrpata@sjny.edu
+
+7. Jim Crowley
+   Email: jcrowley@sjny.edu
+   Username: jcrowley
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Jim Crowley Head Coach 631-687- jcrowley@sjny.edu
+
+8. Amanda Sprague
+   Email: asprague@sjny.edu
+   Username: asprague
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Amanda Sprague Assistant Coach 631-687- asprague@sjny.edu
+
+9. AJ Uhl
+   Email: auhl@sjny.edu
+   Username: auhl
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: AJ Uhl Head Coach 631-687- auhl@sjny.edu
+
+10. Errol Daniyan
+   Email: edaniyan@sjny.edu
+   Username: edaniyan
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Errol Daniyan Assistant Coach 631-687- edaniyan@sjny.edu
+
+11. Billy Heenan
+   Email: wheenan@sjny.edu
+   Username: wheenan
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Billy Heenan Assistant Coach 631-687- wheenan@sjny.edu
+
+12. John Volunteer
+   Email: johncrowleyford@gmail.com
+   Username: johncrowleyford
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: John Ford Volunteer Assistant Coach 631-687- johncrowleyford@gmail.com
+
+13. Jeff DiMarco
+   Email: jdimarco@sjny.edu
+   Username: jdimarco
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Jeff DiMarco Head Coach 631-687- jdimarco@sjny.edu
+
+14. Matt Knote
+   Email: mknote@sjny.edu
+   Username: mknote
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Matt Knote Head Coach 631-687- mknote@sjny.edu
+
+15. Brian Corrigan
+   Email: bcorrigan@sjny.edu
+   Username: bcorrigan
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Brian Corrigan Assistant Coach bcorrigan@sjny.edu
+
+16. Robert Gomez
+   Email: rgomez@sjny.edu
+   Username: rgomez
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Robert Gomez Head Coach 631-687- rgomez@sjny.edu
+
+17. James Pyatsky
+   Email: jpyatsky@sjcny.edu
+   Username: jpyatsky
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: James Pyatsky Assistant Coach 631-687- jpyatsky@sjcny.edu
+
+18. Chris Aquatics
+   Email: cbrandenberger@sjny.edu
+   Username: cbrandenberger
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Chris Brandenberger Aquatics Director/Danzi Center Supervisor/Head Coach 631-687- cbrandenberger@sjny.edu
+
+19. Jimmy Delevante
+   Email: jdelevante@sjny.edu
+   Username: jdelevante
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Jimmy Delevante Head Coach 631-687- jdelevante@sjny.edu
+
+20. Bill Kropp
+   Email: wkropp@sjny.edu
+   Username: wkropp
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Bill Kropp Head Coach 631-687- wkropp@sjny.edu
+
+21. Lisa Jusino
+   Email: ljusino@sjny.edu
+   Username: ljusino
+   Sports: Softball
+   Title: Head Coach
+   Original line: Lisa Jusino Head Coach 631-687- ljusino@sjny.edu
+
+22. Melyssa Renalds
+   Email: mrenalds@sjny.edu
+   Username: mrenalds
+   Sports: Softball
+   Title: Head Coach
+   Original line: Melyssa Renalds Associate Head Coach 631-687- mrenalds@sjny.edu
+
+23. Olivia Verderosa
+   Email: overderosa@sjny.edu
+   Username: overderosa
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Olivia Verderosa Assistant Coach overderosa@sjny.edu
+
+24. Olivia Verderosa
+   Email: overderosa@sjny.edu
+   Username: overderosa
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Olivia Verderosa Assistant Coach 631-687- overderosa@sjny.edu
+
+25. Kerry Connolly
+   Email: kconnolly7@sjny.edu
+   Username: kconnolly7
+   Sports: Softball
+   Title: Head Coach/Danzi Center Supervisor
+   Original line: Kerry Connolly Head Coach/Danzi Center Supervisor 631-687- kconnolly7@sjny.edu
+
+26. Andrea Iavarone
+   Email: aiavarone@sjny.edu
+   Username: aiavarone
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Andrea Iavarone Assistant Coach 631-687- aiavarone@sjny.edu
+
+27. Matt Candemeres
+   Email: mcandemeres@sjny.edu
+   Username: mcandemeres
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Matt Candemeres Assistant Coach mcandemeres@sjny.edu
+
+28. Kerry Connolly
+   Email: kconnolly7@sjny.edu
+   Username: kconnolly7
+   Sports: Softball
+   Title: Head Coach/Danzi Center Supervisor
+   Original line: Kerry Connolly Head Coach/Danzi Center Supervisor 631-687- kconnolly7@sjny.edu
+
+29. Jillian Pfeifer
+   Email: jpfeifer@sjny.edu
+   Username: jpfeifer
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jillian Pfeifer Head Coach 631-687- jpfeifer@sjny.edu
+
+30. Grace Beshlian
+   Email: gbeshlian@sjny.edu
+   Username: gbeshlian
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Grace Beshlian Assistant Coach gbeshlian@sjny.edu
+
+31. Tom Williamson
+   Email: twilliamson@sjny.edu
+   Username: twilliamson
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tom Williamson Head Coach 631-687- twilliamson@sjny.edu
+
+32. Chris Aquatics
+   Email: cbrandenberger@sjny.edu
+   Username: cbrandenberger
+   Sports: Softball
+   Title: Head Coach
+   Original line: Chris Brandenberger Aquatics Director/Danzi Center Supervisor/Head Coach 631-687- cbrandenberger@sjny.edu
+
+33. Breanna Daly
+   Email: bdaly2@sjny.edu
+   Username: bdaly2
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Breanna Daly Assistant Coach 631-687- bdaly2@sjny.edu
+
+34. Jimmy Delevante
+   Email: jdelevante@sjny.edu
+   Username: jdelevante
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jimmy Delevante Head Coach 631-687- jdelevante@sjny.edu
+
+35. Tobey Pantophlet
+   Email: rpantophlet@sjny.edu
+   Username: rpantophlet
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tobey Pantophlet Head Coach 631-687- rpantophlet@sjny.edu
+
+36. DeVaunte Maynes
+   Email: 
+   Username: devaunte.maynes
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: DeVaunte Maynes Assistant Coach
+
+37. Jeff Chu
+   Email: 
+   Username: jeff.chu
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeff Chu Assistant Coach
+
+38. Brennen Brandow
+   Email: 
+   Username: brennen.brandow
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brennen Brandow Assistant Coach
+
+39. David Wood
+   Email: 
+   Username: david.wood
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: David Wood Assistant Coach
+
+40. Frank Franzone
+   Email: 
+   Username: frank.franzone
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Frank Franzone Assistant Coach
+
+41. Danielle Hamlin
+   Email: 
+   Username: danielle.hamlin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Danielle Hamlin Assistant Coach 631-687-
+
+42. Julianna Knice
+   Email: 
+   Username: julianna.knice
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Julianna Knice Assistant Coach
+
+43. Emma Schait
+   Email: 
+   Username: emma.schait
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emma Schait Assistant Coach 631-687-
+
+44. Jaclyn O'Shaughnessy
+   Email: 
+   Username: jaclyn.o.shaughnessy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jaclyn O'Shaughnessy Assistant Coach 631-687-
+
+45. Matthew Volunteer
+   Email: 
+   Username: matthew.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matthew Schindler Volunteer Assistant Coach
+
+46. Michelle Barclay
+   Email: 
+   Username: michelle.barclay
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michelle Barclay Assistant Coach
+
+47. Annie Lapierre
+   Email: 
+   Username: annie.lapierre
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Annie Lapierre Assistant Coach
+
+48. Dana Siebert
+   Email: 
+   Username: dana.siebert
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dana Siebert Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chris Brandenberger Aquatics Director/Danzi Center Supervisor/Head Coach 631-687- cbrandenberger@sjny.edu
+• Kerry Connolly Head Coach/Danzi Center Supervisor 631-687- kconnolly7@sjny.edu
+• AJ Uhl Head Coach/Danzi Center Supervisor 631-687- auhl@sjny.edu
+• Tom Caputo Head Coach 631-687- tcaputo@sjny.edu
+• Elliot Robles Assistant Coach 631-687- erobles@sjny.edu
+• Phil Krpata Assistant Coach 631-687- pkrpata@sjny.edu
+• Jim Crowley Head Coach 631-687- jcrowley@sjny.edu
+• Amanda Sprague Assistant Coach 631-687- asprague@sjny.edu
+• AJ Uhl Head Coach 631-687- auhl@sjny.edu
+• Errol Daniyan Assistant Coach 631-687- edaniyan@sjny.edu
+• Billy Heenan Assistant Coach 631-687- wheenan@sjny.edu
+• John Ford Volunteer Assistant Coach 631-687- johncrowleyford@gmail.com
+• Jeff DiMarco Head Coach 631-687- jdimarco@sjny.edu
+• Matt Knote Head Coach 631-687- mknote@sjny.edu
+• Brian Corrigan Assistant Coach bcorrigan@sjny.edu
+• Robert Gomez Head Coach 631-687- rgomez@sjny.edu
+• James Pyatsky Assistant Coach 631-687- jpyatsky@sjcny.edu
+• Chris Brandenberger Aquatics Director/Danzi Center Supervisor/Head Coach 631-687- cbrandenberger@sjny.edu
+• Jimmy Delevante Head Coach 631-687- jdelevante@sjny.edu
+• Bill Kropp Head Coach 631-687- wkropp@sjny.edu
+• Lisa Jusino Head Coach 631-687- ljusino@sjny.edu
+• Melyssa Renalds Associate Head Coach 631-687- mrenalds@sjny.edu
+• Olivia Verderosa Assistant Coach overderosa@sjny.edu
+• Olivia Verderosa Assistant Coach 631-687- overderosa@sjny.edu
+• Kerry Connolly Head Coach/Danzi Center Supervisor 631-687- kconnolly7@sjny.edu
+• Andrea Iavarone Assistant Coach 631-687- aiavarone@sjny.edu
+• Matt Candemeres Assistant Coach mcandemeres@sjny.edu
+• Kerry Connolly Head Coach/Danzi Center Supervisor 631-687- kconnolly7@sjny.edu
+• Jillian Pfeifer Head Coach 631-687- jpfeifer@sjny.edu
+• Grace Beshlian Assistant Coach gbeshlian@sjny.edu
+• Tom Williamson Head Coach 631-687- twilliamson@sjny.edu
+• Chris Brandenberger Aquatics Director/Danzi Center Supervisor/Head Coach 631-687- cbrandenberger@sjny.edu
+• Breanna Daly Assistant Coach 631-687- bdaly2@sjny.edu
+• Jimmy Delevante Head Coach 631-687- jdelevante@sjny.edu
+• Tobey Pantophlet Head Coach 631-687- rpantophlet@sjny.edu

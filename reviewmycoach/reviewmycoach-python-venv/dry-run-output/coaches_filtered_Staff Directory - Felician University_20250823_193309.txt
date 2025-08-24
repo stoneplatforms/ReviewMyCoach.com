@@ -1,0 +1,394 @@
+COACH ENTRIES FOUND - 2025-08-23 19:33:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Felician University
+Organization: Felician University Athletics
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brandon Levine
+   Email: LevineB@felician.edu
+   Username: LevineB
+   Sports: Soccer
+   Title: Athletics Assistant / Head Coach
+   Phone: (201) 559-3528
+   Original line: Brandon Levine Athletics Assistant / Head Coach LevineB@felician.edu 201-559-3528
+
+2. Jayon James
+   Email: JamesJ@felician.edu
+   Username: JamesJ
+   Sports: Soccer
+   Title: Equipment Manager / Assistant Coach
+   Original line: Jayon James Equipment Manager / Assistant Coach JamesJ@felician.edu
+
+3. Tierra Cleaves
+   Email: CleavesT@felician.edu
+   Username: CleavesT
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting Coordinator /
+   Original line: Tierra Cleaves Assistant Coach / Recruiting Coordinator / CleavesT@felician.edu
+
+4. Justin Russo
+   Email: RussoJ@felician.edu
+   Username: RussoJ
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Justin Russo Head Strength & Conditioning Coach RussoJ@felician.edu
+
+5. Chris Langan
+   Email: LanganC@felician.edu
+   Username: LanganC
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (732) 500-4251
+   Original line: Chris Langan Head Coach LanganC@felician.edu 732-500-4251 (mobile)
+
+6. Steve Langan
+   Email: SLanganBaseball@gmail.com
+   Username: SLanganBaseball
+   Sports: Baseball
+   Title: Hitting/Third Base Coach
+   Original line: Steve Langan Hitting/Third Base Coach SLanganBaseball@gmail.com
+
+7. Dustin Javins
+   Email: JavinsD@felician.edu
+   Username: JavinsD
+   Sports: Baseball
+   Title: Recruiting Coordinator/Assistant Coach
+   Phone: (201) 559-6185
+   Original line: Dustin Javins Recruiting Coordinator/Assistant Coach JavinsD@felician.edu 201-559-6185
+
+8. Ivan Lewis
+   Email: LewisI@felician.edu
+   Username: LewisI
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (862) 339-0142
+   Original line: Ivan Lewis '04 Head Coach LewisI@felician.edu 862-339-0142
+
+9. Jayon James
+   Email: JamesJ@felician.edu
+   Username: JamesJ
+   Sports: Baseball
+   Title: Equipment Manager / Assistant Coach
+   Original line: Jayon James Equipment Manager / Assistant Coach JamesJ@felician.edu
+
+10. Brad Forestieri
+   Email: ForestieriB@felician.edu
+   Username: ForestieriB
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Brad Forestieri Assistant Coach ForestieriB@felician.edu
+
+11. David Nichols
+   Email: nicholsda@felician.edu
+   Username: nicholsda
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: David Nichols Assistant Coach nicholsda@felician.edu
+
+12. John Brennan
+   Email: JCBrennan72@gmail.com
+   Username: JCBrennan72
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: John Brennan Assistant Coach JCBrennan72@gmail.com
+
+13. Andy Crane
+   Email: craneth@felician.edu
+   Username: craneth
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Andy Crane Head Coach craneth@felician.edu
+
+14. Brandon Levine
+   Email: LevineB@felician.edu
+   Username: LevineB
+   Sports: Baseball
+   Title: Athletics Assistant / Head Coach
+   Phone: (201) 559-3528
+   Original line: Brandon Levine Athletics Assistant / Head Coach LevineB@felician.edu 201-559-3528
+
+15. Besmir Zuta
+   Email: Zutab@felician.edu
+   Username: Zutab
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Besmir Zuta Assistant Coach Zutab@felician.edu
+
+16. Chris Dunn
+   Email: DunnC@felician.edu
+   Username: DunnC
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Chris Dunn Head Coach DunnC@felician.edu
+
+17. Michelle Sanchez
+   Email: sanchezm@felician.edu
+   Username: sanchezm
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Michelle Sanchez Assistant Coach sanchezm@felician.edu
+
+18. Cherie Ware-Powell
+   Email: Ware-PowellC@felician.edu
+   Username: Ware-PowellC
+   Sports: Baseball
+   Title: Assistant Coach/Sprints
+   Original line: Cherie Ware-Powell Assistant Coach/Sprints Ware-PowellC@felician.edu
+
+19. Dale Fava
+   Email: DaleFava@gmail.com
+   Username: DaleFava
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (551) 775-7663
+   Original line: Dale Fava Head Coach DaleFava@gmail.com 551-775-7663 (mobile)
+
+20. BJ Young
+   Email: youngw@felician.edu
+   Username: youngw
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: BJ Young Assistant Coach youngw@felician.edu
+
+21. Steve Fagan
+   Email: FaganS@felician.edu
+   Username: FaganS
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (862) 339-0149
+   Original line: Steve Fagan Head Coach FaganS@felician.edu 862-339-0149
+
+22. Tierra Cleaves
+   Email: CleavesT@felician.edu
+   Username: CleavesT
+   Sports: Baseball
+   Title: Assistant Coach / Recruiting Coordinator /
+   Original line: Tierra Cleaves Assistant Coach / Recruiting Coordinator / CleavesT@felician.edu
+
+23. Rochelle Forbes
+   Email: ForbesR@felician.edu
+   Username: ForbesR
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Rochelle Forbes '06 M'09 Assistant Coach ForbesR@felician.edu
+
+24. Rusty Thomsen
+   Email: ThomsenR@felician.edu
+   Username: ThomsenR
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (732) 501-9929
+   Original line: Rusty Thomsen Head Coach ThomsenR@felician.edu 732-501-9929
+
+25. Frank Parisi
+   Email: ParisiF@felician.edu
+   Username: ParisiF
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (732) 910-0336
+   Original line: Frank Parisi Assistant Coach ParisiF@felician.edu 732-910-0336
+
+26. John Brennan
+   Email: JCBrennan72@gmail.com
+   Username: JCBrennan72
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: John Brennan Assistant Coach JCBrennan72@gmail.com
+
+27. Gianna Muscari
+   Email: Muscarig@felician.edu
+   Username: Muscarig
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Gianna Muscari Head Coach Muscarig@felician.edu
+
+28. Rachel Vallarelli
+   Email: vallarellir@felician.edu
+   Username: vallarellir
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Rachel Vallarelli Assistant Coach vallarellir@felician.edu
+
+29. Phil Delgado
+   Email: DelgadoPh@Felician.edu
+   Username: DelgadoPh
+   Sports: Softball
+   Title: Head Coach
+   Phone: (201) 355-1360
+   Original line: Phil Delgado Head Coach DelgadoPh@Felician.edu 201-355-1360
+
+30. Jorge Solodkin
+   Email: solodkinj@felician.edu
+   Username: solodkinj
+   Sports: Softball
+   Title: Catching Coach
+   Original line: Jorge Solodkin Catching Coach solodkinj@felician.edu
+
+31. Scott Maloney
+   Email: MaloneyS@felician.edu
+   Username: MaloneyS
+   Sports: Softball
+   Title: Head Coach
+   Original line: Scott Maloney Head Coach MaloneyS@felician.edu
+
+32. Gerson Martinez
+   Email: MartinezG@felician.edu
+   Username: MartinezG
+   Sports: Softball
+   Title: First Assistant Coach
+   Original line: Gerson Martinez First Assistant Coach MartinezG@felician.edu
+
+33. Joshua Gochiz
+   Email: joshuagochiz@gmail.com
+   Username: joshuagochiz
+   Sports: Softball
+   Title: Assistant / Goalkeeper Coach
+   Original line: Joshua Gochiz Assistant / Goalkeeper Coach joshuagochiz@gmail.com
+
+34. Lauren Wrigley
+   Email: WrigleyL@felician.edu
+   Username: WrigleyL
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Lauren Wrigley Assistant Coach WrigleyL@felician.edu
+
+35. Chris Dunn
+   Email: DunnC@felician.edu
+   Username: DunnC
+   Sports: Softball
+   Title: Head Coach
+   Original line: Chris Dunn Head Coach DunnC@felician.edu
+
+36. Michelle Sanchez
+   Email: sanchezm@felician.edu
+   Username: sanchezm
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Michelle Sanchez Assistant Coach sanchezm@felician.edu
+
+37. Cherie Ware-Powell
+   Email: Ware-PowellC@felician.edu
+   Username: Ware-PowellC
+   Sports: Softball
+   Title: Assistant Coach/Sprints
+   Original line: Cherie Ware-Powell Assistant Coach/Sprints Ware-PowellC@felician.edu
+
+38. Kim Butrico
+   Email: ButricoK@felician.edu
+   Username: ButricoK
+   Sports: Softball
+   Title: Head Coach
+   Phone: (201) 559-3032
+   Original line: Kim Butrico Head Coach ButricoK@felician.edu 201-559-3032
+
+39. Julia Ficon
+   Email: ficonj@felician.edu
+   Username: ficonj
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Julia Ficon Assistant Coach ficonj@felician.edu
+
+40. Fred Santaite
+   Email: SantaiteF@felician.edu
+   Username: SantaiteF
+   Sports: Softball
+   Title: Head Coach
+   Phone: (201) 417-8314
+   Original line: Fred Santaite Head Coach SantaiteF@felician.edu 201-417-8314 (mobile)
+
+41. Jordan Frease
+   Email: freasej@felician.edu
+   Username: freasej
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jordan Frease Assistant Coach freasej@felician.edu
+
+42. Fanny Johnson
+   Email: johnsonf@felician.edu
+   Username: johnsonf
+   Sports: Softball
+   Title: Head Coach
+   Phone: (201) 559-3338
+   Original line: Fanny Johnson Head Coach johnsonf@felician.edu 201-559-3338
+
+43. Denys Sanchez
+   Email: ms.denyssanchez@gmail.com
+   Username: ms.denyssanchez
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Denys Sanchez Assistant Coach ms.denyssanchez@gmail.com
+
+44. Andrew Toriello
+   Email: TorielloA@felician.edu
+   Username: TorielloA
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Head Coach 767-2566 (mobile) TorielloA@felician.edu
+
+45. Will Faceoff
+   Email: MahonW@felician.edu
+   Username: MahonW
+   Sports: Soccer
+   Title: Head Coach
+   Original line: TBD TBD Head Coach MahonW@felician.edu
+
+46. Michele Volunteer
+   Email: 
+   Username: michele.volunteer
+   Sports: Soccer
+   Title: Assistant Coach/Multi Events
+   Original line: Michele Grigsby Volunteer Assistant Coach/Multi Events
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brandon Levine Athletics Assistant / Head Coach LevineB@felician.edu 201-559-3528
+• Jayon James Equipment Manager / Assistant Coach JamesJ@felician.edu
+• Tierra Cleaves Assistant Coach / Recruiting Coordinator / CleavesT@felician.edu
+• Justin Russo Head Strength & Conditioning Coach RussoJ@felician.edu
+• Chris Langan Head Coach LanganC@felician.edu 732-500-4251 (mobile)
+• Steve Langan Hitting/Third Base Coach SLanganBaseball@gmail.com
+• Dustin Javins Recruiting Coordinator/Assistant Coach JavinsD@felician.edu 201-559-6185
+• Ivan Lewis '04 Head Coach LewisI@felician.edu 862-339-0142
+• Jayon James Equipment Manager / Assistant Coach JamesJ@felician.edu
+• Brad Forestieri Assistant Coach ForestieriB@felician.edu
+• David Nichols Assistant Coach nicholsda@felician.edu
+• John Brennan Assistant Coach JCBrennan72@gmail.com
+• Andy Crane Head Coach craneth@felician.edu
+• Brandon Levine Athletics Assistant / Head Coach LevineB@felician.edu 201-559-3528
+• Besmir Zuta Assistant Coach Zutab@felician.edu
+• Chris Dunn Head Coach DunnC@felician.edu
+• Michelle Sanchez Assistant Coach sanchezm@felician.edu
+• Cherie Ware-Powell Assistant Coach/Sprints Ware-PowellC@felician.edu
+• Dale Fava Head Coach DaleFava@gmail.com 551-775-7663 (mobile)
+• BJ Young Assistant Coach youngw@felician.edu
+• Steve Fagan Head Coach FaganS@felician.edu 862-339-0149
+• Tierra Cleaves Assistant Coach / Recruiting Coordinator / CleavesT@felician.edu
+• Rochelle Forbes '06 M'09 Assistant Coach ForbesR@felician.edu
+• Rusty Thomsen Head Coach ThomsenR@felician.edu 732-501-9929
+• Frank Parisi Assistant Coach ParisiF@felician.edu 732-910-0336
+• John Brennan Assistant Coach JCBrennan72@gmail.com
+• Gianna Muscari Head Coach Muscarig@felician.edu
+• Rachel Vallarelli Assistant Coach vallarellir@felician.edu
+• Phil Delgado Head Coach DelgadoPh@Felician.edu 201-355-1360
+• Jorge Solodkin Catching Coach solodkinj@felician.edu
+• Scott Maloney Head Coach MaloneyS@felician.edu
+• Gerson Martinez First Assistant Coach MartinezG@felician.edu
+• Joshua Gochiz Assistant / Goalkeeper Coach joshuagochiz@gmail.com
+• Lauren Wrigley Assistant Coach WrigleyL@felician.edu
+• Chris Dunn Head Coach DunnC@felician.edu
+• Michelle Sanchez Assistant Coach sanchezm@felician.edu
+• Cherie Ware-Powell Assistant Coach/Sprints Ware-PowellC@felician.edu
+• Kim Butrico Head Coach ButricoK@felician.edu 201-559-3032
+• Julia Ficon Assistant Coach ficonj@felician.edu
+• Fred Santaite Head Coach SantaiteF@felician.edu 201-417-8314 (mobile)
+• Jordan Frease Assistant Coach freasej@felician.edu
+• Fanny Johnson Head Coach johnsonf@felician.edu 201-559-3338
+• Denys Sanchez Assistant Coach ms.denyssanchez@gmail.com

@@ -1,0 +1,304 @@
+COACH ENTRIES FOUND - 2025-08-24 17:49:27
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Mercy University
+Organization: Mercy University Athletics
+State: New York
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. JD Tom
+   Email: jtom@mercy.edu
+   Username: jtom
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: JD Tom Head Strength & Conditioning Coach 914-888- jtom@mercy.edu (Hudson Hall
+
+2. Chris Schoen
+   Email: cschoen@mercy.edu
+   Username: cschoen
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Chris Schoen Head Coach 914-760- cschoen@mercy.edu (Victory Hall 113E)
+
+3. Randal Mendez
+   Email: rmendez4@mercy.edu
+   Username: rmendez4
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Randal Mendez Assistant Coach/Recruiting Coordinator 914-674- rmendez4@mercy.edu (Victory Hall 113E)
+
+4. Marc Pitching
+   Email: mpalmieri2@mercy.edu
+   Username: mpalmieri2
+   Sports: Baseball
+   Title: Coach
+   Original line: Marc Palmieri Pitching Coach 914-674- mpalmieri2@mercy.edu (Victory Hall 113E)
+
+5. Joshua Alvarado
+   Email: jalvarado23@mercy.edu
+   Username: jalvarado23
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Joshua Alvarado Assistant Coach 914-888- jalvarado23@mercy.edu (Victory Hall
+
+6. Charles Marquardt
+   Email: cmarquardt@mercy.edu
+   Username: cmarquardt
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Charles Marquardt Head Coach 914-674- cmarquardt@mercy.edu (Victory Hall
+
+7. Reggie Dorsey
+   Email: rdorseyii@mercy.edu
+   Username: rdorseyii
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Reggie Dorsey Assistant Coach 914-674- rdorseyii@mercy.edu (Victory Hall
+
+8. Scott Lagas
+   Email: slagas@mercy.edu
+   Username: slagas
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Scott Lagas Head Coach 914-674- slagas@mercy.edu (Victory Hall
+
+9. Max Magee
+   Email: mmagee@mercy.edu
+   Username: mmagee
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Max Magee Assistant Coach 914-674- mmagee@mercy.edu (Victory Hall
+
+10. Sara Hopkins
+   Email: shopkins6@mercy.edu
+   Username: shopkins6
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Sara Hopkins Assistant Coach 914-674- shopkins6@mercy.edu (Victory Hall
+
+11. Marissa Spinazzola
+   Email: mspinazzola@mercy.edu
+   Username: mspinazzola
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Marissa Spinazzola Head Coach 914-674- mspinazzola@mercy.edu (Victory Hall
+
+12. Alyssa Sacco
+   Email: asacco@mercy.edu
+   Username: asacco
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Alyssa Sacco Assistant Coach 914-674- asacco@mercy.edu (Victory Hall
+
+13. Taylor Durkin
+   Email: tdurkin1@mercy.edu
+   Username: tdurkin1
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Taylor Durkin Assistant Coach 914-674- tdurkin1@mercy.edu (Victory Hall
+
+14. Kasey Volz
+   Email: kvolz@mercy.edu
+   Username: kvolz
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Kasey Volz Assistant Coach 914-674- kvolz@mercy.edu (Victory Hall
+
+15. Ryan MacSpadyen
+   Email: rmacspadyen@mercy.edu
+   Username: rmacspadyen
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Ryan MacSpadyen Head Coach 914-674- rmacspadyen@mercy.edu (Victory Hall
+
+16. Dawn Sachs
+   Email: dsachs2@mercy.edu
+   Username: dsachs2
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Dawn Sachs Head Coach 914-674- dsachs2@mercy.edu (Victory Hall
+
+17. Joe Corace
+   Email: jcorace@mercy.edu
+   Username: jcorace
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Joe Corace Associate Head Coach 914-674- jcorace@mercy.edu (Victory Hall
+
+18. Briana Corace
+   Email: bcorace@mercy.edu
+   Username: bcorace
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Briana Corace Assistant Coach 914-674- bcorace@mercy.edu (Victory Hall
+
+19. Olivia Maute
+   Email: omaute@mercy.edu
+   Username: omaute
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Olivia Maute Assistant Coach 914-674- omaute@mercy.edu (Victory Hall
+
+20. Pedro Velazquez
+   Email: pvelazquez@mercy.edu
+   Username: pvelazquez
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Pedro Velazquez Head Coach 914-674- pvelazquez@mercy.edu (Victory Hall 113F)
+
+21. Juan Gatti
+   Email: jgatti@mercy.edu
+   Username: jgatti
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Juan Gatti Assistant Coach 914-674- jgatti@mercy.edu (Victory Hall 113F)
+
+22. Benjamin Buren
+   Email: bvanburen@mercy.edu
+   Username: bvanburen
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Benjamin Van Buren Assistant Coach 914-674- bvanburen@mercy.edu (Victory Hall 113F)
+
+23. Marko Loncar
+   Email: mloncar@mercy.edu
+   Username: mloncar
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Marko Loncar Assistant Coach 914-674- mloncar@mercy.edu (Victory Hall 113F)
+
+24. Eirik Student
+   Email: eelvestad@mercy.edu
+   Username: eelvestad
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Eirik Elvestad Student Assistant Coach 914-674- eelvestad@mercy.edu (Victory Hall 113F)
+
+25. Jack Nicholson
+   Email: jnicholson2@mercy.edu
+   Username: jnicholson2
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Jack Nicholson Head Coach 914-674- jnicholson2@mercy.edu (Victory Hall 113F)
+
+26. Chris Nichol
+   Email: cnichol1@mercy.edu
+   Username: cnichol1
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Chris Nichol Assistant Coach 914-674- cnichol1@mercy.edu (Victory Hall 113F)
+
+27. Merari Rodriguez
+   Email: mrodriguez279@mercy.edu
+   Username: mrodriguez279
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Merari Rodriguez Assistant Coach 914-674- mrodriguez279@mercy.edu (Victory Hall 113F)
+
+28. Amiah Washington
+   Email: awashington18@mercy.edu
+   Username: awashington18
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Amiah Washington Assistant Coach 914-674- awashington18@mercy.edu (Victory Hall 113F)
+
+29. Amber Garcia
+   Email: agarcia187@mercy.edu
+   Username: agarcia187
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Amber Garcia Assistant Coach 914-674- agarcia187@mercy.edu (Victory Hall 113F)
+
+30. Jaime Lorenzo
+   Email: jlorenzo2@mercy.edu
+   Username: jlorenzo2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jaime Lorenzo Head Coach 914-674- jlorenzo2@mercy.edu (Victory Hall
+
+31. Tayla Pitching
+   Email: tgardner1@mercy.edu
+   Username: tgardner1
+   Sports: Softball
+   Title: Coach
+   Original line: Tayla Gardner Pitching Coach 914-674- tgardner1@mercy.edu (Victory Hall
+
+32. Chris Rowan
+   Email: crowan@mercy.edu
+   Username: crowan
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Chris Rowan Assistant Coach 914-674- crowan@mercy.edu (Victory Hall
+
+33. Ana Todorovic
+   Email: atodorovic@mercy.edu
+   Username: atodorovic
+   Sports: Softball
+   Title: Head Coach
+   Original line: Ana Todorovic Head Coach 914-888- atodorovic@mercy.edu (Victory Hall
+
+34. Joshua Alvarado
+   Email: jalvarado23@mercy.edu
+   Username: jalvarado23
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Joshua Alvarado Assistant Coach 914-888- jalvarado23@mercy.edu (Victory Hall
+
+35. Sydney Whitfield
+   Email: swhitfield4@mercy.edu
+   Username: swhitfield4
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sydney Whitfield Assistant Coach 914-888- swhitfield4@mercy.edu (Victory Hall
+
+36. Kyle Goodhart
+   Email: kgoodhart@mercy.edu
+   Username: kgoodhart
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 5146 123A) kgoodhart@mercy.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• JD Tom Head Strength & Conditioning Coach 914-888- jtom@mercy.edu (Hudson Hall
+• Chris Schoen Head Coach 914-760- cschoen@mercy.edu (Victory Hall 113E)
+• Randal Mendez Assistant Coach/Recruiting Coordinator 914-674- rmendez4@mercy.edu (Victory Hall 113E)
+• Marc Palmieri Pitching Coach 914-674- mpalmieri2@mercy.edu (Victory Hall 113E)
+• Joshua Alvarado Assistant Coach 914-888- jalvarado23@mercy.edu (Victory Hall
+• Charles Marquardt Head Coach 914-674- cmarquardt@mercy.edu (Victory Hall
+• Reggie Dorsey Assistant Coach 914-674- rdorseyii@mercy.edu (Victory Hall
+• Scott Lagas Head Coach 914-674- slagas@mercy.edu (Victory Hall
+• Max Magee Assistant Coach 914-674- mmagee@mercy.edu (Victory Hall
+• Sara Hopkins Assistant Coach 914-674- shopkins6@mercy.edu (Victory Hall
+• Marissa Spinazzola Head Coach 914-674- mspinazzola@mercy.edu (Victory Hall
+• Alyssa Sacco Assistant Coach 914-674- asacco@mercy.edu (Victory Hall
+• Taylor Durkin Assistant Coach 914-674- tdurkin1@mercy.edu (Victory Hall
+• Kasey Volz Assistant Coach 914-674- kvolz@mercy.edu (Victory Hall
+• Ryan MacSpadyen Head Coach 914-674- rmacspadyen@mercy.edu (Victory Hall
+• Dawn Sachs Head Coach 914-674- dsachs2@mercy.edu (Victory Hall
+• Joe Corace Associate Head Coach 914-674- jcorace@mercy.edu (Victory Hall
+• Briana Corace Assistant Coach 914-674- bcorace@mercy.edu (Victory Hall
+• Olivia Maute Assistant Coach 914-674- omaute@mercy.edu (Victory Hall
+• Pedro Velazquez Head Coach 914-674- pvelazquez@mercy.edu (Victory Hall 113F)
+• Juan Gatti Assistant Coach 914-674- jgatti@mercy.edu (Victory Hall 113F)
+• Benjamin Van Buren Assistant Coach 914-674- bvanburen@mercy.edu (Victory Hall 113F)
+• Marko Loncar Assistant Coach 914-674- mloncar@mercy.edu (Victory Hall 113F)
+• Eirik Elvestad Student Assistant Coach 914-674- eelvestad@mercy.edu (Victory Hall 113F)
+• Jack Nicholson Head Coach 914-674- jnicholson2@mercy.edu (Victory Hall 113F)
+• Chris Nichol Assistant Coach 914-674- cnichol1@mercy.edu (Victory Hall 113F)
+• Merari Rodriguez Assistant Coach 914-674- mrodriguez279@mercy.edu (Victory Hall 113F)
+• Amiah Washington Assistant Coach 914-674- awashington18@mercy.edu (Victory Hall 113F)
+• Amber Garcia Assistant Coach 914-674- agarcia187@mercy.edu (Victory Hall 113F)
+• Jaime Lorenzo Head Coach 914-674- jlorenzo2@mercy.edu (Victory Hall
+• Tayla Gardner Pitching Coach 914-674- tgardner1@mercy.edu (Victory Hall
+• Chris Rowan Assistant Coach 914-674- crowan@mercy.edu (Victory Hall
+• Ana Todorovic Head Coach 914-888- atodorovic@mercy.edu (Victory Hall
+• Joshua Alvarado Assistant Coach 914-888- jalvarado23@mercy.edu (Victory Hall
+• Sydney Whitfield Assistant Coach 914-888- swhitfield4@mercy.edu (Victory Hall

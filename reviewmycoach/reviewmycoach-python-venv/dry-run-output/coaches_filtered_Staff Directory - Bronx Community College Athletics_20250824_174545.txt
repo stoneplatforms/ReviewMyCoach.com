@@ -1,0 +1,98 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:45
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Bronx Community College
+Organization: Bronx Community College Athletics
+State: New York
+
+Total coaches found: 10
+
+PARSED ENTRIES:
+----------------------------------------
+1. To Be
+   Email: dionne.dodson@bcc.cuny.edu
+   Username: dionne.dodson
+   Sports: Soccer
+   Title: Announced Head Coach
+   Phone: (718) 289-5189
+   Original line: To Be Announced Head Coach dionne.dodson@bcc.cuny.edu 718-289-5189
+
+2. To Be
+   Email: Michael.Loeffler@bcc.cuny.edu
+   Username: Michael.Loeffler
+   Sports: Soccer
+   Title: Announced Head Coach
+   Phone: (718) 289-5982
+   Original line: To Be Announced Head Coach Michael.Loeffler@bcc.cuny.edu 718-289-5982
+
+3. Craig Williams
+   Email: craig.williams02@bcc.cuny.edu
+   Username: craig.williams02
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (347) 913-2640
+   Original line: Craig Williams Head Coach craig.williams02@bcc.cuny.edu 347-913-2640
+
+4. Warren Thompson
+   Email: warren.thompson@bcc.cuny.edu
+   Username: warren.thompson
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (718) 289-5289
+   Original line: Warren Thompson Head Coach warren.thompson@bcc.cuny.edu 718-289-5289
+
+5. Adolfo De
+   Email: adolfo.dejesus@bcc.cuny.edu
+   Username: adolfo.dejesus
+   Sports: Baseball
+   Title: Jesus Head Coach
+   Phone: (718) 289-5265
+   Original line: Adolfo De Jesus Head Coach adolfo.dejesus@bcc.cuny.edu 718-289-5265
+
+6. Orosmar Cuevas
+   Email: orosmarcuevas1@gmail.com
+   Username: orosmarcuevas1
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Orosmar Cuevas Associate Head Coach orosmarcuevas1@gmail.com
+
+7. Bryan Williams
+   Email: 
+   Username: bryan.williams
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bryan Williams Assistant Coach
+
+8. Andre Scott
+   Email: 
+   Username: andre.scott
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andre Scott Assistant Coach 718-289-5289
+
+9. Doretha Brooks
+   Email: 
+   Username: doretha.brooks
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Doretha Brooks Assistant Coach
+
+10. Luis Cortorreal
+   Email: 
+   Username: luis.cortorreal
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Luis Cortorreal Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• To Be Announced Head Coach dionne.dodson@bcc.cuny.edu 718-289-5189
+• To Be Announced Head Coach Michael.Loeffler@bcc.cuny.edu 718-289-5982
+• Craig Williams Head Coach craig.williams02@bcc.cuny.edu 347-913-2640
+• Warren Thompson Head Coach warren.thompson@bcc.cuny.edu 718-289-5289
+• Adolfo De Jesus Head Coach adolfo.dejesus@bcc.cuny.edu 718-289-5265
+• Orosmar Cuevas Associate Head Coach orosmarcuevas1@gmail.com

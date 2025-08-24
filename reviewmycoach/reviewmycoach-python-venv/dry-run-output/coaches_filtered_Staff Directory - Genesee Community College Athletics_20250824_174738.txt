@@ -1,0 +1,168 @@
+COACH ENTRIES FOUND - 2025-08-24 17:47:38
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: College
+Organization: Genesee Community College Athletics
+State: New York
+
+Total coaches found: 19
+
+PARSED ENTRIES:
+----------------------------------------
+1. Skip Sherman
+   Email: ssherman@genesee.edu
+   Username: ssherman
+   Sports: Soccer
+   Title: Head Coach/Athletic
+   Phone: (585) 343-0055
+   Original line: Skip Sherman Head Coach/Athletic (585) 343-0055 ext 6454 ssherman@genesee.edu
+
+2. Terry George
+   Email: tageorge@genesee.edu
+   Username: tageorge
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (585) 343-0055
+   Original line: Terry George Head Coach (585) 343-0055 ext 6473 tageorge@genesee.edu
+
+3. Ken Gavin
+   Email: kjgavin@genesee.edu
+   Username: kjgavin
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (585) 752-2961
+   Original line: Ken Gavin Head Coach (585) 752-2961 kjgavin@genesee.edu
+
+4. Nathan Dusett
+   Email: nldusett@genesee.edu
+   Username: nldusett
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (585) 474-7170
+   Original line: Nathan Dusett Head Coach 585-474-7170 nldusett@genesee.edu
+
+5. Ethan Heim
+   Email: eaheim@genesee.edu
+   Username: eaheim
+   Sports: Soccer
+   Title: Head Coach/Sports
+   Phone: (585) 343-0055
+   Original line: Ethan Heim Head Coach/Sports (585) 343-0055 ext 6225 eaheim@genesee.edu
+
+6. Jeff Parizek
+   Email: jtparizek@genesee.edu
+   Username: jtparizek
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (585)329-7394
+   Original line: Jeff Parizek Head Coach (585)329-7394 jtparizek@genesee.edu
+
+7. Jeff Reyngoudt
+   Email: jcreyngoudt@genesee.edu
+   Username: jcreyngoudt
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (585) 343-0055
+   Original line: Jeff Reyngoudt Head Coach (585) 343-0055 ext 6441 jcreyngoudt@genesee.edu
+
+8. Macy Reyngoudt
+   Email: mareyngoudt@genesee.edu
+   Username: mareyngoudt
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (585) 343-0055
+   Original line: Macy Reyngoudt Assistant Coach (585) 343-0055 ext 6199 mareyngoudt@genesee.edu
+
+9. Tim Lincoln
+   Email: tplincoln@genesee.edu
+   Username: tplincoln
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (585) 343-0055
+   Original line: Tim Lincoln Head Coach (585) 343-0055 ext 6242 tplincoln@genesee.edu
+
+10. Gary Mannella
+   Email: 
+   Username: gary.mannella
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Gary Mannella Associate Head Coach
+
+11. Trent Wasserman
+   Email: 
+   Username: trent.wasserman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Trent Wasserman Assistant Coach
+
+12. Jimmy Pulliam
+   Email: 
+   Username: jimmy.pulliam
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jimmy Pulliam Assistant Coach
+
+13. Kevin Henneberry
+   Email: 
+   Username: kevin.henneberry
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kevin Henneberry Head Coach
+
+14. Connor Halsted
+   Email: 
+   Username: connor.halsted
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Connor Halsted Assistant Coach
+
+15. Jim Cody
+   Email: 
+   Username: jim.cody
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jim Cody Assistant Coach
+
+16. Alexis Meisner
+   Email: 
+   Username: alexis.meisner
+   Sports: Soccer
+   Title: Alexis Meisner Diving Coach
+   Original line: Alexis Meisner Diving Coach
+
+17. Bill Shaw
+   Email: 
+   Username: bill.shaw
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bill Shaw Assistant Coach
+
+18. Chooch Jonathan
+   Email: 
+   Username: chooch.jonathan
+   Sports: Soccer
+   Title: Assistant coach
+   Original line: Chooch Jonathan Assistant coach
+
+19. Rylee Pearles
+   Email: 
+   Username: rylee.pearles
+   Sports: Soccer
+   Title: Assistant coach
+   Original line: Rylee Pearles Assistant coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Skip Sherman Head Coach/Athletic (585) 343-0055 ext 6454 ssherman@genesee.edu
+• Terry George Head Coach (585) 343-0055 ext 6473 tageorge@genesee.edu
+• Ken Gavin Head Coach (585) 752-2961 kjgavin@genesee.edu
+• Nathan Dusett Head Coach 585-474-7170 nldusett@genesee.edu
+• Ethan Heim Head Coach/Sports (585) 343-0055 ext 6225 eaheim@genesee.edu
+• Jeff Parizek Head Coach (585)329-7394 jtparizek@genesee.edu
+• Jeff Reyngoudt Head Coach (585) 343-0055 ext 6441 jcreyngoudt@genesee.edu
+• Macy Reyngoudt Assistant Coach (585) 343-0055 ext 6199 mareyngoudt@genesee.edu
+• Tim Lincoln Head Coach (585) 343-0055 ext 6242 tplincoln@genesee.edu

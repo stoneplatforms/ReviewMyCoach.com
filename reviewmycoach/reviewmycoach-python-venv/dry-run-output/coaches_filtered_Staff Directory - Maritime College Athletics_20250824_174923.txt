@@ -1,0 +1,290 @@
+COACH ENTRIES FOUND - 2025-08-24 17:49:23
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Maritime College
+Organization: Maritime College Athletics
+State: New York
+
+Total coaches found: 33
+
+PARSED ENTRIES:
+----------------------------------------
+1. Charlie Barbieri
+   Email: cbarbieri@sunymaritime.edu
+   Username: cbarbieri
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (718) 409-3461
+   Original line: Charlie Barbieri Head Coach cbarbieri@sunymaritime.edu 718-409-3461
+
+2. DMarco Barnes
+   Email: dbarnes@sunymaritime.edu
+   Username: dbarnes
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (718) 409-7331
+   Original line: DMarco Barnes Head Coach dbarnes@sunymaritime.edu 718-409-7331
+
+3. Linebackers 
+   Email: atrotta@sunymaritime.edu
+   Username: atrotta
+   Sports: Football
+   Title: Anthony Trotta Head Coach/Defensive Coordinator/Inside
+   Phone: (718) 409-7787
+   Original line: Anthony Trotta Head Coach/Defensive Coordinator/Inside Linebackers Coach atrotta@sunymaritime.edu 718-409-7787
+
+4. Domenic Isabell
+   Email: disabell@sunymaritime.edu
+   Username: disabell
+   Sports: Football
+   Title: Offensive Coordinator/Quarterbacks Coach
+   Phone: (718) 409-4333
+   Original line: Domenic Isabell Offensive Coordinator/Quarterbacks Coach disabell@sunymaritime.edu 718-409-4333
+
+5. Jason Calman
+   Email: jcalman@sunymaritime.edu
+   Username: jcalman
+   Sports: Football
+   Title: Recruiting Coordinator/Run Game Coordinator/Offensive Line Coach
+   Phone: (718) 409-4333
+   Original line: Jason Calman Recruiting Coordinator/Run Game Coordinator/Offensive Line Coach jcalman@sunymaritime.edu 718-409-4333
+
+6. Andrew Lalama
+   Email: alalama@sunymaritime.edu
+   Username: alalama
+   Sports: Football
+   Title: Safeties Coach
+   Phone: (718) 409-4333
+   Original line: Andrew Lalama Safeties Coach alalama@sunymaritime.edu 718-409-4333
+
+7. Teams 
+   Email: tlindley@sunymaritime.edu
+   Username: tlindley
+   Sports: Football
+   Title: Tom Lindley Defensive Line Coach/Special
+   Phone: (718) 409-4333
+   Original line: Tom Lindley Defensive Line Coach/Special Teams Coordinator tlindley@sunymaritime.edu 718-409-4333
+
+8. Quincy Banks
+   Email: football@sunymaritime.edu
+   Username: football
+   Sports: Football
+   Title: Cornerbacks Coach
+   Phone: (718) 409-4333
+   Original line: Quincy Banks Cornerbacks Coach football@sunymaritime.edu 718-409-4333
+
+9. Connor Mooney
+   Email: football@sunymaritime.edu
+   Username: football
+   Sports: Football
+   Title: Wide Receivers Coach
+   Phone: (718) 409-4333
+   Original line: Connor Mooney Wide Receivers Coach football@sunymaritime.edu 718-409-4333
+
+10. Luke Caliendo
+   Email: lukecal.23@sunymaritime.edu
+   Username: lukecal.23
+   Sports: Football
+   Title: Tight Ends Coach
+   Phone: (718) 409-4333
+   Original line: Luke Caliendo Tight Ends Coach lukecal.23@sunymaritime.edu 718-409-4333
+
+11. Ryan Soules
+   Email: football@sunymaritime.edu
+   Username: football
+   Sports: Football
+   Title: Running Backs Coach
+   Phone: (718) 409-4333
+   Original line: Ryan Soules Running Backs Coach football@sunymaritime.edu 718-409-4333
+
+12. William Crean
+   Email: wcrean@sunymaritime.edu
+   Username: wcrean
+   Sports: Football
+   Title: Assistant Defensive Line Coach
+   Phone: (718) 409-4333
+   Original line: William Crean Assistant Defensive Line Coach wcrean@sunymaritime.edu 718-409-4333
+
+13. Kerri Handras
+   Email: khandras@sunymaritime.edu
+   Username: khandras
+   Sports: Football
+   Title: Head Coach
+   Phone: (718) 409-7336
+   Original line: Kerri Handras Head Coach khandras@sunymaritime.edu 718-409-7336
+
+14. Justin Manjares
+   Email: jmanjares@sunymaritime.edu
+   Username: jmanjares
+   Sports: Football
+   Title: Head Coach
+   Phone: (718) 409-4884
+   Original line: Justin Manjares Head Coach jmanjares@sunymaritime.edu 718-409-4884
+
+15. Clemens Reinke
+   Email: creinke@sunymaritime.edu
+   Username: creinke
+   Sports: Football
+   Title: Head Coach
+   Phone: (718) 409-7331
+   Original line: Clemens Reinke Head Coach creinke@sunymaritime.edu 718-409-7331
+
+16. Tara Foster
+   Email: tfoster@sunymaritime.edu
+   Username: tfoster
+   Sports: Football
+   Title: Head Coach
+   Phone: (718) 409-4050
+   Original line: Tara Foster Head Coach tfoster@sunymaritime.edu 718-409-4050
+
+17. Dan Cinelli
+   Email: dcinelli@sunymaritime.edu
+   Username: dcinelli
+   Sports: Football
+   Title: Head Coach
+   Phone: (718) 409-4187
+   Original line: Dan Cinelli Head Coach dcinelli@sunymaritime.edu 718-409-4187
+
+18. Melissa McTurk
+   Email: mguglielmo@sunymaritime.edu
+   Username: mguglielmo
+   Sports: Football
+   Title: Head Coach
+   Phone: (718) 409-6659
+   Original line: Melissa McTurk Head Coach mguglielmo@sunymaritime.edu 718-409-6659
+
+19. Tim Etienne
+   Email: tetienne@sunymaritime.edu
+   Username: tetienne
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (718) 409-6659
+   Original line: Tim Etienne Assistant Coach tetienne@sunymaritime.edu 718-409-6659
+
+20. John Fimmano
+   Email: jfimmano@sunymaritime.edu
+   Username: jfimmano
+   Sports: Football
+   Title: Head Coach/Aquatics Director
+   Phone: (718) 409-7331
+   Original line: John Fimmano Head Coach/Aquatics Director jfimmano@sunymaritime.edu 718-409-7331
+
+21. John O'Donoghue
+   Email: jodonoghue@sunymaritime.edu
+   Username: jodonoghue
+   Sports: Football
+   Title: Head Coach
+   Phone: (718) 409-7203
+   Original line: John O'Donoghue Head Coach jodonoghue@sunymaritime.edu 718-409-7203
+
+22. Hide Okuwa
+   Email: hokuwa@sunymaritime.edu
+   Username: hokuwa
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Carrick Assistant Coach hokuwa@sunymaritime.edu
+
+23. Jaylin Gray
+   Email: 
+   Username: jaylin.gray
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jaylin Gray Assistant Coach 718-409-7331
+
+24. Frank Sweeney
+   Email: 
+   Username: frank.sweeney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Frank Sweeney Assistant Coach
+
+25. Nick Petrucelli
+   Email: 
+   Username: nick.petrucelli
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Petrucelli Assistant Coach
+
+26. To Announced
+   Email: 
+   Username: to.announced
+   Sports: Soccer
+   Title: Head Coach
+   Original line: To Be Announced Head Coach
+
+27. Taylor Davide
+   Email: 
+   Username: taylor.davide
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taylor Davide Assistant Coach 718-409-7336
+
+28. Rachael Goldstein
+   Email: 
+   Username: rachael.goldstein
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rachael Goldstein Assistant Coach 718-409-7336
+
+29. Ian Kirby
+   Email: 
+   Username: ian.kirby
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ian Kirby Assistant Coach 718-409-4884
+
+30. Alex Fitzsimmons
+   Email: 
+   Username: alex.fitzsimmons
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alex Fitzsimmons Assistant Coach
+
+31. Zander Katsalas
+   Email: 
+   Username: zander.katsalas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zander Katsalas Assistant Coach
+
+32. Chloe Jung
+   Email: 
+   Username: chloe.jung
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chloe Jung Assistant Coach
+
+33. Joelmaia Carrasco
+   Email: 
+   Username: joelmaia.carrasco
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joelmaia Carrasco Assistant Coach 718-409-7203
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Charlie Barbieri Head Coach cbarbieri@sunymaritime.edu 718-409-3461
+• DMarco Barnes Head Coach dbarnes@sunymaritime.edu 718-409-7331
+• Anthony Trotta Head Coach/Defensive Coordinator/Inside Linebackers Coach atrotta@sunymaritime.edu 718-409-7787
+• Domenic Isabell Offensive Coordinator/Quarterbacks Coach disabell@sunymaritime.edu 718-409-4333
+• Jason Calman Recruiting Coordinator/Run Game Coordinator/Offensive Line Coach jcalman@sunymaritime.edu 718-409-4333
+• Andrew Lalama Safeties Coach alalama@sunymaritime.edu 718-409-4333
+• Tom Lindley Defensive Line Coach/Special Teams Coordinator tlindley@sunymaritime.edu 718-409-4333
+• Quincy Banks Cornerbacks Coach football@sunymaritime.edu 718-409-4333
+• Connor Mooney Wide Receivers Coach football@sunymaritime.edu 718-409-4333
+• Luke Caliendo Tight Ends Coach lukecal.23@sunymaritime.edu 718-409-4333
+• Ryan Soules Running Backs Coach football@sunymaritime.edu 718-409-4333
+• William Crean Assistant Defensive Line Coach wcrean@sunymaritime.edu 718-409-4333
+• Kerri Handras Head Coach khandras@sunymaritime.edu 718-409-7336
+• Justin Manjares Head Coach jmanjares@sunymaritime.edu 718-409-4884
+• Clemens Reinke Head Coach creinke@sunymaritime.edu 718-409-7331
+• Tara Foster Head Coach tfoster@sunymaritime.edu 718-409-4050
+• Dan Cinelli Head Coach dcinelli@sunymaritime.edu 718-409-4187
+• Melissa McTurk Head Coach mguglielmo@sunymaritime.edu 718-409-6659
+• Tim Etienne Assistant Coach tetienne@sunymaritime.edu 718-409-6659
+• John Fimmano Head Coach/Aquatics Director jfimmano@sunymaritime.edu 718-409-7331
+• John O'Donoghue Head Coach jodonoghue@sunymaritime.edu 718-409-7203

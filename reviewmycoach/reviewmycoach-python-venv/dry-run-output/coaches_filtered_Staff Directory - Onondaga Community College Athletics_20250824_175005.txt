@@ -1,0 +1,371 @@
+COACH ENTRIES FOUND - 2025-08-24 17:50:05
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Onondaga Community College
+Organization: Onondaga Community College Athletics
+State: New York
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bob Piraino
+   Email: r.j.piraino@sunyocc.edu
+   Username: r.j.piraino
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Bob Piraino Head Baseball Coach r.j.piraino@sunyocc.edu 315-498- A178
+
+2. Benjamin Przepiora
+   Email: b.t.przepiora@sunyocc.edu
+   Username: b.t.przepiora
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Benjamin Przepiora Assistant Baseball Coach b.t.przepiora@sunyocc.edu
+
+3. Mike Sugamosto
+   Email: m.a.sugamosto@sunyocc.edu
+   Username: m.a.sugamosto
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Mike Sugamosto Head Men's Basketball Coach m.a.sugamosto@sunyocc.edu 315-498- A230
+
+4. Chris Gilkes
+   Email: c.o.gilkes@sunyocc.edu
+   Username: c.o.gilkes
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Chris Gilkes Assistant Men's Basketball Coach c.o.gilkes@sunyocc.edu
+
+5. Kelly Seibt
+   Email: k.f.seibt@sunyocc.edu
+   Username: k.f.seibt
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Kelly Seibt Head Women's Basketball Coach k.f.seibt@sunyocc.edu 315-498- A170
+
+6. Samantha Roberts
+   Email: s.r.roberts2@sunyocc.edu
+   Username: s.r.roberts2
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Samantha Roberts Assistant Women's Basketball Coach s.r.roberts2@sunyocc.edu
+
+7. Kaitlyn Walker
+   Email: k.r.walker2@sunyocc.edu
+   Username: k.r.walker2
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Kaitlyn Walker Assistant Women's Basketball Coach k.r.walker2@sunyocc.edu
+
+8. Ginny Marasco
+   Email: v.l.marasco@sunyocc.edu
+   Username: v.l.marasco
+   Sports: Baseball
+   Title: Head Competitive Cheer Coach
+   Original line: Ginny Marasco Head Competitive Cheer Coach v.l.marasco@sunyocc.edu 315-498- A297
+
+9. Keith Edwards
+   Email: edwardsk@sunyocc.edu
+   Username: edwardsk
+   Sports: Baseball
+   Title: Head ESports Coach
+   Original line: Keith Edwards Head ESports Coach edwardsk@sunyocc.edu 315-498- C224C
+
+10. Chase Parzych
+   Email: c.g.parzych@sunyocc.edu
+   Username: c.g.parzych
+   Sports: Baseball
+   Title: Head Men's and Women's Golf Coach
+   Original line: Chase Parzych Head Men's and Women's Golf Coach c.g.parzych@sunyocc.edu 315-498- A178
+
+11. Erik Mattox
+   Email: e.s.mattox@sunyocc.edu
+   Username: e.s.mattox
+   Sports: Baseball
+   Title: Head Men's Lacrosse Coach
+   Original line: Erik Mattox Head Men's Lacrosse Coach e.s.mattox@sunyocc.edu 315-498- A168
+
+12. Tom Bonus
+   Email: t.p.bonus@sunyocc.edu
+   Username: t.p.bonus
+   Sports: Baseball
+   Title: Head Men's Soccer Coach
+   Original line: Tom Bonus Head Men's Soccer Coach t.p.bonus@sunyocc.edu 315-498- A172
+
+13. Logan Mussi
+   Email: l.mussi@sunyocc.edu
+   Username: l.mussi
+   Sports: Baseball
+   Title: Assistant Men's Soccer Coach
+   Original line: Logan Mussi Assistant Men's Soccer Coach l.mussi@sunyocc.edu
+
+14. Sean St
+   Email: s.a.st.denis@sunyocc.edu
+   Username: s.a.st.denis
+   Sports: Baseball
+   Title: Denis Head Women's Soccer Coach
+   Original line: Sean St. Denis Head Women's Soccer Coach s.a.st.denis@sunyocc.edu 315-498- A166
+
+15. Meghan Metcalf
+   Email: m.f.metcalf@sunyocc.edu
+   Username: m.f.metcalf
+   Sports: Baseball
+   Title: Assistant Women's Soccer Coach
+   Original line: Meghan Metcalf Assistant Women's Soccer Coach m.f.metcalf@sunyocc.edu
+
+16. Victoria Thuman-Capucilli
+   Email: v.o.thuman@sunyocc.edu
+   Username: v.o.thuman
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Victoria Thuman-Capucilli Head Softball Coach v.o.thuman@sunyocc.edu 716-870- A189
+
+17. Joe Brainerd
+   Email: w.j.brainerd2@sunyocc.edu
+   Username: w.j.brainerd2
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Joe Brainerd Head Volleyball Coach w.j.brainerd2@sunyocc.edu 315-498- A298
+
+18. Kayla Bryant-Lewis
+   Email: k.m.bryant37318@sunyocc.edu
+   Username: k.m.bryant37318
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Kayla Bryant-Lewis Assistant Volleyball Coach k.m.bryant37318@sunyocc.edu
+
+19. Mike Fiore
+   Email: m.a.fiore@sunyocc.edu
+   Username: m.a.fiore
+   Sports: Volleyball
+   Title: Head Club Ice Hockey Coach
+   Original line: Mike Fiore Head Club Ice Hockey Coach m.a.fiore@sunyocc.edu
+
+20. Amanda Drazek
+   Email: a.l.drazek@sunyocc.edu
+   Username: a.l.drazek
+   Sports: Volleyball
+   Title: Head Club Women's Lacrosse Coach
+   Original line: Amanda Drazek Head Club Women's Lacrosse Coach a.l.drazek@sunyocc.edu A156
+
+21. Dan Volunteer
+   Email: 
+   Username: dan.volunteer
+   Sports: Baseball
+   Title: Dan Capriotti Volunteer Assistant Baseball Coach
+   Original line: Dan Capriotti Volunteer Assistant Baseball Coach
+
+22. Jason Volunteer
+   Email: 
+   Username: jason.volunteer
+   Sports: Baseball
+   Title: Jason Shannon Volunteer Assistant Baseball Coach
+   Original line: Jason Shannon Volunteer Assistant Baseball Coach
+
+23. Jarod Volunteer
+   Email: 
+   Username: jarod.volunteer
+   Sports: Baseball
+   Title: Jarod Gallegos Volunteer Assistant Baseball Coach
+   Original line: Jarod Gallegos Volunteer Assistant Baseball Coach
+
+24. Bob Volunteer
+   Email: 
+   Username: bob.volunteer
+   Sports: Baseball
+   Title: Bob Campbell Volunteer Assistant Baseball Coach
+   Original line: Bob Campbell Volunteer Assistant Baseball Coach
+
+25. Dan Frisina
+   Email: 
+   Username: dan.frisina
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Dan Frisina Assistant Men's Basketball Coach
+
+26. Luke Sutherland
+   Email: 
+   Username: luke.sutherland
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Luke Sutherland Assistant Men's Basketball Coach
+
+27.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+28. Madison Kaifas-Steiner
+   Email: 
+   Username: madison.kaifas.steiner
+   Sports: Soccer
+   Title: Madison Kaifas-Steiner Assistant Competitive Cheer Coach
+   Original line: Madison Kaifas-Steiner Assistant Competitive Cheer Coach
+
+29.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Country Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country Coach 2886
+
+30.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Country Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country Coach
+
+31. Rob Colvin
+   Email: r.l.colvin2@sunyocc.edu
+   Username: r.l.colvin2
+   Sports: Soccer
+   Title: Ryan Szuch Assistant ESports Coach
+   Original line: Ryan Szuch Assistant ESports Coach r.l.colvin2@sunyocc.edu
+
+32. Nathan Torrance
+   Email: 
+   Username: nathan.torrance
+   Sports: Soccer
+   Title: Assistant ESports Coach
+   Original line: Nathan Torrance Jr. Assistant ESports Coach
+
+33. Ben Herrmann
+   Email: b.t.herrmann@sunyocc.edu
+   Username: b.t.herrmann
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Nicholas Edinger Assistant Men's Lacrosse Coach b.t.herrmann@sunyocc.edu
+
+34. Matthew O'Connell
+   Email: 
+   Username: matthew.o.connell
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Matthew O'Connell Assistant Men's Lacrosse Coach
+
+35. Cullen Kerchner
+   Email: 
+   Username: cullen.kerchner
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Cullen Kerchner Assistant Men's Lacrosse Coach
+
+36. Tyler Felice-Jennings
+   Email: 
+   Username: tyler.felice.jennings
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Tyler Felice-Jennings Assistant Men's Lacrosse Coach
+
+37. Matthew Perry
+   Email: 
+   Username: matthew.perry
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Matthew Perry Assistant Men's Soccer Coach
+
+38. Jenna Mills
+   Email: 
+   Username: jenna.mills
+   Sports: Softball
+   Title: Jenna Mills Assistant Softball Coach
+   Original line: Jenna Mills Assistant Softball Coach
+
+39. Alivia Graber
+   Email: 
+   Username: alivia.graber
+   Sports: Softball
+   Title: Alivia Graber Assistant Softball Coach
+   Original line: Alivia Graber Assistant Softball Coach
+
+40. Sophia Volunteer
+   Email: 
+   Username: sophia.volunteer
+   Sports: Softball
+   Title: Arcangelis Volunteer Assistant Softball Coach
+   Original line: Sophia D'Arcangelis Volunteer Assistant Softball Coach
+
+41.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 2886
+
+42. Taylor Bouchard
+   Email: t.bouchard@sunyocc.edu
+   Username: t.bouchard
+   Sports: Track & Field
+   Title: Dillon Beckford Assistant Track & Field Coach - Sprints
+   Original line: Dillon Beckford Assistant Track & Field Coach - Sprints t.bouchard@sunyocc.edu
+
+43. Zoe Connors
+   Email: 
+   Username: zoe.connors
+   Sports: Track & Field
+   Title: Zoe Connors Assistant Track & Field Coach - Throws
+   Original line: Zoe Connors Assistant Track & Field Coach - Throws
+
+44.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 2798
+
+45. Chris Volunteer
+   Email: 
+   Username: chris.volunteer
+   Sports: Wrestling
+   Title: Chris Fuller Volunteer Assistant Wrestling Coach
+   Original line: Chris Fuller Volunteer Assistant Wrestling Coach
+
+46. Kevin Volunteer
+   Email: 
+   Username: kevin.volunteer
+   Sports: Wrestling
+   Title: Kevin Carlo Volunteer Assistant Wrestling Coach
+   Original line: Kevin Carlo Volunteer Assistant Wrestling Coach
+
+47. Eric Volunteer
+   Email: 
+   Username: eric.volunteer
+   Sports: Wrestling
+   Title: Eric Bryant Volunteer Assistant Wrestling Coach
+   Original line: Eric Bryant Volunteer Assistant Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bob Piraino Head Baseball Coach r.j.piraino@sunyocc.edu 315-498- A178
+• Benjamin Przepiora Assistant Baseball Coach b.t.przepiora@sunyocc.edu
+• Mike Sugamosto Head Men's Basketball Coach m.a.sugamosto@sunyocc.edu 315-498- A230
+• Chris Gilkes Assistant Men's Basketball Coach c.o.gilkes@sunyocc.edu
+• Kelly Seibt Head Women's Basketball Coach k.f.seibt@sunyocc.edu 315-498- A170
+• Samantha Roberts Assistant Women's Basketball Coach s.r.roberts2@sunyocc.edu
+• Kaitlyn Walker Assistant Women's Basketball Coach k.r.walker2@sunyocc.edu
+• Ginny Marasco Head Competitive Cheer Coach v.l.marasco@sunyocc.edu 315-498- A297
+• Keith Edwards Head ESports Coach edwardsk@sunyocc.edu 315-498- C224C
+• Chase Parzych Head Men's and Women's Golf Coach c.g.parzych@sunyocc.edu 315-498- A178
+• Erik Mattox Head Men's Lacrosse Coach e.s.mattox@sunyocc.edu 315-498- A168
+• Tom Bonus Head Men's Soccer Coach t.p.bonus@sunyocc.edu 315-498- A172
+• Logan Mussi Assistant Men's Soccer Coach l.mussi@sunyocc.edu
+• Sean St. Denis Head Women's Soccer Coach s.a.st.denis@sunyocc.edu 315-498- A166
+• Meghan Metcalf Assistant Women's Soccer Coach m.f.metcalf@sunyocc.edu
+• Victoria Thuman-Capucilli Head Softball Coach v.o.thuman@sunyocc.edu 716-870- A189
+• Joe Brainerd Head Volleyball Coach w.j.brainerd2@sunyocc.edu 315-498- A298
+• Kayla Bryant-Lewis Assistant Volleyball Coach k.m.bryant37318@sunyocc.edu
+• Mike Fiore Head Club Ice Hockey Coach m.a.fiore@sunyocc.edu
+• Amanda Drazek Head Club Women's Lacrosse Coach a.l.drazek@sunyocc.edu A156

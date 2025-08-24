@@ -1,0 +1,373 @@
+COACH ENTRIES FOUND - 2025-08-23 19:29:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: GCU
+Organization: GCU Athletics
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. James Moore
+   Email: jmoore@georgian.edu
+   Username: jmoore
+   Sports: Soccer
+   Title: Head Women's Soccer Coach/Assistant
+   Original line: James Moore Head Women's Soccer Coach/Assistant Director of jmoore@georgian.edu 732-987-
+
+2. Certified 
+   Email: pzahn@georgian.edu
+   Username: pzahn
+   Sports: Strength & Conditioning
+   Title: Patrick Zahn MS, ATC, CSCS, NSCA-CPT Head Strength & Conditioning Coach /
+   Original line: Patrick Zahn MS, ATC, CSCS, NSCA-CPT Head Strength & Conditioning Coach / Certified Athletic pzahn@georgian.edu 732-987-
+
+3. Anthony Hreiz
+   Email: ahreiz@georgian.edu
+   Username: ahreiz
+   Sports: Strength & Conditioning
+   Title: Strength and Conditioning Coach
+   Original line: Anthony Hreiz Strength and Conditioning Coach ahreiz@georgian.edu
+
+4. Magdeline Gigliotti
+   Email: mgigliotti@georgian.edu
+   Username: mgigliotti
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Magdeline Gigliotti Assistant Coach mgigliotti@georgian.edu
+
+5. Arlan Freeman
+   Email: afreeman@georgian.edu
+   Username: afreeman
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Arlan Freeman Head Baseball Coach afreeman@georgian.edu 732-987-
+
+6. Dan Intili
+   Email: dintili@georgian.edu
+   Username: dintili
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Dan Intili Assistant Baseball Coach dintili@georgian.edu
+
+7. Dave Fedor
+   Email: dfedor@georgian.edu
+   Username: dfedor
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Dave Fedor Head Men's Basketball Coach dfedor@georgian.edu 732-987-
+
+8. Tyreek Montgomery
+   Email: tmontgomery@georgian.edu
+   Username: tmontgomery
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tyreek Montgomery Assistant Coach tmontgomery@georgian.edu
+
+9. Tyler Jones
+   Email: Tjones@georgian.edu
+   Username: Tjones
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tyler Jones Assistant Coach Tjones@georgian.edu
+
+10. Jasmina Jazz
+   Email: jperazic@georgian.edu
+   Username: jperazic
+   Sports: Baseball
+   Title: Perazic Head Women's Basketball Coach
+   Original line: Jasmina (Jazz) Perazic Head Women's Basketball Coach jperazic@georgian.edu 732-987-
+
+11. Sarah Dessner
+   Email: sdessner@georgian.edu
+   Username: sdessner
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Sarah Dessner Assistant Coach sdessner@georgian.edu
+
+12. XC 
+   Email: mmurawski@georgian.edu
+   Username: mmurawski
+   Sports: Baseball
+   Title: Michael Murawski Head Track & Field Coach/
+   Original line: Michael Murawski Head Track & Field Coach/ XC Coach mmurawski@georgian.edu 732-987-
+
+13. Jon Messner
+   Email: jmessner@georgian.edu
+   Username: jmessner
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jon Messner Assistant Coach (Distance and Middle Distance) jmessner@georgian.edu 732-987-
+
+14. Mickey Hover
+   Email: mhover@georgian.edu
+   Username: mhover
+   Sports: Baseball
+   Title: Head Men's Lacrosse Coach
+   Original line: Mickey Hover Head Men's Lacrosse Coach mhover@georgian.edu 732-987-
+
+15. Cormac McCabe
+   Email: cmccabe@georgian.edu
+   Username: cmccabe
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Cormac McCabe Assistant Coach cmccabe@georgian.edu
+
+16. Jay Pino
+   Email: jpino@georgian.edu
+   Username: jpino
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jay Pino Assistant Coach jpino@georgian.edu
+
+17. Sam Hosford
+   Email: shosford@georgian.edu
+   Username: shosford
+   Sports: Baseball
+   Title: Head Women's Lacrosse Coach
+   Original line: Sam Hosford Head Women's Lacrosse Coach shosford@georgian.edu 732-987-
+
+18. Dino Raso
+   Email: draso@georgian.edu
+   Username: draso
+   Sports: Baseball
+   Title: Head Men's Soccer Coach
+   Original line: Dino Raso Head Men's Soccer Coach draso@georgian.edu 732-987-
+
+19. Robbie Fitzpatrick
+   Email: rfitzpatrick@georgian.edu
+   Username: rfitzpatrick
+   Sports: Baseball
+   Title: s Soccer Coach/Digital Media
+   Original line: Robbie Fitzpatrick Associate Head Men's Soccer Coach/Digital Media rfitzpatrick@georgian.edu 732-987-
+
+20. George Kavarakas
+   Email: gkavarakas@georgian.edu
+   Username: gkavarakas
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: George Kavarakas Assistant Coach gkavarakas@georgian.edu
+
+21. James Moore
+   Email: jmoore@georgian.edu
+   Username: jmoore
+   Sports: Baseball
+   Title: Head Women's Soccer Coach/Assistant
+   Original line: James Moore Head Women's Soccer Coach/Assistant Director of jmoore@georgian.edu 732-987-
+
+22. Farrell Pomponio-Strout
+   Email: fpomponio@georgian.edu
+   Username: fpomponio
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Farrell Pomponio-Strout Assistant Coach fpomponio@georgian.edu 732-987-
+
+23. Jim Gleason
+   Email: jgleason@georgian.edu
+   Username: jgleason
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Jim Gleason Head Softball Coach jgleason@georgian.edu 732-987-
+
+24. XC 
+   Email: mmurawski@georgian.edu
+   Username: mmurawski
+   Sports: Softball
+   Title: Michael Murawski Head Track & Field Coach/
+   Original line: Michael Murawski Head Track & Field Coach/ XC Coach mmurawski@georgian.edu 732-987-
+
+25. Timothy Loehwing
+   Email: tloehwing@georgian.edu
+   Username: tloehwing
+   Sports: Softball
+   Title: Head Coach
+   Original line: Timothy Loehwing Associate Head Coach (Long Jump, Pole Vault, Triple tloehwing@georgian.edu 732-987-
+
+26. Jon Messner
+   Email: jmessner@georgian.edu
+   Username: jmessner
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jon Messner Assistant Coach (Distance and Middle Distance) jmessner@georgian.edu 732-987-
+
+27. Shana Rayside
+   Email: srayside@georgian.edu
+   Username: srayside
+   Sports: Softball
+   Title: Head Coach
+   Original line: Shana Rayside Head Coach srayside@georgian.edu 732-987-
+
+28. Jason Ulrich
+   Email: julrich@georgian.edu
+   Username: julrich
+   Sports: Softball
+   Title: Associate Head Coach
+   Original line: Jason Ulrich Associate Head Coach julrich@georgian.edu 732-987-
+
+29. Zach Licato
+   Email: 
+   Username: zach.licato
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting Coordinator
+   Original line: Zach Licato Assistant Coach / Recruiting Coordinator
+
+30. Matt Johnson
+   Email: 
+   Username: matt.johnson
+   Sports: Soccer
+   Title: Assistant Coach / Camp Coordinator
+   Original line: Matt Johnson Assistant Coach / Camp Coordinator
+
+31. Miron Miller
+   Email: 
+   Username: miron.miller
+   Sports: Track & Field
+   Title: Assistant Coach / Co-Outfield Coordinator
+   Original line: Miron Miller Assistant Coach / Co-Outfield Coordinator
+
+32. Nick Johns
+   Email: 
+   Username: nick.johns
+   Sports: Track & Field
+   Title: Assistant Coach / Co-Outfield Coach
+   Original line: Nick Johns Assistant Coach / Co-Outfield Coach
+
+33. Paul Hamilton
+   Email: 
+   Username: paul.hamilton
+   Sports: Track & Field
+   Title: Assistant Coach / Co-Infield Coach
+   Original line: Paul Hamilton Assistant Coach / Co-Infield Coach
+
+34. Cole Weingarten
+   Email: 
+   Username: cole.weingarten
+   Sports: Track & Field
+   Title: Assistant Coach / Co-Infield Coach
+   Original line: Cole Weingarten Assistant Coach / Co-Infield Coach
+
+35. Joe Colucci
+   Email: 
+   Username: joe.colucci
+   Sports: Strength & Conditioning
+   Title: Assistant Coach / Strength & Conditioning
+   Original line: Joe Colucci Assistant Coach / Strength & Conditioning
+
+36. Juan Rivera
+   Email: 
+   Username: juan.rivera
+   Sports: Soccer
+   Title: Assistant Coach / Bench Coach
+   Original line: Juan Rivera Assistant Coach / Bench Coach
+
+37. Matt Warshaw
+   Email: 
+   Username: matt.warshaw
+   Sports: Strength & Conditioning
+   Title: Assistant Coach / Strength & Conditioning
+   Original line: Matt Warshaw Assistant Coach / Strength & Conditioning
+
+38. Jerry Vasto
+   Email: 
+   Username: jerry.vasto
+   Sports: Soccer
+   Title: Assistant Coach / Pitching Advisor
+   Original line: Jerry Vasto Assistant Coach / Pitching Advisor
+
+39. Matt Cloud
+   Email: 
+   Username: matt.cloud
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Cloud Assistant Coach
+
+40. Chris Ryan
+   Email: 
+   Username: chris.ryan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Ryan Assistant Coach
+
+41. Nina Stone
+   Email: 
+   Username: nina.stone
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nina Stone Assistant Coach
+
+42. Joey Paladino
+   Email: 
+   Username: joey.paladino
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joey Paladino Assistant Coach
+
+43. Cliff Hurley
+   Email: 
+   Username: cliff.hurley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cliff Hurley Assistant Coach
+
+44. Lexi Finn
+   Email: 
+   Username: lexi.finn
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lexi Finn Assistant Coach
+
+45. Devon Shapiro
+   Email: 
+   Username: devon.shapiro
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Devon Shapiro Assistant Coach
+
+46. Elliot Volunteer
+   Email: 
+   Username: elliot.volunteer
+   Sports: Soccer
+   Title: Elliot Baldwin Volunteer Coach
+   Original line: Elliot Baldwin Volunteer Coach 732-987-
+
+47. Chris Rash
+   Email: 
+   Username: chris.rash
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Rash Assistant Coach (Throws)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• James Moore Head Women's Soccer Coach/Assistant Director of jmoore@georgian.edu 732-987-
+• Patrick Zahn MS, ATC, CSCS, NSCA-CPT Head Strength & Conditioning Coach / Certified Athletic pzahn@georgian.edu 732-987-
+• Anthony Hreiz Strength and Conditioning Coach ahreiz@georgian.edu
+• Magdeline Gigliotti Assistant Coach mgigliotti@georgian.edu
+• Arlan Freeman Head Baseball Coach afreeman@georgian.edu 732-987-
+• Dan Intili Assistant Baseball Coach dintili@georgian.edu
+• Dave Fedor Head Men's Basketball Coach dfedor@georgian.edu 732-987-
+• Tyreek Montgomery Assistant Coach tmontgomery@georgian.edu
+• Tyler Jones Assistant Coach Tjones@georgian.edu
+• Jasmina (Jazz) Perazic Head Women's Basketball Coach jperazic@georgian.edu 732-987-
+• Sarah Dessner Assistant Coach sdessner@georgian.edu
+• Michael Murawski Head Track & Field Coach/ XC Coach mmurawski@georgian.edu 732-987-
+• Jon Messner Assistant Coach (Distance and Middle Distance) jmessner@georgian.edu 732-987-
+• Mickey Hover Head Men's Lacrosse Coach mhover@georgian.edu 732-987-
+• Cormac McCabe Assistant Coach cmccabe@georgian.edu
+• Jay Pino Assistant Coach jpino@georgian.edu
+• Sam Hosford Head Women's Lacrosse Coach shosford@georgian.edu 732-987-
+• Dino Raso Head Men's Soccer Coach draso@georgian.edu 732-987-
+• Robbie Fitzpatrick Associate Head Men's Soccer Coach/Digital Media rfitzpatrick@georgian.edu 732-987-
+• George Kavarakas Assistant Coach gkavarakas@georgian.edu
+• James Moore Head Women's Soccer Coach/Assistant Director of jmoore@georgian.edu 732-987-
+• Farrell Pomponio-Strout Assistant Coach fpomponio@georgian.edu 732-987-
+• Jim Gleason Head Softball Coach jgleason@georgian.edu 732-987-
+• Michael Murawski Head Track & Field Coach/ XC Coach mmurawski@georgian.edu 732-987-
+• Timothy Loehwing Associate Head Coach (Long Jump, Pole Vault, Triple tloehwing@georgian.edu 732-987-
+• Jon Messner Assistant Coach (Distance and Middle Distance) jmessner@georgian.edu 732-987-
+• Shana Rayside Head Coach srayside@georgian.edu 732-987-
+• Jason Ulrich Associate Head Coach julrich@georgian.edu 732-987-

@@ -1,0 +1,647 @@
+COACH ENTRIES FOUND - 2025-08-24 17:45:17
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Alfred University
+Organization: Alfred University Athletics
+State: New York
+
+Total coaches found: 77
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chris Boswell
+   Email: boswell@alfred.edu
+   Username: boswell
+   Sports: Soccer
+   Title: Director of Athletic Communications/Assistant Coach
+   Phone: (607) 871-2528
+   Original line: Chris Boswell Director of Athletic Communications/Assistant Coach boswell@alfred.edu (607) 871-2528
+
+2. Julie Decker
+   Email: deckerj@alfred.edu
+   Username: deckerj
+   Sports: Soccer
+   Title: Head Coach/Coordinator of Physical Fitness/Wellness Classes
+   Phone: (607) 871-2628
+   Original line: Julie Decker Head Coach/Coordinator of Physical Fitness/Wellness Classes deckerj@alfred.edu (607) 871-2628
+
+3. Facility 
+   Email: honeycuttm@alfred.edu
+   Username: honeycuttm
+   Sports: Soccer
+   Title: Mike Honeycutt Head Coach/Indoor Sports
+   Phone: (607) 871-2312
+   Original line: Mike Honeycutt Head Coach/Indoor Sports Facility Manager honeycuttm@alfred.edu (607) 871-2312
+
+4. Travel 
+   Email: moskowitz@alfred.edu
+   Username: moskowitz
+   Sports: Soccer
+   Title: Mike Moskowitz Head Coach/Team
+   Phone: (607) 871-2900
+   Original line: Mike Moskowitz Head Coach/Team Travel Coordinator moskowitz@alfred.edu (607) 871-2900
+
+5. Compliance 
+   Email: striker@alfred.edu
+   Username: striker
+   Sports: Soccer
+   Title: Brian Striker Head Coach/Aquatics Director/NCAA
+   Phone: (607) 871-2893
+   Original line: Brian Striker Head Coach/Aquatics Director/NCAA Compliance Coordinator striker@alfred.edu (607) 871-2893
+
+6. Center 
+   Email: yanni@alfred.edu
+   Username: yanni
+   Sports: Soccer
+   Title: Craig Yanni Head Coach/Fitness
+   Phone: (607) 871-2896
+   Original line: Craig Yanni Head Coach/Fitness Center Manager yanni@alfred.edu (607) 871-2896
+
+7. Chris Boswell
+   Email: boswell@alfred.edu
+   Username: boswell
+   Sports: Soccer
+   Title: Director of Athletic Communications/Assistant Coach
+   Phone: (607) 871-2528
+   Original line: Chris Boswell Director of Athletic Communications/Assistant Coach boswell@alfred.edu (607) 871-2528
+
+8. Bob Cilino
+   Email: cilino@alfred.edu
+   Username: cilino
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Bob Cilino Head Coach cilino@alfred.edu
+
+9. Mark Danes
+   Email: danes@alfred.edu
+   Username: danes
+   Sports: Soccer
+   Title: Volunteer Assistant Coach
+   Original line: Mark Danes Volunteer Assistant Coach danes@alfred.edu
+
+10. Brian Kehew
+   Email: kehew@alfred.edu
+   Username: kehew
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (607) 871-2195
+   Original line: Brian Kehew Head Coach kehew@alfred.edu (607) 871-2195
+
+11. Mike Bassage
+   Email: bassage@alfred.edu
+   Username: bassage
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mike Bassage Assistant Coach bassage@alfred.edu
+
+12. Erich Kaempffe
+   Email: kaempffe@alfred.edu
+   Username: kaempffe
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (607) 871-2898
+   Original line: Erich Kaempffe Head Coach kaempffe@alfred.edu (607) 871-2898
+
+13. Jake Sutton
+   Email: suttonj@alfred.edu
+   Username: suttonj
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jake Sutton Assistant Coach suttonj@alfred.edu
+
+14. Ben Reding
+   Email: bgr2@alfred.edu
+   Username: bgr2
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Ben Reding Assistant Coach bgr2@alfred.edu
+
+15. Mike Moskowitz
+   Email: moskowitz@alfred.edu
+   Username: moskowitz
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (607) 871-2900
+   Original line: Mike Moskowitz Head Coach moskowitz@alfred.edu (607) 871-2900
+
+16. Alyssa DiMillo
+   Email: aad6@alfred.edu
+   Username: aad6
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Alyssa DiMillo Assistant Coach aad6@alfred.edu
+
+17. Samantha Salmon
+   Email: salmons@alfred.edu
+   Username: salmons
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Samantha Salmon Assistant Coach salmons@alfred.edu
+
+18. Jessa Miller
+   Email: millerjs@alfred.edu
+   Username: millerjs
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jessa Miller Assistant Coach millerjs@alfred.edu
+
+19. Matt Phillips
+   Email: phillipsm@alfred.edu
+   Username: phillipsm
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (607) 871-2696
+   Original line: Matt Phillips Head Coach phillipsm@alfred.edu (607) 871-2696
+
+20. Sierra Wilson
+   Email: wilsonsk@alfred.edu
+   Username: wilsonsk
+   Sports: Cross Country
+   Title: Assistant Head Coach
+   Original line: Sierra Wilson Assistant Head Coach wilsonsk@alfred.edu
+
+21. Teresa Oliver
+   Email: olivert@alfred.edu
+   Username: olivert
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (607) 871-3154
+   Original line: Teresa Oliver Head Coach olivert@alfred.edu (607) 871-3154
+
+22. Theresa Lounsberry
+   Email: shattan@alfred.edu
+   Username: shattan
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (607) 871-3153
+   Original line: Theresa Lounsberry Head Coach shattan@alfred.edu (607) 871-3153
+
+23. Adam D'Agostino
+   Email: dagostino@alfred.edu
+   Username: dagostino
+   Sports: Cross Country
+   Title: Director of Equestrian/Western Head Coach
+   Phone: (607) 871-3155
+   Original line: Adam D'Agostino Director of Equestrian/Western Head Coach dagostino@alfred.edu (607) 871-3155
+
+24. Ashley Wyant
+   Email: wyanta@alfred.edu
+   Username: wyanta
+   Sports: Cross Country
+   Title: Assistant Coach/Instructor/Trainer
+   Original line: Ashley Wyant Assistant Coach/Instructor/Trainer wyanta@alfred.edu
+
+25. Adair Milmoe
+   Email: milmoe@alfred.edu
+   Username: milmoe
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: (607) 871-2380
+   Original line: Adair Milmoe Head Coach milmoe@alfred.edu (607) 871-2380
+
+26. Jordan Nichols
+   Email: nicholsj@alfred.edu
+   Username: nicholsj
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jordan Nichols Assistant Coach nicholsj@alfred.edu
+
+27. Bob Rankl
+   Email: ranklr@alfred.edu
+   Username: ranklr
+   Sports: Football
+   Title: Head Coach
+   Phone: (607) 871-2302
+   Original line: Bob Rankl Head Coach ranklr@alfred.edu (607) 871-2302
+
+28. Brady Bonacquisti
+   Email: bonacquisti@alfred.edu
+   Username: bonacquisti
+   Sports: Football
+   Title: Assistant Head Coach/Defensive Coordinator
+   Phone: (607) 871-2788
+   Original line: Brady Bonacquisti Assistant Head Coach/Defensive Coordinator bonacquisti@alfred.edu (607) 871-2788
+
+29. Hunter Miles
+   Email: hm21@alfred.edu
+   Username: hm21
+   Sports: Football
+   Title: Special Teams Coordinator/Junior Varsity Head Coach
+   Original line: Hunter Miles Special Teams Coordinator/Junior Varsity Head Coach hm21@alfred.edu
+
+30. Steve Donlon
+   Email: donlon@alfred.edu
+   Username: donlon
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Steve Donlon Running Backs Coach donlon@alfred.edu
+
+31. Chris Koehler
+   Email: koehlerc@alfred.edu
+   Username: koehlerc
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: Chris Koehler Defensive Line Coach koehlerc@alfred.edu
+
+32. Erik Werner
+   Email: wernere@alfred.edu
+   Username: wernere
+   Sports: Football
+   Title: Tight Ends Coach
+   Original line: Erik Werner Tight Ends Coach wernere@alfred.edu
+
+33. Jason Lockner
+   Email: locknerj@alfred.edu
+   Username: locknerj
+   Sports: Football
+   Title: Head Coach
+   Phone: (607) 871-2890
+   Original line: Jason Lockner Head Coach locknerj@alfred.edu (607) 871-2890
+
+34. Adam DuPree
+   Email: dupreea@alfred.edu
+   Username: dupreea
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (607) 871-2892
+   Original line: Adam DuPree Assistant Coach dupreea@alfred.edu (607) 871-2892
+
+35. Julie Decker
+   Email: deckerj@alfred.edu
+   Username: deckerj
+   Sports: Football
+   Title: Head Coach/Coordinator of Physical Fitness/Wellness Classes
+   Phone: (607) 871-2628
+   Original line: Julie Decker Head Coach/Coordinator of Physical Fitness/Wellness Classes deckerj@alfred.edu (607) 871-2628
+
+36. Dale Russell
+   Email: russelld@alfred.edu
+   Username: russelld
+   Sports: Football
+   Title: Head Coach
+   Original line: Dale Russell Head Coach russelld@alfred.edu
+
+37. Quinlan Bailey
+   Email: baileyq@alfred.edu
+   Username: baileyq
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Quinlan Bailey Volunteer Assistant Coach baileyq@alfred.edu
+
+38. Dr 
+   Email: bernsen@alfred.edu
+   Username: bernsen
+   Sports: Football
+   Title: Nicole Bernsen Director of Rugby/Head Coach
+   Phone: (607) 871-2626
+   Original line: Dr. Nicole Bernsen Director of Rugby/Head Coach bernsen@alfred.edu (607) 871-2626
+
+39. Dale Russell
+   Email: russelld@alfred.edu
+   Username: russelld
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Dale Russell Assistant Coach russelld@alfred.edu
+
+40. Quinlan Bailey
+   Email: baileyq@alfred.edu
+   Username: baileyq
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Quinlan Bailey Volunteer Assistant Coach baileyq@alfred.edu
+
+41. Garret Eldridge
+   Email: eldridgeg@alfred.edu
+   Username: eldridgeg
+   Sports: Football
+   Title: Head Coach
+   Phone: (607) 871-2899
+   Original line: Garret Eldridge Head Coach eldridgeg@alfred.edu (607) 871-2899
+
+42. Craig Yanni
+   Email: yanni@alfred.edu
+   Username: yanni
+   Sports: Football
+   Title: Head Coach
+   Phone: (607) 871-2896
+   Original line: Craig Yanni Head Coach yanni@alfred.edu (607) 871-2896
+
+43. Mitchell Porter
+   Email: porterm@alfred.edu
+   Username: porterm
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Mitchell Porter Assistant Coach porterm@alfred.edu
+
+44. Luke Wesneski
+   Email: wesneski@alfred.edu
+   Username: wesneski
+   Sports: Softball
+   Title: Head Coach
+   Phone: (607) 871-3018
+   Original line: Luke Wesneski Head Coach wesneski@alfred.edu (607) 871-3018
+
+45. Cassie Reed
+   Email: reedc@alfred.edu
+   Username: reedc
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Cassie Reed Assistant Coach reedc@alfred.edu
+
+46. Layne Reed
+   Email: emr10@alfred.edu
+   Username: emr10
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Layne Reed Assistant Coach emr10@alfred.edu
+
+47. Sophie Kreese
+   Email: smk12@alfred.edu
+   Username: smk12
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sophie Kreese Assistant Coach smk12@alfred.edu
+
+48. Brian Striker
+   Email: striker@alfred.edu
+   Username: striker
+   Sports: Softball
+   Title: Head Coach
+   Phone: (607) 871-2893
+   Original line: Brian Striker Head Coach striker@alfred.edu (607) 871-2893
+
+49. Victoria Cramp
+   Email: cramp@alfred.edu
+   Username: cramp
+   Sports: Softball
+   Title: Diving Coach
+   Original line: Victoria Cramp Diving Coach cramp@alfred.edu
+
+50. Mia Spencer
+   Email: spencerm@alfred.edu
+   Username: spencerm
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Mia Spencer Volunteer Assistant Coach spencerm@alfred.edu
+
+51. Jake Fisler
+   Email: fisler@alfred.edu
+   Username: fisler
+   Sports: Softball
+   Title: Head Coach
+   Phone: (607) 871-2310
+   Original line: Jake Fisler Head Coach fisler@alfred.edu (607) 871-2310
+
+52. Matt Phillips
+   Email: phillipsm@alfred.edu
+   Username: phillipsm
+   Sports: Softball
+   Title: Head Coach
+   Phone: (607) 871-2696
+   Original line: Matt Phillips Head Coach phillipsm@alfred.edu (607) 871-2696
+
+53. Sierra Wilson
+   Email: wilsonsk@alfred.edu
+   Username: wilsonsk
+   Sports: Softball
+   Title: Assistant Head Coach
+   Original line: Sierra Wilson Assistant Head Coach wilsonsk@alfred.edu
+
+54. Dr 
+   Email: taylora@alfred.edu
+   Username: taylora
+   Sports: Softball
+   Title: Angie Taylor Assistant Coach
+   Phone: (607) 871-2975
+   Original line: Dr. Angie Taylor Assistant Coach taylora@alfred.edu (607) 871-2975
+
+55. David Brannigan
+   Email: brannigan@alfred.edu
+   Username: brannigan
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: David Brannigan Assistant Coach brannigan@alfred.edu
+
+56. Chris Boswell
+   Email: boswell@alfred.edu
+   Username: boswell
+   Sports: Softball
+   Title: Director of Athletic Communications/Assistant Coach
+   Phone: (607) 871-2528
+   Original line: Chris Boswell Director of Athletic Communications/Assistant Coach boswell@alfred.edu (607) 871-2528
+
+57. Mike Honeycutt
+   Email: honeycuttm@alfred.edu
+   Username: honeycuttm
+   Sports: Softball
+   Title: Head Coach
+   Phone: (607) 871-2312
+   Original line: Mike Honeycutt Head Coach honeycuttm@alfred.edu (607) 871-2312
+
+58. Rachel Blew
+   Email: blew@alfred.edu
+   Username: blew
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Rachel Blew Assistant Coach blew@alfred.edu
+
+59. James Marchak
+   Email: marchak@alfred.edu
+   Username: marchak
+   Sports: Softball
+   Title: Head Strength & Conditioning Coach
+   Original line: James Marchak Head Strength & Conditioning Coach marchak@alfred.edu
+
+60. Mike Bassage
+   Email: bassage@alfred.edu
+   Username: bassage
+   Sports: Softball
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Mike Bassage Assistant Strength & Conditioning Coach bassage@alfred.edu
+
+61. Sierra Wilson
+   Email: wilsonsk@alfred.edu
+   Username: wilsonsk
+   Sports: Softball
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Sierra Wilson Assistant Strength & Conditioning Coach wilsonsk@alfred.edu
+
+62. Jeremiah Student
+   Email: 
+   Username: jeremiah.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeremiah Jimenez Student Assistant Coach
+
+63. Isaac Student
+   Email: 
+   Username: isaac.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Isaac Quick Student Assistant Coach
+
+64. TBA Announced
+   Email: 
+   Username: tba.announced
+   Sports: Soccer
+   Title: Head Coach
+   Original line: TBA (To Be Announced) Head Coach (607) 871-2194
+
+65. Curtis Bailey
+   Email: baileyc@alfred.edu
+   Username: baileyc
+   Sports: Soccer
+   Title: Sean Andor Defensive Line Coach
+   Original line: Sean Andor Defensive Line Coach baileyc@alfred.edu
+
+66. Juan Line
+   Email: 
+   Username: juan.line
+   Sports: Soccer
+   Title: Juan Cantu Offensive Line Coach
+   Original line: Juan Cantu Offensive Line Coach
+
+67. Maccus Receivers
+   Email: 
+   Username: maccus.receivers
+   Sports: Soccer
+   Title: Maccus Dinsmore Wide Receivers Coach
+   Original line: Maccus Dinsmore Wide Receivers Coach
+
+68. Sal Linebackers
+   Email: 
+   Username: sal.linebackers
+   Sports: Soccer
+   Title: Sal Ragolia Linebackers Coach
+   Original line: Sal Ragolia Linebackers Coach
+
+69. Mo Backs
+   Email: 
+   Username: mo.backs
+   Sports: Soccer
+   Title: Mo Perez Defensive Backs Coach
+   Original line: Mo Perez Defensive Backs Coach
+
+70. Roque Linebackers
+   Email: 
+   Username: roque.linebackers
+   Sports: Soccer
+   Title: Roque Santiago Linebackers Coach
+   Original line: Roque Santiago Linebackers Coach
+
+71. Dawson Felenchak
+   Email: 
+   Username: dawson.felenchak
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dawson Felenchak Assistant Coach
+
+72. Ashton Howlett
+   Email: 
+   Username: ashton.howlett
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ashton Howlett Assistant Coach
+
+73. Kelly DuPree
+   Email: 
+   Username: kelly.dupree
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelly DuPree Assistant Coach
+
+74. Katie Kenney
+   Email: 
+   Username: katie.kenney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Katie Kenney Assistant Coach
+
+75. Amanda Pishtey
+   Email: 
+   Username: amanda.pishtey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Amanda Pishtey Assistant Coach
+
+76. Cullen Graduate
+   Email: cjm19@alfred.edu
+   Username: cjm19
+   Sports: Soccer
+   Title: Assistant Coach & Head of Data Analytics
+   Original line: Rob Nydick Volunteer Assistant Coach & Head of Data Analytics cjm19@alfred.edu
+
+77. Justin Graduate
+   Email: jre2@alfred.edu
+   Username: jre2
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zoe Beardsley Student Assistant Coach jre2@alfred.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chris Boswell Director of Athletic Communications/Assistant Coach boswell@alfred.edu (607) 871-2528
+• Julie Decker Head Coach/Coordinator of Physical Fitness/Wellness Classes deckerj@alfred.edu (607) 871-2628
+• Mike Honeycutt Head Coach/Indoor Sports Facility Manager honeycuttm@alfred.edu (607) 871-2312
+• Mike Moskowitz Head Coach/Team Travel Coordinator moskowitz@alfred.edu (607) 871-2900
+• Brian Striker Head Coach/Aquatics Director/NCAA Compliance Coordinator striker@alfred.edu (607) 871-2893
+• Craig Yanni Head Coach/Fitness Center Manager yanni@alfred.edu (607) 871-2896
+• Chris Boswell Director of Athletic Communications/Assistant Coach boswell@alfred.edu (607) 871-2528
+• Bob Cilino Head Coach cilino@alfred.edu
+• Mark Danes Volunteer Assistant Coach danes@alfred.edu
+• Brian Kehew Head Coach kehew@alfred.edu (607) 871-2195
+• Mike Bassage Assistant Coach bassage@alfred.edu
+• Erich Kaempffe Head Coach kaempffe@alfred.edu (607) 871-2898
+• Jake Sutton Assistant Coach suttonj@alfred.edu
+• Ben Reding Assistant Coach bgr2@alfred.edu
+• Mike Moskowitz Head Coach moskowitz@alfred.edu (607) 871-2900
+• Alyssa DiMillo Assistant Coach aad6@alfred.edu
+• Samantha Salmon Assistant Coach salmons@alfred.edu
+• Jessa Miller Assistant Coach millerjs@alfred.edu
+• Matt Phillips Head Coach phillipsm@alfred.edu (607) 871-2696
+• Sierra Wilson Assistant Head Coach wilsonsk@alfred.edu
+• Teresa Oliver Head Coach olivert@alfred.edu (607) 871-3154
+• Theresa Lounsberry Head Coach shattan@alfred.edu (607) 871-3153
+• Adam D'Agostino Director of Equestrian/Western Head Coach dagostino@alfred.edu (607) 871-3155
+• Ashley Wyant Assistant Coach/Instructor/Trainer wyanta@alfred.edu
+• Adair Milmoe Head Coach milmoe@alfred.edu (607) 871-2380
+• Jordan Nichols Assistant Coach nicholsj@alfred.edu
+• Bob Rankl Head Coach ranklr@alfred.edu (607) 871-2302
+• Brady Bonacquisti Assistant Head Coach/Defensive Coordinator bonacquisti@alfred.edu (607) 871-2788
+• Hunter Miles Special Teams Coordinator/Junior Varsity Head Coach hm21@alfred.edu
+• Steve Donlon Running Backs Coach donlon@alfred.edu
+• Chris Koehler Defensive Line Coach koehlerc@alfred.edu
+• Erik Werner Tight Ends Coach wernere@alfred.edu
+• Jason Lockner Head Coach locknerj@alfred.edu (607) 871-2890
+• Adam DuPree Assistant Coach dupreea@alfred.edu (607) 871-2892
+• Julie Decker Head Coach/Coordinator of Physical Fitness/Wellness Classes deckerj@alfred.edu (607) 871-2628
+• Dale Russell Head Coach russelld@alfred.edu
+• Quinlan Bailey Volunteer Assistant Coach baileyq@alfred.edu
+• Dr. Nicole Bernsen Director of Rugby/Head Coach bernsen@alfred.edu (607) 871-2626
+• Dale Russell Assistant Coach russelld@alfred.edu
+• Quinlan Bailey Volunteer Assistant Coach baileyq@alfred.edu
+• Garret Eldridge Head Coach eldridgeg@alfred.edu (607) 871-2899
+• Craig Yanni Head Coach yanni@alfred.edu (607) 871-2896
+• Mitchell Porter Assistant Coach porterm@alfred.edu
+• Luke Wesneski Head Coach wesneski@alfred.edu (607) 871-3018
+• Cassie Reed Assistant Coach reedc@alfred.edu
+• Layne Reed Assistant Coach emr10@alfred.edu
+• Sophie Kreese Assistant Coach smk12@alfred.edu
+• Brian Striker Head Coach striker@alfred.edu (607) 871-2893
+• Victoria Cramp Diving Coach cramp@alfred.edu
+• Mia Spencer Volunteer Assistant Coach spencerm@alfred.edu
+• Jake Fisler Head Coach fisler@alfred.edu (607) 871-2310
+• Matt Phillips Head Coach phillipsm@alfred.edu (607) 871-2696
+• Sierra Wilson Assistant Head Coach wilsonsk@alfred.edu
+• Dr. Angie Taylor Assistant Coach taylora@alfred.edu (607) 871-2975
+• David Brannigan Assistant Coach brannigan@alfred.edu
+• Chris Boswell Director of Athletic Communications/Assistant Coach boswell@alfred.edu (607) 871-2528
+• Mike Honeycutt Head Coach honeycuttm@alfred.edu (607) 871-2312
+• Rachel Blew Assistant Coach blew@alfred.edu
+• James Marchak Head Strength & Conditioning Coach marchak@alfred.edu
+• Mike Bassage Assistant Strength & Conditioning Coach bassage@alfred.edu
+• Sierra Wilson Assistant Strength & Conditioning Coach wilsonsk@alfred.edu

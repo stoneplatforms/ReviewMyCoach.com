@@ -1,0 +1,183 @@
+COACH ENTRIES FOUND - 2025-08-24 17:48:43
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: College Administration
+Organization: Jamestown Community College Athletics
+State: New York
+
+Total coaches found: 21
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tommy Gerace
+   Email: jccjayhawkshockey@gmail.com
+   Username: jccjayhawkshockey
+   Sports: Hockey
+   Title: Head Coach
+   Original line: Tommy Gerace Head Coach, Jayhawks jccjayhawkshockey@gmail.com
+
+2. Patrick Anderson
+   Email: anderspr02@sunyjcc.edu
+   Username: anderspr02
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 716.397.5590
+   Original line: Patrick Anderson Head Coach, Jayhawks 716.397.5590 anderspr02@sunyjcc.edu
+
+3. Xavier Churnac
+   Email: XavierChurnac@mail.sunyjcc.e
+   Username: XavierChurnac
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 716.338.1392
+   Original line: Xavier Churnac Head Coach, Jayhawks 716.338.1392 XavierChurnac@mail.sunyjcc.e
+
+4. Jim Rissel
+   Email: risselja01@sunyjcc.edu
+   Username: risselja01
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jim Rissel Assistant Coach, Jayhawks risselja01@sunyjcc.edu
+
+5. Dave Turnbull
+   Email: dturnbull44@icloud.com
+   Username: dturnbull44
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 716.720.3605
+   Original line: Dave Turnbull Head Coach, Jayhawks 716.720.3605 dturnbull44@icloud.com
+
+6. James DiBlasi
+   Email: JamesDiBlasi@mail.sunyjcc.ed
+   Username: JamesDiBlasi
+   Sports: Soccer
+   Title: Head Coach
+   Original line: James DiBlasi Head Coach, Jayhawks JamesDiBlasi@mail.sunyjcc.ed
+
+7. Todd Conklin
+   Email: ToddConklin@mail.sunyjcc.ed
+   Username: ToddConklin
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 716.338.1260
+   Original line: Todd Conklin Head Coach, Jayhawks 716.338.1260 ToddConklin@mail.sunyjcc.ed
+
+8. Brian Dowdall
+   Email: BrianDowdall@mail.sunyjcc.ed
+   Username: BrianDowdall
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 619.987.8289
+   Original line: Brian Dowdall Head Coach, Jayhawks 619.987.8289 BrianDowdall@mail.sunyjcc.ed
+
+9. Jerico Weitzel
+   Email: JericoWeitzel@mail.sunyjcc.ed
+   Username: JericoWeitzel
+   Sports: Soccer
+   Title: Head Coach
+   Phone: 716.378.3629
+   Original line: Jerico Weitzel Head Coach, Jayhawks 716.378.3629 JericoWeitzel@mail.sunyjcc.ed
+
+10. George Sisson
+   Email: GeorgeSisson@mail.sunyjcc.e
+   Username: GeorgeSisson
+   Sports: Golf
+   Title: Head Coach
+   Phone: 716.338.1269
+   Original line: George Sisson Head Coach, Jayhawks Golf 716.338.1269 GeorgeSisson@mail.sunyjcc.e
+
+11. Ashton Beckerink
+   Email: AshtonBeckerink@mail.sunyjc
+   Username: AshtonBeckerink
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ashton Beckerink Head Coach, Jayhawk AshtonBeckerink@mail.sunyjc
+
+12. Darion Gregory
+   Email: DarionGregory@mail.sunyjcc.e
+   Username: DarionGregory
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Darion Gregory Head Coach, Jayhawks DarionGregory@mail.sunyjcc.e
+
+13. Chris Henderson
+   Email: 
+   Username: chris.henderson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Henderson Assistant Coach, Jayhawks
+
+14. Joe Gerace
+   Email: 
+   Username: joe.gerace
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Gerace Assistant Coach, Jayhawks
+
+15. Jesse Costa
+   Email: 
+   Username: jesse.costa
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jesse da Costa Assistant Coach, Jayhawks
+
+16. Heather Ross
+   Email: 
+   Username: heather.ross
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Heather Ross Head Coach, Jayhawk 716.425.7443
+
+17. Cherish Pope
+   Email: 
+   Username: cherish.pope
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Cherish Pope Head Coach, Jayhawk
+
+18. Reggie Volunteer
+   Email: 
+   Username: reggie.volunteer
+   Sports: Soccer
+   Title: Volunteer Coach
+   Original line: Reggie D. Smith, Jr. Volunteer Coach, Jayhawks
+
+19. Claire Johnson
+   Email: 
+   Username: claire.johnson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Claire Johnson Assistant Coach, Jayhawks
+
+20. Todd Carson
+   Email: 
+   Username: todd.carson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Todd Carson Assistant Coach, Jayhawks
+
+21. Jim Rissel
+   Email: 
+   Username: jim.rissel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jim Rissel Assistant Coach, Jayhawks
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tommy Gerace Head Coach, Jayhawks jccjayhawkshockey@gmail.com
+• Patrick Anderson Head Coach, Jayhawks 716.397.5590 anderspr02@sunyjcc.edu
+• Xavier Churnac Head Coach, Jayhawks 716.338.1392 XavierChurnac@mail.sunyjcc.e
+• Jim Rissel Assistant Coach, Jayhawks risselja01@sunyjcc.edu
+• Dave Turnbull Head Coach, Jayhawks 716.720.3605 dturnbull44@icloud.com
+• James DiBlasi Head Coach, Jayhawks JamesDiBlasi@mail.sunyjcc.ed
+• Todd Conklin Head Coach, Jayhawks 716.338.1260 ToddConklin@mail.sunyjcc.ed
+• Brian Dowdall Head Coach, Jayhawks 619.987.8289 BrianDowdall@mail.sunyjcc.ed
+• Jerico Weitzel Head Coach, Jayhawks 716.378.3629 JericoWeitzel@mail.sunyjcc.ed
+• George Sisson Head Coach, Jayhawks Golf 716.338.1269 GeorgeSisson@mail.sunyjcc.e
+• Ashton Beckerink Head Coach, Jayhawk AshtonBeckerink@mail.sunyjc
+• Darion Gregory Head Coach, Jayhawks DarionGregory@mail.sunyjcc.e

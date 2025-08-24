@@ -1,0 +1,223 @@
+COACH ENTRIES FOUND - 2025-08-24 17:52:17
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: College
+Organization: Union University Athletics
+State: New York
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Casey McGehee
+   Email: cmcgehee@uu.edu
+   Username: cmcgehee
+   Sports: Baseball
+   Title: Baseball Head Coach
+   Original line: Casey McGehee Baseball Head Coach cmcgehee@uu.edu 731- Fresno State 3rd Season
+
+2. Jenni Baylor
+   Email: jbaylor@uu.edu
+   Username: jbaylor
+   Sports: Baseball
+   Title: Cheer Coach
+   Original line: Jenni Baylor Cheer Coach jbaylor@uu.edu Union 4th Season
+
+3. Andy Rushing
+   Email: arushing@uu.edu
+   Username: arushing
+   Sports: Cross Country
+   Title: Golf Head Coach
+   Original line: Andy Rushing Golf Head Coach arushing@uu.edu 731- Union 38th Season
+
+4. Gray Campbell
+   Email: gcampbell@uu.edu
+   Username: gcampbell
+   Sports: Cross Country
+   Title: Golf Assistant Coach
+   Original line: Gray Campbell Golf Assistant Coach gcampbell@uu.edu Union 1st Season
+
+5. Sydney Sturner
+   Email: ssturner@uu.edu
+   Username: ssturner
+   Sports: Softball
+   Title: Softball Head Coach
+   Original line: Sydney Sturner Softball Head Coach ssturner@uu.edu 731- Southern 4th Season
+
+6. Mike Smith
+   Email: mjsmith@uu.edu
+   Username: mjsmith
+   Sports: Softball
+   Title: Softball Assistant Coach
+   Original line: Mike Smith Softball Assistant Coach mjsmith@uu.edu 731- The Master's 1st Season
+
+7. Kristen Blackburn
+   Email: kblackburn@uu.edu
+   Username: kblackburn
+   Sports: Volleyball
+   Title: Volleyball Head Coach
+   Original line: Kristen Blackburn Volleyball Head Coach kblackburn@uu.edu 731- Union 6th Season
+
+8. Mark Campbell
+   Email: mcampbel@uu.edu
+   Username: mcampbel
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Head Coach 5344 coach, 3rd as mcampbel@uu.edu
+
+9. Dalton Haywood
+   Email: dhaywood@uu.edu
+   Username: dhaywood
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach dhaywood@uu.edu
+
+10.  
+   Email: 
+   Username: 
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Conditioning Coach 661- University
+
+11.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach Parker
+
+12. Daniel Jones
+   Email: djones@uu.edu
+   Username: djones
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach University djones@uu.edu
+
+13.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Memphis
+
+14.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Associate Head Coach 661- University
+
+15. Jazalyn Anousinh
+   Email: jazzy.anousinh@my.uu.edu
+   Username: jazzy.anousinh
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 661- Baptist (16th as HC) jazzy.anousinh@my.uu.edu
+
+16.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach 661- University
+
+17. David Niven
+   Email: dniven@uu.edu
+   Username: dniven
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach 661- State dniven@uu.edu
+
+18.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 661- University
+
+19.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach University
+
+20. Aubrie Graduate
+   Email: aubrie.cagle@my.uu.edu
+   Username: aubrie.cagle
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 661- Illinois aubrie.cagle@my.uu.edu
+
+21. Josh Alford
+   Email: jalford@uu.edu
+   Username: jalford
+   Sports: Soccer
+   Title: Coach/Goalkeeper University
+   Original line: Coach/Goalkeeper University jalford@uu.edu
+
+22.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+23. Claire Maxon
+   Email: claire.maxon@my.uu.edu
+   Username: claire.maxon
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 661- College claire.maxon@my.uu.edu
+
+24. Steven Cox
+   Email: scox@uu.edu
+   Username: scox
+   Sports: Soccer
+   Title: Coach/Recruiting
+   Original line: Coach/Recruiting 661- University at scox@uu.edu
+
+25. Kaitlynn Lankford
+   Email: 
+   Username: kaitlynn.lankford
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kaitlynn Lankford Softball Assistant Coach Creighton 1st Season
+
+26.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach
+
+27.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 661- Smith College
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Casey McGehee Baseball Head Coach cmcgehee@uu.edu 731- Fresno State 3rd Season
+• Jenni Baylor Cheer Coach jbaylor@uu.edu Union 4th Season
+• Andy Rushing Golf Head Coach arushing@uu.edu 731- Union 38th Season
+• Gray Campbell Golf Assistant Coach gcampbell@uu.edu Union 1st Season
+• Sydney Sturner Softball Head Coach ssturner@uu.edu 731- Southern 4th Season
+• Mike Smith Softball Assistant Coach mjsmith@uu.edu 731- The Master's 1st Season
+• Kristen Blackburn Volleyball Head Coach kblackburn@uu.edu 731- Union 6th Season

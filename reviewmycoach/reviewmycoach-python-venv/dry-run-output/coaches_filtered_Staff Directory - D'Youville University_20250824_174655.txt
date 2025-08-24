@@ -1,0 +1,473 @@
+COACH ENTRIES FOUND - 2025-08-24 17:46:55
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: D'Youville University
+Organization: D'Youville University Athletics
+State: New York
+
+Total coaches found: 60
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jacob Kopasz
+   Email: kopaszj@dyu.edu
+   Username: kopaszj
+   Sports: Soccer
+   Title: Academic Success Coach
+   Original line: Jacob Kopasz Academic Success Coach kopaszj@dyu.edu
+
+2. Hannah Pagano
+   Email: paganoh@dyu.edu
+   Username: paganoh
+   Sports: Soccer
+   Title: Academic Success Coach
+   Original line: Hannah Pagano Academic Success Coach paganoh@dyu.edu
+
+3. Sophie Binsol
+   Email: binsols@dyu.edu
+   Username: binsols
+   Sports: Soccer
+   Title: Acrobatics & Tumbling Head Coach
+   Original line: Sophie Binsol Acrobatics & Tumbling Head Coach binsols@dyu.edu
+
+4. Marissa Volk
+   Email: volkm13@dyc.edu
+   Username: volkm13
+   Sports: Soccer
+   Title: Graduate Assistant Coach
+   Original line: Marissa Volk Graduate Assistant Coach volkm13@dyc.edu
+
+5. Kyle McLain
+   Email: mclaink@dyu.edu
+   Username: mclaink
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Kyle McLain Head Baseball Coach (716) 949- mclaink@dyu.edu
+
+6. Jake Harford
+   Email: harfordj@dyu.edu
+   Username: harfordj
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Jake Harford Assistant Baseball Coach harfordj@dyu.edu
+
+7. Adam Lampman
+   Email: lampma17@dyu.edu
+   Username: lampma17
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Adam Lampman Assistant Baseball Coach lampma17@dyu.edu
+
+8. Andy Stark
+   Email: starka@dyu.edu
+   Username: starka
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Andy Stark Head Men's Basketball Coach starka@dyu.edu
+
+9. Jake Sweeney
+   Email: sweeneyj@dyu.edu
+   Username: sweeneyj
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Jake Sweeney Assistant Men's Basketball Coach sweeneyj@dyu.edu
+
+10. Adam Bartley
+   Email: bartleya@dyc.edu
+   Username: bartleya
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Adam Bartley Assistant Men's Basketball Coach bartleya@dyc.edu
+
+11. Kelly Broderick
+   Email: broderik@dyu.edu
+   Username: broderik
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Kelly Broderick Head Women's Basketball Coach broderik@dyu.edu
+
+12. Erin Gibbons
+   Email: gibbonse@dyu.edu
+   Username: gibbonse
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Erin Gibbons Assistant Women's Basketball Coach gibbonse@dyu.edu
+
+13. Susan Jeziorski
+   Email: jeziorss@dyu.edu
+   Username: jeziorss
+   Sports: Baseball
+   Title: Head Bowling Coach
+   Original line: Susan Jeziorski Head Bowling Coach (716) 328- jeziorss@dyu.edu
+
+14. Alyssa Mankowski
+   Email: mankoa24@dyc.edu
+   Username: mankoa24
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Alyssa Mankowski Graduate Assistant Coach mankoa24@dyc.edu
+
+15. Brendan McMaster
+   Email: mcmasteb@dyu.edu
+   Username: mcmasteb
+   Sports: Cross Country
+   Title: Head Women's Track and Field Coach
+   Original line: Brendan McMaster Head Cross Country Coach | Head Women's Track and Field Coach mcmasteb@dyu.edu
+
+16. Mark Alicea
+   Email: aliceam@dyu.edu
+   Username: aliceam
+   Sports: Cross Country
+   Title: Esports Head Coach
+   Original line: Mark Alicea Esports Head Coach aliceam@dyu.edu
+
+17. Bekah Davie
+   Email: davieb@dyu.edu
+   Username: davieb
+   Sports: Track & Field
+   Title: Interim Head Field Hockey Coach
+   Original line: Bekah Davie Interim Head Field Hockey Coach davieb@dyu.edu
+
+18. Jeff Weiss
+   Email: weissj@dyu.edu
+   Username: weissj
+   Sports: Football
+   Title: Flag Football Head Coach
+   Original line: Jeff Weiss Flag Football Head Coach weissj@dyu.edu
+
+19. Jack Wilson
+   Email: wilsonjo@dyu.edu
+   Username: wilsonjo
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Jack Wilson Head Men's Lacrosse Coach (908) 907- wilsonjo@dyu.edu
+
+20. Mike Ventresca
+   Email: ventrm23@dyc.edu
+   Username: ventrm23
+   Sports: Football
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Mike Ventresca Assistant Men's Lacrosse Coach ventrm23@dyc.edu
+
+21. McKenna Rushford
+   Email: rushform@dyu.edu
+   Username: rushform
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: McKenna Rushford Head Women's Lacrosse Coach rushform@dyu.edu
+
+22. Sean Hallas
+   Email: hallass@dyu.edu
+   Username: hallass
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Sean Hallas Head Men's Soccer Coach hallass@dyu.edu
+
+23. Bautista Pedezert
+   Email: pedezerb@dyu.edu
+   Username: pedezerb
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Bautista Pedezert Assistant Men's Soccer Coach pedezerb@dyu.edu
+
+24. Jack Napier
+   Email: napierj@dyu.edu
+   Username: napierj
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Jack Napier Assistant Men's Soccer Coach napierj@dyu.edu
+
+25. Matthew Burke
+   Email: burkema@dyu.edu
+   Username: burkema
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Matthew Burke Assistant Men's Soccer Coach burkema@dyu.edu
+
+26. Angela Nicholas-Tolsma
+   Email: nicholaa@dyu.edu
+   Username: nicholaa
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Angela Nicholas-Tolsma Head Women's Soccer Coach nicholaa@dyu.edu
+
+27. Shelly Hoerner
+   Email: hoerners@dyu.edu
+   Username: hoerners
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Shelly Hoerner Head Softball Coach hoerners@dyu.edu
+
+28. Taylor Thorp
+   Email: thorpt@dyu.edu
+   Username: thorpt
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Taylor Thorp Assistant Softball Coach thorpt@dyu.edu
+
+29. Sarah Marro
+   Email: marros@dyu.edu
+   Username: marros
+   Sports: Softball
+   Title: Head Women's Tennis Coach
+   Original line: Sarah Marro Head Women's Tennis Coach marros@dyu.edu
+
+30. Brendan McMaster
+   Email: mcmasteb@dyu.edu
+   Username: mcmasteb
+   Sports: Softball
+   Title: Head Women's Track and Field Coach
+   Original line: Brendan McMaster Head Cross Country Coach | Head Women's Track and Field Coach mcmasteb@dyu.edu
+
+31. Brendan Leong
+   Email: leongb@dyu.edu
+   Username: leongb
+   Sports: Softball
+   Title: Men's Volleyball Head Coach
+   Original line: Brendan Leong Men's Volleyball Head Coach leongb@dyu.edu
+
+32. Ian De
+   Email: dewii22@dyc.edu
+   Username: dewii22
+   Sports: Softball
+   Title: Wilde Men's Volleyball Graduate Assistant Coach
+   Original line: Ian De Wilde Men's Volleyball Graduate Assistant Coach dewii22@dyc.edu
+
+33. Allison Post
+   Email: posta@dyu.edu
+   Username: posta
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Allison Post Head Women's Volleyball Coach posta@dyu.edu
+
+34. Mitch Mason
+   Email: masom24@dyu.edu
+   Username: masom24
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Mitch Mason Assistant Women's Volleyball Coach masom24@dyu.edu
+
+35. Kara Zaucha
+   Email: zauchakara@gmail.com
+   Username: zauchakara
+   Sports: Softball
+   Title: Women's Volleyball Assistant Coach
+   Original line: Kara Zaucha Women's Volleyball Assistant Coach zauchakara@gmail.com
+
+36. Carlene Sluberski
+   Email: slubersc@dyu.edu
+   Username: slubersc
+   Sports: Softball
+   Title: Head Women's Wrestling Coach
+   Original line: Carlene Sluberski Head Women's Wrestling Coach slubersc@dyu.edu
+
+37. Shay Ellis
+   Email: elliss11@dyc.edu
+   Username: elliss11
+   Sports: Strength & Conditioning
+   Title: Rachel Larabee Assistant Strength & Conditioning Coach
+   Original line: Rachel Larabee Assistant Strength & Conditioning Coach elliss11@dyc.edu
+
+38. Joe Kruszka
+   Email: 
+   Username: joe.kruszka
+   Sports: Baseball
+   Title: Joe Kruszka Assistant Baseball Coach
+   Original line: Joe Kruszka Assistant Baseball Coach
+
+39. Kris Kruszka
+   Email: 
+   Username: kris.kruszka
+   Sports: Baseball
+   Title: Kris Kruszka Assistant Baseball Coach
+   Original line: Kris Kruszka Assistant Baseball Coach
+
+40. Alex Dzimian
+   Email: 
+   Username: alex.dzimian
+   Sports: Baseball
+   Title: Alex Dzimian Assistant Baseball Coach
+   Original line: Alex Dzimian Assistant Baseball Coach
+
+41. Cole Volunteer
+   Email: 
+   Username: cole.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cole Hollins Volunteer Assistant Coach
+
+42. Mike Broderick
+   Email: 
+   Username: mike.broderick
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Mike Broderick Assistant Women's Basketball Coach
+
+43. Sofia Graduate
+   Email: 
+   Username: sofia.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sofia Genarea Graduate Assistant Coach
+
+44. Michelle Sterner
+   Email: 
+   Username: michelle.sterner
+   Sports: Soccer
+   Title: Michelle Sterner Assistant Bowling Coach
+   Original line: Michelle Sterner Assistant Bowling Coach
+
+45. Shawn Volunteer
+   Email: 
+   Username: shawn.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shawn Sterner Volunteer Assistant Coach
+
+46. Dylan Forman
+   Email: 
+   Username: dylan.forman
+   Sports: Cross Country
+   Title: Dylan Forman Assistant Cross Country Coach
+   Original line: Dylan Forman Assistant Cross Country Coach
+
+47. Joseph Frailey
+   Email: 
+   Username: joseph.frailey
+   Sports: Soccer
+   Title: Joseph Frailey Assistant eSports Coach
+   Original line: Joseph Frailey Assistant eSports Coach
+
+48. Adriana Lagoe
+   Email: 
+   Username: adriana.lagoe
+   Sports: Soccer
+   Title: Adriana Lagoe Assistant eSports Coach
+   Original line: Adriana Lagoe Assistant eSports Coach
+
+49. Peyton Volunteer
+   Email: 
+   Username: peyton.volunteer
+   Sports: Track & Field, Hockey
+   Title: Peyton Bentley Volunteer Assistant Field Hockey Coach
+   Original line: Peyton Bentley Volunteer Assistant Field Hockey Coach
+
+50. Mira Volunteer
+   Email: 
+   Username: mira.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mira Carver Volunteer Assistant Coach
+
+51. Vin Fiorella
+   Email: 
+   Username: vin.fiorella
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Vin Fiorella Assistant Men's Lacrosse Coach
+
+52. Steve Lucas
+   Email: 
+   Username: steve.lucas
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Steve Lucas Assistant Men's Lacrosse Coach
+
+53. Ryan Goalkeeper
+   Email: 
+   Username: ryan.goalkeeper
+   Sports: Soccer
+   Title: s Soccer Goalkeeper Coach
+   Original line: Ryan Moretta Women's Soccer Goalkeeper Coach
+
+54. Amanda Volunteer
+   Email: 
+   Username: amanda.volunteer
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Amanda Arnold Volunteer Assistant Women's Soccer Coach
+
+55. Kaitlyn Graduate
+   Email: 
+   Username: kaitlyn.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaitlyn Schmitz Graduate Assistant Coach
+
+56. John Speicher
+   Email: 
+   Username: john.speicher
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: John Speicher Women's Tennis Assistant Coach
+
+57. Alex Boglev
+   Email: 
+   Username: alex.boglev
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Alex Boglev Men's Volleyball Assistant Coach
+
+58. Jasmine Brundage
+   Email: 
+   Username: jasmine.brundage
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Jasmine Brundage Women's Volleyball Assistant Coach
+
+59. Olivia Graduate
+   Email: 
+   Username: olivia.graduate
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Olivia Alessi Women's Volleyball Graduate Assistant Coach
+
+60. Max Mejia
+   Email: 
+   Username: max.mejia
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Max Mejia Assistant Women's Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jacob Kopasz Academic Success Coach kopaszj@dyu.edu
+• Hannah Pagano Academic Success Coach paganoh@dyu.edu
+• Sophie Binsol Acrobatics & Tumbling Head Coach binsols@dyu.edu
+• Marissa Volk Graduate Assistant Coach volkm13@dyc.edu
+• Kyle McLain Head Baseball Coach (716) 949- mclaink@dyu.edu
+• Jake Harford Assistant Baseball Coach harfordj@dyu.edu
+• Adam Lampman Assistant Baseball Coach lampma17@dyu.edu
+• Andy Stark Head Men's Basketball Coach starka@dyu.edu
+• Jake Sweeney Assistant Men's Basketball Coach sweeneyj@dyu.edu
+• Adam Bartley Assistant Men's Basketball Coach bartleya@dyc.edu
+• Kelly Broderick Head Women's Basketball Coach broderik@dyu.edu
+• Erin Gibbons Assistant Women's Basketball Coach gibbonse@dyu.edu
+• Susan Jeziorski Head Bowling Coach (716) 328- jeziorss@dyu.edu
+• Alyssa Mankowski Graduate Assistant Coach mankoa24@dyc.edu
+• Brendan McMaster Head Cross Country Coach | Head Women's Track and Field Coach mcmasteb@dyu.edu
+• Mark Alicea Esports Head Coach aliceam@dyu.edu
+• Bekah Davie Interim Head Field Hockey Coach davieb@dyu.edu
+• Jeff Weiss Flag Football Head Coach weissj@dyu.edu
+• Jack Wilson Head Men's Lacrosse Coach (908) 907- wilsonjo@dyu.edu
+• Mike Ventresca Assistant Men's Lacrosse Coach ventrm23@dyc.edu
+• McKenna Rushford Head Women's Lacrosse Coach rushform@dyu.edu
+• Sean Hallas Head Men's Soccer Coach hallass@dyu.edu
+• Bautista Pedezert Assistant Men's Soccer Coach pedezerb@dyu.edu
+• Jack Napier Assistant Men's Soccer Coach napierj@dyu.edu
+• Matthew Burke Assistant Men's Soccer Coach burkema@dyu.edu
+• Angela Nicholas-Tolsma Head Women's Soccer Coach nicholaa@dyu.edu
+• Shelly Hoerner Head Softball Coach hoerners@dyu.edu
+• Taylor Thorp Assistant Softball Coach thorpt@dyu.edu
+• Sarah Marro Head Women's Tennis Coach marros@dyu.edu
+• Brendan McMaster Head Cross Country Coach | Head Women's Track and Field Coach mcmasteb@dyu.edu
+• Brendan Leong Men's Volleyball Head Coach leongb@dyu.edu
+• Ian De Wilde Men's Volleyball Graduate Assistant Coach dewii22@dyc.edu
+• Allison Post Head Women's Volleyball Coach posta@dyu.edu
+• Mitch Mason Assistant Women's Volleyball Coach masom24@dyu.edu
+• Kara Zaucha Women's Volleyball Assistant Coach zauchakara@gmail.com
+• Carlene Sluberski Head Women's Wrestling Coach slubersc@dyu.edu

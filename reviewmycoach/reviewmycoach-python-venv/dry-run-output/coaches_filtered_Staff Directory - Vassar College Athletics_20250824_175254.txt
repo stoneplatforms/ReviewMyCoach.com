@@ -1,0 +1,575 @@
+COACH ENTRIES FOUND - 2025-08-24 17:52:54
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Vassar College
+Organization: Vassar College Athletics
+State: New York
+
+Total coaches found: 72
+
+PARSED ENTRIES:
+----------------------------------------
+1. Evan Fowler
+   Email: efowler@vassar.edu
+   Username: efowler
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Evan Fowler Assistant Strength and Conditioning Coach efowler@vassar.edu
+
+2. Tad Skelley
+   Email: tskelley@vassar.edu
+   Username: tskelley
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tad Skelley Head Coach tskelley@vassar.edu 845-437-
+
+3. Beth Greenwood
+   Email: bgreenwood@vassar.edu
+   Username: bgreenwood
+   Sports: Baseball
+   Title: Pitching Coach
+   Original line: Beth Greenwood Pitching Coach bgreenwood@vassar.edu
+
+4. Ryan Mee
+   Email: rmee@vassar.edu
+   Username: rmee
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ryan Mee Head Coach rmee@vassar.edu 845-437-
+
+5. Leo Clibanoff
+   Email: lclibanoff@vassar.edu
+   Username: lclibanoff
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Leo Clibanoff Assistant Coach lclibanoff@vassar.edu 845-437-
+
+6. Morgan McCrea
+   Email: mmccrea@vassar.edu
+   Username: mmccrea
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Morgan McCrea Assistant Coach mmccrea@vassar.edu 845-437-
+
+7. James McCowan
+   Email: jamccowan@vassar.edu
+   Username: jamccowan
+   Sports: Baseball
+   Title: Head Coach
+   Original line: James McCowan Head Coach jamccowan@vassar.edu 845-437-
+
+8. James McCowan
+   Email: jamccowan@vassar.edu
+   Username: jamccowan
+   Sports: Baseball
+   Title: Head Coach
+   Original line: James McCowan Head Coach jamccowan@vassar.edu 845-437-
+
+9. Bruce Gillman
+   Email: brgillman@vassar.edu
+   Username: brgillman
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bruce Gillman Head Coach brgillman@vassar.edu 845-437-
+
+10. David Hite
+   Email: dhite@vassar.edu
+   Username: dhite
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: David Hite Assistant Coach dhite@vassar.edu
+
+11. Eric Soyka
+   Email: ersoyka@vassar.edu
+   Username: ersoyka
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Eric Soyka Assistant Coach ersoyka@vassar.edu 845-437-
+
+12. Bruce Gillman
+   Email: brgillman@vassar.edu
+   Username: brgillman
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bruce Gillman Head Coach brgillman@vassar.edu 845-437-
+
+13. David Hite
+   Email: dhite@vassar.edu
+   Username: dhite
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: David Hite Assistant Coach dhite@vassar.edu
+
+14. Eric Soyka
+   Email: ersoyka@vassar.edu
+   Username: ersoyka
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Eric Soyka Assistant Coach ersoyka@vassar.edu 845-437-
+
+15. Annie Fowler
+   Email: afowler@vassar.edu
+   Username: afowler
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Annie Fowler Head Coach afowler@vassar.edu 845-437-
+
+16. Cari Meltzer
+   Email: cmeltzer@vassar.edu
+   Username: cmeltzer
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Cari Meltzer Assistant Coach cmeltzer@vassar.edu
+
+17. Lisa Monaco
+   Email: lmonaco@vassar.edu
+   Username: lmonaco
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Lisa Monaco Head Coach lmonaco@vassar.edu 845-437-
+
+18. John McCreery
+   Email: jomccreery@vassar.edu
+   Username: jomccreery
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: John McCreery Head Coach jomccreery@vassar.edu 845-437-
+
+19. CJ White
+   Email: cwhite@vassar.edu
+   Username: cwhite
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: CJ White Assistant Coach cwhite@vassar.edu
+
+20. Judy Finerghty
+   Email: jufinerghty@vassar.edu
+   Username: jufinerghty
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Judy Finerghty Head Coach jufinerghty@vassar.edu 845-437-
+
+21. Sarah Lankton
+   Email: slankton@vassar.edu
+   Username: slankton
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Sarah Lankton Assistant Coach slankton@vassar.edu 845-437-
+
+22. Eliza Statile
+   Email: estatile@vassar.edu
+   Username: estatile
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Eliza Statile Assistant Coach estatile@vassar.edu
+
+23. Peter Wells
+   Email: pwells@vassar.edu
+   Username: pwells
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Peter Wells Head Coach pwells@vassar.edu 845-437-
+
+24. Peter Wells
+   Email: pwells@vassar.edu
+   Username: pwells
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Peter Wells Head Coach pwells@vassar.edu 845-437-
+
+25. Tony Brown
+   Email: tobrown@vassar.edu
+   Username: tobrown
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Tony Brown Head Coach tobrown@vassar.edu 845-437-
+
+26. Mark Griffiths
+   Email: magriffiths@vassar.edu
+   Username: magriffiths
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Mark Griffiths Assistant Coach magriffiths@vassar.edu 845-437-
+
+27. Dana Wasserman
+   Email: wasserdb@gmail.com
+   Username: wasserdb
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Dana Wasserman Assistant Coach wasserdb@gmail.com
+
+28. Tony Brown
+   Email: tobrown@vassar.edu
+   Username: tobrown
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Tony Brown Head Coach tobrown@vassar.edu 845-437-
+
+29. Mark Griffiths
+   Email: magriffiths@vassar.edu
+   Username: magriffiths
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Mark Griffiths Assistant Coach magriffiths@vassar.edu 845-437-
+
+30. Dana Wasserman
+   Email: wasserdb@gmail.com
+   Username: wasserdb
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Dana Wasserman Assistant Coach wasserdb@gmail.com
+
+31. Jonathan PH
+   Email: jhood@vassar.edu
+   Username: jhood
+   Sports: Track & Field
+   Title: D Head Coach
+   Original line: Jonathan Hood, PH.D Head Coach jhood@vassar.edu 845-437-
+
+32. Andrew Mpasiakos
+   Email: ampasiakos@vassar.edu
+   Username: ampasiakos
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Andrew Mpasiakos Associate Head Coach ampasiakos@vassar.edu
+
+33. Keith Simons
+   Email: KSIMONS@VASSAR.EDU
+   Username: KSIMONS
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Keith Simons Head Coach KSIMONS@VASSAR.EDU 845-437-
+
+34. Marissa Fortuna
+   Email: mfortuna@vassar.edu
+   Username: mfortuna
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Marissa Fortuna Assistant Coach mfortuna@vassar.edu
+
+35. Nku Patrick
+   Email: npatrick@vassar.edu
+   Username: npatrick
+   Sports: Track & Field
+   Title: Betty Richey Head Coach For Men's And
+   Original line: Nku Patrick Betty Richey Head Coach For Men's And Women's Squash npatrick@vassar.edu 845-437-
+
+36. Nku Patrick
+   Email: npatrick@vassar.edu
+   Username: npatrick
+   Sports: Track & Field
+   Title: Betty Richey Head Coach For Men's And
+   Original line: Nku Patrick Betty Richey Head Coach For Men's And Women's Squash npatrick@vassar.edu 845-437-
+
+37. Lisl Prater-Lee
+   Email: lipraterlee@vassar.edu
+   Username: lipraterlee
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Lisl Prater-Lee Head Coach lipraterlee@vassar.edu 845-437-
+
+38. Jake McCormack
+   Email: jmccormack@vassar.edu
+   Username: jmccormack
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jake McCormack Assistant Coach jmccormack@vassar.edu
+
+39. Brian Bolstad
+   Email: brbolstad@vassar.edu
+   Username: brbolstad
+   Sports: Track & Field
+   Title: Diving Coach
+   Original line: Brian Bolstad Diving Coach brbolstad@vassar.edu
+
+40. Lisl Prater-Lee
+   Email: lipraterlee@vassar.edu
+   Username: lipraterlee
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Lisl Prater-Lee Head Coach lipraterlee@vassar.edu 845-437-
+
+41. Jake McCormack
+   Email: jmccormack@vassar.edu
+   Username: jmccormack
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jake McCormack Assistant Coach jmccormack@vassar.edu
+
+42. Brian Bolstad
+   Email: brbolstad@vassar.edu
+   Username: brbolstad
+   Sports: Track & Field
+   Title: Diving Coach
+   Original line: Brian Bolstad Diving Coach brbolstad@vassar.edu
+
+43. Marty Perry
+   Email: martinperry@vassar.edu
+   Username: martinperry
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Marty Perry Head Coach martinperry@vassar.edu 845-437-
+
+44. Tina McDermott
+   Email: tmcdermott@vassar.edu
+   Username: tmcdermott
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Tina McDermott Head Coach tmcdermott@vassar.edu 845-437-
+
+45. Sean McDermott
+   Email: smcdermott@vassar.edu
+   Username: smcdermott
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Sean McDermott Assistant Coach smcdermott@vassar.edu 845-437-
+
+46. Joe Reed
+   Email: josephreed@vassar.edu
+   Username: josephreed
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Joe Reed Head Coach josephreed@vassar.edu 845-437-
+
+47. James McCowan
+   Email: jamccowan@vassar.edu
+   Username: jamccowan
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: James McCowan Associate Head Coach, Distance jamccowan@vassar.edu 845-437-
+
+48. Lauren Bossi-Johnson
+   Email: lbossijohnson@vassar.edu
+   Username: lbossijohnson
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Lauren Bossi-Johnson Assistant Coach lbossijohnson@vassar.edu
+
+49. Joe Reed
+   Email: josephreed@vassar.edu
+   Username: josephreed
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Joe Reed Head Coach josephreed@vassar.edu 845-437-
+
+50. James McCowan
+   Email: jamccowan@vassar.edu
+   Username: jamccowan
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: James McCowan Associate Head Coach, Distance jamccowan@vassar.edu 845-437-
+
+51. Lauren Bossi-Johnson
+   Email: lbossijohnson@vassar.edu
+   Username: lbossijohnson
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Lauren Bossi-Johnson Assistant Coach lbossijohnson@vassar.edu
+
+52. Richard Gary
+   Email: rgary@vassar.edu
+   Username: rgary
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Richard Gary Head Coach rgary@vassar.edu 845-437-
+
+53. Lauren Moran
+   Email: lmoran@vassar.edu
+   Username: lmoran
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Lauren Moran Assistant Coach lmoran@vassar.edu
+
+54. Tyler Blank
+   Email: tblank@vassar.edu
+   Username: tblank
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Tyler Blank Head Coach tblank@vassar.edu 845-437-
+
+55. Matt Barbieri
+   Email: 
+   Username: matt.barbieri
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Barbieri Assistant Coach
+
+56. Jonathan Caceres
+   Email: 
+   Username: jonathan.caceres
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jonathan Caceres Assistant Coach
+
+57. TBA 
+   Email: 
+   Username: tba
+   Sports: Soccer
+   Title: Head Coach
+   Original line: TBA TBA Head Coach
+
+58. Josie Skelley
+   Email: 
+   Username: josie.skelley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josie Skelley Assistant Coach
+
+59. Cat Hare
+   Email: 
+   Username: cat.hare
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cat Hare Assistant Coach
+
+60. Andrew Nicol
+   Email: 
+   Username: andrew.nicol
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andrew Nicol Assistant Coach
+
+61. Derek Zacatenco
+   Email: 
+   Username: derek.zacatenco
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Derek Zacatenco Assistant Coach
+
+62. Shane Caroll
+   Email: 
+   Username: shane.caroll
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shane Caroll Assistant Coach
+
+63. Kyle Loughlin
+   Email: 
+   Username: kyle.loughlin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Loughlin Assistant Coach
+
+64. Stephanie Sumzik
+   Email: 
+   Username: stephanie.sumzik
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Stephanie Sumzik Assistant Coach
+
+65. Kate Fowler
+   Email: 
+   Username: kate.fowler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kate Fowler Assistant Coach
+
+66. Bill Davies
+   Email: 
+   Username: bill.davies
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bill Davies Assistant Coach
+
+67. Michelle Tebolt
+   Email: 
+   Username: michelle.tebolt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michelle Tebolt Assistant Coach
+
+68. Chuck Wilder
+   Email: 
+   Username: chuck.wilder
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chuck Wilder Assistant Coach
+
+69. Sarah Dwyer-Shick
+   Email: 
+   Username: sarah.dwyer.shick
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sarah Dwyer-Shick Assistant Coach
+
+70. Adam Pregno
+   Email: 
+   Username: adam.pregno
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Adam Pregno Assistant Coach
+
+71. Sara Steinberg
+   Email: 
+   Username: sara.steinberg
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sara Steinberg Assistant Coach
+
+72. Brandon Gruver
+   Email: 
+   Username: brandon.gruver
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Gruver Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Evan Fowler Assistant Strength and Conditioning Coach efowler@vassar.edu
+• Tad Skelley Head Coach tskelley@vassar.edu 845-437-
+• Beth Greenwood Pitching Coach bgreenwood@vassar.edu
+• Ryan Mee Head Coach rmee@vassar.edu 845-437-
+• Leo Clibanoff Assistant Coach lclibanoff@vassar.edu 845-437-
+• Morgan McCrea Assistant Coach mmccrea@vassar.edu 845-437-
+• James McCowan Head Coach jamccowan@vassar.edu 845-437-
+• James McCowan Head Coach jamccowan@vassar.edu 845-437-
+• Bruce Gillman Head Coach brgillman@vassar.edu 845-437-
+• David Hite Assistant Coach dhite@vassar.edu
+• Eric Soyka Assistant Coach ersoyka@vassar.edu 845-437-
+• Bruce Gillman Head Coach brgillman@vassar.edu 845-437-
+• David Hite Assistant Coach dhite@vassar.edu
+• Eric Soyka Assistant Coach ersoyka@vassar.edu 845-437-
+• Annie Fowler Head Coach afowler@vassar.edu 845-437-
+• Cari Meltzer Assistant Coach cmeltzer@vassar.edu
+• Lisa Monaco Head Coach lmonaco@vassar.edu 845-437-
+• John McCreery Head Coach jomccreery@vassar.edu 845-437-
+• CJ White Assistant Coach cwhite@vassar.edu
+• Judy Finerghty Head Coach jufinerghty@vassar.edu 845-437-
+• Sarah Lankton Assistant Coach slankton@vassar.edu 845-437-
+• Eliza Statile Assistant Coach estatile@vassar.edu
+• Peter Wells Head Coach pwells@vassar.edu 845-437-
+• Peter Wells Head Coach pwells@vassar.edu 845-437-
+• Tony Brown Head Coach tobrown@vassar.edu 845-437-
+• Mark Griffiths Assistant Coach magriffiths@vassar.edu 845-437-
+• Dana Wasserman Assistant Coach wasserdb@gmail.com
+• Tony Brown Head Coach tobrown@vassar.edu 845-437-
+• Mark Griffiths Assistant Coach magriffiths@vassar.edu 845-437-
+• Dana Wasserman Assistant Coach wasserdb@gmail.com
+• Jonathan Hood, PH.D Head Coach jhood@vassar.edu 845-437-
+• Andrew Mpasiakos Associate Head Coach ampasiakos@vassar.edu
+• Keith Simons Head Coach KSIMONS@VASSAR.EDU 845-437-
+• Marissa Fortuna Assistant Coach mfortuna@vassar.edu
+• Nku Patrick Betty Richey Head Coach For Men's And Women's Squash npatrick@vassar.edu 845-437-
+• Nku Patrick Betty Richey Head Coach For Men's And Women's Squash npatrick@vassar.edu 845-437-
+• Lisl Prater-Lee Head Coach lipraterlee@vassar.edu 845-437-
+• Jake McCormack Assistant Coach jmccormack@vassar.edu
+• Brian Bolstad Diving Coach brbolstad@vassar.edu
+• Lisl Prater-Lee Head Coach lipraterlee@vassar.edu 845-437-
+• Jake McCormack Assistant Coach jmccormack@vassar.edu
+• Brian Bolstad Diving Coach brbolstad@vassar.edu
+• Marty Perry Head Coach martinperry@vassar.edu 845-437-
+• Tina McDermott Head Coach tmcdermott@vassar.edu 845-437-
+• Sean McDermott Assistant Coach smcdermott@vassar.edu 845-437-
+• Joe Reed Head Coach josephreed@vassar.edu 845-437-
+• James McCowan Associate Head Coach, Distance jamccowan@vassar.edu 845-437-
+• Lauren Bossi-Johnson Assistant Coach lbossijohnson@vassar.edu
+• Joe Reed Head Coach josephreed@vassar.edu 845-437-
+• James McCowan Associate Head Coach, Distance jamccowan@vassar.edu 845-437-
+• Lauren Bossi-Johnson Assistant Coach lbossijohnson@vassar.edu
+• Richard Gary Head Coach rgary@vassar.edu 845-437-
+• Lauren Moran Assistant Coach lmoran@vassar.edu
+• Tyler Blank Head Coach tblank@vassar.edu 845-437-

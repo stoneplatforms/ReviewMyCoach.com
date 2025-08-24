@@ -1,0 +1,392 @@
+COACH ENTRIES FOUND - 2025-08-24 17:50:47
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Roberts Wesleyan University
+Organization: Roberts Wesleyan University Athletics
+State: New York
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mark Saladzius
+   Email: Saladzius_Mark@roberts.edu
+   Username: Saladzius_Mark
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mark Saladzius Head Coach Saladzius_Mark@roberts.edu 585-594- Santaladzius
+
+2. Kevin Clifford
+   Email: clifford_kevin@roberts.edu
+   Username: clifford_kevin
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kevin Clifford Head Coach clifford_kevin@roberts.edu
+
+3. Todd Esposito
+   Email: esposito_todd@roberts.edu
+   Username: esposito_todd
+   Sports: Soccer
+   Title: Assistant Coach/Recruiting
+   Original line: Todd Esposito Assistant Coach/Recruiting esposito_todd@roberts.edu
+
+4. Sheila Hawkes
+   Email: hawkes_sheila@roberts.edu
+   Username: hawkes_sheila
+   Sports: Soccer
+   Title: Assistant Coach/JV
+   Original line: Sheila Hawkes Assistant Coach/JV Head Coach hawkes_sheila@roberts.edu
+
+5. Marion Sullivan
+   Email: singleton_marion@roberts.edu
+   Username: singleton_marion
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Marion Sullivan Head Coach singleton_marion@roberts.edu 585-594-
+
+6. Jennifer Dorr
+   Email: dorr_jennifer@roberts.edu
+   Username: dorr_jennifer
+   Sports: Cross Country
+   Title: Associate Head Cross Country Coach /
+   Original line: Jennifer Dorr Associate Head Cross Country Coach / dorr_jennifer@roberts.edu 585-594-
+
+7. Owen White
+   Email: white_Owen@roberts.edu
+   Username: white_Owen
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Owen White Assistant Coach white_Owen@roberts.edu
+
+8. Aaron Stiles
+   Email: stiles_aaron@roberts.edu
+   Username: stiles_aaron
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Aaron Stiles Head Coach stiles_aaron@roberts.edu
+
+9. Marissa Kocher
+   Email: kocher_marissa@roberts.edu
+   Username: kocher_marissa
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Marissa Kocher Head Coach kocher_marissa@roberts.edu
+
+10. Paul Fricano
+   Email: womensflagfootball@roberts.edu
+   Username: womensflagfootball
+   Sports: Football
+   Title: Head Coach
+   Original line: Paul Fricano Head Coach womensflagfootball@roberts.edu
+
+11. Rocky Delfino
+   Email: delfino_rocky@roberts.edu
+   Username: delfino_rocky
+   Sports: Football
+   Title: Head Coach
+   Original line: Rocky Delfino Head Coach delfino_rocky@roberts.edu 585-594-
+
+12. Kristin Paolini
+   Email: concordia_kristin@roberts.edu
+   Username: concordia_kristin
+   Sports: Football
+   Title: Head Coach
+   Original line: Kristin Paolini Head Coach concordia_kristin@roberts.edu 585-594-
+
+13. Scott Reber
+   Email: reber_scott@roberts.edu
+   Username: reber_scott
+   Sports: Football
+   Title: Head Coach
+   Original line: Scott Reber Head Coach reber_scott@roberts.edu 585-594-
+
+14. Toby Balaam
+   Email: balaam_toby@roberts.edu
+   Username: balaam_toby
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Toby Balaam Graduate Assistant Coach balaam_toby@roberts.edu
+
+15. Bobby McColl
+   Email: mccoll_bobby@roberts.edu
+   Username: mccoll_bobby
+   Sports: Football
+   Title: Head Coach
+   Original line: Bobby McColl Head Coach mccoll_bobby@roberts.edu 585-594-
+
+16. Rob Arrendell
+   Email: Arrendell_Rob@roberts.edu
+   Username: Arrendell_Rob
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Rob Arrendell Assistant Coach Arrendell_Rob@roberts.edu
+
+17. Sara Smith
+   Email: smith_sara@roberts.edu
+   Username: smith_sara
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Sara Smith Head Coach smith_sara@roberts.edu 585-594-
+
+18. Thomas Giannettino
+   Email: giannettino_thomas@roberts.edu
+   Username: giannettino_thomas
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Thomas Giannettino Head Coach giannettino_thomas@roberts.edu 585-594-
+
+19. Jennie Hansen
+   Email: hansen_jennie@roberts.edu
+   Username: hansen_jennie
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Jennie Hansen Assistant Coach hansen_jennie@roberts.edu
+
+20. Mike Dedee
+   Email: dedee_michael@roberts.edu
+   Username: dedee_michael
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Mike Dedee Head Coach dedee_michael@roberts.edu
+
+21. Andy Braun
+   Email: braun_andy@roberts.edu
+   Username: braun_andy
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Andy Braun Head Coach braun_andy@roberts.edu 585-594-
+
+22. Mark McCown
+   Email: mccown_mark@roberts.edu
+   Username: mccown_mark
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Mark McCown Head Coach mccown_mark@roberts.edu 585-594-
+
+23. Jennifer Dorr
+   Email: dorr_jennifer@roberts.edu
+   Username: dorr_jennifer
+   Sports: Track & Field
+   Title: Associate Head Cross Country Coach /
+   Original line: Jennifer Dorr Associate Head Cross Country Coach / dorr_jennifer@roberts.edu 585-594-
+
+24. Pole Vault
+   Email: suhr_jennifer@roberts.edu
+   Username: suhr_jennifer
+   Sports: Track & Field
+   Title: Jenn Suhr Assistant Coach
+   Original line: Jenn Suhr Assistant Coach - Pole Vault suhr_jennifer@roberts.edu
+
+25. Owen White
+   Email: white_Owen@roberts.edu
+   Username: white_Owen
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Owen White Assistant Coach white_Owen@roberts.edu
+
+26. Paula Mitchell
+   Email: mitchell_paula@roberts.edu
+   Username: mitchell_paula
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sim Heard Assistant Coach mitchell_paula@roberts.edu
+
+27. Xavier Smith
+   Email: 
+   Username: xavier.smith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Xavier Smith Assistant Coach
+
+28. Amari Lee
+   Email: 
+   Username: amari.lee
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Amari Lee Assistant Coach
+
+29. Michael Brooks
+   Email: 
+   Username: michael.brooks
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michael Brooks Assistant Coach
+
+30. Dan Dunne
+   Email: 
+   Username: dan.dunne
+   Sports: Soccer
+   Title: Assistant Coach/Frontcourt Player
+   Original line: Dan Dunne Assistant Coach/Frontcourt Player
+
+31. Distance 
+   Email: 
+   Username: distance
+   Sports: Track & Field
+   Title: Distance Track Coach
+   Original line: Distance Track Coach 6513
+
+32. Shelby Bourn
+   Email: 
+   Username: shelby.bourn
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shelby Bourn Assistant Coach
+
+33. Jordan Volunteer
+   Email: 
+   Username: jordan.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jordan Eisenhut Volunteer Assistant Coach
+
+34. Pete Bell
+   Email: 
+   Username: pete.bell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Pete Bell Assistant Coach
+
+35. John Goalkeeper
+   Email: 
+   Username: john.goalkeeper
+   Sports: Soccer
+   Title: John Knowles Goalkeeper Coach
+   Original line: John Knowles Goalkeeper Coach
+
+36. Kenny Aderounmu
+   Email: 
+   Username: kenny.aderounmu
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kenny Aderounmu Assistant Coach
+
+37. Ollie Ardle
+   Email: 
+   Username: ollie.ardle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ollie Ardle Assistant Coach
+
+38. Josh Jones
+   Email: 
+   Username: josh.jones
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Jones Assistant Coach
+
+39. Alex Vega
+   Email: 
+   Username: alex.vega
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alex Perez Vega Assistant Coach
+
+40. Joe Goalie
+   Email: 
+   Username: joe.goalie
+   Sports: Soccer
+   Title: Joe McNulty Goalie Coach
+   Original line: Joe McNulty Goalie Coach
+
+41. Development 
+   Email: 
+   Username: development
+   Sports: Soccer
+   Title: Development Coach
+   Original line: Development Coach
+
+42. Shane Logan
+   Email: 
+   Username: shane.logan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shane Logan Assistant Coach
+
+43. Amanda Charleston
+   Email: 
+   Username: amanda.charleston
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Amanda Charleston Assistant Coach
+
+44. Jackie Bors
+   Email: 
+   Username: jackie.bors
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jackie Bors Assistant Coach (Diving)
+
+45. Mitch Segbers
+   Email: 
+   Username: mitch.segbers
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mitch Segbers Assistant Coach
+
+46. Kelsey Milligan
+   Email: 
+   Username: kelsey.milligan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelsey Milligan Assistant Coach
+
+47. Paige Judge
+   Email: 
+   Username: paige.judge
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Paige Judge Assistant Coach
+
+48. Andrew Dorr
+   Email: dorr_andrew@roberts.edu
+   Username: dorr_andrew
+   Sports: Soccer
+   Title: Assistant Coach - Pole Vault
+   Original line: Chris Brhel Assistant Coach - Pole Vault dorr_andrew@roberts.edu
+
+49. Rick Suhr
+   Email: 
+   Username: rick.suhr
+   Sports: Soccer
+   Title: Assistant Coach - Pole Vault
+   Original line: Rick Suhr Assistant Coach - Pole Vault
+
+50. Roy Throws
+   Email: 
+   Username: roy.throws
+   Sports: Soccer
+   Title: Roy Hawkins Throws Coach
+   Original line: Roy Hawkins Throws Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mark Saladzius Head Coach Saladzius_Mark@roberts.edu 585-594- Santaladzius
+• Kevin Clifford Head Coach clifford_kevin@roberts.edu
+• Todd Esposito Assistant Coach/Recruiting esposito_todd@roberts.edu
+• Sheila Hawkes Assistant Coach/JV Head Coach hawkes_sheila@roberts.edu
+• Marion Sullivan Head Coach singleton_marion@roberts.edu 585-594-
+• Jennifer Dorr Associate Head Cross Country Coach / dorr_jennifer@roberts.edu 585-594-
+• Owen White Assistant Coach white_Owen@roberts.edu
+• Aaron Stiles Head Coach stiles_aaron@roberts.edu
+• Marissa Kocher Head Coach kocher_marissa@roberts.edu
+• Paul Fricano Head Coach womensflagfootball@roberts.edu
+• Rocky Delfino Head Coach delfino_rocky@roberts.edu 585-594-
+• Kristin Paolini Head Coach concordia_kristin@roberts.edu 585-594-
+• Scott Reber Head Coach reber_scott@roberts.edu 585-594-
+• Toby Balaam Graduate Assistant Coach balaam_toby@roberts.edu
+• Bobby McColl Head Coach mccoll_bobby@roberts.edu 585-594-
+• Rob Arrendell Assistant Coach Arrendell_Rob@roberts.edu
+• Sara Smith Head Coach smith_sara@roberts.edu 585-594-
+• Thomas Giannettino Head Coach giannettino_thomas@roberts.edu 585-594-
+• Jennie Hansen Assistant Coach hansen_jennie@roberts.edu
+• Mike Dedee Head Coach dedee_michael@roberts.edu
+• Andy Braun Head Coach braun_andy@roberts.edu 585-594-
+• Mark McCown Head Coach mccown_mark@roberts.edu 585-594-
+• Jennifer Dorr Associate Head Cross Country Coach / dorr_jennifer@roberts.edu 585-594-
+• Jenn Suhr Assistant Coach - Pole Vault suhr_jennifer@roberts.edu
+• Owen White Assistant Coach white_Owen@roberts.edu

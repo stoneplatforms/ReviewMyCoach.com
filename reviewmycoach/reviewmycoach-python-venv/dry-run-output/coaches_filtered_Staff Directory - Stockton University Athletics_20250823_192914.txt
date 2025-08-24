@@ -1,0 +1,498 @@
+COACH ENTRIES FOUND - 2025-08-23 19:29:14
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Stockton University
+Organization: Stockton University Athletics
+
+Total coaches found: 65
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chris O'Brien
+   Email: obrien39@stockton.edu
+   Username: obrien39
+   Sports: Rowing
+   Title: Head Rowing Coach/Associate Director of
+   Original line: Chris O'Brien Head Rowing Coach/Associate Director of Athletic Development obrien39@stockton.edu 609-626-
+
+2. Phil Aumack
+   Email: aumackp@stockton.edu
+   Username: aumackp
+   Sports: Strength & Conditioning
+   Title: Fitness Program Coodinator/Strength & Conditioning Coach
+   Original line: Phil Aumack Fitness Program Coodinator/Strength & Conditioning Coach aumackp@stockton.edu 609-652-
+
+3. Rich Gawlak
+   Email: gawlakr@stockton.edu
+   Username: gawlakr
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Rich Gawlak Head Baseball Coach gawlakr@stockton.edu 609-626-
+
+4. Scott Bittner
+   Email: Bittners@stockton.edu
+   Username: Bittners
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Scott Bittner Head Men's Basketball Coach Bittners@stockton.edu 609-626-
+
+5. Devin Jefferson
+   Email: jeffer15@stockton.edu
+   Username: jeffer15
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Devin Jefferson Head Women's Basketball Coach jeffer15@stockton.edu 609-626-
+
+6. Joanna Persiano
+   Email: persianj@stockton.edu
+   Username: persianj
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Joanna Persiano Assistant Women's Basketball Coach persianj@stockton.edu
+
+7. Jayson Resch
+   Email: reschj@stockton.edu
+   Username: reschj
+   Sports: Baseball
+   Title: Head Men's Track & Field and Cross Country Coach
+   Original line: Jayson Resch Head Men's Track & Field and Cross Country Coach reschj@stockton.edu 609-626-
+
+8. Claire Incantalupo
+   Email: incantac@stockton.edu
+   Username: incantac
+   Sports: Baseball
+   Title: Head Women's Track & Field and Cross Country Coach
+   Original line: Claire Incantalupo Head Women's Track & Field and Cross Country Coach incantac@stockton.edu 609-626-
+
+9. Sarah Elleman
+   Email: ellemans@stockton.edu
+   Username: ellemans
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Sarah Elleman Head Field Hockey Coach ellemans@stockton.edu 609-626-
+
+10. Bruce Chelucci
+   Email: cheluccb@stockton.edu
+   Username: cheluccb
+   Sports: Track & Field
+   Title: Head Women's Golf Coach
+   Original line: Bruce Chelucci Head Women's Golf Coach cheluccb@stockton.edu 609-703-
+
+11. Rodger Gottlieb
+   Email: gottlie2@stockton.edu
+   Username: gottlie2
+   Sports: Track & Field
+   Title: Assistant Women's Golf Coach
+   Original line: Rodger Gottlieb Assistant Women's Golf Coach gottlie2@stockton.edu
+
+12. Kevin Zulauf
+   Email: zulaufk@stockton.edu
+   Username: zulaufk
+   Sports: Track & Field
+   Title: Head Men's Lacrosse Coach
+   Original line: Kevin Zulauf Head Men's Lacrosse Coach zulaufk@stockton.edu 609-626-
+
+13. Denise Roessler
+   Email: roessled@stockton.edu
+   Username: roessled
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Original line: Denise Roessler Head Women's Lacrosse Coach roessled@stockton.edu 609-652-
+
+14. Chris O'Brien
+   Email: obrien39@stockton.edu
+   Username: obrien39
+   Sports: Track & Field
+   Title: Head Rowing Coach/Associate Director of
+   Original line: Chris O'Brien Head Rowing Coach/Associate Director of Athletic Development obrien39@stockton.edu 609-626-
+
+15. John Rosado
+   Email: rosadoj2@stockton.edu
+   Username: rosadoj2
+   Sports: Track & Field
+   Title: s Rowing Associate Head Coach/Recruiting Coordinator
+   Original line: John Rosado Women's Rowing Associate Head Coach/Recruiting Coordinator rosadoj2@stockton.edu
+
+16. Mollie Knoff
+   Email: Mollie.Knoff@stockton.edu
+   Username: Mollie.Knoff
+   Sports: Track & Field
+   Title: Assistant Women's Rowing Coach
+   Original line: Mollie Knoff Assistant Women's Rowing Coach Mollie.Knoff@stockton.edu
+
+17. Greg Ruttler
+   Email: ruttlerg@stockton.edu
+   Username: ruttlerg
+   Sports: Track & Field
+   Title: Head Men's Soccer Coach
+   Original line: Greg Ruttler Head Men's Soccer Coach ruttlerg@stockton.edu 609-626-
+
+18. Evan Brosniak
+   Email: evan.brosniak@stockton.edu
+   Username: evan.brosniak
+   Sports: Track & Field
+   Title: Assistant Men's and Women's Soccer Coach
+   Original line: Evan Brosniak Assistant Men's and Women's Soccer Coach evan.brosniak@stockton.edu
+
+19. Courtney Dougherty
+   Email: dougherc@stockton.edu
+   Username: dougherc
+   Sports: Track & Field
+   Title: Interim Head Women's Soccer Coach
+   Original line: Courtney Dougherty Interim Head Women's Soccer Coach dougherc@stockton.edu
+
+20. Evan Brosniak
+   Email: evan.brosniak@stockton.edu
+   Username: evan.brosniak
+   Sports: Track & Field
+   Title: Assistant Men's and Women's Soccer Coach
+   Original line: Evan Brosniak Assistant Men's and Women's Soccer Coach evan.brosniak@stockton.edu
+
+21. Mavreen Hering
+   Email: heringm1@stockton.edu
+   Username: heringm1
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Mavreen Hering Head Softball Coach heringm1@stockton.edu 609-626-
+
+22. Abby Mace
+   Email: macea@stockton.edu
+   Username: macea
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Abby Mace Assistant Softball Coach macea@stockton.edu
+
+23. Jayson Resch
+   Email: reschj@stockton.edu
+   Username: reschj
+   Sports: Softball
+   Title: Head Men's Track & Field and Cross Country Coach
+   Original line: Jayson Resch Head Men's Track & Field and Cross Country Coach reschj@stockton.edu 609-626-
+
+24. Claire Incantalupo
+   Email: incantac@stockton.edu
+   Username: incantac
+   Sports: Softball
+   Title: Head Women's Track & Field and Cross Country Coach
+   Original line: Claire Incantalupo Head Women's Track & Field and Cross Country Coach incantac@stockton.edu 609-626-
+
+25. Todd Curll
+   Email: curllt@stockton.edu
+   Username: curllt
+   Sports: Softball
+   Title: Assistant Track & Field Coach
+   Original line: Todd Curll Assistant Track & Field Coach (Pole Vault) curllt@stockton.edu 609-626-
+
+26. Jared Lewis
+   Email: jared.lewis@stockton.edu
+   Username: jared.lewis
+   Sports: Softball
+   Title: Assistant Track & Field Coach
+   Original line: Jared Lewis Assistant Track & Field Coach (Jumps) jared.lewis@stockton.edu
+
+27. Allison Walker
+   Email: walkera@stockton.edu
+   Username: walkera
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Allison Walker Head Volleyball Coach walkera@stockton.edu 609-626-
+
+28. Steve Janik
+   Email: janiks@stockton.edu
+   Username: janiks
+   Sports: Baseball
+   Title: Bucci Assistant Baseball Coach
+   Original line: Steve Bucci Assistant Baseball Coach janiks@stockton.edu
+
+29. Phil Kahn
+   Email: 
+   Username: phil.kahn
+   Sports: Baseball
+   Title: Phil Kahn Assistant Baseball Coach
+   Original line: Phil Kahn Assistant Baseball Coach
+
+30. Jessica Giaccone
+   Email: jessica.giaccone@stockton.edu
+   Username: jessica.giaccone
+   Sports: Baseball
+   Title: Steve Struble Assistant Baseball Coach
+   Original line: Steve Struble Assistant Baseball Coach jessica.giaccone@stockton.edu
+
+31. LT Struble
+   Email: 
+   Username: lt.struble
+   Sports: Baseball
+   Title: LT Struble Assistant Baseball Coach
+   Original line: LT Struble Assistant Baseball Coach
+
+32. Eric Fierro
+   Email: 
+   Username: eric.fierro
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Eric Fierro Assistant Men's Basketball Coach
+
+33. Christian Mortellite
+   Email: 
+   Username: christian.mortellite
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Christian Mortellite Assistant Men's Basketball Coach
+
+34. Nick Duncsak
+   Email: 
+   Username: nick.duncsak
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Nick Duncsak Assistant Men's Basketball Coach
+
+35. Charles Sapp
+   Email: 
+   Username: charles.sapp
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Charles Sapp Assistant Men's Basketball Coach
+
+36. Martin Anguelov
+   Email: 
+   Username: martin.anguelov
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Martin Anguelov Assistant Men's Basketball Coach
+
+37. Aminah Davis
+   Email: 
+   Username: aminah.davis
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Aminah Davis Assistant Women's Basketball Coach
+
+38. Grace Sacco
+   Email: 
+   Username: grace.sacco
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Grace Sacco Assistant Women's Basketball Coach
+
+39. Ricky Pfeifer
+   Email: 
+   Username: ricky.pfeifer
+   Sports: Track & Field, Cross Country
+   Title: s Track & Field and Cross Country Coach
+   Original line: Ricky Pfeifer Assistant Men's Track & Field and Cross Country Coach
+
+40. Lauren Maldonado
+   Email: 
+   Username: lauren.maldonado
+   Sports: Track & Field, Cross Country
+   Title: s Track & Field and Cross Country Coach
+   Original line: Lauren Maldonado Assistant Women's Track & Field and Cross Country Coach
+
+41. Elizabeth Law
+   Email: 
+   Username: elizabeth.law
+   Sports: Track & Field, Hockey
+   Title: Elizabeth Law Associate Head Field Hockey Coach
+   Original line: Elizabeth Law Associate Head Field Hockey Coach
+
+42. Candice Steinhauer
+   Email: 
+   Username: candice.steinhauer
+   Sports: Track & Field, Hockey
+   Title: Candice Steinhauer Assistant Field Hockey Coach
+   Original line: Candice Steinhauer Assistant Field Hockey Coach
+
+43. Michael Newell
+   Email: 
+   Username: michael.newell
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Michael Newell Assistant Women's Golf Coach
+
+44. Dan Keating
+   Email: 
+   Username: dan.keating
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Dan Keating Assistant Men's Lacrosse Coach
+
+45. Phil Wambach
+   Email: 
+   Username: phil.wambach
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Phil Wambach Assistant Men's Lacrosse Coach
+
+46. Will Mercado
+   Email: 
+   Username: will.mercado
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Will Mercado Assistant Men's Lacrosse Coach
+
+47. Alexandria Vincent
+   Email: 
+   Username: alexandria.vincent
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Alexandria Vincent Assistant Women's Lacrosse Coach
+
+48. Joe Gigantiello
+   Email: 
+   Username: joe.gigantiello
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Joe Gigantiello Assistant Women's Lacrosse Coach
+
+49. Nenad Gorgiev
+   Email: 
+   Username: nenad.gorgiev
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Nenad Gorgiev Assistant Men's Soccer Coach
+
+50. Alexis Mendoza
+   Email: 
+   Username: alexis.mendoza
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Alexis Mendoza Assistant Men's Soccer Coach
+
+51. Joseph Carbone
+   Email: 
+   Username: joseph.carbone
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Joseph Carbone Assistant Men's Soccer Coach
+
+52. Matt Stellitano
+   Email: 
+   Username: matt.stellitano
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Matt Stellitano Assistant Men's Soccer Coach
+
+53. Martin Wood
+   Email: 
+   Username: martin.wood
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Martin Wood Assistant Women's Soccer Coach
+
+54. Luis Paz
+   Email: 
+   Username: luis.paz
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Luis Paz Assistant Women's Soccer Coach
+
+55. Rylee Getter
+   Email: 
+   Username: rylee.getter
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Rylee Getter Assistant Women's Soccer Coach
+
+56. Joe Costantini
+   Email: 
+   Username: joe.costantini
+   Sports: Softball
+   Title: Joe Costantini Assistant Softball Coach
+   Original line: Joe Costantini Assistant Softball Coach
+
+57. TBA 
+   Email: 
+   Username: tba
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: - TBA - Head Women's Tennis Coach
+
+58. Jordan Aughenbaugh
+   Email: 
+   Username: jordan.aughenbaugh
+   Sports: Track & Field
+   Title: Jordan Aughenbaugh Assistant Track & Field Coach
+   Original line: Jordan Aughenbaugh Assistant Track & Field Coach (Multi/Javelin)
+
+59. Darren Wan
+   Email: 
+   Username: darren.wan
+   Sports: Track & Field
+   Title: Darren Wan Assistant Track & Field Coach
+   Original line: Darren Wan Assistant Track & Field Coach (Throws)
+
+60. Matt Lenahan
+   Email: 
+   Username: matt.lenahan
+   Sports: Track & Field
+   Title: Matt Lenahan Assistant Track & Field Coach
+   Original line: Matt Lenahan Assistant Track & Field Coach (Hurdles)
+
+61. Dan Ingrum
+   Email: 
+   Username: dan.ingrum
+   Sports: Track & Field
+   Title: Dan Ingrum Assistant Track & Field Coach
+   Original line: Dan Ingrum Assistant Track & Field Coach (Jumps)
+
+62. Greg Langan
+   Email: 
+   Username: greg.langan
+   Sports: Volleyball
+   Title: Greg Langan Assistant Volleyball Coach
+   Original line: Greg Langan Assistant Volleyball Coach
+
+63. Amanda Gautier
+   Email: 
+   Username: amanda.gautier
+   Sports: Volleyball
+   Title: Amanda Gautier Assistant Volleyball Coach
+   Original line: Amanda Gautier Assistant Volleyball Coach
+
+64. Luke Lallo
+   Email: 
+   Username: luke.lallo
+   Sports: Volleyball
+   Title: Luke Lallo Assistant Volleyball Coach
+   Original line: Luke Lallo Assistant Volleyball Coach
+
+65. Breanna Gibson
+   Email: 
+   Username: breanna.gibson
+   Sports: Volleyball
+   Title: Breanna Gibson Assistant Volleyball Coach
+   Original line: Breanna Gibson Assistant Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chris O'Brien Head Rowing Coach/Associate Director of Athletic Development obrien39@stockton.edu 609-626-
+• Phil Aumack Fitness Program Coodinator/Strength & Conditioning Coach aumackp@stockton.edu 609-652-
+• Rich Gawlak Head Baseball Coach gawlakr@stockton.edu 609-626-
+• Scott Bittner Head Men's Basketball Coach Bittners@stockton.edu 609-626-
+• Devin Jefferson Head Women's Basketball Coach jeffer15@stockton.edu 609-626-
+• Joanna Persiano Assistant Women's Basketball Coach persianj@stockton.edu
+• Jayson Resch Head Men's Track & Field and Cross Country Coach reschj@stockton.edu 609-626-
+• Claire Incantalupo Head Women's Track & Field and Cross Country Coach incantac@stockton.edu 609-626-
+• Sarah Elleman Head Field Hockey Coach ellemans@stockton.edu 609-626-
+• Bruce Chelucci Head Women's Golf Coach cheluccb@stockton.edu 609-703-
+• Rodger Gottlieb Assistant Women's Golf Coach gottlie2@stockton.edu
+• Kevin Zulauf Head Men's Lacrosse Coach zulaufk@stockton.edu 609-626-
+• Denise Roessler Head Women's Lacrosse Coach roessled@stockton.edu 609-652-
+• Chris O'Brien Head Rowing Coach/Associate Director of Athletic Development obrien39@stockton.edu 609-626-
+• John Rosado Women's Rowing Associate Head Coach/Recruiting Coordinator rosadoj2@stockton.edu
+• Mollie Knoff Assistant Women's Rowing Coach Mollie.Knoff@stockton.edu
+• Greg Ruttler Head Men's Soccer Coach ruttlerg@stockton.edu 609-626-
+• Evan Brosniak Assistant Men's and Women's Soccer Coach evan.brosniak@stockton.edu
+• Courtney Dougherty Interim Head Women's Soccer Coach dougherc@stockton.edu
+• Evan Brosniak Assistant Men's and Women's Soccer Coach evan.brosniak@stockton.edu
+• Mavreen Hering Head Softball Coach heringm1@stockton.edu 609-626-
+• Abby Mace Assistant Softball Coach macea@stockton.edu
+• Jayson Resch Head Men's Track & Field and Cross Country Coach reschj@stockton.edu 609-626-
+• Claire Incantalupo Head Women's Track & Field and Cross Country Coach incantac@stockton.edu 609-626-
+• Todd Curll Assistant Track & Field Coach (Pole Vault) curllt@stockton.edu 609-626-
+• Jared Lewis Assistant Track & Field Coach (Jumps) jared.lewis@stockton.edu
+• Allison Walker Head Volleyball Coach walkera@stockton.edu 609-626-

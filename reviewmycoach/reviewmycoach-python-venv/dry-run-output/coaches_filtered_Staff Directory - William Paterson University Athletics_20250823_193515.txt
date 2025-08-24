@@ -1,0 +1,368 @@
+COACH ENTRIES FOUND - 2025-08-23 19:35:15
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: William Paterson University
+Organization: William Paterson University Athletics
+
+Total coaches found: 47
+
+PARSED ENTRIES:
+----------------------------------------
+1. AJ Mott
+   Email: motta@wpunj.edu
+   Username: motta
+   Sports: Strength & Conditioning
+   Title: Head Strength and Conditioning Coach
+   Phone: (973) 720-3952
+   Original line: AJ Mott Head Strength and Conditioning Coach motta@wpunj.edu 973-720-3952
+
+2. Mike Lauterhahn
+   Email: lauterhahnm@wpunj.edu
+   Username: lauterhahnm
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: (973) 720-2210
+   Original line: Mike Lauterhahn Head Baseball Coach lauterhahnm@wpunj.edu 973-720-2210
+
+3. Mike Santana
+   Email: santanam2@wpunj.edu
+   Username: santanam2
+   Sports: Baseball
+   Title: Associate Head Baseball Coach
+   Original line: Mike Santana Associate Head Baseball Coach santanam2@wpunj.edu
+
+4. Brian Chapman
+   Email: chapmanb@wpunj.edu
+   Username: chapmanb
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Phone: (973) 720-3011
+   Original line: Brian Chapman Head Men's Basketball Coach chapmanb@wpunj.edu 973-720-3011
+
+5. Shaun Williams
+   Email: williamss67@wpunj.edu
+   Username: williamss67
+   Sports: Football
+   Title: Head Football Coach
+   Phone: (973) 720-3013
+   Original line: Shaun Williams Head Football Coach williamss67@wpunj.edu 973-720-3013
+
+6. Brian Capriola
+   Email: capriolab@wpunj.edu
+   Username: capriolab
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Brian Capriola Assistant Football Coach capriolab@wpunj.edu
+
+7. Bruce Chamberlain
+   Email: chamberlainb1@wpunj.edu
+   Username: chamberlainb1
+   Sports: Football
+   Title: Head Men's Golf Coach
+   Original line: Bruce Chamberlain Head Men's Golf Coach chamberlainb1@wpunj.edu
+
+8. Matt Heitmann
+   Email: heitmannm@wpunj.edu
+   Username: heitmannm
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Phone: (973) 720-4026
+   Original line: Matt Heitmann Head Men's Soccer Coach heitmannm@wpunj.edu 973-720-4026
+
+9. Erin Monahan
+   Email: monahane@wpunj.edu
+   Username: monahane
+   Sports: Football
+   Title: Head Women's Basketball Coach
+   Phone: (973) 720-2647
+   Original line: Erin Monahan Head Women's Basketball Coach monahane@wpunj.edu 973-720-2647
+
+10. Melissa Zurawiecki
+   Email: zurawieckim@wpunj.edu
+   Username: zurawieckim
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Melissa Zurawiecki Head Field Hockey Coach zurawieckim@wpunj.edu
+
+11. Keith Woods
+   Email: woodsk@wpunj.edu
+   Username: woodsk
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Phone: (973) 720-3010
+   Original line: Keith Woods Head Women's Soccer Coach woodsk@wpunj.edu 973-720-3010
+
+12. Kathy Hill
+   Email: hillk10@wpunj.edu
+   Username: hillk10
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (973) 720-3016
+   Original line: Kathy Hill Head Softball Coach hillk10@wpunj.edu 973-720-3016
+
+13. Hisham Abaza
+   Email: abazah@wpunj.edu
+   Username: abazah
+   Sports: Softball
+   Title: Head Tennis Coach
+   Original line: Hisham Abaza Head Tennis Coach abazah@wpunj.edu
+
+14. Kevin Rodgers
+   Email: rodgersk6@wpunj.edu
+   Username: rodgersk6
+   Sports: Softball
+   Title: Head Volleyball Coach
+   Phone: (973) 720-3012
+   Original line: Kevin Rodgers Head Volleyball Coach rodgersk6@wpunj.edu 973-720-3012
+
+15. Joshua Rinck
+   Email: rinckj@wpunj.edu
+   Username: rinckj
+   Sports: Baseball
+   Title: Tom Gaccione Assistant Baseball Coach
+   Original line: Tom Gaccione Assistant Baseball Coach rinckj@wpunj.edu
+
+16. Chris McCollum
+   Email: mccollumr@wpunj.edu
+   Username: mccollumr
+   Sports: Baseball
+   Title: Jake Lutz Assistant Baseball Coach
+   Original line: Jake Lutz Assistant Baseball Coach mccollumr@wpunj.edu
+
+17. Dan Halewicz
+   Email: 
+   Username: dan.halewicz
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Dan Halewicz Assistant Men's Basketball Coach
+
+18. Chris Moran
+   Email: 
+   Username: chris.moran
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Chris Moran Assistant Men's Basketball Coach
+
+19. Kevin Volunteer
+   Email: 
+   Username: kevin.volunteer
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Kevin Flaherty Volunteer Assistant Men's Basketball Coach
+
+20. Keion Graduate
+   Email: 
+   Username: keion.graduate
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Keion Osbourne Graduate Assistant Men's Basketball Coach
+
+21. Steve Rybak
+   Email: 
+   Username: steve.rybak
+   Sports: Soccer
+   Title: Steve Rybak Assistant Football Coach
+   Original line: Steve Rybak Assistant Football Coach
+
+22. Matthew Bijas
+   Email: 
+   Username: matthew.bijas
+   Sports: Soccer
+   Title: Matthew Bijas Assistant Football Coach
+   Original line: Matthew Bijas Assistant Football Coach
+
+23. Keshaun Henry
+   Email: 
+   Username: keshaun.henry
+   Sports: Soccer
+   Title: Keshaun Henry Assistant Football Coach
+   Original line: Keshaun Henry Assistant Football Coach
+
+24. Dashawn Johnson
+   Email: 
+   Username: dashawn.johnson
+   Sports: Soccer
+   Title: Dashawn Johnson Assistant Football Coach
+   Original line: Dashawn Johnson Assistant Football Coach
+
+25. Lance Volunteer
+   Email: 
+   Username: lance.volunteer
+   Sports: Soccer
+   Title: Lance Marquez Volunteer Assistant Football Coach
+   Original line: Lance Marquez Volunteer Assistant Football Coach
+
+26. James Volunteer
+   Email: 
+   Username: james.volunteer
+   Sports: Soccer
+   Title: James Robertson Volunteer Assistant Football Coach
+   Original line: James Robertson Volunteer Assistant Football Coach
+
+27. Marcus Hackett
+   Email: 
+   Username: marcus.hackett
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Marcus Hackett Assistant Men's Soccer Coach
+
+28. Stephen Stewart
+   Email: 
+   Username: stephen.stewart
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Stephen Stewart Assistant Men's Soccer Coach
+
+29. Hamilton Pereira
+   Email: 
+   Username: hamilton.pereira
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Hamilton Pereira Assistant Men's Soccer Coach
+
+30. TBD 
+   Email: 
+   Username: tbd
+   Sports: Swimming
+   Title: TBD TBD Head Swimming & Diving Coach
+   Original line: TBD TBD Head Swimming & Diving Coach
+
+31. Angel Camacho
+   Email: 
+   Username: angel.camacho
+   Sports: Swimming
+   Title: Angel Camacho Assistant Swimming & Diving Coach
+   Original line: Angel Camacho Assistant Swimming & Diving Coach
+
+32. Kim Conk
+   Email: 
+   Username: kim.conk
+   Sports: Swimming
+   Title: Kim Conk Assistant Swimming & Diving Coach
+   Original line: Kim Conk Assistant Swimming & Diving Coach
+
+33. John Conlow
+   Email: 
+   Username: john.conlow
+   Sports: Swimming
+   Title: John Conlow Assistant Swimming & Diving Coach
+   Original line: John Conlow Assistant Swimming & Diving Coach
+
+34. Anthony Taboadela
+   Email: 
+   Username: anthony.taboadela
+   Sports: Swimming
+   Title: Anthony Taboadela Assistant Swimming & Diving Coach
+   Original line: Anthony Taboadela Assistant Swimming & Diving Coach
+
+35. Michael Gilmore
+   Email: 
+   Username: michael.gilmore
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Michael Gilmore Assistant Women's Basketball Coach
+
+36. Alie Wickersheim
+   Email: 
+   Username: alie.wickersheim
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Alie Wickersheim Assistant Women's Basketball Coach
+
+37. Haley Olsen
+   Email: 
+   Username: haley.olsen
+   Sports: Track & Field, Hockey
+   Title: Haley Olsen Assistant Field Hockey Coach
+   Original line: Haley Olsen Assistant Field Hockey Coach
+
+38. Hannah Osbahr
+   Email: 
+   Username: hannah.osbahr
+   Sports: Track & Field, Hockey
+   Title: Hannah Osbahr Assistant Field Hockey Coach
+   Original line: Hannah Osbahr Assistant Field Hockey Coach
+
+39. Lorraine Moffitt
+   Email: 
+   Username: lorraine.moffitt
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Lorraine Moffitt Assistant Women's Soccer Coach
+
+40. Kathleen Sinram
+   Email: 
+   Username: kathleen.sinram
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Kathleen Sinram Assistant Women's Soccer Coach
+
+41. Natasha Volunteer
+   Email: 
+   Username: natasha.volunteer
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Natasha Magee Volunteer Assistant Women's Soccer Coach
+
+42. John Brogan
+   Email: 
+   Username: john.brogan
+   Sports: Softball
+   Title: John Brogan Assistant Softball Coach
+   Original line: John Brogan Assistant Softball Coach
+
+43. Vanessa Lenoir
+   Email: 
+   Username: vanessa.lenoir
+   Sports: Softball
+   Title: Vanessa Lenoir Assistant Softball Coach
+   Original line: Vanessa Lenoir Assistant Softball Coach
+
+44. Diana Schraer
+   Email: 
+   Username: diana.schraer
+   Sports: Softball
+   Title: Diana Schraer Assistant Softball Coach
+   Original line: Diana Schraer Assistant Softball Coach
+
+45. Gianna Graduate
+   Email: 
+   Username: gianna.graduate
+   Sports: Softball
+   Title: Gianna Kubu Graduate Assistant Softball Coach
+   Original line: Gianna Kubu Graduate Assistant Softball Coach
+
+46. Tiffani Causing
+   Email: 
+   Username: tiffani.causing
+   Sports: Volleyball
+   Title: Tiffani Causing Assistant Volleyball Coach
+   Original line: Tiffani Causing Assistant Volleyball Coach
+
+47. Bill Le
+   Email: 
+   Username: bill.le
+   Sports: Volleyball
+   Title: Bill Le Assistant Volleyball Coach
+   Original line: Bill Le Assistant Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• AJ Mott Head Strength and Conditioning Coach motta@wpunj.edu 973-720-3952
+• Mike Lauterhahn Head Baseball Coach lauterhahnm@wpunj.edu 973-720-2210
+• Mike Santana Associate Head Baseball Coach santanam2@wpunj.edu
+• Brian Chapman Head Men's Basketball Coach chapmanb@wpunj.edu 973-720-3011
+• Shaun Williams Head Football Coach williamss67@wpunj.edu 973-720-3013
+• Brian Capriola Assistant Football Coach capriolab@wpunj.edu
+• Bruce Chamberlain Head Men's Golf Coach chamberlainb1@wpunj.edu
+• Matt Heitmann Head Men's Soccer Coach heitmannm@wpunj.edu 973-720-4026
+• Erin Monahan Head Women's Basketball Coach monahane@wpunj.edu 973-720-2647
+• Melissa Zurawiecki Head Field Hockey Coach zurawieckim@wpunj.edu
+• Keith Woods Head Women's Soccer Coach woodsk@wpunj.edu 973-720-3010
+• Kathy Hill Head Softball Coach hillk10@wpunj.edu 973-720-3016
+• Hisham Abaza Head Tennis Coach abazah@wpunj.edu
+• Kevin Rodgers Head Volleyball Coach rodgersk6@wpunj.edu 973-720-3012
