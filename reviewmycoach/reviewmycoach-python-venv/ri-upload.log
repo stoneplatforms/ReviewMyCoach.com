@@ -1,0 +1,573 @@
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+
+=== [1/6] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Brown University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Brown University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Brown University Athletics
+🔄 No single-line format found, trying multi-line format...
+✔ Found 0 coach entries using multi-line format
+✔ Results written to dry-run-output/coaches_filtered_Brown University Athletics_20250829_014907.txt
+Found 109 coach entries (filtered from PDF).
+✅ TXT validation passed
+✔ Created unclaimed coach profile: Adrianna Johnson () → coaches/adrianna.johnson
+✔ Created unclaimed coach profile: Mike Pimentel () → coaches/mike.pimentel
+✔ Created unclaimed coach profile: Dave Sports () → coaches/dave.sports
+✔ Created unclaimed coach profile: Anthony Sports () → coaches/anthony.sports
+✔ Created unclaimed coach profile: Sarah Sports () → coaches/sarah.sports
+✔ Created unclaimed coach profile: Jamie Sports () → coaches/jamie.sports
+✔ Created unclaimed coach profile: Connor Ryder () → coaches/connor.ryder
+✔ Created unclaimed coach profile: Austin Sports () → coaches/austin.sports
+✔ Created unclaimed coach profile: Frank Holbrook () → coaches/frank.holbrook
+✔ Created unclaimed coach profile: Eric Podbelski () → coaches/eric.podbelski
+✔ Created unclaimed coach profile: Andrew Pitching () → coaches/andrew.pitching
+✔ Created unclaimed coach profile: Mike Martin () → coaches/mike.martin
+✔ Created unclaimed coach profile: Tyson Wheeler () → coaches/tyson.wheeler
+✔ Created unclaimed coach profile: Sam Hershberger () → coaches/sam.hershberger
+✔ Created unclaimed coach profile: DeVon Price () → coaches/devon.price
+✔ Created unclaimed coach profile: Monique Turner () → coaches/monique.turner
+✔ Created unclaimed coach profile: Tyler Patch () → coaches/tyler.patch
+✔ Created unclaimed coach profile: Jason Pellum () → coaches/jason.pellum
+✔ Created unclaimed coach profile: Devon Quattrocchi () → coaches/devon.quattrocchi
+✔ Created unclaimed coach profile: Paul Cooke () → coaches/paul.cooke
+✔ Created unclaimed coach profile: Rufus Crew () → coaches/rufus.crew
+✔ Created unclaimed coach profile: Scott Cockle () → coaches/scott.cockle
+✔ Created unclaimed coach profile: Grace Family () → coaches/grace.family
+✔ Created unclaimed coach profile: Hank Gratitude () → coaches/hank.gratitude
+✔ Created unclaimed coach profile: Collin Zeffer () → coaches/collin.zeffer
+✔ Created unclaimed coach profile: John Kenworthy () → coaches/john.kenworthy
+✔ Created unclaimed coach profile: Michaela Scanlon () → coaches/michaela.scanlon
+✔ Created unclaimed coach profile: Charlene Liu () → coaches/charlene.liu
+✔ Created unclaimed coach profile: Jack Spigel () → coaches/jack.spigel
+✔ Created unclaimed coach profile: Britt Broady () → coaches/britt.broady
+✔ Created unclaimed coach profile: Ben Howarth () → coaches/ben.howarth
+✔ Created unclaimed coach profile: Frankie O'Brien () → coaches/frankie.o.brien
+✔ Created unclaimed coach profile: James Perry () → coaches/james.perry
+✔ Created unclaimed coach profile: Willie Edwards () → coaches/willie.edwards
+✔ Created unclaimed coach profile: Eddy Morrissey () → coaches/eddy.morrissey
+✔ Created unclaimed coach profile: Patrick Murphy () → coaches/patrick.murphy
+✔ Created unclaimed coach profile: Mitchell Jonke () → coaches/mitchell.jonke
+✔ Created unclaimed coach profile: Andrew Breiner () → coaches/andrew.breiner
+✔ Created unclaimed coach profile: Bryan Murray () → coaches/bryan.murray
+✔ Created unclaimed coach profile: Darryl Jackson () → coaches/darryl.jackson
+✔ Created unclaimed coach profile: Phil DeCapito () → coaches/phil.decapito
+✔ Created unclaimed coach profile: Brittany Harris () → coaches/brittany.harris
+✔ Created unclaimed coach profile: Sophia Hyderally () → coaches/sophia.hyderally
+✔ Created unclaimed coach profile: Dante Cecil () → coaches/dante.cecil
+✔ Created unclaimed coach profile: Brendan Ice () → coaches/brendan.ice
+✔ Created unclaimed coach profile: Jason Smith () → coaches/jason.smith
+✔ Created unclaimed coach profile: Matt Plante () → coaches/matt.plante
+✔ Created unclaimed coach profile: Melanie Ruzzi () → coaches/melanie.ruzzi
+✔ Created unclaimed coach profile: Beth Hanrahan () → coaches/beth.hanrahan
+✔ Created unclaimed coach profile: Joakim Flygh () → coaches/joakim.flygh
+✔ Created unclaimed coach profile: Jon Rothman () → coaches/jon.rothman
+✔ Created unclaimed coach profile: James Chakey () → coaches/james.chakey
+✔ Created unclaimed coach profile: Logan Class () → coaches/logan.class
+✔ Created unclaimed coach profile: John Cook () → coaches/john.cook
+✔ Created unclaimed coach profile: Katrina Dowd () → coaches/katrina.dowd
+✔ Created unclaimed coach profile: Taylor Scotton () → coaches/taylor.scotton
+✔ Created unclaimed coach profile: Jake Versprille () → coaches/jake.versprille
+✔ Created unclaimed coach profile: Jason Frezza () → coaches/jason.frezza
+✔ Created unclaimed coach profile: Rosalind Rugby () → coaches/rosalind.rugby
+✔ Created unclaimed coach profile: Bridget Kahele () → coaches/bridget.kahele
+✔ Created unclaimed coach profile: Karameli Fa'aee () → coaches/karameli.fa.aee
+✔ Created unclaimed coach profile: Daniel Rabin () → coaches/daniel.rabin
+✔ Created unclaimed coach profile: Emma Montgomery () → coaches/emma.montgomery
+✔ Created unclaimed coach profile: Izzy Cox () → coaches/izzy.cox
+✔ Created unclaimed coach profile: Gloria Kevliciute () → coaches/gloria.kevliciute
+✔ Created unclaimed coach profile: Pearson Potts () → coaches/pearson.potts
+✔ Created unclaimed coach profile: Cameron Family () → coaches/cameron.family
+✔ Created unclaimed coach profile: Grant Adam () → coaches/grant.adam
+✔ Created unclaimed coach profile: Chase Brown () → coaches/chase.brown
+✔ Created unclaimed coach profile: Mark Family () → coaches/mark.family
+✔ Created unclaimed coach profile: Steven Tekesky () → coaches/steven.tekesky
+✔ Created unclaimed coach profile: Kia Family () → coaches/kia.family
+✔ Created unclaimed coach profile: Matt Mones () → coaches/matt.mones
+✔ Created unclaimed coach profile: Andre Reis () → coaches/andre.reis
+✔ Created unclaimed coach profile: Hogan Vivier () → coaches/hogan.vivier
+✔ Created unclaimed coach profile: Mary Holt-Kelsch () → coaches/mary.holt.kelsch
+✔ Created unclaimed coach profile: Richard Fonseca () → coaches/richard.fonseca
+✔ Created unclaimed coach profile: Wally King () → coaches/wally.king
+✔ Created unclaimed coach profile: Kevin Patrell () → coaches/kevin.patrell
+✔ Created unclaimed coach profile: Matt Tynan () → coaches/matt.tynan
+✔ Created unclaimed coach profile: Colin Zeng () → coaches/colin.zeng
+✔ Created unclaimed coach profile: Kate Lippitt () → coaches/kate.lippitt
+✔ Created unclaimed coach profile: Niko Fantakis () → coaches/niko.fantakis
+✔ Created unclaimed coach profile: Mike Fried () → coaches/mike.fried
+✔ Created unclaimed coach profile: Lucie Family () → coaches/lucie.family
+✔ Created unclaimed coach profile: Cristelle Fox () → coaches/cristelle.fox
+✔ Created unclaimed coach profile: Jurence Mendoza () → coaches/jurence.mendoza
+✔ Created unclaimed coach profile: Darcy Wilson () → coaches/darcy.wilson
+✔ Created unclaimed coach profile: DJ Petty () → coaches/dj.petty
+✔ Created unclaimed coach profile: Taylor Virtue () → coaches/taylor.virtue
+✔ Created unclaimed coach profile: Rob Chilcoat () → coaches/rob.chilcoat
+✔ Created unclaimed coach profile: Nicole Peterson () → coaches/nicole.peterson
+✔ Created unclaimed coach profile: Kayla Lund () → coaches/kayla.lund
+✔ Created unclaimed coach profile: Taylor Volunteer () → coaches/taylor.volunteer
+✔ Created unclaimed coach profile: Felix Mercado () → coaches/felix.mercadoCould get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+
+✔ Created unclaimed coach profile: Petar Momcilovic () → coaches/petar.momcilovic
+✔ Created unclaimed coach profile: Jake Ehrhardt () → coaches/jake.ehrhardt
+✔ Created unclaimed coach profile: Jackie Puccino () → coaches/jackie.puccino
+✔ Created unclaimed coach profile: Jessica McDonagh () → coaches/jessica.mcdonagh
+✔ Created unclaimed coach profile: Jordan Wilenzik () → coaches/jordan.wilenzik
+✔ Created unclaimed coach profile: Ty Hill () → coaches/ty.hill
+✔ Created unclaimed coach profile: Jesse Delgado () → coaches/jesse.delgado
+✔ Created unclaimed coach profile: Tyler Grayson () → coaches/tyler.grayson
+✔ Created unclaimed coach profile: Arthur Gaskin () → coaches/arthur.gaskin
+✔ Created unclaimed coach profile: David Fluck () → coaches/david.fluck
+✔ Created unclaimed coach profile: Ryan Grant () → coaches/ryan.grant
+✔ Created unclaimed coach profile: Jason Family () → coaches/jason.family
+✔ Created unclaimed coach profile: Evan Moorhouse () → coaches/evan.moorhouse
+✔ Created unclaimed coach profile: Samantha () → coaches/samantha
+
+📊 Upload Summary:
+✔ 109 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address
+
+=== [2/6] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Providence College Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Providence College Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Providence College Athletics
+🏃‍♂️ Found sport section: FIELD HOCKEY
+🏃‍♂️ Found sport section: SOFTBALL
+🔄 No single-line format found, trying multi-line format...
+✔ Found 0 coach entries using multi-line format
+✔ Results written to dry-run-output/coaches_filtered_Providence College Athletics_20250829_014931.txt
+Found 58 coach entries (filtered from PDF).
+✅ TXT validation passed
+✔ Created unclaimed coach profile: Kim English () → coaches/kim.english
+✔ Created unclaimed coach profile: Dennis Felton () → coaches/dennis.felton
+✔ Created unclaimed coach profile: Bryan Tibaldi () → coaches/bryan.tibaldi
+✔ Created unclaimed coach profile: Matt Palumbo () → coaches/matt.palumbo
+✔ Created unclaimed coach profile: Corey Wright () → coaches/corey.wright
+✔ Created unclaimed coach profile: Ryan Gomes () → coaches/ryan.gomes
+✔ Created unclaimed coach profile: Shaun High () → coaches/shaun.high
+✔ Created unclaimed coach profile: Erin Batth () → coaches/erin.batth
+✔ Created unclaimed coach profile: Valerie Nainima () → coaches/valerie.nainima
+✔ Created unclaimed coach profile: Molly Reagan () → coaches/molly.reagan
+✔ Created unclaimed coach profile: Elissa Cunane () → coaches/elissa.cunane
+✔ Created unclaimed coach profile: Mark Ellis () → coaches/mark.ellis
+✔ Created unclaimed coach profile: Melissa Scungio () → coaches/melissa.scungio
+✔ Created unclaimed coach profile: Katie Printer () → coaches/katie.printer
+✔ Created unclaimed coach profile: Ray Treacy () → coaches/ray.treacy
+✔ Created unclaimed coach profile: Tim Brock () → coaches/tim.brock
+✔ Created unclaimed coach profile: Catarina Braz-Rocha () → coaches/catarina.braz.rocha
+✔ Created unclaimed coach profile: Sinead Delahunty () → coaches/sinead.delahunty
+✔ Created unclaimed coach profile: Diane Madl () → coaches/diane.madl
+✔ Created unclaimed coach profile: Kourtney Kennedy () → coaches/kourtney.kennedy
+✔ Created unclaimed coach profile: Kellie Stigas () → coaches/kellie.stigas
+✔ Created unclaimed coach profile: Louis Parente () → coaches/louis.parente
+✔ Created unclaimed coach profile: Douglas Smith () → coaches/douglas.smith
+✔ Created unclaimed coach profile: Nate Leaman () → coaches/nate.leaman
+✔ Created unclaimed coach profile: Ron Rolston () → coaches/ron.rolston
+✔ Created unclaimed coach profile: Joel Beal () → coaches/joel.beal
+✔ Created unclaimed coach profile: Joe Palmer () → coaches/joe.palmer
+✔ Created unclaimed coach profile: Anderson Nance () → coaches/anderson.nance
+✔ Created unclaimed coach profile: Matt Kelly () → coaches/matt.kelly
+✔ Created unclaimed coach profile: Nicole Norton () → coaches/nicole.norton
+✔ Created unclaimed coach profile: Katie Burt () → coaches/katie.burt
+✔ Created unclaimed coach profile: Bobby Benson () → coaches/bobby.benson
+✔ Created unclaimed coach profile: Casey Brodersen () → coaches/casey.brodersen
+✔ Created unclaimed coach profile: Carroll Kennedy () → coaches/carroll.kennedy
+✔ Created unclaimed coach profile: Shawn Ewert () → coaches/shawn.ewert
+✔ Created unclaimed coach profile: Craig Stewart () → coaches/craig.stewart
+✔ Created unclaimed coach profile: John Andrade () → coaches/john.andrade
+✔ Created unclaimed coach profile: Dave DeMello () → coaches/dave.demello
+✔ Created unclaimed coach profile: Dominik Machado () → coaches/dominik.machado
+✔ Created unclaimed coach profile: Sam Lopes () → coaches/sam.lopes
+✔ Created unclaimed coach profile: Katie Day-Sukumaran () → coaches/katie.day.sukumaran
+✔ Created unclaimed coach profile: Patrick Barbosa () → coaches/patrick.barbosa
+✔ Created unclaimed coach profile: Grant Stidham () → coaches/grant.stidham
+✔ Created unclaimed coach profile: Kelsey Christensen () → coaches/kelsey.christensen
+✔ Created unclaimed coach profile: Taran Alvelo () → coaches/taran.alvelo
+✔ Created unclaimed coach profile: Aleima Lopez () → coaches/aleima.lopez
+✔ Created unclaimed coach profile: Aleimalee Lopez () → coaches/aleimalee.lopez
+✔ Created unclaimed coach profile: John O'Neill () → coaches/john.o.neill
+✔ Created unclaimed coach profile: Kevin Salisbury () → coaches/kevin.salisbury
+✔ Created unclaimed coach profile: Allison Proulx () → coaches/allison.proulx
+✔ Created unclaimed coach profile: Orsi Golovics () → coaches/orsi.golovics
+✔ Created unclaimed coach profile: Margot Royer () → coaches/margot.royer
+✔ Created unclaimed coach profile: Richard Gomes () → coaches/richard.gomes
+✔ Created unclaimed coach profile: Rick Blackadar () → coaches/rick.blackadar
+✔ Created unclaimed coach profile: Natalie LaSalle () → coaches/natalie.lasalle
+🔄 Updating unclaimed profile for 
+✔ Updated unclaimed coach profile: Shaun High () → coaches/shaun.high
+✔ Created unclaimed coach profile: Aimee Pardington () → coaches/aimee.pardington
+✔ Created unclaimed coach profile: Shaun Career () → coaches/shaun.career
+
+📊 Upload Summary:
+✔ 58 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address
+
+=== [3/6] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - Rhode Island College.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - Rhode Island College.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Rhode Island College Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: SOFTBALL
+✔ Found 44 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Rhode Island College_20250829_014940.txt
+Found 44 coach entries (filtered from PDF).
+✅ TXT validation passed
+✔ Created unclaimed coach profile: Anthony Muccioli (amuccioli@ric.edu) → coaches/amuccioli
+✔ Created unclaimed coach profile: Cody Kauffman (ckauffman@ric.edu) → coaches/ckauffman
+✔ Created unclaimed coach profile: Brenden Aldridge (baldridge@ric.edu) → coaches/baldridge
+✔ Created unclaimed coach profile: Harrison Mansfield (hmansfield@ric.edu) → coaches/hmansfield
+✔ Created unclaimed coach profile: David Iannuccilli (diannuccilli@ric.edu) → coaches/diannuccilli
+✔ Created unclaimed coach profile: Sam Ferry (sferry@ric.edu) → coaches/sferry
+✔ Created unclaimed coach profile: Denzel Washington (dwashington@ric.edu) → coaches/dwashington
+✔ Created unclaimed coach profile: Elliott Butcher (ebutcher@ric.edu) → coaches/ebutcher
+✔ Created unclaimed coach profile: Fernando Torres (ftorres@ric.edu) → coaches/ftorres
+✔ Created unclaimed coach profile: Jenna Cosgrove (jcosgrove@ric.edu) → coaches/jcosgrove
+✔ Created unclaimed coach profile: Derek Shanks (dshanks@ric.edu) → coaches/dshanks
+✔ Created unclaimed coach profile: Meghan Reall (mreall@ric.edu) → coaches/mreall
+✔ Created unclaimed coach profile: Jontai Williams (jwilliams1@ric.edu) → coaches/jwilliams1
+✔ Created unclaimed coach profile: Autumn Wosencroft (awosencroft@ric.edu) → coaches/awosencroft
+🔄 Updating unclaimed profile for awosencroft@ric.edu
+✔ Updated unclaimed coach profile: Autumn Wosencroft (awosencroft@ric.edu) → coaches/awosencroft
+✔ Created unclaimed coach profile: Bill Volpe (wvolpe@ric.edu) → coaches/wvolpe
+🔄 Updating unclaimed profile for wvolpe@ric.edu
+✔ Updated unclaimed coach profile: Bill Volpe (wvolpe@ric.edu) → coaches/wvolpe
+✔ Created unclaimed coach profile: Monica Nassi (mnassi@ric.edu) → coaches/mnassi
+✔ Created unclaimed coach profile: Alison Silva (asilva2@ric.edu) → coaches/asilva2
+✔ Created unclaimed coach profile: Kelsey Gates (kgates@ric.edu) → coaches/kgates
+✔ Created unclaimed coach profile: Jessalyn O'Neill (joneill@ric.edu) → coaches/joneill
+✔ Created unclaimed coach profile: Emily Marino (emarino@ric.edu) → coaches/emarino
+✔ Created unclaimed coach profile: Kyle Froberg (kfroberg@ric.edu) → coaches/kfroberg
+✔ Created unclaimed coach profile: Brian Bradley (bbradley@ric.edu) → coaches/bbradley
+✔ Created unclaimed coach profile: Phil Pincince (ppincince@ric.edu) → coaches/ppincince
+✔ Created unclaimed coach profile: Luis Faria (lfaria@ric.edu) → coaches/lfaria
+✔ Created unclaimed coach profile: Lauren Hatfield (lhatfield@ric.edu) → coaches/lhatfield
+✔ Created unclaimed coach profile: Cam Sylvia (csylvia@ric.edu) → coaches/csylvia
+✔ Created unclaimed coach profile: Jaelin Jang (jjang@ric.edu) → coaches/jjang
+✔ Created unclaimed coach profile: Adam Spring (aspring@ric.edu) → coaches/aspring
+✔ Created unclaimed coach profile: Julie Lonks (jreddy@ric.edu) → coaches/jreddy
+🔄 Updating unclaimed profile for aspring@ric.edu
+✔ Updated unclaimed coach profile: Adam Spring (aspring@ric.edu) → coaches/aspring
+🔄 Updating unclaimed profile for jreddy@ric.edu
+✔ Updated unclaimed coach profile: Julie Lonks (jreddy@ric.edu) → coaches/jreddy
+🔄 Updating unclaimed profile for awosencroft@ric.edu
+✔ Updated unclaimed coach profile: Autumn Wosencroft (awosencroft@ric.edu) → coaches/awosencroft
+✔ Created unclaimed coach profile: Matthew Russom (mrussom_7099@email.ric.edu) → coaches/mrussom_7099
+✔ Created unclaimed coach profile: Destinee Barrette (dbarrette@ric.edu) → coaches/dbarrette
+🔄 Updating unclaimed profile for awosencroft@ric.edu
+✔ Updated unclaimed coach profile: Autumn Wosencroft (awosencroft@ric.edu) → coaches/awosencroft
+🔄 Updating unclaimed profile for mrussom_7099@email.ric.edu
+✔ Updated unclaimed coach profile: Matthew Russom (mrussom_7099@email.ric.edu) → coaches/mrussom_7099
+🔄 Updating unclaimed profile for dbarrette@ric.edu
+✔ Updated unclaimed coach profile: Destinee Barrette (dbarrette@ric.edu) → coaches/dbarrette
+✔ Created unclaimed coach profile: Jenn Cabral (jcabral1@ric.edu) → coaches/jcabral1
+✔ Created unclaimed coach profile: Amelia Murphy (amurphy1@ric.edu) → coaches/amurphy1
+✔ Created unclaimed coach profile: Jay Jones (jjones@ric.edu) → coaches/jjones
+✔ Created unclaimed coach profile: Jonathan Murray (jmurray1@ric.edu) → coaches/jmurray1
+✔ Created unclaimed coach profile: Colin Smith (csmith_7950@ric.edu) → coaches/csmith_7950
+
+📊 Upload Summary:
+✔ 44 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address
+
+=== [4/6] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - Roger Williams University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - Roger Williams University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Roger Williams University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: BASKETBALL (MEN)
+🏃‍♂️ Found sport section: BASKETBALL (WOMEN)
+🏃‍♂️ Found sport section: CROSS COUNTRY (MEN)
+🏃‍♂️ Found sport section: CROSS COUNTRY (WOMEN)
+🏃‍♂️ Found sport section: FIELD HOCKEY
+🏃‍♂️ Found sport section: LACROSSE (MEN)
+🏃‍♂️ Found sport section: LACROSSE (WOMEN)
+🏃‍♂️ Found sport section: SOCCER (MEN)
+🏃‍♂️ Found sport section: SOCCER (WOMEN)
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: SWIMMING
+🏃‍♂️ Found sport section: TRACK & FIELD (MEN)
+🏃‍♂️ Found sport section: TRACK & FIELD (WOMEN)
+🏃‍♂️ Found sport section: VOLLEYBALL (CLUB MEN)
+🏃‍♂️ Found sport section: VOLLEYBALL (WOMEN)
+✔ Found 60 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Roger Williams University Athletics_20250829_014946.txt
+Found 75 coach entries (filtered from PDF).
+✅ TXT validation passed
+✔ Created unclaimed coach profile: Kelly Thompson (kmthompson@rwu.edu) → coaches/kmthompson | Phone: 401.254.3748
+✔ Created unclaimed coach profile: Amanda Callahan (acallahan@rwu.edu) → coaches/acallahan | Phone: 401.254.5325
+✔ Created unclaimed coach profile: Matt Emmert (memmert@rwu.edu) → coaches/memmert | Phone: 401.254.3421
+✔ Created unclaimed coach profile: Joyce Maudie (jmaudie@rwu.edu) → coaches/jmaudie | Phone: 401.254.3129
+✔ Created unclaimed coach profile: Mike Tully (mtully@rwu.edu) → coaches/mtully | Phone: 401.254.3298
+✔ Created unclaimed coach profile: Kevin Kelley (kkelley@rwu.edu) → coaches/kkelley | Phone: 401.254.3163
+✔ Created unclaimed coach profile: Will Dawson (wdawson@rwu.edu) → coaches/wdawson
+🔄 Updating unclaimed profile for mtully@rwu.edu
+✔ Updated unclaimed coach profile: Mike Tully (mtully@rwu.edu) → coaches/mtully | Phone: 401.254.3298
+✔ Created unclaimed coach profile: Mark Ward (mward@rwu.edu) → coaches/mward
+✔ Created unclaimed coach profile: Kyle Valenzuela (kvalenzuela@rwu.edu) → coaches/kvalenzuela
+🔄 Updating unclaimed profile for kmthompson@rwu.edu
+✔ Updated unclaimed coach profile: Kelly Thompson (kmthompson@rwu.edu) → coaches/kmthompson | Phone: 401.254.3748
+✔ Created unclaimed coach profile: Michelle Spreda (mspreda@rwu.edu) → coaches/mspreda | Phone: 401.598.5202
+✔ Created unclaimed coach profile: Sean Livingston (slivingston@rwu.edu) → coaches/slivingston | Phone: 401.254.3408
+✔ Created unclaimed coach profile: Maura "Mo" (mlogan@rwu.edu) → coaches/mlogan
+🔄 Updating unclaimed profile for slivingston@rwu.edu
+✔ Updated unclaimed coach profile: Sean Livingston (slivingston@rwu.edu) → coaches/slivingston | Phone: 401.254.3408
+🔄 Updating unclaimed profile for mlogan@rwu.edu
+✔ Updated unclaimed coach profile: Maura "Mo" (mlogan@rwu.edu) → coaches/mlogan
+✔ Created unclaimed coach profile: Gabriel Calvo (gcalvo@rwu.edu) → coaches/gcalvo
+✔ Created unclaimed coach profile: Sports (jreeve@rwu.edu) → coaches/jreeve | Phone: 401.254.3280
+✔ Created unclaimed coach profile: Tracey Hackley (thackley@rwu.edu) → coaches/thackley
+✔ Created unclaimed coach profile: Ed Kirby (ekirby@rwu.edu) → coaches/ekirby
+✔ Created unclaimed coach profile: James Ebzery (jebzery@rwu.edu) → coaches/jebzery
+✔ Created unclaimed coach profile: Robert Fudge (rfudge@rwu.edu) → coaches/rfudge
+✔ Created unclaimed coach profile: Event (cbhall@rwu.edu) → coaches/cbhall | Phone: 401.254.3069
+✔ Created unclaimed coach profile: Lora Ardoin (lardoin@rwu.edu) → coaches/lardoin
+✔ Created unclaimed coach profile: Ice (kcroke@rwu.edu) → coaches/kcroke
+✔ Created unclaimed coach profile: Ice (mforrest@rwu.edu) → coaches/mforrest
+✔ Created unclaimed coach profile: Ice (fazevedo@rwu.edu) → coaches/fazevedo
+✔ Created unclaimed coach profile: Ice (nmarra@rwu.edu) → coaches/nmarra
+✔ Created unclaimed coach profile: Ice (douellette@rwu.edu) → coaches/douellette
+✔ Created unclaimed coach profile: Kevin Gould (kgould@rwu.edu) → coaches/kgould | Phone: 401.254.3073
+✔ Created unclaimed coach profile: Luke Bernasconi (rwumenslacrosse@rwu.edu) → coaches/rwumenslacrosse
+🔄 Updating unclaimed profile for rwumenslacrosse@rwu.edu
+✔ Updated unclaimed coach profile: Elias Elcock (rwumenslacrosse@rwu.edu) → coaches/rwumenslacrosse
+✔ Created unclaimed coach profile: Amanda Magee (amagee@rwu.edu) → coaches/amagee | Phone: 401.254.3450
+✔ Created unclaimed coach profile: Katie Kline (kkline@rwu.edu) → coaches/kkline
+✔ Created unclaimed coach profile: Christian Palombo (cpalombo@rwu.edu) → coaches/cpalombo | Phone: 401.347.3974
+✔ Created unclaimed coach profile: Caitlin Mallahan (cmallahan@rwu.edu) → coaches/cmallahan | Phone: 603.832.3398
+🔄 Updating unclaimed profile for acallahan@rwu.edu
+✔ Updated unclaimed coach profile: Amanda Callahan (acallahan@rwu.edu) → coaches/acallahan | Phone: 401.254.5325
+✔ Created unclaimed coach profile: Riley Read (rread@rwu.edu) → coaches/rread
+✔ Created unclaimed coach profile: Sports Event (jgreenslit@rwu.edu) → coaches/jgreenslit | Phone: 401.254.3448
+✔ Created unclaimed coach profile: David Majetich (dmajetich@rwu.edu) → coaches/dmajetich
+✔ Created unclaimed coach profile: Equipment Room (klabella@rwu.edu) → coaches/klabella | Phone: 401.254.5543
+✔ Created unclaimed coach profile: Maisie Jelley (mjelley@rwu.edu) → coaches/mjelley
+🔄 Updating unclaimed profile for jmaudie@rwu.edu
+✔ Updated unclaimed coach profile: Joyce Maudie (jmaudie@rwu.edu) → coaches/jmaudie | Phone: 401.254.3129
+✔ Created unclaimed coach profile: Orlando Lugo (olugo@rwu.edu) → coaches/olugo
+✔ Created unclaimed coach profile: Jordyn Carpenter (jcarpenter@rwu.edu) → coaches/jcarpenter
+🔄 Updating unclaimed profile for memmert@rwu.edu
+✔ Updated unclaimed coach profile: Matt Emmert (memmert@rwu.edu) → coaches/memmert | Phone: 401.254.3421
+✔ Created unclaimed coach profile: Joanna Tchobanova (itchobanova@rwu.edu) → coaches/itchobanova
+✔ Created unclaimed coach profile: Barry Gorman (bgorman@rwu.edu) → coaches/bgorman | Phone: 401.254.5322
+🔄 Updating unclaimed profile for bgorman@rwu.edu
+✔ Updated unclaimed coach profile: Barry Gorman (bgorman@rwu.edu) → coaches/bgorman | Phone: 401.254.5322
+🔄 Updating unclaimed profile for mlogan@rwu.edu
+✔ Updated unclaimed coach profile: Maura "Mo" (mlogan@rwu.edu) → coaches/mlogan
+🔄 Updating unclaimed profile for slivingston@rwu.edu
+✔ Updated unclaimed coach profile: Sean Livingston (slivingston@rwu.edu) → coaches/slivingston | Phone: 401.254.3408
+🔄 Updating unclaimed profile for mlogan@rwu.edu
+✔ Updated unclaimed coach profile: Maura "Mo" (mlogan@rwu.edu) → coaches/mlogan
+🔄 Updating unclaimed profile for slivingston@rwu.edu
+✔ Updated unclaimed coach profile: Sean Livingston (slivingston@rwu.edu) → coaches/slivingston | Phone: 401.254.3408
+✔ Created unclaimed coach profile: Matthew Stein (mstein@rwu.edu) → coaches/mstein | Phone: 401.254.3489
+✔ Created unclaimed coach profile: John Chave (jchave@rwu.edu) → coaches/jchave
+✔ Created unclaimed coach profile: James Holm (jholm641@g.rwu.edu) → coaches/jholm641
+✔ Created unclaimed coach profile: Event (ddavis@rwu.edu) → coaches/ddavis | Phone: 401.254.5314
+✔ Created unclaimed coach profile: Jesus Garcia (jgarcia@rwu.edu) → coaches/jgarcia
+✔ Created unclaimed coach profile: Event (jegan@rwu.edu) → coaches/jegan | Phone: 401.286.2086
+✔ Created unclaimed coach profile: Tim Ferreira (tim.m.ferreira@gmail.com) → coaches/tim.m.ferreira | Phone: 203.770.8925
+✔ Created unclaimed coach profile: Julie Edson (jedson@rwu.edu) → coaches/jedson
+✔ Created unclaimed coach profile: Andy Goodridge () → coaches/andy.goodridge
+✔ Created unclaimed coach profile: Anna Walther () → coaches/anna.walther
+✔ Created unclaimed coach profile: Colin Merrick () → coaches/colin.merrick
+✔ Created unclaimed coach profile: Noelle Schneider () → coaches/noelle.schneider
+✔ Created unclaimed coach profile: Robert Cahoon () → coaches/robert.cahoon
+✔ Created unclaimed coach profile: Alessia Volunteer () → coaches/alessia.volunteer
+✔ Created unclaimed coach profile: David McArdle () → coaches/david.mcardle
+✔ Created unclaimed coach profile: Eben Volunteer () → coaches/eben.volunteer
+✔ Created unclaimed coach profile: Steven Nostro () → coaches/steven.nostro
+✔ Created unclaimed coach profile: Dr Academic () → coaches/dr.academic
+🔄 Updating unclaimed profile for 
+✔ Updated unclaimed coach profile: Tyler Grayson () → coaches/tyler.grayson
+✔ Created unclaimed coach profile: Tyler Williams () → coaches/tyler.williams
+
+📊 Upload Summary:
+✔ 73 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address
+
+=== [5/6] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - Salve Regina University.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - Salve Regina University.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Salve Regina University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FIELD HOCKEY
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+✔ Found 55 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Salve Regina University_20250829_014955.txt
+Found 66 coach entries (filtered from PDF).
+✅ TXT validation passed
+✔ Created unclaimed coach profile: Sean Foster (fosters@salve.edu) → coaches/fosters
+✔ Created unclaimed coach profile: Cori Hughes (corinne.hughes@salve.edu) → coaches/corinne.hughes
+✔ Created unclaimed coach profile: Eric Cirella (eric.cirella@salve.edu) → coaches/eric.cirella
+✔ Created unclaimed coach profile: Zach Clesas (zachary.clesas@salve.edu) → coaches/zachary.clesas
+✔ Created unclaimed coach profile: Harrison Barlow (harrison.barlow@salve.edu) → coaches/harrison.barlow
+✔ Created unclaimed coach profile: Peter Clays (peter.clays@salve.edu) → coaches/peter.clays
+✔ Created unclaimed coach profile: Dirk Baker (dirk.baker@salve.edu) → coaches/dirk.baker
+🔄 Updating unclaimed profile for fosters@salve.edu
+✔ Updated unclaimed coach profile: Sean Foster (fosters@salve.edu) → coaches/fosters
+✔ Created unclaimed coach profile: Will Smiley (william.smiley@salve.edu) → coaches/william.smiley
+🔄 Updating unclaimed profile for corinne.hughes@salve.edu
+✔ Updated unclaimed coach profile: Cori Hughes (corinne.hughes@salve.edu) → coaches/corinne.hughes
+✔ Created unclaimed coach profile: Olivia Pierce (olivia.pierce@salve.edu) → coaches/olivia.pierce
+✔ Created unclaimed coach profile: Megan Henaghan (megan.henaghan@salve.edu) → coaches/megan.henaghan
+✔ Created unclaimed coach profile: Kacie Gallo (kacie.gallo@salve.edu) → coaches/kacie.gallo
+✔ Created unclaimed coach profile: Matthew Hird (matthew.hird@salve.edu) → coaches/matthew.hird
+🔄 Updating unclaimed profile for kacie.gallo@salve.edu
+✔ Updated unclaimed coach profile: Kacie Gallo (kacie.gallo@salve.edu) → coaches/kacie.gallo
+🔄 Updating unclaimed profile for matthew.hird@salve.edu
+✔ Updated unclaimed coach profile: Matthew Hird (matthew.hird@salve.edu) → coaches/matthew.hird
+✔ Created unclaimed coach profile: Chelsea Francis (chelsea.francis@salve.edu) → coaches/chelsea.francis
+✔ Created unclaimed coach profile: Jennifer Foster (jennifer.foster@salve.edu) → coaches/jennifer.foster
+✔ Created unclaimed coach profile: Carly Shea (carly.shea@salve.edu) → coaches/carly.shea
+✔ Created unclaimed coach profile: Shannon Kennedy (shannon.kennedy@salve.edu) → coaches/shannon.kennedy
+✔ Created unclaimed coach profile: Kevin Gilmartin (kevin.gilmartin@salve.edu) → coaches/kevin.gilmartin
+✔ Created unclaimed coach profile: Greg DeLade (gregory.delade@salve.edu) → coaches/gregory.delade
+✔ Created unclaimed coach profile: Brad Kelly (bradley.kelly@salve.edu) → coaches/bradley.kelly
+✔ Created unclaimed coach profile: Elian Telford (elian.telford@salve.edu) → coaches/elian.telford
+✔ Created unclaimed coach profile: Ice (sean.sullivan2@salve.edu) → coaches/sean.sullivan2
+🔄 Updating unclaimed profile for sean.sullivan2@salve.edu
+✔ Updated unclaimed coach profile: Ice (sean.sullivan2@salve.edu) → coaches/sean.sullivan2
+✔ Created unclaimed coach profile: Erika Martin (erika.martin@salve.edu) → coaches/erika.martin
+✔ Created unclaimed coach profile: Patrick Cooney (patrick.cooney@salve.edu) → coaches/patrick.cooney
+✔ Created unclaimed coach profile: Dan Parks (daniel.parks@salve.edu) → coaches/daniel.parks
+✔ Created unclaimed coach profile: John Murray (john.murray@salve.edu) → coaches/john.murray
+✔ Created unclaimed coach profile: Meg Malloy (meghan.malloy@salve.edu) → coaches/meghan.malloy
+✔ Created unclaimed coach profile: Madi Drain (madison.drain@salve.edu) → coaches/madison.drain
+✔ Created unclaimed coach profile: Brittney Manning (brittney.manning@salve.edu) → coaches/brittney.manning
+✔ Created unclaimed coach profile: Bill Lawler (william.lawler@salve.edu) → coaches/william.lawler
+✔ Created unclaimed coach profile: Evan MacDonald (evan.macdonald@salve.edu) → coaches/evan.macdonald
+✔ Created unclaimed coach profile: Nate Reid (nathan.reid@salve.edu) → coaches/nathan.reid
+✔ Created unclaimed coach profile: Danny Bond (daniel.bond@salve.edu) → coaches/daniel.bond
+✔ Created unclaimed coach profile: Jordan Borges (jordan.borges@salve.edu) → coaches/jordan.borges
+✔ Created unclaimed coach profile: Benjamin Lewis (benjamin.lewis@salve.edu) → coaches/benjamin.lewis
+✔ Created unclaimed coach profile: Tanya Roberts (tanya.roberts@salve.edu) → coaches/tanya.roberts
+✔ Created unclaimed coach profile: Sue Silva (suzanne.silva@salve.edu) → coaches/suzanne.silva
+✔ Created unclaimed coach profile: Katie Nickles (katie.nickles@salve.edu) → coaches/katie.nickles
+✔ Created unclaimed coach profile: Shauna DeLade (shauna.delade@salve.edu) → coaches/shauna.delade
+✔ Created unclaimed coach profile: Kendra Walker (kendra.walker@salve.edu) → coaches/kendra.walker
+✔ Created unclaimed coach profile: * TBD (bill.villareal@salve.edu) → coaches/bill.villareal
+🔄 Updating unclaimed profile for bill.villareal@salve.edu
+✔ Updated unclaimed coach profile: * TBD (bill.villareal@salve.edu) → coaches/bill.villareal
+✔ Created unclaimed coach profile: Andrew Furst (andrew.furst@salve.edu) → coaches/andrew.furst
+✔ Created unclaimed coach profile: Erynn Field (erynn.field@salve.edu) → coaches/erynn.field
+🔄 Updating unclaimed profile for matthew.hird@salve.edu
+✔ Updated unclaimed coach profile: Matthew Hird (matthew.hird@salve.edu) → coaches/matthew.hird
+🔄 Updating unclaimed profile for kacie.gallo@salve.edu
+✔ Updated unclaimed coach profile: Kacie Gallo (kacie.gallo@salve.edu) → coaches/kacie.gallo
+✔ Created unclaimed coach profile: Sebastian Noordzy (sebastian.noordzy@salve.edu) → coaches/sebastian.noordzy
+✔ Created unclaimed coach profile: Nick Patti (npatti65@gmail.com) → coaches/npatti65
+✔ Created unclaimed coach profile: Jackie Martel (jacqueline.martel@salve.edu) → coaches/jacqueline.martel
+✔ Created unclaimed coach profile: Fiona Swim (fiona.joyce@salve.edu) → coaches/fiona.joyce
+✔ Created unclaimed coach profile: Sam Steen (samuel.steen@salve.edu) → coaches/samuel.steen
+✔ Created unclaimed coach profile: Stephen Mental () → coaches/stephen.mental
+✔ Created unclaimed coach profile: Leo Lake () → coaches/leo.lake
+✔ Created unclaimed coach profile: Colin Barnett () → coaches/colin.barnett
+✔ Created unclaimed coach profile: Jeff Farrar () → coaches/jeff.farrar
+✔ Created unclaimed coach profile: Liam Student () → coaches/liam.student
+✔ Created unclaimed coach profile: Zoe Ochoa () → coaches/zoe.ochoa
+✔ Created unclaimed coach profile: Jadon Desmarais () → coaches/jadon.desmarais
+✔ Created unclaimed coach profile: Morgan Paquin () → coaches/morgan.paquin
+✔ Created unclaimed coach profile: Casey Farrell () → coaches/casey.farrell
+✔ Created unclaimed coach profile: Alexa Volunteer () → coaches/alexa.volunteer
+✔ Created unclaimed coach profile: Viviann Goulet () → coaches/viviann.goulet
+
+📊 Upload Summary:
+✔ 66 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address
+
+=== [6/6] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - University of Rhode Island.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/ri/Staff Directory - University of Rhode Island.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: University of Rhode Island Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+✔ Found 49 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - University of Rhode Island_20250829_015004.txt
+Found 64 coach entries (filtered from PDF).
+✅ TXT validation passed
+✔ Created unclaimed coach profile: Scott Leech (scott_leech@uri.edu) → coaches/scott_leech | Phone: (401) 874-5938
+✔ Created unclaimed coach profile: Cassidy Hall (URIcheerleading@etal.uri.edu) → coaches/URIcheerleading
+🔄 Updating unclaimed profile for URIcheerleading@etal.uri.edu
+✔ Updated unclaimed coach profile: Stephanie Asst (URIcheerleading@etal.uri.edu) → coaches/URIcheerleading
+✔ Created unclaimed coach profile: Kayla Jensen (uriramettes@etal.uri.edu) → coaches/uriramettes
+🔄 Updating unclaimed profile for scott_leech@uri.edu
+✔ Updated unclaimed coach profile: Scott Leech (scott_leech@uri.edu) → coaches/scott_leech | Phone: (401) 874-5938
+✔ Created unclaimed coach profile: Noah Meyer (noah.meyer@uri.edu) → coaches/noah.meyer | Phone: (401) 874-5938
+✔ Created unclaimed coach profile: Raphael Cerrato (rcerrato@uri.edu) → coaches/rcerrato | Phone: (401) 874-4550
+✔ Created unclaimed coach profile: David Pitching (david_fischer@uri.edu) → coaches/david_fischer | Phone: (401) 874-4888
+✔ Created unclaimed coach profile: Blaine Lidsky (blaine.lidsky@uri.edu) → coaches/blaine.lidsky
+✔ Created unclaimed coach profile: Daniel Palka (daniel.palka@uri.edu) → coaches/daniel.palka
+✔ Created unclaimed coach profile: Austin Carroll (austincarroll@uri.edu) → coaches/austincarroll
+✔ Created unclaimed coach profile: Benny Sander (bennysander@uri.edu) → coaches/bennysander
+✔ Created unclaimed coach profile: Chandler Graves (chandler.graves@uri.edu) → coaches/chandler.graves
+✔ Created unclaimed coach profile: Tammi Reiss (treiss@uri.edu) → coaches/treiss | Phone: (401) 874-2235
+✔ Created unclaimed coach profile: Adeniyi Amadou (adeniyiamadou@uri.edu) → coaches/adeniyiamadou | Phone: (401) 874-5589
+✔ Created unclaimed coach profile: Ali Jaques (ali.jaques@uri.edu) → coaches/ali.jaques
+✔ Created unclaimed coach profile: Jen Fay (jennifer.fay@uri.edu) → coaches/jennifer.fay
+✔ Created unclaimed coach profile: Jim Fleming (jmfleming@uri.edu) → coaches/jmfleming | Phone: (401) 874-5211
+✔ Created unclaimed coach profile: Mike Flanagan (coachflanagan@uri.edu) → coaches/coachflanagan | Phone: (401) 874-2406
+✔ Created unclaimed coach profile: Chris Lorenti (clorenti@uri.edu) → coaches/clorenti | Phone: (401) 874-2406
+✔ Created unclaimed coach profile: Gregg Burke (gburke@uri.edu) → coaches/gburke | Phone: (401) 874-5278
+✔ Created unclaimed coach profile: Jenna Slowey (jenna.slowey@uri.edu) → coaches/jenna.slowey
+✔ Created unclaimed coach profile: Riley Smith (riley.smith@uri.edu) → coaches/riley.smith
+✔ Created unclaimed coach profile: Cara Moreau (cara.moreau@uri.edu) → coaches/cara.moreau
+✔ Created unclaimed coach profile: Shelagh Donohoe (sdonohoe@uri.edu) → coaches/sdonohoe | Phone: (401) 874-7895
+✔ Created unclaimed coach profile: Jessica Lizzi (jlizzi@uri.edu) → coaches/jlizzi | Phone: (401) 874-7894
+✔ Created unclaimed coach profile: Gareth Elliott (gelliott@uri.edu) → coaches/gelliott | Phone: (401) 874-2560
+✔ Created unclaimed coach profile: Tony Bassett (tony_bassett@uri.edu) → coaches/tony_bassett | Phone: (401) 874-2342
+✔ Created unclaimed coach profile: Giovani Riello (giovani.riello@uri.edu) → coaches/giovani.riello | Phone: (401) 874-2342
+✔ Created unclaimed coach profile: Frank Bergren (frank_bergren@uri.edu) → coaches/frank_bergren | Phone: (401) 874-2342
+✔ Created unclaimed coach profile: Megan Jessee (megan_jessee@uri.edu) → coaches/megan_jessee
+✔ Created unclaimed coach profile: Megan Mackey (Megan.Mackey@uri.edu) → coaches/Megan.Mackey
+✔ Created unclaimed coach profile: Conner Golley (conner.golley@uri.edu) → coaches/conner.golley
+✔ Created unclaimed coach profile: Mike Coutts (michael.coutts@uri.edu) → coaches/michael.coutts
+✔ Created unclaimed coach profile: Caitlyn Fallon (Caitlyn.fallon@uri.edu) → coaches/Caitlyn.fallon
+✔ Created unclaimed coach profile: Emily Piergustavo (Emily.Piergustavo@uri.edu) → coaches/Emily.Piergustavo
+✔ Created unclaimed coach profile: Data Analytics (jackson_coutts@uri.edu) → coaches/jackson_coutts
+✔ Created unclaimed coach profile: Lilli Deering (lfalconer@uri.edu) → coaches/lfalconer
+✔ Created unclaimed coach profile: Logan Hellwig (logan_hellwig@uri.edu) → coaches/logan_hellwig
+✔ Created unclaimed coach profile: Christo Law (claw5136@uri.edu) → coaches/claw5136
+✔ Created unclaimed coach profile: Jonas Brobeck (jonas.brobeck@uri.edu) → coaches/jonas.brobeck
+✔ Created unclaimed coach profile: Trent Baltzell (trent_baltzell@uri.edu) → coaches/trent_baltzell | Phone: (508) 244-8537
+✔ Created unclaimed coach profile: Ben Carroll (benjamin.carroll@uri.edu) → coaches/benjamin.carroll | Phone: (401) 874-5377
+✔ Created unclaimed coach profile: Brian Doyle (briandoyle@uri.edu) → coaches/briandoyle | Phone: (401) 874-2163
+✔ Created unclaimed coach profile: Laurie Feit-Melnick (lauriefm@uri.edu) → coaches/lauriefm | Phone: (401) 874-5234
+✔ Created unclaimed coach profile: John Melnick (jm@uri.edu) → coaches/jm | Phone: (401) 874-2322
+✔ Created unclaimed coach profile: Crystal Bourque (crystal_bourque@uri.edu) → coaches/crystal_bourque | Phone: (401) 874-2322
+✔ Created unclaimed coach profile: Ryan Sullivan (ryan.sullivan@uri.edu) → coaches/ryan.sullivan
+✔ Created unclaimed coach profile: Marissa Soistman (marissa.soistman@uri.edu) → coaches/marissa.soistman
+✔ Created unclaimed coach profile: Brian Cardany (bcardany@uri.edu) → coaches/bcardany
+✔ Created unclaimed coach profile: Abby Langevin (alangevin@uri.edu) → coaches/alangevin
+✔ Created unclaimed coach profile: Mike Monteiro (mmonteiro0805@uri.edu) → coaches/mmonteiro0805
+✔ Created unclaimed coach profile: Jack Executive (omarra6410@uri.edu) → coaches/omarra6410
+✔ Created unclaimed coach profile: James Whitford () → coaches/james.whitford
+✔ Created unclaimed coach profile: Duane Woodward () → coaches/duane.woodward
+✔ Created unclaimed coach profile: Justin Linebackers (justin_woodward@uri.edu) → coaches/justin_woodward
+✔ Created unclaimed coach profile: Henry Backs (hyianakopolos@uri.edu) → coaches/hyianakopolos
+✔ Created unclaimed coach profile: Katie Shattuck () → coaches/katie.shattuck
+✔ Created unclaimed coach profile: Ellen White () → coaches/ellen.white
+✔ Created unclaimed coach profile: Mollie Volunteer () → coaches/mollie.volunteer
+✔ Created unclaimed coach profile: Eliza Volunteer () → coaches/eliza.volunteer
+✔ Created unclaimed coach profile: Dan Cardiff () → coaches/dan.cardiff
+✔ Created unclaimed coach profile: Trinity Student () → coaches/trinity.student
+✔ Created unclaimed coach profile: Casey Sturts () → coaches/casey.sturts
+
+📊 Upload Summary:
+✔ 64 coach profiles created/updated
+⏭️  0 profiles skipped (already claimed)
+📧 Coaches can now claim their profiles during onboarding using their email address
+
+=== DONE ===
+PDFs processed: 6
+Coach entries found: 416
+Coach entries uploaded: ~414 (subject to de-duplication rules in Firestore).

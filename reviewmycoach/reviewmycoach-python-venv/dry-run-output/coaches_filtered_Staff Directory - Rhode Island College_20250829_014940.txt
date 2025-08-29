@@ -1,0 +1,368 @@
+COACH ENTRIES FOUND - 2025-08-29 01:49:41
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Rhode Island College
+Organization: Rhode Island College Athletics
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Anthony Muccioli
+   Email: amuccioli@ric.edu
+   Username: amuccioli
+   Sports: Strength & Conditioning
+   Title: Coordinator of Recreation and Fitness Programs/Strength Coach
+   Original line: Anthony Muccioli Coordinator of Recreation and Fitness Programs/Strength Coach 401-456- amuccioli@ric.edu
+
+2. Cody Kauffman
+   Email: ckauffman@ric.edu
+   Username: ckauffman
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Cody Kauffman Head Baseball Coach 401-456- ckauffman@ric.edu
+
+3. Brenden Aldridge
+   Email: baldridge@ric.edu
+   Username: baldridge
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Brenden Aldridge Assistant Baseball Coach 401-456- baldridge@ric.edu
+
+4. Harrison Mansfield
+   Email: hmansfield@ric.edu
+   Username: hmansfield
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Harrison Mansfield Assistant Baseball Coach 401-456- hmansfield@ric.edu
+
+5. David Iannuccilli
+   Email: diannuccilli@ric.edu
+   Username: diannuccilli
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: David Iannuccilli Assistant Baseball Coach 401-456- diannuccilli@ric.edu
+
+6. Sam Ferry
+   Email: sferry@ric.edu
+   Username: sferry
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Sam Ferry Head Men's Basketball Coach 401-456- sferry@ric.edu
+
+7. Denzel Washington
+   Email: dwashington@ric.edu
+   Username: dwashington
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Denzel Washington Assistant Men's Basketball Coach 401-456- dwashington@ric.edu
+
+8. Elliott Butcher
+   Email: ebutcher@ric.edu
+   Username: ebutcher
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Elliott Butcher Assistant Men's Basketball Coach 401-456- ebutcher@ric.edu
+
+9. Fernando Torres
+   Email: ftorres@ric.edu
+   Username: ftorres
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Fernando Torres Assistant Men's Basketball Coach 401-456- ftorres@ric.edu
+
+10. Jenna Cosgrove
+   Email: jcosgrove@ric.edu
+   Username: jcosgrove
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Jenna Cosgrove Head Women's Basketball Coach 401-456- jcosgrove@ric.edu
+
+11. Derek Shanks
+   Email: dshanks@ric.edu
+   Username: dshanks
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Derek Shanks Assistant Women's Basketball Coach 401-456- dshanks@ric.edu
+
+12. Meghan Reall
+   Email: mreall@ric.edu
+   Username: mreall
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Meghan Reall Assistant Women's Basketball Coach 401-456- mreall@ric.edu
+
+13. Jontai Williams
+   Email: jwilliams1@ric.edu
+   Username: jwilliams1
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Jontai Williams Assistant Women's Basketball Coach 401-456- jwilliams1@ric.edu
+
+14. Autumn Wosencroft
+   Email: awosencroft@ric.edu
+   Username: awosencroft
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+
+15. Autumn Wosencroft
+   Email: awosencroft@ric.edu
+   Username: awosencroft
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+
+16. Bill Volpe
+   Email: wvolpe@ric.edu
+   Username: wvolpe
+   Sports: Baseball
+   Title: s Golf Coach
+   Original line: Bill Volpe Head Men's and Women's Golf Coach 401-323- wvolpe@ric.edu
+
+17. Bill Volpe
+   Email: wvolpe@ric.edu
+   Username: wvolpe
+   Sports: Baseball
+   Title: s Golf Coach
+   Original line: Bill Volpe Head Men's and Women's Golf Coach 401-323- wvolpe@ric.edu
+
+18. Monica Nassi
+   Email: mnassi@ric.edu
+   Username: mnassi
+   Sports: Baseball
+   Title: s Gymnastics Coach
+   Original line: Monica Mesalles Nassi Head Women's Gymnastics Coach 401-456- mnassi@ric.edu
+
+19. Alison Silva
+   Email: asilva2@ric.edu
+   Username: asilva2
+   Sports: Baseball
+   Title: s Gymnastics Coach
+   Original line: Alison Silva Assistant Women's Gymnastics Coach 401-456- asilva2@ric.edu
+
+20. Kelsey Gates
+   Email: kgates@ric.edu
+   Username: kgates
+   Sports: Baseball
+   Title: s Gymnastics Coach
+   Original line: Kelsey Gates Assistant Women's Gymnastics Coach 401-456- kgates@ric.edu
+
+21. Jessalyn O'Neill
+   Email: joneill@ric.edu
+   Username: joneill
+   Sports: Baseball
+   Title: s Lacrosse Coach
+   Original line: Jessalyn O'Neill Head Women's Lacrosse Coach 401-456- joneill@ric.edu
+
+22. Emily Marino
+   Email: emarino@ric.edu
+   Username: emarino
+   Sports: Baseball
+   Title: s Lacrosse Coach
+   Original line: Emily Marino Assistant Women's Lacrosse Coach 401-456- emarino@ric.edu
+
+23. Kyle Froberg
+   Email: kfroberg@ric.edu
+   Username: kfroberg
+   Sports: Baseball
+   Title: s Soccer Coach
+   Original line: Kyle Froberg Head Men's Soccer Coach 401-456- kfroberg@ric.edu
+
+24. Brian Bradley
+   Email: bbradley@ric.edu
+   Username: bbradley
+   Sports: Baseball
+   Title: s Soccer Coach
+   Original line: Brian Bradley Assistant Men's Soccer Coach 401-456- bbradley@ric.edu
+
+25. Phil Pincince
+   Email: ppincince@ric.edu
+   Username: ppincince
+   Sports: Baseball
+   Title: s Soccer Coach
+   Original line: Phil Pincince Head Women's Soccer Coach 401-456- ppincince@ric.edu
+
+26. Luis Faria
+   Email: lfaria@ric.edu
+   Username: lfaria
+   Sports: Baseball
+   Title: s Soccer Coach
+   Original line: Luis Faria Assistant Women's Soccer Coach 401-456- lfaria@ric.edu
+
+27. Lauren Hatfield
+   Email: lhatfield@ric.edu
+   Username: lhatfield
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Lauren Hatfield Head Softball Coach 401-456- lhatfield@ric.edu
+
+28. Cam Sylvia
+   Email: csylvia@ric.edu
+   Username: csylvia
+   Sports: Softball
+   Title: s Swimming Coach
+   Original line: Cam Sylvia Head Women's Swimming Coach 401-456- csylvia@ric.edu
+
+29. Jaelin Jang
+   Email: jjang@ric.edu
+   Username: jjang
+   Sports: Softball
+   Title: s Swimming Coach
+   Original line: Jaelin Jang Assistant Women's Swimming Coach 401-456- jjang@ric.edu
+
+30. Adam Spring
+   Email: aspring@ric.edu
+   Username: aspring
+   Sports: Softball
+   Title: s Tennis Coach
+   Original line: Adam Spring Head Men's Tennis Coach 401-456- aspring@ric.edu
+
+31. Julie Lonks
+   Email: jreddy@ric.edu
+   Username: jreddy
+   Sports: Softball
+   Title: s Tennis Coach
+   Original line: Julie Lonks Assistant Men's and Women's Tennis Coach 401-456- jreddy@ric.edu
+
+32. Adam Spring
+   Email: aspring@ric.edu
+   Username: aspring
+   Sports: Softball
+   Title: s Tennis Coach
+   Original line: Adam Spring Head Women's Tennis Coach 401-456- aspring@ric.edu
+
+33. Julie Lonks
+   Email: jreddy@ric.edu
+   Username: jreddy
+   Sports: Softball
+   Title: s Tennis Coach
+   Original line: Julie Lonks Assistant Men's and Women's Tennis Coach 401-456- jreddy@ric.edu
+
+34. Autumn Wosencroft
+   Email: awosencroft@ric.edu
+   Username: awosencroft
+   Sports: Softball
+   Title: Head Coach
+   Original line: Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+
+35. Matthew Russom
+   Email: mrussom_7099@email.ric.edu
+   Username: mrussom_7099
+   Sports: Softball
+   Title: s Track & Field Coach
+   Original line: Matthew Russom Assistant Men's and Women's Track & Field Coach 401-456- mrussom_7099@email.ric.edu
+
+36. Destinee Barrette
+   Email: dbarrette@ric.edu
+   Username: dbarrette
+   Sports: Softball
+   Title: s Track & Field Coach
+   Original line: Destinee Barrette Assistant Men's and Women's Track & Field Coach 401-456- dbarrette@ric.edu
+
+37. Autumn Wosencroft
+   Email: awosencroft@ric.edu
+   Username: awosencroft
+   Sports: Softball
+   Title: Head Coach
+   Original line: Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+
+38. Matthew Russom
+   Email: mrussom_7099@email.ric.edu
+   Username: mrussom_7099
+   Sports: Softball
+   Title: s Track & Field Coach
+   Original line: Matthew Russom Assistant Men's and Women's Track & Field Coach 401-456- mrussom_7099@email.ric.edu
+
+39. Destinee Barrette
+   Email: dbarrette@ric.edu
+   Username: dbarrette
+   Sports: Softball
+   Title: s Track & Field Coach
+   Original line: Destinee Barrette Assistant Men's and Women's Track & Field Coach 401-456- dbarrette@ric.edu
+
+40. Jenn Cabral
+   Email: jcabral1@ric.edu
+   Username: jcabral1
+   Sports: Softball
+   Title: s Volleyball Coach
+   Original line: Jenn Cabral Head Women's Volleyball Coach 401-456- jcabral1@ric.edu
+
+41. Amelia Murphy
+   Email: amurphy1@ric.edu
+   Username: amurphy1
+   Sports: Softball
+   Title: s Volleyball Coach
+   Original line: Amelia Murphy Assistant Women's Volleyball Coach 401-456- amurphy1@ric.edu
+
+42. Jay Jones
+   Email: jjones@ric.edu
+   Username: jjones
+   Sports: Softball
+   Title: Head Wrestling Coach
+   Original line: Jay Jones Head Wrestling Coach 401-456- jjones@ric.edu
+
+43. Jonathan Murray
+   Email: jmurray1@ric.edu
+   Username: jmurray1
+   Sports: Softball
+   Title: Assistant Wrestling Coach
+   Original line: Jonathan Murray Assistant Wrestling Coach 401-456- jmurray1@ric.edu
+
+44. Colin Smith
+   Email: csmith_7950@ric.edu
+   Username: csmith_7950
+   Sports: Softball
+   Title: Assistant Wrestling Coach
+   Original line: Colin Smith Assistant Wrestling Coach 401-456- csmith_7950@ric.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Anthony Muccioli Coordinator of Recreation and Fitness Programs/Strength Coach 401-456- amuccioli@ric.edu
+• Cody Kauffman Head Baseball Coach 401-456- ckauffman@ric.edu
+• Brenden Aldridge Assistant Baseball Coach 401-456- baldridge@ric.edu
+• Harrison Mansfield Assistant Baseball Coach 401-456- hmansfield@ric.edu
+• David Iannuccilli Assistant Baseball Coach 401-456- diannuccilli@ric.edu
+• Sam Ferry Head Men's Basketball Coach 401-456- sferry@ric.edu
+• Denzel Washington Assistant Men's Basketball Coach 401-456- dwashington@ric.edu
+• Elliott Butcher Assistant Men's Basketball Coach 401-456- ebutcher@ric.edu
+• Fernando Torres Assistant Men's Basketball Coach 401-456- ftorres@ric.edu
+• Jenna Cosgrove Head Women's Basketball Coach 401-456- jcosgrove@ric.edu
+• Derek Shanks Assistant Women's Basketball Coach 401-456- dshanks@ric.edu
+• Meghan Reall Assistant Women's Basketball Coach 401-456- mreall@ric.edu
+• Jontai Williams Assistant Women's Basketball Coach 401-456- jwilliams1@ric.edu
+• Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+• Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+• Bill Volpe Head Men's and Women's Golf Coach 401-323- wvolpe@ric.edu
+• Bill Volpe Head Men's and Women's Golf Coach 401-323- wvolpe@ric.edu
+• Monica Mesalles Nassi Head Women's Gymnastics Coach 401-456- mnassi@ric.edu
+• Alison Silva Assistant Women's Gymnastics Coach 401-456- asilva2@ric.edu
+• Kelsey Gates Assistant Women's Gymnastics Coach 401-456- kgates@ric.edu
+• Jessalyn O'Neill Head Women's Lacrosse Coach 401-456- joneill@ric.edu
+• Emily Marino Assistant Women's Lacrosse Coach 401-456- emarino@ric.edu
+• Kyle Froberg Head Men's Soccer Coach 401-456- kfroberg@ric.edu
+• Brian Bradley Assistant Men's Soccer Coach 401-456- bbradley@ric.edu
+• Phil Pincince Head Women's Soccer Coach 401-456- ppincince@ric.edu
+• Luis Faria Assistant Women's Soccer Coach 401-456- lfaria@ric.edu
+• Lauren Hatfield Head Softball Coach 401-456- lhatfield@ric.edu
+• Cam Sylvia Head Women's Swimming Coach 401-456- csylvia@ric.edu
+• Jaelin Jang Assistant Women's Swimming Coach 401-456- jjang@ric.edu
+• Adam Spring Head Men's Tennis Coach 401-456- aspring@ric.edu
+• Julie Lonks Assistant Men's and Women's Tennis Coach 401-456- jreddy@ric.edu
+• Adam Spring Head Women's Tennis Coach 401-456- aspring@ric.edu
+• Julie Lonks Assistant Men's and Women's Tennis Coach 401-456- jreddy@ric.edu
+• Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+• Matthew Russom Assistant Men's and Women's Track & Field Coach 401-456- mrussom_7099@email.ric.edu
+• Destinee Barrette Assistant Men's and Women's Track & Field Coach 401-456- dbarrette@ric.edu
+• Autumn Wosencroft Associate Head Coach Men's and Women's Cross Country/Track and 401-456- awosencroft@ric.edu
+• Matthew Russom Assistant Men's and Women's Track & Field Coach 401-456- mrussom_7099@email.ric.edu
+• Destinee Barrette Assistant Men's and Women's Track & Field Coach 401-456- dbarrette@ric.edu
+• Jenn Cabral Head Women's Volleyball Coach 401-456- jcabral1@ric.edu
+• Amelia Murphy Assistant Women's Volleyball Coach 401-456- amurphy1@ric.edu
+• Jay Jones Head Wrestling Coach 401-456- jjones@ric.edu
+• Jonathan Murray Assistant Wrestling Coach 401-456- jmurray1@ric.edu
+• Colin Smith Assistant Wrestling Coach 401-456- csmith_7950@ric.edu

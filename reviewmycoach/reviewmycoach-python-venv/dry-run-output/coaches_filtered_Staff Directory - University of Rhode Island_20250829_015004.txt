@@ -1,0 +1,536 @@
+COACH ENTRIES FOUND - 2025-08-29 01:50:05
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Rhode Island
+Organization: University of Rhode Island Athletics
+
+Total coaches found: 64
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Leech
+   Email: scott_leech@uri.edu
+   Username: scott_leech
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Phone: (401) 874-5938
+   Original line: Scott Leech Head Strength & Conditioning Coach 401-874-5938 scott_leech@uri.edu
+
+2. Cassidy Hall
+   Email: URIcheerleading@etal.uri.edu
+   Username: URIcheerleading
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Cassidy Hall Head Coach, Cheerleaders URIcheerleading@etal.uri.edu
+
+3. Stephanie Asst
+   Email: URIcheerleading@etal.uri.edu
+   Username: URIcheerleading
+   Sports: Soccer
+   Title: Ashworth Coach
+   Original line: Stephanie Ashworth Asst Coach, Cheerleaders URIcheerleading@etal.uri.edu
+
+4. Kayla Jensen
+   Email: uriramettes@etal.uri.edu
+   Username: uriramettes
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kayla Jensen Head Coach, Ramettes uriramettes@etal.uri.edu
+
+5. Scott Leech
+   Email: scott_leech@uri.edu
+   Username: scott_leech
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Phone: (401) 874-5938
+   Original line: Scott Leech Head Strength & Conditioning Coach 401-874-5938 scott_leech@uri.edu
+
+6. Noah Meyer
+   Email: noah.meyer@uri.edu
+   Username: noah.meyer
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Phone: (401) 874-5938
+   Original line: Noah Meyer Assistant Strength and Conditioning Coach 401-874-5938 noah.meyer@uri.edu
+
+7. Raphael Cerrato
+   Email: rcerrato@uri.edu
+   Username: rcerrato
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (401) 874-4550
+   Original line: Raphael Cerrato Head Coach 401-874-4550 rcerrato@uri.edu
+
+8. David Pitching
+   Email: david_fischer@uri.edu
+   Username: david_fischer
+   Sports: Baseball
+   Title: Coach
+   Phone: (401) 874-4888
+   Original line: David Fischer Pitching Coach 401-874-4888 david_fischer@uri.edu
+
+9. Blaine Lidsky
+   Email: blaine.lidsky@uri.edu
+   Username: blaine.lidsky
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Blaine Lidsky Assistant Coach blaine.lidsky@uri.edu
+
+10. Daniel Palka
+   Email: daniel.palka@uri.edu
+   Username: daniel.palka
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Daniel Palka Assistant Coach daniel.palka@uri.edu
+
+11. Austin Carroll
+   Email: austincarroll@uri.edu
+   Username: austincarroll
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Austin Carroll Assistant Coach austincarroll@uri.edu
+
+12. Benny Sander
+   Email: bennysander@uri.edu
+   Username: bennysander
+   Sports: Baseball
+   Title: Assistant Coach/Chief
+   Original line: Benny Sander Assistant Coach/Chief of Staff bennysander@uri.edu
+
+13. Chandler Graves
+   Email: chandler.graves@uri.edu
+   Username: chandler.graves
+   Sports: Baseball
+   Title: Assistant Coach/Director
+   Original line: Chandler Graves Assistant Coach/Director of Operations chandler.graves@uri.edu
+
+14. Tammi Reiss
+   Email: treiss@uri.edu
+   Username: treiss
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (401) 874-2235
+   Original line: Tammi Reiss Head Coach 401-874-2235 treiss@uri.edu
+
+15. Adeniyi Amadou
+   Email: adeniyiamadou@uri.edu
+   Username: adeniyiamadou
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (401) 874-5589
+   Original line: Adeniyi Amadou Associate Head Coach 401-874-5589 adeniyiamadou@uri.edu
+
+16. Ali Jaques
+   Email: ali.jaques@uri.edu
+   Username: ali.jaques
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Ali Jaques Associate Head Coach ali.jaques@uri.edu
+
+17. Jen Fay
+   Email: jennifer.fay@uri.edu
+   Username: jennifer.fay
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Jen Fay Assistant Coach/Recruiting Coordinator jennifer.fay@uri.edu
+
+18. Jim Fleming
+   Email: jmfleming@uri.edu
+   Username: jmfleming
+   Sports: Football
+   Title: Head Coach
+   Phone: (401) 874-5211
+   Original line: Jim Fleming Head Coach 401-874-5211 jmfleming@uri.edu
+
+19. Mike Flanagan
+   Email: coachflanagan@uri.edu
+   Username: coachflanagan
+   Sports: Football
+   Title: Head Coach/Offensive Coordinator/Tight Ends
+   Phone: (401) 874-2406
+   Original line: Mike Flanagan Associate Head Coach/Offensive Coordinator/Tight Ends 401-874-2406 coachflanagan@uri.edu
+
+20. Chris Lorenti
+   Email: clorenti@uri.edu
+   Username: clorenti
+   Sports: Football
+   Title: Defensive Coordinator/Inside Linebackers Coach
+   Phone: (401) 874-2406
+   Original line: Chris Lorenti Defensive Coordinator/Inside Linebackers Coach 401-874-2406 clorenti@uri.edu
+
+21. Gregg Burke
+   Email: gburke@uri.edu
+   Username: gburke
+   Sports: Football
+   Title: Head Coach
+   Phone: (401) 874-5278
+   Original line: Gregg Burke Head Coach 401-874-5278 gburke@uri.edu
+
+22. Jenna Slowey
+   Email: jenna.slowey@uri.edu
+   Username: jenna.slowey
+   Sports: Football
+   Title: Head Coach
+   Original line: Jenna Slowey Head Coach jenna.slowey@uri.edu
+
+23. Riley Smith
+   Email: riley.smith@uri.edu
+   Username: riley.smith
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Riley Smith Assistant Coach riley.smith@uri.edu
+
+24. Cara Moreau
+   Email: cara.moreau@uri.edu
+   Username: cara.moreau
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Cara Moreau Assistant Coach cara.moreau@uri.edu
+
+25. Shelagh Donohoe
+   Email: sdonohoe@uri.edu
+   Username: sdonohoe
+   Sports: Football
+   Title: Head Coach
+   Phone: (401) 874-7895
+   Original line: Shelagh Donohoe Head Coach 401-874-7895 sdonohoe@uri.edu
+
+26. Jessica Lizzi
+   Email: jlizzi@uri.edu
+   Username: jlizzi
+   Sports: Football
+   Title: Head Coach
+   Phone: (401) 874-7894
+   Original line: Jessica Lizzi Associate Head Coach 401-874-7894 jlizzi@uri.edu
+
+27. Gareth Elliott
+   Email: gelliott@uri.edu
+   Username: gelliott
+   Sports: Football
+   Title: Head Coach
+   Phone: (401) 874-2560
+   Original line: Gareth Elliott Head Coach 401-874-2560 gelliott@uri.edu
+
+28. Tony Bassett
+   Email: tony_bassett@uri.edu
+   Username: tony_bassett
+   Sports: Football
+   Title: Head Coach
+   Phone: (401) 874-2342
+   Original line: Tony Bassett Associate Head Coach 401-874-2342 tony_bassett@uri.edu
+
+29. Giovani Riello
+   Email: giovani.riello@uri.edu
+   Username: giovani.riello
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (401) 874-2342
+   Original line: Giovani Riello Assistant Coach 401-874-2342 giovani.riello@uri.edu
+
+30. Frank Bergren
+   Email: frank_bergren@uri.edu
+   Username: frank_bergren
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (401) 874-2342
+   Original line: Frank Bergren Assistant Coach 401-874-2342 frank_bergren@uri.edu
+
+31. Megan Jessee
+   Email: megan_jessee@uri.edu
+   Username: megan_jessee
+   Sports: Football
+   Title: Head Coach
+   Original line: Megan Jessee Head Coach megan_jessee@uri.edu
+
+32. Megan Mackey
+   Email: Megan.Mackey@uri.edu
+   Username: Megan.Mackey
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Megan Mackey Assistant Coach Megan.Mackey@uri.edu
+
+33. Conner Golley
+   Email: conner.golley@uri.edu
+   Username: conner.golley
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Conner Golley Assistant Coach conner.golley@uri.edu
+
+34. Mike Coutts
+   Email: michael.coutts@uri.edu
+   Username: michael.coutts
+   Sports: Softball
+   Title: Head Coach
+   Original line: Mike Coutts Head Coach michael.coutts@uri.edu
+
+35. Caitlyn Fallon
+   Email: Caitlyn.fallon@uri.edu
+   Username: Caitlyn.fallon
+   Sports: Softball
+   Title: Pitching Coach
+   Original line: Caitlyn Fallon Pitching Coach Caitlyn.fallon@uri.edu
+
+36. Emily Piergustavo
+   Email: Emily.Piergustavo@uri.edu
+   Username: Emily.Piergustavo
+   Sports: Softball
+   Title: Hitting Coach and
+   Original line: Emily Piergustavo Hitting Coach and Recruiting Coordinator Emily.Piergustavo@uri.edu
+
+37. Data Analytics
+   Email: jackson_coutts@uri.edu
+   Username: jackson_coutts
+   Sports: Softball
+   Title: Jackson Coutts Assistant Coach/Manager of
+   Original line: Jackson Coutts Assistant Coach/Manager of Data Analytics jackson_coutts@uri.edu
+
+38. Lilli Deering
+   Email: lfalconer@uri.edu
+   Username: lfalconer
+   Sports: Softball
+   Title: Head Coach
+   Original line: Lilli Falconer Deering Head Coach (312) 330- lfalconer@uri.edu
+
+39. Logan Hellwig
+   Email: logan_hellwig@uri.edu
+   Username: logan_hellwig
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Logan Hellwig Assistant Coach logan_hellwig@uri.edu
+
+40. Christo Law
+   Email: claw5136@uri.edu
+   Username: claw5136
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Christo Law Assistant Coach (Diving) claw5136@uri.edu
+
+41. Jonas Brobeck
+   Email: jonas.brobeck@uri.edu
+   Username: jonas.brobeck
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jonas Brobeck Head Coach jonas.brobeck@uri.edu
+
+42. Trent Baltzell
+   Email: trent_baltzell@uri.edu
+   Username: trent_baltzell
+   Sports: Softball
+   Title: Head Coach
+   Phone: (508) 244-8537
+   Original line: Trent Baltzell Head Coach (Jumps/Multi Events) 508-244-8537 trent_baltzell@uri.edu
+
+43. Ben Carroll
+   Email: benjamin.carroll@uri.edu
+   Username: benjamin.carroll
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (401) 874-5377
+   Original line: Ben Carroll Assistant Coach (Throws) 401-874-5377 benjamin.carroll@uri.edu
+
+44. Brian Doyle
+   Email: briandoyle@uri.edu
+   Username: briandoyle
+   Sports: Softball
+   Title: Assistant Coach/Recruiting Coordinator
+   Phone: (401) 874-2163
+   Original line: Brian Doyle Assistant Coach/Recruiting Coordinator (Sprints, Distance) 401-874-2163 briandoyle@uri.edu
+
+45. Laurie Feit-Melnick
+   Email: lauriefm@uri.edu
+   Username: lauriefm
+   Sports: Softball
+   Title: Head Coach
+   Phone: (401) 874-5234
+   Original line: Laurie Feit-Melnick Head Coach 401-874-5234 lauriefm@uri.edu
+
+46. John Melnick
+   Email: jm@uri.edu
+   Username: jm
+   Sports: Softball
+   Title: Head Coach
+   Phone: (401) 874-2322
+   Original line: John Melnick Associate Head Coach 401-874-2322 jm@uri.edu
+
+47. Crystal Bourque
+   Email: crystal_bourque@uri.edu
+   Username: crystal_bourque
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (401) 874-2322
+   Original line: Crystal Bourque Assistant Coach 401-874-2322 crystal_bourque@uri.edu
+
+48. Ryan Sullivan
+   Email: ryan.sullivan@uri.edu
+   Username: ryan.sullivan
+   Sports: Softball
+   Title: Head Coach
+   Original line: Ryan Sullivan Head Coach ryan.sullivan@uri.edu
+
+49. Marissa Soistman
+   Email: marissa.soistman@uri.edu
+   Username: marissa.soistman
+   Sports: Softball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Marissa Soistman Assistant Coach/Recruiting Coordinator marissa.soistman@uri.edu
+
+50. Brian Cardany
+   Email: bcardany@uri.edu
+   Username: bcardany
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emily Garganese Assistant Coach, Ramettes bcardany@uri.edu
+
+51. Abby Langevin
+   Email: alangevin@uri.edu
+   Username: alangevin
+   Sports: Strength & Conditioning
+   Title: Jack Hertz Assistant Strength and Conditioning Coach
+   Original line: Jack Hertz Assistant Strength and Conditioning Coach alangevin@uri.edu
+
+52. Mike Monteiro
+   Email: mmonteiro0805@uri.edu
+   Username: mmonteiro0805
+   Sports: Strength & Conditioning
+   Title: Jamie Woelmer Assistant Strength and Conditioning Coach
+   Original line: Jamie Woelmer Assistant Strength and Conditioning Coach mmonteiro0805@uri.edu
+
+53. Jack Executive
+   Email: omarra6410@uri.edu
+   Username: omarra6410
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Archie Miller Head Coach omarra6410@uri.edu
+
+54. James Whitford
+   Email: 
+   Username: james.whitford
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: James Whitford Assistant Coach
+
+55. Duane Woodward
+   Email: 
+   Username: duane.woodward
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Duane Woodward Assistant Coach
+
+56. Justin Linebackers
+   Email: justin_woodward@uri.edu
+   Username: justin_woodward
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Gillis Assistant Coach justin_woodward@uri.edu
+
+57. Henry Backs
+   Email: hyianakopolos@uri.edu
+   Username: hyianakopolos
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chad Spencer Volunteer Assistant Coach hyianakopolos@uri.edu
+
+58. Katie Shattuck
+   Email: 
+   Username: katie.shattuck
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Katie Shattuck Assistant Coach
+
+59. Ellen White
+   Email: 
+   Username: ellen.white
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ellen White Assistant Coach
+
+60. Mollie Volunteer
+   Email: 
+   Username: mollie.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mollie Westrick Volunteer Assistant Coach
+
+61. Eliza Volunteer
+   Email: 
+   Username: eliza.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Eliza Anderson Volunteer Assistant Coach
+
+62. Dan Cardiff
+   Email: 
+   Username: dan.cardiff
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dan Cardiff Assistant Coach
+
+63. Trinity Student
+   Email: 
+   Username: trinity.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Trinity Smith Student Assistant Coach
+
+64. Casey Sturts
+   Email: 
+   Username: casey.sturts
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Casey Sturts Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Leech Head Strength & Conditioning Coach 401-874-5938 scott_leech@uri.edu
+• Cassidy Hall Head Coach, Cheerleaders URIcheerleading@etal.uri.edu
+• Stephanie Ashworth Asst Coach, Cheerleaders URIcheerleading@etal.uri.edu
+• Kayla Jensen Head Coach, Ramettes uriramettes@etal.uri.edu
+• Scott Leech Head Strength & Conditioning Coach 401-874-5938 scott_leech@uri.edu
+• Noah Meyer Assistant Strength and Conditioning Coach 401-874-5938 noah.meyer@uri.edu
+• Raphael Cerrato Head Coach 401-874-4550 rcerrato@uri.edu
+• David Fischer Pitching Coach 401-874-4888 david_fischer@uri.edu
+• Blaine Lidsky Assistant Coach blaine.lidsky@uri.edu
+• Daniel Palka Assistant Coach daniel.palka@uri.edu
+• Austin Carroll Assistant Coach austincarroll@uri.edu
+• Benny Sander Assistant Coach/Chief of Staff bennysander@uri.edu
+• Chandler Graves Assistant Coach/Director of Operations chandler.graves@uri.edu
+• Tammi Reiss Head Coach 401-874-2235 treiss@uri.edu
+• Adeniyi Amadou Associate Head Coach 401-874-5589 adeniyiamadou@uri.edu
+• Ali Jaques Associate Head Coach ali.jaques@uri.edu
+• Jen Fay Assistant Coach/Recruiting Coordinator jennifer.fay@uri.edu
+• Jim Fleming Head Coach 401-874-5211 jmfleming@uri.edu
+• Mike Flanagan Associate Head Coach/Offensive Coordinator/Tight Ends 401-874-2406 coachflanagan@uri.edu
+• Chris Lorenti Defensive Coordinator/Inside Linebackers Coach 401-874-2406 clorenti@uri.edu
+• Gregg Burke Head Coach 401-874-5278 gburke@uri.edu
+• Jenna Slowey Head Coach jenna.slowey@uri.edu
+• Riley Smith Assistant Coach riley.smith@uri.edu
+• Cara Moreau Assistant Coach cara.moreau@uri.edu
+• Shelagh Donohoe Head Coach 401-874-7895 sdonohoe@uri.edu
+• Jessica Lizzi Associate Head Coach 401-874-7894 jlizzi@uri.edu
+• Gareth Elliott Head Coach 401-874-2560 gelliott@uri.edu
+• Tony Bassett Associate Head Coach 401-874-2342 tony_bassett@uri.edu
+• Giovani Riello Assistant Coach 401-874-2342 giovani.riello@uri.edu
+• Frank Bergren Assistant Coach 401-874-2342 frank_bergren@uri.edu
+• Megan Jessee Head Coach megan_jessee@uri.edu
+• Megan Mackey Assistant Coach Megan.Mackey@uri.edu
+• Conner Golley Assistant Coach conner.golley@uri.edu
+• Mike Coutts Head Coach michael.coutts@uri.edu
+• Caitlyn Fallon Pitching Coach Caitlyn.fallon@uri.edu
+• Emily Piergustavo Hitting Coach and Recruiting Coordinator Emily.Piergustavo@uri.edu
+• Jackson Coutts Assistant Coach/Manager of Data Analytics jackson_coutts@uri.edu
+• Lilli Falconer Deering Head Coach (312) 330- lfalconer@uri.edu
+• Logan Hellwig Assistant Coach logan_hellwig@uri.edu
+• Christo Law Assistant Coach (Diving) claw5136@uri.edu
+• Jonas Brobeck Head Coach jonas.brobeck@uri.edu
+• Trent Baltzell Head Coach (Jumps/Multi Events) 508-244-8537 trent_baltzell@uri.edu
+• Ben Carroll Assistant Coach (Throws) 401-874-5377 benjamin.carroll@uri.edu
+• Brian Doyle Assistant Coach/Recruiting Coordinator (Sprints, Distance) 401-874-2163 briandoyle@uri.edu
+• Laurie Feit-Melnick Head Coach 401-874-5234 lauriefm@uri.edu
+• John Melnick Associate Head Coach 401-874-2322 jm@uri.edu
+• Crystal Bourque Assistant Coach 401-874-2322 crystal_bourque@uri.edu
+• Ryan Sullivan Head Coach ryan.sullivan@uri.edu
+• Marissa Soistman Assistant Coach/Recruiting Coordinator marissa.soistman@uri.edu

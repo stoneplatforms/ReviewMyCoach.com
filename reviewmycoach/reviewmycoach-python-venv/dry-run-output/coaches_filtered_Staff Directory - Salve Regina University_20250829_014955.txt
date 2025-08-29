@@ -1,0 +1,533 @@
+COACH ENTRIES FOUND - 2025-08-29 01:49:56
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Salve Regina University
+Organization: Salve Regina University Athletics
+
+Total coaches found: 66
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sean Foster
+   Email: fosters@salve.edu
+   Username: fosters
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Sean Foster '97 Head Men’s Basketball Coach | Scheduling fosters@salve.edu (401) 341-
+
+2. Cori Hughes
+   Email: corinne.hughes@salve.edu
+   Username: corinne.hughes
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Cori Hughes Head Women's Basketball Coach | Compliance | corinne.hughes@salve.edu (401) 341- Boston U.
+
+3. Eric Cirella
+   Email: eric.cirella@salve.edu
+   Username: eric.cirella
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Eric Cirella '05 Head Baseball Coach eric.cirella@salve.edu (401) 341- Salve Regina
+
+4. Zach Clesas
+   Email: zachary.clesas@salve.edu
+   Username: zachary.clesas
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Zach Clesas Assistant Baseball Coach zachary.clesas@salve.edu (401) 341- Wheaton
+
+5. Harrison Barlow
+   Email: harrison.barlow@salve.edu
+   Username: harrison.barlow
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Harrison Barlow Assistant Baseball Coach harrison.barlow@salve.edu (401) 341- Rhode Island
+
+6. Peter Clays
+   Email: peter.clays@salve.edu
+   Username: peter.clays
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Peter Clays Assistant Baseball Coach peter.clays@salve.edu (401) 341- Georgetown '88
+
+7. Dirk Baker
+   Email: dirk.baker@salve.edu
+   Username: dirk.baker
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Dirk Baker Assistant Baseball Coach dirk.baker@salve.edu (401) 341- Boston U.
+
+8. Sean Foster
+   Email: fosters@salve.edu
+   Username: fosters
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Sean Foster '97 Head Men’s Basketball Coach | Scheduling fosters@salve.edu (401) 341-
+
+9. Will Smiley
+   Email: william.smiley@salve.edu
+   Username: william.smiley
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Will Smiley '13 Assistant Coach william.smiley@salve.edu
+
+10. Cori Hughes
+   Email: corinne.hughes@salve.edu
+   Username: corinne.hughes
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Cori Hughes Head Women's Basketball Coach | Compliance | corinne.hughes@salve.edu (401) 341- Boston U.
+
+11. Olivia Pierce
+   Email: olivia.pierce@salve.edu
+   Username: olivia.pierce
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Olivia Pierce '19 Assistant Women's Basketball Coach olivia.pierce@salve.edu (401) 341-
+
+12. Megan Henaghan
+   Email: megan.henaghan@salve.edu
+   Username: megan.henaghan
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Megan Henaghan '23 Assistant Women's Basketball Coach megan.henaghan@salve.edu (401) 341-
+
+13. Kacie Gallo
+   Email: kacie.gallo@salve.edu
+   Username: kacie.gallo
+   Sports: Baseball
+   Title: Men's & Women's Cross Country Head Coach
+   Original line: Kacie Gallo '08 Men's & Women's Cross Country Head Coach kacie.gallo@salve.edu (401) 341- Salve Regina
+
+14. Matthew Hird
+   Email: matthew.hird@salve.edu
+   Username: matthew.hird
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Matthew Hird Volunteer Assistant Coach matthew.hird@salve.edu Colby
+
+15. Kacie Gallo
+   Email: kacie.gallo@salve.edu
+   Username: kacie.gallo
+   Sports: Baseball
+   Title: Men's & Women's Cross Country Head Coach
+   Original line: Kacie Gallo '08 Men's & Women's Cross Country Head Coach kacie.gallo@salve.edu (401) 341- Salve Regina
+
+16. Matthew Hird
+   Email: matthew.hird@salve.edu
+   Username: matthew.hird
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Matthew Hird Volunteer Assistant Coach matthew.hird@salve.edu Colby
+
+17. Chelsea Francis
+   Email: chelsea.francis@salve.edu
+   Username: chelsea.francis
+   Sports: Baseball
+   Title: Head Equestrian Coach
+   Original line: Chelsea Francis Head Equestrian Coach chelsea.francis@salve.edu
+
+18. Jennifer Foster
+   Email: jennifer.foster@salve.edu
+   Username: jennifer.foster
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Jennifer Foster Head Field Hockey Coach jennifer.foster@salve.edu (401) 341- Bryant
+
+19. Carly Shea
+   Email: carly.shea@salve.edu
+   Username: carly.shea
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Carly Shea Assistant Field Hockey Coach carly.shea@salve.edu
+
+20. Shannon Kennedy
+   Email: shannon.kennedy@salve.edu
+   Username: shannon.kennedy
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Shannon Kennedy Assistant Field Hockey Coach shannon.kennedy@salve.edu
+
+21. Kevin Gilmartin
+   Email: kevin.gilmartin@salve.edu
+   Username: kevin.gilmartin
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Kevin Gilmartin Head Football Coach | Offensive Coordinator kevin.gilmartin@salve.edu (401) 341-
+
+22. Greg DeLade
+   Email: gregory.delade@salve.edu
+   Username: gregory.delade
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Greg DeLade Assistant Football Coach | Linebackers | Defensive gregory.delade@salve.edu (401) 341- Muhlenberg
+
+23. Brad Kelly
+   Email: bradley.kelly@salve.edu
+   Username: bradley.kelly
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Brad Kelly '15 Assistant Football Coach | Defensive Line | Special bradley.kelly@salve.edu
+
+24. Elian Telford
+   Email: elian.telford@salve.edu
+   Username: elian.telford
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Elian Telford '23 Assistant Football Coach | Offensive Line elian.telford@salve.edu
+
+25. Ice 
+   Email: sean.sullivan2@salve.edu
+   Username: sean.sullivan2
+   Sports: Football
+   Title: * TBD Head Coach Men's
+   Original line: * TBD Head Coach Men's Ice Hockey sean.sullivan2@salve.edu
+
+26. Ice 
+   Email: sean.sullivan2@salve.edu
+   Username: sean.sullivan2
+   Sports: Football
+   Title: * TBD Head Coach Women's
+   Original line: * TBD Head Coach Women's Ice Hockey sean.sullivan2@salve.edu
+
+27. Erika Martin
+   Email: erika.martin@salve.edu
+   Username: erika.martin
+   Sports: Football
+   Title: Assistant Women's Ice Hockey Coach
+   Original line: Erika Martin '20 Assistant Women's Ice Hockey Coach erika.martin@salve.edu
+
+28. Patrick Cooney
+   Email: patrick.cooney@salve.edu
+   Username: patrick.cooney
+   Sports: Football
+   Title: Head Men's Lacrosse Coach
+   Original line: Patrick Cooney Head Men's Lacrosse Coach patrick.cooney@salve.edu (401) 341- Roger Williams
+
+29. Dan Parks
+   Email: daniel.parks@salve.edu
+   Username: daniel.parks
+   Sports: Football
+   Title: Associate Head Men's Lacrosse Coach
+   Original line: Dan Parks '14 Associate Head Men's Lacrosse Coach daniel.parks@salve.edu (401) 341- Salve Regina
+
+30. John Murray
+   Email: john.murray@salve.edu
+   Username: john.murray
+   Sports: Football
+   Title: Assistant Coach
+   Original line: John Murray ’15 Assistant Coach john.murray@salve.edu
+
+31. Meg Malloy
+   Email: meghan.malloy@salve.edu
+   Username: meghan.malloy
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Meg Malloy Head Women's Lacrosse Coach meghan.malloy@salve.edu (401) 341- Keene State '16
+
+32. Madi Drain
+   Email: madison.drain@salve.edu
+   Username: madison.drain
+   Sports: Football
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Madi Drain Assistant Women's Lacrosse Coach madison.drain@salve.edu (401) 341- Roger Williams
+
+33. Brittney Manning
+   Email: brittney.manning@salve.edu
+   Username: brittney.manning
+   Sports: Football
+   Title: Head Sailing Coach
+   Original line: Brittney Manning Head Sailing Coach brittney.manning@salve.edu
+
+34. Bill Lawler
+   Email: william.lawler@salve.edu
+   Username: william.lawler
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Bill Lawler Head Men's Soccer Coach william.lawler@salve.edu (401) 341-
+
+35. Evan MacDonald
+   Email: evan.macdonald@salve.edu
+   Username: evan.macdonald
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Evan MacDonald '20 Assistant Men's Soccer Coach evan.macdonald@salve.edu (401) 341- Salve Regina
+
+36. Nate Reid
+   Email: nathan.reid@salve.edu
+   Username: nathan.reid
+   Sports: Football
+   Title: Goalkeeper Coach
+   Original line: Nate Reid '23 Goalkeeper Coach nathan.reid@salve.edu (401) 341-
+
+37. Danny Bond
+   Email: daniel.bond@salve.edu
+   Username: daniel.bond
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Danny Bond '25 Assistant Coach daniel.bond@salve.edu
+
+38. Jordan Borges
+   Email: jordan.borges@salve.edu
+   Username: jordan.borges
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jordan Borges '24 Assistant Coach jordan.borges@salve.edu
+
+39. Benjamin Lewis
+   Email: benjamin.lewis@salve.edu
+   Username: benjamin.lewis
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Benjamin Lewis Assistant Coach benjamin.lewis@salve.edu
+
+40. Tanya Roberts
+   Email: tanya.roberts@salve.edu
+   Username: tanya.roberts
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Tanya Roberts Head Women's Soccer Coach tanya.roberts@salve.edu (401) 341-
+
+41. Sue Silva
+   Email: suzanne.silva@salve.edu
+   Username: suzanne.silva
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Sue Silva Assistant Women's Soccer Coach suzanne.silva@salve.edu
+
+42. Katie Nickles
+   Email: katie.nickles@salve.edu
+   Username: katie.nickles
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Katie Nickles Assistant Women's Soccer Coach katie.nickles@salve.edu
+
+43. Shauna DeLade
+   Email: shauna.delade@salve.edu
+   Username: shauna.delade
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Shauna DeLade Head Softball Coach shauna.delade@salve.edu (401) 341-
+
+44. Kendra Walker
+   Email: kendra.walker@salve.edu
+   Username: kendra.walker
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Kendra Walker Assistant Softball Coach kendra.walker@salve.edu
+
+45. * TBD
+   Email: bill.villareal@salve.edu
+   Username: bill.villareal
+   Sports: Softball
+   Title: Head Coach Tennis
+   Original line: * TBD Head Coach Tennis bill.villareal@salve.edu
+
+46. * TBD
+   Email: bill.villareal@salve.edu
+   Username: bill.villareal
+   Sports: Softball
+   Title: Head Coach Tennis
+   Original line: * TBD Head Coach Tennis bill.villareal@salve.edu
+
+47. Andrew Furst
+   Email: andrew.furst@salve.edu
+   Username: andrew.furst
+   Sports: Softball
+   Title: Head Women's Track and Field Coach
+   Original line: Andrew Furst Head Women's Track and Field Coach andrew.furst@salve.edu (401) 341- West Chester
+
+48. Erynn Field
+   Email: erynn.field@salve.edu
+   Username: erynn.field
+   Sports: Softball
+   Title: Assistant Track and Coach - Throws
+   Original line: Erynn Field Assistant Track and Field Coach - Throws erynn.field@salve.edu
+
+49. Matthew Hird
+   Email: matthew.hird@salve.edu
+   Username: matthew.hird
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Matthew Hird Volunteer Assistant Coach matthew.hird@salve.edu Colby
+
+50. Kacie Gallo
+   Email: kacie.gallo@salve.edu
+   Username: kacie.gallo
+   Sports: Softball
+   Title: Men's & Women's Cross Country Head Coach
+   Original line: Kacie Gallo '08 Men's & Women's Cross Country Head Coach kacie.gallo@salve.edu (401) 341- Salve Regina
+
+51. Sebastian Noordzy
+   Email: sebastian.noordzy@salve.edu
+   Username: sebastian.noordzy
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Sebastian Noordzy Head Women's Volleyball Coach sebastian.noordzy@salve.edu (401) 341-
+
+52. Nick Patti
+   Email: npatti65@gmail.com
+   Username: npatti65
+   Sports: Softball
+   Title: Women's Rugby Head Coach
+   Original line: Nick Patti Women's Rugby Head Coach npatti65@gmail.com
+
+53. Jackie Martel
+   Email: jacqueline.martel@salve.edu
+   Username: jacqueline.martel
+   Sports: Softball
+   Title: Women's Rugby Associate Head Coach
+   Original line: Jackie Martel Women's Rugby Associate Head Coach jacqueline.martel@salve.edu
+
+54. Fiona Swim
+   Email: fiona.joyce@salve.edu
+   Username: fiona.joyce
+   Sports: Softball
+   Title: Coach
+   Original line: Fiona Joyce Swim Advisor, Coach fiona.joyce@salve.edu
+
+55. Sam Steen
+   Email: samuel.steen@salve.edu
+   Username: samuel.steen
+   Sports: Softball
+   Title: Swim Coach
+   Original line: Sam Steen Swim Coach samuel.steen@salve.edu
+
+56. Stephen Mental
+   Email: 
+   Username: stephen.mental
+   Sports: Soccer
+   Title: Stephen Cirella Mental Performance Coach
+   Original line: Stephen Cirella Mental Performance Coach
+
+57. Leo Lake
+   Email: 
+   Username: leo.lake
+   Sports: Hockey
+   Title: s Ice Hockey Coach
+   Original line: Leo Lake Assistant Women's Ice Hockey Coach
+
+58. Colin Barnett
+   Email: 
+   Username: colin.barnett
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Colin Barnett Assistant Men's Lacrosse Coach Kenne State '11
+
+59. Jeff Farrar
+   Email: 
+   Username: jeff.farrar
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Jeff Farrar Assistant Men's Lacrosse Coach Cornell '79
+
+60. Liam Student
+   Email: 
+   Username: liam.student
+   Sports: Soccer
+   Title: Student Coach
+   Original line: Liam Marr '26 Student Coach
+
+61. Zoe Ochoa
+   Email: 
+   Username: zoe.ochoa
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Zoe Ochoa Assistant Women's Lacrosse Coach
+
+62. Jadon Desmarais
+   Email: 
+   Username: jadon.desmarais
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jadon Desmarais Assistant Coach Roger Williams
+
+63. Morgan Paquin
+   Email: 
+   Username: morgan.paquin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Morgan Paquin Assistant Coach Assumption '22
+
+64. Casey Farrell
+   Email: 
+   Username: casey.farrell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Casey Farrell '23 Assistant Coach
+
+65. Alexa Volunteer
+   Email: 
+   Username: alexa.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alexa Stevens '24 Volunteer Assistant Coach
+
+66. Viviann Goulet
+   Email: 
+   Username: viviann.goulet
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Viviann Goulet Assistant Women's Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sean Foster '97 Head Men’s Basketball Coach | Scheduling fosters@salve.edu (401) 341-
+• Cori Hughes Head Women's Basketball Coach | Compliance | corinne.hughes@salve.edu (401) 341- Boston U.
+• Eric Cirella '05 Head Baseball Coach eric.cirella@salve.edu (401) 341- Salve Regina
+• Zach Clesas Assistant Baseball Coach zachary.clesas@salve.edu (401) 341- Wheaton
+• Harrison Barlow Assistant Baseball Coach harrison.barlow@salve.edu (401) 341- Rhode Island
+• Peter Clays Assistant Baseball Coach peter.clays@salve.edu (401) 341- Georgetown '88
+• Dirk Baker Assistant Baseball Coach dirk.baker@salve.edu (401) 341- Boston U.
+• Sean Foster '97 Head Men’s Basketball Coach | Scheduling fosters@salve.edu (401) 341-
+• Will Smiley '13 Assistant Coach william.smiley@salve.edu
+• Cori Hughes Head Women's Basketball Coach | Compliance | corinne.hughes@salve.edu (401) 341- Boston U.
+• Olivia Pierce '19 Assistant Women's Basketball Coach olivia.pierce@salve.edu (401) 341-
+• Megan Henaghan '23 Assistant Women's Basketball Coach megan.henaghan@salve.edu (401) 341-
+• Kacie Gallo '08 Men's & Women's Cross Country Head Coach kacie.gallo@salve.edu (401) 341- Salve Regina
+• Matthew Hird Volunteer Assistant Coach matthew.hird@salve.edu Colby
+• Kacie Gallo '08 Men's & Women's Cross Country Head Coach kacie.gallo@salve.edu (401) 341- Salve Regina
+• Matthew Hird Volunteer Assistant Coach matthew.hird@salve.edu Colby
+• Chelsea Francis Head Equestrian Coach chelsea.francis@salve.edu
+• Jennifer Foster Head Field Hockey Coach jennifer.foster@salve.edu (401) 341- Bryant
+• Carly Shea Assistant Field Hockey Coach carly.shea@salve.edu
+• Shannon Kennedy Assistant Field Hockey Coach shannon.kennedy@salve.edu
+• Kevin Gilmartin Head Football Coach | Offensive Coordinator kevin.gilmartin@salve.edu (401) 341-
+• Greg DeLade Assistant Football Coach | Linebackers | Defensive gregory.delade@salve.edu (401) 341- Muhlenberg
+• Brad Kelly '15 Assistant Football Coach | Defensive Line | Special bradley.kelly@salve.edu
+• Elian Telford '23 Assistant Football Coach | Offensive Line elian.telford@salve.edu
+• * TBD Head Coach Men's Ice Hockey sean.sullivan2@salve.edu
+• * TBD Head Coach Women's Ice Hockey sean.sullivan2@salve.edu
+• Erika Martin '20 Assistant Women's Ice Hockey Coach erika.martin@salve.edu
+• Patrick Cooney Head Men's Lacrosse Coach patrick.cooney@salve.edu (401) 341- Roger Williams
+• Dan Parks '14 Associate Head Men's Lacrosse Coach daniel.parks@salve.edu (401) 341- Salve Regina
+• John Murray ’15 Assistant Coach john.murray@salve.edu
+• Meg Malloy Head Women's Lacrosse Coach meghan.malloy@salve.edu (401) 341- Keene State '16
+• Madi Drain Assistant Women's Lacrosse Coach madison.drain@salve.edu (401) 341- Roger Williams
+• Brittney Manning Head Sailing Coach brittney.manning@salve.edu
+• Bill Lawler Head Men's Soccer Coach william.lawler@salve.edu (401) 341-
+• Evan MacDonald '20 Assistant Men's Soccer Coach evan.macdonald@salve.edu (401) 341- Salve Regina
+• Nate Reid '23 Goalkeeper Coach nathan.reid@salve.edu (401) 341-
+• Danny Bond '25 Assistant Coach daniel.bond@salve.edu
+• Jordan Borges '24 Assistant Coach jordan.borges@salve.edu
+• Benjamin Lewis Assistant Coach benjamin.lewis@salve.edu
+• Tanya Roberts Head Women's Soccer Coach tanya.roberts@salve.edu (401) 341-
+• Sue Silva Assistant Women's Soccer Coach suzanne.silva@salve.edu
+• Katie Nickles Assistant Women's Soccer Coach katie.nickles@salve.edu
+• Shauna DeLade Head Softball Coach shauna.delade@salve.edu (401) 341-
+• Kendra Walker Assistant Softball Coach kendra.walker@salve.edu
+• * TBD Head Coach Tennis bill.villareal@salve.edu
+• * TBD Head Coach Tennis bill.villareal@salve.edu
+• Andrew Furst Head Women's Track and Field Coach andrew.furst@salve.edu (401) 341- West Chester
+• Erynn Field Assistant Track and Field Coach - Throws erynn.field@salve.edu
+• Matthew Hird Volunteer Assistant Coach matthew.hird@salve.edu Colby
+• Kacie Gallo '08 Men's & Women's Cross Country Head Coach kacie.gallo@salve.edu (401) 341- Salve Regina
+• Sebastian Noordzy Head Women's Volleyball Coach sebastian.noordzy@salve.edu (401) 341-
+• Nick Patti Women's Rugby Head Coach npatti65@gmail.com
+• Jackie Martel Women's Rugby Associate Head Coach jacqueline.martel@salve.edu
+• Fiona Joyce Swim Advisor, Coach fiona.joyce@salve.edu
+• Sam Steen Swim Coach samuel.steen@salve.edu
