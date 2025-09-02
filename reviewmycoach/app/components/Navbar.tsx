@@ -118,9 +118,11 @@ export default function Navbar() {
                       <Link href="/profile" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
                         Your Profile
                       </Link>
-                      <Link href="/my-reviews" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
-                        My Reviews
-                      </Link>
+                      {isCoach && (
+                        <Link href="/dashboard/coach/reviews" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
+                          Reviews
+                        </Link>
+                      )}
                       <Link href="/profile" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
                         Settings
                       </Link>
@@ -266,13 +268,15 @@ export default function Navbar() {
                   >
                     Your Profile
                   </Link>
-                  <Link
-                    href="/my-reviews"
-                    onClick={closeMenu}
-                    className="block px-3 py-2 text-base font-medium text-neutral-200 hover:text-white transition-all hover:bg-neutral-900"
-                  >
-                    My Reviews
-                  </Link>
+                  {isCoach && (
+                    <Link
+                      href="/dashboard/coach/reviews"
+                      onClick={closeMenu}
+                      className="block px-3 py-2 text-base font-medium text-neutral-200 hover:text-white transition-all hover:bg-neutral-900"
+                    >
+                      Reviews
+                    </Link>
+                  )}
                   <Link
                     href="/profile"
                     onClick={closeMenu}
