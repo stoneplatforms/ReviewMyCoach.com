@@ -1,0 +1,137 @@
+COACH ENTRIES FOUND - 2025-09-02 14:42:12
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Rosemont College
+Organization: Rosemont College Athletics
+
+Total coaches found: 15
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ross Trachtenberg
+   Email: ross.trachtenberg@rosemont.edu
+   Username: ross.trachtenberg
+   Sports: Baseball
+   Title: Athletic Director / Head Baseball Coach
+   Phone: (610) 527-0200
+   Original line: Ross Trachtenberg Athletic Director / Head Baseball Coach ross.trachtenberg@rosemont.edu 610-527-0200
+
+2. Ross Trachtenberg
+   Email: ross.trachtenberg@rosemont.edu
+   Username: ross.trachtenberg
+   Sports: Baseball
+   Title: Athletic Director / Head Baseball Coach
+   Phone: (610) 527-0200
+   Original line: Ross Trachtenberg Athletic Director / Head Baseball Coach ross.trachtenberg@rosemont.edu 610-527-0200
+
+3. James Martin
+   Email: james.martin@rosemont.edu
+   Username: james.martin
+   Sports: Baseball
+   Title: Bench Coach
+   Original line: James Martin Bench Coach james.martin@rosemont.edu
+
+4. Glen Goldberg
+   Email: glen.goldberg@rosemont.edu
+   Username: glen.goldberg
+   Sports: Baseball
+   Title: Catching Coach
+   Original line: Glen Goldberg Catching Coach glen.goldberg@rosemont.edu
+
+5. Base 
+   Email: jacob.stoller@rosemont.edu
+   Username: jacob.stoller
+   Sports: Baseball
+   Title: Jake Stoller Infield Coach/Third
+   Original line: Jake Stoller Infield Coach/Third Base Coach jacob.stoller@rosemont.edu
+
+6. Adam McKinlay
+   Email: adam.mckinlay@rosemont.edu
+   Username: adam.mckinlay
+   Sports: Baseball
+   Title: Outfield Coach
+   Original line: Adam McKinlay Outfield Coach adam.mckinlay@rosemont.edu
+
+7. Pete Fuller
+   Email: peter.fuller@rosemont.edu
+   Username: peter.fuller
+   Sports: Baseball
+   Title: Pitching Coach
+   Original line: Pete Fuller Pitching Coach peter.fuller@rosemont.edu
+
+8. Kyle Lafferty
+   Email: Kyle.Lafferty@rosemont.edu
+   Username: Kyle.Lafferty
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Kyle Lafferty Assistant Men's Basketball Coach Kyle.Lafferty@rosemont.edu
+
+9. Brian Mangam
+   Email: Brian.Mangam@rosemont.edu
+   Username: Brian.Mangam
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Brian Mangam Volunteer Assistant Coach Brian.Mangam@rosemont.edu
+
+10. Lou Viola
+   Email: Lou.Viola@rosemont.edu
+   Username: Lou.Viola
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Lou Viola Head Softball Coach Lou.Viola@rosemont.edu
+
+11. Erin Schuler
+   Email: erin.schuler@rosemont.edu
+   Username: erin.schuler
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Erin Schuler Head Women's Volleyball Coach erin.schuler@rosemont.edu
+
+12. Brian Schuler
+   Email: Brian.Schuler@rosemont.edu
+   Username: Brian.Schuler
+   Sports: Softball
+   Title: Assistant Volleyball Coach
+   Original line: Brian Schuler Assistant Volleyball Coach Brian.Schuler@rosemont.edu
+
+13.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 2331
+
+14.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: Golf Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Golf Coach
+
+15. Michael Denton
+   Email: michael.denton@rosemont.edu
+   Username: michael.denton
+   Sports: Soccer
+   Title: Joe Tremoglie Hitting Coach
+   Original line: Joe Tremoglie Hitting Coach michael.denton@rosemont.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ross Trachtenberg Athletic Director / Head Baseball Coach ross.trachtenberg@rosemont.edu 610-527-0200
+• Ross Trachtenberg Athletic Director / Head Baseball Coach ross.trachtenberg@rosemont.edu 610-527-0200
+• James Martin Bench Coach james.martin@rosemont.edu
+• Glen Goldberg Catching Coach glen.goldberg@rosemont.edu
+• Jake Stoller Infield Coach/Third Base Coach jacob.stoller@rosemont.edu
+• Adam McKinlay Outfield Coach adam.mckinlay@rosemont.edu
+• Pete Fuller Pitching Coach peter.fuller@rosemont.edu
+• Kyle Lafferty Assistant Men's Basketball Coach Kyle.Lafferty@rosemont.edu
+• Brian Mangam Volunteer Assistant Coach Brian.Mangam@rosemont.edu
+• Lou Viola Head Softball Coach Lou.Viola@rosemont.edu
+• Erin Schuler Head Women's Volleyball Coach erin.schuler@rosemont.edu
+• Brian Schuler Assistant Volleyball Coach Brian.Schuler@rosemont.edu

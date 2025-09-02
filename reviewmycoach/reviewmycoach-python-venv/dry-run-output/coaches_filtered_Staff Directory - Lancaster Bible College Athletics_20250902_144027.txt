@@ -1,0 +1,401 @@
+COACH ENTRIES FOUND - 2025-09-02 14:40:27
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Lancaster Bible College
+Organization: Lancaster Bible College Athletics
+
+Total coaches found: 49
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan MacFarlane
+   Email: rmacfarlane@lbc.edu
+   Username: rmacfarlane
+   Sports: Baseball
+   Title: Baseball Head Coach
+   Phone: 717.560.8200
+   Original line: Ryan MacFarlane Baseball Head Coach rmacfarlane@lbc.edu 717.560.8200
+
+2. Joe Mina
+   Email: jmina@lbc.edu
+   Username: jmina
+   Sports: Baseball
+   Title: Baseball Developmental Head Coach &
+   Phone: 443.417.6905
+   Original line: Joe Mina Baseball Developmental Head Coach & Recruiting Coordinator jmina@lbc.edu 443.417.6905
+
+3. Colin Brubaker
+   Email: colinbru11@gmail.com
+   Username: colinbru11
+   Sports: Baseball
+   Title: Baseball Assistant Coach - Pitchers & Catchers
+   Phone: 717.617.9307
+   Original line: Colin Brubaker Baseball Assistant Coach - Pitchers & Catchers colinbru11@gmail.com 717.617.9307
+
+4. Pitching Development
+   Email: bryceeberly@gmail.com
+   Username: bryceeberly
+   Sports: Baseball
+   Title: Bryce Eberly Baseball Assistant Coach
+   Phone: 717.742.7291
+   Original line: Bryce Eberly Baseball Assistant Coach - Pitching Development bryceeberly@gmail.com 717.742.7291
+
+5. Jon Mack
+   Email: jmack@lbc.edu
+   Username: jmack
+   Sports: Baseball
+   Title: Men's Basketball Head Coach
+   Phone: 717.560.8200
+   Original line: Jon Mack Men's Basketball Head Coach jmack@lbc.edu 717.560.8200
+
+6. Jackson Whitt
+   Email: jwhitt@lbc.edu
+   Username: jwhitt
+   Sports: Baseball
+   Title: Men's Basketball Lead Assistant Coach
+   Phone: 828.335.0166
+   Original line: Jackson Whitt Men's Basketball Lead Assistant Coach jwhitt@lbc.edu 828.335.0166
+
+7. Jordan Shewbridge
+   Email: shewbie2018@icloud.com
+   Username: shewbie2018
+   Sports: Baseball
+   Title: Men's Basketball Character Coach
+   Original line: Jordan Shewbridge Men's Basketball Character Coach shewbie2018@icloud.com
+
+8. Kel Brown
+   Email: adbrown@lbc.edu
+   Username: adbrown
+   Sports: Baseball
+   Title: Women's Basketball Head Coach
+   Phone: 717.560.8200
+   Original line: Kel Brown Women's Basketball Head Coach adbrown@lbc.edu 717.560.8200
+
+9. Jayneisha Davis
+   Email: jayneishadavis@gmail.com
+   Username: jayneishadavis
+   Sports: Baseball
+   Title: Women's Basketball Assistant Coach
+   Original line: Jayneisha Davis Women's Basketball Assistant Coach jayneishadavis@gmail.com
+
+10. Shelby McDowell
+   Email: mcdowellshelby@outlook.com
+   Username: mcdowellshelby
+   Sports: Baseball
+   Title: Women's Basketball Assistant Coach
+   Original line: Shelby McDowell Women's Basketball Assistant Coach mcdowellshelby@outlook.com
+
+11. Hope Hodges
+   Email: hodgeshope015@gmail.com
+   Username: hodgeshope015
+   Sports: Baseball
+   Title: Women's Basketball Assistant Coach
+   Original line: Hope Hodges Women's Basketball Assistant Coach hodgeshope015@gmail.com
+
+12. Kevin Hertzog
+   Email: khertzog@lbc.edu
+   Username: khertzog
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Kevin Hertzog Head Field Hockey Coach khertzog@lbc.edu
+
+13. Rob Rowe
+   Email: rrowe@lbc.edu
+   Username: rrowe
+   Sports: Football
+   Title: Men's & Women's Golf Head Coach
+   Phone: 717.341.2366
+   Original line: Rob Rowe Men's & Women's Golf Head Coach rrowe@lbc.edu 717.341.2366
+
+14. Tom Ardt
+   Email: tardt@lbc.edu
+   Username: tardt
+   Sports: Football
+   Title: Men's Soccer Head Coach
+   Phone: 717.560.8200
+   Original line: Tom Ardt Men's Soccer Head Coach tardt@lbc.edu 717.560.8200
+
+15. Joe Mazzeo
+   Email: joe@restoredinvestment.com
+   Username: joe
+   Sports: Football
+   Title: Men's Soccer Assistant Coach
+   Phone: 717.560.8267
+   Original line: Joe Mazzeo Men's Soccer Assistant Coach joe@restoredinvestment.com 717.560.8267
+
+16. Seth Lehman
+   Email: slehman@lbc.edu
+   Username: slehman
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Seth Lehman Head Women's Soccer Coach slehman@lbc.edu
+
+17. John Clemens
+   Email: jclemens@lbc.edu
+   Username: jclemens
+   Sports: Softball
+   Title: Softball Head Coach
+   Phone: 717.560.8200
+   Original line: John Clemens Softball Head Coach jclemens@lbc.edu 717.560.8200
+
+18. Lesley Clapp
+   Email: lclapp@fca.org
+   Username: lclapp
+   Sports: Softball
+   Title: Softball Character Coach
+   Phone: 781.264.2214
+   Original line: Lesley Clapp Softball Character Coach lclapp@fca.org 781.264.2214
+
+19. Devon Clemmer
+   Email: dclemmer@lbc.edu
+   Username: dclemmer
+   Sports: Softball
+   Title: Men's & Women's Tennis Head Coach
+   Phone: 717.690.5370
+   Original line: Devon Clemmer Men's & Women's Tennis Head Coach dclemmer@lbc.edu 717.690.5370
+
+20. Jade Brubaker
+   Email: jbrubaker@lbc.edu
+   Username: jbrubaker
+   Sports: Softball
+   Title: Men's Volleyball Head Coach
+   Phone: 717.560.8200
+   Original line: Jade Brubaker Men's Volleyball Head Coach jbrubaker@lbc.edu 717.560.8200
+
+21. Justin Brubaker
+   Email: jlbrubaker@lbc.edu
+   Username: jlbrubaker
+   Sports: Softball
+   Title: Men's Volleyball Assistant Coach
+   Phone: 215.534.8644
+   Original line: Justin Brubaker Men's Volleyball Assistant Coach jlbrubaker@lbc.edu 215.534.8644
+
+22. Julie Brubaker
+   Email: jbbrubaker@lbc.edu
+   Username: jbbrubaker
+   Sports: Softball
+   Title: Women's Volleyball Head Coach
+   Phone: 717.560.8200
+   Original line: Julie Brubaker Women's Volleyball Head Coach jbbrubaker@lbc.edu 717.560.8200
+
+23. Justin Brubaker
+   Email: jlbrubaker@lbc.edu
+   Username: jlbrubaker
+   Sports: Softball
+   Title: Women's Volleyball Assistant Coach
+   Phone: 215.534.8644
+   Original line: Justin Brubaker Women's Volleyball Assistant Coach jlbrubaker@lbc.edu 215.534.8644
+
+24. Kaitlyn Yates
+   Email: kgochenauer@lbc.edu
+   Username: kgochenauer
+   Sports: Softball
+   Title: Women's Volleyball Assistant Coach
+   Phone: 717.560.8267
+   Original line: Kaitlyn Yates Women's Volleyball Assistant Coach kgochenauer@lbc.edu 717.560.8267
+
+25. Nick Wilson
+   Email: newilson@lbc.edu
+   Username: newilson
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Colin Myers Baseball Assistant Coach newilson@lbc.edu
+
+26. Luke Beers
+   Email: 
+   Username: luke.beers
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Luke Beers Men's Basketball Assistant Coach
+
+27. Silas Eckenroad
+   Email: 
+   Username: silas.eckenroad
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Silas Eckenroad Men's & Women's Cross Country Head Coach
+
+28. Haley Stahl
+   Email: 
+   Username: haley.stahl
+   Sports: Track & Field, Hockey
+   Title: Assistant Coach
+   Original line: Haley Stahl Field Hockey Assistant Coach
+
+29. Melissa Baughman
+   Email: mbaughman@lbc.edu
+   Username: mbaughman
+   Sports: Soccer
+   Title: Ashlee Conrad Head Flag Football Coach
+   Original line: Ashlee Conrad Head Flag Football Coach mbaughman@lbc.edu
+
+30. Gracie Flag
+   Email: 
+   Username: gracie.flag
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gracie Sareyka Flag Football Assistant Coach
+
+31. Ryan Flag
+   Email: 
+   Username: ryan.flag
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Salmon Flag Football Assistant Coach
+
+32. Merci Student
+   Email: 
+   Username: merci.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Merci Craft Flag Football Student-Assistant Coach
+
+33. Jocelyn Volunteer
+   Email: 
+   Username: jocelyn.volunteer
+   Sports: Golf
+   Title: Assistant Coach
+   Original line: Jocelyn Abel Men's & Women's Golf Volunteer Assistant Coach
+
+34. Bryan Volunteer
+   Email: 
+   Username: bryan.volunteer
+   Sports: Golf
+   Title: Assistant Coach
+   Original line: Bryan Allain Men's & Women's Golf Volunteer Assistant Coach
+
+35. Josue Goalkeeper
+   Email: 
+   Username: josue.goalkeeper
+   Sports: Soccer
+   Title: s Soccer Goalkeeper Coach
+   Original line: Josue Bosque Men's Soccer Goalkeeper Coach
+
+36. Nate Muckle
+   Email: 
+   Username: nate.muckle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nate Muckle Men's Soccer Assistant Coach
+
+37. Kendal Ream-Gerber
+   Email: 
+   Username: kendal.ream.gerber
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kendal Ream-Gerber Women's Soccer Assistant Coach
+
+38. Keith Munshower
+   Email: 
+   Username: keith.munshower
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Keith Munshower Women's Soccer Assistant Coach
+
+39. Jeff Volunteer
+   Email: 
+   Username: jeff.volunteer
+   Sports: Softball
+   Title: Jeff Cellucci Softballl Volunteer Assistant - Pitching Coach
+   Original line: Jeff Cellucci Softballl Volunteer Assistant - Pitching Coach
+
+40. Phoebe Clemens
+   Email: 
+   Username: phoebe.clemens
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Phoebe Clemens Softball Assistant Coach
+
+41. Brian Coburn
+   Email: 
+   Username: brian.coburn
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Brian Coburn Softball Assistant Coach
+
+42. Zach Clemens
+   Email: 
+   Username: zach.clemens
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Zach Clemens Softball Assistant Coach
+
+43. Jon Bird
+   Email: 
+   Username: jon.bird
+   Sports: Track & Field, Rowing
+   Title: Assistant Coach - Throwing
+   Original line: Jon Bird Men's & Women's Track & Field Assistant Coach - Throwing 717.560.8267
+
+44. Noelle Daudt
+   Email: 
+   Username: noelle.daudt
+   Sports: Track & Field
+   Title: Assistant Coach - Pole Vault
+   Original line: Noelle Daudt Men's & Women's Track & Field Assistant Coach - Pole Vault
+
+45. Silas Eckenroad
+   Email: 
+   Username: silas.eckenroad
+   Sports: Track & Field
+   Title: Assistant Coach - Distance
+   Original line: Silas Eckenroad Men's & Women's Track & Field Assistant Coach - Distance
+
+46. Isabelle Warren
+   Email: 
+   Username: isabelle.warren
+   Sports: Track & Field
+   Title: Assistant Coach - Long & Triple Jump
+   Original line: Isabelle Warren Men's & Women's Track & Field Assistant Coach - Long & Triple Jump
+
+47. Phil Horning
+   Email: 
+   Username: phil.horning
+   Sports: Track & Field
+   Title: Assistant Coach - High Jump
+   Original line: Phil Horning Men's & Women's Track & Field Assistant Coach - High Jump
+
+48. Greta Cruise
+   Email: 
+   Username: greta.cruise
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: Greta Cruise Men's & Women's Tennis Assistant Coach
+
+49. Brian Kemrer
+   Email: 
+   Username: brian.kemrer
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Brian Kemrer Men's Volleyball Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan MacFarlane Baseball Head Coach rmacfarlane@lbc.edu 717.560.8200
+• Joe Mina Baseball Developmental Head Coach & Recruiting Coordinator jmina@lbc.edu 443.417.6905
+• Colin Brubaker Baseball Assistant Coach - Pitchers & Catchers colinbru11@gmail.com 717.617.9307
+• Bryce Eberly Baseball Assistant Coach - Pitching Development bryceeberly@gmail.com 717.742.7291
+• Jon Mack Men's Basketball Head Coach jmack@lbc.edu 717.560.8200
+• Jackson Whitt Men's Basketball Lead Assistant Coach jwhitt@lbc.edu 828.335.0166
+• Jordan Shewbridge Men's Basketball Character Coach shewbie2018@icloud.com
+• Kel Brown Women's Basketball Head Coach adbrown@lbc.edu 717.560.8200
+• Jayneisha Davis Women's Basketball Assistant Coach jayneishadavis@gmail.com
+• Shelby McDowell Women's Basketball Assistant Coach mcdowellshelby@outlook.com
+• Hope Hodges Women's Basketball Assistant Coach hodgeshope015@gmail.com
+• Kevin Hertzog Head Field Hockey Coach khertzog@lbc.edu
+• Rob Rowe Men's & Women's Golf Head Coach rrowe@lbc.edu 717.341.2366
+• Tom Ardt Men's Soccer Head Coach tardt@lbc.edu 717.560.8200
+• Joe Mazzeo Men's Soccer Assistant Coach joe@restoredinvestment.com 717.560.8267
+• Seth Lehman Head Women's Soccer Coach slehman@lbc.edu
+• John Clemens Softball Head Coach jclemens@lbc.edu 717.560.8200
+• Lesley Clapp Softball Character Coach lclapp@fca.org 781.264.2214
+• Devon Clemmer Men's & Women's Tennis Head Coach dclemmer@lbc.edu 717.690.5370
+• Jade Brubaker Men's Volleyball Head Coach jbrubaker@lbc.edu 717.560.8200
+• Justin Brubaker Men's Volleyball Assistant Coach jlbrubaker@lbc.edu 215.534.8644
+• Julie Brubaker Women's Volleyball Head Coach jbbrubaker@lbc.edu 717.560.8200
+• Justin Brubaker Women's Volleyball Assistant Coach jlbrubaker@lbc.edu 215.534.8644
+• Kaitlyn Yates Women's Volleyball Assistant Coach kgochenauer@lbc.edu 717.560.8267

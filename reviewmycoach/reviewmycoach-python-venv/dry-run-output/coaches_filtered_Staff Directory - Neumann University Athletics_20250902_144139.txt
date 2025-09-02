@@ -1,0 +1,508 @@
+COACH ENTRIES FOUND - 2025-09-02 14:41:39
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Neumann University
+Organization: Neumann University Athletics
+
+Total coaches found: 63
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Grimes
+   Email: grimes@neumann.edu
+   Username: grimes
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: 484.840.4720
+   Original line: Scott Grimes Head Baseball Coach grimes@neumann.edu 484.840.4720
+
+2. John Merkh
+   Email: merkhj@neumann.edu
+   Username: merkhj
+   Sports: Baseball
+   Title: Assistant Baseball Coach /
+   Original line: John Merkh Assistant Baseball Coach / Recruiting Coordinator merkhj@neumann.edu
+
+3. Player 
+   Email: murphyj@neumann.edu
+   Username: murphyj
+   Sports: Baseball
+   Title: Jesse Murphy Assistant Baseball Coach / Director
+   Original line: Jesse Murphy Assistant Baseball Coach / Director of Player murphyj@neumann.edu
+
+4. David Alvarez
+   Email: alvarezd@neumann.edu
+   Username: alvarezd
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: David Alvarez Assistant Baseball Coach alvarezd@neumann.edu
+
+5. Jim Rullo
+   Email: rulloj@neumann.edu
+   Username: rulloj
+   Sports: Basketball (Men)
+   Title: Head Men's Basketball Coach
+   Phone: 484.840.4721
+   Original line: Jim Rullo Head Men's Basketball Coach rulloj@neumann.edu 484.840.4721
+
+6. Mary Beth
+   Email: mcnichom@neumann.edu
+   Username: mcnichom
+   Sports: Basketball (Men)
+   Title: McNichol Head Women's Basketball Coach
+   Phone: 484.840.4722
+   Original line: Mary Beth McNichol Head Women's Basketball Coach mcnichom@neumann.edu 484.840.4722
+
+7. Kacy Cellucci
+   Email: mcnichok@neumann.edu
+   Username: mcnichok
+   Sports: Basketball (Men)
+   Title: Assistant Women’s Basketball Coach
+   Original line: Kacy Cellucci Assistant Women’s Basketball Coach mcnichok@neumann.edu
+
+8. Chris Simpson
+   Email: simpsonc@neumann.edu
+   Username: simpsonc
+   Sports: Cross Country
+   Title: Head Men's and Women's Cross Country Coach
+   Phone: 484.840.4732
+   Original line: Chris Simpson Head Men's and Women's Cross Country Coach simpsonc@neumann.edu 484.840.4732
+
+9. Dana Ott
+   Email: ottd@neumann.edu
+   Username: ottd
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Phone: 484.840.4618
+   Original line: Dana Ott Head Field Hockey Coach ottd@neumann.edu 484.840.4618
+
+10. Nellie Mixon
+   Email: mixonn@neumann.edu
+   Username: mixonn
+   Sports: Football
+   Title: Head Women's Flag Football Coach
+   Original line: Nellie Mixon Head Women's Flag Football Coach mixonn@neumann.edu
+
+11. Michael Hedden
+   Email: heddenm@neumann.edu
+   Username: heddenm
+   Sports: Football
+   Title: Head Men's Ice Hockey Coach
+   Phone: 484.840.4713
+   Original line: Michael Hedden Head Men's Ice Hockey Coach heddenm@neumann.edu 484.840.4713
+
+12. Nate Dunning
+   Email: dunningn@neumann.edu
+   Username: dunningn
+   Sports: Football
+   Title: Assistant Men's Ice Hockey Coach
+   Original line: Nate Dunning Assistant Men's Ice Hockey Coach dunningn@neumann.edu
+
+13. Gina Kearns
+   Email: kearnsg@neumann.edu
+   Username: kearnsg
+   Sports: Football
+   Title: McLaughlin Head Women's Ice Hockey Coach
+   Phone: 484.840.4737
+   Original line: Gina Kearns McLaughlin Head Women's Ice Hockey Coach kearnsg@neumann.edu 484.840.4737
+
+14. Helen Dickerson
+   Email: cooneyh@neumann.edu
+   Username: cooneyh
+   Sports: Football
+   Title: Assistant Women's Ice Hockey Coach
+   Original line: Helen Dickerson Assistant Women's Ice Hockey Coach cooneyh@neumann.edu
+
+15. Marc Poust
+   Email: poustm@neumann.edu
+   Username: poustm
+   Sports: Lacrosse
+   Title: Head Men's Lacrosse Coach
+   Phone: 484.840.4703
+   Original line: Marc Poust Head Men's Lacrosse Coach poustm@neumann.edu 484.840.4703
+
+16. Connor Betts
+   Email: bettsc@neumann.edu
+   Username: bettsc
+   Sports: Lacrosse
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Connor Betts Assistant Men's Lacrosse Coach bettsc@neumann.edu
+
+17. Jack Newswenger
+   Email: newswanm@neumann.edu
+   Username: newswanm
+   Sports: Lacrosse
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Jack Newswenger Assistant Men's Lacrosse Coach newswanm@neumann.edu
+
+18. Jackie Neary
+   Email: nearyj@neumann.edu
+   Username: nearyj
+   Sports: Lacrosse (Women)
+   Title: Head Women's Lacrosse Coach
+   Phone: 484.840.4729
+   Original line: Jackie Neary Head Women's Lacrosse Coach nearyj@neumann.edu 484.840.4729
+
+19. Macaul Mellor
+   Email: mellorm@neumann.edu
+   Username: mellorm
+   Sports: Lacrosse (Women)
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Macaul Mellor Assistant Women's Lacrosse Coach mellorm@neumann.edu
+
+20. Erik Temple
+   Email: templee@neumann.edu
+   Username: templee
+   Sports: Soccer (Men)
+   Title: Head Men's Soccer Coach
+   Phone: 484.840.4728
+   Original line: Erik Temple Head Men's Soccer Coach templee@neumann.edu 484.840.4728
+
+21. Zack Swarbrick
+   Email: swarbriz@neumann.edu
+   Username: swarbriz
+   Sports: Soccer (Men)
+   Title: Assistant Men's Soccer Coach
+   Original line: Zack Swarbrick Assistant Men's Soccer Coach swarbriz@neumann.edu
+
+22. Daniel Lewis
+   Email: lewisd@neumann.edu
+   Username: lewisd
+   Sports: Soccer (Men)
+   Title: Assistant Men's Soccer Coach
+   Original line: Daniel Lewis Assistant Men's Soccer Coach lewisd@neumann.edu
+
+23. Kurt Nusshag
+   Email: nusshagk@neumann.edu
+   Username: nusshagk
+   Sports: Soccer (Men)
+   Title: Head Women's Soccer Coach
+   Original line: Kurt Nusshag Head Women's Soccer Coach nusshagk@neumann.edu
+
+24. Tim Brokopp
+   Email: brokoppt@neumann.edu
+   Username: brokoppt
+   Sports: Soccer (Men)
+   Title: Assistant Women's Soccer Coach
+   Original line: Tim Brokopp Assistant Women's Soccer Coach brokoppt@neumann.edu
+
+25. Shannon Padula
+   Email: padulas@neumann.edu
+   Username: padulas
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: 484.840.4702
+   Original line: Shannon Padula Head Softball Coach padulas@neumann.edu 484.840.4702
+
+26. Kaitlyn Beers
+   Email: beersk@neumann.edu
+   Username: beersk
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Kaitlyn Beers Assistant Softball Coach beersk@neumann.edu
+
+27. Alli Bascunan
+   Email: bascunaa@neumann.edu
+   Username: bascunaa
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Alli Bascunan Assistant Softball Coach bascunaa@neumann.edu
+
+28. Jason Petrin
+   Email: petrinj@neumann.edu
+   Username: petrinj
+   Sports: Softball
+   Title: Head Men's Tennis Coach
+   Original line: Jason Petrin Head Men's Tennis Coach petrinj@neumann.edu
+
+29. Jason Petrin
+   Email: petrinj@neumann.edu
+   Username: petrinj
+   Sports: Softball
+   Title: Head Women's Tennis Coach
+   Original line: Jason Petrin Head Women's Tennis Coach petrinj@neumann.edu
+
+30. Chris Simpson
+   Email: simpsonc@neumann.edu
+   Username: simpsonc
+   Sports: Track & Field
+   Title: Head Men’s and Women's Track & Field Coach
+   Phone: 484.840.4732
+   Original line: Chris Simpson Head Men’s and Women's Track & Field Coach simpsonc@neumann.edu 484.840.4732
+
+31. Kiriam Yordan
+   Email: yordank@neumann.edu
+   Username: yordank
+   Sports: Volleyball
+   Title: Head Men's Volleyball Coach
+   Original line: Kiriam Yordan Head Men's Volleyball Coach yordank@neumann.edu
+
+32. Alicia MacGlaughlin
+   Email: macglaua@neumann.edu
+   Username: macglaua
+   Sports: Volleyball
+   Title: Head Women's Volleyball Coach
+   Phone: 484.840.4733
+   Original line: Alicia MacGlaughlin Head Women's Volleyball Coach macglaua@neumann.edu 484.840.4733
+
+33. Joie Townsend
+   Email: townsenj@neumann.edu
+   Username: townsenj
+   Sports: Volleyball
+   Title: Head Cheer Team Coach
+   Original line: Joie Townsend Head Cheer Team Coach townsenj@neumann.edu
+
+34. Kemba Daniels
+   Email: danielsk@neumann.edu
+   Username: danielsk
+   Sports: Volleyball
+   Title: Head Dance Team Coach
+   Original line: Kemba Daniels Head Dance Team Coach danielsk@neumann.edu
+
+35. Derek Bosworth
+   Email: boswortd@neumann.edu
+   Username: boswortd
+   Sports: Volleyball
+   Title: Head eSports Club Coach
+   Original line: Derek Bosworth Head eSports Club Coach boswortd@neumann.edu
+
+36. Steve Mescanti
+   Email: mescants@neumann.edu
+   Username: mescants
+   Sports: Volleyball
+   Title: Head Club Ice Hockey Coach
+   Original line: Steve Mescanti Head Club Ice Hockey Coach mescants@neumann.edu
+
+37. Lee Strofe
+   Email: strofel@neumann.edu
+   Username: strofel
+   Sports: Volleyball
+   Title: Head Roller Hockey Coach
+   Phone: 610.348.8381
+   Original line: Lee Strofe Head Roller Hockey Coach strofel@neumann.edu 610.348.8381
+
+38. Tom Fabian
+   Email: 
+   Username: tom.fabian
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Tom Fabian Assistant Men's Basketball Coach
+
+39. Ishmael Marshall
+   Email: 
+   Username: ishmael.marshall
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Ishmael Marshall Assistant Men's Basketball Coach
+
+40. Billy Chaplain
+   Email: ritcheyw@neumann.edu
+   Username: ritcheyw
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Brooke Keith Assistant Women's Basketball Coach ritcheyw@neumann.edu
+
+41. Ryan Carter
+   Email: 
+   Username: ryan.carter
+   Sports: Cross Country
+   Title: s Cross Country Coach
+   Original line: Ryan Carter Assistant Men's and Women's Cross Country Coach
+
+42. Linda OSF
+   Email: ldecero@neumann.edu
+   Username: ldecero
+   Sports: Track & Field, Hockey
+   Title: Sara Hussey Assistant Field Hockey Coach
+   Original line: Sara Hussey Assistant Field Hockey Coach ldecero@neumann.edu
+
+43. Courtney Keith
+   Email: 
+   Username: courtney.keith
+   Sports: Track & Field, Hockey
+   Title: Courtney Keith Assistant Field Hockey Coach
+   Original line: Courtney Keith Assistant Field Hockey Coach
+
+44. Natalie Chaplain
+   Email: vanwykn@neumann.edu
+   Username: vanwykn
+   Sports: Hockey
+   Title: s Ice Hockey Coach
+   Original line: Shayne Morrissey Assistant Men's Ice Hockey Coach vanwykn@neumann.edu
+
+45. Tim Corrozi
+   Email: corrozit@neumann.edu
+   Username: corrozit
+   Sports: Hockey
+   Title: s Ice Hockey Coach
+   Original line: Grace Klienbach Assistant Women's Ice Hockey Coach corrozit@neumann.edu
+
+46. Annie O'Malley
+   Email: omalleya@neumann.edu
+   Username: omalleya
+   Sports: Hockey
+   Title: s Ice Hockey Coach
+   Original line: Braeden Ott Assistant Women's Ice Hockey Coach omalleya@neumann.edu
+
+47. Kyra Filighera
+   Email: 
+   Username: kyra.filighera
+   Sports: Hockey
+   Title: s Ice Hockey Coach
+   Original line: Kyra Filighera Assistant Women's Ice Hockey Coach
+
+48. Dalton Hofmann
+   Email: 
+   Username: dalton.hofmann
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Dalton Hofmann Assistant Men's Lacrosse Coach
+
+49. Sean Ralph
+   Email: 
+   Username: sean.ralph
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Sean Ralph Assistant Women's Lacrosse Coach
+
+50. Jamie Gillen
+   Email: 
+   Username: jamie.gillen
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Jamie Gillen Assistant Women's Lacrosse Coach
+
+51. Melissa Michaels
+   Email: 
+   Username: melissa.michaels
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Melissa Michaels Assistant Women's Lacrosse Coach
+
+52. Scott Bogard
+   Email: sbogard@neumann.edu
+   Username: sbogard
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Jackie E. Neary Assistant Women's Lacrosse Coach sbogard@neumann.edu
+
+53. Brian O’Doherty
+   Email: odohertb@neumann.edu
+   Username: odohertb
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Shea Neary Assistant Women's Lacrosse Coach odohertb@neumann.edu
+
+54. Marguerite OSF
+   Email: mobeirne@neumann.edu
+   Username: mobeirne
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Daniel Rival Assistant Men's Soccer Coach mobeirne@neumann.edu
+
+55. Dean Temple
+   Email: 
+   Username: dean.temple
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Dean Temple Assistant Men's Soccer Coach
+
+56. Mike Havel
+   Email: 
+   Username: mike.havel
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Mike Havel Assistant Women's Soccer Coach
+
+57. Ryan Carter
+   Email: 
+   Username: ryan.carter
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Ryan Carter Assistant Men's and Women's Track & Field Coach
+
+58. Lorielle LaForest
+   Email: 
+   Username: lorielle.laforest
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Lorielle LaForest Assistant Men's and Women's Track & Field Coach
+
+59. Ryan Savitz
+   Email: savitzr@neumann.edu
+   Username: savitzr
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Melissa Algeo Assistant Women's Volleyball Coach savitzr@neumann.edu
+
+60. Carissa Biddle
+   Email: 
+   Username: carissa.biddle
+   Sports: Soccer
+   Title: Carissa Biddle Assistant Cheer Team Coach
+   Original line: Carissa Biddle Assistant Cheer Team Coach
+
+61. Natalie Hummel
+   Email: 
+   Username: natalie.hummel
+   Sports: Soccer
+   Title: Natalie Hummel Assistant Dance Team Coach
+   Original line: Natalie Hummel Assistant Dance Team Coach
+
+62. Chris Francis
+   Email: 
+   Username: chris.francis
+   Sports: Hockey
+   Title: Chris Francis Assistant Club Ice Hockey Coach
+   Original line: Chris Francis Assistant Club Ice Hockey Coach
+
+63. Ronald Putter
+   Email: 
+   Username: ronald.putter
+   Sports: Hockey
+   Title: Ronald Putter Assistant Roller Hockey Coach
+   Original line: Ronald Putter Assistant Roller Hockey Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Grimes Head Baseball Coach grimes@neumann.edu 484.840.4720
+• John Merkh Assistant Baseball Coach / Recruiting Coordinator merkhj@neumann.edu
+• Jesse Murphy Assistant Baseball Coach / Director of Player murphyj@neumann.edu
+• David Alvarez Assistant Baseball Coach alvarezd@neumann.edu
+• Jim Rullo Head Men's Basketball Coach rulloj@neumann.edu 484.840.4721
+• Mary Beth McNichol Head Women's Basketball Coach mcnichom@neumann.edu 484.840.4722
+• Kacy Cellucci Assistant Women’s Basketball Coach mcnichok@neumann.edu
+• Chris Simpson Head Men's and Women's Cross Country Coach simpsonc@neumann.edu 484.840.4732
+• Dana Ott Head Field Hockey Coach ottd@neumann.edu 484.840.4618
+• Nellie Mixon Head Women's Flag Football Coach mixonn@neumann.edu
+• Michael Hedden Head Men's Ice Hockey Coach heddenm@neumann.edu 484.840.4713
+• Nate Dunning Assistant Men's Ice Hockey Coach dunningn@neumann.edu
+• Gina Kearns McLaughlin Head Women's Ice Hockey Coach kearnsg@neumann.edu 484.840.4737
+• Helen Dickerson Assistant Women's Ice Hockey Coach cooneyh@neumann.edu
+• Marc Poust Head Men's Lacrosse Coach poustm@neumann.edu 484.840.4703
+• Connor Betts Assistant Men's Lacrosse Coach bettsc@neumann.edu
+• Jack Newswenger Assistant Men's Lacrosse Coach newswanm@neumann.edu
+• Jackie Neary Head Women's Lacrosse Coach nearyj@neumann.edu 484.840.4729
+• Macaul Mellor Assistant Women's Lacrosse Coach mellorm@neumann.edu
+• Erik Temple Head Men's Soccer Coach templee@neumann.edu 484.840.4728
+• Zack Swarbrick Assistant Men's Soccer Coach swarbriz@neumann.edu
+• Daniel Lewis Assistant Men's Soccer Coach lewisd@neumann.edu
+• Kurt Nusshag Head Women's Soccer Coach nusshagk@neumann.edu
+• Tim Brokopp Assistant Women's Soccer Coach brokoppt@neumann.edu
+• Shannon Padula Head Softball Coach padulas@neumann.edu 484.840.4702
+• Kaitlyn Beers Assistant Softball Coach beersk@neumann.edu
+• Alli Bascunan Assistant Softball Coach bascunaa@neumann.edu
+• Jason Petrin Head Men's Tennis Coach petrinj@neumann.edu
+• Jason Petrin Head Women's Tennis Coach petrinj@neumann.edu
+• Chris Simpson Head Men’s and Women's Track & Field Coach simpsonc@neumann.edu 484.840.4732
+• Kiriam Yordan Head Men's Volleyball Coach yordank@neumann.edu
+• Alicia MacGlaughlin Head Women's Volleyball Coach macglaua@neumann.edu 484.840.4733
+• Joie Townsend Head Cheer Team Coach townsenj@neumann.edu
+• Kemba Daniels Head Dance Team Coach danielsk@neumann.edu
+• Derek Bosworth Head eSports Club Coach boswortd@neumann.edu
+• Steve Mescanti Head Club Ice Hockey Coach mescants@neumann.edu
+• Lee Strofe Head Roller Hockey Coach strofel@neumann.edu 610.348.8381

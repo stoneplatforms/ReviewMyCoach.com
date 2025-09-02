@@ -1,0 +1,762 @@
+COACH ENTRIES FOUND - 2025-09-02 14:41:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Fax: 717.691.2310 One University Ave., Suite 4501 Coach Login
+Organization: Messiah University Athletics
+
+Total coaches found: 99
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brad McCarty
+   Email: bmccarty@messiah.edu
+   Username: bmccarty
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Brad McCarty Head Coach, Associate Athletics Director for Facilities bmccarty@messiah.edu x.7054
+
+2. Brooke Good
+   Email: good@messiah.edu
+   Username: good
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Brooke Good Head Coach, Associate Athletics Director, SWA, Title IX Deputy good@messiah.edu x.7359
+
+3. Aaron Faro
+   Email: afaro@messiah.edu
+   Username: afaro
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Aaron Faro Associate Head Coach, Athletics Recruitment Coordinator, AROMA Director afaro@messiah.edu x.2690
+
+4. Sean Faculty
+   Email: sstrehlow@messiah.edu
+   Username: sstrehlow
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Strehlow Faculty Athletic Representative, Assistant Coach sstrehlow@messiah.edu x.3120
+
+5. Sam Rutan
+   Email: srutan@messiah.edu
+   Username: srutan
+   Sports: Strength & Conditioning
+   Title: Athletic Trainer / Strength Coach
+   Original line: Sam Rutan Athletic Trainer / Strength Coach srutan@messiah.edu x.7277
+
+6. Joshua Clarke
+   Email: jclarke@messiah.edu
+   Username: jclarke
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Joshua Clarke Head Coach, Aquatics Director jclarke@messiah.edu x.7313
+
+7. Phill Shallenberger
+   Email: pshallenberger@messiah.edu
+   Username: pshallenberger
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Phill Shallenberger Head Coach pshallenberger@messiah.edu
+
+8. Reed Wagner
+   Email: reed.wagner@messiah.edu
+   Username: reed.wagner
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Reed Wagner Assistant Coach reed.wagner@messiah.edu
+
+9. Josh Monturo
+   Email: jmonturo@messiah.edu
+   Username: jmonturo
+   Sports: Baseball
+   Title: Assistant Coach/Strength Coach
+   Original line: Josh Monturo Assistant Coach/Strength Coach jmonturo@messiah.edu
+
+10. Jacob Fleegle
+   Email: jfleegle@messiah.edu
+   Username: jfleegle
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jacob Fleegle Head Coach jfleegle@messiah.edu
+
+11. Kade Anzulavich
+   Email: Kade.Anzulavich@messiah.edu
+   Username: Kade.Anzulavich
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Kade Anzulavich Graduate Assistant Coach Kade.Anzulavich@messiah.edu
+
+12. Daane Harvey
+   Email: daane.harvey@messiah.edu
+   Username: daane.harvey
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Daane Harvey Graduate Assistant Coach daane.harvey@messiah.edu
+
+13. Mike Miller
+   Email: mmiller@messiah.edu
+   Username: mmiller
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Mike Miller Head Coach mmiller@messiah.edu x.3250
+
+14. Jodi Noble
+   Email: jnoble@messiah.edu
+   Username: jnoble
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jodi Noble Assistant Coach jnoble@messiah.edu x.7113
+
+15. Dale Fogelsanger
+   Email: dfogelsa@messiah.edu
+   Username: dfogelsa
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Dale Fogelsanger Head Coach dfogelsa@messiah.edu x.7034
+
+16. Emily Cornelius
+   Email: ecornelius@messiah.edu
+   Username: ecornelius
+   Sports: Cross Country
+   Title: Assistant Coach - Distance
+   Original line: Emily Cornelius Assistant Coach - Distance ecornelius@messiah.edu
+
+17. Ministry 
+   Email: rspeer@messiah.edu
+   Username: rspeer
+   Sports: Cross Country
+   Title: Ryan Speer Assistant Coach - Distance / AROMA Sports
+   Original line: Ryan Speer Assistant Coach - Distance / AROMA Sports Ministry Coordinator rspeer@messiah.edu x.7382
+
+18. Brooke Good
+   Email: good@messiah.edu
+   Username: good
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Brooke Good Head Coach, Associate Athletics Director, SWA, Title IX Deputy good@messiah.edu x.7359
+
+19. Kourtney Joyce
+   Email: kjoyce@messiah.edu
+   Username: kjoyce
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Kourtney Joyce Assistant Coach kjoyce@messiah.edu
+
+20. Ashley Matarrese
+   Email: amatarrese@messiah.edu
+   Username: amatarrese
+   Sports: Track & Field
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Ashley Matarrese Assistant Coach/Recruiting Coordinator amatarrese@messiah.edu
+
+21. Jerry Standford
+   Email: gstandford@messiah.edu
+   Username: gstandford
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Jerry Standford Head Coach gstandford@messiah.edu
+
+22. Heather Greer
+   Email: hmckay@messiah.edu
+   Username: hmckay
+   Sports: Track & Field
+   Title: McKay Head Coach
+   Original line: Heather (Greer) McKay Head Coach hmckay@messiah.edu x.2246
+
+23. Cheyenne Benson
+   Email: CBenson@messiah.edu
+   Username: CBenson
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Cheyenne Benson Assistant Coach CBenson@messiah.edu
+
+24. Brad McCarty
+   Email: bmccarty@messiah.edu
+   Username: bmccarty
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Brad McCarty Head Coach, Associate Athletics Director for Facilities bmccarty@messiah.edu x.7054
+
+25. Aaron Faro
+   Email: afaro@messiah.edu
+   Username: afaro
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Aaron Faro Associate Head Coach, Athletics Recruitment Coordinator, AROMA Director afaro@messiah.edu x.2690
+
+26. Scott Frey
+   Email: sfrey@messiah.edu
+   Username: sfrey
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Scott Frey Head Coach sfrey@messiah.edu x.5359
+
+27. Holly Hoy
+   Email: hburgard5@gmail.com
+   Username: hburgard5
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Holly Hoy Assistant Coach hburgard5@gmail.com
+
+28. Amy Weaver
+   Email: aweaver@messiah.edu
+   Username: aweaver
+   Sports: Softball
+   Title: Head Coach
+   Original line: Amy Weaver Head Coach aweaver@messiah.edu x.2160
+
+29. Alex Quigley
+   Email: aquigley@messiah.edu
+   Username: aquigley
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alex Quigley Assistant Coach aquigley@messiah.edu x.2160
+
+30. Joshua Clarke
+   Email: jclarke@messiah.edu
+   Username: jclarke
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Joshua Clarke Head Coach, Aquatics Director jclarke@messiah.edu x.7313
+
+31. Jon Arosell
+   Email: jarosell@messiah.edu
+   Username: jarosell
+   Sports: Swimming
+   Title: Head Coach
+   Phone: (717) 903-8391
+   Original line: Jon Arosell Head Coach jarosell@messiah.edu 717-903-8391
+
+32. Sean Faculty
+   Email: sstrehlow@messiah.edu
+   Username: sstrehlow
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Sean Strehlow Faculty Athletic Representative, Assistant Coach sstrehlow@messiah.edu x.3120
+
+33. Dale Fogelsanger
+   Email: dfogelsa@messiah.edu
+   Username: dfogelsa
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Dale Fogelsanger Head Coach dfogelsa@messiah.edu x.7034
+
+34. Bill Barko
+   Email: wbarko@messiah.edu
+   Username: wbarko
+   Sports: Track & Field
+   Title: Assistant Coach - Hurdles
+   Original line: Bill Barko Assistant Coach - Hurdles wbarko@messiah.edu x.7034
+
+35. Emily Cornelius
+   Email: ecornelius@messiah.edu
+   Username: ecornelius
+   Sports: Track & Field
+   Title: Assistant Coach - Distance
+   Original line: Emily Cornelius Assistant Coach - Distance ecornelius@messiah.edu
+
+36. Pole Vault
+   Email: dcornelius@messiah.edu
+   Username: dcornelius
+   Sports: Track & Field
+   Title: Dane Cornelius Assistant Coach
+   Original line: Dane Cornelius Assistant Coach - Pole Vault dcornelius@messiah.edu
+
+37. Matt Logan
+   Email: mlogan@messiah.edu
+   Username: mlogan
+   Sports: Track & Field
+   Title: Assistant Coach - Throws
+   Original line: Matt Logan Assistant Coach - Throws mlogan@messiah.edu
+
+38. Ministry 
+   Email: rspeer@messiah.edu
+   Username: rspeer
+   Sports: Track & Field
+   Title: Ryan Speer Assistant Coach - Distance / AROMA Sports
+   Original line: Ryan Speer Assistant Coach - Distance / AROMA Sports Ministry Coordinator rspeer@messiah.edu x.7382
+
+39. Brendan Ministry
+   Email: bprovan@messiah.edu
+   Username: bprovan
+   Sports: Track & Field
+   Title: Assistant Coach - Jumps
+   Original line: Brendan Provan AROMA Ministry Assistant / Strength Coach / Assistant Coach - Jumps, Sprints bprovan@messiah.edu
+
+40. Justin Beachy
+   Email: jbeachy@messiah.edu
+   Username: jbeachy
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Justin Beachy Head Coach jbeachy@messiah.edu x.2422
+
+41. Matt Marshall
+   Email: mmarshall@messiah.edu
+   Username: mmarshall
+   Sports: Track & Field
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Matt Marshall Assistant Coach/Recruiting Coordinator mmarshall@messiah.edu
+
+42. Holly Motheral
+   Email: hmotheral@messiah.edu
+   Username: hmotheral
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Holly Motheral Head Coach, AROMA Assistant Director hmotheral@messiah.edu x.2681
+
+43. Ester Talamo
+   Email: ester.talamo@messiah.edu
+   Username: ester.talamo
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Ester Talamo Assistant Coach ester.talamo@messiah.edu
+
+44. Bryan Brunk
+   Email: bbrunk@messiah.edu
+   Username: bbrunk
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Bryan Brunk Head Coach bbrunk@messiah.edu x.7097
+
+45. Aaron Faro
+   Email: afaro@messiah.edu
+   Username: afaro
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Aaron Faro Associate Head Coach, Athletics Recruitment Coordinator, AROMA Director afaro@messiah.edu x.2690
+
+46. Holly Motheral
+   Email: hmotheral@messiah.edu
+   Username: hmotheral
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Holly Motheral Head Coach, AROMA Assistant Director hmotheral@messiah.edu x.2681
+
+47. Ministry 
+   Email: rspeer@messiah.edu
+   Username: rspeer
+   Sports: Track & Field
+   Title: Ryan Speer Assistant Coach - Distance / AROMA Sports
+   Original line: Ryan Speer Assistant Coach - Distance / AROMA Sports Ministry Coordinator rspeer@messiah.edu x.7382
+
+48. Christine Faro
+   Email: cfaro@messiah.edu
+   Username: cfaro
+   Sports: Track & Field
+   Title: Strength Coach
+   Original line: Christine Faro Strength Coach cfaro@messiah.edu
+
+49. Broderic Keener
+   Email: bkeener@messiah.edu
+   Username: bkeener
+   Sports: Track & Field
+   Title: Strength Coach
+   Original line: Broderic Keener Strength Coach bkeener@messiah.edu
+
+50. Brendan Ministry
+   Email: bprovan@messiah.edu
+   Username: bprovan
+   Sports: Track & Field
+   Title: Assistant Coach - Jumps
+   Original line: Brendan Provan AROMA Ministry Assistant / Strength Coach / Assistant Coach - Jumps, Sprints bprovan@messiah.edu
+
+51. Josh Monturo
+   Email: jmonturo@messiah.edu
+   Username: jmonturo
+   Sports: Track & Field
+   Title: Assistant Coach/Strength Coach
+   Original line: Josh Monturo Assistant Coach/Strength Coach jmonturo@messiah.edu
+
+52. Sam Rutan
+   Email: srutan@messiah.edu
+   Username: srutan
+   Sports: Track & Field
+   Title: Athletic Trainer / Strength Coach
+   Original line: Sam Rutan Athletic Trainer / Strength Coach srutan@messiah.edu x.7277
+
+53. Sarah Executive
+   Email: sgustinhamrock@messiah.edu
+   Username: sgustinhamrock
+   Sports: Soccer
+   Title: Coach
+   Original line: Fax: 717.691.2310 One University Ave., Suite 4501 Coach Login sgustinhamrock@messiah.edu
+
+54. Nicole Kreimer
+   Email: nkreimer@messiah.edu
+   Username: nkreimer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joey Nieves-Markee Assistant Coach nkreimer@messiah.edu
+
+55. Jason Johnson
+   Email: 
+   Username: jason.johnson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jason Johnson Assistant Coach
+
+56. Ryan Clark
+   Email: 
+   Username: ryan.clark
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Clark Assistant Coach
+
+57. Jen Thuma
+   Email: jthuma@messiah.edu
+   Username: jthuma
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ben Weaver Assistant Coach jthuma@messiah.edu
+
+58. Taylor Keener
+   Email: 
+   Username: taylor.keener
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taylor Keener Assistant Coach
+
+59. Danae Hollenbach
+   Email: 
+   Username: danae.hollenbach
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Danae Hollenbach Assistant Coach
+
+60. Shelby Landes
+   Email: 
+   Username: shelby.landes
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shelby Landes Assistant Coach
+
+61. Kristin Beitz
+   Email: 
+   Username: kristin.beitz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kristin Beitz Assistant Coach
+
+62. Jen Jacobs
+   Email: 
+   Username: jen.jacobs
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jen Jacobs Assistant Coach
+
+63. Nate Jaloszynski
+   Email: 
+   Username: nate.jaloszynski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nate Jaloszynski Assistant Coach
+
+64. Mackenzie O'Haver
+   Email: 
+   Username: mackenzie.o.haver
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mackenzie O'Haver Assistant Coach
+
+65. Justin Johnson
+   Email: 
+   Username: justin.johnson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Justin Johnson Assistant Coach
+
+66. Benji Kennel
+   Email: 
+   Username: benji.kennel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Benji Kennel Assistant Coach
+
+67. Elijah Steffen
+   Email: 
+   Username: elijah.steffen
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Elijah Steffen Assistant Coach
+
+68. Trevor Goodling
+   Email: 
+   Username: trevor.goodling
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Trevor Goodling Assistant Coach
+
+69. Todd Balsbaugh
+   Email: 
+   Username: todd.balsbaugh
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Todd Balsbaugh Assistant Coach
+
+70. Lydia Watkins
+   Email: 
+   Username: lydia.watkins
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lydia Watkins Assistant Coach
+
+71. Brooke Thomas
+   Email: 
+   Username: brooke.thomas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brooke Thomas Assistant Coach
+
+72. Megan Owens
+   Email: 
+   Username: megan.owens
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Megan Owens Assistant Coach
+
+73. Ellie Brautigam
+   Email: 
+   Username: ellie.brautigam
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ellie Brautigam Assistant Coach
+
+74. Jenna Skurcenski
+   Email: 
+   Username: jenna.skurcenski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jenna Skurcenski Assistant Coach
+
+75. Taylor VT
+   Email: 
+   Username: taylor.vt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taylor Dorman VT Assistant Coach
+
+76. Jen VT
+   Email: 
+   Username: jen.vt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jen Quigley VT Assistant Coach
+
+77. Michaela Cotton
+   Email: 
+   Username: michaela.cotton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michaela Cotton Assistant Coach
+
+78. Brad Brubaker
+   Email: 
+   Username: brad.brubaker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brad Brubaker Assistant Coach
+
+79. Erin Darhower
+   Email: 
+   Username: erin.darhower
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erin Darhower P/T Assistant Coach
+
+80. Katie Kurtz
+   Email: 
+   Username: katie.kurtz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Katie Kurtz Assistant Coach
+
+81. Kara McKinney
+   Email: 
+   Username: kara.mckinney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kara McKinney Assistant Coach
+
+82. Jenks Landis
+   Email: 
+   Username: jenks.landis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jenks Landis Assistant Coach
+
+83. Dick Ocker
+   Email: 
+   Username: dick.ocker
+   Sports: Soccer
+   Title: Assistant Coach - Sprints
+   Original line: Dick Ocker Assistant Coach - Sprints
+
+84. Brady Miller
+   Email: 
+   Username: brady.miller
+   Sports: Soccer
+   Title: Assistant Coach - Sprints
+   Original line: Brady Miller Assistant Coach - Sprints
+
+85. Max 
+   Email: 
+   Username: max
+   Sports: Soccer
+   Title: Assistant Coach - Hurdles
+   Original line: Max Whitehead Assistant Coach - Hurdles
+
+86. Jenna Bur
+   Email: 
+   Username: jenna.bur
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jenna Bur Assistant Coach
+
+87. Caitlin Lielbriedis
+   Email: 
+   Username: caitlin.lielbriedis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caitlin Lielbriedis Assistant Coach
+
+88. Kate Howe
+   Email: 
+   Username: kate.howe
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kate Howe Assistant Coach
+
+89. Emma Graduate
+   Email: 
+   Username: emma.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emma Leitzel Graduate Assistant Coach
+
+90. Jake Coniglio
+   Email: 
+   Username: jake.coniglio
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Coniglio Assistant Coach
+
+91. Dee Evans
+   Email: 
+   Username: dee.evans
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dee Evans Assistant Coach
+
+92. Ben Kramer
+   Email: 
+   Username: ben.kramer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ben Kramer Assistant Coach
+
+93. Jake Lininger
+   Email: 
+   Username: jake.lininger
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Lininger Assistant Coach
+
+94. Josiah Gehr
+   Email: 
+   Username: josiah.gehr
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josiah Gehr Assistant Coach
+
+95. Andy Vogel
+   Email: 
+   Username: andy.vogel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andy Vogel Assistant Coach
+
+96. Colin Fegley
+   Email: 
+   Username: colin.fegley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Colin Fegley Assistant Coach
+
+97. Cam Deville
+   Email: 
+   Username: cam.deville
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cam Deville Assistant Coach
+
+98. Hayden Benner
+   Email: 
+   Username: hayden.benner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hayden Benner Assistant Coach
+
+99. Sawyer Dereszynski
+   Email: 
+   Username: sawyer.dereszynski
+   Sports: Strength & Conditioning
+   Title: Sawyer Dereszynski Strength Coach
+   Original line: Sawyer Dereszynski Strength Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brad McCarty Head Coach, Associate Athletics Director for Facilities bmccarty@messiah.edu x.7054
+• Brooke Good Head Coach, Associate Athletics Director, SWA, Title IX Deputy good@messiah.edu x.7359
+• Aaron Faro Associate Head Coach, Athletics Recruitment Coordinator, AROMA Director afaro@messiah.edu x.2690
+• Sean Strehlow Faculty Athletic Representative, Assistant Coach sstrehlow@messiah.edu x.3120
+• Sam Rutan Athletic Trainer / Strength Coach srutan@messiah.edu x.7277
+• Joshua Clarke Head Coach, Aquatics Director jclarke@messiah.edu x.7313
+• Phill Shallenberger Head Coach pshallenberger@messiah.edu
+• Reed Wagner Assistant Coach reed.wagner@messiah.edu
+• Josh Monturo Assistant Coach/Strength Coach jmonturo@messiah.edu
+• Jacob Fleegle Head Coach jfleegle@messiah.edu
+• Kade Anzulavich Graduate Assistant Coach Kade.Anzulavich@messiah.edu
+• Daane Harvey Graduate Assistant Coach daane.harvey@messiah.edu
+• Mike Miller Head Coach mmiller@messiah.edu x.3250
+• Jodi Noble Assistant Coach jnoble@messiah.edu x.7113
+• Dale Fogelsanger Head Coach dfogelsa@messiah.edu x.7034
+• Emily Cornelius Assistant Coach - Distance ecornelius@messiah.edu
+• Ryan Speer Assistant Coach - Distance / AROMA Sports Ministry Coordinator rspeer@messiah.edu x.7382
+• Brooke Good Head Coach, Associate Athletics Director, SWA, Title IX Deputy good@messiah.edu x.7359
+• Kourtney Joyce Assistant Coach kjoyce@messiah.edu
+• Ashley Matarrese Assistant Coach/Recruiting Coordinator amatarrese@messiah.edu
+• Jerry Standford Head Coach gstandford@messiah.edu
+• Heather (Greer) McKay Head Coach hmckay@messiah.edu x.2246
+• Cheyenne Benson Assistant Coach CBenson@messiah.edu
+• Brad McCarty Head Coach, Associate Athletics Director for Facilities bmccarty@messiah.edu x.7054
+• Aaron Faro Associate Head Coach, Athletics Recruitment Coordinator, AROMA Director afaro@messiah.edu x.2690
+• Scott Frey Head Coach sfrey@messiah.edu x.5359
+• Holly Hoy Assistant Coach hburgard5@gmail.com
+• Amy Weaver Head Coach aweaver@messiah.edu x.2160
+• Alex Quigley Assistant Coach aquigley@messiah.edu x.2160
+• Joshua Clarke Head Coach, Aquatics Director jclarke@messiah.edu x.7313
+• Jon Arosell Head Coach jarosell@messiah.edu 717-903-8391
+• Sean Strehlow Faculty Athletic Representative, Assistant Coach sstrehlow@messiah.edu x.3120
+• Dale Fogelsanger Head Coach dfogelsa@messiah.edu x.7034
+• Bill Barko Assistant Coach - Hurdles wbarko@messiah.edu x.7034
+• Emily Cornelius Assistant Coach - Distance ecornelius@messiah.edu
+• Dane Cornelius Assistant Coach - Pole Vault dcornelius@messiah.edu
+• Matt Logan Assistant Coach - Throws mlogan@messiah.edu
+• Ryan Speer Assistant Coach - Distance / AROMA Sports Ministry Coordinator rspeer@messiah.edu x.7382
+• Brendan Provan AROMA Ministry Assistant / Strength Coach / Assistant Coach - Jumps, Sprints bprovan@messiah.edu
+• Justin Beachy Head Coach jbeachy@messiah.edu x.2422
+• Matt Marshall Assistant Coach/Recruiting Coordinator mmarshall@messiah.edu
+• Holly Motheral Head Coach, AROMA Assistant Director hmotheral@messiah.edu x.2681
+• Ester Talamo Assistant Coach ester.talamo@messiah.edu
+• Bryan Brunk Head Coach bbrunk@messiah.edu x.7097
+• Aaron Faro Associate Head Coach, Athletics Recruitment Coordinator, AROMA Director afaro@messiah.edu x.2690
+• Holly Motheral Head Coach, AROMA Assistant Director hmotheral@messiah.edu x.2681
+• Ryan Speer Assistant Coach - Distance / AROMA Sports Ministry Coordinator rspeer@messiah.edu x.7382
+• Christine Faro Strength Coach cfaro@messiah.edu
+• Broderic Keener Strength Coach bkeener@messiah.edu
+• Brendan Provan AROMA Ministry Assistant / Strength Coach / Assistant Coach - Jumps, Sprints bprovan@messiah.edu
+• Josh Monturo Assistant Coach/Strength Coach jmonturo@messiah.edu
+• Sam Rutan Athletic Trainer / Strength Coach srutan@messiah.edu x.7277

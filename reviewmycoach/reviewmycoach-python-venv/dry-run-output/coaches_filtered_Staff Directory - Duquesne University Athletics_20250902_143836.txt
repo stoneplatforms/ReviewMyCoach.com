@@ -1,0 +1,475 @@
+COACH ENTRIES FOUND - 2025-09-02 14:38:37
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Duquesne University, a member of the National Collegiate Athletic Association (NCAA), sponsors 20 Division I sports (football competes in
+Organization: Duquesne University Athletics
+
+Total coaches found: 58
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chris Sports
+   Email: gilmanc@duq.edu
+   Username: gilmanc
+   Sports: Swimming
+   Title: Gilman Performance Coach
+   Original line: Chris Gilman Sports Performance Coach (WSoc, XC/T&F, Swimming & Diving) 412-396- gilmanc@duq.edu
+
+2. Liz Sports
+   Email: leee6@duq.edu
+   Username: leee6
+   Sports: Tennis, Golf
+   Title: Lee Performance Coach
+   Original line: Liz Lee Sports Performance Coach (WBB, VB, Tennis, WGolf) 412-396- leee6@duq.edu
+
+3. Austin Sports
+   Email: vaughana1@duq.edu
+   Username: vaughana1
+   Sports: Rowing
+   Title: Vaughan Performance Coach
+   Original line: Austin T. Vaughan Sports Performance Coach (MSoc, A&T, WLax, Rowing) 412-396- vaughana1@duq.edu
+
+4. Presley Sports
+   Email: gauchp@duq.edu
+   Username: gauchp
+   Sports: Soccer
+   Title: Gauch Performance Coach
+   Original line: Presley Gauch Sports Performance Coach (MBB, Triathlon, Bowling) 412-396- gauchp@duq.edu
+
+5. Michaela Soper
+   Email: soperm@duq.edu
+   Username: soperm
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Michaela Soper Head Coach soperm@duq.edu
+
+6. Nikki Pizzi
+   Email: pizzin@duq.edu
+   Username: pizzin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nikki Pizzi Assistant Coach pizzin@duq.edu
+
+7. Dru Joyce
+   Email: mensbasketball@duq.edu
+   Username: mensbasketball
+   Sports: Basketball
+   Title: Head Coach
+   Original line: Dru Joyce III Head Coach 412-396- mensbasketball@duq.edu
+
+8. Julian Sullinger
+   Email: mensbasketball@duq.edu
+   Username: mensbasketball
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Julian Sullinger Assistant Coach 412-396- mensbasketball@duq.edu
+
+9. Rick McFadden
+   Email: mensbasketball@duq.edu
+   Username: mensbasketball
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Rick McFadden Assistant Coach 412-396- mensbasketball@duq.edu
+
+10. Jordan Talley
+   Email: mensbasketball@duq.edu
+   Username: mensbasketball
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Jordan Talley Assistant Coach 412-396- mensbasketball@duq.edu
+
+11. Ari Stern
+   Email: mensbasketball@duq.edu
+   Username: mensbasketball
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Ari Stern Assistant Coach 412-396- mensbasketball@duq.edu
+
+12. Chase Goldstein
+   Email: mensbasketball@duq.edu
+   Username: mensbasketball
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Chase Goldstein Assistant Coach 412-396- mensbasketball@duq.edu
+
+13. Dan Burt
+   Email: burtd@duq.edu
+   Username: burtd
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dan Burt Head Coach burtd@duq.edu
+
+14. Rick Bell
+   Email: bellr2@duq.edu
+   Username: bellr2
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rick Bell Assistant Coach bellr2@duq.edu
+
+15. Frank Ferraro
+   Email: fferraro52@yahoo.com
+   Username: fferraro52
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Frank Ferraro Assistant Coach fferraro52@yahoo.com
+
+16. RJ Bell
+   Email: bellr3@duq.edu
+   Username: bellr3
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: RJ Bell Assistant Coach bellr3@duq.edu
+
+17. Brianna Thomas
+   Email: thomasb4@duq.edu
+   Username: thomasb4
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brianna Thomas Assistant Coach thomasb4@duq.edu
+
+18. Michaela Porter
+   Email: porterm5@duq.edu
+   Username: porterm5
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michaela Porter Assistant Coach porterm5@duq.edu
+
+19. Jody Fetterhoff
+   Email: fetterhoffj@duq.edu
+   Username: fetterhoffj
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jody Fetterhoff Head Coach 412-396- fetterhoffj@duq.edu
+
+20. Jeff Gibson
+   Email: gibsonj2@duq.edu
+   Username: gibsonj2
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Jeff Gibson Head Coach (Men's & Women's Cross Country, Track & Field) 412-818- gibsonj2@duq.edu
+
+21. Jim Spisak
+   Email: spisakj@duq.edu
+   Username: spisakj
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Jim Spisak Assistant Coach (Distance) spisakj@duq.edu
+
+22. Jerry Schmitt
+   Email: duqfbrecruit@duq.edu
+   Username: duqfbrecruit
+   Sports: Football
+   Title: Head Coach
+   Original line: Jerry Schmitt Head Coach 412-396- duqfbrecruit@duq.edu
+
+23. Mike Silianoff
+   Email: duqfbrecruit@duq.edu
+   Username: duqfbrecruit
+   Sports: Football
+   Title: Head Coach / Offensive Line
+   Original line: Mike Silianoff Assistant Head Coach / Offensive Line 412-396- duqfbrecruit@duq.edu
+
+24. Colleen Meyers
+   Email: meyersc1@duq.edu
+   Username: meyersc1
+   Sports: Football
+   Title: Head Coach
+   Original line: Colleen Meyers Head Coach 412-396- meyersc1@duq.edu
+
+25. James Meyers
+   Email: meyerj5@duq.edu
+   Username: meyerj5
+   Sports: Football
+   Title: Assistant Coach
+   Original line: James Meyers Assistant Coach 412-396- meyerj5@duq.edu
+
+26. Tracy Coyne
+   Email: coynet1@duq.edu
+   Username: coynet1
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Tracy Coyne Head Coach coynet1@duq.edu
+
+27. Elise Jackins
+   Email: jackinse@duq.edu
+   Username: jackinse
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Elise Jackins Assistant Coach jackinse@duq.edu
+
+28. Lily Miller
+   Email: millerl36@duq.edu
+   Username: millerl36
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Lily Miller Assistant Coach millerl36@duq.edu
+
+29. Matt Carlsen
+   Email: carlsenm@duq.edu
+   Username: carlsenm
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Matt Carlsen Head Coach 412-396- carlsenm@duq.edu
+
+30. Stephen Eckstein
+   Email: ecksteins@duq.edu
+   Username: ecksteins
+   Sports: Lacrosse
+   Title: Head Coach / Recruiting Coordinator
+   Original line: Stephen Eckstein Associate Head Coach / Recruiting Coordinator 317-941- ecksteins@duq.edu
+
+31. Isabella Abbott
+   Email: abbotti@duq.edu
+   Username: abbotti
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Isabella Abbott Assistant Coach 412-396- abbotti@duq.edu
+
+32. Morgan Szucs
+   Email: scuzsm1@duq.edu
+   Username: scuzsm1
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Morgan Szucs Assistant Coach 412-396- scuzsm1@duq.edu
+
+33. Chase Brooks
+   Email: brooksc1@duq.edu
+   Username: brooksc1
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Chase Brooks Head Coach 412-396- brooksc1@duq.edu
+
+34. Adam Mitchell
+   Email: mitchella5@duq.edu
+   Username: mitchella5
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Adam Mitchell Assistant Coach 412-396- mitchella5@duq.edu
+
+35. James Faint
+   Email: faintj@duq.edu
+   Username: faintj
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: James Faint Assistant Coach 412-396- faintj@duq.edu
+
+36. Grant Glorioso
+   Email: gloriosog@duq.edu
+   Username: gloriosog
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Grant Glorioso Assistant Coach 412-396- gloriosog@duq.edu
+
+37. Jessica Giegucz
+   Email: gieguczj@duq.edu
+   Username: gieguczj
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Jessica Giegucz Head Coach 412-396- gieguczj@duq.edu
+
+38. Gabe Kleinert
+   Email: kleinertg@duq.edu
+   Username: kleinertg
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Gabe Kleinert Assistant Coach 412-396- kleinertg@duq.edu
+
+39. Bella DeFabbo
+   Email: defabboi@duq.edu
+   Username: defabboi
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Bella DeFabbo Assistant Coach 412-396- defabboi@duq.edu
+
+40. David Sheets
+   Email: sheets@duq.edu
+   Username: sheets
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: David Sheets Head Coach 412-396- sheets@duq.edu
+
+41. Matthew Brinton
+   Email: brintonm@duq.edu
+   Username: brintonm
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Matthew Brinton Assistant Coach brintonm@duq.edu
+
+42. Alexa Gonczi
+   Email: gonczia@duq.edu
+   Username: gonczia
+   Sports: Lacrosse
+   Title: Diving Coach
+   Original line: Alexa Gonczi Diving Coach gonczia@duq.edu
+
+43. George Dieffenbach
+   Email: dieffenbachg@duq.edu
+   Username: dieffenbachg
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: George Dieffenbach Assistant Coach 412-396- dieffenbachg@duq.edu
+
+44. George Stephens
+   Email: stephensg@duq.edu
+   Username: stephensg
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: George Stephens Assistant Coach (Women's) stephensg@duq.edu
+
+45. Eric Sturgis
+   Email: sturgise@duq.edu
+   Username: sturgise
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Eric Sturgis Assistant Coach (Men's) sturgise@duq.edu
+
+46. Jeff Gibson
+   Email: gibsonj2@duq.edu
+   Username: gibsonj2
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Jeff Gibson Head Coach (Men's & Women's Cross Country, Track & Field) 412-818- gibsonj2@duq.edu
+
+47. Brian Reed
+   Email: reedb2@duq.edu
+   Username: reedb2
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Brian Reed Assistant Coach (Sprints, Hurdles, Relays) 412-396- reedb2@duq.edu
+
+48. Shannon Taub
+   Email: taubs@duq.edu
+   Username: taubs
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Shannon Taub Assistant Coach (Multi/Throws/Jumps) 412-417- taubs@duq.edu
+
+49. Jim Spisak
+   Email: spisakj@duq.edu
+   Username: spisakj
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jim Spisak Assistant Coach (Distance) spisakj@duq.edu
+
+50. Joella Baker
+   Email: richardbakerj@duq.edu
+   Username: richardbakerj
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Joella Baker Head Coach richardbakerj@duq.edu
+
+51. Steve Opperman
+   Email: opperman@duq.edu
+   Username: opperman
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Steve Opperman Head Coach 412-396- opperman@duq.edu
+
+52. Hunter Rock
+   Email: rockh@duq.edu
+   Username: rockh
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Hunter Rock Assistant Coach rockh@duq.edu
+
+53. Alyson Londot
+   Email: londota@duq.edu
+   Username: londota
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Alyson Londot Assistant Coach londota@duq.edu
+
+54. Corbin Padgett
+   Email: ticketservices@duq.edu
+   Username: ticketservices
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mikayla Vecchio Assistant Coach ticketservices@duq.edu
+
+55. Budi Susanto
+   Email: susantob@duq.edu
+   Username: susantob
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dane Bendel Assistant Coach (Men's) susantob@duq.edu
+
+56. Dorothy Volunteer
+   Email: 
+   Username: dorothy.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dorothy Dohanics Volunteer Assistant Coach (Women's)
+
+57. Colin Ebling
+   Email: 
+   Username: colin.ebling
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Colin Ebling Assistant Coach
+
+58. Sean Battis
+   Email: 
+   Username: sean.battis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Battis Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chris Gilman Sports Performance Coach (WSoc, XC/T&F, Swimming & Diving) 412-396- gilmanc@duq.edu
+• Liz Lee Sports Performance Coach (WBB, VB, Tennis, WGolf) 412-396- leee6@duq.edu
+• Austin T. Vaughan Sports Performance Coach (MSoc, A&T, WLax, Rowing) 412-396- vaughana1@duq.edu
+• Presley Gauch Sports Performance Coach (MBB, Triathlon, Bowling) 412-396- gauchp@duq.edu
+• Michaela Soper Head Coach soperm@duq.edu
+• Nikki Pizzi Assistant Coach pizzin@duq.edu
+• Dru Joyce III Head Coach 412-396- mensbasketball@duq.edu
+• Julian Sullinger Assistant Coach 412-396- mensbasketball@duq.edu
+• Rick McFadden Assistant Coach 412-396- mensbasketball@duq.edu
+• Jordan Talley Assistant Coach 412-396- mensbasketball@duq.edu
+• Ari Stern Assistant Coach 412-396- mensbasketball@duq.edu
+• Chase Goldstein Assistant Coach 412-396- mensbasketball@duq.edu
+• Dan Burt Head Coach burtd@duq.edu
+• Rick Bell Assistant Coach bellr2@duq.edu
+• Frank Ferraro Assistant Coach fferraro52@yahoo.com
+• RJ Bell Assistant Coach bellr3@duq.edu
+• Brianna Thomas Assistant Coach thomasb4@duq.edu
+• Michaela Porter Assistant Coach porterm5@duq.edu
+• Jody Fetterhoff Head Coach 412-396- fetterhoffj@duq.edu
+• Jeff Gibson Head Coach (Men's & Women's Cross Country, Track & Field) 412-818- gibsonj2@duq.edu
+• Jim Spisak Assistant Coach (Distance) spisakj@duq.edu
+• Jerry Schmitt Head Coach 412-396- duqfbrecruit@duq.edu
+• Mike Silianoff Assistant Head Coach / Offensive Line 412-396- duqfbrecruit@duq.edu
+• Colleen Meyers Head Coach 412-396- meyersc1@duq.edu
+• James Meyers Assistant Coach 412-396- meyerj5@duq.edu
+• Tracy Coyne Head Coach coynet1@duq.edu
+• Elise Jackins Assistant Coach jackinse@duq.edu
+• Lily Miller Assistant Coach millerl36@duq.edu
+• Matt Carlsen Head Coach 412-396- carlsenm@duq.edu
+• Stephen Eckstein Associate Head Coach / Recruiting Coordinator 317-941- ecksteins@duq.edu
+• Isabella Abbott Assistant Coach 412-396- abbotti@duq.edu
+• Morgan Szucs Assistant Coach 412-396- scuzsm1@duq.edu
+• Chase Brooks Head Coach 412-396- brooksc1@duq.edu
+• Adam Mitchell Assistant Coach 412-396- mitchella5@duq.edu
+• James Faint Assistant Coach 412-396- faintj@duq.edu
+• Grant Glorioso Assistant Coach 412-396- gloriosog@duq.edu
+• Jessica Giegucz Head Coach 412-396- gieguczj@duq.edu
+• Gabe Kleinert Assistant Coach 412-396- kleinertg@duq.edu
+• Bella DeFabbo Assistant Coach 412-396- defabboi@duq.edu
+• David Sheets Head Coach 412-396- sheets@duq.edu
+• Matthew Brinton Assistant Coach brintonm@duq.edu
+• Alexa Gonczi Diving Coach gonczia@duq.edu
+• George Dieffenbach Assistant Coach 412-396- dieffenbachg@duq.edu
+• George Stephens Assistant Coach (Women's) stephensg@duq.edu
+• Eric Sturgis Assistant Coach (Men's) sturgise@duq.edu
+• Jeff Gibson Head Coach (Men's & Women's Cross Country, Track & Field) 412-818- gibsonj2@duq.edu
+• Brian Reed Assistant Coach (Sprints, Hurdles, Relays) 412-396- reedb2@duq.edu
+• Shannon Taub Assistant Coach (Multi/Throws/Jumps) 412-417- taubs@duq.edu
+• Jim Spisak Assistant Coach (Distance) spisakj@duq.edu
+• Joella Baker Head Coach richardbakerj@duq.edu
+• Steve Opperman Head Coach 412-396- opperman@duq.edu
+• Hunter Rock Assistant Coach rockh@duq.edu
+• Alyson Londot Assistant Coach londota@duq.edu

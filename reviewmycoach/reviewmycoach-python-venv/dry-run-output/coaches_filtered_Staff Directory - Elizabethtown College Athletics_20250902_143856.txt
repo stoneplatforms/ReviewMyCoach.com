@@ -1,0 +1,617 @@
+COACH ENTRIES FOUND - 2025-09-02 14:38:56
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Elizabethtown College
+Organization: Elizabethtown College Athletics
+
+Total coaches found: 78
+
+PARSED ENTRIES:
+----------------------------------------
+1. Veronica Nolt
+   Email: noltv@etown.edu
+   Username: noltv
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Veronica Nolt Assistant Director of Athletics, Head Women's Basketball Coach, Senior Woman noltv@etown.edu 717-361-
+
+2. Jeff Moore
+   Email: moorejeff@etown.edu
+   Username: moorejeff
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Jeff Moore Head Strength & Conditioning Coach moorejeff@etown.edu
+
+3. Adam Sheibley
+   Email: sheibleya@etown.edu
+   Username: sheibleya
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Adam Sheibley Head Baseball Coach sheibleya@etown.edu 717-361-
+
+4. Eric Yoder
+   Email: yodereric@etown.edu
+   Username: yodereric
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Eric Yoder Assistant Baseball Coach yodereric@etown.edu
+
+5. Jim Tetkoskie
+   Email: tetkoskiej@etown.edu
+   Username: tetkoskiej
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Jim Tetkoskie Assistant Baseball Coach tetkoskiej@etown.edu
+
+6. Zach Silfies
+   Email: silfiesz@etown.edu
+   Username: silfiesz
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Zach Silfies Assistant Baseball Coach (Pitching) silfiesz@etown.edu
+
+7. Britt Moore
+   Email: moorebr@etown.edu
+   Username: moorebr
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Britt Moore Head Men's Basketball Coach moorebr@etown.edu 717-361-
+
+8. Matthew Harris
+   Email: harrismatt@etown.edu
+   Username: harrismatt
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Matthew Harris Assistant Men's Basketball Coach harrismatt@etown.edu 717-725-
+
+9. Donovan Catchings
+   Email: catchingsd@etown.edu
+   Username: catchingsd
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Donovan Catchings Assistant Men's Basketball Coach catchingsd@etown.edu
+
+10. Ryan Szatkowski
+   Email: szatkowskir@etown.edu
+   Username: szatkowskir
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Ryan Szatkowski Assistant Men's Basketball Coach szatkowskir@etown.edu
+
+11. Veronica Nolt
+   Email: noltv@etown.edu
+   Username: noltv
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Veronica Nolt Assistant Director of Athletics, Head Women's Basketball Coach, Senior Woman noltv@etown.edu 717-361-
+
+12. Tom Guenther
+   Email: guenthert@etown.edu
+   Username: guenthert
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Tom Guenther Assistant Women's Basketball Coach guenthert@etown.edu
+
+13. Pete Christ
+   Email: christp@etown.edu
+   Username: christp
+   Sports: Baseball
+   Title: s Basketball Coach/Recruiting Coordinator
+   Original line: Pete Christ Assistant Women's Basketball Coach/Recruiting Coordinator christp@etown.edu
+
+14. Stefanie Cassel
+   Email: cassels@etown.edu
+   Username: cassels
+   Sports: Baseball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+
+15. Stefanie Cassel
+   Email: cassels@etown.edu
+   Username: cassels
+   Sports: Baseball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+
+16. Grace Hardy
+   Email: hardyg@etown.edu
+   Username: hardyg
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Grace Hardy Head Field Hockey Coach hardyg@etown.edu 717-361-
+
+17. Madeline Kachel
+   Email: kachelm@etown.edu
+   Username: kachelm
+   Sports: Track & Field
+   Title: Associate Head Field Hockey Coach
+   Original line: Madeline Kachel Associate Head Field Hockey Coach kachelm@etown.edu
+
+18. Katie Hatchell-Reed
+   Email: hatchellk@etown.edu
+   Username: hatchellk
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Katie Hatchell-Reed Assistant Field Hockey Coach hatchellk@etown.edu
+
+19. Craig Bradley
+   Email: bradleyc@etown.edu
+   Username: bradleyc
+   Sports: Track & Field
+   Title: Head Men's & Women's Golf Coach
+   Original line: Craig Bradley Head Men's & Women's Golf Coach bradleyc@etown.edu 717-361-
+
+20. Scott Yeakle
+   Email: yeakles@etown.edu
+   Username: yeakles
+   Sports: Track & Field
+   Title: Assistant Men's and Women's Golf Coach
+   Original line: Scott Yeakle Assistant Men's and Women's Golf Coach yeakles@etown.edu 717-361-
+
+21. Jim Reed
+   Email: reedji@etown.edu
+   Username: reedji
+   Sports: Track & Field
+   Title: Assistant Men's and Women's Golf Coach
+   Original line: Jim Reed Assistant Men's and Women's Golf Coach reedji@etown.edu 717-361-
+
+22. Craig Bradley
+   Email: bradleyc@etown.edu
+   Username: bradleyc
+   Sports: Track & Field
+   Title: Head Men's & Women's Golf Coach
+   Original line: Craig Bradley Head Men's & Women's Golf Coach bradleyc@etown.edu 717-361-
+
+23. Scott Yeakle
+   Email: yeakles@etown.edu
+   Username: yeakles
+   Sports: Track & Field
+   Title: Assistant Men's and Women's Golf Coach
+   Original line: Scott Yeakle Assistant Men's and Women's Golf Coach yeakles@etown.edu 717-361-
+
+24. Jim Reed
+   Email: reedji@etown.edu
+   Username: reedji
+   Sports: Track & Field
+   Title: Assistant Men's and Women's Golf Coach
+   Original line: Jim Reed Assistant Men's and Women's Golf Coach reedji@etown.edu 717-361-
+
+25. Kyle McGuire
+   Email: mcguirekyle@etown.edu
+   Username: mcguirekyle
+   Sports: Track & Field
+   Title: Head Men's Lacrosse Coach
+   Original line: Kyle McGuire Head Men's Lacrosse Coach mcguirekyle@etown.edu 717-361-
+
+26. Jacob Griffin
+   Email: griffinj@etown.edu
+   Username: griffinj
+   Sports: Track & Field
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Jacob Griffin Assistant Men's Lacrosse Coach griffinj@etown.edu
+
+27. Danielle Taylor
+   Email: selingd@etown.edu
+   Username: selingd
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Original line: Danielle Taylor Head Women's Lacrosse Coach selingd@etown.edu 717-361-
+
+28. Wayne Hummer
+   Email: hummerw@etown.edu
+   Username: hummerw
+   Sports: Track & Field
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Wayne Hummer Assistant Women's Lacrosse Coach hummerw@etown.edu
+
+29. Alex Kilgour
+   Email: kilgoura@etown.edu
+   Username: kilgoura
+   Sports: Track & Field
+   Title: s Lacrosse Coach/Recruiting Coordinator
+   Original line: Alex Kilgour Assistant Women's Lacrosse Coach/Recruiting Coordinator kilgoura@etown.edu
+
+30. Evan Scheffey
+   Email: scheffeye@etown.edu
+   Username: scheffeye
+   Sports: Track & Field
+   Title: Head Men's Soccer Coach
+   Original line: Evan Scheffey Head Men's Soccer Coach scheffeye@etown.edu 717-361-
+
+31. Amy Hough
+   Email: hougha@etown.edu
+   Username: hougha
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Original line: Amy Hough Head Women's Soccer Coach hougha@etown.edu 717-361-
+
+32. Jamie Kuntz
+   Email: kuntzje@etown.edu
+   Username: kuntzje
+   Sports: Track & Field
+   Title: Assistant Women's Soccer Coach
+   Original line: Jamie Kuntz Assistant Women's Soccer Coach kuntzje@etown.edu
+
+33. Natalie Hoober
+   Email: hoobern@etown.edu
+   Username: hoobern
+   Sports: Track & Field
+   Title: Assistant Women's Soccer Coach
+   Original line: Natalie Hoober Assistant Women's Soccer Coach hoobern@etown.edu
+
+34. Bekah Slattery
+   Email: slatteryr@etown.edu
+   Username: slatteryr
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Bekah Slattery Head Softball Coach slatteryr@etown.edu 717-361-
+
+35. Jess Lane
+   Email: lanejessica@etown.edu
+   Username: lanejessica
+   Sports: Softball
+   Title: s Swimming Coach/Aquatics Director
+   Original line: Jess Lane Head Men's & Women's Swimming Coach/Aquatics Director lanejessica@etown.edu 717-361-
+
+36. Jess Lane
+   Email: lanejessica@etown.edu
+   Username: lanejessica
+   Sports: Softball
+   Title: s Swimming Coach/Aquatics Director
+   Original line: Jess Lane Head Men's & Women's Swimming Coach/Aquatics Director lanejessica@etown.edu 717-361-
+
+37. Michael Anderson
+   Email: andersonm@etown.edu
+   Username: andersonm
+   Sports: Softball
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Michael Anderson Head Men's and Women's Tennis Coach andersonm@etown.edu 717-361-
+
+38. Michael Anderson
+   Email: andersonm@etown.edu
+   Username: andersonm
+   Sports: Softball
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Michael Anderson Head Men's and Women's Tennis Coach andersonm@etown.edu 717-361-
+
+39. Robert Carmo
+   Email: carmor@etown.edu
+   Username: carmor
+   Sports: Softball
+   Title: Associate Head Coach of Track & Field
+   Original line: Robert Carmo Associate Head Coach of Track & Field carmor@etown.edu
+
+40. Larry Nawa
+   Email: nawal@etown.edu
+   Username: nawal
+   Sports: Softball
+   Title: Assistant Track & Field Coach
+   Original line: Larry Nawa Assistant Track & Field Coach nawal@etown.edu
+
+41. Stefanie Cassel
+   Email: cassels@etown.edu
+   Username: cassels
+   Sports: Softball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+
+42. Larry Nawa
+   Email: nawal@etown.edu
+   Username: nawal
+   Sports: Softball
+   Title: Assistant Track & Field Coach
+   Original line: Larry Nawa Assistant Track & Field Coach nawal@etown.edu
+
+43. Robert Carmo
+   Email: carmor@etown.edu
+   Username: carmor
+   Sports: Softball
+   Title: Associate Head Coach of Track & Field
+   Original line: Robert Carmo Associate Head Coach of Track & Field carmor@etown.edu
+
+44. Stefanie Cassel
+   Email: cassels@etown.edu
+   Username: cassels
+   Sports: Softball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+
+45. Lamar Fahnestock
+   Email: fahnestockl@etown.edu
+   Username: fahnestockl
+   Sports: Softball
+   Title: Head Men's Volleyball Coach
+   Original line: Lamar Fahnestock Head Men's Volleyball Coach fahnestockl@etown.edu
+
+46. EJ Smith
+   Email: smithej@etown.edu
+   Username: smithej
+   Sports: Softball
+   Title: Director of Volleyball Operations/Head Women's Volleyball Coach
+   Original line: EJ Smith Director of Volleyball Operations/Head Women's Volleyball Coach smithej@etown.edu 717-361-
+
+47. Cheston Jacobs
+   Email: jacobsc@etown.edu
+   Username: jacobsc
+   Sports: Softball
+   Title: Assistant Men's Volleyball Coach
+   Original line: Cheston Jacobs Assistant Men's Volleyball Coach jacobsc@etown.edu
+
+48. Cody Boyer
+   Email: boyerc@etown.edu
+   Username: boyerc
+   Sports: Softball
+   Title: Assistant Men's Volleyball Coach
+   Original line: Cody Boyer Assistant Men's Volleyball Coach boyerc@etown.edu
+
+49. Kasey Gentry
+   Email: gentryk@etown.edu
+   Username: gentryk
+   Sports: Softball
+   Title: Assistant Men's Volleyball Coach
+   Original line: Kasey Gentry Assistant Men's Volleyball Coach gentryk@etown.edu
+
+50. EJ Smith
+   Email: smithej@etown.edu
+   Username: smithej
+   Sports: Softball
+   Title: Director of Volleyball Operations/Head Women's Volleyball Coach
+   Original line: EJ Smith Director of Volleyball Operations/Head Women's Volleyball Coach smithej@etown.edu 717-361-
+
+51. Derek Leonard
+   Email: leonardd@etown.edu
+   Username: leonardd
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Derek Leonard Assistant Women's Volleyball Coach leonardd@etown.edu
+
+52. Mikiah Sangrey
+   Email: sangrey@etown.edu
+   Username: sangrey
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Mikiah Sangrey Assistant Women's Volleyball Coach sangrey@etown.edu
+
+53. Jayna Class
+   Email: classj@etown.edu
+   Username: classj
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Jayna Class Assistant Women's Volleyball Coach classj@etown.edu
+
+54. Shelly Yohe
+   Email: yohem@etown.edu
+   Username: yohem
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Shelly Yohe Assistant Women's Volleyball Coach yohem@etown.edu
+
+55. Eric Walker
+   Email: walkered@etown.edu
+   Username: walkered
+   Sports: Softball
+   Title: Head Wrestling Coach
+   Original line: Eric Walker Head Wrestling Coach walkered@etown.edu 717-361-
+
+56. Erich Carroll
+   Email: 
+   Username: erich.carroll
+   Sports: Baseball
+   Title: Erich Carroll Assistant Baseball Coach
+   Original line: Erich Carroll Assistant Baseball Coach
+
+57. Amy Falk
+   Email: 
+   Username: amy.falk
+   Sports: Soccer
+   Title: s Cross County Coach
+   Original line: Amy Falk Assistant Men's and Women's Cross County Coach
+
+58. Tony Masters
+   Email: 
+   Username: tony.masters
+   Sports: Cross Country
+   Title: s Cross Country Coach
+   Original line: Tony Masters Assistant Men's & Women's Cross Country Coach
+
+59. Amy Defnet
+   Email: 
+   Username: amy.defnet
+   Sports: Track & Field, Hockey
+   Title: Amy Defnet Assistant Field Hockey Coach
+   Original line: Amy Defnet Assistant Field Hockey Coach
+
+60. Zach Mentzer
+   Email: 
+   Username: zach.mentzer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Zach Mentzer Assistant Men's Lacrosse Coach
+
+61. Kenny Archer
+   Email: 
+   Username: kenny.archer
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Kenny Archer Assistant Men's Soccer Coach
+
+62. Ben Lefever
+   Email: 
+   Username: ben.lefever
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Ben Lefever Assistant Men's Soccer Coach
+
+63. Mehluko Volunteer
+   Email: 
+   Username: mehluko.volunteer
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Mehluko Letsoalo Volunteer Assistant Men's Soccer Coach
+
+64. Jessica Weinoldt
+   Email: 
+   Username: jessica.weinoldt
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Jessica Weinoldt Assistant Women's Soccer Coach
+
+65. Mark Kneasel
+   Email: 
+   Username: mark.kneasel
+   Sports: Softball
+   Title: Mark Kneasel Assistant Softball Coach
+   Original line: Mark Kneasel Assistant Softball Coach
+
+66. Glen Pysher
+   Email: 
+   Username: glen.pysher
+   Sports: Softball
+   Title: Glen Pysher Assistant Softball Coach
+   Original line: Glen Pysher Assistant Softball Coach
+
+67. Ashley Kearcher
+   Email: 
+   Username: ashley.kearcher
+   Sports: Swimming
+   Title: s Swimming Coach
+   Original line: Ashley Kearcher Assistant Men's and Women's Swimming Coach
+
+68. Sam Procak
+   Email: 
+   Username: sam.procak
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Sam Procak Assistant Men's and Women's Tennis Coach
+
+69. Callie McClanahan
+   Email: 
+   Username: callie.mcclanahan
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Callie McClanahan Assistant Men's and Women's Tennis Coach
+
+70. Brian Falk
+   Email: falkb@etown.edu
+   Username: falkb
+   Sports: Track & Field
+   Title: Karly Deam Assistant Track & Field Coach
+   Original line: Karly Deam Assistant Track & Field Coach falkb@etown.edu
+
+71. Kyle Coblentz
+   Email: 
+   Username: kyle.coblentz
+   Sports: Wrestling
+   Title: Kyle Coblentz Assistant Wrestling Coach
+   Original line: Kyle Coblentz Assistant Wrestling Coach
+
+72. Matt 
+   Email: 
+   Username: matt
+   Sports: Wrestling
+   Title: Matt Cross Assistant Wrestling Coach
+   Original line: Matt Cross Assistant Wrestling Coach
+
+73. Bryan Pflanz
+   Email: 
+   Username: bryan.pflanz
+   Sports: Wrestling
+   Title: Bryan Pflanz Assistant Wrestling Coach
+   Original line: Bryan Pflanz Assistant Wrestling Coach
+
+74. Thomas Haines
+   Email: 
+   Username: thomas.haines
+   Sports: Wrestling
+   Title: Thomas Haines Assistant Wrestling Coach
+   Original line: Thomas Haines Assistant Wrestling Coach
+
+75. Kaleb Loht
+   Email: 
+   Username: kaleb.loht
+   Sports: Wrestling
+   Title: Kaleb Loht Assistant Wrestling Coach
+   Original line: Kaleb Loht Assistant Wrestling Coach
+
+76. Caleb Warner
+   Email: 
+   Username: caleb.warner
+   Sports: Wrestling
+   Title: Caleb Warner Assistant Wrestling Coach
+   Original line: Caleb Warner Assistant Wrestling Coach
+
+77. Elijah Flasher
+   Email: 
+   Username: elijah.flasher
+   Sports: Wrestling
+   Title: Elijah Flasher Assistant Wrestling Coach
+   Original line: Elijah Flasher Assistant Wrestling Coach
+
+78. Dan Planta
+   Email: 
+   Username: dan.planta
+   Sports: Wrestling
+   Title: Dan Planta Assistant Wrestling Coach
+   Original line: Dan Planta Assistant Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Veronica Nolt Assistant Director of Athletics, Head Women's Basketball Coach, Senior Woman noltv@etown.edu 717-361-
+• Jeff Moore Head Strength & Conditioning Coach moorejeff@etown.edu
+• Adam Sheibley Head Baseball Coach sheibleya@etown.edu 717-361-
+• Eric Yoder Assistant Baseball Coach yodereric@etown.edu
+• Jim Tetkoskie Assistant Baseball Coach tetkoskiej@etown.edu
+• Zach Silfies Assistant Baseball Coach (Pitching) silfiesz@etown.edu
+• Britt Moore Head Men's Basketball Coach moorebr@etown.edu 717-361-
+• Matthew Harris Assistant Men's Basketball Coach harrismatt@etown.edu 717-725-
+• Donovan Catchings Assistant Men's Basketball Coach catchingsd@etown.edu
+• Ryan Szatkowski Assistant Men's Basketball Coach szatkowskir@etown.edu
+• Veronica Nolt Assistant Director of Athletics, Head Women's Basketball Coach, Senior Woman noltv@etown.edu 717-361-
+• Tom Guenther Assistant Women's Basketball Coach guenthert@etown.edu
+• Pete Christ Assistant Women's Basketball Coach/Recruiting Coordinator christp@etown.edu
+• Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+• Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+• Grace Hardy Head Field Hockey Coach hardyg@etown.edu 717-361-
+• Madeline Kachel Associate Head Field Hockey Coach kachelm@etown.edu
+• Katie Hatchell-Reed Assistant Field Hockey Coach hatchellk@etown.edu
+• Craig Bradley Head Men's & Women's Golf Coach bradleyc@etown.edu 717-361-
+• Scott Yeakle Assistant Men's and Women's Golf Coach yeakles@etown.edu 717-361-
+• Jim Reed Assistant Men's and Women's Golf Coach reedji@etown.edu 717-361-
+• Craig Bradley Head Men's & Women's Golf Coach bradleyc@etown.edu 717-361-
+• Scott Yeakle Assistant Men's and Women's Golf Coach yeakles@etown.edu 717-361-
+• Jim Reed Assistant Men's and Women's Golf Coach reedji@etown.edu 717-361-
+• Kyle McGuire Head Men's Lacrosse Coach mcguirekyle@etown.edu 717-361-
+• Jacob Griffin Assistant Men's Lacrosse Coach griffinj@etown.edu
+• Danielle Taylor Head Women's Lacrosse Coach selingd@etown.edu 717-361-
+• Wayne Hummer Assistant Women's Lacrosse Coach hummerw@etown.edu
+• Alex Kilgour Assistant Women's Lacrosse Coach/Recruiting Coordinator kilgoura@etown.edu
+• Evan Scheffey Head Men's Soccer Coach scheffeye@etown.edu 717-361-
+• Amy Hough Head Women's Soccer Coach hougha@etown.edu 717-361-
+• Jamie Kuntz Assistant Women's Soccer Coach kuntzje@etown.edu
+• Natalie Hoober Assistant Women's Soccer Coach hoobern@etown.edu
+• Bekah Slattery Head Softball Coach slatteryr@etown.edu 717-361-
+• Jess Lane Head Men's & Women's Swimming Coach/Aquatics Director lanejessica@etown.edu 717-361-
+• Jess Lane Head Men's & Women's Swimming Coach/Aquatics Director lanejessica@etown.edu 717-361-
+• Michael Anderson Head Men's and Women's Tennis Coach andersonm@etown.edu 717-361-
+• Michael Anderson Head Men's and Women's Tennis Coach andersonm@etown.edu 717-361-
+• Robert Carmo Associate Head Coach of Track & Field carmor@etown.edu
+• Larry Nawa Assistant Track & Field Coach nawal@etown.edu
+• Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+• Larry Nawa Assistant Track & Field Coach nawal@etown.edu
+• Robert Carmo Associate Head Coach of Track & Field carmor@etown.edu
+• Stefanie Cassel Assistant Cross Country and Track & Field Coach cassels@etown.edu
+• Lamar Fahnestock Head Men's Volleyball Coach fahnestockl@etown.edu
+• EJ Smith Director of Volleyball Operations/Head Women's Volleyball Coach smithej@etown.edu 717-361-
+• Cheston Jacobs Assistant Men's Volleyball Coach jacobsc@etown.edu
+• Cody Boyer Assistant Men's Volleyball Coach boyerc@etown.edu
+• Kasey Gentry Assistant Men's Volleyball Coach gentryk@etown.edu
+• EJ Smith Director of Volleyball Operations/Head Women's Volleyball Coach smithej@etown.edu 717-361-
+• Derek Leonard Assistant Women's Volleyball Coach leonardd@etown.edu
+• Mikiah Sangrey Assistant Women's Volleyball Coach sangrey@etown.edu
+• Jayna Class Assistant Women's Volleyball Coach classj@etown.edu
+• Shelly Yohe Assistant Women's Volleyball Coach yohem@etown.edu
+• Eric Walker Head Wrestling Coach walkered@etown.edu 717-361-

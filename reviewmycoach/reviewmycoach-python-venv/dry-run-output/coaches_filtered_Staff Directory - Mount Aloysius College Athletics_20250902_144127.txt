@@ -1,0 +1,277 @@
+COACH ENTRIES FOUND - 2025-09-02 14:41:27
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Mount Aloysius College
+Organization: Mount Aloysius College Athletics
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brian Gameday
+   Email: bgiesler@mtaloy.edu
+   Username: bgiesler
+   Sports: Basketball
+   Title: Head Women's Basketball Coach
+   Original line: Brian Giesler Gameday Operations | Head Women's Basketball Coach bgiesler@mtaloy.edu (814) 886-
+
+2. Patrick Gully
+   Email: pgully@mtaloy.edu
+   Username: pgully
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Patrick Gully Athletic Facilities Coordinator | Head Baseball Coach pgully@mtaloy.edu (814) 886-
+
+3. Matt Compliance
+   Email: mdavis@mtaloy.edu
+   Username: mdavis
+   Sports: Soccer
+   Title: Head Men's Soccer Coach
+   Original line: Matt Davis Compliance Coordinator | Head Men's Soccer Coach mdavis@mtaloy.edu (814) 886-
+
+4. Siarra Crum
+   Email: scrum@mtaloy.edu
+   Username: scrum
+   Sports: Soccer
+   Title: Head Rifle Coach
+   Original line: Siarra Crum Head Athletic Trainer | Head Rifle Coach scrum@mtaloy.edu (814) 886-
+
+5. Michelle Ross
+   Email: mross@mtaloy.edu
+   Username: mross
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Michelle Ross Athletic Operations Coordinator | Head Softball Coach mross@mtaloy.edu (814) 886-
+
+6. Siarra Crum
+   Email: scrum@mtaloy.edu
+   Username: scrum
+   Sports: Soccer
+   Title: Head Rifle Coach
+   Original line: Siarra Crum Head Athletic Trainer | Head Rifle Coach scrum@mtaloy.edu (814) 886-
+
+7. Patrick Gully
+   Email: pgully@mtaloy.edu
+   Username: pgully
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Patrick Gully Athletic Facilities Coordinator | Head Baseball Coach pgully@mtaloy.edu (814) 886-
+
+8. Marcus Thomas
+   Email: marcus.thomas@mtaloy.edu
+   Username: marcus.thomas
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Marcus Thomas Head Men's Basketball Coach marcus.thomas@mtaloy.edu (814) 886-
+
+9. Dameon Turner
+   Email: DTurner@mtaloy.edu
+   Username: DTurner
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Dameon Turner Assistant Men's Basketball Coach DTurner@mtaloy.edu
+
+10. Brian Gameday
+   Email: bgiesler@mtaloy.edu
+   Username: bgiesler
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Brian Giesler Gameday Operations | Head Women's Basketball Coach bgiesler@mtaloy.edu (814) 886-
+
+11. Dan Tewell
+   Email: dtewell@mtaloy.edu
+   Username: dtewell
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Dan Tewell Assistant Women's Basketball Coach dtewell@mtaloy.edu
+
+12. Todd Niebauer
+   Email: tniebauer@mtaloy.edu
+   Username: tniebauer
+   Sports: Baseball
+   Title: Head Men's and Women's Cross Country Coach
+   Original line: Todd Niebauer Head Men's and Women's Cross Country Coach tniebauer@mtaloy.edu
+
+13. Todd Niebauer
+   Email: tniebauer@mtaloy.edu
+   Username: tniebauer
+   Sports: Baseball
+   Title: Head Men's and Women's Cross Country Coach
+   Original line: Todd Niebauer Head Men's and Women's Cross Country Coach tniebauer@mtaloy.edu
+
+14. Dylan Link
+   Email: dlink@mtaloy.edu
+   Username: dlink
+   Sports: Baseball
+   Title: Head Men's and Women's Golf Coach
+   Original line: Dylan Link Head Men's and Women's Golf Coach dlink@mtaloy.edu (814) 886-
+
+15. Dylan Link
+   Email: dlink@mtaloy.edu
+   Username: dlink
+   Sports: Baseball
+   Title: Head Men's and Women's Golf Coach
+   Original line: Dylan Link Head Men's and Women's Golf Coach dlink@mtaloy.edu (814) 886-
+
+16. Courtney Vought
+   Email: cvought@mtaloy.edu
+   Username: cvought
+   Sports: Baseball
+   Title: Head Women's Lacrosse Coach
+   Original line: Courtney Vought Head Women's Lacrosse Coach cvought@mtaloy.edu (814) 886-
+
+17. Siarra Crum
+   Email: scrum@mtaloy.edu
+   Username: scrum
+   Sports: Baseball
+   Title: Head Rifle Coach
+   Original line: Siarra Crum Head Athletic Trainer | Head Rifle Coach scrum@mtaloy.edu (814) 886-
+
+18. Matt Compliance
+   Email: mdavis@mtaloy.edu
+   Username: mdavis
+   Sports: Baseball
+   Title: Head Men's Soccer Coach
+   Original line: Matt Davis Compliance Coordinator | Head Men's Soccer Coach mdavis@mtaloy.edu (814) 886-
+
+19. Martin Montoya
+   Email: m_mst12@student.mtaloy.edu
+   Username: m_mst12
+   Sports: Baseball
+   Title: Assistant Men's Soccer Coach
+   Original line: Martin Montoya Assistant Men's Soccer Coach m_mst12@student.mtaloy.edu
+
+20. Tyler Sisler
+   Email: tsisler@mtaloy.edu
+   Username: tsisler
+   Sports: Baseball
+   Title: Head Women's Soccer Coach
+   Original line: Tyler Sisler Head Women's Soccer Coach tsisler@mtaloy.edu (814) 886-
+
+21. Michelle Ross
+   Email: mross@mtaloy.edu
+   Username: mross
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Michelle Ross Athletic Operations Coordinator | Head Softball Coach mross@mtaloy.edu (814) 886-
+
+22. Jillian Glover
+   Email: jglover@mtaloy.edu
+   Username: jglover
+   Sports: Softball
+   Title: Head Men's Volleyball Coach
+   Original line: Jillian Glover Head Men's Volleyball Coach jglover@mtaloy.edu
+
+23. Jill Bednarski
+   Email: jbednarski@mtaloy.edu
+   Username: jbednarski
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Jill Bednarski Assistant Women's Volleyball Coach jbednarski@mtaloy.edu (814) 886-
+
+24. Kevin Outreach
+   Email: kkime@mtaloy.edu
+   Username: kkime
+   Sports: Volleyball
+   Title: Volleyball Coach
+   Original line: Volleyball Coach 6528 kkime@mtaloy.edu
+
+25. Tanner Graduate
+   Email: tdfst3@student.mtaloy.edu
+   Username: tdfst3
+   Sports: Baseball
+   Title: William McCabe Assistant Baseball Coach
+   Original line: William McCabe Assistant Baseball Coach tdfst3@student.mtaloy.edu
+
+26. Chris Drenning
+   Email: 
+   Username: chris.drenning
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Chris Drenning Assistant Men's Basketball Coach
+
+27. Chris Burlingame
+   Email: 
+   Username: chris.burlingame
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Chris Burlingame Assistant Men's and Women's Golf Coach
+
+28. Mackenzie Lasinski
+   Email: 
+   Username: mackenzie.lasinski
+   Sports: Lacrosse
+   Title: Mackenzie Lasinski Assistant Lacrosse Coach
+   Original line: Mackenzie Lasinski Assistant Lacrosse Coach
+
+29. TJ Student
+   Email: 
+   Username: tj.student
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: TJ Yablonski Student Assistant Men's Soccer Coach
+
+30. Chase Student
+   Email: 
+   Username: chase.student
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Chase Conway Student Assistant Men's Soccer Coach
+
+31. Sam Hauser
+   Email: 
+   Username: sam.hauser
+   Sports: Softball
+   Title: Sam Hauser Assistant Softball Coach
+   Original line: Sam Hauser Assistant Softball Coach
+
+32. To Announced
+   Email: 
+   Username: to.announced
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: To Be Announced Head Men's and Women's Tennis Coach
+
+33. Matthew Jacobs
+   Email: 
+   Username: matthew.jacobs
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Matthew Jacobs Head Men & Women's Tennis Coach
+
+34. Ashley Beckley
+   Email: 
+   Username: ashley.beckley
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Ashley Beckley Assistant Women's Volleyball Coach (814) 886-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brian Giesler Gameday Operations | Head Women's Basketball Coach bgiesler@mtaloy.edu (814) 886-
+• Patrick Gully Athletic Facilities Coordinator | Head Baseball Coach pgully@mtaloy.edu (814) 886-
+• Matt Davis Compliance Coordinator | Head Men's Soccer Coach mdavis@mtaloy.edu (814) 886-
+• Siarra Crum Head Athletic Trainer | Head Rifle Coach scrum@mtaloy.edu (814) 886-
+• Michelle Ross Athletic Operations Coordinator | Head Softball Coach mross@mtaloy.edu (814) 886-
+• Siarra Crum Head Athletic Trainer | Head Rifle Coach scrum@mtaloy.edu (814) 886-
+• Patrick Gully Athletic Facilities Coordinator | Head Baseball Coach pgully@mtaloy.edu (814) 886-
+• Marcus Thomas Head Men's Basketball Coach marcus.thomas@mtaloy.edu (814) 886-
+• Dameon Turner Assistant Men's Basketball Coach DTurner@mtaloy.edu
+• Brian Giesler Gameday Operations | Head Women's Basketball Coach bgiesler@mtaloy.edu (814) 886-
+• Dan Tewell Assistant Women's Basketball Coach dtewell@mtaloy.edu
+• Todd Niebauer Head Men's and Women's Cross Country Coach tniebauer@mtaloy.edu
+• Todd Niebauer Head Men's and Women's Cross Country Coach tniebauer@mtaloy.edu
+• Dylan Link Head Men's and Women's Golf Coach dlink@mtaloy.edu (814) 886-
+• Dylan Link Head Men's and Women's Golf Coach dlink@mtaloy.edu (814) 886-
+• Courtney Vought Head Women's Lacrosse Coach cvought@mtaloy.edu (814) 886-
+• Siarra Crum Head Athletic Trainer | Head Rifle Coach scrum@mtaloy.edu (814) 886-
+• Matt Davis Compliance Coordinator | Head Men's Soccer Coach mdavis@mtaloy.edu (814) 886-
+• Martin Montoya Assistant Men's Soccer Coach m_mst12@student.mtaloy.edu
+• Tyler Sisler Head Women's Soccer Coach tsisler@mtaloy.edu (814) 886-
+• Michelle Ross Athletic Operations Coordinator | Head Softball Coach mross@mtaloy.edu (814) 886-
+• Jillian Glover Head Men's Volleyball Coach jglover@mtaloy.edu
+• Jill Bednarski Assistant Women's Volleyball Coach jbednarski@mtaloy.edu (814) 886-

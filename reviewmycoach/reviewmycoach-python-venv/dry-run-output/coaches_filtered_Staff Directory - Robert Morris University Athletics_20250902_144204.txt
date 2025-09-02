@@ -1,0 +1,456 @@
+COACH ENTRIES FOUND - 2025-09-02 14:42:05
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Robert Morris University
+Organization: Robert Morris University Athletics
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Gus Apodaca
+   Email: apodaca@rmu.edu
+   Username: apodaca
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Gus Apodaca Head Coach apodaca@rmu.edu (412) 397-
+
+2. Patrick Lemelin
+   Email: lemelin@rmu.edu
+   Username: lemelin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Patrick Lemelin Assistant Coach lemelin@rmu.edu (412) 397-
+
+3. Jennifer Erin
+   Email: erin@rmu.edu
+   Username: erin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jennifer Erin Assistant Coach erin@rmu.edu (412) 397-
+
+4. Tyler John
+   Email: johnt@rmu.edu
+   Username: johnt
+   Sports: Basketball
+   Title: Basketball Performance Coach
+   Original line: Tyler John Basketball Performance Coach johnt@rmu.edu (412) 397-
+
+5. Andrew Toole
+   Email: toole@rmu.edu
+   Username: toole
+   Sports: Soccer
+   Title: Pat Gallagher Head Coach
+   Original line: Andrew Toole Pat Gallagher Head Coach toole@rmu.edu (412) 397-
+
+6. Kim Lewis
+   Email: lewisk@rmu.edu
+   Username: lewisk
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kim Lewis Assistant Coach lewisk@rmu.edu (412) 397-
+
+7. Anthony Richards
+   Email: richardsa@rmu.edu
+   Username: richardsa
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anthony Richards Assistant Coach richardsa@rmu.edu (412) 397-
+
+8. Keith Oddo
+   Email: oddo@rmu.edu
+   Username: oddo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Keith Oddo Assistant Coach oddo@rmu.edu (412) 397-
+
+9. Matthew Sweet
+   Email: sweet@rmu.edu
+   Username: sweet
+   Sports: Soccer
+   Title: Assistant Coach / Chief
+   Original line: Matthew Sweet Assistant Coach / Chief of Staff sweet@rmu.edu (412) 397-
+
+10. Chandler McCabe
+   Email: mccabec@rmu.edu
+   Username: mccabec
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chandler McCabe Head Coach mccabec@rmu.edu (412) 397-
+
+11. Eddie Benton
+   Email: benton@rmu.edu
+   Username: benton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Eddie Benton Assistant Coach benton@rmu.edu (412) 397-
+
+12. Jack Trosper
+   Email: trosper@rmu.edu
+   Username: trosper
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jack Trosper Assistant Coach trosper@rmu.edu (412) 397-
+
+13. Laryn Edwards
+   Email: edwardsl@rmu.edu
+   Username: edwardsl
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Laryn Edwards Assistant Coach edwardsl@rmu.edu (412) 397-
+
+14. Sara Anastasieska
+   Email: anastasieska@rmu.edu
+   Username: anastasieska
+   Sports: Basketball
+   Title: Assistant Coach/Director of
+   Original line: Sara Anastasieska Assistant Coach/Director of Basketball Operations anastasieska@rmu.edu (412) 397-
+
+15. Bryan Delsite
+   Email: delsite@rmu.edu
+   Username: delsite
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Bryan Delsite Head Coach delsite@rmu.edu (412) 397-
+
+16. Juris Silenieks
+   Email: silenieks@rmu.edu
+   Username: silenieks
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Juris Silenieks Assistant Coach silenieks@rmu.edu (412) 397-
+
+17. Bernard Clark
+   Email: clarkb@rmu.edu
+   Username: clarkb
+   Sports: Football
+   Title: Head Coach
+   Original line: Bernard Clark, Jr. Head Coach clarkb@rmu.edu (412) 397-
+
+18. Rod Holder
+   Email: holder@rmu.edu
+   Username: holder
+   Sports: Football
+   Title: Head Coach
+   Original line: Rod Holder Associate Head Coach (OL) holder@rmu.edu (412) 397-
+
+19. Troy Rothenbuhler
+   Email: rothenbuhler@rmu.edu
+   Username: rothenbuhler
+   Sports: Football
+   Title: Assistant Coach / Offensive Coordinator
+   Original line: Troy Rothenbuhler Assistant Coach / Offensive Coordinator (QB) rothenbuhler@rmu.edu (412) 397-
+
+20. Jason Makrinos
+   Email: makrinos@rmu.edu
+   Username: makrinos
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jason Makrinos Assistant Coach (Defensive Coordinator / CB) makrinos@rmu.edu (412) 397-
+
+21. Ty Aeschbacher
+   Email: aeschbacher@rmu.edu
+   Username: aeschbacher
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ty Aeschbacher Assistant Coach (Special Teams Coordinator / TE) aeschbacher@rmu.edu (412) 397-
+
+22. John French
+   Email: french@rmu.edu
+   Username: french
+   Sports: Football
+   Title: Assistant Coach
+   Original line: John French Assistant Coach (Recruiting and Pass Game Coordinator / WR) french@rmu.edu (412) 397-
+
+23. Anthony Cicione
+   Email: cicione@rmu.edu
+   Username: cicione
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Anthony Cicione Assistant Coach (Safeties) cicione@rmu.edu (412) 397-
+
+24. Marshall Cooper
+   Email: cooperm@rmu.edu
+   Username: cooperm
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Marshall Cooper Assistant Coach (LB) cooperm@rmu.edu (412) 397-
+
+25. Nick Dalton
+   Email: daltonn@rmu.edu
+   Username: daltonn
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nick Dalton Assistant Coach (RB) daltonn@rmu.edu (412) 397-
+
+26. Sam Scott
+   Email: scott@rmu.edu
+   Username: scott
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Sam Scott Assistant Coach (DL) scott@rmu.edu (412) 397-
+
+27. Steve Shingledecker
+   Email: shingledecker@rmu.edu
+   Username: shingledecker
+   Sports: Football
+   Title: Head Coach
+   Original line: Steve Shingledecker Head Coach shingledecker@rmu.edu (412) 397-
+
+28. Derek Schooley
+   Email: schooley@rmu.edu
+   Username: schooley
+   Sports: Football
+   Title: Head Coach
+   Original line: Derek Schooley Head Coach schooley@rmu.edu (412) 397-
+
+29. Marco 
+   Email: trevino@rmu.edu
+   Username: trevino
+   Sports: Football
+   Title: o Assistant Coach
+   Phone: (412) 397-4446
+   Original line: Marco Treviño Assistant Coach trevino@rmu.edu 412-397-4446
+
+30. Vinnie Pietrangelo
+   Email: pietrangelov@rmu.edu
+   Username: pietrangelov
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Vinnie Pietrangelo Assistant Coach pietrangelov@rmu.edu (412) 397-
+
+31. Logan Bittle
+   Email: bittle@rmu.edu
+   Username: bittle
+   Sports: Football
+   Title: Head Coach
+   Original line: Logan Bittle Head Coach bittle@rmu.edu (412) 397-
+
+32. Liam Cavanagh
+   Email: cavanagh@rmu.edu
+   Username: cavanagh
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Liam Cavanagh Assistant Coach cavanagh@rmu.edu (412) 397-
+
+33. Keri Clougherty
+   Email: clougherty@rmu.edu
+   Username: clougherty
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Keri Clougherty Assistant Coach clougherty@rmu.edu (412) 397-
+
+34. Craig McDonald
+   Email: mcdonaldc@rmu.edu
+   Username: mcdonaldc
+   Sports: Football
+   Title: Head Coach
+   Original line: Craig McDonald Head Coach mcdonaldc@rmu.edu (412) 397-
+
+35. Michael Perrino
+   Email: perrino@rmu.edu
+   Username: perrino
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Michael Perrino Assistant Coach perrino@rmu.edu (412) 397-
+
+36. Jeff Handman
+   Email: handman@rmu.edu
+   Username: handman
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jeff Handman Assistant Coach handman@rmu.edu (412) 397-
+
+37. Courtney Grove
+   Email: grovec@rmu.edu
+   Username: grovec
+   Sports: Football
+   Title: Head Coach
+   Original line: Courtney Grove Head Coach grovec@rmu.edu (412) 397-
+
+38. Emma Simmers
+   Email: simmers@rmu.edu
+   Username: simmers
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Emma Simmers Associate Head Coach simmers@rmu.edu (412) 397-
+
+39. Renee Miller
+   Email: millerr@rmu.edu
+   Username: millerr
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Renee Miller Assistant Coach millerr@rmu.edu (412) 397-
+
+40. Robert Weber
+   Email: weberr@rmu.edu
+   Username: weberr
+   Sports: Football
+   Title: Head Coach
+   Original line: Robert Weber Head Coach weberr@rmu.edu (412) 397-
+
+41. Erin Mordaunt
+   Email: mordaunt@rmu.edu
+   Username: mordaunt
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Erin Mordaunt Assistant Coach mordaunt@rmu.edu (412) 397-
+
+42. Stacey Van
+   Email: vanorder@rmu.edu
+   Username: vanorder
+   Sports: Football
+   Title: Order Assistant Coach
+   Original line: Stacey Van Order Assistant Coach vanorder@rmu.edu (412) 397-
+
+43. Jonathan Potter
+   Email: menssoccer@rmu.edu
+   Username: menssoccer
+   Sports: Football
+   Title: Head Coach
+   Original line: Jonathan Potter Head Coach menssoccer@rmu.edu (412) 397-
+
+44. Abraham Lopez-Mendoza
+   Email: lopezmendoza@rmu.edu
+   Username: lopezmendoza
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Abraham Lopez-Mendoza Assistant Coach lopezmendoza@rmu.edu (412) 397-
+
+45. Michelle Rick
+   Email: womenssoccer@rmu.edu
+   Username: womenssoccer
+   Sports: Football
+   Title: Head Coach
+   Original line: Michelle Rick Head Coach womenssoccer@rmu.edu (412) 397-
+
+46. Kayla McNamara
+   Email: womenssoccer@rmu.edu
+   Username: womenssoccer
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kayla McNamara Assistant Coach womenssoccer@rmu.edu (412) 397-
+
+47. Jexx Varner
+   Email: varner@rmu.edu
+   Username: varner
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jexx Varner Head Coach varner@rmu.edu (412) 397-
+
+48. Maddy Wright
+   Email: wrightm@rmu.edu
+   Username: wrightm
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Maddy Wright Assistant Coach wrightm@rmu.edu (412) 397-
+
+49. Bryan Delsite
+   Email: delsite@rmu.edu
+   Username: delsite
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Bryan Delsite Head Coach delsite@rmu.edu (412) 397-
+
+50. Brent Shelby
+   Email: shelby@rmu.edu
+   Username: shelby
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Brent Shelby Associate Head Coach shelby@rmu.edu (412) 397-
+
+51. Juris Silenieks
+   Email: silenieks@rmu.edu
+   Username: silenieks
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Juris Silenieks Assistant Coach silenieks@rmu.edu (412) 397-
+
+52. Danny Doherty
+   Email: doherty@rmu.edu
+   Username: doherty
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Danny Doherty Head Coach doherty@rmu.edu (412) 397-
+
+53. Kaylee Thomas
+   Email: thomaska@rmu.edu
+   Username: thomaska
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Kaylee Thomas Assistant Coach thomaska@rmu.edu (412) 397-
+
+54. Steve Wigginton
+   Email: wigginton@rmu.edu
+   Username: wigginton
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Steve Wigginton Head Coach wigginton@rmu.edu (412) 397-
+
+55. To Announced
+   Email: 
+   Username: to.announced
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: To Be Announced Assistant Coach (412) 397-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Gus Apodaca Head Coach apodaca@rmu.edu (412) 397-
+• Patrick Lemelin Assistant Coach lemelin@rmu.edu (412) 397-
+• Jennifer Erin Assistant Coach erin@rmu.edu (412) 397-
+• Tyler John Basketball Performance Coach johnt@rmu.edu (412) 397-
+• Andrew Toole Pat Gallagher Head Coach toole@rmu.edu (412) 397-
+• Kim Lewis Assistant Coach lewisk@rmu.edu (412) 397-
+• Anthony Richards Assistant Coach richardsa@rmu.edu (412) 397-
+• Keith Oddo Assistant Coach oddo@rmu.edu (412) 397-
+• Matthew Sweet Assistant Coach / Chief of Staff sweet@rmu.edu (412) 397-
+• Chandler McCabe Head Coach mccabec@rmu.edu (412) 397-
+• Eddie Benton Assistant Coach benton@rmu.edu (412) 397-
+• Jack Trosper Assistant Coach trosper@rmu.edu (412) 397-
+• Laryn Edwards Assistant Coach edwardsl@rmu.edu (412) 397-
+• Sara Anastasieska Assistant Coach/Director of Basketball Operations anastasieska@rmu.edu (412) 397-
+• Bryan Delsite Head Coach delsite@rmu.edu (412) 397-
+• Juris Silenieks Assistant Coach silenieks@rmu.edu (412) 397-
+• Bernard Clark, Jr. Head Coach clarkb@rmu.edu (412) 397-
+• Rod Holder Associate Head Coach (OL) holder@rmu.edu (412) 397-
+• Troy Rothenbuhler Assistant Coach / Offensive Coordinator (QB) rothenbuhler@rmu.edu (412) 397-
+• Jason Makrinos Assistant Coach (Defensive Coordinator / CB) makrinos@rmu.edu (412) 397-
+• Ty Aeschbacher Assistant Coach (Special Teams Coordinator / TE) aeschbacher@rmu.edu (412) 397-
+• John French Assistant Coach (Recruiting and Pass Game Coordinator / WR) french@rmu.edu (412) 397-
+• Anthony Cicione Assistant Coach (Safeties) cicione@rmu.edu (412) 397-
+• Marshall Cooper Assistant Coach (LB) cooperm@rmu.edu (412) 397-
+• Nick Dalton Assistant Coach (RB) daltonn@rmu.edu (412) 397-
+• Sam Scott Assistant Coach (DL) scott@rmu.edu (412) 397-
+• Steve Shingledecker Head Coach shingledecker@rmu.edu (412) 397-
+• Derek Schooley Head Coach schooley@rmu.edu (412) 397-
+• Marco Treviño Assistant Coach trevino@rmu.edu 412-397-4446
+• Vinnie Pietrangelo Assistant Coach pietrangelov@rmu.edu (412) 397-
+• Logan Bittle Head Coach bittle@rmu.edu (412) 397-
+• Liam Cavanagh Assistant Coach cavanagh@rmu.edu (412) 397-
+• Keri Clougherty Assistant Coach clougherty@rmu.edu (412) 397-
+• Craig McDonald Head Coach mcdonaldc@rmu.edu (412) 397-
+• Michael Perrino Assistant Coach perrino@rmu.edu (412) 397-
+• Jeff Handman Assistant Coach handman@rmu.edu (412) 397-
+• Courtney Grove Head Coach grovec@rmu.edu (412) 397-
+• Emma Simmers Associate Head Coach simmers@rmu.edu (412) 397-
+• Renee Miller Assistant Coach millerr@rmu.edu (412) 397-
+• Robert Weber Head Coach weberr@rmu.edu (412) 397-
+• Erin Mordaunt Assistant Coach mordaunt@rmu.edu (412) 397-
+• Stacey Van Order Assistant Coach vanorder@rmu.edu (412) 397-
+• Jonathan Potter Head Coach menssoccer@rmu.edu (412) 397-
+• Abraham Lopez-Mendoza Assistant Coach lopezmendoza@rmu.edu (412) 397-
+• Michelle Rick Head Coach womenssoccer@rmu.edu (412) 397-
+• Kayla McNamara Assistant Coach womenssoccer@rmu.edu (412) 397-
+• Jexx Varner Head Coach varner@rmu.edu (412) 397-
+• Maddy Wright Assistant Coach wrightm@rmu.edu (412) 397-
+• Bryan Delsite Head Coach delsite@rmu.edu (412) 397-
+• Brent Shelby Associate Head Coach shelby@rmu.edu (412) 397-
+• Juris Silenieks Assistant Coach silenieks@rmu.edu (412) 397-
+• Danny Doherty Head Coach doherty@rmu.edu (412) 397-
+• Kaylee Thomas Assistant Coach thomaska@rmu.edu (412) 397-
+• Steve Wigginton Head Coach wigginton@rmu.edu (412) 397-

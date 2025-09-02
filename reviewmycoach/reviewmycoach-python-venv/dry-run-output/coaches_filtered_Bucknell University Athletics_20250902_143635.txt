@@ -1,0 +1,486 @@
+COACH ENTRIES FOUND - 2025-09-02 14:36:36
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Student-Athlete Enrichment & Leadership Institute | Davis Gym 208
+Organization: Bucknell University Athletics
+
+Total coaches found: 67
+
+PARSED ENTRIES:
+----------------------------------------
+1. Gallagher 2339
+   Email: wlaxstaff@bucknell.edu
+   Username: wlaxstaff
+   Sports: Soccer
+   Title: Matt Assistant Coach
+   Original line: Gallagher 2339 Matt Assistant Coach wlaxstaff@bucknell.edu
+
+2. To Be
+   Email: 
+   Username: to.be
+   Sports: Soccer
+   Title: To Be Head Cheerleading Coach
+   Original line: To Be Head Cheerleading Coach
+
+3. Tim Warren
+   Email: 
+   Username: tim.warren
+   Sports: Soccer, Strength & Conditioning
+   Title: Tim Warren Football Strength and Conditioning Coach
+   Original line: Tim Warren Football Strength and Conditioning Coach
+
+4. Scott 
+   Email: 
+   Username: scott
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Scott Head Coach 570-577-
+
+5. Jason Neitz
+   Email: 
+   Username: jason.neitz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jason Neitz Assistant Coach 570-577-
+
+6. Josh Kieffer
+   Email: 
+   Username: josh.kieffer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Kieffer Assistant Coach
+
+7. Brett Smith
+   Email: 
+   Username: brett.smith
+   Sports: Soccer
+   Title: Assistant Coach/Hitting Coach
+   Original line: Brett Smith Assistant Coach/Hitting Coach
+
+8. John Griffin
+   Email: 
+   Username: john.griffin
+   Sports: Soccer
+   Title: Head Coach
+   Original line: John Griffin Head Coach 570-577-
+
+9. Matt Griffin
+   Email: 
+   Username: matt.griffin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Griffin Assistant Coach 570-577-
+
+10. Branden 
+   Email: 
+   Username: branden
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Branden Assistant Coach 570-577-
+
+11. Jesse 
+   Email: 
+   Username: jesse
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jesse Assistant Coach 570-577-
+
+12. Mike Walley
+   Email: 
+   Username: mike.walley
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Mike Walley Director of Basketball Operations/Assistant Coach 570-577-
+
+13. Pat to
+   Email: 
+   Username: pat.to
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Pat Behan Special Adviser to the Head Coach
+
+14. Trevor 
+   Email: 
+   Username: trevor
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Trevor Head Coach 570-577-
+
+15. Lauren 
+   Email: 
+   Username: lauren
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Lauren Associate Head Coach 570-577-
+
+16. Edward 
+   Email: 
+   Username: edward
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Edward Assistant Coach 570-577-
+
+17. Danielle 
+   Email: 
+   Username: danielle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Danielle Assistant Coach 570577101
+
+18. Shelby Case
+   Email: 
+   Username: shelby.case
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Shelby Case Basketball Operations/Assistant Coach 570-577-
+
+19. Kevin 
+   Email: 
+   Username: kevin
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kevin Head Coach 570-577-
+
+20. Richard 
+   Email: 
+   Username: richard
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Richard Associate Head Coach 570-577-
+
+21. Ted 
+   Email: 
+   Username: ted
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ted Assistant Coach
+
+22. Ryan 
+   Email: 
+   Username: ryan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Assistant Coach
+
+23. Kaitlin 
+   Email: 
+   Username: kaitlin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaitlin Assistant Coach 570-577-
+
+24. Jim Volunteer
+   Email: 
+   Username: jim.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jim Sharp Volunteer Assistant Coach
+
+25. Kelsey 
+   Email: 
+   Username: kelsey
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kelsey Head Coach 570-577-
+
+26. Ali McEvoy
+   Email: 
+   Username: ali.mcevoy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ali McEvoy Assistant Coach 570-577-
+
+27. Dave 
+   Email: 
+   Username: dave
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dave Head Coach
+
+28. McNeil 
+   Email: 
+   Username: mcneil
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: McNeil Assistant Coach (DBs/Recruiting Coordinator)
+
+29. Sean 
+   Email: 
+   Username: sean
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Assistant Coach (OL)
+
+30. Kentwan 
+   Email: 
+   Username: kentwan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kentwan Assistant Coach (DL)
+
+31. Barr 
+   Email: 
+   Username: barr
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: P.J. Barr Assistant Coach (TEs)
+
+32. Sam 
+   Email: 
+   Username: sam
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sam Assistant Coach (WRs)
+
+33. Chase 
+   Email: 
+   Username: chase
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chase Assistant Coach (LBs/Special Teams)
+
+34. Jerome 
+   Email: 
+   Username: jerome
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jerome Assistant Coach (RB)
+
+35. Michael 
+   Email: 
+   Username: michael
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Michael Head Coach 570-577-
+
+36. Laura Tyler
+   Email: 
+   Username: laura.tyler
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Laura Tyler- Head Coach 570-577-
+
+37. Ben Cook
+   Email: 
+   Username: ben.cook
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ben Cook Assistant Coach
+
+38. Frank 
+   Email: 
+   Username: frank
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Frank Head Coach
+
+39. Kyle 
+   Email: 
+   Username: kyle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Assistant Coach (Offensive Coordinator & Recruiting Coordinator) 570-577-
+
+40. Matt 
+   Email: 
+   Username: matt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Assistant Coach
+
+41. Jackie 
+   Email: 
+   Username: jackie
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jackie Head Coach 570-577-
+
+42. Katy 
+   Email: 
+   Username: katy
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Katy Head Coach
+
+43. Derek 
+   Email: 
+   Username: derek
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Derek Assistant Coach 570-577-
+
+44. Dave Brandt
+   Email: 
+   Username: dave.brandt
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dave Brandt Head Coach 570-577-
+
+45. Jeremy 
+   Email: 
+   Username: jeremy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeremy Assistant Coach
+
+46. Mark Tun
+   Email: 
+   Username: mark.tun
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mark Tun Assistant Coach
+
+47. Kelly Cook
+   Email: 
+   Username: kelly.cook
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kelly Cook Head Coach 570-577-
+
+48. Alexa Ream
+   Email: 
+   Username: alexa.ream
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alexa Ream Assistant Coach 570-577-
+
+49. PJ Steiner
+   Email: 
+   Username: pj.steiner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: PJ Steiner Assistant Coach 570-577-
+
+50. Angie 
+   Email: 
+   Username: angie
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Angie Head Coach
+
+51. Brad Posner
+   Email: 
+   Username: brad.posner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brad Posner Assistant Coach 570-577-
+
+52. Dan 
+   Email: 
+   Username: dan
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dan Head Coach 570-577-
+
+53. Devin 
+   Email: 
+   Username: devin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Devin Assistant Coach
+
+54. Collin 
+   Email: 
+   Username: collin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Collin Assistant Coach
+
+55. Errol Carter
+   Email: 
+   Username: errol.carter
+   Sports: Soccer
+   Title: Errol Carter Diving Coach
+   Original line: Errol Carter Diving Coach 570-577-
+
+56. Jason 
+   Email: 
+   Username: jason
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jason Head Coach 570-577-
+
+57. Tammy 
+   Email: 
+   Username: tammy
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Tammy Head Coach 570-577-
+
+58. Jeremy Interim
+   Email: 
+   Username: jeremy.interim
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jeremy Interim Head Coach 570-577-
+
+59. Kristen 
+   Email: 
+   Username: kristen
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kristen Assistant Coach
+
+60. Allison 
+   Email: 
+   Username: allison
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting Coordinator
+   Original line: Allison Assistant Coach / Recruiting Coordinator
+
+61. John 
+   Email: 
+   Username: john
+   Sports: Soccer
+   Title: Head Coach
+   Original line: John Head Coach 570-577-
+
+62. Arturo 
+   Email: 
+   Username: arturo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Arturo Assistant Coach
+
+63. Tyler Smith
+   Email: 
+   Username: tyler.smith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyler Smith Head Assistant Coach
+
+64. Thomas Flitz
+   Email: 
+   Username: thomas.flitz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Thomas Flitz Assistant Coach
+
+65. Dan Neff
+   Email: 
+   Username: dan.neff
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dan Neff Assistant Coach
+
+66. Dan 
+   Email: 
+   Username: dan
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dan Head Coach
+
+67. Andrew 
+   Email: 
+   Username: andrew
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andrew Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Matt Assistant Coach -> Women's Lacrosse | Davis Gym 214 | Recruit Inquries: wlaxstaff@bucknell.edu

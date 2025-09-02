@@ -1,0 +1,429 @@
+COACH ENTRIES FOUND - 2025-09-02 14:43:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: 75 College Avenue
+Organization: Thiel College Athletics
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joe Schaly
+   Email: jschaly@thiel.edu
+   Username: jschaly
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (724) 589-2138
+   Original line: Joe Schaly Head Coach jschaly@thiel.edu 724-589-2138
+
+2. Tanner Teconchuk
+   Email: tteconchuk@thiel.edu
+   Username: tteconchuk
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (724) 589-2019
+   Original line: Tanner Teconchuk '19 Assistant Coach tteconchuk@thiel.edu 724-589-2019
+
+3. Tim Loomis
+   Email: tloomis@thiel.edu
+   Username: tloomis
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (724) 589-2134
+   Original line: Tim Loomis Head Coach tloomis@thiel.edu 724-589-2134
+
+4. David Pastorkovich
+   Email: dpastorkovich@thiel.edu
+   Username: dpastorkovich
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: David Pastorkovich Assistant Coach dpastorkovich@thiel.edu
+
+5. Jessica Vormelker
+   Email: jvormelker@thiel.edu
+   Username: jvormelker
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (724) 589-2141
+   Original line: Jessica Vormelker '19 Head Coach jvormelker@thiel.edu 724-589-2141
+
+6. Cameron Austin
+   Email: CAustin@thiel.edu
+   Username: CAustin
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Cameron Austin '25 Assistant Coach CAustin@thiel.edu
+
+7. Randall Burnett
+   Email: rburnett@thiel.edu
+   Username: rburnett
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (724) 589-2247
+   Original line: Randall Burnett Head Coach rburnett@thiel.edu 724-589-2247
+
+8. Brandon Litz
+   Email: BLitz@thiel.edu
+   Username: BLitz
+   Sports: Baseball
+   Title: Assistant Director of Track & Field/Head Cross Country Coach
+   Phone: (724) 589-2086
+   Original line: Brandon Litz Assistant Director of Track & Field/Head Cross Country Coach BLitz@thiel.edu 724-589-2086
+
+9. Jeremiah Blackmore
+   Email: jblackmore@thiel.edu
+   Username: jblackmore
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (724) 589-2216
+   Original line: Jeremiah Blackmore Assistant Coach jblackmore@thiel.edu 724-589-2216
+
+10. Isaiah Schafer
+   Email: ischafer@thiel.edu
+   Username: ischafer
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (724) 589-2216
+   Original line: Isaiah Schafer Assistant Coach ischafer@thiel.edu 724-589-2216
+
+11. Sam Bauman
+   Email: sbauman@thiel.edu
+   Username: sbauman
+   Sports: Football
+   Title: Head Coach
+   Phone: (724) 589-2137
+   Original line: Sam Bauman Head Coach sbauman@thiel.edu 724-589-2137
+
+12. Dan McMillen
+   Email: dmcmillen@thiel.edu
+   Username: dmcmillen
+   Sports: Football
+   Title: Head Coach
+   Phone: (724) 589-2239
+   Original line: Dan McMillen '86 Head Coach dmcmillen@thiel.edu 724-589-2239
+
+13. Ryan Morian
+   Email: rmorian@thiel.edu
+   Username: rmorian
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ryan Morian Assistant Coach rmorian@thiel.edu
+
+14. Alex Skvarch
+   Email: askvarch@thiel.edu
+   Username: askvarch
+   Sports: Football
+   Title: Head Coach
+   Phone: (724) 589-2044
+   Original line: Alex Skvarch Head Coach askvarch@thiel.edu 724-589-2044
+
+15. Ryan Sparacino
+   Email: rsparacino@thiel.edu
+   Username: rsparacino
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ryan Sparacino Assistant Coach rsparacino@thiel.edu
+
+16. Bill Wightman
+   Email: wwightman@thiel.edu
+   Username: wwightman
+   Sports: Football
+   Title: Head Coach
+   Phone: (724) 589-2012
+   Original line: Bill Wightman Head Coach wwightman@thiel.edu 724-589-2012
+
+17. Marina Adelizzio
+   Email: madelizzio@thiel.edu
+   Username: madelizzio
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Marina Adelizzio Assistant Coach madelizzio@thiel.edu
+
+18. Zack Walters
+   Email: zwalters@thiel.edu
+   Username: zwalters
+   Sports: Football
+   Title: Head Coach
+   Phone: (724) 589-2768
+   Original line: Zack Walters Head Coach zwalters@thiel.edu 724-589-2768
+
+19. Phil George
+   Email: pgeorge@thiel.edu
+   Username: pgeorge
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Phil George Assistant Coach pgeorge@thiel.edu
+
+20. Jordon Zajac
+   Email: jzajac@thiel.edu
+   Username: jzajac
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jordon Zajac Assistant Coach jzajac@thiel.edu
+
+21. AJ Trobek
+   Email: ATrob797@thiel.edu
+   Username: ATrob797
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: AJ Trobek '25 Volunteer Assistant Coach ATrob797@thiel.edu
+
+22. Anthony Panko
+   Email: APank192@thiel.edu
+   Username: APank192
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Anthony Panko Volunteer Assistant Coach APank192@thiel.edu
+
+23. Carl Dei
+   Email: cdeicas@thiel.edu
+   Username: cdeicas
+   Sports: Football
+   Title: Cas Head Coach
+   Phone: (724) 589-2869
+   Original line: Carl Dei Cas Head Coach cdeicas@thiel.edu 724-589-2869
+
+24. Sam Lauris
+   Email: slauris@thiel.edu
+   Username: slauris
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Sam Lauris Assistant Coach slauris@thiel.edu
+
+25. TO BE
+   Email: thielcollegesoftball@thiel.edu
+   Username: thielcollegesoftball
+   Sports: Softball
+   Title: ANNOUNCED Head Coach
+   Original line: TO BE ANNOUNCED Head Coach thielcollegesoftball@thiel.edu
+
+26. Anthony Kobak
+   Email: akobak@thiel.edu
+   Username: akobak
+   Sports: Softball
+   Title: Head Coach
+   Phone: (724) 589-2076
+   Original line: Anthony Kobak Head Coach akobak@thiel.edu 724-589-2076
+
+27. Brandon Litz
+   Email: BLitz@thiel.edu
+   Username: BLitz
+   Sports: Softball
+   Title: Assistant Director of Track & Field/Head Cross Country Coach
+   Phone: (724) 589-2086
+   Original line: Brandon Litz Assistant Director of Track & Field/Head Cross Country Coach BLitz@thiel.edu 724-589-2086
+
+28. Jeremiah Blackmore
+   Email: jblackmore@thiel.edu
+   Username: jblackmore
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (724) 589-2216
+   Original line: Jeremiah Blackmore Assistant Coach jblackmore@thiel.edu 724-589-2216
+
+29. Isaiah Schafer
+   Email: ischafer@thiel.edu
+   Username: ischafer
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (724) 589-2216
+   Original line: Isaiah Schafer Assistant Coach ischafer@thiel.edu 724-589-2216
+
+30. Henry Gorton
+   Email: HGorton@thiel.edu
+   Username: HGorton
+   Sports: Softball
+   Title: Head Coach
+   Phone: (724) 589-2164
+   Original line: Henry Gorton Head Coach HGorton@thiel.edu 724-589-2164
+
+31. David Gonzalez
+   Email: DGonzalez@thiel.edu
+   Username: DGonzalez
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: David Gonzalez '25 Assistant Coach DGonzalez@thiel.edu
+
+32. Eric Visgitis
+   Email: evisgitis@thiel.edu
+   Username: evisgitis
+   Sports: Softball
+   Title: Head Coach
+   Phone: (724) 589-2078
+   Original line: Eric Visgitis Head Coach evisgitis@thiel.edu 724-589-2078
+
+33. Luke Visgitis
+   Email: lvisgitis@thiel.edu
+   Username: lvisgitis
+   Sports: Softball
+   Title: Associate Head Coach
+   Phone: (724) 589-2078
+   Original line: Luke Visgitis Associate Head Coach lvisgitis@thiel.edu 724-589-2078
+
+34. Thiel 
+   Email: cthurber@thiel.edu
+   Username: cthurber
+   Sports: Softball
+   Title: Craig Thurber Rod E. Wilt '
+   Phone: (724) 589-2814
+   Original line: Craig Thurber Rod E. Wilt '86 Head Coach for Thiel Wrestling cthurber@thiel.edu 724-589-2814
+
+35. Abby Katrinak
+   Email: akatrinak@thiel.edu
+   Username: akatrinak
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lynn Jones '74 Volunteer Assistant Coach akatrinak@thiel.edu
+
+36. Kristin Baker
+   Email: kbaker@thiel.edu
+   Username: kbaker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jim Patterson Volunteer Assistant Coach kbaker@thiel.edu
+
+37. Chris Volunteer
+   Email: 
+   Username: chris.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Mott Volunteer Assistant Coach
+
+38. Jacob Eger
+   Email: jeger@thiel.edu
+   Username: jeger
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Mott '20 Volunteer Assistant Coach jeger@thiel.edu
+
+39. John Volunteer
+   Email: 
+   Username: john.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Reimold Volunteer Assistant Coach
+
+40. Jeff Volunteer
+   Email: 
+   Username: jeff.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeff Wallace Volunteer Assistant Coach
+
+41. Kim Volunteer
+   Email: 
+   Username: kim.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kim Triskett Volunteer Assistant Coach
+
+42. Kaitlyn Schmidt
+   Email: 
+   Username: kaitlyn.schmidt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaitlyn Schmidt '25 Assistant Coach
+
+43. Jyair Backs
+   Email: jythomas@thiel.edu
+   Username: jythomas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ray Olsen Volunteer Assistant Coach jythomas@thiel.edu
+
+44. Mary Volunteer
+   Email: 
+   Username: mary.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mary Cassano Volunteer Assistant Coach
+
+45. Bailey Volunteer
+   Email: 
+   Username: bailey.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bailey Fritz Volunteer Assistant Coach
+
+46. Gage Gladysz
+   Email: 
+   Username: gage.gladysz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gage Gladysz '20 Assistant Coach
+
+47. Logan Long
+   Email: 
+   Username: logan.long
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Logan Long '22 Assistant Coach
+
+48. Lance Phatorus
+   Email: 
+   Username: lance.phatorus
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lance Phatorus Assistant Coach
+
+49. Dylan Proper
+   Email: 
+   Username: dylan.proper
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dylan Proper '22 Assistant Coach
+
+50. Evan Whiteside
+   Email: 
+   Username: evan.whiteside
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Evan Whiteside '24 Assistant Coach
+
+51. Carl Volunteer
+   Email: 
+   Username: carl.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carl Hinderliter Volunteer Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joe Schaly Head Coach jschaly@thiel.edu 724-589-2138
+• Tanner Teconchuk '19 Assistant Coach tteconchuk@thiel.edu 724-589-2019
+• Tim Loomis Head Coach tloomis@thiel.edu 724-589-2134
+• David Pastorkovich Assistant Coach dpastorkovich@thiel.edu
+• Jessica Vormelker '19 Head Coach jvormelker@thiel.edu 724-589-2141
+• Cameron Austin '25 Assistant Coach CAustin@thiel.edu
+• Randall Burnett Head Coach rburnett@thiel.edu 724-589-2247
+• Brandon Litz Assistant Director of Track & Field/Head Cross Country Coach BLitz@thiel.edu 724-589-2086
+• Jeremiah Blackmore Assistant Coach jblackmore@thiel.edu 724-589-2216
+• Isaiah Schafer Assistant Coach ischafer@thiel.edu 724-589-2216
+• Sam Bauman Head Coach sbauman@thiel.edu 724-589-2137
+• Dan McMillen '86 Head Coach dmcmillen@thiel.edu 724-589-2239
+• Ryan Morian Assistant Coach rmorian@thiel.edu
+• Alex Skvarch Head Coach askvarch@thiel.edu 724-589-2044
+• Ryan Sparacino Assistant Coach rsparacino@thiel.edu
+• Bill Wightman Head Coach wwightman@thiel.edu 724-589-2012
+• Marina Adelizzio Assistant Coach madelizzio@thiel.edu
+• Zack Walters Head Coach zwalters@thiel.edu 724-589-2768
+• Phil George Assistant Coach pgeorge@thiel.edu
+• Jordon Zajac Assistant Coach jzajac@thiel.edu
+• AJ Trobek '25 Volunteer Assistant Coach ATrob797@thiel.edu
+• Anthony Panko Volunteer Assistant Coach APank192@thiel.edu
+• Carl Dei Cas Head Coach cdeicas@thiel.edu 724-589-2869
+• Sam Lauris Assistant Coach slauris@thiel.edu
+• TO BE ANNOUNCED Head Coach thielcollegesoftball@thiel.edu
+• Anthony Kobak Head Coach akobak@thiel.edu 724-589-2076
+• Brandon Litz Assistant Director of Track & Field/Head Cross Country Coach BLitz@thiel.edu 724-589-2086
+• Jeremiah Blackmore Assistant Coach jblackmore@thiel.edu 724-589-2216
+• Isaiah Schafer Assistant Coach ischafer@thiel.edu 724-589-2216
+• Henry Gorton Head Coach HGorton@thiel.edu 724-589-2164
+• David Gonzalez '25 Assistant Coach DGonzalez@thiel.edu
+• Eric Visgitis Head Coach evisgitis@thiel.edu 724-589-2078
+• Luke Visgitis Associate Head Coach lvisgitis@thiel.edu 724-589-2078
+• Craig Thurber Rod E. Wilt '86 Head Coach for Thiel Wrestling cthurber@thiel.edu 724-589-2814

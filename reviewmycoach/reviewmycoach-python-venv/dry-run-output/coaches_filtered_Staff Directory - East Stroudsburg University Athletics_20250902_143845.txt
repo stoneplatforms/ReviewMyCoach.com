@@ -1,0 +1,420 @@
+COACH ENTRIES FOUND - 2025-09-02 14:38:45
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: East Stroudsburg University
+Organization: East Stroudsburg University Athletics
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Marybeth Sundermann
+   Email: msunderman@esu.edu
+   Username: msunderman
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Marybeth Sundermann Head Coach msunderman@esu.edu
+
+2. Krikit Gulics
+   Email: kgulics@esu.edu
+   Username: kgulics
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Krikit Gulics Head Coach kgulics@esu.edu 570-422-
+
+3. John Kochmansky
+   Email: jkochmansky@esu.edu
+   Username: jkochmansky
+   Sports: Baseball
+   Title: Head Coach
+   Original line: John Kochmansky Head Coach jkochmansky@esu.edu (570) 422-
+
+4. Darrin Lenhart
+   Email: dlenhart@esu.edu
+   Username: dlenhart
+   Sports: Baseball
+   Title: Recruiting Coordinator / Assistant Coach - Pitching
+   Original line: Darrin Lenhart Recruiting Coordinator / Assistant Coach - Pitching dlenhart@esu.edu (570) 422-
+
+5. Joe Baran
+   Email: jbaran1@live.esu.edu
+   Username: jbaran1
+   Sports: Baseball
+   Title: Assistant Coach - Pitching
+   Original line: Joe Baran Assistant Coach - Pitching jbaran1@live.esu.edu
+
+6. Jeff Wilson
+   Email: jwilson@esu.edu
+   Username: jwilson
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jeff Wilson Head Coach jwilson@esu.edu (570) 422-
+
+7. Sean Hanna
+   Email: shanna1@esu.edu
+   Username: shanna1
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Sean Hanna Assistant Coach shanna1@esu.edu (570) 422-
+
+8. Shawn Thornton
+   Email: shshoops@gmail.com
+   Username: shshoops
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Shawn Thornton Assistant Coach shshoops@gmail.com (570) 422-
+
+9. Devin Atkinson
+   Email: datkinson@live.esu.edu
+   Username: datkinson
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Devin Atkinson Assistant Coach datkinson@live.esu.edu
+
+10. Liz Flooks
+   Email: eflooks@esu.edu
+   Username: eflooks
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Liz Flooks Head Coach eflooks@esu.edu (570) 422-
+
+11. Bob Dubina
+   Email: rdubina@esu.edu
+   Username: rdubina
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Bob Dubina Assistant Coach rdubina@esu.edu (570) 422-
+
+12. Al McCormick
+   Email: amccormick@esu.edu
+   Username: amccormick
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Al McCormick Head Coach amccormick@esu.edu (570) 422-
+
+13. Sandy Miller
+   Email: smiller@esu.edu
+   Username: smiller
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Sandy Miller Head Coach smiller@esu.edu (570) 422-
+
+14. Katie Ord
+   Email: cord@esu.edu
+   Username: cord
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Katie Ord Assistant Coach cord@esu.edu (570) 422-
+
+15. Jimmy Terwilliger
+   Email: mterwilli2@esu.edu
+   Username: mterwilli2
+   Sports: Football
+   Title: Head Coach
+   Original line: Jimmy Terwilliger Head Coach mterwilli2@esu.edu (570) 422-
+
+16. Mike Terwilliger
+   Email: mterwillig@esu.edu
+   Username: mterwillig
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Mike Terwilliger Assistant Coach - Offensive Coordinator mterwillig@esu.edu (570) 422-
+
+17. Mike Lackey
+   Email: mlackey@esu.edu
+   Username: mlackey
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Mike Lackey Assistant Coach - Defensive Coordinator mlackey@esu.edu (570) 422-
+
+18. Line 
+   Email: msantella@esu.edu
+   Username: msantella
+   Sports: Football
+   Title: Mike Santella Assistant Coach
+   Original line: Mike Santella Assistant Coach - Offensive Line msantella@esu.edu (570) 422-
+
+19. Rourke Asst
+   Email: rcolligan@esu.edu
+   Username: rcolligan
+   Sports: Football
+   Title: Coach
+   Original line: Rourke Colligan Asst. Coach (Defensive Line) rcolligan@esu.edu
+
+20. Dawson Asst
+   Email: dstuart1@live.esu.edu
+   Username: dstuart1
+   Sports: Football
+   Title: Coach
+   Original line: Dawson Stuart Asst. Coach (Wide Receivers) dstuart1@live.esu.edu
+
+21. Xeni Barakos-Yoder
+   Email: xbarakos@esu.edu
+   Username: xbarakos
+   Sports: Football
+   Title: Head Coach
+   Original line: Xeni Barakos-Yoder Head Coach xbarakos@esu.edu (570) 422-
+
+22. Rachel Ward
+   Email: rward11@esu.edu
+   Username: rward11
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Rachel Ward Assistant Coach rward11@esu.edu (570) 422-
+
+23. Meagan DeWan
+   Email: mdewan1@esu.edu
+   Username: mdewan1
+   Sports: Football
+   Title: Head Coach
+   Original line: Meagan DeWan Head Coach mdewan1@esu.edu (570) 422-
+
+24. Regan Allsop
+   Email: aregan2@esu.edu
+   Username: aregan2
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Regan Allsop Assistant Coach aregan2@esu.edu
+
+25. Tom Mustac
+   Email: tmustac@esu.edu
+   Username: tmustac
+   Sports: Football
+   Title: Head Coach
+   Original line: Tom Mustac Head Coach tmustac@esu.edu (570) 422-
+
+26. Colin Muller
+   Email: cmuller3@esu.edu
+   Username: cmuller3
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Colin Muller Assistant Coach cmuller3@esu.edu (570) 422-
+
+27. Jaime Wohlbach
+   Email: jwohlbach1@esu.edu
+   Username: jwohlbach1
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jaime Wohlbach Head Coach jwohlbach1@esu.edu (570) 422-
+
+28. Sami Britton
+   Email: sbritton@esu.edu
+   Username: sbritton
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sami Britton Assistant Coach sbritton@esu.edu
+
+29. Fan Yang
+   Email: fyang@esu.edu
+   Username: fyang
+   Sports: Softball
+   Title: Head Coach
+   Original line: Fan Yang Head Coach fyang@esu.edu 570-422-
+
+30. Troy Haas
+   Email: thaas3@esu.edu
+   Username: thaas3
+   Sports: Softball
+   Title: Head Coach
+   Original line: Troy Haas Head Coach thaas3@esu.edu 570-422-
+
+31. Justin Germani
+   Email: jgermani@esu.edu
+   Username: jgermani
+   Sports: Softball
+   Title: Head Coach - Men's Track
+   Original line: Justin Germani Head Coach - Men's Track and Field jgermani@esu.edu (570) 422-
+
+32. Cortney Stafford
+   Email: cstafford@esu.edu
+   Username: cstafford
+   Sports: Softball
+   Title: Head Coach - Women
+   Original line: Cortney Stafford Head Coach - Women's Track & Field cstafford@esu.edu 570-422-
+
+33. Adam Mengel
+   Email: amengel@esu.edu
+   Username: amengel
+   Sports: Softball
+   Title: s Cross Country / Assistant Coach
+   Original line: Adam Mengel Head Coach - Men's & Women's Cross Country / Assistant Coach - amengel@esu.edu (570) 422-
+
+34. Karen Gaita
+   Email: kgaita@esu.edu
+   Username: kgaita
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Karen Gaita Assistant Coach kgaita@esu.edu
+
+35. Jim Morrison
+   Email: jmorrison@esu.edu
+   Username: jmorrison
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jim Morrison Assistant Coach jmorrison@esu.edu
+
+36. Tricia Melfy
+   Email: pmelfy@esu.edu
+   Username: pmelfy
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tricia Melfy Head Coach pmelfy@esu.edu (570) 422-
+
+37. Rachel Abramson
+   Email: rabramson1@esu.edu
+   Username: rabramson1
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Rachel Abramson Assistant Coach rabramson1@esu.edu
+
+38. Anibal Nieves
+   Email: anieves2@esu.edu
+   Username: anieves2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Anibal Nieves Head Coach anieves2@esu.edu (570) 422-
+
+39. Anibal Nieves
+   Email: anieves2@esu.edu
+   Username: anieves2
+   Sports: Softball
+   Title: Interim Head Coach
+   Original line: Anibal Nieves Interim Head Coach anieves2@esu.edu (570) 422-
+
+40. Mia Macaluso
+   Email: mmacaluso2@esu.edu
+   Username: mmacaluso2
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mia Macaluso Assistant Coach mmacaluso2@esu.edu (570) 422-
+
+41. Jeremy Piatkiewicz
+   Email: 
+   Username: jeremy.piatkiewicz
+   Sports: Soccer
+   Title: Assistant Coach - Defense / OF / Baserunning
+   Original line: Jeremy Piatkiewicz Assistant Coach - Defense / OF / Baserunning
+
+42. Bob Madsen
+   Email: 
+   Username: bob.madsen
+   Sports: Soccer
+   Title: Head Coach - Operations
+   Original line: Bob Madsen Assistant to the Head Coach - Operations
+
+43. Marc Gaudet
+   Email: mgaudet@live.esu.edu
+   Username: mgaudet
+   Sports: Soccer
+   Title: Coach
+   Original line: Raymond Simmons IV Asst. Coach (Linebackers) mgaudet@live.esu.edu
+
+44. Jalen Asst
+   Email: 
+   Username: jalen.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Jalen Hanton Asst. Coach (Defensive Backs)
+
+45. Antonio Asst
+   Email: 
+   Username: antonio.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Antonio Santana Asst. Coach (Defensive Backs)
+
+46. AJ Asst
+   Email: 
+   Username: aj.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: AJ Moncman Asst. Coach (Offensive Line / Specialists)
+
+47. Thomas Hulle
+   Email: 
+   Username: thomas.hulle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Thomas Hulle Assistant Coach
+
+48. Emily Raymond
+   Email: 
+   Username: emily.raymond
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emily Raymond Assistant Coach
+
+49. Janel Jones
+   Email: 
+   Username: janel.jones
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Janel Jones Assistant Coach
+
+50. Avery Graduate
+   Email: afrancis3@live.esu.edu
+   Username: afrancis3
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bo Vicendese Assistant Coach afrancis3@live.esu.edu
+
+51. Lexi Volunteer
+   Email: 
+   Username: lexi.volunteer
+   Sports: Soccer
+   Title: Lexi Wright Volunteer Coach
+   Original line: Lexi Wright Volunteer Coach
+
+52. Matt Ciampa
+   Email: 
+   Username: matt.ciampa
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Ciampa Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Marybeth Sundermann Head Coach msunderman@esu.edu
+• Krikit Gulics Head Coach kgulics@esu.edu 570-422-
+• John Kochmansky Head Coach jkochmansky@esu.edu (570) 422-
+• Darrin Lenhart Recruiting Coordinator / Assistant Coach - Pitching dlenhart@esu.edu (570) 422-
+• Joe Baran Assistant Coach - Pitching jbaran1@live.esu.edu
+• Jeff Wilson Head Coach jwilson@esu.edu (570) 422-
+• Sean Hanna Assistant Coach shanna1@esu.edu (570) 422-
+• Shawn Thornton Assistant Coach shshoops@gmail.com (570) 422-
+• Devin Atkinson Assistant Coach datkinson@live.esu.edu
+• Liz Flooks Head Coach eflooks@esu.edu (570) 422-
+• Bob Dubina Assistant Coach rdubina@esu.edu (570) 422-
+• Al McCormick Head Coach amccormick@esu.edu (570) 422-
+• Sandy Miller Head Coach smiller@esu.edu (570) 422-
+• Katie Ord Assistant Coach cord@esu.edu (570) 422-
+• Jimmy Terwilliger Head Coach mterwilli2@esu.edu (570) 422-
+• Mike Terwilliger Assistant Coach - Offensive Coordinator mterwillig@esu.edu (570) 422-
+• Mike Lackey Assistant Coach - Defensive Coordinator mlackey@esu.edu (570) 422-
+• Mike Santella Assistant Coach - Offensive Line msantella@esu.edu (570) 422-
+• Rourke Colligan Asst. Coach (Defensive Line) rcolligan@esu.edu
+• Dawson Stuart Asst. Coach (Wide Receivers) dstuart1@live.esu.edu
+• Xeni Barakos-Yoder Head Coach xbarakos@esu.edu (570) 422-
+• Rachel Ward Assistant Coach rward11@esu.edu (570) 422-
+• Meagan DeWan Head Coach mdewan1@esu.edu (570) 422-
+• Regan Allsop Assistant Coach aregan2@esu.edu
+• Tom Mustac Head Coach tmustac@esu.edu (570) 422-
+• Colin Muller Assistant Coach cmuller3@esu.edu (570) 422-
+• Jaime Wohlbach Head Coach jwohlbach1@esu.edu (570) 422-
+• Sami Britton Assistant Coach sbritton@esu.edu
+• Fan Yang Head Coach fyang@esu.edu 570-422-
+• Troy Haas Head Coach thaas3@esu.edu 570-422-
+• Justin Germani Head Coach - Men's Track and Field jgermani@esu.edu (570) 422-
+• Cortney Stafford Head Coach - Women's Track & Field cstafford@esu.edu 570-422-
+• Adam Mengel Head Coach - Men's & Women's Cross Country / Assistant Coach - amengel@esu.edu (570) 422-
+• Karen Gaita Assistant Coach kgaita@esu.edu
+• Jim Morrison Assistant Coach jmorrison@esu.edu
+• Tricia Melfy Head Coach pmelfy@esu.edu (570) 422-
+• Rachel Abramson Assistant Coach rabramson1@esu.edu
+• Anibal Nieves Head Coach anieves2@esu.edu (570) 422-
+• Anibal Nieves Interim Head Coach anieves2@esu.edu (570) 422-
+• Mia Macaluso Assistant Coach mmacaluso2@esu.edu (570) 422-

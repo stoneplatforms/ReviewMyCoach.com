@@ -1,0 +1,435 @@
+COACH ENTRIES FOUND - 2025-09-02 14:37:24
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Allegheny College
+Organization: Allegheny College Athletics
+
+Total coaches found: 53
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dylan Chan
+   Email: dchan@allegheny.edu
+   Username: dchan
+   Sports: Soccer
+   Title: Head Peak Performance Coach
+   Original line: Dylan Chan Head Peak Performance Coach 814-332- dchan@allegheny.edu
+
+2. Toby Cline
+   Email: tcline@allegheny.edu
+   Username: tcline
+   Sports: Soccer
+   Title: Assistant Peak Performance Coach
+   Original line: Toby Cline Assistant Peak Performance Coach 814-332- tcline@allegheny.edu
+
+3. Brandon Crum
+   Email: bcrum@allegheny.edu
+   Username: bcrum
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Brandon Crum Head Baseball Coach 814-332- bcrum@allegheny.edu
+
+4. Chasen Claus
+   Email: cclaus@allegheny.edu
+   Username: cclaus
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Chasen Claus Assistant Baseball Coach 814-332- cclaus@allegheny.edu
+
+5. Richie Rowe
+   Email: rrowe@allegheny.edu
+   Username: rrowe
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Richie Rowe Assistant Baseball Coach 814-332- rrowe@allegheny.edu
+
+6. Jason Falvo
+   Email: jfalvo@allegheny.edu
+   Username: jfalvo
+   Sports: Baseball
+   Title: Head Cross Country and Track & Field Coach
+   Original line: Jason Falvo Head Cross Country and Track & Field Coach 814-332- jfalvo@allegheny.edu
+
+7. Wade Floyd
+   Email: wfloyd@allegheny.edu
+   Username: wfloyd
+   Sports: Baseball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Wade Floyd Assistant Cross Country and Track & Field Coach 814-332- wfloyd@allegheny.edu
+
+8. Tara Gologram
+   Email: tgologram@allegheny.edu
+   Username: tgologram
+   Sports: Baseball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Tara Gologram Assistant Cross Country and Track & Field Coach 814-332- tgologram@allegheny.edu
+
+9. Marques Johnson
+   Email: mjohnson@allegheny.edu
+   Username: mjohnson
+   Sports: Baseball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Marques Johnson Assistant Cross Country and Track & Field Coach 814-332- mjohnson@allegheny.edu
+
+10. Pat Sullivan
+   Email: psullivan@allegheny.edu
+   Username: psullivan
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Pat Sullivan Head Men's Basketball Coach 814-332- psullivan@allegheny.edu
+
+11. Grant Spicer
+   Email: gspicer@allegheny.edu
+   Username: gspicer
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Grant Spicer Assistant Men's Basketball Coach 814-332- gspicer@allegheny.edu
+
+12. Trey Volunteer
+   Email: twilliams2@allegheny.edu
+   Username: twilliams2
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Trey Williams '24 Volunteer Assistant Men's Basketball Coach 814-332- twilliams2@allegheny.edu
+
+13. Kelly Muffley
+   Email: kmuffley@allegheny.edu
+   Username: kmuffley
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Kelly Muffley Head Women's Basketball Coach 814-332- kmuffley@allegheny.edu
+
+14. Christina Davis
+   Email: cdavis@allegheny.edu
+   Username: cdavis
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Christina Davis Assistant Women's Basketball Coach 814-332- cdavis@allegheny.edu
+
+15. Connor Volunteer
+   Email: cwhite@allegheny.edu
+   Username: cwhite
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Connor White Volunteer Assistant Women's Basketball Coach 814-332- cwhite@allegheny.edu
+
+16. Lauren Thomas
+   Email: lthomas@allegheny.edu
+   Username: lthomas
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Lauren Thomas Head Field Hockey Coach 814-332- lthomas@allegheny.edu
+
+17. Hadley Wiktor
+   Email: hwiktor@allegheny.edu
+   Username: hwiktor
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Hadley Wiktor Assistant Field Hockey Coach 814-332- hwiktor@allegheny.edu
+
+18. Braden Layer
+   Email: blayer@allegheny.edu
+   Username: blayer
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Braden Layer Head Football Coach 814-332- blayer@allegheny.edu
+
+19. Matt Cochran
+   Email: mcochran@allegheny.edu
+   Username: mcochran
+   Sports: Football
+   Title: Associate Head Football Coach/Offensive Coordinator
+   Original line: Matt Cochran Associate Head Football Coach/Offensive Coordinator (Offensive 814-332- mcochran@allegheny.edu
+
+20. Matt Hanhold
+   Email: mhanhold@allegheny.edu
+   Username: mhanhold
+   Sports: Football
+   Title: Assistant Football Coach/Defensive Coordinator
+   Original line: Matt Hanhold Assistant Football Coach/Defensive Coordinator (Linebackers) 814-332- mhanhold@allegheny.edu
+
+21. Jake Taggart
+   Email: jtaggart@allegheny.edu
+   Username: jtaggart
+   Sports: Football
+   Title: Assistant Football Coach/Special Teams Coordinator
+   Original line: Jake Taggart Assistant Football Coach/Special Teams Coordinator (Wide 814-332- jtaggart@allegheny.edu
+
+22. Aaron Alvarez
+   Email: aalvarez@allegheny.edu
+   Username: aalvarez
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Aaron Alvarez Assistant Football Coach (Defensive Backs) 814-332- aalvarez@allegheny.edu
+
+23. Clay Denstorff
+   Email: cdenstorff@allegheny.edu
+   Username: cdenstorff
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Clay Denstorff Assistant Football Coach (Defensive Line) 814-332- cdenstorff@allegheny.edu
+
+24. Devin Williams
+   Email: dwilliams@allegheny.edu
+   Username: dwilliams
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Devin Williams Assistant Football Coach (Running Backs) 814-332- dwilliams@allegheny.edu
+
+25. Tyler Wills
+   Email: twills@allegheny.edu
+   Username: twills
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Tyler Wills Assistant Football Coach (Outside Linebackers) 814-332- twills@allegheny.edu
+
+26. Jeff Groff
+   Email: jgroff@allegheny.edu
+   Username: jgroff
+   Sports: Football
+   Title: s Golf Coach
+   Original line: Jeff Groff Head Men's and Women's Golf Coach 814-332- jgroff@allegheny.edu
+
+27. Abby Sorensen
+   Email: asorensen@allegheny.edu
+   Username: asorensen
+   Sports: Football
+   Title: s Golf Coach
+   Original line: Abby Sorensen '12 Assistant Men's and Women's Golf Coach 814-392- asorensen@allegheny.edu
+
+28. Jeff Roberts
+   Email: jroberts@allegheny.edu
+   Username: jroberts
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Jeff Roberts Head Men's Lacrosse Coach 814-332- jroberts@allegheny.edu
+
+29. AJ Beck
+   Email: abeck@allegheny.edu
+   Username: abeck
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: AJ Beck Assistant Men's Lacrosse Coach 814-332- abeck@allegheny.edu
+
+30. Joe Pedisich
+   Email: jpedisich@allegheny.edu
+   Username: jpedisich
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Joe Pedisich Assistant Men's Lacrosse Coach 814-332- jpedisich@allegheny.edu
+
+31. Jessica Smith
+   Email: jsmith3@allegheny.edu
+   Username: jsmith3
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Jessica Smith Head Women's Lacrosse Coach 814-332- jsmith3@allegheny.edu
+
+32. Georgie Volna
+   Email: gvolna@allegheny.edu
+   Username: gvolna
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Georgie Volna Assistant Women's Lacrosse Coach 814-332- gvolna@allegheny.edu
+
+33. John Lichina
+   Email: jlichina@allegheny.edu
+   Username: jlichina
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: John Lichina '14 Head Men's Soccer Coach 814-332- jlichina@allegheny.edu
+
+34. Trevor Jones
+   Email: tjones@allegheny.edu
+   Username: tjones
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Trevor Jones Assistant Men's Soccer Coach 814-332- tjones@allegheny.edu
+
+35. Lacey Phillips
+   Email: lphillips@allegheny.edu
+   Username: lphillips
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Lacey Phillips Head Women's Soccer Coach 814-332- lphillips@allegheny.edu
+
+36. Leanne Cardoso-Bastos
+   Email: lcardosobastos@allegheny.edu
+   Username: lcardosobastos
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Leanne Cardoso-Bastos Assistant Women's Soccer Coach (Goalkeepers) 814-332- lcardosobastos@allegheny.edu
+
+37. Beth Curtiss
+   Email: bcurtiss@allegheny.edu
+   Username: bcurtiss
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Beth Curtiss Head Softball Coach 814-332- bcurtiss@allegheny.edu
+
+38. Joplin Osgood
+   Email: josgood@allegheny.edu
+   Username: josgood
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Joplin Osgood '22 Assistant Softball Coach 814-332- josgood@allegheny.edu
+
+39. Troy Lubanski
+   Email: tlubanski@allegheny.edu
+   Username: tlubanski
+   Sports: Softball
+   Title: Head Swimming and Diving Coach
+   Original line: Troy Lubanski Head Swimming and Diving Coach 814-332- tlubanski@allegheny.edu
+
+40. Andrew Eggersgluss
+   Email: aeggersgluss@allegheny.edu
+   Username: aeggersgluss
+   Sports: Softball
+   Title: Assistant Swimming and Diving Coach
+   Original line: Andrew Eggersgluss Assistant Swimming and Diving Coach 814-332- aeggersgluss@allegheny.edu
+
+41. Dave Hayden
+   Email: dhayden@allegheny.edu
+   Username: dhayden
+   Sports: Softball
+   Title: s Tennis Coach
+   Original line: Dave Hayden Head Men's and Women's Tennis Coach 814-332- dhayden@allegheny.edu
+
+42. Hamilton Hall
+   Email: hhall@allegheny.edu
+   Username: hhall
+   Sports: Softball
+   Title: s Tennis Coach
+   Original line: Hamilton Hall Assistant Men's and Women's Tennis Coach 814-332- hhall@allegheny.edu
+
+43. Jason Falvo
+   Email: jfalvo@allegheny.edu
+   Username: jfalvo
+   Sports: Softball
+   Title: Head Cross Country and Track & Field Coach
+   Original line: Jason Falvo Head Cross Country and Track & Field Coach 814-332- jfalvo@allegheny.edu
+
+44. Wade Floyd
+   Email: wfloyd@allegheny.edu
+   Username: wfloyd
+   Sports: Softball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Wade Floyd Assistant Cross Country and Track & Field Coach 814-332- wfloyd@allegheny.edu
+
+45. Tara Gologram
+   Email: tgologram@allegheny.edu
+   Username: tgologram
+   Sports: Softball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Tara Gologram Assistant Cross Country and Track & Field Coach 814-332- tgologram@allegheny.edu
+
+46. Marques Johnson
+   Email: mjohnson@allegheny.edu
+   Username: mjohnson
+   Sports: Softball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Marques Johnson Assistant Cross Country and Track & Field Coach 814-332- mjohnson@allegheny.edu
+
+47. Kelly Barzak
+   Email: kbarzak@allegheny.edu
+   Username: kbarzak
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Kelly Barzak Head Volleyball Coach 814-332- kbarzak@allegheny.edu
+
+48. Zach Rombach
+   Email: zrombach@allegheny.edu
+   Username: zrombach
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Zach Rombach Assistant Volleyball Coach 814-332- zrombach@allegheny.edu
+
+49. Kate Costanzo
+   Email: kate.costanzo@allegheny.edu
+   Username: kate.costanzo
+   Sports: Soccer
+   Title: Football Coach
+   Original line: Football Coach (Kickers and Punters) 5208 kate.costanzo@allegheny.edu
+
+50. Darryl Volunteer
+   Email: 
+   Username: darryl.volunteer
+   Sports: Baseball
+   Title: Darryl Jones Volunteer Assistant Baseball Coach
+   Original line: Darryl Jones Volunteer Assistant Baseball Coach
+
+51. Nick Volunteer
+   Email: 
+   Username: nick.volunteer
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Nick VanDemark Volunteer Assistant Women's Basketball Coach
+
+52. Angelo Panzetta
+   Email: apanzett@allegheny.edu
+   Username: apanzett
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Carter Hassenplug '25 Volunteer Assistant Men's and Women's Golf Coach apanzett@allegheny.edu
+
+53. Bill Volunteer
+   Email: 
+   Username: bill.volunteer
+   Sports: Softball
+   Title: Bill Strub Volunteer Assistant Softball Coach
+   Original line: Bill Strub Volunteer Assistant Softball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dylan Chan Head Peak Performance Coach 814-332- dchan@allegheny.edu
+• Toby Cline Assistant Peak Performance Coach 814-332- tcline@allegheny.edu
+• Brandon Crum Head Baseball Coach 814-332- bcrum@allegheny.edu
+• Chasen Claus Assistant Baseball Coach 814-332- cclaus@allegheny.edu
+• Richie Rowe Assistant Baseball Coach 814-332- rrowe@allegheny.edu
+• Jason Falvo Head Cross Country and Track & Field Coach 814-332- jfalvo@allegheny.edu
+• Wade Floyd Assistant Cross Country and Track & Field Coach 814-332- wfloyd@allegheny.edu
+• Tara Gologram Assistant Cross Country and Track & Field Coach 814-332- tgologram@allegheny.edu
+• Marques Johnson Assistant Cross Country and Track & Field Coach 814-332- mjohnson@allegheny.edu
+• Pat Sullivan Head Men's Basketball Coach 814-332- psullivan@allegheny.edu
+• Grant Spicer Assistant Men's Basketball Coach 814-332- gspicer@allegheny.edu
+• Trey Williams '24 Volunteer Assistant Men's Basketball Coach 814-332- twilliams2@allegheny.edu
+• Kelly Muffley Head Women's Basketball Coach 814-332- kmuffley@allegheny.edu
+• Christina Davis Assistant Women's Basketball Coach 814-332- cdavis@allegheny.edu
+• Connor White Volunteer Assistant Women's Basketball Coach 814-332- cwhite@allegheny.edu
+• Lauren Thomas Head Field Hockey Coach 814-332- lthomas@allegheny.edu
+• Hadley Wiktor Assistant Field Hockey Coach 814-332- hwiktor@allegheny.edu
+• Braden Layer Head Football Coach 814-332- blayer@allegheny.edu
+• Matt Cochran Associate Head Football Coach/Offensive Coordinator (Offensive 814-332- mcochran@allegheny.edu
+• Matt Hanhold Assistant Football Coach/Defensive Coordinator (Linebackers) 814-332- mhanhold@allegheny.edu
+• Jake Taggart Assistant Football Coach/Special Teams Coordinator (Wide 814-332- jtaggart@allegheny.edu
+• Aaron Alvarez Assistant Football Coach (Defensive Backs) 814-332- aalvarez@allegheny.edu
+• Clay Denstorff Assistant Football Coach (Defensive Line) 814-332- cdenstorff@allegheny.edu
+• Devin Williams Assistant Football Coach (Running Backs) 814-332- dwilliams@allegheny.edu
+• Tyler Wills Assistant Football Coach (Outside Linebackers) 814-332- twills@allegheny.edu
+• Jeff Groff Head Men's and Women's Golf Coach 814-332- jgroff@allegheny.edu
+• Abby Sorensen '12 Assistant Men's and Women's Golf Coach 814-392- asorensen@allegheny.edu
+• Jeff Roberts Head Men's Lacrosse Coach 814-332- jroberts@allegheny.edu
+• AJ Beck Assistant Men's Lacrosse Coach 814-332- abeck@allegheny.edu
+• Joe Pedisich Assistant Men's Lacrosse Coach 814-332- jpedisich@allegheny.edu
+• Jessica Smith Head Women's Lacrosse Coach 814-332- jsmith3@allegheny.edu
+• Georgie Volna Assistant Women's Lacrosse Coach 814-332- gvolna@allegheny.edu
+• John Lichina '14 Head Men's Soccer Coach 814-332- jlichina@allegheny.edu
+• Trevor Jones Assistant Men's Soccer Coach 814-332- tjones@allegheny.edu
+• Lacey Phillips Head Women's Soccer Coach 814-332- lphillips@allegheny.edu
+• Leanne Cardoso-Bastos Assistant Women's Soccer Coach (Goalkeepers) 814-332- lcardosobastos@allegheny.edu
+• Beth Curtiss Head Softball Coach 814-332- bcurtiss@allegheny.edu
+• Joplin Osgood '22 Assistant Softball Coach 814-332- josgood@allegheny.edu
+• Troy Lubanski Head Swimming and Diving Coach 814-332- tlubanski@allegheny.edu
+• Andrew Eggersgluss Assistant Swimming and Diving Coach 814-332- aeggersgluss@allegheny.edu
+• Dave Hayden Head Men's and Women's Tennis Coach 814-332- dhayden@allegheny.edu
+• Hamilton Hall Assistant Men's and Women's Tennis Coach 814-332- hhall@allegheny.edu
+• Jason Falvo Head Cross Country and Track & Field Coach 814-332- jfalvo@allegheny.edu
+• Wade Floyd Assistant Cross Country and Track & Field Coach 814-332- wfloyd@allegheny.edu
+• Tara Gologram Assistant Cross Country and Track & Field Coach 814-332- tgologram@allegheny.edu
+• Marques Johnson Assistant Cross Country and Track & Field Coach 814-332- mjohnson@allegheny.edu
+• Kelly Barzak Head Volleyball Coach 814-332- kbarzak@allegheny.edu
+• Zach Rombach Assistant Volleyball Coach 814-332- zrombach@allegheny.edu

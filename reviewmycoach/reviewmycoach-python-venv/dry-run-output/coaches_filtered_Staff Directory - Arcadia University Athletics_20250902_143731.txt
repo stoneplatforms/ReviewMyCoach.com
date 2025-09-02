@@ -1,0 +1,611 @@
+COACH ENTRIES FOUND - 2025-09-02 14:37:31
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Arcadia University
+Organization: Arcadia University Athletics
+
+Total coaches found: 75
+
+PARSED ENTRIES:
+----------------------------------------
+1. Laura Miele
+   Email: mielel@arcadia.edu
+   Username: mielel
+   Sports: Soccer
+   Title: Volunteer Sport Psychology Coach
+   Original line: Laura Miele Volunteer Sport Psychology Coach mielel@arcadia.edu
+
+2. Dave Hughes
+   Email: hughesd@arcadia.edu
+   Username: hughesd
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Dave Hughes Head Strength & Conditioning Coach hughesd@arcadia.edu 215-572-
+
+3. Dustin Malandra
+   Email: malandrad@arcadia.edu
+   Username: malandrad
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Dustin Malandra Assistant Strength and Conditioning Coach malandrad@arcadia.edu 215-572-
+
+4. Robbie Williamson
+   Email: williamsonr@arcadia.edu
+   Username: williamsonr
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Robbie Williamson Assistant Strength and Conditioning Coach williamsonr@arcadia.edu 215-572-
+
+5. Chuck Thielmann
+   Email: thielmannc@arcadia.edu
+   Username: thielmannc
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Chuck Thielmann Head Baseball Coach thielmannc@arcadia.edu 215-572-
+
+6. Dylan Tice
+   Email: ticed@arcadia.edu
+   Username: ticed
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Dylan Tice Assistant Coach ticed@arcadia.edu 215-572-
+
+7. Jake Bargery
+   Email: bargeryj@arcadia.edu
+   Username: bargeryj
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jake Bargery Assistant Coach bargeryj@arcadia.edu
+
+8. Jon Conant
+   Email: conantj@arcadia.edu
+   Username: conantj
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Jon Conant Volunteer Assistant Coach conantj@arcadia.edu 215-572-
+
+9. Cam Seymour
+   Email: seymourc@arcadia.edu
+   Username: seymourc
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Cam Seymour M'25 Volunteer Assistant Coach seymourc@arcadia.edu
+
+10. Gabe Diaz
+   Email: diazg@arcadia.edu
+   Username: diazg
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Gabe Diaz '25 Volunteer Assistant Coach diazg@arcadia.edu
+
+11. Adam Van
+   Email: vanzelsta@arcadia.edu
+   Username: vanzelsta
+   Sports: Baseball
+   Title: Zelst Head Men's Basketball Coach
+   Original line: Adam Van Zelst Head Men's Basketball Coach vanzelsta@arcadia.edu 215-572-
+
+12. Phil Pierfy
+   Email: pierfyp@arcadia.edu
+   Username: pierfyp
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Phil Pierfy '19 Assistant Coach pierfyp@arcadia.edu 215-572-
+
+13. Charles Brown
+   Email: brownc03@arcadia.edu
+   Username: brownc03
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Charles Brown M'78 Assistant Coach brownc03@arcadia.edu 215-572-
+
+14. Matt Dolan
+   Email: dolanm@arcadia.edu
+   Username: dolanm
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Dolan Assistant Coach dolanm@arcadia.edu
+
+15. Rylee Derr
+   Email: derrr@arcadia.edu
+   Username: derrr
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Rylee Derr Assistant Coach derrr@arcadia.edu 215-572-
+
+16. To Be
+   Email: athletics@arcadia.edu
+   Username: athletics
+   Sports: Baseball
+   Title: Announced Head Track and Field/Cross Country Coach
+   Original line: To Be Announced Head Track and Field/Cross Country Coach athletics@arcadia.edu
+
+17. Ben Bumgarner
+   Email: bumgarnerb@arcadia.edu
+   Username: bumgarnerb
+   Sports: Baseball
+   Title: Interim Head Cross Country Coach/Assistant Track
+   Original line: Ben Bumgarner Interim Head Cross Country Coach/Assistant Track and Field bumgarnerb@arcadia.edu 267-620-
+
+18. Frances Trainer
+   Email: trainerf@arcadia.edu
+   Username: trainerf
+   Sports: Baseball
+   Title: Interim Head Track and Field Coach/Assistant
+   Original line: Frances Trainer Interim Head Track and Field Coach/Assistant Cross Country trainerf@arcadia.edu 267-620-
+
+19. Noah Grimm
+   Email: grimmn@arcadia.edu
+   Username: grimmn
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Noah Grimm Assistant Coach grimmn@arcadia.edu 267-620-
+
+20. Morgan Andrews
+   Email: andrewsm@arcadia.edu
+   Username: andrewsm
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Morgan Andrews Assistant Coach andrewsm@arcadia.edu
+
+21. Cole Gorham
+   Email: gorhamc@arcadia.edu
+   Username: gorhamc
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Cole Gorham Assistant Coach gorhamc@arcadia.edu
+
+22. Nicholas Letherbarrow
+   Email: letherbarrown@arcadia.edu
+   Username: letherbarrown
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Nicholas Letherbarrow Head Coach (League of Legends, Overwatch, & Rocket League) letherbarrown@arcadia.edu 215-517-
+
+23. Corey Davis
+   Email: davisc@arcadia.edu
+   Username: davisc
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Corey Davis Head Coach (Super Smash Bros. Ultimate) davisc@arcadia.edu 215-517-
+
+24. Regan Sammons
+   Email: sammonsr@arcadia.edu
+   Username: sammonsr
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Regan Sammons '23 Head Field Hockey Coach sammonsr@arcadia.edu 215-572-
+
+25. Alex Wesneski
+   Email: wesneskia@arcadia.edu
+   Username: wesneskia
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Alex Wesneski Assistant Coach wesneskia@arcadia.edu 267-859-
+
+26. Chuck Carney
+   Email: carneyc@arcadia.edu
+   Username: carneyc
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Chuck Carney Assistant Coach carneyc@arcadia.edu 267-620-
+
+27. Barry Dear
+   Email: dearb@arcadia.edu
+   Username: dearb
+   Sports: Track & Field
+   Title: Head Men's and Women's Golf Coach
+   Original line: Barry Dear Head Men's and Women's Golf Coach dearb@arcadia.edu 215-572-
+
+28. Ryan Heickert
+   Email: heickertr@arcadia.edu
+   Username: heickertr
+   Sports: Track & Field
+   Title: Head Men's Ice Hockey Coach
+   Original line: Ryan Heickert Head Men's Ice Hockey Coach heickertr@arcadia.edu 215-572-
+
+29. Ryan Wagner
+   Email: wagnerr@arcadia.edu
+   Username: wagnerr
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Ryan Wagner Assistant Coach wagnerr@arcadia.edu
+
+30. Patrick Carroll
+   Email: carrollp@arcadia.edu
+   Username: carrollp
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Patrick Carroll Assistant Coach carrollp@arcadia.edu 215-572-
+
+31. Kelsey Koelzer
+   Email: koelzerk@arcadia.edu
+   Username: koelzerk
+   Sports: Track & Field
+   Title: Head Women's Ice Hockey Coach
+   Original line: Kelsey Koelzer Head Women's Ice Hockey Coach koelzerk@arcadia.edu 215-572-
+
+32. Brice Baricevic
+   Email: baricevicb@arcadia.edu
+   Username: baricevicb
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Brice Baricevic Assistant Coach baricevicb@arcadia.edu 215-572-
+
+33. Amanda Zenstein
+   Email: zensteina@arcadia.edu
+   Username: zensteina
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Amanda Zenstein Assistant Coach zensteina@arcadia.edu 215-572-
+
+34. Jennifer DeJesus
+   Email: dejesusj@arcadia.edu
+   Username: dejesusj
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: Jennifer DeJesus Volunteer Assistant Coach dejesusj@arcadia.edu 215-572-
+
+35. Will Pilat
+   Email: pilatw@arcadia.edu
+   Username: pilatw
+   Sports: Track & Field
+   Title: Head Men’s Lacrosse Coach
+   Original line: Will Pilat Head Men’s Lacrosse Coach pilatw@arcadia.edu 267-620-
+
+36. Evan Bohner
+   Email: bohnere@arcadia.edu
+   Username: bohnere
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Evan Bohner Associate Head Coach bohnere@arcadia.edu 267-620-
+
+37. Brett Sciascia
+   Email: sciasciab@arcadia.edu
+   Username: sciasciab
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Brett Sciascia '24 Assistant Coach sciasciab@arcadia.edu 267-620-
+
+38. Adrienne Carr
+   Email: carra@arcadia.edu
+   Username: carra
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Original line: Adrienne Carr Head Women's Lacrosse Coach carra@arcadia.edu 215-572-
+
+39. Caitlyn McGinley
+   Email: mcginleyc@arcadia.edu
+   Username: mcginleyc
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Caitlyn McGinley Assistant Coach mcginleyc@arcadia.edu 215-572-
+
+40. Alex Noel
+   Email: noela@arcadia.edu
+   Username: noela
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Alex Noel Assistant Coach noela@arcadia.edu 215-572-
+
+41. Chad Catalana
+   Email: catalanac@arcadia.edu
+   Username: catalanac
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Chad Catalana Assistant Coach catalanac@arcadia.edu 215-572-
+
+42. Rick Brownell
+   Email: brownelr@arcadia.edu
+   Username: brownelr
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Original line: Rick Brownell Head Women's Soccer Coach brownelr@arcadia.edu 215-572-
+
+43. Zena Tracey
+   Email: traceyz@arcadia.edu
+   Username: traceyz
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Zena Tracey Assistant Coach traceyz@arcadia.edu 215-572-
+
+44. Kelsey Mashinski
+   Email: mashinskik@arcadia.edu
+   Username: mashinskik
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Kelsey Mashinski Assistant Coach mashinskik@arcadia.edu 215-572-
+
+45. Kayla Haberbosch
+   Email: haberboschk@arcadia.edu
+   Username: haberboschk
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Kayla Haberbosch '18 Assistant Coach haberboschk@arcadia.edu 215-572-
+
+46. Kevin Doherty
+   Email: dohertyk@arcadia.edu
+   Username: dohertyk
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: Kevin Doherty Volunteer Assistant Coach dohertyk@arcadia.edu 215-572-
+
+47. David Brownell
+   Email: brownelld@arcadia.edu
+   Username: brownelld
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: David Brownell Volunteer Assistant Coach brownelld@arcadia.edu 215-572-
+
+48. Sarah Birchmeier
+   Email: birchmeiers@arcadia.edu
+   Username: birchmeiers
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Sarah Birchmeier Head Softball Coach birchmeiers@arcadia.edu 215-572-
+
+49. Kylie Balthaser
+   Email: balthaserk@arcadia.edu
+   Username: balthaserk
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kylie Balthaser Assistant Coach balthaserk@arcadia.edu
+
+50. Marcia Quinn
+   Email: quinnm@arcadia.edu
+   Username: quinnm
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Marcia Quinn Assistant Coach quinnm@arcadia.edu 215-572-
+
+51. Fran Mazza
+   Email: mazzaf@arcadia.edu
+   Username: mazzaf
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Fran Mazza Assistant Coach mazzaf@arcadia.edu
+
+52. Casmera Wick
+   Email: wickc@arcadia.edu
+   Username: wickc
+   Sports: Softball
+   Title: Head Men's and Women's Swimming Coach
+   Original line: Casmera Wick Head Men's and Women's Swimming Coach wickc@arcadia.edu 215-572-
+
+53. Kyle Greene
+   Email: greenek01@arcadia.edu
+   Username: greenek01
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kyle Greene Assistant Coach greenek01@arcadia.edu 215-572-
+
+54. Katherine Brown
+   Email: brownk01@arcadia.edu
+   Username: brownk01
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Katherine Brown Volunteer Assistant Coach brownk01@arcadia.edu 215-572-
+
+55. Bruce Myers
+   Email: myersb@arcadia.edu
+   Username: myersb
+   Sports: Softball
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Bruce Myers Head Men's and Women's Tennis Coach myersb@arcadia.edu 267-620-
+
+56. Michael Melchiorre
+   Email: melchiorrem@arcadia.edu
+   Username: melchiorrem
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Michael Melchiorre Assistant Coach melchiorrem@arcadia.edu 267-620-
+
+57. Pedro Leal
+   Email: lealp@arcadia.edu
+   Username: lealp
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Pedro Leal '13 Assistant Coach lealp@arcadia.edu 267-620-
+
+58. Jon Wilson
+   Email: wilsonj@arcadia.edu
+   Username: wilsonj
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jon Wilson Assistant Coach wilsonj@arcadia.edu
+
+59. Ryan Genova
+   Email: genovar@arcadia.edu
+   Username: genovar
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Ryan Genova Volunteer Assistant Coach genovar@arcadia.edu 215-572-
+
+60. Emily Poole
+   Email: poolee@arcadia.edu
+   Username: poolee
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Emily Poole Head Women's Volleyball Coach poolee@arcadia.edu 215-572-
+
+61. Isabel Kirchner
+   Email: kirchneri@arcadia.edu
+   Username: kirchneri
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Isabel Kirchner Assistant Coach kirchneri@arcadia.edu
+
+62. Alyssa Kelly
+   Email: kellya@arcadia.edu
+   Username: kellya
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alyssa Kelly Assistant Coach kellya@arcadia.edu 215-572-
+
+63. David Stevens
+   Email: stevensd@arcadia.edu
+   Username: stevensd
+   Sports: Softball
+   Title: Head Men's Wrestling Coach
+   Original line: David Stevens Head Men's Wrestling Coach stevensd@arcadia.edu 215-517-
+
+64. Colby Frost
+   Email: frostc@arcadia.edu
+   Username: frostc
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Colby Frost Assistant Coach frostc@arcadia.edu
+
+65. Robert Hazard
+   Email: hazardr@arcadia.edu
+   Username: hazardr
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Robert Hazard Volunteer Assistant Coach hazardr@arcadia.edu 215-517-
+
+66. Michael Childs
+   Email: childsm@arcadia.edu
+   Username: childsm
+   Sports: Softball
+   Title: Head Women's Wrestling Coach
+   Original line: Michael Childs Head Women's Wrestling Coach childsm@arcadia.edu 215-517-
+
+67. Matthew Lattanze
+   Email: lattanzem@arcadia.edu
+   Username: lattanzem
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Matthew Lattanze Assistant Coach lattanzem@arcadia.edu 215-517-
+
+68.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: coach below.
+
+69.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: For coaching staffs, please go to the respective sport's roster. There you will find all coaches and contact information.
+
+70. Danielle Duffy
+   Email: duffyd@arcadia.edu
+   Username: duffyd
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Men's Soccer Coach 2982 duffyd@arcadia.edu
+
+71.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 4842
+
+72. Jonathan Mentor
+   Email: cassidyj@arcadia.edu
+   Username: cassidyj
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bridget Bianco Assistant Coach cassidyj@arcadia.edu
+
+73. Alec Mentor
+   Email: liebscha@arcadia.edu
+   Username: liebscha
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Collin Smith Volunteer Assistant Coach liebscha@arcadia.edu
+
+74. Carole Mentor
+   Email: loefflerc@arcadia.edu
+   Username: loefflerc
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brady Stauffer Volunteer Assistant Coach loefflerc@arcadia.edu
+
+75. Tatjana Mentor
+   Email: miletict@arcadia.edu
+   Username: miletict
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: James Potts Volunteer Assistant Coach miletict@arcadia.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Laura Miele Volunteer Sport Psychology Coach mielel@arcadia.edu
+• Dave Hughes Head Strength & Conditioning Coach hughesd@arcadia.edu 215-572-
+• Dustin Malandra Assistant Strength and Conditioning Coach malandrad@arcadia.edu 215-572-
+• Robbie Williamson Assistant Strength and Conditioning Coach williamsonr@arcadia.edu 215-572-
+• Chuck Thielmann Head Baseball Coach thielmannc@arcadia.edu 215-572-
+• Dylan Tice Assistant Coach ticed@arcadia.edu 215-572-
+• Jake Bargery Assistant Coach bargeryj@arcadia.edu
+• Jon Conant Volunteer Assistant Coach conantj@arcadia.edu 215-572-
+• Cam Seymour M'25 Volunteer Assistant Coach seymourc@arcadia.edu
+• Gabe Diaz '25 Volunteer Assistant Coach diazg@arcadia.edu
+• Adam Van Zelst Head Men's Basketball Coach vanzelsta@arcadia.edu 215-572-
+• Phil Pierfy '19 Assistant Coach pierfyp@arcadia.edu 215-572-
+• Charles Brown M'78 Assistant Coach brownc03@arcadia.edu 215-572-
+• Matt Dolan Assistant Coach dolanm@arcadia.edu
+• Rylee Derr Assistant Coach derrr@arcadia.edu 215-572-
+• To Be Announced Head Track and Field/Cross Country Coach athletics@arcadia.edu
+• Ben Bumgarner Interim Head Cross Country Coach/Assistant Track and Field bumgarnerb@arcadia.edu 267-620-
+• Frances Trainer Interim Head Track and Field Coach/Assistant Cross Country trainerf@arcadia.edu 267-620-
+• Noah Grimm Assistant Coach grimmn@arcadia.edu 267-620-
+• Morgan Andrews Assistant Coach andrewsm@arcadia.edu
+• Cole Gorham Assistant Coach gorhamc@arcadia.edu
+• Nicholas Letherbarrow Head Coach (League of Legends, Overwatch, & Rocket League) letherbarrown@arcadia.edu 215-517-
+• Corey Davis Head Coach (Super Smash Bros. Ultimate) davisc@arcadia.edu 215-517-
+• Regan Sammons '23 Head Field Hockey Coach sammonsr@arcadia.edu 215-572-
+• Alex Wesneski Assistant Coach wesneskia@arcadia.edu 267-859-
+• Chuck Carney Assistant Coach carneyc@arcadia.edu 267-620-
+• Barry Dear Head Men's and Women's Golf Coach dearb@arcadia.edu 215-572-
+• Ryan Heickert Head Men's Ice Hockey Coach heickertr@arcadia.edu 215-572-
+• Ryan Wagner Assistant Coach wagnerr@arcadia.edu
+• Patrick Carroll Assistant Coach carrollp@arcadia.edu 215-572-
+• Kelsey Koelzer Head Women's Ice Hockey Coach koelzerk@arcadia.edu 215-572-
+• Brice Baricevic Assistant Coach baricevicb@arcadia.edu 215-572-
+• Amanda Zenstein Assistant Coach zensteina@arcadia.edu 215-572-
+• Jennifer DeJesus Volunteer Assistant Coach dejesusj@arcadia.edu 215-572-
+• Will Pilat Head Men’s Lacrosse Coach pilatw@arcadia.edu 267-620-
+• Evan Bohner Associate Head Coach bohnere@arcadia.edu 267-620-
+• Brett Sciascia '24 Assistant Coach sciasciab@arcadia.edu 267-620-
+• Adrienne Carr Head Women's Lacrosse Coach carra@arcadia.edu 215-572-
+• Caitlyn McGinley Assistant Coach mcginleyc@arcadia.edu 215-572-
+• Alex Noel Assistant Coach noela@arcadia.edu 215-572-
+• Chad Catalana Assistant Coach catalanac@arcadia.edu 215-572-
+• Rick Brownell Head Women's Soccer Coach brownelr@arcadia.edu 215-572-
+• Zena Tracey Assistant Coach traceyz@arcadia.edu 215-572-
+• Kelsey Mashinski Assistant Coach mashinskik@arcadia.edu 215-572-
+• Kayla Haberbosch '18 Assistant Coach haberboschk@arcadia.edu 215-572-
+• Kevin Doherty Volunteer Assistant Coach dohertyk@arcadia.edu 215-572-
+• David Brownell Volunteer Assistant Coach brownelld@arcadia.edu 215-572-
+• Sarah Birchmeier Head Softball Coach birchmeiers@arcadia.edu 215-572-
+• Kylie Balthaser Assistant Coach balthaserk@arcadia.edu
+• Marcia Quinn Assistant Coach quinnm@arcadia.edu 215-572-
+• Fran Mazza Assistant Coach mazzaf@arcadia.edu
+• Casmera Wick Head Men's and Women's Swimming Coach wickc@arcadia.edu 215-572-
+• Kyle Greene Assistant Coach greenek01@arcadia.edu 215-572-
+• Katherine Brown Volunteer Assistant Coach brownk01@arcadia.edu 215-572-
+• Bruce Myers Head Men's and Women's Tennis Coach myersb@arcadia.edu 267-620-
+• Michael Melchiorre Assistant Coach melchiorrem@arcadia.edu 267-620-
+• Pedro Leal '13 Assistant Coach lealp@arcadia.edu 267-620-
+• Jon Wilson Assistant Coach wilsonj@arcadia.edu
+• Ryan Genova Volunteer Assistant Coach genovar@arcadia.edu 215-572-
+• Emily Poole Head Women's Volleyball Coach poolee@arcadia.edu 215-572-
+• Isabel Kirchner Assistant Coach kirchneri@arcadia.edu
+• Alyssa Kelly Assistant Coach kellya@arcadia.edu 215-572-
+• David Stevens Head Men's Wrestling Coach stevensd@arcadia.edu 215-517-
+• Colby Frost Assistant Coach frostc@arcadia.edu
+• Robert Hazard Volunteer Assistant Coach hazardr@arcadia.edu 215-517-
+• Michael Childs Head Women's Wrestling Coach childsm@arcadia.edu 215-517-
+• Matthew Lattanze Assistant Coach lattanzem@arcadia.edu 215-517-

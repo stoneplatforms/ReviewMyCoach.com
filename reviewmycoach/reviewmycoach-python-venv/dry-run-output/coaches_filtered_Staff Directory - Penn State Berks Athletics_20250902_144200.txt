@@ -1,0 +1,244 @@
+COACH ENTRIES FOUND - 2025-09-02 14:42:00
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Penn State Berks
+Organization: Penn State Berks Athletics
+
+Total coaches found: 29
+
+PARSED ENTRIES:
+----------------------------------------
+1. Wade Bechtel
+   Email: wwb5134@psu.edu
+   Username: wwb5134
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Wade Bechtel Head Strength & Conditioning Coach wwb5134@psu.edu
+
+2. Wade Bechtel
+   Email: wwb5134@psu.edu
+   Username: wwb5134
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Wade Bechtel Head Strength & Conditioning Coach wwb5134@psu.edu
+
+3. Paul Engelhardt
+   Email: pqe5068@psu.edu
+   Username: pqe5068
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Paul Engelhardt Head Baseball Coach pqe5068@psu.edu
+
+4. Boomer Barry
+   Email: mrb7199@psu.edu
+   Username: mrb7199
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Boomer Barry Assistant Baseball Coach mrb7199@psu.edu
+
+5. Ian Gendreau
+   Email: img45@psu.edu
+   Username: img45
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Ian Gendreau Head Men's Basketball Coach img45@psu.edu
+
+6. Mike Brandt
+   Email: mqb6631@psu.edu
+   Username: mqb6631
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Mike Brandt Head Women's Basketball Coach mqb6631@psu.edu
+
+7. Amaura Brandt
+   Email: aqb6874@psu.edu
+   Username: aqb6874
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Amaura Brandt Assistant Women's Basketball Coach aqb6874@psu.edu
+
+8. Ryan Foster
+   Email: rzf5352@psu.edu
+   Username: rzf5352
+   Sports: Baseball
+   Title: Head Cross Country Coach
+   Original line: Ryan Foster Head Cross Country Coach rzf5352@psu.edu
+
+9. Michelle Foster
+   Email: mzk5555@psu.edu
+   Username: mzk5555
+   Sports: Baseball
+   Title: Assistant Cross Country Coach
+   Original line: Michelle Foster Assistant Cross Country Coach mzk5555@psu.edu
+
+10. Rich Miller
+   Email: rzm573@psu.edu
+   Username: rzm573
+   Sports: Baseball
+   Title: Head Golf Coach
+   Phone: (570) 337-1088
+   Original line: Rich Miller Head Golf Coach rzm573@psu.edu 570-337-1088
+
+11. Steve Small
+   Email: sas8415@psu.edu
+   Username: sas8415
+   Sports: Baseball
+   Title: Head Men's Soccer Coach
+   Original line: Steve Small Head Men's Soccer Coach sas8415@psu.edu
+
+12. Scott Wicks
+   Email: smw493@psu.edu
+   Username: smw493
+   Sports: Baseball
+   Title: Assistant Men's Soccer Coach
+   Original line: Scott Wicks Assistant Men's Soccer Coach smw493@psu.edu
+
+13. Adrian Munteanu
+   Email: fam11@psu.edu
+   Username: fam11
+   Sports: Baseball
+   Title: Head Women's Soccer Coach
+   Phone: (484) 769-8128
+   Original line: Adrian Munteanu Head Women's Soccer Coach fam11@psu.edu 484-769-8128
+
+14. Tom Gosselin
+   Email: tjg29@psu.edu
+   Username: tjg29
+   Sports: Baseball
+   Title: Assistant Women's Soccer Coach
+   Original line: Tom Gosselin Assistant Women's Soccer Coach tjg29@psu.edu
+
+15. Donna Ference
+   Email: dlf32@psu.edu
+   Username: dlf32
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (484) 641-8222
+   Original line: Donna Ference Head Softball Coach dlf32@psu.edu 484-641-8222
+
+16. Becca Reinhart-Koziol
+   Email: rmr60@psu.edu
+   Username: rmr60
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Becca Reinhart-Koziol Assistant Softball Coach rmr60@psu.edu
+
+17. Angel Negron
+   Email: ajn5213@psu.edu
+   Username: ajn5213
+   Sports: Softball
+   Title: Head Men's & Women's Tennis Coach
+   Original line: Angel Negron Head Men's & Women's Tennis Coach ajn5213@psu.edu
+
+18. Chris Von
+   Email: cxv128@psu.edu
+   Username: cxv128
+   Sports: Softball
+   Title: Nieda Assistant Men's & Women's Tennis Coach
+   Original line: Chris Von Nieda Assistant Men's & Women's Tennis Coach cxv128@psu.edu
+
+19. Angel Negron
+   Email: ajn5213@psu.edu
+   Username: ajn5213
+   Sports: Softball
+   Title: Head Men's & Women's Tennis Coach
+   Original line: Angel Negron Head Men's & Women's Tennis Coach ajn5213@psu.edu
+
+20. Chris Von
+   Email: cxv128@psu.edu
+   Username: cxv128
+   Sports: Softball
+   Title: Nieda Assistant Men's & Women's Tennis Coach
+   Original line: Chris Von Nieda Assistant Men's & Women's Tennis Coach cxv128@psu.edu
+
+21. Gavin Stark
+   Email: gcs5351@psu.edu
+   Username: gcs5351
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Gavin Stark Head Women's Volleyball Coach gcs5351@psu.edu
+
+22. Allen Cerullo
+   Email: arc471@psu.edu
+   Username: arc471
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Allen Cerullo Assistant Women's Volleyball Coach arc471@psu.edu
+
+23. John Butkus
+   Email: 
+   Username: john.butkus
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: John Butkus Assistant Men's Basketball Coach
+
+24. George Zook
+   Email: 
+   Username: george.zook
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: George Zook Assistant Men's Basketball Coach
+
+25. Jeff Lorah
+   Email: 
+   Username: jeff.lorah
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Jeff Lorah Assistant Men's Basketball Coach
+
+26. Jon Ference
+   Email: 
+   Username: jon.ference
+   Sports: Softball
+   Title: Jon Ference Assistant Softball Coach
+   Original line: Jon Ference Assistant Softball Coach
+
+27. Michael Ference
+   Email: 
+   Username: michael.ference
+   Sports: Softball
+   Title: Michael Ference Assistant Softball Coach
+   Original line: Michael Ference Assistant Softball Coach
+
+28. Charity Huggins
+   Email: 
+   Username: charity.huggins
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Charity Huggins Assistant Women's Volleyball Coach
+
+29. Karl Stark
+   Email: 
+   Username: karl.stark
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Karl Stark Assistant Women's Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Wade Bechtel Head Strength & Conditioning Coach wwb5134@psu.edu
+• Wade Bechtel Head Strength & Conditioning Coach wwb5134@psu.edu
+• Paul Engelhardt Head Baseball Coach pqe5068@psu.edu
+• Boomer Barry Assistant Baseball Coach mrb7199@psu.edu
+• Ian Gendreau Head Men's Basketball Coach img45@psu.edu
+• Mike Brandt Head Women's Basketball Coach mqb6631@psu.edu
+• Amaura Brandt Assistant Women's Basketball Coach aqb6874@psu.edu
+• Ryan Foster Head Cross Country Coach rzf5352@psu.edu
+• Michelle Foster Assistant Cross Country Coach mzk5555@psu.edu
+• Rich Miller Head Golf Coach rzm573@psu.edu 570-337-1088
+• Steve Small Head Men's Soccer Coach sas8415@psu.edu
+• Scott Wicks Assistant Men's Soccer Coach smw493@psu.edu
+• Adrian Munteanu Head Women's Soccer Coach fam11@psu.edu 484-769-8128
+• Tom Gosselin Assistant Women's Soccer Coach tjg29@psu.edu
+• Donna Ference Head Softball Coach dlf32@psu.edu 484-641-8222
+• Becca Reinhart-Koziol Assistant Softball Coach rmr60@psu.edu
+• Angel Negron Head Men's & Women's Tennis Coach ajn5213@psu.edu
+• Chris Von Nieda Assistant Men's & Women's Tennis Coach cxv128@psu.edu
+• Angel Negron Head Men's & Women's Tennis Coach ajn5213@psu.edu
+• Chris Von Nieda Assistant Men's & Women's Tennis Coach cxv128@psu.edu
+• Gavin Stark Head Women's Volleyball Coach gcs5351@psu.edu
+• Allen Cerullo Assistant Women's Volleyball Coach arc471@psu.edu

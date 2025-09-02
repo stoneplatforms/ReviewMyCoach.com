@@ -1,0 +1,232 @@
+COACH ENTRIES FOUND - 2025-09-02 14:38:52
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Edinboro University
+Organization: Edinboro University Athletics
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Justin Jennings
+   Email: jennings_j@pennwest.edu
+   Username: jennings_j
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (814) 732-1858
+   Original line: Justin Jennings Head Coach jennings_j@pennwest.edu 814-732-1858
+
+2. Callie Wheeler
+   Email: cwheeler@pennwest.edu
+   Username: cwheeler
+   Sports: Basketball
+   Title: Head Women's Basketball Coach
+   Phone: (814) 732-1827
+   Original line: Callie Wheeler Head Women's Basketball Coach cwheeler@pennwest.edu 814-732-1827
+
+3. Maggie Moore
+   Email: moore_l@pennwest.edu
+   Username: moore_l
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (814) 732-1863
+   Original line: Maggie Moore Assistant Coach moore_l@pennwest.edu 814-732-1863
+
+4. Jamison Dietrich
+   Email: dietrich_j@pennwest.edu
+   Username: dietrich_j
+   Sports: Track & Field, Cross Country
+   Title: Head Cross Country Coach / Director of Track & Field
+   Phone: (814) 732-1870
+   Original line: Jamison Dietrich Head Cross Country Coach / Director of Track & Field dietrich_j@pennwest.edu 814-732-1870
+
+5. Taylor Cudequest
+   Email: cudequest_t@pennwest.edu
+   Username: cudequest_t
+   Sports: Track & Field
+   Title: Head Track & Field Coach
+   Phone: (814) 732-1866
+   Original line: Taylor Cudequest Head Track & Field Coach cudequest_t@pennwest.edu 814-732-1866
+
+6. Matt Scott
+   Email: scott_m@pennwest.edu
+   Username: scott_m
+   Sports: Football
+   Title: Head Football Coach
+   Phone: (814) 732-1842
+   Original line: Matt Scott Head Football Coach scott_m@pennwest.edu 814-732-1842
+
+7. Rashad Craig
+   Email: craig_r@pennwest.edu
+   Username: craig_r
+   Sports: Football
+   Title: Defensive Line Coach
+   Phone: (814) 732-1821
+   Original line: Rashad Craig Defensive Line Coach craig_r@pennwest.edu 814-732-1821
+
+8. Max Bryer
+   Email: bryer_m@pennwest.edu
+   Username: bryer_m
+   Sports: Football
+   Title: Special Team Coordinator / Tight Ends Coach
+   Phone: (814) 732-1839
+   Original line: Max Bryer Special Team Coordinator / Tight Ends Coach bryer_m@pennwest.edu 814-732-1839
+
+9. Jay Willow
+   Email: willow_j@pennwest.edu
+   Username: willow_j
+   Sports: Football
+   Title: Head Coach
+   Phone: (814) 732-1856
+   Original line: Jay Willow Head Coach willow_j@pennwest.edu 814-732-1856
+
+10. Anthony Turini
+   Email: aturini@pennwest.edu
+   Username: aturini
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Phone: (814) 732-1849
+   Original line: Anthony Turini Head Women's Lacrosse Coach aturini@pennwest.edu 814-732-1849
+
+11. Riley Kennedy
+   Email: ken49337@pennwest.edu
+   Username: ken49337
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Riley Kennedy Assistant Coach ken49337@pennwest.edu
+
+12. Dan Gierlak
+   Email: dgierlak@pennwest.edu
+   Username: dgierlak
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (814) 732-1829
+   Original line: Dan Gierlak Head Softball Coach dgierlak@pennwest.edu 814-732-1829
+
+13. Gary Kagiavas
+   Email: gkagiavas@pennwest.edu
+   Username: gkagiavas
+   Sports: Softball
+   Title: Head Women's Soccer Coach
+   Phone: (814) 732-1876
+   Original line: Gary Kagiavas Head Women's Soccer Coach gkagiavas@pennwest.edu 814-732-1876
+
+14. Jamie Sallie
+   Email: jsallie@pennwest.edu
+   Username: jsallie
+   Sports: Softball
+   Title: Assistant Women's Soccer Coach
+   Phone: (814) 732-1877
+   Original line: Jamie Sallie Assistant Women's Soccer Coach jsallie@pennwest.edu 814-732-1877
+
+15. Chris Rhodes
+   Email: crhodes@pennwest.edu
+   Username: crhodes
+   Sports: Softball
+   Title: Head Men's and Women's Swimming Coach
+   Phone: (814) 732-1828
+   Original line: Chris Rhodes Head Men's and Women's Swimming Coach crhodes@pennwest.edu 814-732-1828
+
+16. Travis Myler
+   Email: myler_t@pennwest.edu
+   Username: myler_t
+   Sports: Softball
+   Title: Head Coach
+   Phone: (814) 732-1867
+   Original line: Travis Myler Head Coach myler_t@pennwest.edu 814-732-1867
+
+17. Missy Soboleski
+   Email: msoboleski@pennwest.edu
+   Username: msoboleski
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Phone: (814) 732-1831
+   Original line: Missy Soboleski Head Volleyball Coach msoboleski@pennwest.edu 814-732-1831
+
+18. Matt Hill
+   Email: mhill@pennwest.edu
+   Username: mhill
+   Sports: Volleyball
+   Title: Head Wrestling Coach
+   Phone: (814) 732-1855
+   Original line: Matt Hill Head Wrestling Coach mhill@pennwest.edu 814-732-1855
+
+19. A.J. Schopp
+   Email: schopp_a@pennwest.edu
+   Username: schopp_a
+   Sports: Volleyball
+   Title: Head Assistant Coach
+   Phone: (814) 732-1854
+   Original line: A.J. Schopp Head Assistant Coach schopp_a@pennwest.edu 814-732-1854
+
+20. Ryan Cook
+   Email: cook_R@pennwest.edu
+   Username: cook_R
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (814) 732-1837
+   Original line: Ryan Cook Head Coach cook_R@pennwest.edu 814-732-1837
+
+21. Adaptive 
+   Email: speed_w@pennwest.edu
+   Username: speed_w
+   Sports: Basketball
+   Title: Will Speed Head Coach
+   Phone: (814) 732-1875
+   Original line: Will Speed Head Coach Adaptive Athletics speed_w@pennwest.edu 814-732-1875
+
+22. Danielle Lodanosky
+   Email: dlodanosky@pennwest.edu
+   Username: dlodanosky
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nathan Cullo Assistant Coach dlodanosky@pennwest.edu
+
+23. KJ Volunteer
+   Email: 
+   Username: kj.volunteer
+   Sports: Soccer
+   Title: KJ Sabotchick Volunteer Assistant / Goalkeeper Coach
+   Original line: KJ Sabotchick Volunteer Assistant / Goalkeeper Coach
+
+24. Chris Shears
+   Email: 
+   Username: chris.shears
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Shears Assistant Coach
+
+25. Joe Jaroni
+   Email: 
+   Username: joe.jaroni
+   Sports: Basketball
+   Title: Joe Jaroni Assistant Wheelchair Basketball Coach
+   Original line: Joe Jaroni Assistant Wheelchair Basketball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Justin Jennings Head Coach jennings_j@pennwest.edu 814-732-1858
+• Callie Wheeler Head Women's Basketball Coach cwheeler@pennwest.edu 814-732-1827
+• Maggie Moore Assistant Coach moore_l@pennwest.edu 814-732-1863
+• Jamison Dietrich Head Cross Country Coach / Director of Track & Field dietrich_j@pennwest.edu 814-732-1870
+• Taylor Cudequest Head Track & Field Coach cudequest_t@pennwest.edu 814-732-1866
+• Matt Scott Head Football Coach scott_m@pennwest.edu 814-732-1842
+• Rashad Craig Defensive Line Coach craig_r@pennwest.edu 814-732-1821
+• Max Bryer Special Team Coordinator / Tight Ends Coach bryer_m@pennwest.edu 814-732-1839
+• Jay Willow Head Coach willow_j@pennwest.edu 814-732-1856
+• Anthony Turini Head Women's Lacrosse Coach aturini@pennwest.edu 814-732-1849
+• Riley Kennedy Assistant Coach ken49337@pennwest.edu
+• Dan Gierlak Head Softball Coach dgierlak@pennwest.edu 814-732-1829
+• Gary Kagiavas Head Women's Soccer Coach gkagiavas@pennwest.edu 814-732-1876
+• Jamie Sallie Assistant Women's Soccer Coach jsallie@pennwest.edu 814-732-1877
+• Chris Rhodes Head Men's and Women's Swimming Coach crhodes@pennwest.edu 814-732-1828
+• Travis Myler Head Coach myler_t@pennwest.edu 814-732-1867
+• Missy Soboleski Head Volleyball Coach msoboleski@pennwest.edu 814-732-1831
+• Matt Hill Head Wrestling Coach mhill@pennwest.edu 814-732-1855
+• A.J. Schopp Head Assistant Coach schopp_a@pennwest.edu 814-732-1854
+• Ryan Cook Head Coach cook_R@pennwest.edu 814-732-1837
+• Will Speed Head Coach Adaptive Athletics speed_w@pennwest.edu 814-732-1875

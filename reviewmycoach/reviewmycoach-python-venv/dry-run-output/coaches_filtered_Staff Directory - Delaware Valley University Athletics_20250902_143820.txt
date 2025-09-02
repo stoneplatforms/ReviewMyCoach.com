@@ -1,0 +1,521 @@
+COACH ENTRIES FOUND - 2025-09-02 14:38:20
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Roger Wright Assistant Head Coach/Secondary Coach Roger.Wright@delval.edu Wesley College
+Organization: Delaware Valley University Athletics
+
+Total coaches found: 67
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jimmy Gulden
+   Email: James.Gulden@delval.edu
+   Username: James.Gulden
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Jimmy Gulden Head Baseball Coach James.Gulden@delval.edu
+
+2. Muhamadou Kaba
+   Email: muhamadou.kaba@delval.edu
+   Username: muhamadou.kaba
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Muhamadou Kaba Head Men's Basketball Coach muhamadou.kaba@delval.edu 215-489- East
+
+3. Kevin Murray
+   Email: Kevin.Murray@delval.edu
+   Username: Kevin.Murray
+   Sports: Baseball
+   Title: Associate Head Men's Basketball Coach
+   Original line: Kevin Murray Associate Head Men's Basketball Coach Kevin.Murray@delval.edu
+
+4. Chris Cole
+   Email: Christopher.Cole@delval.edu
+   Username: Christopher.Cole
+   Sports: Baseball
+   Title: s Basketball Coach/Recruiting
+   Original line: Chris Cole Assistant Men's Basketball Coach/Recruiting Christopher.Cole@delval.edu
+
+5. Lauren Stackhouse
+   Email: Lauren.Stackhouse@delval.edu
+   Username: Lauren.Stackhouse
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Lauren Stackhouse Head Women's Basketball Coach Lauren.Stackhouse@delval.edu Delaware Valley
+
+6. Gabby Reddell
+   Email: gabrielle.reddell@delval.edu
+   Username: gabrielle.reddell
+   Sports: Baseball
+   Title: Head Cheerleading Coach
+   Original line: Gabby Reddell Head Cheerleading Coach gabrielle.reddell@delval.edu Delaware Valley
+
+7. Kelly Simmons
+   Email: kelly.simmons@delval.edu
+   Username: kelly.simmons
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kelly Simmons Assistant Coach kelly.simmons@delval.edu Delaware Valley
+
+8. Dylan Bennett
+   Email: Dylan.Bennett@delval.edu
+   Username: Dylan.Bennett
+   Sports: Cross Country
+   Title: Head Cross Country/Track and Field Coach
+   Original line: Dylan Bennett Head Cross Country/Track and Field Coach Dylan.Bennett@delval.edu (215) Alvernia '19 |
+
+9. Tyler Barrett
+   Email: tyler.barrett@delval.edu
+   Username: tyler.barrett
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Tyler Barrett Assistant Coach (Distance) tyler.barrett@delval.edu Alvernia '20 '21
+
+10. Angelo Telatin
+   Email: Angelo.Telatin@delval.edu
+   Username: Angelo.Telatin
+   Sports: Cross Country
+   Title: Head Dressage Coach
+   Original line: Angelo Telatin Head Dressage Coach Angelo.Telatin@delval.edu (215)
+
+11. Taylor Adams
+   Email: Taylor.Adams@delval.edu
+   Username: Taylor.Adams
+   Sports: Cross Country
+   Title: Assistant Dressage Coach
+   Original line: Taylor Adams Assistant Dressage Coach Taylor.Adams@delval.edu 215-489-
+
+12. Ciara Tjong
+   Email: Ciara.Tjong@delval.edu
+   Username: Ciara.Tjong
+   Sports: Cross Country
+   Title: Hunt Seat Co-Head Coach
+   Original line: Ciara Tjong Hunt Seat Co-Head Coach Ciara.Tjong@delval.edu 215-489- Delaware Valley
+
+13. Hannah Armstrong
+   Email: Hannah.Armstrong@delval.edu
+   Username: Hannah.Armstrong
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Hannah Armstrong Head Field Hockey Coach Hannah.Armstrong@delval.edu Hood '23
+
+14. Mike Isgro
+   Email: Michael.Isgro@delval.edu
+   Username: Michael.Isgro
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Mike Isgro Head Football Coach Michael.Isgro@delval.edu (215) Delaware Valley
+
+15. Greg Fedick
+   Email: Gregory.Fedick@delval.edu
+   Username: Gregory.Fedick
+   Sports: Football
+   Title: Offensive Line Coach/Director
+   Original line: Greg Fedick Offensive Line Coach/Director of Football Gregory.Fedick@delval.edu (215) Widener '99
+
+16. Roger Wright
+   Email: Roger.Wright@delval.edu
+   Username: Roger.Wright
+   Sports: Football
+   Title: Assistant Head Coach/Secondary Coach
+   Original line: Roger Wright Assistant Head Coach/Secondary Coach Roger.Wright@delval.edu Wesley College
+
+17. Mike Neale
+   Email: Michael.Neale@delval.edu
+   Username: Michael.Neale
+   Sports: Football
+   Title: Assistant Coach/Defensive Coordinator
+   Original line: Mike Neale Assistant Coach/Defensive Coordinator Michael.Neale@delval.edu
+
+18. Rob Carter
+   Email: Rob.Carter@delval.edu
+   Username: Rob.Carter
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Rob Carter Wide Receivers Coach Rob.Carter@delval.edu
+
+19. Noah Collachi
+   Email: Noah.Collachi@delval.edu
+   Username: Noah.Collachi
+   Sports: Football
+   Title: Defensive Line Coach/Strengh
+   Original line: Noah Collachi Defensive Line Coach/Strengh and Conditioning Noah.Collachi@delval.edu
+
+20. Doug Linde
+   Email: Douglas.Linde@delval.edu
+   Username: Douglas.Linde
+   Sports: Football
+   Title: Head Golf Coach
+   Original line: Doug Linde Head Golf Coach Douglas.Linde@delval.edu (215) Delaware Valley
+
+21. Will Lawlor
+   Email: William.Lawlor@delval.edu
+   Username: William.Lawlor
+   Sports: Football
+   Title: Head Men's Lacrosse Coach
+   Original line: Will Lawlor Head Men's Lacrosse Coach William.Lawlor@delval.edu 610-324- Rosemont '15
+
+22. Spencer MacQuarrie
+   Email: Spencer.Macquarrie@delval.edu
+   Username: Spencer.Macquarrie
+   Sports: Football
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Spencer MacQuarrie Assistant Men's Lacrosse Coach Spencer.Macquarrie@delval.edu 267-614-
+
+23. Kate Iorfino
+   Email: katherine.iorfino@delval.edu
+   Username: katherine.iorfino
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Kate Iorfino Head Women's Lacrosse Coach katherine.iorfino@delval.edu (215) Scranton '11
+
+24. Courtney Dowell
+   Email: courtney.dowell@delval.edu
+   Username: courtney.dowell
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Courtney Dowell Assistant Coach courtney.dowell@delval.edu
+
+25. Shaq Stephenson
+   Email: Shaquille.Stephenson@delval.edu
+   Username: Shaquille.Stephenson
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Shaq Stephenson Head Men's Soccer Coach Shaquille.Stephenson@delval.edu East
+
+26. Sean Touey
+   Email: sean.touey@delval.edu
+   Username: sean.touey
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Sean Touey Assistant Men's Soccer Coach sean.touey@delval.edu Holy Family '23
+
+27. Ben Wilson
+   Email: Benjamin.Wilson@delval.edu
+   Username: Benjamin.Wilson
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Ben Wilson Head Women's Soccer Coach Benjamin.Wilson@delval.edu 215-489- Susquehanna
+
+28. Delaney Cole
+   Email: Delaney.Cole@delval.edu
+   Username: Delaney.Cole
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Delaney Cole Assistant Women's Soccer Coach Delaney.Cole@delval.edu Messiah '18
+
+29. Jamie Stefani
+   Email: Jamie.Stefani@delval.edu
+   Username: Jamie.Stefani
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Jamie Stefani Head Softball Coach Jamie.Stefani@delval.edu 908-752- Delaware Valley
+
+30. Dylan Bennett
+   Email: Dylan.Bennett@delval.edu
+   Username: Dylan.Bennett
+   Sports: Track & Field
+   Title: Head Cross Country/Track and Field Coach
+   Original line: Dylan Bennett Head Cross Country/Track and Field Coach Dylan.Bennett@delval.edu (215) Alvernia '19 |
+
+31. Tyler Barrett
+   Email: tyler.barrett@delval.edu
+   Username: tyler.barrett
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Tyler Barrett Assistant Coach (Distance) tyler.barrett@delval.edu Alvernia '20 '21
+
+32. Anthony Stango
+   Email: anthony.stango@delval.edu
+   Username: anthony.stango
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Anthony Stango Assistant Coach (Sprints) anthony.stango@delval.edu West Chester
+
+33. Rachel Menin
+   Email: Rachel.Menin@delval.edu
+   Username: Rachel.Menin
+   Sports: Track & Field
+   Title: Head Women's Volleyball Coach
+   Original line: Rachel Menin Head Women's Volleyball Coach Rachel.Menin@delval.edu Clarks Summit |
+
+34. Jason Rezac
+   Email: Jason.Rezac@delval.edu
+   Username: Jason.Rezac
+   Sports: Track & Field
+   Title: Assistant Wrestling Coach
+   Original line: Jason Rezac Assistant Wrestling Coach Jason.Rezac@delval.edu
+
+35. Jason Rezac
+   Email: Jason.Rezac@delval.edu
+   Username: Jason.Rezac
+   Sports: Track & Field
+   Title: Assistant Wrestling Coach
+   Original line: Jason Rezac Assistant Wrestling Coach Jason.Rezac@delval.edu
+
+36. Bob Gymnasium
+   Email: Robert.Altieri@delval.edu
+   Username: Robert.Altieri
+   Sports: Baseball, Track & Field
+   Title: Kevin Bray Assistant Baseball Coach
+   Original line: Kevin Bray Assistant Baseball Coach (Outfield) Robert.Altieri@delval.edu
+
+37. Kevin Equipment
+   Email: Kevin.Cooney@delval.edu
+   Username: Kevin.Cooney
+   Sports: Baseball
+   Title: Bon Tempo Assistant Baseball Coach
+   Original line: Bon Tempo Assistant Baseball Coach (Catchers) Kevin.Cooney@delval.edu
+
+38. Greg Young
+   Email: 
+   Username: greg.young
+   Sports: Baseball
+   Title: Greg Young Assistant Baseball Coach
+   Original line: Greg Young Assistant Baseball Coach (Hitting)
+
+39. Tyler Young
+   Email: 
+   Username: tyler.young
+   Sports: Baseball, Track & Field
+   Title: Tyler Young Assistant Baseball Coach
+   Original line: Tyler Young Assistant Baseball Coach (Infield)
+
+40. Matt Walker
+   Email: 
+   Username: matt.walker
+   Sports: Baseball, Strength & Conditioning
+   Title: Matt Walker Head Strength and Conditioning Coach
+   Original line: Matt Walker Head Strength and Conditioning Coach for Baseball
+
+41. Rick Barry
+   Email: 
+   Username: rick.barry
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Rick Barry Assistant Men's Basketball Coach
+
+42. Marc Rodriguez
+   Email: 
+   Username: marc.rodriguez
+   Sports: Strength & Conditioning
+   Title: Marc Rodriguez Head Strength and Conditioning Coach
+   Original line: Marc Rodriguez Head Strength and Conditioning Coach for Men's
+
+43. Miranda Liebtag
+   Email: 
+   Username: miranda.liebtag
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Miranda Liebtag Assistant Women's Basketball Coach Cabrini '23 |
+
+44. Catey McFadden
+   Email: 
+   Username: catey.mcfadden
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Catey McFadden Assistant Women's Basketball Coach Wilkes '18
+
+45. Leroy Sims
+   Email: 
+   Username: leroy.sims
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Leroy Sims Assistant Coach (Hurdles)
+
+46. Emily Co
+   Email: 
+   Username: emily.co
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Emily Miller Hunt Seat Co-Head Coach
+
+47. Mikayla DeMichele
+   Email: 
+   Username: mikayla.demichele
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mikayla DeMichele Assistant Coach Muhlenberg '25
+
+48.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+49. Rich Halfbacks
+   Email: 
+   Username: rich.halfbacks
+   Sports: Soccer
+   Title: Rich Kelly Halfbacks Coach
+   Original line: Rich Kelly Halfbacks Coach
+
+50. Zach Ends
+   Email: 
+   Username: zach.ends
+   Sports: Soccer
+   Title: Zach Sobota Tight Ends Coach
+   Original line: Zach Sobota Tight Ends Coach
+
+51. Rich Fonash
+   Email: 
+   Username: rich.fonash
+   Sports: Soccer
+   Title: Rich Fonash Assistant Defensive Backs Coach
+   Original line: Rich Fonash Assistant Defensive Backs Coach
+
+52. Anthony Teams
+   Email: Anthony.Fontana@delval.edu
+   Username: Anthony.Fontana
+   Sports: Soccer
+   Title: Dontae Mason Assistant Defensive Backs Coach
+   Original line: Dontae Mason Assistant Defensive Backs Coach Anthony.Fontana@delval.edu
+
+53. Don Grinstead
+   Email: 
+   Username: don.grinstead
+   Sports: Soccer
+   Title: Don Grinstead Assistant Defensive Line Coach
+   Original line: Don Grinstead Assistant Defensive Line Coach
+
+54. Mike Bongiovanni
+   Email: 
+   Username: mike.bongiovanni
+   Sports: Soccer
+   Title: Mike Bongiovanni Assistant Offensive Line Coach
+   Original line: Mike Bongiovanni Assistant Offensive Line Coach
+
+55. Gianni Cucina
+   Email: 
+   Username: gianni.cucina
+   Sports: Soccer
+   Title: Gianni Cucina Assistant H-Back Coach/Video and Social Media
+   Original line: Gianni Cucina Assistant H-Back Coach/Video and Social Media
+
+56. Vincent DiLeo
+   Email: 
+   Username: vincent.dileo
+   Sports: Soccer
+   Title: Vincent DiLeo Assistant Outside Linebackers Coach
+   Original line: Vincent DiLeo Assistant Outside Linebackers Coach
+
+57. Bill To
+   Email: 
+   Username: bill.to
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Bill Manlove Consultant To Head Coach and Staff
+
+58. Kailey Horton
+   Email: 
+   Username: kailey.horton
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Kailey Horton Assistant Women's Soccer Coach Drexel '23 |
+
+59. Bob Connelly
+   Email: 
+   Username: bob.connelly
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Bob Connelly Assistant Women's Soccer Coach
+
+60. Erin Barainyak
+   Email: 
+   Username: erin.barainyak
+   Sports: Softball
+   Title: Erin Barainyak Assistant Softball Coach
+   Original line: Erin Barainyak Assistant Softball Coach (302)
+
+61. Hunter Volunteer
+   Email: 
+   Username: hunter.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hunter Guenzel Volunteer Assistant Coach (Javelin) Alvernia '20 '22
+
+62. Meghan Volunteer
+   Email: 
+   Username: meghan.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Meghan LoStracco Volunteer Assistant Coach (Throws) Gwynedd Mercy
+
+63. Beth Volunteer
+   Email: 
+   Username: beth.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Beth Wantz Volunteer Assistant Coach (Sprints) Messiah
+
+64. Rainah Volunteer
+   Email: 
+   Username: rainah.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rainah Dunham Volunteer Assistant Coach (Horizontal Jumps)
+
+65. Moses Volunteer
+   Email: 
+   Username: moses.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Moses Madison Volunteer Assistant Coach (Sprints) Delaware Valley
+
+66. Alysa McDevitt
+   Email: 
+   Username: alysa.mcdevitt
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Alysa McDevitt Assistant Women's Volleyball Coach Lycoming '21
+
+67. Erin Volunteer
+   Email: 
+   Username: erin.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erin Martin Volunteer Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jimmy Gulden Head Baseball Coach James.Gulden@delval.edu
+• Muhamadou Kaba Head Men's Basketball Coach muhamadou.kaba@delval.edu 215-489- East
+• Kevin Murray Associate Head Men's Basketball Coach Kevin.Murray@delval.edu
+• Chris Cole Assistant Men's Basketball Coach/Recruiting Christopher.Cole@delval.edu
+• Lauren Stackhouse Head Women's Basketball Coach Lauren.Stackhouse@delval.edu Delaware Valley
+• Gabby Reddell Head Cheerleading Coach gabrielle.reddell@delval.edu Delaware Valley
+• Kelly Simmons Assistant Coach kelly.simmons@delval.edu Delaware Valley
+• Dylan Bennett Head Cross Country/Track and Field Coach Dylan.Bennett@delval.edu (215) Alvernia '19 |
+• Tyler Barrett Assistant Coach (Distance) tyler.barrett@delval.edu Alvernia '20 '21
+• Angelo Telatin Head Dressage Coach Angelo.Telatin@delval.edu (215)
+• Taylor Adams Assistant Dressage Coach Taylor.Adams@delval.edu 215-489-
+• Ciara Tjong Hunt Seat Co-Head Coach Ciara.Tjong@delval.edu 215-489- Delaware Valley
+• Hannah Armstrong Head Field Hockey Coach Hannah.Armstrong@delval.edu Hood '23
+• Mike Isgro Head Football Coach Michael.Isgro@delval.edu (215) Delaware Valley
+• Greg Fedick Offensive Line Coach/Director of Football Gregory.Fedick@delval.edu (215) Widener '99
+• Roger Wright Assistant Head Coach/Secondary Coach Roger.Wright@delval.edu Wesley College
+• Mike Neale Assistant Coach/Defensive Coordinator Michael.Neale@delval.edu
+• Rob Carter Wide Receivers Coach Rob.Carter@delval.edu
+• Noah Collachi Defensive Line Coach/Strengh and Conditioning Noah.Collachi@delval.edu
+• Doug Linde Head Golf Coach Douglas.Linde@delval.edu (215) Delaware Valley
+• Will Lawlor Head Men's Lacrosse Coach William.Lawlor@delval.edu 610-324- Rosemont '15
+• Spencer MacQuarrie Assistant Men's Lacrosse Coach Spencer.Macquarrie@delval.edu 267-614-
+• Kate Iorfino Head Women's Lacrosse Coach katherine.iorfino@delval.edu (215) Scranton '11
+• Courtney Dowell Assistant Coach courtney.dowell@delval.edu
+• Shaq Stephenson Head Men's Soccer Coach Shaquille.Stephenson@delval.edu East
+• Sean Touey Assistant Men's Soccer Coach sean.touey@delval.edu Holy Family '23
+• Ben Wilson Head Women's Soccer Coach Benjamin.Wilson@delval.edu 215-489- Susquehanna
+• Delaney Cole Assistant Women's Soccer Coach Delaney.Cole@delval.edu Messiah '18
+• Jamie Stefani Head Softball Coach Jamie.Stefani@delval.edu 908-752- Delaware Valley
+• Dylan Bennett Head Cross Country/Track and Field Coach Dylan.Bennett@delval.edu (215) Alvernia '19 |
+• Tyler Barrett Assistant Coach (Distance) tyler.barrett@delval.edu Alvernia '20 '21
+• Anthony Stango Assistant Coach (Sprints) anthony.stango@delval.edu West Chester
+• Rachel Menin Head Women's Volleyball Coach Rachel.Menin@delval.edu Clarks Summit |
+• Jason Rezac Assistant Wrestling Coach Jason.Rezac@delval.edu
+• Jason Rezac Assistant Wrestling Coach Jason.Rezac@delval.edu

@@ -1,0 +1,380 @@
+COACH ENTRIES FOUND - 2025-09-02 14:36:49
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Orlin Jespersen Director of University Recreation 215-571-
+Organization: Drexel University Athletics
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nick Herceg
+   Email: 
+   Username: nick.herceg
+   Sports: Rowing
+   Title: s Rowing Coach
+   Original line: Nick Herceg Assistant Director, Athletics Facilities & Operations + Assistant Women's Rowing Coach 215-571-
+
+2. Palmer Johnson
+   Email: 
+   Username: palmer.johnson
+   Sports: Basketball, Strength & Conditioning
+   Title: Palmer Johnson Head Strength and Conditioning Coach
+   Original line: Palmer Johnson Head Strength and Conditioning Coach, Basketball
+
+3. Erika Moyer
+   Email: 
+   Username: erika.moyer
+   Sports: Basketball, Strength & Conditioning
+   Title: Erika Moyer Head Strength and Conditioning Coach
+   Original line: Erika Moyer Head Strength and Conditioning Coach, Women's Basketball
+
+4. Dan Vossbein
+   Email: 
+   Username: dan.vossbein
+   Sports: Strength & Conditioning
+   Title: Dan Vossbein Assistant Strength and Conditioning Coach
+   Original line: Dan Vossbein Assistant Strength and Conditioning Coach
+
+5. Zach Spiker
+   Email: 
+   Username: zach.spiker
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Zach Spiker Head Men's Basketball Coach
+
+6. Paul Fortier
+   Email: 
+   Username: paul.fortier
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Paul Fortier Assistant Men's Basketball Coach 215-895-
+
+7. Will Chavis
+   Email: 
+   Username: will.chavis
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Will Chavis Assistant Men's Basketball Coach
+
+8. Frantz Massenat
+   Email: 
+   Username: frantz.massenat
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Frantz Massenat Assistant Men's Basketball Coach
+
+9. Amy Family
+   Email: 
+   Username: amy.family
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Amy Mallon Janet E. & Barry C. Burkholder Family Head Women's Basketball Coach 215-895-
+
+10. Stacy Weiss
+   Email: 
+   Username: stacy.weiss
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Stacy Weiss Associate Head Women's Basketball Coach 215-895-
+
+11. Kayla Bacon
+   Email: 
+   Username: kayla.bacon
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Kayla Bacon Assistant Women's Basketball Coach 215-895-
+
+12. Stephen Perretta
+   Email: 
+   Username: stephen.perretta
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Stephen Perretta Assistant Women's Basketball Coach
+
+13. Denise Zelenak
+   Email: 
+   Username: denise.zelenak
+   Sports: Track & Field, Hockey
+   Title: Denise Zelenak Head Field Hockey Coach
+   Original line: Denise Zelenak Head Field Hockey Coach 215-895-
+
+14. Susan Ciufo-Bennett
+   Email: 
+   Username: susan.ciufo.bennett
+   Sports: Track & Field, Hockey
+   Title: Susan Ciufo-Bennett Associate Head Field Hockey Coach
+   Original line: Susan Ciufo-Bennett Associate Head Field Hockey Coach 215-895-
+
+15. Gracyn Banks
+   Email: 
+   Username: gracyn.banks
+   Sports: Track & Field, Hockey
+   Title: Gracyn Banks Assistant Field Hockey Coach
+   Original line: Gracyn Banks Assistant Field Hockey Coach
+
+16. Shannon McNally
+   Email: 
+   Username: shannon.mcnally
+   Sports: Track & Field, Hockey
+   Title: Shannon McNally Assistant Field Hockey Coach
+   Original line: Shannon McNally Assistant Field Hockey Coach
+
+17. Scott Yurgalevicz
+   Email: 
+   Username: scott.yurgalevicz
+   Sports: Golf
+   Title: Scott Yurgalevicz Head Golf Coach
+   Original line: Scott Yurgalevicz Head Golf Coach
+
+18. Steven Boyle
+   Email: 
+   Username: steven.boyle
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Steven Boyle Head Men's Lacrosse Coach 215-895-
+
+19. Tucker Durkin
+   Email: 
+   Username: tucker.durkin
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Tucker Durkin Associate Men's Lacrosse Coach 215-571-
+
+20. Joel Tinney
+   Email: 
+   Username: joel.tinney
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Joel Tinney Assistant Men's Lacrosse Coach
+
+21. Ben Garcia
+   Email: 
+   Username: ben.garcia
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Ben Garcia Assistant Men's Lacrosse Coach
+
+22. Katie Semanik
+   Email: 
+   Username: katie.semanik
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Katie O'Donnell Mary Semanik Head Women's Lacrosse Coach
+
+23. Katrina Geiger
+   Email: 
+   Username: katrina.geiger
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Katrina Geiger Associate Women's Lacrosse Coach
+
+24. Ana White
+   Email: 
+   Username: ana.white
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Ana White Assistant Women's Lacrosse Coach
+
+25. Matt Weaver
+   Email: 
+   Username: matt.weaver
+   Sports: Rowing
+   Title: Head Coach
+   Original line: Matt Weaver Men's Rowing Head Coach
+
+26. Gary Wielgus
+   Email: 
+   Username: gary.wielgus
+   Sports: Rowing
+   Title: s Rowing Coach
+   Original line: Gary Wielgus Assistant Men's Rowing Coach
+
+27. Karsen Healy
+   Email: 
+   Username: karsen.healy
+   Sports: Rowing
+   Title: s Rowing Coach
+   Original line: Karsen Healy Assistant Women's Rowing Coach 215-571-
+
+28. David Castellanos
+   Email: 
+   Username: david.castellanos
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: David Castellanos Head Men's Soccer Coach
+
+29. Ptah Myers
+   Email: 
+   Username: ptah.myers
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Ptah Myers Assistant Men's Soccer Coach
+
+30. Lukas Fernandes
+   Email: 
+   Username: lukas.fernandes
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Lukas Fernandes Assistant Men's Soccer Coach
+
+31. Matthew Dabrowski
+   Email: 
+   Username: matthew.dabrowski
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Matthew Dabrowski Assistant Men's Soccer Coach
+
+32. Ray Goon
+   Email: 
+   Username: ray.goon
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Ray Goon Head Women's Soccer Coach 215-895-
+
+33. Don Overmier
+   Email: 
+   Username: don.overmier
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Don Overmier Associate Head Women's Soccer Coach 215-895-
+
+34. Kendra Jones
+   Email: 
+   Username: kendra.jones
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Kendra Jones Assistant Women's Soccer Coach
+
+35. Mike Paznokas
+   Email: 
+   Username: mike.paznokas
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Mike Paznokas Assistant Women's Soccer Coach
+
+36. Brooke Kalman
+   Email: 
+   Username: brooke.kalman
+   Sports: Softball
+   Title: Brooke Kalman Head Softball Coach
+   Original line: Brooke Kalman Head Softball Coach
+
+37. Tim Homan
+   Email: 
+   Username: tim.homan
+   Sports: Softball
+   Title: Tim Homan Assistant Softball Coach
+   Original line: Tim Homan Assistant Softball Coach
+
+38. Allie Bridgman
+   Email: 
+   Username: allie.bridgman
+   Sports: Softball
+   Title: Allie Bridgman Assistant Softball Coach
+   Original line: Allie Bridgman Assistant Softball Coach
+
+39. Bailey Team
+   Email: 
+   Username: bailey.team
+   Sports: Soccer
+   Title: Bailey Stauffer Cheerleading Team Coach
+   Original line: Bailey Stauffer Cheerleading Team Coach
+
+40. Emily Paulino
+   Email: 
+   Username: emily.paulino
+   Sports: Soccer
+   Title: Emily Paulino Assistant Dance Coach
+   Original line: Emily Paulino Assistant Dance Coach
+
+41. John White
+   Email: 
+   Username: john.white
+   Sports: Soccer
+   Title: John White Head Squash Coach
+   Original line: John White Head Squash Coach 215-571-
+
+42. Luke Forster
+   Email: 
+   Username: luke.forster
+   Sports: Soccer
+   Title: Luke Forster Assistant Squash Coach
+   Original line: Luke Forster Assistant Squash Coach
+
+43. Nathan Lavery
+   Email: 
+   Username: nathan.lavery
+   Sports: Swimming
+   Title: Nathan Lavery Head Swimming and Diving Coach
+   Original line: Nathan Lavery Head Swimming and Diving Coach
+
+44. Lana Christensen
+   Email: 
+   Username: lana.christensen
+   Sports: Soccer
+   Title: Lana Christensen Head Diving Coach
+   Original line: Lana Christensen Head Diving Coach
+
+45. Erik Ripley
+   Email: 
+   Username: erik.ripley
+   Sports: Swimming
+   Title: Erik Ripley Assistant Swimming Coach
+   Original line: Erik Ripley Assistant Swimming Coach
+
+46. Kile Aukerman
+   Email: 
+   Username: kile.aukerman
+   Sports: Swimming
+   Title: Kile Aukerman Assistant Swimming Coach
+   Original line: Kile Aukerman Assistant Swimming Coach, Aquatics Coordinator
+
+47. Xandy Hammit
+   Email: 
+   Username: xandy.hammit
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Xandy Hammit Assistant Men's Tennis Coach
+
+48. Eric Biscoveanu
+   Email: 
+   Username: eric.biscoveanu
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Eric Biscoveanu Head Women's Tennis Coach
+
+49. Monet Stuckey-Willis
+   Email: 
+   Username: monet.stuckey.willis
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Monet Stuckey-Willis Assistant Women's Tennis Coach
+
+50. Matt Hill
+   Email: 
+   Username: matt.hill
+   Sports: Wrestling
+   Title: Head Coach
+   Original line: Matt Azevedo Mert '67 and Joanne '69 Hill Head Coach of Wrestling 215-895-
+
+51. Mauro Correnti
+   Email: 
+   Username: mauro.correnti
+   Sports: Wrestling
+   Title: Mauro Correnti Assistant Wrestling Coach
+   Original line: Mauro Correnti Assistant Wrestling Coach
+
+52. Chad Walsh
+   Email: 
+   Username: chad.walsh
+   Sports: Wrestling
+   Title: Chad Walsh Assistant Wrestling Coach
+   Original line: Chad Walsh Assistant Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

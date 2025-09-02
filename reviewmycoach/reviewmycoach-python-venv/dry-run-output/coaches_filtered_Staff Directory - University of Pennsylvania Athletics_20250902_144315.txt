@@ -1,0 +1,809 @@
+COACH ENTRIES FOUND - 2025-09-02 14:43:16
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Pennsylvania
+Organization: University of Pennsylvania Athletics
+
+Total coaches found: 98
+
+PARSED ENTRIES:
+----------------------------------------
+1. Miguel Rivera
+   Email: miguelri@upenn.edu
+   Username: miguelri
+   Sports: Track & Field
+   Title: Associate Strength and Conditioning Coach
+   Phone: 898-4204
+   Original line: Miguel Rivera Associate Strength and Conditioning Coach, Head of Football 898-4204 miguelri@upenn.edu
+
+2. Christina Bernal
+   Email: cbernal@upenn.edu
+   Username: cbernal
+   Sports: Track & Field
+   Title: Assistant Strength and Conditioning Coach/Internship Director
+   Phone: 898-4204
+   Original line: Christina Bernal Assistant Strength and Conditioning Coach/Internship Director 898-4204 cbernal@upenn.edu
+
+3. Mert Igci
+   Email: mertigci@upenn.edu
+   Username: mertigci
+   Sports: Track & Field
+   Title: Assistant Strength and Conditioning Coach
+   Phone: 898-4204
+   Original line: Mert Igci Assistant Strength and Conditioning Coach 898-4204 mertigci@upenn.edu
+
+4. Jordynn Kurcoba
+   Email: jkurcoba@upenn.edu
+   Username: jkurcoba
+   Sports: Track & Field
+   Title: Assistant Strength and Conditioning Coach
+   Phone: 898-4204
+   Original line: Jordynn Kurcoba Assistant Strength and Conditioning Coach 898-4204 jkurcoba@upenn.edu
+
+5. Zack Zoller
+   Email: zollerz@upenn.edu
+   Username: zollerz
+   Sports: Track & Field
+   Title: Assistant Strength and Conditioning Coach
+   Phone: 898-4204
+   Original line: Zack Zoller Assistant Strength and Conditioning Coach 898-4204 zollerz@upenn.edu
+
+6. Mike Santello
+   Email: santello@upenn.edu
+   Username: santello
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Phone: 746-2325
+   Original line: Mike Santello Assistant Coach/Recruiting Coordinator 746-2325 santello@upenn.edu
+
+7. Josh Pitching
+   Email: joshus@upenn.edu
+   Username: joshus
+   Sports: Baseball
+   Title: Schwartz Coach
+   Phone: 746-2325
+   Original line: Josh Schwartz Pitching Coach 746-2325 joshus@upenn.edu
+
+8. Mark Royer
+   Email: maroyer@upenn.edu
+   Username: maroyer
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mark Royer Assistant Coach maroyer@upenn.edu
+
+9. Tristan Keith
+   Email: spurlo10@upenn.edu
+   Username: spurlo10
+   Sports: Baseball
+   Title: Gelb Family Assistant Coach
+   Original line: Tristan Spurlock Keith B. Gelb Family Assistant Coach spurlo10@upenn.edu
+
+10. Ben Luber
+   Email: coachben@upenn.edu
+   Username: coachben
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Ben Luber Assistant Coach coachben@upenn.edu
+
+11. Ronald Moore
+   Email: moore25@upenn.edu
+   Username: moore25
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Ronald Moore Assistant Coach moore25@upenn.edu
+
+12. Mike McLaughlin
+   Email: mcmi@upenn.edu
+   Username: mcmi
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 898-0280
+   Original line: Mike McLaughlin Head Coach 898-0280 mcmi@upenn.edu
+
+13. Ryan Weise
+   Email: rweise@upenn.edu
+   Username: rweise
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Ryan Weise Assistant Coach rweise@upenn.edu
+
+14. Tinnina Atherton-Ely
+   Email: upenncheerleading@gmail.com
+   Username: upenncheerleading
+   Sports: Baseball
+   Title: Head Cheerleading Coach
+   Original line: Tinnina Atherton-Ely Head Cheerleading Coach upenncheerleading@gmail.com
+
+15. Misha Fausto
+   Email: upenncheerleading@gmail.com
+   Username: upenncheerleading
+   Sports: Baseball
+   Title: Assistant Cheerleading Coach
+   Original line: Misha Fausto Assistant Cheerleading Coach upenncheerleading@gmail.com
+
+16. Al Nicholas
+   Email: awmonte@upenn.edu
+   Username: awmonte
+   Sports: Baseball
+   Title: Paumgarten Head Coach
+   Original line: Al Monte Nicholas B. Paumgarten Head Coach awmonte@upenn.edu
+
+17. Phillip Brunner
+   Email: pbrunner@upenn.edu
+   Username: pbrunner
+   Sports: Baseball
+   Title: Head Coach/Recruiting Coordinator
+   Phone: 898-6144
+   Original line: Phillip Brunner Associate Head Coach/Recruiting Coordinator 898-6144 pbrunner@upenn.edu
+
+18. Fergal Barry
+   Email: fergal@upenn.edu
+   Username: fergal
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Fergal Barry Assistant Coach fergal@upenn.edu
+
+19. Colin Leonard
+   Email: colinfar@upenn.edu
+   Username: colinfar
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 573-7071
+   Original line: Colin Farrell Fred W. Leonard Head Coach 573-7071 colinfar@upenn.edu
+
+20. Taylor John
+   Email: coachtb@upenn.edu
+   Username: coachtb
+   Sports: Baseball
+   Title: Rockwell Assistant Coach
+   Original line: Taylor Brown John R. Rockwell Assistant Coach coachtb@upenn.edu
+
+21. Bill Manning
+   Email: manningw@upenn.edu
+   Username: manningw
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bill Manning Head Coach manningw@upenn.edu
+
+22. Josie Konopka
+   Email: jkonop@upenn.edu
+   Username: jkonop
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Josie Konopka Assistant Coach/Recruiting Coordinator jkonop@upenn.edu
+
+23. Allyson Baker
+   Email: apbaker@upenn.edu
+   Username: apbaker
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Allyson Baker Assistant Coach apbaker@upenn.edu
+
+24. Andy Family
+   Email: andyma@upenn.edu
+   Username: andyma
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 898-6116
+   Original line: Andy Ma Jeffrey Charles Young C’86 Family Head Coach 898-6116 andyma@upenn.edu
+
+25. Slava Danilov
+   Email: danilov@upenn.edu
+   Username: danilov
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: 898-6116
+   Original line: Slava Danilov Assistant Coach 898-6116 danilov@upenn.edu
+
+26. Brennan Louie
+   Email: bwlouie@upenn.edu
+   Username: bwlouie
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Brennan Louie Assistant Coach bwlouie@upenn.edu
+
+27. Scott Tupper
+   Email: dria-fhrecruiting@dria.upenn.edu
+   Username: dria-fhrecruiting
+   Sports: Track & Field
+   Title: Head Coach TBA
+   Original line: Scott Tupper Head Coach TBA dria-fhrecruiting@dria.upenn.edu
+
+28. Erin Shanahan
+   Email: smoot3@upenn.edu
+   Username: smoot3
+   Sports: Track & Field
+   Title: Smoot Assistant Coach
+   Original line: Erin Shanahan Smoot Assistant Coach smoot3@upenn.edu
+
+29. Charlotte Vaziri
+   Email: vaziric@upenn.edu
+   Username: vaziric
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Charlotte Vaziri Assistant Coach vaziric@upenn.edu
+
+30. Ray Munger
+   Email: football@pobox.upenn.edu
+   Username: football
+   Sports: Football
+   Title: Head Coach
+   Original line: Ray Priore George A. Munger Head Coach (215) 573- football@pobox.upenn.edu
+
+31. Bob Benson
+   Email: bensonro@upenn.edu
+   Username: bensonro
+   Sports: Football
+   Title: Head Coach/Defensive Coordinator
+   Phone: 573-8227
+   Original line: Bob Benson Associate Head Coach/Defensive Coordinator 573-8227 bensonro@upenn.edu
+
+32. Jerry Wagner
+   Email: gerardm@upenn.edu
+   Username: gerardm
+   Sports: Football
+   Title: Head Coach
+   Phone: 898-6148
+   Original line: Jerry McConnell William R. Wagner Head Coach of Sprint Football 898-6148 gerardm@upenn.edu
+
+33. Teams 
+   Email: peisenst@upenn.edu
+   Username: peisenst
+   Sports: Football
+   Title: Phil Eisenstein Defensive Line Coach/Special
+   Original line: Phil Eisenstein Defensive Line Coach/Special Teams Coordinator peisenst@upenn.edu
+
+34. Bill Wagner
+   Email: wrw@upenn.edu
+   Username: wrw
+   Sports: Football
+   Title: Head Coach
+   Phone: 898-6148
+   Original line: Bill Wagner Head Coach Emeritus 898-6148 wrw@upenn.edu
+
+35. Clay White
+   Email: whitecla@upenn.edu
+   Username: whitecla
+   Sports: Football
+   Title: Head Coach
+   Original line: Clay White Head Coach whitecla@upenn.edu
+
+36. Mark Anderson
+   Email: markande@upenn.edu
+   Username: markande
+   Sports: Football
+   Title: Head Coach
+   Phone: 573-8335
+   Original line: Mark Anderson Head Coach 573-8335 markande@upenn.edu
+
+37. Karen Siegel
+   Email: ksiegel202@gmail.com
+   Username: ksiegel202
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Karen Siegel Assistant Coach ksiegel202@gmail.com
+
+38. Kirsten Becker
+   Email: kstra@upenn.edu
+   Username: kstra
+   Sports: Football
+   Title: Head Coach
+   Phone: 898-5316
+   Original line: Kirsten Becker Head Coach 898-5316 kstra@upenn.edu
+
+39. Casey Zacot
+   Email: Gym.recruiting@dria.upenn.edu
+   Username: Gym.recruiting
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Casey Zacot Assistant Coach Gym.recruiting@dria.upenn.edu
+
+40. Mabry Craddock
+   Email: Gym.recruiting@dria.upenn.edu
+   Username: Gym.recruiting
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Mabry Craddock Assistant Coach Gym.recruiting@dria.upenn.edu
+
+41. Taylor Greene
+   Email: twray@upenn.edu
+   Username: twray
+   Sports: Football
+   Title: Head Coach
+   Original line: Taylor Wray James H. Greene, Jr. Head Coach twray@upenn.edu
+
+42. Karin Leitner
+   Email: kbrower@upenn.edu
+   Username: kbrower
+   Sports: Football
+   Title: Head Coach
+   Phone: 898-8278
+   Original line: Karin Brower Lois S. Leitner Head Coach 898-8278 kbrower@upenn.edu | dria-
+
+43. Kerri Whitaker
+   Email: kerriwh@upenn.edu
+   Username: kerriwh
+   Sports: Football
+   Title: Head Coach
+   Phone: 898-9042
+   Original line: Kerri Whitaker Senior Associate Head Coach 898-9042 kerriwh@upenn.edu | dria-
+
+44. Nicole Spencer
+   Email: ntroost@upenn.edu
+   Username: ntroost
+   Sports: Football
+   Title: Assistant Coach
+   Phone: 898-9042
+   Original line: Nicole Spencer Assistant Coach 898-9042 ntroost@upenn.edu | dria-
+
+45. Ally Deaver
+   Email: adeaver@upenn.edu
+   Username: adeaver
+   Sports: Football
+   Title: Assistant Coach/Director
+   Original line: Ally Deaver Assistant Coach/Director of Operations adeaver@upenn.edu | dria-
+
+46. Brian Gentle
+   Email: brgill@upenn.edu
+   Username: brgill
+   Sports: Football
+   Title: Head Coach
+   Phone: 573-6177
+   Original line: Brian Gill James C. Gentle Head Coach 573-6177 brgill@upenn.edu
+
+47. Matt Poplawski
+   Email: mpop@upenn.edu
+   Username: mpop
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matt Poplawski Assistant Coach mpop@upenn.edu
+
+48. Liam Abdalla
+   Email: liamabd@upenn.edu
+   Username: liamabd
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Liam Abdalla Assistant Coach liamabd@upenn.edu
+
+49. Maxx Wurzburger
+   Email: wurzbur1@upenn.edu
+   Username: wurzbur1
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Maxx Wurzburger Assistant Coach wurzbur1@upenn.edu
+
+50. Christie Novatin
+   Email: cnovatin@upenn.edu
+   Username: cnovatin
+   Sports: Softball
+   Title: Head Coach
+   Phone: 898-6832
+   Original line: Christie Novatin Head Coach 898-6832 cnovatin@upenn.edu
+
+51. Kristin Hallam
+   Email: khallam@upenn.edu
+   Username: khallam
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: 898-3442
+   Original line: Kristin Hallam Assistant Coach 898-3442 khallam@upenn.edu
+
+52. Laurin Krings
+   Email: krings24@upenn.edu
+   Username: krings24
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Laurin Krings Assistant Coach krings24@upenn.edu
+
+53. Jack Wyant
+   Email: jhwyant@pobox.upenn.edu
+   Username: jhwyant
+   Sports: Softball
+   Title: s Coach
+   Original line: Jack Wyant Director of Squash/Head Women's Coach (267) 303- jhwyant@pobox.upenn.edu
+
+54. Gilly Lane
+   Email: fglane@upenn.edu
+   Username: fglane
+   Sports: Softball
+   Title: Head Men's Coach
+   Original line: Gilly Lane Head Men's Coach fglane@upenn.edu
+
+55. Gustav Detter
+   Email: detter1@upenn.edu
+   Username: detter1
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Gustav Detter Assistant Coach detter1@upenn.edu
+
+56. Melissa Alves
+   Email: alvesme@sas.upenn.edu
+   Username: alvesme
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Melissa Alves Assistant Coach alvesme@sas.upenn.edu
+
+57. Mike Kozloff
+   Email: mschnur@upenn.edu
+   Username: mschnur
+   Sports: Softball
+   Title: Head Coach
+   Phone: 898-4495
+   Original line: Mike Schnur Lou and Rene Kozloff Head Coach of Swimming 898-4495 mschnur@upenn.edu
+
+58. Andrew Abeysinghe
+   Email: aabeysi@upenn.edu
+   Username: aabeysi
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Andrew Abeysinghe Assistant Coach aabeysi@upenn.edu
+
+59. Emma Sticklen
+   Email: durham49@upenn.edu
+   Username: durham49
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Emma Sticklen Assistant Coach durham49@upenn.edu
+
+60. Rob Cragg
+   Email: rcragg4@comcast.net
+   Username: rcragg4
+   Sports: Softball
+   Title: Diving Coach
+   Phone: 898-4495
+   Original line: Rob Cragg Diving Coach 898-4495 rcragg4@comcast.net
+
+61. Rich Molloy
+   Email: rbonfigl@upenn.edu
+   Username: rbonfigl
+   Sports: Softball
+   Title: Head Coach
+   Phone: 898-2406
+   Original line: Rich Bonfiglio Albert G. Molloy Head Coach 898-2406 rbonfigl@upenn.edu
+
+62. Stratton Gilmore
+   Email: sgilmor@upenn.edu
+   Username: sgilmor
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Stratton Gilmore Assistant Coach sgilmor@upenn.edu
+
+63. Sanela Kunovac
+   Email: skunovac@upenn.edu
+   Username: skunovac
+   Sports: Softball
+   Title: Head Coach
+   Phone: 898-6958
+   Original line: Sanela Kunovac Head Coach 898-6958 skunovac@upenn.edu
+
+64. Yukako Noi
+   Email: noiy@upenn.edu
+   Username: noiy
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Yukako Noi Assistant Coach noiy@upenn.edu
+
+65. Pino He
+   Email: jiajunhe@upenn.edu
+   Username: jiajunhe
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Pino He Assistant Coach jiajunhe@upenn.edu
+
+66. Matt Gosselin
+   Email: mgos@upenn.edu
+   Username: mgos
+   Sports: Softball
+   Title: s Cross Country Coach/Assistant Track & Field
+   Phone: 898-5753
+   Original line: Matt Gosselin Head Women's Cross Country Coach/Assistant Track & Field 898-5753 mgos@upenn.edu
+
+67. Chené Townsend
+   Email: tchene@upenn.edu
+   Username: tchene
+   Sports: Softball
+   Title: Rogers Family Associate Head Women's Track & Field Coach
+   Original line: Chené Townsend Rogers Family Associate Head Women's Track & Field Coach tchene@upenn.edu
+
+68. Moose Akanno
+   Email: makanno@upenn.edu
+   Username: makanno
+   Sports: Softball
+   Title: s Track & Field Coach
+   Original line: Moose Akanno Associate Head Men's Track & Field Coach (Men's makanno@upenn.edu
+
+69. Isaiah Simmons
+   Email: isimms@upenn.edu
+   Username: isimms
+   Sports: Softball
+   Title: Assistant Track & Field Coach
+   Original line: Isaiah Simmons Assistant Track & Field Coach (Men's and Women's Throws) isimms@upenn.edu
+
+70. Tyler Hagstrom
+   Email: tmh027@upenn.edu
+   Username: tmh027
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tyler Hagstrom Head Coach tmh027@upenn.edu
+
+71. Wyatt Emenaker
+   Email: wemenake@upenn.edu
+   Username: wemenake
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Wyatt Emenaker Assistant Coach wemenake@upenn.edu
+
+72. Alyssa Bert
+   Email: bert3@upenn.edu
+   Username: bert3
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alyssa Bert Assistant Coach bert3@upenn.edu
+
+73. Matt Valenti
+   Email: mpv2@upenn.edu
+   Username: mpv2
+   Sports: Softball
+   Title: Head Coach
+   Phone: 898-3052
+   Original line: Matt Valenti Head Coach 898-3052 mpv2@upenn.edu
+
+74. Roger Reina
+   Email: rreina@upenn.edu
+   Username: rreina
+   Sports: Softball
+   Title: Head Coach
+   Phone: 898-9504
+   Original line: Roger Reina Head Coach Emeritus 898-9504 rreina@upenn.edu
+
+75. Darian Cruz
+   Email: dtc@upenn.edu
+   Username: dtc
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Darian Cruz Assistant Coach dtc@upenn.edu
+
+76. Lennox Wolak
+   Email: wolak7@upenn.edu
+   Username: wolak7
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Lennox Wolak Assistant Coach wolak7@upenn.edu
+
+77. Patrick Service
+   Email: pgogl@upenn.edu
+   Username: pgogl
+   Sports: Soccer
+   Title: Head Coach
+   Original line: John Yurkow W. Joseph Blood Head Coach 898-6282 pgogl@upenn.edu
+
+78. Greer Cheeseman
+   Email: musicman@pobox.upenn.edu
+   Username: musicman
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Fran McCaffery John R. Rockwell Head Coach musicman@pobox.upenn.edu
+
+79. Michael to
+   Email: 
+   Username: michael.to
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Michael Fink Special Advisor to the Head Coach
+
+80.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Recruiting Coordinator
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Recruiting Coordinator
+
+81. Christine Woods
+   Email: chmcc@upenn.edu
+   Username: chmcc
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John O'Brien Assistant Coach chmcc@upenn.edu
+
+82. Angelina Heyse
+   Email: 
+   Username: angelina.heyse
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Angelina Heyse Assistant Coach
+
+83. Sarah Klippel
+   Email: 
+   Username: sarah.klippel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sarah Klippel Assistant Coach
+
+84. Quarterbacks 
+   Email: 
+   Username: quarterbacks
+   Sports: Soccer
+   Title: Quarterbacks Coach
+   Original line: Quarterbacks Coach
+
+85. Elias Miller
+   Email: eliasmil@upenn.edu
+   Username: eliasmil
+   Sports: Soccer
+   Title: Dave Hubsher Wide Receivers Coach
+   Original line: Dave Hubsher Wide Receivers Coach eliasmil@upenn.edu
+
+86. Frank Line
+   Email: 
+   Username: frank.line
+   Sports: Soccer
+   Title: Frank McConnell Offensive Line Coach
+   Original line: Frank McConnell Offensive Line Coach
+
+87. Gene Backs
+   Email: 
+   Username: gene.backs
+   Sports: Soccer
+   Title: Gene Kane Running Backs Coach
+   Original line: Gene Kane Running Backs Coach
+
+88. Brian Linebackers
+   Email: 
+   Username: brian.linebackers
+   Sports: Soccer
+   Title: Brian Adair Linebackers Coach
+   Original line: Brian Adair Linebackers Coach
+
+89. Rich Ends
+   Email: 
+   Username: rich.ends
+   Sports: Soccer
+   Title: Rich Kuzy Tight Ends Coach
+   Original line: Rich Kuzy Tight Ends Coach
+
+90. Dr Brush
+   Email: 
+   Username: dr.brush
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dr. Krissy Turner Douglas N. Brush Head Coach 898-2923 dria-
+
+91. Fred King
+   Email: 
+   Username: fred.king
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Fred King Associate Head Coach dria-
+
+92. Norman Steigelman
+   Email: 
+   Username: norman.steigelman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Norman "Boomer" Steigelman Assistant Coach 267-314- dria-
+
+93. Seve Hirst
+   Email: 
+   Username: seve.hirst
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Seve Hirst Assistant Coach dria-
+
+94. Wsoc Recruiting
+   Email: wsoc.recruiting@dria.upenn.edu
+   Username: wsoc.recruiting
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Olivia Sabatino Special Assistant to the Head Coach dria- wsoc.recruiting@dria.upenn.edu
+
+95. Jared Donaldson
+   Email: 
+   Username: jared.donaldson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jared Donaldson Assistant Coach
+
+96. Jeremie Casabon
+   Email: 
+   Username: jeremie.casabon
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeremie Casabon Assistant Coach
+
+97. Steve Costanza
+   Email: stdolan@upenn.edu
+   Username: stdolan
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach (Women's Middle Distance/Women's Distance) stdolan@upenn.edu
+
+98. Emma Keenan
+   Email: 
+   Username: emma.keenan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emma Keenan Assistant Coach (Women's Middle Distance/Distance)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Miguel Rivera Associate Strength and Conditioning Coach, Head of Football 898-4204 miguelri@upenn.edu
+• Christina Bernal Assistant Strength and Conditioning Coach/Internship Director 898-4204 cbernal@upenn.edu
+• Mert Igci Assistant Strength and Conditioning Coach 898-4204 mertigci@upenn.edu
+• Jordynn Kurcoba Assistant Strength and Conditioning Coach 898-4204 jkurcoba@upenn.edu
+• Zack Zoller Assistant Strength and Conditioning Coach 898-4204 zollerz@upenn.edu
+• Mike Santello Assistant Coach/Recruiting Coordinator 746-2325 santello@upenn.edu
+• Josh Schwartz Pitching Coach 746-2325 joshus@upenn.edu
+• Mark Royer Assistant Coach maroyer@upenn.edu
+• Tristan Spurlock Keith B. Gelb Family Assistant Coach spurlo10@upenn.edu
+• Ben Luber Assistant Coach coachben@upenn.edu
+• Ronald Moore Assistant Coach moore25@upenn.edu
+• Mike McLaughlin Head Coach 898-0280 mcmi@upenn.edu
+• Ryan Weise Assistant Coach rweise@upenn.edu
+• Tinnina Atherton-Ely Head Cheerleading Coach upenncheerleading@gmail.com
+• Misha Fausto Assistant Cheerleading Coach upenncheerleading@gmail.com
+• Al Monte Nicholas B. Paumgarten Head Coach awmonte@upenn.edu
+• Phillip Brunner Associate Head Coach/Recruiting Coordinator 898-6144 pbrunner@upenn.edu
+• Fergal Barry Assistant Coach fergal@upenn.edu
+• Colin Farrell Fred W. Leonard Head Coach 573-7071 colinfar@upenn.edu
+• Taylor Brown John R. Rockwell Assistant Coach coachtb@upenn.edu
+• Bill Manning Head Coach manningw@upenn.edu
+• Josie Konopka Assistant Coach/Recruiting Coordinator jkonop@upenn.edu
+• Allyson Baker Assistant Coach apbaker@upenn.edu
+• Andy Ma Jeffrey Charles Young C’86 Family Head Coach 898-6116 andyma@upenn.edu
+• Slava Danilov Assistant Coach 898-6116 danilov@upenn.edu
+• Brennan Louie Assistant Coach bwlouie@upenn.edu
+• Scott Tupper Head Coach TBA dria-fhrecruiting@dria.upenn.edu
+• Erin Shanahan Smoot Assistant Coach smoot3@upenn.edu
+• Charlotte Vaziri Assistant Coach vaziric@upenn.edu
+• Ray Priore George A. Munger Head Coach (215) 573- football@pobox.upenn.edu
+• Bob Benson Associate Head Coach/Defensive Coordinator 573-8227 bensonro@upenn.edu
+• Jerry McConnell William R. Wagner Head Coach of Sprint Football 898-6148 gerardm@upenn.edu
+• Phil Eisenstein Defensive Line Coach/Special Teams Coordinator peisenst@upenn.edu
+• Bill Wagner Head Coach Emeritus 898-6148 wrw@upenn.edu
+• Clay White Head Coach whitecla@upenn.edu
+• Mark Anderson Head Coach 573-8335 markande@upenn.edu
+• Karen Siegel Assistant Coach ksiegel202@gmail.com
+• Kirsten Becker Head Coach 898-5316 kstra@upenn.edu
+• Casey Zacot Assistant Coach Gym.recruiting@dria.upenn.edu
+• Mabry Craddock Assistant Coach Gym.recruiting@dria.upenn.edu
+• Taylor Wray James H. Greene, Jr. Head Coach twray@upenn.edu
+• Karin Brower Lois S. Leitner Head Coach 898-8278 kbrower@upenn.edu | dria-
+• Kerri Whitaker Senior Associate Head Coach 898-9042 kerriwh@upenn.edu | dria-
+• Nicole Spencer Assistant Coach 898-9042 ntroost@upenn.edu | dria-
+• Ally Deaver Assistant Coach/Director of Operations adeaver@upenn.edu | dria-
+• Brian Gill James C. Gentle Head Coach 573-6177 brgill@upenn.edu
+• Matt Poplawski Assistant Coach mpop@upenn.edu
+• Liam Abdalla Assistant Coach liamabd@upenn.edu
+• Maxx Wurzburger Assistant Coach wurzbur1@upenn.edu
+• Christie Novatin Head Coach 898-6832 cnovatin@upenn.edu
+• Kristin Hallam Assistant Coach 898-3442 khallam@upenn.edu
+• Laurin Krings Assistant Coach krings24@upenn.edu
+• Jack Wyant Director of Squash/Head Women's Coach (267) 303- jhwyant@pobox.upenn.edu
+• Gilly Lane Head Men's Coach fglane@upenn.edu
+• Gustav Detter Assistant Coach detter1@upenn.edu
+• Melissa Alves Assistant Coach alvesme@sas.upenn.edu
+• Mike Schnur Lou and Rene Kozloff Head Coach of Swimming 898-4495 mschnur@upenn.edu
+• Andrew Abeysinghe Assistant Coach aabeysi@upenn.edu
+• Emma Sticklen Assistant Coach durham49@upenn.edu
+• Rob Cragg Diving Coach 898-4495 rcragg4@comcast.net
+• Rich Bonfiglio Albert G. Molloy Head Coach 898-2406 rbonfigl@upenn.edu
+• Stratton Gilmore Assistant Coach sgilmor@upenn.edu
+• Sanela Kunovac Head Coach 898-6958 skunovac@upenn.edu
+• Yukako Noi Assistant Coach noiy@upenn.edu
+• Pino He Assistant Coach jiajunhe@upenn.edu
+• Matt Gosselin Head Women's Cross Country Coach/Assistant Track & Field 898-5753 mgos@upenn.edu
+• Chené Townsend Rogers Family Associate Head Women's Track & Field Coach tchene@upenn.edu
+• Moose Akanno Associate Head Men's Track & Field Coach (Men's makanno@upenn.edu
+• Isaiah Simmons Assistant Track & Field Coach (Men's and Women's Throws) isimms@upenn.edu
+• Tyler Hagstrom Head Coach tmh027@upenn.edu
+• Wyatt Emenaker Assistant Coach wemenake@upenn.edu
+• Alyssa Bert Assistant Coach bert3@upenn.edu
+• Matt Valenti Head Coach 898-3052 mpv2@upenn.edu
+• Roger Reina Head Coach Emeritus 898-9504 rreina@upenn.edu
+• Darian Cruz Assistant Coach dtc@upenn.edu
+• Lennox Wolak Assistant Coach wolak7@upenn.edu

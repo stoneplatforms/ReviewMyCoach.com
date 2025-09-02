@@ -1,0 +1,418 @@
+COACH ENTRIES FOUND - 2025-09-02 14:41:02
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: 1501 University Avenue
+Organization: Marywood University Athletics
+
+Total coaches found: 52
+
+PARSED ENTRIES:
+----------------------------------------
+1. Richard Owens
+   Email: rjowens@marywood.edu
+   Username: rjowens
+   Sports: Soccer
+   Title: s Soccer Coach/Coordinator
+   Original line: Richard Owens Head Women's Soccer Coach/Coordinator rjowens@marywood.edu 2287 marywoodwsoccer
+
+2. Ryan Nowell
+   Email: rnowell@marywood.edu
+   Username: rnowell
+   Sports: Lacrosse
+   Title: s Lacrosse Coach/Coordinator of
+   Original line: Ryan Nowell Head Men's Lacrosse Coach/Coordinator of rnowell@marywood.edu 2285 marywoodlacrosse
+
+3. Brian Osborne
+   Email: bosborne@marywood.edu
+   Username: bosborne
+   Sports: Soccer
+   Title: s Soccer Coach/Coordinator of
+   Original line: Brian Osborne Head Men's Soccer Coach/Coordinator of bosborne@marywood.edu 2290 marywoodsoccer
+
+4. Jason Thiel
+   Email: jmthiel@marywood.edu
+   Username: jmthiel
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Jason Thiel Head Baseball Coach jmthiel@marywood.edu 2591 marywood.baseball
+
+5. Rick Clifford
+   Email: rclifford@marywood.edu
+   Username: rclifford
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Rick Clifford Assistant Baseball Coach (Director of rclifford@marywood.edu 4724
+
+6. Morgan Theobald
+   Email: mjtheobald@marywood.edu
+   Username: mjtheobald
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Morgan Theobald Assistant Baseball Coach mjtheobald@marywood.edu 4724
+
+7. Jon Showers
+   Email: showers@marywood.edu
+   Username: showers
+   Sports: Baseball
+   Title: s Basketball Coach/Coordinator
+   Original line: Jon Showers Head Men's Basketball Coach/Coordinator showers@marywood.edu 2284 marywoodmbb
+
+8. Xavier Harris
+   Email: xkharris@marywood.edu
+   Username: xkharris
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Xavier Harris Assistant Men's Basketball Coach xkharris@marywood.edu 4724
+
+9. Michael Foder
+   Email: mfoder@marywood.edu
+   Username: mfoder
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Michael Foder Assistant Men's Basketball Coach mfoder@marywood.edu 4724
+
+10. Alexa Jones
+   Email: ajones3@marywood.edu
+   Username: ajones3
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Alexa Jones Assistant Women's Basketball Coach ajones3@marywood.edu 4724
+
+11. Zachary Kohler
+   Email: zkohler@marywood.edu
+   Username: zkohler
+   Sports: Baseball
+   Title: Head Valorant Coach
+   Original line: Zachary Kohler Head Valorant Coach zkohler@marywood.edu 6088
+
+12. Matthew Olaes
+   Email: maolaes@marywood.edu
+   Username: maolaes
+   Sports: Baseball
+   Title: Head Overwatch Coach
+   Original line: Matthew Olaes Head Overwatch Coach maolaes@marywood.edu 6088
+
+13. Austin Sienkiewicz
+   Email: ajsienkiewicz@marywood.edu
+   Username: ajsienkiewicz
+   Sports: Baseball
+   Title: Head Rocket League Coach
+   Original line: Austin Sienkiewicz Head Rocket League Coach ajsienkiewicz@marywood.edu 6088
+
+14. Kaitlyn Bevans
+   Email: knbevans@marywood.edu
+   Username: knbevans
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Kaitlyn Bevans Assistant Field Hockey Coach knbevans@marywood.edu 4724
+
+15. Bill Reiss
+   Email: wreiss@marywood.edu
+   Username: wreiss
+   Sports: Track & Field
+   Title: Head Women's Flag Football Coach
+   Original line: Bill Reiss Head Women's Flag Football Coach wreiss@marywood.edu 4724
+
+16. Patrick Lloyd
+   Email: palloyd@marywood.edu
+   Username: palloyd
+   Sports: Track & Field
+   Title: Head Men's and Women's Golf Coach
+   Original line: Patrick Lloyd Head Men's and Women's Golf Coach palloyd@marywood.edu 4724 marywoodgolf
+
+17. Patrick Lloyd
+   Email: palloyd@marywood.edu
+   Username: palloyd
+   Sports: Track & Field
+   Title: Head Men's and Women's Golf Coach
+   Original line: Patrick Lloyd Head Men's and Women's Golf Coach palloyd@marywood.edu 4724 marywoodgolf
+
+18. Ryan Nowell
+   Email: rnowell@marywood.edu
+   Username: rnowell
+   Sports: Track & Field
+   Title: s Lacrosse Coach/Coordinator of
+   Original line: Ryan Nowell Head Men's Lacrosse Coach/Coordinator of rnowell@marywood.edu 2285 marywoodlacrosse
+
+19. Brian Osborne
+   Email: bosborne@marywood.edu
+   Username: bosborne
+   Sports: Track & Field
+   Title: s Soccer Coach/Coordinator of
+   Original line: Brian Osborne Head Men's Soccer Coach/Coordinator of bosborne@marywood.edu 2290 marywoodsoccer
+
+20. Matt Berardinelli
+   Email: mberardinelli@marywood.edu
+   Username: mberardinelli
+   Sports: Track & Field
+   Title: Assistant Men's Soccer Coach
+   Original line: Matt Berardinelli Assistant Men's Soccer Coach mberardinelli@marywood.edu 4724
+
+21. Richard Owens
+   Email: rjowens@marywood.edu
+   Username: rjowens
+   Sports: Track & Field
+   Title: s Soccer Coach/Coordinator
+   Original line: Richard Owens Head Women's Soccer Coach/Coordinator rjowens@marywood.edu 2287 marywoodwsoccer
+
+22. John Butash
+   Email: butash@marywood.edu
+   Username: butash
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: John Butash Head Softball Coach butash@marywood.edu 4724 marywoodsoftball
+
+23. Brian Sarafinko
+   Email: bsarafinko@marywood.edu
+   Username: bsarafinko
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Brian Sarafinko Assistant Softball Coach bsarafinko@marywood.edu 4724
+
+24. John DeMatteo
+   Email: jcdematteo@marywood.edu
+   Username: jcdematteo
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: John DeMatteo Assistant Softball Coach jcdematteo@marywood.edu 4724
+
+25. Maggie Davis
+   Email: madavis@marywood.edu
+   Username: madavis
+   Sports: Softball
+   Title: Assistant Swimming and Diving Coach
+   Original line: Maggie Davis Assistant Swimming and Diving Coach madavis@marywood.edu 2686
+
+26. Maggie Davis
+   Email: madavis@marywood.edu
+   Username: madavis
+   Sports: Softball
+   Title: Assistant Swimming and Diving Coach
+   Original line: Maggie Davis Assistant Swimming and Diving Coach madavis@marywood.edu 2686
+
+27. Dana Ciccotti
+   Email: deciccotti@marywood.edu
+   Username: deciccotti
+   Sports: Softball
+   Title: Head Women's and Men's Tennis Coach
+   Original line: Dana Ciccotti Head Women's and Men's Tennis Coach deciccotti@marywood.edu 4724 marywoodwten
+
+28. Lyndsey Medric
+   Email: lmmedric@marywood.edu
+   Username: lmmedric
+   Sports: Softball
+   Title: Assistant Men's & Women's Tennis Coach
+   Original line: Lyndsey Medric Assistant Men's & Women's Tennis Coach lmmedric@marywood.edu 4724 marywoodmenstennis
+
+29. Dana Ciccotti
+   Email: deciccotti@marywood.edu
+   Username: deciccotti
+   Sports: Softball
+   Title: Head Women's and Men's Tennis Coach
+   Original line: Dana Ciccotti Head Women's and Men's Tennis Coach deciccotti@marywood.edu 4724 marywoodwten
+
+30. Lyndsey Medric
+   Email: lmmedric@marywood.edu
+   Username: lmmedric
+   Sports: Softball
+   Title: Assistant Men's & Women's Tennis Coach
+   Original line: Lyndsey Medric Assistant Men's & Women's Tennis Coach lmmedric@marywood.edu 4724 marywoodmenstennis
+
+31. Justin Roughan
+   Email: jroughan@marywood.edu
+   Username: jroughan
+   Sports: Softball
+   Title: Assistant Track and Field Coach
+   Original line: Justin Roughan Assistant Track and Field Coach (Throws) jroughan@marywood.edu x4727
+
+32. Josh Schiowitz
+   Email: jschiowitz@marywood.edu
+   Username: jschiowitz
+   Sports: Softball
+   Title: Assistant Track and Field Coach
+   Original line: Josh Schiowitz Assistant Track and Field Coach (Jumps) jschiowitz@marywood.edu
+
+33. Justin Roughan
+   Email: jroughan@marywood.edu
+   Username: jroughan
+   Sports: Softball
+   Title: Assistant Track and Field Coach
+   Original line: Justin Roughan Assistant Track and Field Coach (Throws) jroughan@marywood.edu x4727
+
+34. Josh Schiowitz
+   Email: jschiowitz@marywood.edu
+   Username: jschiowitz
+   Sports: Softball
+   Title: Assistant Track and Field Coach
+   Original line: Josh Schiowitz Assistant Track and Field Coach (Jumps) jschiowitz@marywood.edu
+
+35. Maegen Eddinger
+   Email: meddinger@marywood.edu
+   Username: meddinger
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Maegen Eddinger Head Volleyball Coach meddinger@marywood.edu 6292 marywoodvb
+
+36. Ashleen Speen
+   Email: aspeen@marywood.edu
+   Username: aspeen
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Ashleen Speen Assistant Volleyball Coach aspeen@marywood.edu 4724
+
+37. Andrew Smith
+   Email: aesmith@marywood.edu
+   Username: aesmith
+   Sports: Track & Field, Hockey
+   Title: Recreation/Head Field Hockey Coach
+   Original line: Recreation/Head Field Hockey Coach aesmith@marywood.edu
+
+38. Emily Brogan
+   Email: erbrogan@m.marywood.edu
+   Username: erbrogan
+   Sports: Soccer
+   Title: Coach/Coordinator of Athletic Academic
+   Original line: Coach/Coordinator of Athletic Academic erbrogan@m.marywood.edu
+
+39. Nicole Malloy
+   Email: malloy@marywood.edu
+   Username: malloy
+   Sports: Soccer
+   Title: Diving Coach/Aquatics Director
+   Original line: Diving Coach/Aquatics Director malloy@marywood.edu
+
+40.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Coordinator of Intramurals
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Coordinator of Intramurals
+
+41. Krista Strausser
+   Email: kstrausser@marywood.edu
+   Username: kstrausser
+   Sports: Baseball
+   Title: Nate Fiala Volunteer Assistant Baseball Coach
+   Original line: Nate Fiala Volunteer Assistant Baseball Coach kstrausser@marywood.edu
+
+42. Richard Volunteer
+   Email: 
+   Username: richard.volunteer
+   Sports: Baseball
+   Title: Richard Clifford Volunteer Assistant Baseball Coach
+   Original line: Richard Clifford Volunteer Assistant Baseball Coach
+
+43. John Volunteer
+   Email: 
+   Username: john.volunteer
+   Sports: Baseball
+   Title: John Stolan Volunteer Assistant Baseball Coach
+   Original line: John Stolan Volunteer Assistant Baseball Coach
+
+44. Vinny Volunteer
+   Email: 
+   Username: vinny.volunteer
+   Sports: Baseball
+   Title: Auria Volunteer Baseball Coach
+   Original line: Vinny D'Auria Volunteer Baseball Coach
+
+45. Tara Macciocco
+   Email: tmacciocco@marywood.edu
+   Username: tmacciocco
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach tmacciocco@marywood.edu
+
+46.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Country/Track and Field Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country/Track and Field Coach
+
+47. Connor Owens
+   Email: 
+   Username: connor.owens
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Connor Owens Assistant Women's Soccer Coach
+
+48. Riley Volunteer
+   Email: 
+   Username: riley.volunteer
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Riley Mulherin Volunteer Assistant Women's Soccer Coach 4724
+
+49. Ray Volunteer
+   Email: 
+   Username: ray.volunteer
+   Sports: Softball
+   Title: Ray MacDonald Volunteer Assistant Softball Coach
+   Original line: Ray MacDonald Volunteer Assistant Softball Coach
+
+50. Shandra Keeler
+   Email: spkeeler29@marywood.edu
+   Username: spkeeler29
+   Sports: Tennis
+   Title: Tennis Coach
+   Original line: Tennis Coach spkeeler29@marywood.edu
+
+51. Cameron Stinchfield
+   Email: ccstinchfield@marywood.edu
+   Username: ccstinchfield
+   Sports: Track & Field
+   Title: Coach
+   Original line: Field Coach (Sprints) ccstinchfield@marywood.edu
+
+52. Barry Morgan
+   Email: bmorgan@marywood.edu
+   Username: bmorgan
+   Sports: Volleyball
+   Title: Mikayla Bayly Volunteer Assistant Volleyball Coach
+   Original line: Mikayla Bayly Volunteer Assistant Volleyball Coach 4724 bmorgan@marywood.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Richard Owens Head Women's Soccer Coach/Coordinator rjowens@marywood.edu 2287 marywoodwsoccer
+• Ryan Nowell Head Men's Lacrosse Coach/Coordinator of rnowell@marywood.edu 2285 marywoodlacrosse
+• Brian Osborne Head Men's Soccer Coach/Coordinator of bosborne@marywood.edu 2290 marywoodsoccer
+• Jason Thiel Head Baseball Coach jmthiel@marywood.edu 2591 marywood.baseball
+• Rick Clifford Assistant Baseball Coach (Director of rclifford@marywood.edu 4724
+• Morgan Theobald Assistant Baseball Coach mjtheobald@marywood.edu 4724
+• Jon Showers Head Men's Basketball Coach/Coordinator showers@marywood.edu 2284 marywoodmbb
+• Xavier Harris Assistant Men's Basketball Coach xkharris@marywood.edu 4724
+• Michael Foder Assistant Men's Basketball Coach mfoder@marywood.edu 4724
+• Alexa Jones Assistant Women's Basketball Coach ajones3@marywood.edu 4724
+• Zachary Kohler Head Valorant Coach zkohler@marywood.edu 6088
+• Matthew Olaes Head Overwatch Coach maolaes@marywood.edu 6088
+• Austin Sienkiewicz Head Rocket League Coach ajsienkiewicz@marywood.edu 6088
+• Kaitlyn Bevans Assistant Field Hockey Coach knbevans@marywood.edu 4724
+• Bill Reiss Head Women's Flag Football Coach wreiss@marywood.edu 4724
+• Patrick Lloyd Head Men's and Women's Golf Coach palloyd@marywood.edu 4724 marywoodgolf
+• Patrick Lloyd Head Men's and Women's Golf Coach palloyd@marywood.edu 4724 marywoodgolf
+• Ryan Nowell Head Men's Lacrosse Coach/Coordinator of rnowell@marywood.edu 2285 marywoodlacrosse
+• Brian Osborne Head Men's Soccer Coach/Coordinator of bosborne@marywood.edu 2290 marywoodsoccer
+• Matt Berardinelli Assistant Men's Soccer Coach mberardinelli@marywood.edu 4724
+• Richard Owens Head Women's Soccer Coach/Coordinator rjowens@marywood.edu 2287 marywoodwsoccer
+• John Butash Head Softball Coach butash@marywood.edu 4724 marywoodsoftball
+• Brian Sarafinko Assistant Softball Coach bsarafinko@marywood.edu 4724
+• John DeMatteo Assistant Softball Coach jcdematteo@marywood.edu 4724
+• Maggie Davis Assistant Swimming and Diving Coach madavis@marywood.edu 2686
+• Maggie Davis Assistant Swimming and Diving Coach madavis@marywood.edu 2686
+• Dana Ciccotti Head Women's and Men's Tennis Coach deciccotti@marywood.edu 4724 marywoodwten
+• Lyndsey Medric Assistant Men's & Women's Tennis Coach lmmedric@marywood.edu 4724 marywoodmenstennis
+• Dana Ciccotti Head Women's and Men's Tennis Coach deciccotti@marywood.edu 4724 marywoodwten
+• Lyndsey Medric Assistant Men's & Women's Tennis Coach lmmedric@marywood.edu 4724 marywoodmenstennis
+• Justin Roughan Assistant Track and Field Coach (Throws) jroughan@marywood.edu x4727
+• Josh Schiowitz Assistant Track and Field Coach (Jumps) jschiowitz@marywood.edu
+• Justin Roughan Assistant Track and Field Coach (Throws) jroughan@marywood.edu x4727
+• Josh Schiowitz Assistant Track and Field Coach (Jumps) jschiowitz@marywood.edu
+• Maegen Eddinger Head Volleyball Coach meddinger@marywood.edu 6292 marywoodvb
+• Ashleen Speen Assistant Volleyball Coach aspeen@marywood.edu 4724

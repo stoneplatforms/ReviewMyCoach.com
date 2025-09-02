@@ -1,0 +1,565 @@
+COACH ENTRIES FOUND - 2025-09-02 14:39:26
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Gettysburg College
+Organization: Gettysburg College Athletics
+
+Total coaches found: 71
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nate Davis
+   Email: ndavis@gettysburg.edu
+   Username: ndavis
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Nate Davis Assistant Director of Athletics/Head Women's Basketball Coach 717-337- ndavis@gettysburg.edu
+
+2. Dana Administrator
+   Email: dvanderg@gettysburg.edu
+   Username: dvanderg
+   Sports: Volleyball
+   Title: Vandergrift Office /Assistant Volleyball Coach
+   Original line: Dana Vandergrift Office Administrator/Assistant Volleyball Coach 717-337- dvanderg@gettysburg.edu
+
+3. Dana Administrator
+   Email: dvanderg@gettysburg.edu
+   Username: dvanderg
+   Sports: Volleyball
+   Title: Vandergrift Office /Assistant Volleyball Coach
+   Original line: Dana Vandergrift Office Administrator/Assistant Volleyball Coach 717-337- dvanderg@gettysburg.edu
+
+4. Andrea Near
+   Email: nearan01@alumni.gettysburg.edu
+   Username: nearan01
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Andrea Near Head Coach nearan01@alumni.gettysburg.edu
+
+5. Jeremy Interim
+   Email: jhefele@gettysburg.edu
+   Username: jhefele
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jeremy Hefele Interim Head Coach 717-337- jhefele@gettysburg.edu
+
+6. Jayson Kramer
+   Email: jkramer@gettysburg.edu
+   Username: jkramer
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jayson Kramer Assistant Coach jkramer@gettysburg.edu
+
+7. Joey Carroll
+   Email: jcarroll@gettysburg.edu
+   Username: jcarroll
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Joey Carroll Assistant Coach 717-337- jcarroll@gettysburg.edu
+
+8. Nate Davis
+   Email: ndavis@gettysburg.edu
+   Username: ndavis
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Nate Davis Assistant Director of Athletics/Head Women's Basketball Coach 717-337- ndavis@gettysburg.edu
+
+9. Kaleigh Badecki
+   Email: kbadecki@gettysburg.edu
+   Username: kbadecki
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kaleigh Badecki Assistant Coach 717-337- kbadecki@gettysburg.edu
+
+10. Bryson Hartzler
+   Email: bhartzle@gettysburg.edu
+   Username: bhartzle
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bryson Hartzler Head Coach 717-337- bhartzle@gettysburg.edu
+
+11. Amanda Kerno
+   Email: akerno@gettysburg.edu
+   Username: akerno
+   Sports: Baseball
+   Title: Associate Coach/Recruiting Coordinator
+   Original line: Amanda Kerno Associate Coach/Recruiting Coordinator 717-337- akerno@gettysburg.edu
+
+12. Taylor Dyer
+   Email: tdyer@gettysburg.edu
+   Username: tdyer
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Taylor Dyer Head Coach 717-337- tdyer@gettysburg.edu
+
+13. Haley Warner
+   Email: hwarner@gettysburg.edu
+   Username: hwarner
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Haley Warner Assistant Coach hwarner@gettysburg.edu
+
+14. Maurice Banks
+   Email: mbanks@gettysburg.edu
+   Username: mbanks
+   Sports: Football
+   Title: Head Coach/Defensive Backs
+   Original line: Maurice Banks Head Coach/Defensive Backs 717-337- mbanks@gettysburg.edu
+
+15. Mike Hoyt
+   Email: mhoyt@gettysburg.edu
+   Username: mhoyt
+   Sports: Football
+   Title: Associate Coach/Defensive Coordinator/Defensive
+   Original line: Mike Hoyt Associate Coach/Defensive Coordinator/Defensive 717-337- mhoyt@gettysburg.edu
+
+16. Dan Beard
+   Email: dbeard@gettysburg.edu
+   Username: dbeard
+   Sports: Football
+   Title: Assistant Coach/Linebackers
+   Original line: Dan Beard Assistant Coach/Linebackers dbeard@gettysburg.edu
+
+17. Bryce Perkins
+   Email: bperkins@gettysburg.edu
+   Username: bperkins
+   Sports: Football
+   Title: Assistant Coach/Offensive Line
+   Original line: Bryce Perkins Assistant Coach/Offensive Line 717-337- bperkins@gettysburg.edu
+
+18. Special Teams
+   Email: ajcarson@gettysburg.edu
+   Username: ajcarson
+   Sports: Football
+   Title: Austyn Carson Assistant Coach/Specialists/Assistant
+   Original line: Austyn Carson Assistant Coach/Specialists/Assistant Special Teams ajcarson@gettysburg.edu
+
+19. Khaliq Coleman
+   Email: kcoleman@gettysburg.edu
+   Username: kcoleman
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Khaliq Coleman Assistant Coach (Wide Receivers) kcoleman@gettysburg.edu
+
+20. Backs 
+   Email: bdunlap@gettysburg.edu
+   Username: bdunlap
+   Sports: Football
+   Title: Brian Dunlap Assistant Coach/Assistant
+   Original line: Brian Dunlap Assistant Coach/Assistant Defensive Backs bdunlap@gettysburg.edu
+
+21. Jeremy Fetterhoff
+   Email: jfetterh@gettysburg.edu
+   Username: jfetterh
+   Sports: Football
+   Title: Assistant Coach/Running Backs
+   Original line: Jeremy Fetterhoff Assistant Coach/Running Backs jfetterh@gettysburg.edu
+
+22. Jason Badecki
+   Email: jbadecki@gettysburg.edu
+   Username: jbadecki
+   Sports: Football
+   Title: Head Coach
+   Original line: Jason Badecki Head Coach 609-980- jbadecki@gettysburg.edu
+
+23. Brian Bisacre
+   Email: bbisacre@gettysburg.edu
+   Username: bbisacre
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brian Bisacre Assistant Coach 719-368- bbisacre@gettysburg.edu
+
+24. Brian Leib
+   Email: bleib@gettysburg.edu
+   Username: bleib
+   Sports: Football
+   Title: Head Coach
+   Original line: Brian Leib Head Coach 717-337- bleib@gettysburg.edu
+
+25. Peter Toner
+   Email: ptoner@gettysburg.edu
+   Username: ptoner
+   Sports: Football
+   Title: Head Coach
+   Original line: Peter Toner Head Coach 717-337- ptoner@gettysburg.edu
+
+26. Charlotte Cunningham
+   Email: chibbard@gettysburg.edu
+   Username: chibbard
+   Sports: Football
+   Title: Head Coach
+   Original line: Charlotte Hibbard (Cunningham) Head Coach 717-337- chibbard@gettysburg.edu
+
+27. Katie McAllister
+   Email: kmcallis@gettysburg.edu
+   Username: kmcallis
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Katie McAllister Assistant Coach 717-337- kmcallis@gettysburg.edu
+
+28. Lauren Asher
+   Email: lasher@gettysburg.edu
+   Username: lasher
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Lauren Asher Assistant Coach 717-337- lasher@gettysburg.edu
+
+29. Dan Interim
+   Email: dmalone@gettysburg.edu
+   Username: dmalone
+   Sports: Football
+   Title: Head Coach
+   Original line: Dan Malone Interim Head Coach 717-337- dmalone@gettysburg.edu
+
+30. Jackson Taylor
+   Email: jataylor@gettysburg.edu
+   Username: jataylor
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jackson Taylor Assistant Coach 717-337- jataylor@gettysburg.edu
+
+31. Rebecca Quimby
+   Email: rquimby@gettysburg.edu
+   Username: rquimby
+   Sports: Football
+   Title: Head Coach
+   Original line: Rebecca Quimby Head Coach 717-337- rquimby@gettysburg.edu
+
+32. Alex Panuccio
+   Email: apanucci@gettysburg.edu
+   Username: apanucci
+   Sports: Football
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Alex Panuccio Assistant Coach/Recruiting Coordinator 717-337- apanucci@gettysburg.edu
+
+33. Madelyn Interim
+   Email: myannett@gettysburg.edu
+   Username: myannett
+   Sports: Softball
+   Title: Head Coach
+   Original line: Madelyn Yannetti Interim Head Coach 717-337- myannett@gettysburg.edu
+
+34. Greg Brown
+   Email: gbrown@gettysburg.edu
+   Username: gbrown
+   Sports: Softball
+   Title: Head Coach
+   Original line: Greg Brown Head Coach 717-337- gbrown@gettysburg.edu
+
+35. Pat Calhoun
+   Email: pcalhoun@gettysburg.edu
+   Username: pcalhoun
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Pat Calhoun Assistant Coach 717-337- pcalhoun@gettysburg.edu
+
+36. Michael Vann
+   Email: mvann@gettysburg.edu
+   Username: mvann
+   Sports: Softball
+   Title: Head Coach
+   Original line: Michael Vann Head Coach 717-337- mvann@gettysburg.edu
+
+37. Michael Vann
+   Email: mvann@gettysburg.edu
+   Username: mvann
+   Sports: Softball
+   Title: Head Coach
+   Original line: Michael Vann Head Coach 717-337- mvann@gettysburg.edu
+
+38. Bryson Hartzler
+   Email: bhartzle@gettysburg.edu
+   Username: bhartzle
+   Sports: Softball
+   Title: Head Coach
+   Original line: Bryson Hartzler Head Coach 717-337- bhartzle@gettysburg.edu
+
+39. Amanda Kerno
+   Email: akerno@gettysburg.edu
+   Username: akerno
+   Sports: Softball
+   Title: Associate Coach/Recruiting Coordinator
+   Original line: Amanda Kerno Associate Coach/Recruiting Coordinator 717-337- akerno@gettysburg.edu
+
+40. Mike Shannon
+   Email: mshannon@gettysburg.edu
+   Username: mshannon
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mike Shannon Assistant Coach (Pole Vault) mshannon@gettysburg.edu
+
+41. Sonja Withrow
+   Email: swithrow@gettysburg.edu
+   Username: swithrow
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sonja Withrow Assistant Coach (Hurdles) swithrow@gettysburg.edu
+
+42. Leah Bernier
+   Email: lbernier@gettysburg.edu
+   Username: lbernier
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Leah Bernier Head Coach 717-337- lbernier@gettysburg.edu
+
+43. Rachel Selmore
+   Email: rselmore@gettysburg.edu
+   Username: rselmore
+   Sports: Volleyball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Rachel Selmore Assistant Coach/Recruiting Coordinator 717-337- rselmore@gettysburg.edu
+
+44. Dana Administrator
+   Email: dvanderg@gettysburg.edu
+   Username: dvanderg
+   Sports: Volleyball
+   Title: Vandergrift Office /Assistant Volleyball Coach
+   Original line: Dana Vandergrift Office Administrator/Assistant Volleyball Coach 717-337- dvanderg@gettysburg.edu
+
+45. Brad Brosius
+   Email: bbrosius@gettysburg.edu
+   Username: bbrosius
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Brad Brosius Head Coach bbrosius@gettysburg.edu
+
+46. Rusty Barrick
+   Email: rbarrick@gettysburg.edu
+   Username: rbarrick
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Rusty Barrick Assistant Coach rbarrick@gettysburg.edu
+
+47. Reggie Overton
+   Email: roverton@gettysburg.edu
+   Username: roverton
+   Sports: Volleyball
+   Title: Head Strength & Conditioning Coach
+   Original line: Reggie Overton Head Strength & Conditioning Coach 717-337- roverton@gettysburg.edu
+
+48. Mike Hoyt
+   Email: mhoyt@gettysburg.edu
+   Username: mhoyt
+   Sports: Volleyball
+   Title: Associate Coach/Defensive Coordinator/Defensive
+   Original line: Mike Hoyt Associate Coach/Defensive Coordinator/Defensive 717-337- mhoyt@gettysburg.edu
+
+49. Kaleigh Badecki
+   Email: kbadecki@gettysburg.edu
+   Username: kbadecki
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Kaleigh Badecki Assistant Coach 717-337- kbadecki@gettysburg.edu
+
+50. Charlotte Cunningham
+   Email: chibbard@gettysburg.edu
+   Username: chibbard
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Charlotte Hibbard (Cunningham) Head Coach 717-337- chibbard@gettysburg.edu
+
+51. Bryson Hartzler
+   Email: bhartzle@gettysburg.edu
+   Username: bhartzle
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Bryson Hartzler Head Coach 717-337- bhartzle@gettysburg.edu
+
+52. TBA 
+   Email: 
+   Username: tba
+   Sports: Soccer
+   Title: Head Coach
+   Original line: TBA TBA Head Coach
+
+53. Jalen Rhea
+   Email: 
+   Username: jalen.rhea
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jalen Rhea Assistant Coach
+
+54. George Seff
+   Email: 
+   Username: george.seff
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: George Seff Assistant Coach
+
+55. Todd Liaison
+   Email: tbreighn@gettysburg.edu
+   Username: tbreighn
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kevin Thomas Assistant Coach tbreighn@gettysburg.edu
+
+56.  
+   Email: 
+   Username: 
+   Sports: Strength & Conditioning
+   Title: Line/Strength and Conditioning Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Line/Strength and Conditioning Coach 6414
+
+57. MacQuarrie Stone-Folmar
+   Email: mstonefo@gettysburg.edu
+   Username: mstonefo
+   Sports: Soccer
+   Title: Rob Rorke Mental Performance Coach
+   Original line: Rob Rorke Mental Performance Coach mstonefo@gettysburg.edu
+
+58. Katie Zimmer
+   Email: 
+   Username: katie.zimmer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Katie Zimmer Assistant Coach
+
+59. Jack Raba
+   Email: 
+   Username: jack.raba
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jack Raba Assistant Coach 717-337-
+
+60. Drew Liaison
+   Email: demurphy@gettysburg.edu
+   Username: demurphy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jackson Lane Assistant Coach 717-337- demurphy@gettysburg.edu
+
+61. Jonah Waldkoenig
+   Email: 
+   Username: jonah.waldkoenig
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jonah Waldkoenig Assistant Coach
+
+62. Bobby Weikert
+   Email: 
+   Username: bobby.weikert
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bobby Weikert Assistant Coach
+
+63. Grace Mork
+   Email: 
+   Username: grace.mork
+   Sports: Strength & Conditioning
+   Title: Grace Mork Strength and Conditioning Coach
+   Original line: Grace Mork Strength and Conditioning Coach
+
+64. Tim Kelly
+   Email: 
+   Username: tim.kelly
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tim Kelly Assistant Coach
+
+65. Stephen Liaison
+   Email: sstern@gettysburg.edu
+   Username: sstern
+   Sports: Strength & Conditioning
+   Title: Phil Letendre Strength Coach
+   Original line: Phil Letendre Strength Coach sstern@gettysburg.edu
+
+66. Sean Stamm
+   Email: 
+   Username: sean.stamm
+   Sports: Strength & Conditioning
+   Title: Sean Stamm Strength Coach
+   Original line: Sean Stamm Strength Coach
+
+67. Megan Smith
+   Email: 
+   Username: megan.smith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Megan Smith Assistant Coach
+
+68. Kirby Scott
+   Email: 
+   Username: kirby.scott
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kirby Scott Assistant Coach
+
+69. Mackenzie Ballivian
+   Email: 
+   Username: mackenzie.ballivian
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mackenzie Ballivian Assistant Coach (Throws)
+
+70. John Sefter
+   Email: 
+   Username: john.sefter
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Sefter Assistant Coach
+
+71. Mitchell Ramsey
+   Email: 
+   Username: mitchell.ramsey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mitchell Ramsey Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nate Davis Assistant Director of Athletics/Head Women's Basketball Coach 717-337- ndavis@gettysburg.edu
+• Dana Vandergrift Office Administrator/Assistant Volleyball Coach 717-337- dvanderg@gettysburg.edu
+• Dana Vandergrift Office Administrator/Assistant Volleyball Coach 717-337- dvanderg@gettysburg.edu
+• Andrea Near Head Coach nearan01@alumni.gettysburg.edu
+• Jeremy Hefele Interim Head Coach 717-337- jhefele@gettysburg.edu
+• Jayson Kramer Assistant Coach jkramer@gettysburg.edu
+• Joey Carroll Assistant Coach 717-337- jcarroll@gettysburg.edu
+• Nate Davis Assistant Director of Athletics/Head Women's Basketball Coach 717-337- ndavis@gettysburg.edu
+• Kaleigh Badecki Assistant Coach 717-337- kbadecki@gettysburg.edu
+• Bryson Hartzler Head Coach 717-337- bhartzle@gettysburg.edu
+• Amanda Kerno Associate Coach/Recruiting Coordinator 717-337- akerno@gettysburg.edu
+• Taylor Dyer Head Coach 717-337- tdyer@gettysburg.edu
+• Haley Warner Assistant Coach hwarner@gettysburg.edu
+• Maurice Banks Head Coach/Defensive Backs 717-337- mbanks@gettysburg.edu
+• Mike Hoyt Associate Coach/Defensive Coordinator/Defensive 717-337- mhoyt@gettysburg.edu
+• Dan Beard Assistant Coach/Linebackers dbeard@gettysburg.edu
+• Bryce Perkins Assistant Coach/Offensive Line 717-337- bperkins@gettysburg.edu
+• Austyn Carson Assistant Coach/Specialists/Assistant Special Teams ajcarson@gettysburg.edu
+• Khaliq Coleman Assistant Coach (Wide Receivers) kcoleman@gettysburg.edu
+• Brian Dunlap Assistant Coach/Assistant Defensive Backs bdunlap@gettysburg.edu
+• Jeremy Fetterhoff Assistant Coach/Running Backs jfetterh@gettysburg.edu
+• Jason Badecki Head Coach 609-980- jbadecki@gettysburg.edu
+• Brian Bisacre Assistant Coach 719-368- bbisacre@gettysburg.edu
+• Brian Leib Head Coach 717-337- bleib@gettysburg.edu
+• Peter Toner Head Coach 717-337- ptoner@gettysburg.edu
+• Charlotte Hibbard (Cunningham) Head Coach 717-337- chibbard@gettysburg.edu
+• Katie McAllister Assistant Coach 717-337- kmcallis@gettysburg.edu
+• Lauren Asher Assistant Coach 717-337- lasher@gettysburg.edu
+• Dan Malone Interim Head Coach 717-337- dmalone@gettysburg.edu
+• Jackson Taylor Assistant Coach 717-337- jataylor@gettysburg.edu
+• Rebecca Quimby Head Coach 717-337- rquimby@gettysburg.edu
+• Alex Panuccio Assistant Coach/Recruiting Coordinator 717-337- apanucci@gettysburg.edu
+• Madelyn Yannetti Interim Head Coach 717-337- myannett@gettysburg.edu
+• Greg Brown Head Coach 717-337- gbrown@gettysburg.edu
+• Pat Calhoun Assistant Coach 717-337- pcalhoun@gettysburg.edu
+• Michael Vann Head Coach 717-337- mvann@gettysburg.edu
+• Michael Vann Head Coach 717-337- mvann@gettysburg.edu
+• Bryson Hartzler Head Coach 717-337- bhartzle@gettysburg.edu
+• Amanda Kerno Associate Coach/Recruiting Coordinator 717-337- akerno@gettysburg.edu
+• Mike Shannon Assistant Coach (Pole Vault) mshannon@gettysburg.edu
+• Sonja Withrow Assistant Coach (Hurdles) swithrow@gettysburg.edu
+• Leah Bernier Head Coach 717-337- lbernier@gettysburg.edu
+• Rachel Selmore Assistant Coach/Recruiting Coordinator 717-337- rselmore@gettysburg.edu
+• Dana Vandergrift Office Administrator/Assistant Volleyball Coach 717-337- dvanderg@gettysburg.edu
+• Brad Brosius Head Coach bbrosius@gettysburg.edu
+• Rusty Barrick Assistant Coach rbarrick@gettysburg.edu
+• Reggie Overton Head Strength & Conditioning Coach 717-337- roverton@gettysburg.edu
+• Mike Hoyt Associate Coach/Defensive Coordinator/Defensive 717-337- mhoyt@gettysburg.edu
+• Kaleigh Badecki Assistant Coach 717-337- kbadecki@gettysburg.edu
+• Charlotte Hibbard (Cunningham) Head Coach 717-337- chibbard@gettysburg.edu
+• Bryson Hartzler Head Coach 717-337- bhartzle@gettysburg.edu

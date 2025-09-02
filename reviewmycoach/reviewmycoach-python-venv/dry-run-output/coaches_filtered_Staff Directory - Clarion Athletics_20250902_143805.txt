@@ -1,0 +1,356 @@
+COACH ENTRIES FOUND - 2025-09-02 14:38:06
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Clarion University
+Organization: Clarion Athletics
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jennifer Herron
+   Email: jmills@pennwest.edu
+   Username: jmills
+   Sports: Soccer
+   Title: Head Coach / Senior Woman Administrator
+   Original line: Jennifer Herron Head Coach / Senior Woman Administrator (SWA) jmills@pennwest.edu 814-393- cuvbcoach
+
+2. Johnny Poss
+   Email: poss_j@pennwest.edu
+   Username: poss_j
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Johnny Poss Head Coach poss_j@pennwest.edu 814-393-
+
+3. Tanner LaBenne
+   Email: LAB92894@pennwest.edu
+   Username: LAB92894
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Tanner LaBenne Assistant Coach (GA) - Infield LAB92894@pennwest.edu
+
+4. Damian Pitts
+   Email: dpitts@pennwest.edu
+   Username: dpitts
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Damian Pitts Head Coach dpitts@pennwest.edu 814-393- CoachPitts33
+
+5. Mike McCready
+   Email: mmccready@pennwest.edu
+   Username: mmccready
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mike McCready Assistant Coach mmccready@pennwest.edu 814-393-
+
+6. Ewing Moussa
+   Email: moussa_e@pennwest.edu
+   Username: moussa_e
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ewing Moussa Assistant Coach (Vol.) moussa_e@pennwest.edu
+
+7. Josh Heberlein
+   Email: heberlein_j@pennwest.edu
+   Username: heberlein_j
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Heberlein Assistant Coach (Vol.) heberlein_j@pennwest.edu
+
+8. Danielle Fleming
+   Email: fleming_d@pennwest.edu
+   Username: fleming_d
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Danielle Fleming Head Coach fleming_d@pennwest.edu 814-393-
+
+9. Daron Fleming
+   Email: fleming_da@pennwest.edu
+   Username: fleming_da
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Daron Fleming Assistant Coach fleming_da@pennwest.edu
+
+10. Eric Laughlin
+   Email: elaughlin@pennwest.edu
+   Username: elaughlin
+   Sports: Track & Field, Cross Country
+   Title: Head Cross Country Coach / Assistant
+   Original line: Eric Laughlin Head Cross Country Coach / Assistant Track Coach elaughlin@pennwest.edu 814-393-
+
+11. Raymond Monica
+   Email: lmonica@pennwest.edu
+   Username: lmonica
+   Sports: Soccer
+   Title: Head Football Coach
+   Original line: Raymond Monica Head Football Coach lmonica@pennwest.edu 814-393- RaymondMonica3
+
+12. Vinnie Rizzo
+   Email: vrizzo@pennwest.edu
+   Username: vrizzo
+   Sports: Soccer
+   Title: Offensive Line Coach
+   Original line: Vinnie Rizzo Offensive Line Coach vrizzo@pennwest.edu 814-393- vrizz52
+
+13. Dave Durish
+   Email: durish_d@pennwest.edu
+   Username: durish_d
+   Sports: Soccer
+   Title: Cornerbacks Coach
+   Original line: Dave Durish Cornerbacks Coach durish_d@pennwest.edu 814-393- coachdurish
+
+14. Ed Groth
+   Email: groth_e@pennwest.edu
+   Username: groth_e
+   Sports: Soccer
+   Title: IV Special Teams Coordinator / Wide Receivers Coach
+   Original line: Ed Groth IV Special Teams Coordinator / Wide Receivers Coach groth_e@pennwest.edu @Ed_Groth
+
+15. Marty Rinker
+   Email: wrinker@pennwest.edu
+   Username: wrinker
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Marty Rinker Head Coach wrinker@pennwest.edu 814-393-
+
+16. Jay Kerle
+   Email: kerle_j@pennwest.edu
+   Username: kerle_j
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jay Kerle Head Coach kerle_j@pennwest.edu
+
+17. Jason Edwards
+   Email: edwards_j@pennwest.edu
+   Username: edwards_j
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jason Edwards Head Coach edwards_j@pennwest.edu 814-393-
+
+18. Marissa Pullo
+   Email: pullo_m@pennwest.edu
+   Username: pullo_m
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Marissa Pullo Head Coach pullo_m@pennwest.edu 814-393-
+
+19. Kiley Turner
+   Email: TUR28651@pennwest.edu
+   Username: TUR28651
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kiley Turner Assistant Coach (GA) TUR28651@pennwest.edu
+
+20. Andrew Vonada
+   Email: vonada_a@pennwest.edu
+   Username: vonada_a
+   Sports: Strength & Conditioning
+   Title: Strength & Conditioning Coach
+   Original line: Andrew Vonada Strength & Conditioning Coach vonada_a@pennwest.edu 814-393-
+
+21. Brehan Kelley
+   Email: bheebner@pennwest.edu
+   Username: bheebner
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Brehan Kelley Head Coach bheebner@pennwest.edu 814-393-
+
+22. Heath Calhoun
+   Email: hcalhoun@pennwest.edu
+   Username: hcalhoun
+   Sports: Soccer
+   Title: Diving Coach
+   Original line: Heath Calhoun Diving Coach hcalhoun@pennwest.edu 814-393-
+
+23. David Lion
+   Email: lion_d@pennwest.edu
+   Username: lion_d
+   Sports: Soccer
+   Title: Head Coach
+   Original line: David Lion Head Coach lion_d@pennwest.edu
+
+24. Ben Bevevino
+   Email: bbevevino@pennwest.edu
+   Username: bbevevino
+   Sports: Track & Field
+   Title: Head Track & Field Coach
+   Original line: Ben Bevevino Head Track & Field Coach bbevevino@pennwest.edu 814-393-
+
+25. Eric Laughlin
+   Email: elaughlin@pennwest.edu
+   Username: elaughlin
+   Sports: Track & Field, Cross Country
+   Title: Head Cross Country Coach / Assistant
+   Original line: Eric Laughlin Head Cross Country Coach / Assistant Track Coach elaughlin@pennwest.edu 814-393-
+
+26. D.J. Bevevino
+   Email: dbevevino@pennwest.edu
+   Username: dbevevino
+   Sports: Track & Field
+   Title: Volunteer Track & Field Coach
+   Original line: D.J. Bevevino Volunteer Track & Field Coach dbevevino@pennwest.edu 814-393-
+
+27. Jennifer Herron
+   Email: jmills@pennwest.edu
+   Username: jmills
+   Sports: Soccer
+   Title: Head Coach / Senior Woman Administrator
+   Original line: Jennifer Herron Head Coach / Senior Woman Administrator (SWA) jmills@pennwest.edu 814-393- cuvbcoach
+
+28. Jon Strub
+   Email: jstrub@pennwest.edu
+   Username: jstrub
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jon Strub Assistant Coach jstrub@pennwest.edu 814-393-
+
+29. Keith Ferraro
+   Email: kferraro@pennwest.edu
+   Username: kferraro
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Keith Ferraro Head Coach kferraro@pennwest.edu 814-393- keithferraro
+
+30. Brock Zacherl
+   Email: bmzacherl@pennwest.edu
+   Username: bmzacherl
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brock Zacherl Assistant Coach bmzacherl@pennwest.edu 814-393-
+
+31. Nick Deloia
+   Email: deloia_n@pennwest.edu
+   Username: deloia_n
+   Sports: Soccer
+   Title: Volunteer Assistant Coach
+   Original line: Nick Deloia Volunteer Assistant Coach deloia_n@pennwest.edu 814-393-
+
+32. Evan Delong
+   Email: delong_e@pennwest.edu
+   Username: delong_e
+   Sports: Soccer
+   Title: Volunteer Assistant Coach
+   Original line: Evan Delong Volunteer Assistant Coach delong_e@pennwest.edu
+
+33. Frank Equipment
+   Email: fgercie@pennwest.edu
+   Username: fgercie
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Christian Forgacs Student Assistant Coach fgercie@pennwest.edu
+
+34. Max Student
+   Email: 
+   Username: max.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Max Engel Student Assistant Coach
+
+35. Kyle Pitching
+   Email: 
+   Username: kyle.pitching
+   Sports: Soccer
+   Title: Kyle Bell Pitching Coach
+   Original line: Kyle Bell Pitching Coach (Vol.)
+
+36. Jake Whittington
+   Email: 
+   Username: jake.whittington
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Whittington Assistant Coach (GA) - Pitching
+
+37. Kai Kueper
+   Email: 
+   Username: kai.kueper
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kai Kueper Assistant Coach (Vol.)
+
+38. Trey Erdman
+   Email: 
+   Username: trey.erdman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Trey Erdman Assistant Coach (GA)
+
+39. Shaq Backs
+   Email: 
+   Username: shaq.backs
+   Sports: Soccer
+   Title: Shaq Jones Defensive Backs Coach
+   Original line: Shaq Jones Defensive Backs Coach (Vol.)
+
+40. Sami Stewart
+   Email: 
+   Username: sami.stewart
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sami Stewart Assistant Coach (GA)
+
+41. Jocelyn Santo
+   Email: 
+   Username: jocelyn.santo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jocelyn Santo Assistant Coach
+
+42. Andrew Hale
+   Email: 
+   Username: andrew.hale
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andrew Hale Assistant Coach
+
+43. David Bocci
+   Email: 
+   Username: david.bocci
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: David Bocci Assistant Coach (Vol.)
+
+44. Gabrielle Webster
+   Email: 
+   Username: gabrielle.webster
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gabrielle Webster Assistant Coach (Vol.)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jennifer Herron Head Coach / Senior Woman Administrator (SWA) jmills@pennwest.edu 814-393- cuvbcoach
+• Johnny Poss Head Coach poss_j@pennwest.edu 814-393-
+• Tanner LaBenne Assistant Coach (GA) - Infield LAB92894@pennwest.edu
+• Damian Pitts Head Coach dpitts@pennwest.edu 814-393- CoachPitts33
+• Mike McCready Assistant Coach mmccready@pennwest.edu 814-393-
+• Ewing Moussa Assistant Coach (Vol.) moussa_e@pennwest.edu
+• Josh Heberlein Assistant Coach (Vol.) heberlein_j@pennwest.edu
+• Danielle Fleming Head Coach fleming_d@pennwest.edu 814-393-
+• Daron Fleming Assistant Coach fleming_da@pennwest.edu
+• Eric Laughlin Head Cross Country Coach / Assistant Track Coach elaughlin@pennwest.edu 814-393-
+• Raymond Monica Head Football Coach lmonica@pennwest.edu 814-393- RaymondMonica3
+• Vinnie Rizzo Offensive Line Coach vrizzo@pennwest.edu 814-393- vrizz52
+• Dave Durish Cornerbacks Coach durish_d@pennwest.edu 814-393- coachdurish
+• Ed Groth IV Special Teams Coordinator / Wide Receivers Coach groth_e@pennwest.edu @Ed_Groth
+• Marty Rinker Head Coach wrinker@pennwest.edu 814-393-
+• Jay Kerle Head Coach kerle_j@pennwest.edu
+• Jason Edwards Head Coach edwards_j@pennwest.edu 814-393-
+• Marissa Pullo Head Coach pullo_m@pennwest.edu 814-393-
+• Kiley Turner Assistant Coach (GA) TUR28651@pennwest.edu
+• Andrew Vonada Strength & Conditioning Coach vonada_a@pennwest.edu 814-393-
+• Brehan Kelley Head Coach bheebner@pennwest.edu 814-393-
+• Heath Calhoun Diving Coach hcalhoun@pennwest.edu 814-393-
+• David Lion Head Coach lion_d@pennwest.edu
+• Ben Bevevino Head Track & Field Coach bbevevino@pennwest.edu 814-393-
+• Eric Laughlin Head Cross Country Coach / Assistant Track Coach elaughlin@pennwest.edu 814-393-
+• D.J. Bevevino Volunteer Track & Field Coach dbevevino@pennwest.edu 814-393-
+• Jennifer Herron Head Coach / Senior Woman Administrator (SWA) jmills@pennwest.edu 814-393- cuvbcoach
+• Jon Strub Assistant Coach jstrub@pennwest.edu 814-393-
+• Keith Ferraro Head Coach kferraro@pennwest.edu 814-393- keithferraro
+• Brock Zacherl Assistant Coach bmzacherl@pennwest.edu 814-393-
+• Nick Deloia Volunteer Assistant Coach deloia_n@pennwest.edu 814-393-
+• Evan Delong Volunteer Assistant Coach delong_e@pennwest.edu

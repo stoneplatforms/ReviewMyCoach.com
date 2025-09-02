@@ -1,0 +1,510 @@
+COACH ENTRIES FOUND - 2025-09-02 14:43:01
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: 500 College Avenue
+Organization: Swarthmore College Athletics
+
+Total coaches found: 63
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tara Griffiths
+   Email: tgriffi2@swarthmore.edu
+   Username: tgriffi2
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Tara Griffiths Assistant Strength & Conditioning Coach tgriffi2@swarthmore.edu
+
+2. Nabeel Adeel
+   Email: nadeel1@swarthmore.edu
+   Username: nadeel1
+   Sports: Soccer
+   Title: Head Women's Badminton Coach
+   Original line: Nabeel Adeel Head Women's Badminton Coach nadeel1@swarthmore.edu
+
+3. Matt Midkiff
+   Email: mmidkif1@swarthmore.edu
+   Username: mmidkif1
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: (610) 328-8216
+   Original line: Matt Midkiff Head Baseball Coach mmidkif1@swarthmore.edu 610-328-8216
+
+4. Brian Booth
+   Email: bbooth1@swarthmore.edu
+   Username: bbooth1
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Brian Booth Assistant Baseball Coach (Offensive Coordinator) bbooth1@swarthmore.edu
+
+5. Matt Rubayo
+   Email: mrubayo2@swarthmore.edu
+   Username: mrubayo2
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Matt Rubayo Assistant Baseball Coach (Director of Recruiting) mrubayo2@swarthmore.edu
+
+6. Conor Harkins
+   Email: mensbasketball@swarthmore.edu
+   Username: mensbasketball
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Conor Harkins Assistant Men's Basketball Coach mensbasketball@swarthmore.edu
+
+7. Dawn Grant
+   Email: dgrant1@swarthmore.edu
+   Username: dgrant1
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Phone: (610) 328-8089
+   Original line: Dawn Grant Head Women's Basketball Coach dgrant1@swarthmore.edu 610-328-8089
+
+8. Britani Lawson
+   Email: blawson1@swarthmore.edu
+   Username: blawson1
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Britani Lawson Assistant Women's Basketball Coach blawson1@swarthmore.edu
+
+9. Daniel Walsh
+   Email: dwalsh2@swarthmore.edu
+   Username: dwalsh2
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Daniel Walsh Assistant Women's Basketball Coach dwalsh2@swarthmore.edu
+
+10. Hannah Harris
+   Email: hharris1@swarthmore.edu
+   Username: hharris1
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Phone: (610) 690-6884
+   Original line: Hannah Harris Head Field Hockey Coach hharris1@swarthmore.edu 610-690-6884
+
+11. Aimee MacFarland
+   Email: amacfar1@swarthmore.edu
+   Username: amacfar1
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Phone: (610) 690-6884
+   Original line: Aimee MacFarland Assistant Field Hockey Coach amacfar1@swarthmore.edu 610-690-6884
+
+12. Ainslie Rhoads
+   Email: fieldhockey@swarthmore.edu
+   Username: fieldhockey
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Phone: (610) 690-6884
+   Original line: Ainslie Rhoads Assistant Field Hockey Coach fieldhockey@swarthmore.edu 610-690-6884
+
+13. Emma Leppert
+   Email: fieldhockey@swarthmore.edu
+   Username: fieldhockey
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Emma Leppert Assistant Field Hockey Coach (Goalkeeping fieldhockey@swarthmore.edu
+
+14. Tara Hausker
+   Email: fieldhockey@swarthmore.edu
+   Username: fieldhockey
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Tara Hausker Assistant Field Hockey Coach fieldhockey@swarthmore.edu
+
+15. Pat Gress
+   Email: pgress1@swarthmore.edu
+   Username: pgress1
+   Sports: Track & Field
+   Title: Head Men's Lacrosse Coach
+   Phone: (610) 328-8208
+   Original line: Pat Gress Head Men's Lacrosse Coach pgress1@swarthmore.edu 610-328-8208
+
+16. Sam Wasson
+   Email: swasson1@swarthmore.edu
+   Username: swasson1
+   Sports: Track & Field
+   Title: Associate Head Men's Lacrosse Coach
+   Phone: (610) 328-8208
+   Original line: Sam Wasson Associate Head Men's Lacrosse Coach swasson1@swarthmore.edu 610-328-8208
+
+17. Lou Harrison
+   Email: lharris5@swarthmore.edu
+   Username: lharris5
+   Sports: Track & Field
+   Title: Assistant Men's Lacrosse Coach
+   Phone: (610) 328-8208
+   Original line: Lou Harrison Assistant Men's Lacrosse Coach lharris5@swarthmore.edu 610-328-8208
+
+18. Tate Wasson
+   Email: twasson1@swarthmore.edu
+   Username: twasson1
+   Sports: Track & Field
+   Title: Assistant Men's Lacrosse Coach
+   Phone: (610) 328-8208
+   Original line: Tate Wasson Assistant Men's Lacrosse Coach twasson1@swarthmore.edu 610-328-8208
+
+19. Karen Borbee
+   Email: kborbee1@swarthmore.edu
+   Username: kborbee1
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Phone: (610) 328-8209
+   Original line: Karen Borbee Head Women's Lacrosse Coach kborbee1@swarthmore.edu 610-328-8209
+
+20. Kathy Krannebitter
+   Email: kkranne1@swarthmore.edu
+   Username: kkranne1
+   Sports: Track & Field
+   Title: Associate Head Women's Lacrosse Coach
+   Phone: (610) 690-6850
+   Original line: Kathy Krannebitter Associate Head Women's Lacrosse Coach kkranne1@swarthmore.edu 610-690-6850
+
+21. Eric Wagner
+   Email: ewagner1@swarthmore.edu
+   Username: ewagner1
+   Sports: Track & Field
+   Title: Head Men's Soccer Coach
+   Phone: (610) 690-6882
+   Original line: Eric Wagner Head Men's Soccer Coach ewagner1@swarthmore.edu 610-690-6882
+
+22. Todd Anckaitis
+   Email: womens_soccer@swarthmore.edu
+   Username: womens_soccer
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Phone: (610) 328-8210
+   Original line: Todd Anckaitis Head Women's Soccer Coach womens_soccer@swarthmore.edu 610-328-8210
+
+23. Melissa Finley
+   Email: mfinley1@swarthmore.edu
+   Username: mfinley1
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (610) 690-6883
+   Original line: Melissa Finley Head Softball Coach mfinley1@swarthmore.edu 610-690-6883
+
+24. Karin Colby
+   Email: kcolby1@swarthmore.edu
+   Username: kcolby1
+   Sports: Softball
+   Title: Head Men's & Women's Swimming Coach
+   Phone: (610) 328-8211
+   Original line: Karin Colby Head Men's & Women's Swimming Coach kcolby1@swarthmore.edu 610-328-8211
+
+25. Coulter Morrill
+   Email: cmorril1@swarthmore.edu
+   Username: cmorril1
+   Sports: Softball
+   Title: Assistant Men's & Women's Swimming Coach
+   Original line: Coulter Morrill Assistant Men's & Women's Swimming Coach cmorril1@swarthmore.edu
+
+26. Molly Spano
+   Email: mspano1@swarthmore.edu
+   Username: mspano1
+   Sports: Softball
+   Title: Assistant Men's & Women's Swimming Coach
+   Original line: Molly Spano Assistant Men's & Women's Swimming Coach mspano1@swarthmore.edu
+
+27. Jason Box
+   Email: jbox1@swarthmore.edu
+   Username: jbox1
+   Sports: Softball
+   Title: Head Men's Tennis Coach
+   Phone: (610) 328-8212
+   Original line: Jason Box Head Men's Tennis Coach jbox1@swarthmore.edu 610-328-8212
+
+28. Brian Kane
+   Email: bkane3@swarthmore.edu
+   Username: bkane3
+   Sports: Softball
+   Title: Assistant Men's Tennis Coach
+   Original line: Brian Kane Assistant Men's Tennis Coach bkane3@swarthmore.edu
+
+29. Jeremy Loomis
+   Email: jloomis1@swarthmore.edu
+   Username: jloomis1
+   Sports: Softball
+   Title: Head Women's Tennis Coach
+   Phone: (610) 328-8204
+   Original line: Jeremy Loomis Head Women's Tennis Coach jloomis1@swarthmore.edu 610-328-8204
+
+30. Harleigh Chwastyk
+   Email: volleyball@swarthmore.edu
+   Username: volleyball
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Phone: (610) 328-8217
+   Original line: Harleigh Chwastyk Head Volleyball Coach volleyball@swarthmore.edu 610-328-8217
+
+31. Linda Zhang
+   Email: volleyball@swarthmore.edu
+   Username: volleyball
+   Sports: Volleyball
+   Title: Associate Head Volleyball Coach
+   Original line: Linda Zhang Associate Head Volleyball Coach volleyball@swarthmore.edu
+
+32. Kristen Johnson
+   Email: volleyball@swarthmore.edu
+   Username: volleyball
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Kristen Johnson Assistant Volleyball Coach volleyball@swarthmore.edu
+
+33. Mike Stratton
+   Email: mstratt1@swarthmore.edu
+   Username: mstratt1
+   Sports: Baseball
+   Title: Halpern Assistant Baseball Coach
+   Original line: Mike Halpern Assistant Baseball Coach mstratt1@swarthmore.edu
+
+34. Larry Equipment
+   Email: lyannel1@swarthmore.edu
+   Username: lyannel1
+   Sports: Baseball
+   Title: Donald Edwards Assistant Baseball Coach
+   Original line: Donald Edwards Assistant Baseball Coach (Pitching) lyannel1@swarthmore.edu
+
+35. Shane Loeffler
+   Email: 
+   Username: shane.loeffler
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Shane Loeffler Head Men's Basketball Coach 610-328-7792
+
+36. Chris Conlan
+   Email: 
+   Username: chris.conlan
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Chris Conlan Assistant Men's Basketball Coach
+
+37. Ty Legree
+   Email: 
+   Username: ty.legree
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Ty Legree Assistant Men's Basketball Coach
+
+38. Justin Dunbar-Stevens
+   Email: 
+   Username: justin.dunbar.stevens
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Justin Dunbar-Stevens Assistant Men's Basketball Coach
+
+39.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Field Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Field Coach
+
+40.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Country/Track & Field Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country/Track & Field Coach
+
+41. Sarah Braendel
+   Email: 
+   Username: sarah.braendel
+   Sports: Golf
+   Title: Sarah Braendel Assistant Golf Coach
+   Original line: Sarah Braendel Assistant Golf Coach
+
+42. Stephany Gobrechbt
+   Email: 
+   Username: stephany.gobrechbt
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Stephany Gobrechbt Assistant Women's Lacrosse Coach
+
+43. Kerstin Axe
+   Email: 
+   Username: kerstin.axe
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Kerstin Axe Assistant Women's Lacrosse Coach
+
+44. Dalton 
+   Email: 
+   Username: dalton
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Ciarán Dalton Assistant Men's Soccer Coach
+
+45. Josh Bordwick
+   Email: 
+   Username: josh.bordwick
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Josh Bordwick Assistant Men's Soccer Coach
+
+46. Liam Fuller
+   Email: 
+   Username: liam.fuller
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Liam Fuller Assistant Men's Soccer Coach
+
+47. Eric Savage
+   Email: 
+   Username: eric.savage
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Eric Savage Assistant Men's Soccer Coach
+
+48. Caleb Ehrenhaft
+   Email: 
+   Username: caleb.ehrenhaft
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Caleb Ehrenhaft Assistant Men's Soccer Coach
+
+49. Reba Magier
+   Email: 
+   Username: reba.magier
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Reba Magier Assistant Women's Soccer Coach
+
+50. Esther Edwards
+   Email: 
+   Username: esther.edwards
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Esther Edwards Assistant Women's Soccer Coach
+
+51. Maddy Carens
+   Email: 
+   Username: maddy.carens
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Maddy Carens Assistant Women's Soccer Coach
+
+52. Jen Moore
+   Email: 
+   Username: jen.moore
+   Sports: Softball
+   Title: Jen Moore Assistant Softball Coach
+   Original line: Jen Moore Assistant Softball Coach
+
+53. Kathryn Riley
+   Email: 
+   Username: kathryn.riley
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Kathryn Riley '10 Assistant Softball Coach
+
+54. Justus Perry
+   Email: 
+   Username: justus.perry
+   Sports: Softball
+   Title: Justus Perry Assistant Softball Coach
+   Original line: Justus Perry Assistant Softball Coach
+
+55.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+56. Charlie Kennedy
+   Email: 
+   Username: charlie.kennedy
+   Sports: Swimming
+   Title: s Swimming Coach
+   Original line: Charlie Kennedy Assistant Men's & Women's Swimming Coach
+
+57. Mike Pace
+   Email: 
+   Username: mike.pace
+   Sports: Swimming
+   Title: s Swimming Coach
+   Original line: Mike Pace Assistant Men's & Women's Swimming Coach
+
+58. Leisha Shaffer
+   Email: 
+   Username: leisha.shaffer
+   Sports: Swimming
+   Title: s Swimming Coach
+   Original line: Leisha Shaffer Assistant Men's & Women's Swimming Coach
+
+59. Marc Fisicaro
+   Email: 
+   Username: marc.fisicaro
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Marc Fisicaro Assistant Men's Tennis Coach
+
+60. Noah Cheng
+   Email: 
+   Username: noah.cheng
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Noah Cheng '21 Assistant Men's Tennis Coach
+
+61. Mohanchand Koduri
+   Email: 
+   Username: mohanchand.koduri
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Mohanchand Koduri Assistant Men's Tennis Coach
+
+62. Karl Gutwein-Guenther
+   Email: 
+   Username: karl.gutwein.guenther
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Karl Gutwein-Guenther Assistant Men's & Women's Track & Field Coach
+
+63. Peter Carroll
+   Email: pcarrol2@swarthmore.edu
+   Username: pcarrol2
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Kyle Dandridge Assistant Men's & Women's Track & Field Coach pcarrol2@swarthmore.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tara Griffiths Assistant Strength & Conditioning Coach tgriffi2@swarthmore.edu
+• Nabeel Adeel Head Women's Badminton Coach nadeel1@swarthmore.edu
+• Matt Midkiff Head Baseball Coach mmidkif1@swarthmore.edu 610-328-8216
+• Brian Booth Assistant Baseball Coach (Offensive Coordinator) bbooth1@swarthmore.edu
+• Matt Rubayo Assistant Baseball Coach (Director of Recruiting) mrubayo2@swarthmore.edu
+• Conor Harkins Assistant Men's Basketball Coach mensbasketball@swarthmore.edu
+• Dawn Grant Head Women's Basketball Coach dgrant1@swarthmore.edu 610-328-8089
+• Britani Lawson Assistant Women's Basketball Coach blawson1@swarthmore.edu
+• Daniel Walsh Assistant Women's Basketball Coach dwalsh2@swarthmore.edu
+• Hannah Harris Head Field Hockey Coach hharris1@swarthmore.edu 610-690-6884
+• Aimee MacFarland Assistant Field Hockey Coach amacfar1@swarthmore.edu 610-690-6884
+• Ainslie Rhoads Assistant Field Hockey Coach fieldhockey@swarthmore.edu 610-690-6884
+• Emma Leppert Assistant Field Hockey Coach (Goalkeeping fieldhockey@swarthmore.edu
+• Tara Hausker Assistant Field Hockey Coach fieldhockey@swarthmore.edu
+• Pat Gress Head Men's Lacrosse Coach pgress1@swarthmore.edu 610-328-8208
+• Sam Wasson Associate Head Men's Lacrosse Coach swasson1@swarthmore.edu 610-328-8208
+• Lou Harrison Assistant Men's Lacrosse Coach lharris5@swarthmore.edu 610-328-8208
+• Tate Wasson Assistant Men's Lacrosse Coach twasson1@swarthmore.edu 610-328-8208
+• Karen Borbee Head Women's Lacrosse Coach kborbee1@swarthmore.edu 610-328-8209
+• Kathy Krannebitter Associate Head Women's Lacrosse Coach kkranne1@swarthmore.edu 610-690-6850
+• Eric Wagner Head Men's Soccer Coach ewagner1@swarthmore.edu 610-690-6882
+• Todd Anckaitis Head Women's Soccer Coach womens_soccer@swarthmore.edu 610-328-8210
+• Melissa Finley Head Softball Coach mfinley1@swarthmore.edu 610-690-6883
+• Karin Colby Head Men's & Women's Swimming Coach kcolby1@swarthmore.edu 610-328-8211
+• Coulter Morrill Assistant Men's & Women's Swimming Coach cmorril1@swarthmore.edu
+• Molly Spano Assistant Men's & Women's Swimming Coach mspano1@swarthmore.edu
+• Jason Box Head Men's Tennis Coach jbox1@swarthmore.edu 610-328-8212
+• Brian Kane Assistant Men's Tennis Coach bkane3@swarthmore.edu
+• Jeremy Loomis Head Women's Tennis Coach jloomis1@swarthmore.edu 610-328-8204
+• Harleigh Chwastyk Head Volleyball Coach volleyball@swarthmore.edu 610-328-8217
+• Linda Zhang Associate Head Volleyball Coach volleyball@swarthmore.edu
+• Kristen Johnson Assistant Volleyball Coach volleyball@swarthmore.edu

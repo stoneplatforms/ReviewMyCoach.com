@@ -1,0 +1,290 @@
+COACH ENTRIES FOUND - 2025-09-02 14:37:51
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Cairn University
+Organization: Cairn University Athletics
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Joshua Knight
+   Email: jknight@cairn.edu
+   Username: jknight
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 215.702.4408
+   Original line: Joshua Knight Head Coach jknight@cairn.edu 215.702.4408
+
+2. Jason O'Connell
+   Email: joconnell@cairn.edu
+   Username: joconnell
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 215.702.4403
+   Original line: Jason O'Connell Head Coach joconnell@cairn.edu 215.702.4403
+
+3. Seth Brunner
+   Email: sb700@cairn.edu
+   Username: sb700
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Seth Brunner '20 Assistant Coach/Recruiting Coordinator sb700@cairn.edu
+
+4. Alan Foy
+   Email: afoy@cairn.edu
+   Username: afoy
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Alan Foy Assistant Coach afoy@cairn.edu
+
+5. Amie Eppolito
+   Email: aeppolito@cairn.edu
+   Username: aeppolito
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 215.702.4413
+   Original line: Amie Eppolito '16 Head Coach aeppolito@cairn.edu 215.702.4413
+
+6. Jody Luther
+   Email: jluther@cairn.edu
+   Username: jluther
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 732.881.8834
+   Original line: Jody Luther Head Coach jluther@cairn.edu 732.881.8834
+
+7. Jody Luther
+   Email: jluther@cairn.edu
+   Username: jluther
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 732.881.8834
+   Original line: Jody Luther Head Coach jluther@cairn.edu 732.881.8834
+
+8. Mike Landis
+   Email: mlandis@cairn.edu
+   Username: mlandis
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 267.328.7457
+   Original line: Mike Landis Head Coach mlandis@cairn.edu 267.328.7457
+
+9. Matt LoStracco
+   Email: mlostracco@cairn.edu
+   Username: mlostracco
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 267.315.5528
+   Original line: Matt LoStracco Head Coach mlostracco@cairn.edu 267.315.5528
+
+10. Kevin Heffler
+   Email: kheffler@cairn.edu
+   Username: kheffler
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kevin Heffler Assistant Coach kheffler@cairn.edu
+
+11. Luke Gibson
+   Email: lgibson@cairn.edu
+   Username: lgibson
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 215.702.4422
+   Original line: Luke Gibson Head Coach lgibson@cairn.edu 215.702.4422
+
+12. Connor Grogan
+   Email: cgrogan@cairn.edu
+   Username: cgrogan
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Connor Grogan '18 Assistant Coach cgrogan@cairn.edu
+
+13. Joey Weaver
+   Email: jweaver@cairn.edu
+   Username: jweaver
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Joey Weaver '19 Assistant Coach jweaver@cairn.edu
+
+14. Moses Beers
+   Email: mbeers@cairn.edu
+   Username: mbeers
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Moses Beers '25 Assistant Coach mbeers@cairn.edu
+
+15. Kevin Smith
+   Email: ksmith@cairn.edu
+   Username: ksmith
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 508.369.4980
+   Original line: Kevin Smith Head Coach ksmith@cairn.edu 508.369.4980
+
+16. Brea Zellner
+   Email: bzellner@cairn.edu
+   Username: bzellner
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Brea Zellner '21 Assistant Coach bzellner@cairn.edu
+
+17. Kathryn Reid
+   Email: kreid@cairn.edu
+   Username: kreid
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kathryn Reid '24 Assistant Coach kreid@cairn.edu
+
+18. Brady Achuff
+   Email: btillotson@cairn.edu
+   Username: btillotson
+   Sports: Softball
+   Title: Head Coach
+   Phone: 267.733.2853
+   Original line: Brady Achuff Head Coach btillotson@cairn.edu 267.733.2853
+
+19. Gregg Fanus
+   Email: gfanus@cairn.edu
+   Username: gfanus
+   Sports: Softball
+   Title: Head Coach
+   Phone: 215.702.4283
+   Original line: Gregg Fanus '04 Head Coach gfanus@cairn.edu 215.702.4283
+
+20. Gregg Fanus
+   Email: gfanus@cairn.edu
+   Username: gfanus
+   Sports: Softball
+   Title: Head Coach
+   Phone: 215.702.4283
+   Original line: Gregg Fanus '04 Head Coach gfanus@cairn.edu 215.702.4283
+
+21. Shea Scott
+   Email: ss795@cairn.edu
+   Username: ss795
+   Sports: Softball
+   Title: Head Coach
+   Phone: 267.421.2457
+   Original line: Shea Scott '24 Head Coach ss795@cairn.edu 267.421.2457
+
+22. Elissa Murray
+   Email: emurray@cairn.edu
+   Username: emurray
+   Sports: Softball
+   Title: Head Coach
+   Phone: 484.680.1753
+   Original line: Elissa Murray Head Coach emurray@cairn.edu 484.680.1753
+
+23. Intramural 
+   Email: intramurals@cairn.edu
+   Username: intramurals
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kameron Clark '23 Assistant Coach intramurals@cairn.edu
+
+24. Derek Benner
+   Email: 
+   Username: derek.benner
+   Sports: Strength & Conditioning
+   Title: Assistant Coach/Strength & Conditioning
+   Original line: Derek Benner Assistant Coach/Strength & Conditioning
+
+25. Chloe Early
+   Email: 
+   Username: chloe.early
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chloe Early Assistant Coach
+
+26. James Snider
+   Email: 
+   Username: james.snider
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: James Snider '22 Assistant Coach
+
+27. Erin Wilson
+   Email: 
+   Username: erin.wilson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erin Wilson Assistant Coach
+
+28. RJ Scholz
+   Email: 
+   Username: rj.scholz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: RJ Scholz Assistant Coach
+
+29. Hayden Phillips
+   Email: 
+   Username: hayden.phillips
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hayden Phillips '22 Assistant Coach
+
+30. Sara Castillo
+   Email: 
+   Username: sara.castillo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sara Castillo Assistant Coach
+
+31. Rich Ipri
+   Email: 
+   Username: rich.ipri
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rich Ipri Assistant Coach
+
+32. Collin Benjamin
+   Email: 
+   Username: collin.benjamin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Collin Benjamin Assistant Coach
+
+33. Allison Barnes
+   Email: 
+   Username: allison.barnes
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Allison Barnes '23 Assistant Coach
+
+34. Tara Hickey
+   Email: 
+   Username: tara.hickey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tara Hickey Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Joshua Knight Head Coach jknight@cairn.edu 215.702.4408
+• Jason O'Connell Head Coach joconnell@cairn.edu 215.702.4403
+• Seth Brunner '20 Assistant Coach/Recruiting Coordinator sb700@cairn.edu
+• Alan Foy Assistant Coach afoy@cairn.edu
+• Amie Eppolito '16 Head Coach aeppolito@cairn.edu 215.702.4413
+• Jody Luther Head Coach jluther@cairn.edu 732.881.8834
+• Jody Luther Head Coach jluther@cairn.edu 732.881.8834
+• Mike Landis Head Coach mlandis@cairn.edu 267.328.7457
+• Matt LoStracco Head Coach mlostracco@cairn.edu 267.315.5528
+• Kevin Heffler Assistant Coach kheffler@cairn.edu
+• Luke Gibson Head Coach lgibson@cairn.edu 215.702.4422
+• Connor Grogan '18 Assistant Coach cgrogan@cairn.edu
+• Joey Weaver '19 Assistant Coach jweaver@cairn.edu
+• Moses Beers '25 Assistant Coach mbeers@cairn.edu
+• Kevin Smith Head Coach ksmith@cairn.edu 508.369.4980
+• Brea Zellner '21 Assistant Coach bzellner@cairn.edu
+• Kathryn Reid '24 Assistant Coach kreid@cairn.edu
+• Brady Achuff Head Coach btillotson@cairn.edu 267.733.2853
+• Gregg Fanus '04 Head Coach gfanus@cairn.edu 215.702.4283
+• Gregg Fanus '04 Head Coach gfanus@cairn.edu 215.702.4283
+• Shea Scott '24 Head Coach ss795@cairn.edu 267.421.2457
+• Elissa Murray Head Coach emurray@cairn.edu 484.680.1753

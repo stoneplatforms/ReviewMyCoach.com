@@ -1,0 +1,320 @@
+COACH ENTRIES FOUND - 2025-09-02 14:42:46
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Slippery Rock University
+Organization: Slippery Rock University Athletics
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Connor Olson
+   Email: connor.olson@sru.edu
+   Username: connor.olson
+   Sports: Strength & Conditioning
+   Title: Head Strength and Conditioning Coach
+   Phone: 724.738.4549
+   Original line: Connor Olson Head Strength and Conditioning Coach connor.olson@sru.edu 724.738.4549
+
+2. Brandon Ott
+   Email: brandon.ott@sru.edu
+   Username: brandon.ott
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Brandon Ott Assistant Strength and Conditioning Coach brandon.ott@sru.edu
+
+3. Jeff Messer
+   Email: jeffrey.messer@sru.edu
+   Username: jeffrey.messer
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 724.738.2813
+   Original line: Jeff Messer Head Coach jeffrey.messer@sru.edu 724.738.2813
+
+4. Billy Messer
+   Email: william.messer@sru.edu
+   Username: william.messer
+   Sports: Baseball
+   Title: Associate Head Coach /
+   Original line: Billy Messer Associate Head Coach / Recruiting Coordinator william.messer@sru.edu
+
+5. Bill Jordan
+   Email: william.jordan@sru.edu
+   Username: william.jordan
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: 724.738.2797
+   Original line: Bill Jordan Head Coach william.jordan@sru.edu 724.738.2797
+
+6. Bobby Over
+   Email: robert.over@sru.edu
+   Username: robert.over
+   Sports: Cross Country
+   Title: Assistant Coach
+   Phone: 724.738.2798
+   Original line: Bobby Over Assistant Coach robert.over@sru.edu 724.738.2798
+
+7. Ian Grady
+   Email: ian.grady@sru.edu
+   Username: ian.grady
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: 724.738.2826
+   Original line: Ian Grady Head Coach ian.grady@sru.edu 724.738.2826
+
+8. Jon Valeriano
+   Email: jonathan.valeriano@sru.edu
+   Username: jonathan.valeriano
+   Sports: Cross Country
+   Title: Assistant Coach
+   Phone: 724.738.2721
+   Original line: Jon Valeriano Assistant Coach jonathan.valeriano@sru.edu 724.738.2721
+
+9. Brad Henry
+   Email: bradley.henry@sru.edu
+   Username: bradley.henry
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Brad Henry Assistant Coach bradley.henry@sru.edu
+
+10. Ryenn Micaletti
+   Email: ryenn.micaletti@sru.edu
+   Username: ryenn.micaletti
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: 724.738.2399
+   Original line: Ryenn Micaletti Head Coach ryenn.micaletti@sru.edu 724.738.2399
+
+11. Christian Harbaugh
+   Email: christian.harbaugh@sru.edu
+   Username: christian.harbaugh
+   Sports: Cross Country
+   Title: Assistant Coach
+   Phone: 724.738.4938
+   Original line: Christian Harbaugh Assistant Coach christian.harbaugh@sru.edu 724.738.4938
+
+12. Missy Revesz
+   Email: melissa.revesz@sru.edu
+   Username: melissa.revesz
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 724.738.4318
+   Original line: Missy Revesz Head Coach melissa.revesz@sru.edu 724.738.4318
+
+13. Alex Pennington
+   Email: alexandra.pennington@sru.edu
+   Username: alexandra.pennington
+   Sports: Track & Field
+   Title: Assistant Coach
+   Phone: 724.738.2786
+   Original line: Alex Pennington Assistant Coach alexandra.pennington@sru.edu 724.738.2786
+
+14. Shawn Lutz
+   Email: shawn.lutz@sru.edu
+   Username: shawn.lutz
+   Sports: Football
+   Title: Head Coach
+   Phone: 724.738.4428
+   Original line: Shawn Lutz Head Coach shawn.lutz@sru.edu 724.738.4428
+
+15. Chris Conrad
+   Email: christopher.conrad@sru.edu
+   Username: christopher.conrad
+   Sports: Football
+   Title: Associate Head Coach/Offensive Line/Recruiting Coordinator
+   Phone: 724.738.2783
+   Original line: Chris Conrad Associate Head Coach/Offensive Line/Recruiting Coordinator christopher.conrad@sru.edu 724.738.2783
+
+16. Taryn Burkholder
+   Email: taryn.burkholder@sru.edu
+   Username: taryn.burkholder
+   Sports: Football
+   Title: Head Coach
+   Phone: 724.738.4319
+   Original line: Taryn Burkholder Head Coach taryn.burkholder@sru.edu 724.738.4319
+
+17. Jordan Anderson
+   Email: jordan.anderson@sru.edu
+   Username: jordan.anderson
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jordan Anderson Assistant Coach jordan.anderson@sru.edu
+
+18. Kevin Wilhelm
+   Email: kevin.wilhelm@sru.edu
+   Username: kevin.wilhelm
+   Sports: Football
+   Title: Head Coach
+   Phone: 724.738.2822
+   Original line: Kevin Wilhelm Head Coach kevin.wilhelm@sru.edu 724.738.2822
+
+19. Robert Serra
+   Email: robert.serra@sru.edu
+   Username: robert.serra
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Robert Serra Assistant Coach robert.serra@sru.edu
+
+20. Noreen Herlihy
+   Email: noreen.herlihy@sru.edu
+   Username: noreen.herlihy
+   Sports: Football
+   Title: Head Coach
+   Phone: 724.738.2946
+   Original line: Noreen Herlihy Head Coach noreen.herlihy@sru.edu 724.738.2946
+
+21. Nicole Krueger
+   Email: nicole.krueger@sru.edu
+   Username: nicole.krueger
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nicole Krueger Assistant Coach nicole.krueger@sru.edu
+
+22. Stacey Rice
+   Email: stacey.rice@sru.edu
+   Username: stacey.rice
+   Sports: Softball
+   Title: Head Coach
+   Phone: 724.738.4959
+   Original line: Stacey Rice Head Coach stacey.rice@sru.edu 724.738.4959
+
+23. Stacey Herzog
+   Email: stacey.herzog@sru.edu
+   Username: stacey.herzog
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: 724.738.4404
+   Original line: Stacey Herzog Assistant Coach stacey.herzog@sru.edu 724.738.4404
+
+24. Matt Meredith
+   Email: matthew.meredith@sru.edu
+   Username: matthew.meredith
+   Sports: Softball
+   Title: Head Coach
+   Phone: 724.738.4504
+   Original line: Matt Meredith Head Coach matthew.meredith@sru.edu 724.738.4504
+
+25. Bill Jordan
+   Email: william.jordan@sru.edu
+   Username: william.jordan
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 724.738.2797
+   Original line: Bill Jordan Head Coach william.jordan@sru.edu 724.738.2797
+
+26. Bobby Over
+   Email: robert.over@sru.edu
+   Username: robert.over
+   Sports: Track & Field
+   Title: Assistant Coach
+   Phone: 724.738.2798
+   Original line: Bobby Over Assistant Coach robert.over@sru.edu 724.738.2798
+
+27. Tabitha Bemis
+   Email: tabitha.bemis@sru.edu
+   Username: tabitha.bemis
+   Sports: Track & Field
+   Title: Assistant Coach
+   Phone: 724.738.4309
+   Original line: Tabitha Bemis Assistant Coach tabitha.bemis@sru.edu 724.738.4309
+
+28. Dylan Lasher
+   Email: dylan.lasher@sru.edu
+   Username: dylan.lasher
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 724.738.2817
+   Original line: Dylan Lasher Head Coach dylan.lasher@sru.edu 724.738.2817
+
+29. Raquel McDonald
+   Email: raquel.mcdonald@sru.edu
+   Username: raquel.mcdonald
+   Sports: Track & Field
+   Title: Assistant Coach
+   Phone: 724.738.4960
+   Original line: Raquel McDonald Assistant Coach raquel.mcdonald@sru.edu 724.738.4960
+
+30. Dr Liaison
+   Email: john.mathe@sru.edu
+   Username: john.mathe
+   Sports: Soccer
+   Title: Mike Nuzzo Pitching Coach
+   Original line: Mike Nuzzo Pitching Coach john.mathe@sru.edu
+
+31. Billy Herman
+   Email: 
+   Username: billy.herman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Billy Herman Assistant Coach
+
+32. Andrew Volunteer
+   Email: 
+   Username: andrew.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andrew Maxwell Volunteer Assistant Coach
+
+33. Courtney Haines
+   Email: 
+   Username: courtney.haines
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Courtney Haines Assistant Coach
+
+34. Nathan Shadeck
+   Email: 
+   Username: nathan.shadeck
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nathan Shadeck Assistant Coach
+
+35. Judy Volunteer
+   Email: 
+   Username: judy.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Judy Geist Volunteer Assistant Coach
+
+36. Vanere Volunteer
+   Email: 
+   Username: vanere.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Vanere Maynard Volunteer Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Connor Olson Head Strength and Conditioning Coach connor.olson@sru.edu 724.738.4549
+• Brandon Ott Assistant Strength and Conditioning Coach brandon.ott@sru.edu
+• Jeff Messer Head Coach jeffrey.messer@sru.edu 724.738.2813
+• Billy Messer Associate Head Coach / Recruiting Coordinator william.messer@sru.edu
+• Bill Jordan Head Coach william.jordan@sru.edu 724.738.2797
+• Bobby Over Assistant Coach robert.over@sru.edu 724.738.2798
+• Ian Grady Head Coach ian.grady@sru.edu 724.738.2826
+• Jon Valeriano Assistant Coach jonathan.valeriano@sru.edu 724.738.2721
+• Brad Henry Assistant Coach bradley.henry@sru.edu
+• Ryenn Micaletti Head Coach ryenn.micaletti@sru.edu 724.738.2399
+• Christian Harbaugh Assistant Coach christian.harbaugh@sru.edu 724.738.4938
+• Missy Revesz Head Coach melissa.revesz@sru.edu 724.738.4318
+• Alex Pennington Assistant Coach alexandra.pennington@sru.edu 724.738.2786
+• Shawn Lutz Head Coach shawn.lutz@sru.edu 724.738.4428
+• Chris Conrad Associate Head Coach/Offensive Line/Recruiting Coordinator christopher.conrad@sru.edu 724.738.2783
+• Taryn Burkholder Head Coach taryn.burkholder@sru.edu 724.738.4319
+• Jordan Anderson Assistant Coach jordan.anderson@sru.edu
+• Kevin Wilhelm Head Coach kevin.wilhelm@sru.edu 724.738.2822
+• Robert Serra Assistant Coach robert.serra@sru.edu
+• Noreen Herlihy Head Coach noreen.herlihy@sru.edu 724.738.2946
+• Nicole Krueger Assistant Coach nicole.krueger@sru.edu
+• Stacey Rice Head Coach stacey.rice@sru.edu 724.738.4959
+• Stacey Herzog Assistant Coach stacey.herzog@sru.edu 724.738.4404
+• Matt Meredith Head Coach matthew.meredith@sru.edu 724.738.4504
+• Bill Jordan Head Coach william.jordan@sru.edu 724.738.2797
+• Bobby Over Assistant Coach robert.over@sru.edu 724.738.2798
+• Tabitha Bemis Assistant Coach tabitha.bemis@sru.edu 724.738.4309
+• Dylan Lasher Head Coach dylan.lasher@sru.edu 724.738.2817
+• Raquel McDonald Assistant Coach raquel.mcdonald@sru.edu 724.738.4960

@@ -1,0 +1,539 @@
+COACH ENTRIES FOUND - 2025-09-02 14:40:51
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Lycoming College
+Organization: Lycoming College Athletics
+
+Total coaches found: 63
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mike Clark
+   Email: clarkm@lycoming.edu
+   Username: clarkm
+   Sports: Soccer
+   Title: Director of Athletics/Head Football Coach
+   Phone: (570) 321-4110
+   Original line: Mike Clark Director of Athletics/Head Football Coach clarkm@lycoming.edu 570-321-4110
+
+2. Dylan Geraty
+   Email: geraty@lycoming.edu
+   Username: geraty
+   Sports: Cross Country, Strength & Conditioning
+   Title: Head Strength & Conditioning Coach & Interim Head
+   Phone: (570) 321-4273
+   Original line: Dylan Geraty Head Strength & Conditioning Coach & Interim Head Cross Country geraty@lycoming.edu 570-321-4273
+
+3. Rick Oliveri
+   Email: oliveri@lycoming.edu
+   Username: oliveri
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Rick Oliveri Head Baseball Coach oliveri@lycoming.edu
+
+4. Zac Cronk
+   Email: cronk@lycoming.edu
+   Username: cronk
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Zac Cronk Assistant Baseball Coach cronk@lycoming.edu
+
+5. Bode Gebbink
+   Email: gebbink@lycoming.edu
+   Username: gebbink
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Bode Gebbink Assistant Baseball Coach gebbink@lycoming.edu
+
+6. Mark Linebaugh
+   Email: linebaugh@lycoming.edu
+   Username: linebaugh
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Phone: (570) 321-4262
+   Original line: Mark Linebaugh Head Men's Basketball Coach linebaugh@lycoming.edu 570-321-4262
+
+7. Trey Blanding
+   Email: blanding@lycoming.edu
+   Username: blanding
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Trey Blanding Assistant Men's Basketball Coach blanding@lycoming.edu
+
+8. Bernie Rogers
+   Email: rogersb@lycoming.edu
+   Username: rogersb
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Bernie Rogers Assistant Men's Basketball Coach rogersb@lycoming.edu
+
+9. Shane Rottier
+   Email: rottier@lycoming.edu
+   Username: rottier
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Phone: (570) 321-4261
+   Original line: Shane Rottier Head Women's Basketball Coach rottier@lycoming.edu 570-321-4261
+
+10. Justin Marnon
+   Email: marnon@lycoming.edu
+   Username: marnon
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Justin Marnon Assistant Women's Basketball Coach marnon@lycoming.edu
+
+11. Dylan Geraty
+   Email: geraty@lycoming.edu
+   Username: geraty
+   Sports: Cross Country
+   Title: Head Strength & Conditioning Coach & Interim Head
+   Phone: (570) 321-4273
+   Original line: Dylan Geraty Head Strength & Conditioning Coach & Interim Head Cross Country geraty@lycoming.edu 570-321-4273
+
+12. Tamara Pavlov
+   Email: pavlov@lycoming.edu
+   Username: pavlov
+   Sports: Cross Country
+   Title: Assistant Cross Country Coach
+   Original line: Tamara Pavlov Assistant Cross Country Coach pavlov@lycoming.edu
+
+13. Allyson Kenyon
+   Email: kenyon@lycoming.edu
+   Username: kenyon
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Phone: (570) 321-4077
+   Original line: Allyson Kenyon Head Field Hockey Coach kenyon@lycoming.edu 570-321-4077
+
+14. Adam Matter
+   Email: matter@lycoming.edu
+   Username: matter
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Adam Matter Assistant Field Hockey Coach matter@lycoming.edu
+
+15. Mike Clark
+   Email: clarkm@lycoming.edu
+   Username: clarkm
+   Sports: Football
+   Title: Director of Athletics/Head Football Coach
+   Phone: (570) 321-4110
+   Original line: Mike Clark Director of Athletics/Head Football Coach clarkm@lycoming.edu 570-321-4110
+
+16. Steve Wiser
+   Email: wiser@lycoming.edu
+   Username: wiser
+   Sports: Football
+   Title: Associate Head Football Coach
+   Phone: (570) 321-4253
+   Original line: Steve Wiser Associate Head Football Coach (Co-Defensive Coordinator) wiser@lycoming.edu 570-321-4253
+
+17. Mark DeLucia
+   Email: delucia@lycoming.edu
+   Username: delucia
+   Sports: Football
+   Title: Assistant Football Coach
+   Phone: (570) 321-4142
+   Original line: Mark DeLucia Assistant Football Coach (Co-Defensive/Recruiting Coordinator) delucia@lycoming.edu 570-321-4142
+
+18. Greg Merchlinsky
+   Email: merchlinsky@lycoming.edu
+   Username: merchlinsky
+   Sports: Football
+   Title: Assistant Football Coach
+   Phone: (570) 321-4019
+   Original line: Greg Merchlinsky Assistant Football Coach (Offensive Coordinator) merchlinsky@lycoming.edu 570-321-4019
+
+19. Brent Newton
+   Email: newton@lycoming.edu
+   Username: newton
+   Sports: Football
+   Title: Assistant Football Coach
+   Phone: (570) 321-4019
+   Original line: Brent Newton Assistant Football Coach (Tight Ends/Special Teams) newton@lycoming.edu 570-321-4019
+
+20. Kevin Brown
+   Email: brownke@lycoming.edu
+   Username: brownke
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Kevin Brown Assistant Football Coach (Running Backs) brownke@lycoming.edu
+
+21. Adam Gehr
+   Email: gehr@lycoming.edu
+   Username: gehr
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Adam Gehr Assistant Football Coach (Outside Linebackers) gehr@lycoming.edu
+
+22. Taylor Heflin
+   Email: heflin@lycoming.edu
+   Username: heflin
+   Sports: Football
+   Title: Assistant Football Coach
+   Phone: (570) 321-4019
+   Original line: Taylor Heflin Assistant Football Coach (Defensive Backs) heflin@lycoming.edu 570-321-4019
+
+23. Chris Kish
+   Email: kishc@lycoming.edu
+   Username: kishc
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Chris Kish Assistant Football Coach (Linebackers) kishc@lycoming.edu
+
+24. Jacob Shermeyer
+   Email: shermeyerj@lycoming.edu
+   Username: shermeyerj
+   Sports: Football
+   Title: Assistant Football Coach
+   Phone: (570) 321-4019
+   Original line: Jacob Shermeyer Assistant Football Coach (Wide Receivers) shermeyerj@lycoming.edu 570-321-4019
+
+25. Andrew Wagner
+   Email: wagnera@lycoming.edu
+   Username: wagnera
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Andrew Wagner Assistant Football Coach (Offensive Line) wagnera@lycoming.edu
+
+26. Jamie Spencer
+   Email: spencerja@lycoming.edu
+   Username: spencerja
+   Sports: Football
+   Title: Head Golf Coach
+   Original line: Jamie Spencer Head Golf Coach spencerja@lycoming.edu
+
+27. Tony Mackin
+   Email: mackin@lycoming.edu
+   Username: mackin
+   Sports: Football
+   Title: Head Men's Lacrosse Coach
+   Phone: (570) 321-4251
+   Original line: Tony Mackin Head Men's Lacrosse Coach mackin@lycoming.edu 570-321-4251
+
+28. Grant Huff
+   Email: huffg@lycoming.edu
+   Username: huffg
+   Sports: Football
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Grant Huff Assistant Men's Lacrosse Coach huffg@lycoming.edu
+
+29. Meaghan Smith
+   Email: smithmea@lycoming.edu
+   Username: smithmea
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Phone: (570) 321-4254
+   Original line: Meaghan Smith Head Women's Lacrosse Coach smithmea@lycoming.edu 570-321-4254
+
+30. John Schwien
+   Email: schwien@lycoming.edu
+   Username: schwien
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Phone: (570) 321-4107
+   Original line: John Schwien Head Men's Soccer Coach schwien@lycoming.edu 570-321-4107
+
+31. Vito Addalli
+   Email: addalli@lycoming.edu
+   Username: addalli
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Vito Addalli Assistant Men's Soccer Coach addalli@lycoming.edu
+
+32. Sam Hillman
+   Email: hillman@lycoming.edu
+   Username: hillman
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Sam Hillman Assistant Men's Soccer Coach hillman@lycoming.edu
+
+33. Kolachi Pombor
+   Email: pombor@lycoming.edu
+   Username: pombor
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Kolachi Pombor Assistant Men's Soccer Coach pombor@lycoming.edu
+
+34. Kenny Fern
+   Email: fern@lycoming.edu
+   Username: fern
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Phone: (570) 321-4382
+   Original line: Kenny Fern Head Women's Soccer Coach fern@lycoming.edu 570-321-4382
+
+35. Braeden Eckard
+   Email: eckard@lycoming.edu
+   Username: eckard
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Braeden Eckard Assistant Women's Soccer Coach eckard@lycoming.edu
+
+36. Megan Grimme
+   Email: grimme@lycoming.edu
+   Username: grimme
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Megan Grimme Assistant Women's Soccer Coach grimme@lycoming.edu
+
+37. Markus Rybak
+   Email: rybak@lycoming.edu
+   Username: rybak
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Markus Rybak Assistant Women's Soccer Coach rybak@lycoming.edu
+
+38. Melissa Montoro
+   Email: montorom@lycoming.edu
+   Username: montorom
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (570) 321-4252
+   Original line: Melissa Montoro Head Softball Coach montorom@lycoming.edu 570-321-4252
+
+39. Courtney Baer
+   Email: baerc@lycoming.edu
+   Username: baerc
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Courtney Baer Assistant Softball Coach baerc@lycoming.edu
+
+40. Krystin Montoro
+   Email: montoro@lycoming.edu
+   Username: montoro
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Krystin Montoro Assistant Softball Coach montoro@lycoming.edu
+
+41. McKenzie Seyler
+   Email: seylerm@lycoming.edu
+   Username: seylerm
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: McKenzie Seyler Assistant Softball Coach seylerm@lycoming.edu
+
+42. Kelly Essler
+   Email: essler@lycoming.edu
+   Username: essler
+   Sports: Swimming
+   Title: Head Swimming Coach
+   Phone: (570) 321-4304
+   Original line: Kelly Essler Head Swimming Coach essler@lycoming.edu 570-321-4304
+
+43. Charlie Robinson-McGuriman
+   Email: robinson@lycoming.edu
+   Username: robinson
+   Sports: Swimming
+   Title: Assistant Swimming Coach
+   Original line: Charlie Robinson-McGuriman Assistant Swimming Coach robinson@lycoming.edu
+
+44. Cara Zortman
+   Email: zortman@lycoming.edu
+   Username: zortman
+   Sports: Swimming
+   Title: Assistant Swimming Coach
+   Original line: Cara Zortman Assistant Swimming Coach zortman@lycoming.edu
+
+45. Joel Reid
+   Email: reid@lycoming.edu
+   Username: reid
+   Sports: Swimming
+   Title: Head Tennis Coach
+   Phone: (570) 321-4110
+   Original line: Joel Reid Head Tennis Coach reid@lycoming.edu 570-321-4110
+
+46. Rebecca Brown
+   Email: brownreb@lycoming.edu
+   Username: brownreb
+   Sports: Swimming
+   Title: Volunteer Assistant Tennis Coach
+   Phone: (570) 321-4358
+   Original line: Rebecca Brown Volunteer Assistant Tennis Coach brownreb@lycoming.edu 570-321-4358
+
+47. Cody Greenaway
+   Email: greenawayc@lycoming.edu
+   Username: greenawayc
+   Sports: Swimming
+   Title: Volunteer Assistant Tennis Coach
+   Original line: Cody Greenaway Volunteer Assistant Tennis Coach greenawayc@lycoming.edu
+
+48. Joel Reid
+   Email: reid@lycoming.edu
+   Username: reid
+   Sports: Swimming
+   Title: Head Tennis Coach
+   Phone: (570) 321-4110
+   Original line: Joel Reid Head Tennis Coach reid@lycoming.edu 570-321-4110
+
+49. Rebecca Brown
+   Email: brownreb@lycoming.edu
+   Username: brownreb
+   Sports: Swimming
+   Title: Volunteer Assistant Tennis Coach
+   Phone: (570) 321-4358
+   Original line: Rebecca Brown Volunteer Assistant Tennis Coach brownreb@lycoming.edu 570-321-4358
+
+50. Cody Greenaway
+   Email: greenawayc@lycoming.edu
+   Username: greenawayc
+   Sports: Swimming
+   Title: Volunteer Assistant Tennis Coach
+   Original line: Cody Greenaway Volunteer Assistant Tennis Coach greenawayc@lycoming.edu
+
+51. Jordan Amling
+   Email: amling@lycoming.edu
+   Username: amling
+   Sports: Swimming
+   Title: Head Men's Volleyball Coach
+   Original line: Jordan Amling Head Men's Volleyball Coach amling@lycoming.edu
+
+52. Tim McMahon
+   Email: mcmahon@lycoming.edu
+   Username: mcmahon
+   Sports: Swimming
+   Title: Head Volleyball Coach
+   Phone: (570) 321-4110
+   Original line: Tim McMahon Head Volleyball Coach mcmahon@lycoming.edu 570-321-4110
+
+53. Roger Crebs
+   Email: crebs@lycoming.edu
+   Username: crebs
+   Sports: Swimming
+   Title: Head Wrestling Coach
+   Phone: (570) 321-4264
+   Original line: Roger Crebs Head Wrestling Coach crebs@lycoming.edu 570-321-4264
+
+54. Brian Shermeyer
+   Email: shermeyer@lycoming.edu
+   Username: shermeyer
+   Sports: Swimming
+   Title: Assistant Wrestling Coach
+   Phone: (570) 321-4263
+   Original line: Brian Shermeyer Assistant Wrestling Coach shermeyer@lycoming.edu 570-321-4263
+
+55. Troy Hembury
+   Email: hembury@lycoming.edu
+   Username: hembury
+   Sports: Swimming
+   Title: Assistant Wrestling Coach
+   Original line: Troy Hembury Assistant Wrestling Coach hembury@lycoming.edu
+
+56. Hadyn Swartwood
+   Email: swartwood@lycoming.edu
+   Username: swartwood
+   Sports: Swimming
+   Title: Assistant Wrestling Coach
+   Original line: Hadyn Swartwood Assistant Wrestling Coach swartwood@lycoming.edu
+
+57. Justin Bell
+   Email: bellj@lycoming.edu
+   Username: bellj
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach bellj@lycoming.edu
+
+58. Joel Carr
+   Email: carrj@lycoming.edu
+   Username: carrj
+   Sports: Baseball
+   Title: Kyle Caringi Volunteer Assistant Baseball Coach
+   Original line: Kyle Caringi Volunteer Assistant Baseball Coach carrj@lycoming.edu
+
+59. Jim Volunteer
+   Email: 
+   Username: jim.volunteer
+   Sports: Baseball
+   Title: Jim Dinsmore Volunteer Assistant Baseball Coach
+   Original line: Jim Dinsmore Volunteer Assistant Baseball Coach
+
+60. Tariq Volunteer
+   Email: 
+   Username: tariq.volunteer
+   Sports: Baseball
+   Title: Tariq Moore Volunteer Assistant Baseball Coach
+   Original line: Tariq Moore Volunteer Assistant Baseball Coach
+
+61. Jack Volunteer
+   Email: 
+   Username: jack.volunteer
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Jack McAndrew Volunteer Assistant Men's Basketball Coach
+
+62. Dave Volunteer
+   Email: 
+   Username: dave.volunteer
+   Sports: Soccer
+   Title: Dave Becker Volunteer Assistant Football Coach
+   Original line: Dave Becker Volunteer Assistant Football Coach (Asst. Defensive Line)
+
+63. Tyler Volunteer
+   Email: 
+   Username: tyler.volunteer
+   Sports: Soccer
+   Title: Tyler Jeffreys Volunteer Assistant Football Coach
+   Original line: Tyler Jeffreys Volunteer Assistant Football Coach (Assistant Receivers)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mike Clark Director of Athletics/Head Football Coach clarkm@lycoming.edu 570-321-4110
+• Dylan Geraty Head Strength & Conditioning Coach & Interim Head Cross Country geraty@lycoming.edu 570-321-4273
+• Rick Oliveri Head Baseball Coach oliveri@lycoming.edu
+• Zac Cronk Assistant Baseball Coach cronk@lycoming.edu
+• Bode Gebbink Assistant Baseball Coach gebbink@lycoming.edu
+• Mark Linebaugh Head Men's Basketball Coach linebaugh@lycoming.edu 570-321-4262
+• Trey Blanding Assistant Men's Basketball Coach blanding@lycoming.edu
+• Bernie Rogers Assistant Men's Basketball Coach rogersb@lycoming.edu
+• Shane Rottier Head Women's Basketball Coach rottier@lycoming.edu 570-321-4261
+• Justin Marnon Assistant Women's Basketball Coach marnon@lycoming.edu
+• Dylan Geraty Head Strength & Conditioning Coach & Interim Head Cross Country geraty@lycoming.edu 570-321-4273
+• Tamara Pavlov Assistant Cross Country Coach pavlov@lycoming.edu
+• Allyson Kenyon Head Field Hockey Coach kenyon@lycoming.edu 570-321-4077
+• Adam Matter Assistant Field Hockey Coach matter@lycoming.edu
+• Mike Clark Director of Athletics/Head Football Coach clarkm@lycoming.edu 570-321-4110
+• Steve Wiser Associate Head Football Coach (Co-Defensive Coordinator) wiser@lycoming.edu 570-321-4253
+• Mark DeLucia Assistant Football Coach (Co-Defensive/Recruiting Coordinator) delucia@lycoming.edu 570-321-4142
+• Greg Merchlinsky Assistant Football Coach (Offensive Coordinator) merchlinsky@lycoming.edu 570-321-4019
+• Brent Newton Assistant Football Coach (Tight Ends/Special Teams) newton@lycoming.edu 570-321-4019
+• Kevin Brown Assistant Football Coach (Running Backs) brownke@lycoming.edu
+• Adam Gehr Assistant Football Coach (Outside Linebackers) gehr@lycoming.edu
+• Taylor Heflin Assistant Football Coach (Defensive Backs) heflin@lycoming.edu 570-321-4019
+• Chris Kish Assistant Football Coach (Linebackers) kishc@lycoming.edu
+• Jacob Shermeyer Assistant Football Coach (Wide Receivers) shermeyerj@lycoming.edu 570-321-4019
+• Andrew Wagner Assistant Football Coach (Offensive Line) wagnera@lycoming.edu
+• Jamie Spencer Head Golf Coach spencerja@lycoming.edu
+• Tony Mackin Head Men's Lacrosse Coach mackin@lycoming.edu 570-321-4251
+• Grant Huff Assistant Men's Lacrosse Coach huffg@lycoming.edu
+• Meaghan Smith Head Women's Lacrosse Coach smithmea@lycoming.edu 570-321-4254
+• John Schwien Head Men's Soccer Coach schwien@lycoming.edu 570-321-4107
+• Vito Addalli Assistant Men's Soccer Coach addalli@lycoming.edu
+• Sam Hillman Assistant Men's Soccer Coach hillman@lycoming.edu
+• Kolachi Pombor Assistant Men's Soccer Coach pombor@lycoming.edu
+• Kenny Fern Head Women's Soccer Coach fern@lycoming.edu 570-321-4382
+• Braeden Eckard Assistant Women's Soccer Coach eckard@lycoming.edu
+• Megan Grimme Assistant Women's Soccer Coach grimme@lycoming.edu
+• Markus Rybak Assistant Women's Soccer Coach rybak@lycoming.edu
+• Melissa Montoro Head Softball Coach montorom@lycoming.edu 570-321-4252
+• Courtney Baer Assistant Softball Coach baerc@lycoming.edu
+• Krystin Montoro Assistant Softball Coach montoro@lycoming.edu
+• McKenzie Seyler Assistant Softball Coach seylerm@lycoming.edu
+• Kelly Essler Head Swimming Coach essler@lycoming.edu 570-321-4304
+• Charlie Robinson-McGuriman Assistant Swimming Coach robinson@lycoming.edu
+• Cara Zortman Assistant Swimming Coach zortman@lycoming.edu
+• Joel Reid Head Tennis Coach reid@lycoming.edu 570-321-4110
+• Rebecca Brown Volunteer Assistant Tennis Coach brownreb@lycoming.edu 570-321-4358
+• Cody Greenaway Volunteer Assistant Tennis Coach greenawayc@lycoming.edu
+• Joel Reid Head Tennis Coach reid@lycoming.edu 570-321-4110
+• Rebecca Brown Volunteer Assistant Tennis Coach brownreb@lycoming.edu 570-321-4358
+• Cody Greenaway Volunteer Assistant Tennis Coach greenawayc@lycoming.edu
+• Jordan Amling Head Men's Volleyball Coach amling@lycoming.edu
+• Tim McMahon Head Volleyball Coach mcmahon@lycoming.edu 570-321-4110
+• Roger Crebs Head Wrestling Coach crebs@lycoming.edu 570-321-4264
+• Brian Shermeyer Assistant Wrestling Coach shermeyer@lycoming.edu 570-321-4263
+• Troy Hembury Assistant Wrestling Coach hembury@lycoming.edu
+• Hadyn Swartwood Assistant Wrestling Coach swartwood@lycoming.edu

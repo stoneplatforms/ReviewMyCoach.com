@@ -1,0 +1,310 @@
+COACH ENTRIES FOUND - 2025-09-02 14:42:35
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Seton Hill University
+Organization: Seton Hill University Athletics
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Marc Marizzaldi
+   Email: marizzaldi@setonhill.edu
+   Username: marizzaldi
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Marc Marizzaldi Head Coach marizzaldi@setonhill.edu 724-830-
+
+2. Mike Zito
+   Email: mzito@setonhill.edu
+   Username: mzito
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mike Zito Assistant Coach mzito@setonhill.edu 724-552-
+
+3. Caiden Wood
+   Email: c.wood@setonhill.edu
+   Username: c.wood
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Caiden Wood Assistant Coach c.wood@setonhill.edu
+
+4. Ben Wilkins
+   Email: bwilkins@setonhill.edu
+   Username: bwilkins
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ben Wilkins Head Coach bwilkins@setonhill.edu (724) 830-
+
+5. Jamaal Stokes
+   Email: jstokes@setonhill.edu
+   Username: jstokes
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jamaal Stokes Assistant Coach jstokes@setonhill.edu
+
+6. Drew Green
+   Email: d.green@setonhill.edu
+   Username: d.green
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Drew Green Assistant Coach d.green@setonhill.edu
+
+7. Maeve Gallagher
+   Email: mgallagher@setonhill.edu
+   Username: mgallagher
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Maeve Gallagher Head Coach mgallagher@setonhill.edu 724-830-
+
+8. Tori Rizzo
+   Email: vrizzo@setonhill.edu
+   Username: vrizzo
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tori Rizzo Assistant Coach vrizzo@setonhill.edu
+
+9. Bella Skatell
+   Email: g.skatell@setonhill.edu
+   Username: g.skatell
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Bella Skatell Assistant Coach g.skatell@setonhill.edu
+
+10. Jamal Johnson
+   Email: jjohnson@setonhill.edu
+   Username: jjohnson
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Jamal Johnson Head Coach jjohnson@setonhill.edu 724-552-
+
+11. Rebecca Bloom
+   Email: rbloom@setonhill.edu
+   Username: rbloom
+   Sports: Cross Country
+   Title: Coach
+   Original line: Rebecca Bloom Coach rbloom@setonhill.edu 724-249-
+
+12. Lexi Kupic
+   Email: a.kupic@setonhill.edu
+   Username: a.kupic
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Lexi Kupic Assistant Coach a.kupic@setonhill.edu
+
+13. Ryan Dzurko
+   Email: r.dzurko@setonhill.edu
+   Username: r.dzurko
+   Sports: Cross Country
+   Title: Interim Coach
+   Original line: Ryan Dzurko Interim Coach r.dzurko@setonhill.edu
+
+14. Kevin May
+   Email: kmay@setonhill.edu
+   Username: kmay
+   Sports: Football
+   Title: Head Coach
+   Original line: Kevin May Head Coach kmay@setonhill.edu 724-830-
+
+15. Blaise Holzer
+   Email: bholzer@setonhill.edu
+   Username: bholzer
+   Sports: Football
+   Title: Associate Head Coach/Offensive Coordinator/QBs
+   Original line: Blaise Holzer Associate Head Coach/Offensive Coordinator/QBs bholzer@setonhill.edu 724-830-
+
+16. Sonny Bruni
+   Email: sbruni@setonhill.edu
+   Username: sbruni
+   Sports: Football
+   Title: Head Coach
+   Original line: Sonny Bruni Head Coach sbruni@setonhill.edu 412-999-
+
+17. Brian Novotny
+   Email: novotny@setonhill.edu
+   Username: novotny
+   Sports: Football
+   Title: Head Coach
+   Original line: Brian Novotny Head Coach novotny@setonhill.edu 724-830-
+
+18. Chris Ilse
+   Email: Cilse@setonhill.edu
+   Username: Cilse
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Chris Ilse Associate Head Coach Cilse@setonhill.edu 724-552-
+
+19. Logan Volunteer
+   Email: Mlaxcoaches@setonhill.edu
+   Username: Mlaxcoaches
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Logan Maloni Volunteer Assistant Mlaxcoaches@setonhill.edu
+
+20. Josh Volunteer
+   Email: Mlaxcoaches@setonhill.edu
+   Username: Mlaxcoaches
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Josh Miller Volunteer Assistant Mlaxcoaches@setonhill.edu
+
+21. Dina Cifelli
+   Email: dcifelli@setonhill.edu
+   Username: dcifelli
+   Sports: Football
+   Title: Head Coach
+   Original line: Dina Cifelli Head Coach dcifelli@setonhill.edu 724-552-
+
+22. Grace Cobaugh
+   Email: gcobaugh@setonhill.edu
+   Username: gcobaugh
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Grace Cobaugh Assistant Coach gcobaugh@setonhill.edu 724-552-
+
+23. Dilveer Chaggar
+   Email: dchaggar@setonhill.edu
+   Username: dchaggar
+   Sports: Football
+   Title: Head Coach
+   Original line: Dilveer Chaggar Head Coach dchaggar@setonhill.edu 724-830-
+
+24. Luca Campos
+   Email: lcampos@setonhill.edu
+   Username: lcampos
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Luca Campos Assistant Coach lcampos@setonhill.edu
+
+25. Riley Butler
+   Email: rbutler@setonhill.edu
+   Username: rbutler
+   Sports: Football
+   Title: Head Coach
+   Original line: Riley Butler Head Coach rbutler@setonhill.edu 904-563-
+
+26. Kodie Johnson
+   Email: kkjohnson@setonhill.edu
+   Username: kkjohnson
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kodie Johnson Assistant Coach kkjohnson@setonhill.edu
+
+27. Mandy Sansbury
+   Email: asansbury@setonhill.edu
+   Username: asansbury
+   Sports: Softball
+   Title: Head Coach
+   Original line: Mandy Sansbury Head Coach asansbury@setonhill.edu 724-830-
+
+28. Megan Satira
+   Email: msatira@setonhill.edu
+   Username: msatira
+   Sports: Softball
+   Title: Head Coach
+   Original line: Megan Satira Head Coach msatira@setonhill.edu
+
+29. Jamal Johnson
+   Email: jjohnson@setonhill.edu
+   Username: jjohnson
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Jamal Johnson Head Coach jjohnson@setonhill.edu 724-552-
+
+30. Raven Haston
+   Email: rhaston@setonhill.edu
+   Username: rhaston
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Raven Haston Assistant Coach rhaston@setonhill.edu
+
+31. Alex Martin
+   Email: amartin@setonhill.edu
+   Username: amartin
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Alex Martin Assistant Coach amartin@setonhill.edu
+
+32. Rick Hall
+   Email: hall@setonhill.edu
+   Username: hall
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Rick Hall Head Coach hall@setonhill.edu 724-830-
+
+33. Bob Hall
+   Email: bhall@setonhill.edu
+   Username: bhall
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Bob Hall Assistant Coach bhall@setonhill.edu 724-830-
+
+34. Vince DeAugustine
+   Email: vdeaugustine@setonhill.edu
+   Username: vdeaugustine
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Vince DeAugustine Head Coach vdeaugustine@setonhill.edu
+
+35. Austin Shaw
+   Email: ashaw@setonhill.edu
+   Username: ashaw
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Austin Shaw Assistant Coach ashaw@setonhill.edu
+
+36. Jonathan Teams
+   Email: jburrell@setonhill.edu
+   Username: jburrell
+   Sports: Soccer
+   Title: John Bainbridge Offensive Volunteer Coach
+   Original line: John Bainbridge Offensive Volunteer Coach jburrell@setonhill.edu
+
+37. TBA 
+   Email: 
+   Username: tba
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: TBA . Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Marc Marizzaldi Head Coach marizzaldi@setonhill.edu 724-830-
+• Mike Zito Assistant Coach mzito@setonhill.edu 724-552-
+• Caiden Wood Assistant Coach c.wood@setonhill.edu
+• Ben Wilkins Head Coach bwilkins@setonhill.edu (724) 830-
+• Jamaal Stokes Assistant Coach jstokes@setonhill.edu
+• Drew Green Assistant Coach d.green@setonhill.edu
+• Maeve Gallagher Head Coach mgallagher@setonhill.edu 724-830-
+• Tori Rizzo Assistant Coach vrizzo@setonhill.edu
+• Bella Skatell Assistant Coach g.skatell@setonhill.edu
+• Jamal Johnson Head Coach jjohnson@setonhill.edu 724-552-
+• Rebecca Bloom Coach rbloom@setonhill.edu 724-249-
+• Lexi Kupic Assistant Coach a.kupic@setonhill.edu
+• Ryan Dzurko Interim Coach r.dzurko@setonhill.edu
+• Kevin May Head Coach kmay@setonhill.edu 724-830-
+• Blaise Holzer Associate Head Coach/Offensive Coordinator/QBs bholzer@setonhill.edu 724-830-
+• Sonny Bruni Head Coach sbruni@setonhill.edu 412-999-
+• Brian Novotny Head Coach novotny@setonhill.edu 724-830-
+• Chris Ilse Associate Head Coach Cilse@setonhill.edu 724-552-
+• Logan Maloni Volunteer Assistant Mlaxcoaches@setonhill.edu
+• Josh Miller Volunteer Assistant Mlaxcoaches@setonhill.edu
+• Dina Cifelli Head Coach dcifelli@setonhill.edu 724-552-
+• Grace Cobaugh Assistant Coach gcobaugh@setonhill.edu 724-552-
+• Dilveer Chaggar Head Coach dchaggar@setonhill.edu 724-830-
+• Luca Campos Assistant Coach lcampos@setonhill.edu
+• Riley Butler Head Coach rbutler@setonhill.edu 904-563-
+• Kodie Johnson Assistant Coach kkjohnson@setonhill.edu
+• Mandy Sansbury Head Coach asansbury@setonhill.edu 724-830-
+• Megan Satira Head Coach msatira@setonhill.edu
+• Jamal Johnson Head Coach jjohnson@setonhill.edu 724-552-
+• Raven Haston Assistant Coach rhaston@setonhill.edu
+• Alex Martin Assistant Coach amartin@setonhill.edu
+• Rick Hall Head Coach hall@setonhill.edu 724-830-
+• Bob Hall Assistant Coach bhall@setonhill.edu 724-830-
+• Vince DeAugustine Head Coach vdeaugustine@setonhill.edu
+• Austin Shaw Assistant Coach ashaw@setonhill.edu

@@ -1,0 +1,485 @@
+COACH ENTRIES FOUND - 2025-09-02 14:37:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Pitt Panthers #H2P
+Organization: Pitt Panthers #H2P Athletics
+
+Total coaches found: 67
+
+PARSED ENTRIES:
+----------------------------------------
+1. Camron Blair
+   Email: 
+   Username: camron.blair
+   Sports: Strength & Conditioning
+   Title: Camron Blair Head Strength & Conditioning Coach
+   Original line: Camron Blair Head Strength & Conditioning Coach
+
+2. Michael Stacchiotti
+   Email: 
+   Username: michael.stacchiotti
+   Sports: Strength & Conditioning
+   Title: Michael Stacchiotti Head Strength & Conditioning Coach
+   Original line: Michael Stacchiotti Head Strength & Conditioning Coach 412-648-8700
+
+3. Vincent Williams
+   Email: 
+   Username: vincent.williams
+   Sports: Strength & Conditioning
+   Title: Vincent Williams Head Strength & Conditioning Coach
+   Original line: Vincent Williams Head Strength & Conditioning Coach 240-355-1211
+
+4. Devin Young
+   Email: 
+   Username: devin.young
+   Sports: Strength & Conditioning
+   Title: Devin Young Senior Assistant Strength & Conditioning Coach
+   Original line: Devin Young Senior Assistant Strength & Conditioning Coach 215-906-6746
+
+5. Khalid Blount
+   Email: 
+   Username: khalid.blount
+   Sports: Strength & Conditioning
+   Title: Khalid Blount Assistant Strength & Conditioning Coach
+   Original line: Khalid Blount Assistant Strength & Conditioning Coach
+
+6. Sam Medlock
+   Email: 
+   Username: sam.medlock
+   Sports: Strength & Conditioning
+   Title: Sam Medlock Assistant Strength & Conditioning Coach
+   Original line: Sam Medlock Assistant Strength & Conditioning Coach 412-648-8700
+
+7. Michael Ray
+   Email: 
+   Username: michael.ray
+   Sports: Strength & Conditioning
+   Title: Michael Ray Assistant Strength & Conditioning Coach
+   Original line: Michael Ray Assistant Strength & Conditioning Coach 412-648-8700
+
+8. Parker Showers
+   Email: 
+   Username: parker.showers
+   Sports: Strength & Conditioning
+   Title: Parker Showers Assistant Strength & Conditioning Coach
+   Original line: Parker Showers Assistant Strength & Conditioning Coach 412-648-8700
+
+9. Michael Stegemoeller
+   Email: 
+   Username: michael.stegemoeller
+   Sports: Strength & Conditioning
+   Title: Michael Stegemoeller Assistant Strength & Conditioning Coach
+   Original line: Michael Stegemoeller Assistant Strength & Conditioning Coach
+
+10. Mike Bell
+   Email: 
+   Username: mike.bell
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mike Bell Head Coach 412-648-8334
+
+11. Devin Mesoraco
+   Email: 
+   Username: devin.mesoraco
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Devin Mesoraco Assistant Coach 412-648-8334
+
+12. Luke Bonfield
+   Email: 
+   Username: luke.bonfield
+   Sports: Track & Field
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Luke Bonfield Assistant Coach/Recruiting Coordinator
+
+13. Clay Martin
+   Email: 
+   Username: clay.martin
+   Sports: Soccer
+   Title: Assistant Coach/Director of Pitching Development
+   Original line: Clay Martin Assistant Coach/Director of Pitching Development
+
+14. Jeff Capel
+   Email: 
+   Username: jeff.capel
+   Sports: Basketball
+   Title: Head Coach
+   Original line: Jeff Capel Head Coach, Men's Basketball 412-648-8350
+
+15. Tim O'Toole
+   Email: 
+   Username: tim.o.toole
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Tim O'Toole Associate Head Coach 412-648-8350
+
+16. Milan Brown
+   Email: 
+   Username: milan.brown
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Milan Brown Associate Head Coach 412-648-8350
+
+17. Jason Capel
+   Email: 
+   Username: jason.capel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jason Capel Assistant Coach 412-648-8350
+
+18. Kyle Cieplicki
+   Email: 
+   Username: kyle.cieplicki
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Cieplicki Assistant Coach 412-648-8350
+
+19. Gilbert Brown
+   Email: 
+   Username: gilbert.brown
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gilbert Brown Director, Player and Alumni Development / Assistant Coach 412-648-8350
+
+20. Tory Verdi
+   Email: 
+   Username: tory.verdi
+   Sports: Basketball
+   Title: Head Coach
+   Original line: Tory Verdi Head Coach, Women's Basketball 412-648-8360
+
+21. Candice Finley
+   Email: 
+   Username: candice.finley
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting Coordinator
+   Original line: Candice Finley Assistant Coach / Recruiting Coordinator 412-648-8360
+
+22. Anthony Brammer
+   Email: 
+   Username: anthony.brammer
+   Sports: Soccer
+   Title: Assistant Coach / GM
+   Original line: Anthony Brammer Assistant Coach / GM 412-648-8360
+
+23. Devan Newman
+   Email: 
+   Username: devan.newman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Devan Newman Assistant Coach
+
+24. Abby Anderson
+   Email: 
+   Username: abby.anderson
+   Sports: Soccer
+   Title: Assistant Coach / Director of Player Development
+   Original line: Abby Anderson Assistant Coach / Director of Player Development 412-648-8360
+
+25. Theresa Nuzzo
+   Email: 
+   Username: theresa.nuzzo
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Theresa Nuzzo Head Coach, Cheerleaders & Dance Team 412-389-7996
+
+26. Pat Bickell
+   Email: 
+   Username: pat.bickell
+   Sports: Soccer
+   Title: Head Football Coach
+   Original line: Pat Narduzzi Chris Bickell '97 Head Football Coach 412-648-8700
+
+27. Cory Sanders
+   Email: 
+   Username: cory.sanders
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Cory Sanders Assistant Head Coach, Secondary / Safeties 412-648-8700
+
+28. Casey MacPherson
+   Email: 
+   Username: casey.macpherson
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Casey Jo MacPherson Head Coach, Women's Gymnastics 412-383-9078
+
+29. Amanda Wellick
+   Email: 
+   Username: amanda.wellick
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Amanda Wellick Assistant Coach 412-383-9078
+
+30. Lexi Funk
+   Email: 
+   Username: lexi.funk
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lexi Funk Assistant Coach 412-383-9078
+
+31. Connor McCool
+   Email: 
+   Username: connor.mccool
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Connor McCool Assistant Coach
+
+32. Emily Boissonneault
+   Email: 
+   Username: emily.boissonneault
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Emily Boissonneault Head Coach, Women’s Lacrosse 412-648-8334
+
+33. Jaclen Moxley
+   Email: 
+   Username: jaclen.moxley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jaclen Moxley Assistant Coach 412-648-8334
+
+34. Kelly Layton
+   Email: 
+   Username: kelly.layton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kelly Layton Assistant Coach
+
+35. Jen Porretto
+   Email: 
+   Username: jen.porretto
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jen Porretto Assistant Coach
+
+36. Jay Vidovich
+   Email: 
+   Username: jay.vidovich
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jay Vidovich Head Coach, Men's Soccer 412-648-8334
+
+37. Bryce Cregan
+   Email: 
+   Username: bryce.cregan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bryce Cregan Assistant Coach 412-648-8334
+
+38. Josh Oldroyd
+   Email: 
+   Username: josh.oldroyd
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Oldroyd Assistant Coach 412-648-8334
+
+39. Zack Schilawski
+   Email: 
+   Username: zack.schilawski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zack Schilawski Assistant Coach 412-648-8334
+
+40. Ben Waldrum
+   Email: 
+   Username: ben.waldrum
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ben Waldrum Head Coach 412-648-8334
+
+41. Jesse Goleman
+   Email: 
+   Username: jesse.goleman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jesse Goleman Assistant Coach 412-648-8334
+
+42. Brianna Alleyne
+   Email: 
+   Username: brianna.alleyne
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brianna Alleyne Assistant Coach
+
+43. Jenny Allard
+   Email: 
+   Username: jenny.allard
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jenny Allard Head Coach, Softball 412-648-8334
+
+44. Lacy Schurr
+   Email: 
+   Username: lacy.schurr
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Lacy Schurr Associate Head Coach 412-315-8363
+
+45. Jordan Dail
+   Email: 
+   Username: jordan.dail
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jordan Dail Assistant Coach 412-818-5279
+
+46. Giorgiana Zeremenko
+   Email: 
+   Username: giorgiana.zeremenko
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Giorgiana Zeremenko Assistant Coach 412-648-8334
+
+47. Trees Offices
+   Email: 
+   Username: trees.offices
+   Sports: Swimming, Track & Field
+   Title: coach
+   Original line: Swimming & Diving | Trees Hall (Pool) | Fitzgerald Field House (Coaches Offices)
+
+48. Chase Kreitler
+   Email: 
+   Username: chase.kreitler
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Chase Kreitler Head Coach, Swimming & Diving 412-515-7607
+
+49. Katie Kasprzak
+   Email: 
+   Username: katie.kasprzak
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Katie Kasprzak Head Coach, Diving 412-418-5779
+
+50. Gideon Louw
+   Email: 
+   Username: gideon.louw
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Gideon Louw Associate Head Coach
+
+51. Ford McLiney
+   Email: 
+   Username: ford.mcliney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ford McLiney Assistant Coach, Diving
+
+52. Zach Breeding
+   Email: 
+   Username: zach.breeding
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zach Breeding Assistant Coach 412-383-9078
+
+53. Kaersten Meitz
+   Email: 
+   Username: kaersten.meitz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaersten Meitz Assistant Coach 412-315-4740
+
+54. Michael Kinross
+   Email: 
+   Username: michael.kinross
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michael Kinross Assistant Coach
+
+55. Alonzo Webb
+   Email: 
+   Username: alonzo.webb
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Alonzo Webb III Associate Head Coach, Recruiting Coordinator / Jumps / Multis 412-953-5206
+
+56. Griff Graves
+   Email: 
+   Username: griff.graves
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Griff Graves Head Coach, Cross Country; Assistant Coach, Distance 828-292-7461
+
+57. Elisha Brewer
+   Email: 
+   Username: elisha.brewer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Elisha Brewer Assistant Coach, Hurdles 412-539-9379
+
+58. Jon Yohman
+   Email: 
+   Username: jon.yohman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jon Yohman Assistant Coach, Throws 412-403-0574
+
+59. Dentarius Locke
+   Email: 
+   Username: dentarius.locke
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dentarius Locke Assistant Coach, Sprints 412-802-5936
+
+60. Dan Fisher
+   Email: 
+   Username: dan.fisher
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Dan Fisher Head Coach, Volleyball 412-383-9078
+
+61. Kellen Petrone
+   Email: 
+   Username: kellen.petrone
+   Sports: Soccer
+   Title: Head Coach / Recruiting Coordinator
+   Original line: Kellen Petrone Associate Head Coach / Recruiting Coordinator 412-383-9078
+
+62. Kamalani Akeo
+   Email: 
+   Username: kamalani.akeo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kamalani Akeo Assistant Coach 412-290-2025
+
+63. Michael Fisher
+   Email: 
+   Username: michael.fisher
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michael Fisher Assistant Coach 412-354-1186
+
+64. Keith Gavin
+   Email: 
+   Username: keith.gavin
+   Sports: Wrestling
+   Title: Head Coach
+   Original line: Keith Gavin Head Coach, Wrestling 412-383-9078
+
+65. Drew 
+   Email: 
+   Username: drew
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Drew Headlee Assistant Coach 412-383-9078
+
+66. Luke Pletcher
+   Email: 
+   Username: luke.pletcher
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Luke Pletcher Assistant Coach 412-383-9078
+
+67. Lou Rosselli
+   Email: 
+   Username: lou.rosselli
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lou Rosselli Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

@@ -1,0 +1,513 @@
+COACH ENTRIES FOUND - 2025-09-02 14:44:57
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Temple University General Information 215-204-7000
+Organization: Temple Athletics
+
+Total coaches found: 71
+
+PARSED ENTRIES:
+----------------------------------------
+1. Rashan Chanyothi
+   Email: 
+   Username: rashan.chanyothi
+   Sports: Strength & Conditioning
+   Title: Rashan Chanyothi Assistant Strength & Conditioning Coach
+   Original line: Rashan Chanyothi Assistant Strength & Conditioning Coach (Crew, FH, MTen, Gym)
+
+2. Kristen Cole
+   Email: 
+   Username: kristen.cole
+   Sports: Strength & Conditioning
+   Title: Kristen Cole Assistant Strength & Conditioning Coach
+   Original line: Kristen Cole Assistant Strength & Conditioning Coach (WVB, M/WXC)
+
+3. Allison Lowrance
+   Email: 
+   Username: allison.lowrance
+   Sports: Golf, Strength & Conditioning
+   Title: Allison Lowrance Assistant Strength & Conditioning Coach
+   Original line: Allison Lowrance Assistant Strength & Conditioning Coach (Row, Fen, Golf, WTen, Spirit Squads)
+
+4. Adam Fisher
+   Email: 
+   Username: adam.fisher
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Adam Fisher Head Men's Basketball Coach
+
+5. Michael Huger
+   Email: 
+   Username: michael.huger
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Michael Huger Associate Head Coach
+
+6. Bobby Jordan
+   Email: 
+   Username: bobby.jordan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bobby Jordan Assistant Coach
+
+7. Bill Courtney
+   Email: 
+   Username: bill.courtney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bill Courtney Assistant Coach
+
+8. Seth Special
+   Email: 
+   Username: seth.special
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Seth Needle Special Assistant to the Head Coach
+
+9. Diane Richardson
+   Email: 
+   Username: diane.richardson
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Diane Richardson Head Coach
+
+10. Wanisha Smith
+   Email: 
+   Username: wanisha.smith
+   Sports: Soccer
+   Title: Head Coach/Recruiting Coordinator
+   Original line: Wanisha Smith Associate Head Coach/Recruiting Coordinator
+
+11. Cheyenne Curley
+   Email: 
+   Username: cheyenne.curley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cheyenne Curley Assistant Coach +1 (267) 315-
+
+12. Myles Jackson
+   Email: 
+   Username: myles.jackson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Myles Jackson Assistant Coach +1 (267) 443-
+
+13. Shenita Landry
+   Email: 
+   Username: shenita.landry
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shenita Landry Assistant Coach
+
+14. Aaron Thomas
+   Email: 
+   Username: aaron.thomas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aaron Thomas Assistant Coach +1 (240) 678-
+
+15. Jennifer Squad
+   Email: 
+   Username: jennifer.squad
+   Sports: Soccer
+   Title: Jennifer Keller Spirit Squad Director/Head Diamond Gems Dance Team Coach
+   Original line: Jennifer Keller Spirit Squad Director/Head Diamond Gems Dance Team Coach
+
+16. Jenna Komosinski
+   Email: 
+   Username: jenna.komosinski
+   Sports: Soccer
+   Title: Jenna Komosinski Head Cheerleading Coach
+   Original line: Jenna Komosinski Head Cheerleading Coach
+
+17. Brendan Crew
+   Email: 
+   Username: brendan.crew
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Brendan Cunningham Men's Crew Head Coach
+
+18. Dan Goettner
+   Email: 
+   Username: dan.goettner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dan Goettner Assistant Coach
+
+19. Scott Waters
+   Email: 
+   Username: scott.waters
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Scott Waters Assistant Coach
+
+20. Bernard Fox
+   Email: 
+   Username: bernard.fox
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bernard Fox Assistant Coach
+
+21. Dr White
+   Email: 
+   Username: dr.white
+   Sports: Soccer
+   Title: White Coach
+   Original line: Dr. Gavin R. White Coach Emeritus
+
+22. Elvis Forde
+   Email: 
+   Username: elvis.forde
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Elvis Forde Head Women's Track & Field Coach 215-204-8258
+
+23. Kevin Kelly
+   Email: 
+   Username: kevin.kelly
+   Sports: Track & Field
+   Title: Kevin Kelly Assistant Track and Field Coach
+   Original line: Kevin Kelly Assistant Track and Field Coach
+
+24. Riley Buchholz
+   Email: 
+   Username: riley.buchholz
+   Sports: Cross Country
+   Title: s Cross Country Coach
+   Original line: Riley Buchholz Assistant Men's Cross Country Coach
+
+25. Michael Griffin
+   Email: 
+   Username: michael.griffin
+   Sports: Cross Country
+   Title: Michael Griffin Assistant Cross Country Coach
+   Original line: Michael Griffin Assistant Cross Country Coach
+
+26. Jennie Salmon
+   Email: 
+   Username: jennie.salmon
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jennie Salmon Head Coach
+
+27. Tasia Ford
+   Email: 
+   Username: tasia.ford
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tasia Ford Assistant Coach (215) 204-1627
+
+28. Fiona Fong
+   Email: 
+   Username: fiona.fong
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Fiona Fong Assistant Coach
+
+29. Mickey Zeljkovic
+   Email: 
+   Username: mickey.zeljkovic
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mickey Zeljkovic Assistant Coach
+
+30. Michelle Vittese
+   Email: 
+   Username: michelle.vittese
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Michelle Vittese Head Coach
+
+31. Carissa Vittese
+   Email: 
+   Username: carissa.vittese
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Carissa Vittese Associate Head Coach
+
+32. Maite Graduate
+   Email: 
+   Username: maite.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Maite Sturm Graduate Assistant Coach
+
+33. Janelle Ward
+   Email: 
+   Username: janelle.ward
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Janelle Ward Assistant Coach
+
+34. Keeler 
+   Email: 
+   Username: keeler
+   Sports: Soccer
+   Title: Head Coach
+   Original line: K.C. Keeler Head Coach 215-204-4694
+
+35. Kevin Schadt
+   Email: 
+   Username: kevin.schadt
+   Sports: Strength & Conditioning
+   Title: Kevin Schadt Head Strength & Conditioning Coach
+   Original line: Kevin Schadt Head Strength & Conditioning Coach 215-204-4694
+
+36. Gildersleeve 
+   Email: 
+   Username: gildersleeve
+   Sports: Strength & Conditioning
+   Title: Gildersleeve Assistant Strength & Conditioning Coach
+   Original line: C.J. Gildersleeve Assistant Strength & Conditioning Coach 215-204-4694
+
+37. Dan O'Rourke
+   Email: 
+   Username: dan.o.rourke
+   Sports: Strength & Conditioning
+   Title: Rourke Assistant Strength & Conditioning Coach
+   Original line: Dan O'Rourke Assistant Strength & Conditioning Coach 215-204-4694
+
+38. Nadia Executive
+   Email: 
+   Username: nadia.executive
+   Sports: Soccer
+   Title: Nadia Harvin Executive Assistant to the Head Football Coach
+   Original line: Nadia Harvin Executive Assistant to the Head Football Coach 215-204-0858
+
+39. Brian Quinn
+   Email: 
+   Username: brian.quinn
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Brian Quinn Head Coach 610-941-9646
+
+40. Matt Teesdale
+   Email: 
+   Username: matt.teesdale
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Teesdale Assistant Coach
+
+41. Joey Graduate
+   Email: 
+   Username: joey.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joey Morganti Graduate Assistant Coach
+
+42. Hilary Steele
+   Email: 
+   Username: hilary.steele
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Hilary Steele Head Coach 215-204-1669
+
+43. Brittney Miller
+   Email: 
+   Username: brittney.miller
+   Sports: Soccer
+   Title: Brittney Miller Assistant Gymnastics Coach
+   Original line: Brittney Miller Assistant Gymnastics Coach
+
+44. Joel Shugart
+   Email: 
+   Username: joel.shugart
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting Coordinator
+   Original line: Joel Shugart Assistant Coach / Recruiting Coordinator
+
+45. Bonnie Rosen
+   Email: 
+   Username: bonnie.rosen
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Bonnie Rosen Head Coach 215-204-6668
+
+46. Liz Trojan
+   Email: 
+   Username: liz.trojan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Liz Trojan Assistant Coach
+
+47. Cat Rainone
+   Email: 
+   Username: cat.rainone
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cat Rainone Assistant Coach
+
+48. Amanda Graduate
+   Email: 
+   Username: amanda.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Amanda Attanasi Graduate Assistant Coach
+
+49. Steph Lazo
+   Email: 
+   Username: steph.lazo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Steph Lazo Assistant Coach
+
+50. Rebecca Grzybowski
+   Email: 
+   Username: rebecca.grzybowski
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Rebecca Grzybowski Head Coach 267-634-1733
+
+51. Kelsey Franks
+   Email: 
+   Username: kelsey.franks
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kelsey Franks Associate Head Coach 609-513-4811
+
+52. Bryanna Eichler
+   Email: 
+   Username: bryanna.eichler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bryanna Eichler Assistant Coach
+
+53. Dominique Andrews
+   Email: 
+   Username: dominique.andrews
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dominique Marlin Andrews Assistant Coach
+
+54. Chloe McHugh-Freedenberg
+   Email: 
+   Username: chloe.mchugh.freedenberg
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chloe McHugh-Freedenberg Assistant Coach
+
+55. Bryan Green
+   Email: 
+   Username: bryan.green
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Bryan Green Men's Soccer Head Coach
+
+56. Rich Kessler
+   Email: 
+   Username: rich.kessler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rich Kessler Assistant Coach
+
+57. John Velasco
+   Email: 
+   Username: john.velasco
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Velasco Assistant Coach
+
+58. John Zuidema
+   Email: 
+   Username: john.zuidema
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Zuidema Assistant Coach
+
+59. Chris Shaw
+   Email: 
+   Username: chris.shaw
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chris Shaw Head Coach 919-208-8515
+
+60. Kenie Wright
+   Email: 
+   Username: kenie.wright
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kenie Wright Assistant Coach
+
+61. Adrian Blewitt
+   Email: 
+   Username: adrian.blewitt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Adrian Blewitt Assistant Coach
+
+62. Ludvig Graduate
+   Email: 
+   Username: ludvig.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ludvig Wille Graduate Assistant Coach
+
+63. Culver 
+   Email: 
+   Username: culver
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: A.J. Culver Assistant Women's Tennis Coach (267) 625-1949
+
+64. Noah Graduate
+   Email: 
+   Username: noah.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Noah Gamza Graduate Assistant Coach
+
+65. Alexa Graduate
+   Email: 
+   Username: alexa.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alexa Gamborino Graduate Assistant Coach
+
+66. Pablo Graduate
+   Email: 
+   Username: pablo.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Pablo Alemany Graduate Assistant Coach
+
+67. Atakan Gezer
+   Email: 
+   Username: atakan.gezer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Atakan Gezer Assistant Coach
+
+68. Linda Hampton-Keith
+   Email: 
+   Username: linda.hampton.keith
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Linda Hampton-Keith Head Women's Volleyball Coach 215-204-6289
+
+69. Jose Lugo
+   Email: 
+   Username: jose.lugo
+   Sports: Volleyball
+   Title: Jose Lugo Assistant Volleyball Coach
+   Original line: Jose Lugo Assistant Volleyball Coach 215-204-6289
+
+70. Olivia Vance
+   Email: 
+   Username: olivia.vance
+   Sports: Volleyball
+   Title: Olivia Vance Assistant Volleyball Coach/ Recruiting Coordinator
+   Original line: Olivia Vance Assistant Volleyball Coach/ Recruiting Coordinator
+
+71. Taylor Graduate
+   Email: 
+   Username: taylor.graduate
+   Sports: Volleyball
+   Title: Assistant Coach / Women
+   Original line: Taylor Davenport Graduate Assistant Coach / Women's Volleyball
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

@@ -1,0 +1,304 @@
+COACH ENTRIES FOUND - 2025-09-02 14:37:41
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Bloomsburg
+Organization: Bloomsburg Athletics
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andrew Foran
+   Email: aforan@bloomu.edu
+   Username: aforan
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Andrew Foran Head Coach aforan@bloomu.edu 570-389-
+
+2. Mike Collins
+   Email: mcollin2@bloomu.edu
+   Username: mcollin2
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Mike Collins Head Coach mcollin2@bloomu.edu 570-389-
+
+3. Adam Sinkoe
+   Email: asinkoe@bloomu.edu
+   Username: asinkoe
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Adam Sinkoe Assistant Coach asinkoe@bloomu.edu
+
+4. Brandon Michael
+   Email: bmichael@bloomu.edu
+   Username: bmichael
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Brandon Michael Volunteer Assistant Coach bmichael@bloomu.edu 570-389-
+
+5. Chris Bess
+   Email: cbess@bloomu.edu
+   Username: cbess
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Chris Bess Head Coach cbess@bloomu.edu 570-389-
+
+6. Isaiah Smiley
+   Email: ismiley@bloomu.edu
+   Username: ismiley
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Isaiah Smiley Assistant Coach ismiley@bloomu.edu 570-389-
+
+7. Alison Tagliaferri
+   Email: atagliafer@bloomu.edu
+   Username: atagliafer
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Alison Tagliaferri Head Coach atagliafer@bloomu.edu 570-389-
+
+8. Alyssa Flan
+   Email: acarsia@bloomu.edu
+   Username: acarsia
+   Sports: Baseball
+   Title: Carsia Assistant Coach
+   Original line: Alyssa (Flan) Carsia Assistant Coach acarsia@bloomu.edu 570-389-
+
+9. Bernie Empie
+   Email: bempie@bloomu.edu
+   Username: bempie
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bernie Empie Head Coach bempie@bloomu.edu 570-389-
+
+10. Kristin Stam
+   Email: kstam@bloomu.edu
+   Username: kstam
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kristin Stam Assistant Coach kstam@bloomu.edu 570-389-
+
+11. Marcus Disbrow
+   Email: mdisbrow@bloomu.edu
+   Username: mdisbrow
+   Sports: Baseball
+   Title: Assisant Coach
+   Original line: Marcus Disbrow Assisant Coach mdisbrow@bloomu.edu 570-389-
+
+12. Nikki Hartranft
+   Email: nhartranft@bloomu.edu
+   Username: nhartranft
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Nikki Hartranft Head Coach nhartranft@bloomu.edu 570-389-
+
+13. Student-Athlete Advocate
+   Email: cnoll@bloomu.edu
+   Username: cnoll
+   Sports: Track & Field
+   Title: Courtney Noll Assistant Coach /
+   Original line: Courtney Noll Assistant Coach / Student-Athlete Advocate cnoll@bloomu.edu 570-389-
+
+14. Frank Sheptock
+   Email: fsheptock@bloomu.edu
+   Username: fsheptock
+   Sports: Football
+   Title: Head Coach
+   Original line: Frank Sheptock Head Coach fsheptock@bloomu.edu 570-389-
+
+15. Chad Anthony
+   Email: canthony@bloomu.edu
+   Username: canthony
+   Sports: Football
+   Title: Head Coach
+   Original line: Chad Anthony Head Coach canthony@bloomu.edu 570-389-
+
+16. Shannon Hertz
+   Email: shertz@bloomu.edu
+   Username: shertz
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Shannon Hertz Head Coach shertz@bloomu.edu 570-389-
+
+17. Kelsey Homberg
+   Email: stgalacr@bloomu.edu
+   Username: stgalacr
+   Sports: Lacrosse
+   Title: Graduate Assistant Coach
+   Original line: Kelsey Homberg Graduate Assistant Coach stgalacr@bloomu.edu
+
+18. Mark Bassett
+   Email: mbassett@bloomu.edu
+   Username: mbassett
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Mark Bassett Head Coach mbassett@bloomu.edu 570-389-
+
+19. Patrick Alvarez
+   Email: stgamsoc@bloomu.edu
+   Username: stgamsoc
+   Sports: Lacrosse
+   Title: Graduate Assistant Coach
+   Original line: Patrick Alvarez Graduate Assistant Coach stgamsoc@bloomu.edu
+
+20. Matt Haney
+   Email: mhaney@bloomu.edu
+   Username: mhaney
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Matt Haney Head Coach mhaney@bloomu.edu 570-389-
+
+21. Faith Diffenbacher
+   Email: stgawsoc@bloomu.edu
+   Username: stgawsoc
+   Sports: Lacrosse
+   Title: Graduate Assistant Coach
+   Original line: Faith Diffenbacher Graduate Assistant Coach stgawsoc@bloomu.edu
+
+22. Susan Kocher
+   Email: skocher@bloomu.edu
+   Username: skocher
+   Sports: Softball
+   Title: Head Coach
+   Original line: Susan Kocher Head Coach skocher@bloomu.edu 570-389-
+
+23. Doug Lynn
+   Email: dlynn@bloomu.edu
+   Username: dlynn
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Doug Lynn Assistant Coach dlynn@bloomu.edu 570-389-
+
+24. Bridget Hilferty
+   Email: bhilfert@bloomu.edu
+   Username: bhilfert
+   Sports: Softball
+   Title: Head Coach
+   Original line: Bridget Hilferty Head Coach bhilfert@bloomu.edu 570-389-
+
+25. Eric Usbeck
+   Email: eusbeck@bloomu.edu
+   Username: eusbeck
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Eric Usbeck Assistant Coach eusbeck@bloomu.edu 570-389-
+
+26. Rebecca Helt
+   Email: rhelt@bloomu.edu
+   Username: rhelt
+   Sports: Softball
+   Title: Head Coach
+   Original line: Rebecca Helt Head Coach rhelt@bloomu.edu 570-389-
+
+27. Lee Anderson
+   Email: landerson@bloomu.edu
+   Username: landerson
+   Sports: Softball
+   Title: Head Coach
+   Original line: Lee Anderson Head Coach landerson@bloomu.edu 570-389-
+
+28. John Stutzman
+   Email: jstutzman@bloomu.edu
+   Username: jstutzman
+   Sports: Softball
+   Title: Head Coach
+   Original line: John Stutzman Head Coach jstutzman@bloomu.edu 570-389-
+
+29. Mitch Moore
+   Email: mmoore2@bloomu.edu
+   Username: mmoore2
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mitch Moore Assistant Coach mmoore2@bloomu.edu 570-389-
+
+30. Hannah Creveling
+   Email: hcreveling@bloomu.edu
+   Username: hcreveling
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: To Be Announced Graduate Assistant Coach hcreveling@bloomu.edu
+
+31. Evan Graduate
+   Email: 
+   Username: evan.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Evan Evans Graduate Assistant Coach
+
+32. Jan Volunteer
+   Email: 
+   Username: jan.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jan Hutchinson Volunteer Assistant Coach
+
+33. To Volunteer
+   Email: 
+   Username: to.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: To Be Announced Volunteer Assistant Coach
+
+34. Liam Volunteer
+   Email: 
+   Username: liam.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Liam Harmon Volunteer Assistant Coach
+
+35. Thomas Volunteer
+   Email: 
+   Username: thomas.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Thomas Iskra Volunteer Assistant Coach
+
+36. Eric Volunteer
+   Email: 
+   Username: eric.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Eric Wall Volunteer Assistant Coach
+
+37. Anna Graduate
+   Email: 
+   Username: anna.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anna Collins Graduate Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andrew Foran Head Coach aforan@bloomu.edu 570-389-
+• Mike Collins Head Coach mcollin2@bloomu.edu 570-389-
+• Adam Sinkoe Assistant Coach asinkoe@bloomu.edu
+• Brandon Michael Volunteer Assistant Coach bmichael@bloomu.edu 570-389-
+• Chris Bess Head Coach cbess@bloomu.edu 570-389-
+• Isaiah Smiley Assistant Coach ismiley@bloomu.edu 570-389-
+• Alison Tagliaferri Head Coach atagliafer@bloomu.edu 570-389-
+• Alyssa (Flan) Carsia Assistant Coach acarsia@bloomu.edu 570-389-
+• Bernie Empie Head Coach bempie@bloomu.edu 570-389-
+• Kristin Stam Assistant Coach kstam@bloomu.edu 570-389-
+• Marcus Disbrow Assisant Coach mdisbrow@bloomu.edu 570-389-
+• Nikki Hartranft Head Coach nhartranft@bloomu.edu 570-389-
+• Courtney Noll Assistant Coach / Student-Athlete Advocate cnoll@bloomu.edu 570-389-
+• Frank Sheptock Head Coach fsheptock@bloomu.edu 570-389-
+• Chad Anthony Head Coach canthony@bloomu.edu 570-389-
+• Shannon Hertz Head Coach shertz@bloomu.edu 570-389-
+• Kelsey Homberg Graduate Assistant Coach stgalacr@bloomu.edu
+• Mark Bassett Head Coach mbassett@bloomu.edu 570-389-
+• Patrick Alvarez Graduate Assistant Coach stgamsoc@bloomu.edu
+• Matt Haney Head Coach mhaney@bloomu.edu 570-389-
+• Faith Diffenbacher Graduate Assistant Coach stgawsoc@bloomu.edu
+• Susan Kocher Head Coach skocher@bloomu.edu 570-389-
+• Doug Lynn Assistant Coach dlynn@bloomu.edu 570-389-
+• Bridget Hilferty Head Coach bhilfert@bloomu.edu 570-389-
+• Eric Usbeck Assistant Coach eusbeck@bloomu.edu 570-389-
+• Rebecca Helt Head Coach rhelt@bloomu.edu 570-389-
+• Lee Anderson Head Coach landerson@bloomu.edu 570-389-
+• John Stutzman Head Coach jstutzman@bloomu.edu 570-389-
+• Mitch Moore Assistant Coach mmoore2@bloomu.edu 570-389-

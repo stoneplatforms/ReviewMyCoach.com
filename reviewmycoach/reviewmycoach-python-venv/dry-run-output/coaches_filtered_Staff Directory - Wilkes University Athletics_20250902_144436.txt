@@ -1,0 +1,487 @@
+COACH ENTRIES FOUND - 2025-09-02 14:44:37
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Wilkes University
+Organization: Wilkes University Athletics
+
+Total coaches found: 60
+
+PARSED ENTRIES:
+----------------------------------------
+1. John McNichol
+   Email: john.mcnichol@wilkes.edu
+   Username: john.mcnichol
+   Sports: Soccer
+   Title: Assistant AD for Compliance/Head Women's Soccer Coach
+   Original line: John McNichol Assistant AD for Compliance/Head Women's Soccer Coach john.mcnichol@wilkes.edu 570-408-
+
+2. Jackie Klahold
+   Email: jacqueline.klahold@wilkes.edu
+   Username: jacqueline.klahold
+   Sports: Softball
+   Title: MS Assistant AD for Game Operations/SWA/Head Softball Coach
+   Original line: Jackie Klahold '15 MS Assistant AD for Game Operations/SWA/Head Softball Coach jacqueline.klahold@wilkes.edu 570-408-
+
+3. Keith Klahold
+   Email: keith.klahold@wilkes.edu
+   Username: keith.klahold
+   Sports: Strength & Conditioning
+   Title: Strength and Conditioning Coach/Fitness Coordinator
+   Original line: Keith Klahold Strength and Conditioning Coach/Fitness Coordinator keith.klahold@wilkes.edu 570-408-
+
+4. Jordan Uhing
+   Email: jordan.uhing@wilkes.edu
+   Username: jordan.uhing
+   Sports: Strength & Conditioning
+   Title: Co-Head Coach / Strength & Conditioning Assistant / Assistant
+   Original line: Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+
+5. Joseph Turnau
+   Email: joseph.turnau@wilkes.edu
+   Username: joseph.turnau
+   Sports: Strength & Conditioning
+   Title: Co-Head Coach / Assistant Strength &
+   Original line: Joseph Turnau Co-Head Coach / Assistant Strength & Conditioning Coach joseph.turnau@wilkes.edu
+
+6. Mike Guy
+   Email: michael.guy1@wilkes.edu
+   Username: michael.guy1
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Mike Guy Head Coach michael.guy1@wilkes.edu 570-408-
+
+7. Kevin Johnson
+   Email: kevin.johnson2@wilkes.edu
+   Username: kevin.johnson2
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kevin Johnson Assistant Coach kevin.johnson2@wilkes.edu
+
+8. Izzi Metz
+   Email: izzi.metz@wilkes.edu
+   Username: izzi.metz
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Izzi Metz Head Coach izzi.metz@wilkes.edu 570-408-
+
+9. Intramurals 
+   Email: willie.hope@wilkes.edu
+   Username: willie.hope
+   Sports: Baseball
+   Title: Willie Hope Assistant Coach/Director
+   Original line: Willie Hope Assistant Coach/Director of Intramurals willie.hope@wilkes.edu 570-408-
+
+10. Zach Brunner
+   Email: zachary.brunner@wilkes.edu
+   Username: zachary.brunner
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Zach Brunner '18 Assistant Coach zachary.brunner@wilkes.edu
+
+11. Al Berger
+   Email: al.berger@wilkes.edu
+   Username: al.berger
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Al Berger Head Coach al.berger@wilkes.edu 570-408-
+
+12. Jordan Uhing
+   Email: jordan.uhing@wilkes.edu
+   Username: jordan.uhing
+   Sports: Baseball
+   Title: Co-Head Coach / Strength & Conditioning Assistant / Assistant
+   Original line: Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+
+13. Joseph Turnau
+   Email: joseph.turnau@wilkes.edu
+   Username: joseph.turnau
+   Sports: Baseball
+   Title: Co-Head Coach / Assistant Strength &
+   Original line: Joseph Turnau Co-Head Coach / Assistant Strength & Conditioning Coach joseph.turnau@wilkes.edu
+
+14. Jordan Uhing
+   Email: jordan.uhing@wilkes.edu
+   Username: jordan.uhing
+   Sports: Baseball
+   Title: Co-Head Coach / Strength & Conditioning Assistant / Assistant
+   Original line: Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+
+15. Joseph Turnau
+   Email: joseph.turnau@wilkes.edu
+   Username: joseph.turnau
+   Sports: Baseball
+   Title: Co-Head Coach / Assistant Strength &
+   Original line: Joseph Turnau Co-Head Coach / Assistant Strength & Conditioning Coach joseph.turnau@wilkes.edu
+
+16. Ashley Irwin
+   Email: ashley.irwin@wilkes.edu
+   Username: ashley.irwin
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Ashley Irwin Head Coach ashley.irwin@wilkes.edu 570-408-
+
+17. Eve Vickery
+   Email: eve.vickery@wilkes.edu
+   Username: eve.vickery
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Eve Vickery Assistant Coach eve.vickery@wilkes.edu
+
+18. David Biever
+   Email: david.biever@wilkes.edu
+   Username: david.biever
+   Sports: Football
+   Title: Head Coach
+   Original line: David Biever Head Coach david.biever@wilkes.edu 570-408-
+
+19. Chris Bantell
+   Email: christopher.bantell@wilkes.edu
+   Username: christopher.bantell
+   Sports: Football
+   Title: Associate Head Coach/Defensive Coordinator
+   Original line: Chris Bantell Associate Head Coach/Defensive Coordinator christopher.bantell@wilkes.edu 570-408-
+
+20. Guy Rothery
+   Email: guy.rothery@wilkes.edu
+   Username: guy.rothery
+   Sports: Football
+   Title: Head Coach
+   Original line: Guy Rothery Head Coach guy.rothery@wilkes.edu 570-237-
+
+21. Jeff Lewis
+   Email: jeffrey.lewis1@wilkes.edu
+   Username: jeffrey.lewis1
+   Sports: Football
+   Title: Head Coach
+   Original line: Jeff Lewis Head Coach jeffrey.lewis1@wilkes.edu 570-817-
+
+22. Tyler Hynes
+   Email: tyler.hynes@wilkes.edu
+   Username: tyler.hynes
+   Sports: Football
+   Title: Head Coach
+   Original line: Tyler Hynes Head Coach tyler.hynes@wilkes.edu 570-408-
+
+23. Dave LaBaff
+   Email: david.labaff@wilkes.edu
+   Username: david.labaff
+   Sports: Football
+   Title: Head Coach
+   Original line: Dave LaBaff Head Coach david.labaff@wilkes.edu 570-408-
+
+24. Hannah Brady
+   Email: hannah.brady@wilkes.edu
+   Username: hannah.brady
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Hannah Brady Assistant Coach hannah.brady@wilkes.edu
+
+25. Jordan Drumheller
+   Email: jordan.drumheller@wilkes.edu
+   Username: jordan.drumheller
+   Sports: Football
+   Title: Head Coach
+   Original line: Jordan Drumheller Head Coach jordan.drumheller@wilkes.edu 570-408-
+
+26. Joseph Pendl
+   Email: joseph.pendl@wilkes.edu
+   Username: joseph.pendl
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Joseph Pendl Assistant Coach joseph.pendl@wilkes.edu
+
+27. Taylor Drumheller
+   Email: taylor.drumheller@wilkes.edu
+   Username: taylor.drumheller
+   Sports: Football
+   Title: Head Coach
+   Original line: Taylor Drumheller Head Coach taylor.drumheller@wilkes.edu 570-408-
+
+28. Michael Piranian
+   Email: michael.piranian@wilkes.edu
+   Username: michael.piranian
+   Sports: Football
+   Title: Head Coach
+   Original line: Michael Piranian Head Coach michael.piranian@wilkes.edu 570-408-
+
+29. John McNichol
+   Email: john.mcnichol@wilkes.edu
+   Username: john.mcnichol
+   Sports: Football
+   Title: Assistant AD for Compliance/Head Women's Soccer Coach
+   Original line: John McNichol Assistant AD for Compliance/Head Women's Soccer Coach john.mcnichol@wilkes.edu 570-408-
+
+30. Lilly Cross
+   Email: lilly.cross@wilkes.edu
+   Username: lilly.cross
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Lilly Cross Assistant Coach lilly.cross@wilkes.edu
+
+31. Krista Liotti
+   Email: krista.liotti@wilkes.edu
+   Username: krista.liotti
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Krista Liotti Assistant Coach krista.liotti@wilkes.edu
+
+32. Jackie Klahold
+   Email: jacqueline.klahold@wilkes.edu
+   Username: jacqueline.klahold
+   Sports: Softball
+   Title: MS Assistant AD for Game Operations/SWA/Head Softball Coach
+   Original line: Jackie Klahold '15 MS Assistant AD for Game Operations/SWA/Head Softball Coach jacqueline.klahold@wilkes.edu 570-408-
+
+33. Casey Carpenter
+   Email: casey.carpenter@wilkes.edu
+   Username: casey.carpenter
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Casey Carpenter Assistant Coach casey.carpenter@wilkes.edu
+
+34. Jordan Uhing
+   Email: jordan.uhing@wilkes.edu
+   Username: jordan.uhing
+   Sports: Softball
+   Title: Co-Head Coach / Strength & Conditioning Assistant / Assistant
+   Original line: Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+
+35. Nicole Hoskins
+   Email: catherine.hoskins@wilkes.edu
+   Username: catherine.hoskins
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nicole Hoskins Assistant Coach catherine.hoskins@wilkes.edu
+
+36. Emilie Detweiler
+   Email: emilie.detweiler@wilkes.edu
+   Username: emilie.detweiler
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Emilie Detweiler '22 Assistant Coach emilie.detweiler@wilkes.edu
+
+37. Emilie Detweiler
+   Email: emilie.detweiler@wilkes.edu
+   Username: emilie.detweiler
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Emilie Detweiler '22 Assistant Coach emilie.detweiler@wilkes.edu
+
+38. Scott Veith
+   Email: scott.veith@wilkes.edu
+   Username: scott.veith
+   Sports: Softball
+   Title: Head Coach
+   Original line: Scott Veith Head Coach scott.veith@wilkes.edu 570-408-
+
+39. Scott Veith
+   Email: scott.veith@wilkes.edu
+   Username: scott.veith
+   Sports: Softball
+   Title: Head Coach
+   Original line: Scott Veith Head Coach scott.veith@wilkes.edu 570-408-
+
+40. Joseph Czopek
+   Email: joseph.czopek@wilkes.edu
+   Username: joseph.czopek
+   Sports: Softball
+   Title: Head Coach
+   Original line: Joseph Czopek Head Coach joseph.czopek@wilkes.edu 570-408-
+
+41. Alex Czopek
+   Email: alexander.czopek@wilkes.edu
+   Username: alexander.czopek
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alex Czopek Assistant Coach alexander.czopek@wilkes.edu
+
+42. Connor Dillon
+   Email: connor.dillon@wilkes.edu
+   Username: connor.dillon
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Connor Dillon Assistant Coach connor.dillon@wilkes.edu
+
+43. Zach Shay
+   Email: zachary.shay@wilkes.edu
+   Username: zachary.shay
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Zach Shay '24 Assistant Coach zachary.shay@wilkes.edu
+
+44. Joseph Czopek
+   Email: joseph.czopek@wilkes.edu
+   Username: joseph.czopek
+   Sports: Softball
+   Title: Head Coach
+   Original line: Joseph Czopek Head Coach joseph.czopek@wilkes.edu 570-408-
+
+45. Alex Czopek
+   Email: alexander.czopek@wilkes.edu
+   Username: alexander.czopek
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alex Czopek Assistant Coach alexander.czopek@wilkes.edu
+
+46. Connor Dillon
+   Email: connor.dillon@wilkes.edu
+   Username: connor.dillon
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Connor Dillon Assistant Coach connor.dillon@wilkes.edu
+
+47. Zach Shay
+   Email: zachary.shay@wilkes.edu
+   Username: zachary.shay
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Zach Shay '24 Assistant Coach zachary.shay@wilkes.edu
+
+48. Pankil Chander
+   Email: pankil.chander@wilkes.edu
+   Username: pankil.chander
+   Sports: Softball
+   Title: '
+   Original line: Pankil Chander '17 Associate Head Coach/Men's Recruiting Coordinator pankil.chander@wilkes.edu 570-408-
+
+49. Josh Evans
+   Email: joshua.evans@wilkes.edu
+   Username: joshua.evans
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Josh Evans '18 Assistant Coach joshua.evans@wilkes.edu
+
+50. Colton Babcock
+   Email: colton.babcock@wilkes.edu
+   Username: colton.babcock
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Colton Babcock Assistant Coach colton.babcock@wilkes.edu
+
+51. Kasey Kruczek
+   Email: kasey.kruczek@wilkes.edu
+   Username: kasey.kruczek
+   Sports: Softball
+   Title: Head Coach
+   Original line: Kasey Kruczek Head Coach kasey.kruczek@wilkes.edu
+
+52. Matthew Information
+   Email: matthew.vargo@wilkes.edu
+   Username: matthew.vargo
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach matthew.vargo@wilkes.edu
+
+53. Mark Modrovsky
+   Email: 
+   Username: mark.modrovsky
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mark Modrovsky Assistant Coach
+
+54. Kyle Ofier
+   Email: 
+   Username: kyle.ofier
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Ofier Assistant Coach
+
+55. Rob Lemoncelli
+   Email: 
+   Username: rob.lemoncelli
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rob Lemoncelli Assistant Coach
+
+56. Paul Zaffutto
+   Email: 
+   Username: paul.zaffutto
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Paul Zaffutto Assistant Coach
+
+57. Trevor Pitching
+   Email: 
+   Username: trevor.pitching
+   Sports: Soccer
+   Title: Trevor Tellip Pitching Coach
+   Original line: Trevor Tellip Pitching Coach
+
+58. Xavier Guerreiro
+   Email: 
+   Username: xavier.guerreiro
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Xavier Guerreiro '25 Assistant Coach
+
+59. Kendra Brunner
+   Email: 
+   Username: kendra.brunner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kendra Croker Brunner Assistant Coach
+
+60. James Miller
+   Email: 
+   Username: james.miller
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: James Miller Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John McNichol Assistant AD for Compliance/Head Women's Soccer Coach john.mcnichol@wilkes.edu 570-408-
+• Jackie Klahold '15 MS Assistant AD for Game Operations/SWA/Head Softball Coach jacqueline.klahold@wilkes.edu 570-408-
+• Keith Klahold Strength and Conditioning Coach/Fitness Coordinator keith.klahold@wilkes.edu 570-408-
+• Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+• Joseph Turnau Co-Head Coach / Assistant Strength & Conditioning Coach joseph.turnau@wilkes.edu
+• Mike Guy Head Coach michael.guy1@wilkes.edu 570-408-
+• Kevin Johnson Assistant Coach kevin.johnson2@wilkes.edu
+• Izzi Metz Head Coach izzi.metz@wilkes.edu 570-408-
+• Willie Hope Assistant Coach/Director of Intramurals willie.hope@wilkes.edu 570-408-
+• Zach Brunner '18 Assistant Coach zachary.brunner@wilkes.edu
+• Al Berger Head Coach al.berger@wilkes.edu 570-408-
+• Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+• Joseph Turnau Co-Head Coach / Assistant Strength & Conditioning Coach joseph.turnau@wilkes.edu
+• Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+• Joseph Turnau Co-Head Coach / Assistant Strength & Conditioning Coach joseph.turnau@wilkes.edu
+• Ashley Irwin Head Coach ashley.irwin@wilkes.edu 570-408-
+• Eve Vickery Assistant Coach eve.vickery@wilkes.edu
+• David Biever Head Coach david.biever@wilkes.edu 570-408-
+• Chris Bantell Associate Head Coach/Defensive Coordinator christopher.bantell@wilkes.edu 570-408-
+• Guy Rothery Head Coach guy.rothery@wilkes.edu 570-237-
+• Jeff Lewis Head Coach jeffrey.lewis1@wilkes.edu 570-817-
+• Tyler Hynes Head Coach tyler.hynes@wilkes.edu 570-408-
+• Dave LaBaff Head Coach david.labaff@wilkes.edu 570-408-
+• Hannah Brady Assistant Coach hannah.brady@wilkes.edu
+• Jordan Drumheller Head Coach jordan.drumheller@wilkes.edu 570-408-
+• Joseph Pendl Assistant Coach joseph.pendl@wilkes.edu
+• Taylor Drumheller Head Coach taylor.drumheller@wilkes.edu 570-408-
+• Michael Piranian Head Coach michael.piranian@wilkes.edu 570-408-
+• John McNichol Assistant AD for Compliance/Head Women's Soccer Coach john.mcnichol@wilkes.edu 570-408-
+• Lilly Cross Assistant Coach lilly.cross@wilkes.edu
+• Krista Liotti Assistant Coach krista.liotti@wilkes.edu
+• Jackie Klahold '15 MS Assistant AD for Game Operations/SWA/Head Softball Coach jacqueline.klahold@wilkes.edu 570-408-
+• Casey Carpenter Assistant Coach casey.carpenter@wilkes.edu
+• Jordan Uhing Co-Head Coach / Strength & Conditioning Assistant / Assistant jordan.uhing@wilkes.edu
+• Nicole Hoskins Assistant Coach catherine.hoskins@wilkes.edu
+• Emilie Detweiler '22 Assistant Coach emilie.detweiler@wilkes.edu
+• Emilie Detweiler '22 Assistant Coach emilie.detweiler@wilkes.edu
+• Scott Veith Head Coach scott.veith@wilkes.edu 570-408-
+• Scott Veith Head Coach scott.veith@wilkes.edu 570-408-
+• Joseph Czopek Head Coach joseph.czopek@wilkes.edu 570-408-
+• Alex Czopek Assistant Coach alexander.czopek@wilkes.edu
+• Connor Dillon Assistant Coach connor.dillon@wilkes.edu
+• Zach Shay '24 Assistant Coach zachary.shay@wilkes.edu
+• Joseph Czopek Head Coach joseph.czopek@wilkes.edu 570-408-
+• Alex Czopek Assistant Coach alexander.czopek@wilkes.edu
+• Connor Dillon Assistant Coach connor.dillon@wilkes.edu
+• Zach Shay '24 Assistant Coach zachary.shay@wilkes.edu
+• Pankil Chander '17 Associate Head Coach/Men's Recruiting Coordinator pankil.chander@wilkes.edu 570-408-
+• Josh Evans '18 Assistant Coach joshua.evans@wilkes.edu
+• Colton Babcock Assistant Coach colton.babcock@wilkes.edu
+• Kasey Kruczek Head Coach kasey.kruczek@wilkes.edu

@@ -1,0 +1,317 @@
+COACH ENTRIES FOUND - 2025-09-02 14:43:33
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Pittsburgh at Johnstown
+Organization: University of Pittsburgh at Johnstown Athletics
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Center 
+   Email: kaj237@pitt.edu
+   Username: kaj237
+   Sports: Strength & Conditioning
+   Title: Kyrsten Joseph Strength And Conditioning Coach / Wellness
+   Phone: (814) 269-1925
+   Original line: Kyrsten Joseph Strength And Conditioning Coach / Wellness Center Director kaj237@pitt.edu (814) 269-1925
+
+2. George Roberts
+   Email: GBR3@pitt.edu
+   Username: GBR3
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: (814) 254-2868
+   Original line: George Roberts Head Baseball Coach (Interim) GBR3@pitt.edu (814) 254-2868
+
+3. Bob Rukavina
+   Email: rukavina@pitt.edu
+   Username: rukavina
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Phone: (814) 269-2005
+   Original line: Bob Rukavina Head Men's Basketball Coach rukavina@pitt.edu (814) 269-2005
+
+4. Patrick Grubbs
+   Email: pgg1@pitt.edu
+   Username: pgg1
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Phone: (814) 269-2041
+   Original line: Patrick Grubbs Assistant Men's Basketball Coach pgg1@pitt.edu (814) 269-2041
+
+5. D'wan Shackleford-Vickroy
+   Email: dov16@pitt.edu
+   Username: dov16
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Phone: (814) 269-7169
+   Original line: D'wan Shackleford-Vickroy Head Women's Basketball Coach dov16@pitt.edu (814) 269-7169
+
+6. Mia Oterson
+   Email: mho18@pitt.edu
+   Username: mho18
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Phone: (814) 269-2032
+   Original line: Mia Oterson Assistant Women's Basketball Coach mho18@pitt.edu (814) 269-2032
+
+7. Anthony Dean-Neil
+   Email: adeanneil@pitt.edu
+   Username: adeanneil
+   Sports: Baseball
+   Title: Head Men's and Women's Cross Country Coach
+   Phone: (814) 442-3849
+   Original line: Anthony Dean-Neil Head Men's and Women's Cross Country Coach adeanneil@pitt.edu (814) 442-3849
+
+8. Anthony Dean-Neil
+   Email: adeanneil@pitt.edu
+   Username: adeanneil
+   Sports: Baseball
+   Title: Head Men's and Women's Cross Country Coach
+   Phone: (814) 442-3849
+   Original line: Anthony Dean-Neil Head Men's and Women's Cross Country Coach adeanneil@pitt.edu (814) 442-3849
+
+9. Cody Trabert
+   Email: CJT38@pitt.edu
+   Username: CJT38
+   Sports: Baseball
+   Title: Head Men's Golf Coach
+   Phone: (814) 269-2055
+   Original line: Cody Trabert Head Men's Golf Coach CJT38@pitt.edu (814) 269-2055
+
+10. Eric Kinsey
+   Email: kinsey@pitt.edu
+   Username: kinsey
+   Sports: Baseball
+   Title: Head Men's Soccer Coach
+   Phone: (814) 269-2034
+   Original line: Eric Kinsey Head Men's Soccer Coach kinsey@pitt.edu (814) 269-2034
+
+11. Aideen O'Donoghue
+   Email: aro82@pitt.edu
+   Username: aro82
+   Sports: Baseball
+   Title: Head Women's Soccer Coach
+   Phone: (814) 269-7174
+   Original line: Aideen O'Donoghue Head Women's Soccer Coach aro82@pitt.edu (814) 269-7174
+
+12. Niki Cognigni-Pecora
+   Email: cognigni@pitt.edu
+   Username: cognigni
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (814) 269-7028
+   Original line: Niki Cognigni-Pecora Head Softball Coach cognigni@pitt.edu (814) 269-7028
+
+13. Aquatics 
+   Email: KCZ9@pitt.edu
+   Username: KCZ9
+   Sports: Softball
+   Title: Kile Zeller Head Men’s/Women’s Swim Coach & Director
+   Phone: (814) 242-1812
+   Original line: Kile Zeller Head Men’s/Women’s Swim Coach & Director of Aquatics KCZ9@pitt.edu C: (814) 242-1812 O: (814)
+
+14. Aquatics 
+   Email: KCZ9@pitt.edu
+   Username: KCZ9
+   Sports: Softball
+   Title: Kile Zeller Head Men’s/Women’s Swim Coach & Director
+   Phone: (814) 242-1812
+   Original line: Kile Zeller Head Men’s/Women’s Swim Coach & Director of Aquatics KCZ9@pitt.edu C: (814) 242-1812 O: (814)
+
+15. Anthony Dean-Neil
+   Email: adeanneil@pitt.edu
+   Username: adeanneil
+   Sports: Softball
+   Title: Head Men's and Women's Track and Field Coach
+   Phone: (814) 442-3849
+   Original line: Anthony Dean-Neil Head Men's and Women's Track and Field Coach adeanneil@pitt.edu (814) 442-3849
+
+16. Anthony Dean-Neil
+   Email: adeanneil@pitt.edu
+   Username: adeanneil
+   Sports: Softball
+   Title: Head Men's and Women's Track and Field Coach
+   Phone: (814) 442-3849
+   Original line: Anthony Dean-Neil Head Men's and Women's Track and Field Coach adeanneil@pitt.edu (814) 442-3849
+
+17. Justin Haupt
+   Email: jrh269@pitt.edu
+   Username: jrh269
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Justin Haupt Head Women's Volleyball Coach jrh269@pitt.edu
+
+18. Tyler Reinhart
+   Email: tar87@pitt.edu
+   Username: tar87
+   Sports: Softball
+   Title: Head Men's Wrestling Coach
+   Phone: (724) 216-2919
+   Original line: Tyler Reinhart Head Men's Wrestling Coach tar87@pitt.edu (724) 216-2919
+
+19. Jacob Ealy
+   Email: JSE55@pitt.edu
+   Username: JSE55
+   Sports: Softball
+   Title: Assistant Men's and Women's Wrestling Coach
+   Phone: (412) 974-9345
+   Original line: Jacob Ealy Assistant Men's and Women's Wrestling Coach JSE55@pitt.edu (412) 974-9345
+
+20. Shane Valko
+   Email: svalko@pitt.edu
+   Username: svalko
+   Sports: Softball
+   Title: Head Women's Wrestling Coach
+   Phone: (814) 322-7129
+   Original line: Shane Valko Head Women's Wrestling Coach svalko@pitt.edu (814) 322-7129
+
+21. Jacob Ealy
+   Email: JSE55@pitt.edu
+   Username: JSE55
+   Sports: Softball
+   Title: Assistant Men's and Women's Wrestling Coach
+   Phone: (412) 974-9345
+   Original line: Jacob Ealy Assistant Men's and Women's Wrestling Coach JSE55@pitt.edu (412) 974-9345
+
+22. Kelly Devett
+   Email: Devett@pitt.edu
+   Username: Devett
+   Sports: Strength & Conditioning
+   Title: STRENGTH AND CONDITIONING COACH / WELLNESS CENTER DIRECTOR
+   Original line: STRENGTH AND CONDITIONING COACH / WELLNESS CENTER DIRECTOR Devett@pitt.edu
+
+23. Rick May
+   Email: rrm60@pitt.edu
+   Username: rrm60
+   Sports: Baseball
+   Title: Dylan Broderick Assistant Baseball Coach
+   Original line: Dylan Broderick Assistant Baseball Coach rrm60@pitt.edu
+
+24. Rick Pitching
+   Email: 
+   Username: rick.pitching
+   Sports: Soccer
+   Title: Rick Roberts Pitching Coach
+   Original line: Rick Roberts Pitching Coach
+
+25. John Sanow
+   Email: 
+   Username: john.sanow
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: John Sanow Assistant Men's Basketball Coach
+
+26.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+27. Joe Volunteer
+   Email: 
+   Username: joe.volunteer
+   Sports: Cross Country
+   Title: s Cross Country Coach
+   Original line: Joe Furman Volunteer Assistant Men's and Women's Cross Country Coach
+
+28. Chris Volunteer
+   Email: 
+   Username: chris.volunteer
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Chris Matava Volunteer Assistant Men's Golf Coach
+
+29. Brock Volunteer
+   Email: 
+   Username: brock.volunteer
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Brock Matava Volunteer Assistant Men's Golf Coach
+
+30. Colin Michalski
+   Email: 
+   Username: colin.michalski
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Colin Michalski Assistant Men's Soccer Coach
+
+31. Oleg Aminov
+   Email: 
+   Username: oleg.aminov
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Oleg Aminov Assistant Women's Soccer Coach
+
+32. Sophia Lamesta
+   Email: 
+   Username: sophia.lamesta
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Sophia Lamesta Assistant Women's Soccer Coach
+
+33. Ava Gnibus
+   Email: 
+   Username: ava.gnibus
+   Sports: Softball
+   Title: Ava Gnibus Assistant Softball Coach
+   Original line: Ava Gnibus Assistant Softball Coach
+
+34. Janet DeRenzo
+   Email: 
+   Username: janet.derenzo
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Janet DeRenzo Assistant Women's Volleyball Coach
+
+35. Tyler Johnson
+   Email: 
+   Username: tyler.johnson
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Tyler Johnson Assistant Women's Volleyball Coach
+
+36. Jordyn Geist
+   Email: 
+   Username: jordyn.geist
+   Sports: Volleyball
+   Title: s Volleyball Coach
+   Original line: Jordyn Geist Assistant Women's Volleyball Coach
+
+37. Shad Benton
+   Email: 
+   Username: shad.benton
+   Sports: Wrestling
+   Title: Shad Benton Assistant Wrestling Coach
+   Original line: Shad Benton Assistant Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kyrsten Joseph Strength And Conditioning Coach / Wellness Center Director kaj237@pitt.edu (814) 269-1925
+• George Roberts Head Baseball Coach (Interim) GBR3@pitt.edu (814) 254-2868
+• Bob Rukavina Head Men's Basketball Coach rukavina@pitt.edu (814) 269-2005
+• Patrick Grubbs Assistant Men's Basketball Coach pgg1@pitt.edu (814) 269-2041
+• D'wan Shackleford-Vickroy Head Women's Basketball Coach dov16@pitt.edu (814) 269-7169
+• Mia Oterson Assistant Women's Basketball Coach mho18@pitt.edu (814) 269-2032
+• Anthony Dean-Neil Head Men's and Women's Cross Country Coach adeanneil@pitt.edu (814) 442-3849
+• Anthony Dean-Neil Head Men's and Women's Cross Country Coach adeanneil@pitt.edu (814) 442-3849
+• Cody Trabert Head Men's Golf Coach CJT38@pitt.edu (814) 269-2055
+• Eric Kinsey Head Men's Soccer Coach kinsey@pitt.edu (814) 269-2034
+• Aideen O'Donoghue Head Women's Soccer Coach aro82@pitt.edu (814) 269-7174
+• Niki Cognigni-Pecora Head Softball Coach cognigni@pitt.edu (814) 269-7028
+• Kile Zeller Head Men’s/Women’s Swim Coach & Director of Aquatics KCZ9@pitt.edu C: (814) 242-1812 O: (814)
+• Kile Zeller Head Men’s/Women’s Swim Coach & Director of Aquatics KCZ9@pitt.edu C: (814) 242-1812 O: (814)
+• Anthony Dean-Neil Head Men's and Women's Track and Field Coach adeanneil@pitt.edu (814) 442-3849
+• Anthony Dean-Neil Head Men's and Women's Track and Field Coach adeanneil@pitt.edu (814) 442-3849
+• Justin Haupt Head Women's Volleyball Coach jrh269@pitt.edu
+• Tyler Reinhart Head Men's Wrestling Coach tar87@pitt.edu (724) 216-2919
+• Jacob Ealy Assistant Men's and Women's Wrestling Coach JSE55@pitt.edu (412) 974-9345
+• Shane Valko Head Women's Wrestling Coach svalko@pitt.edu (814) 322-7129
+• Jacob Ealy Assistant Men's and Women's Wrestling Coach JSE55@pitt.edu (412) 974-9345

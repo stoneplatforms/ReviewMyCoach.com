@@ -1,0 +1,276 @@
+COACH ENTRIES FOUND - 2025-09-02 14:43:28
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Pittsburgh Greensburg
+Organization: University of Pittsburgh Greensburg Athletics
+
+Total coaches found: 34
+
+PARSED ENTRIES:
+----------------------------------------
+1. Scott Adams
+   Email: sga10@pitt.edu
+   Username: sga10
+   Sports: Baseball, Golf
+   Title: Head Baseball Coach
+   Original line: Scott Adams Head Baseball Coach | Head Golf Coach | Compliance Officer sga10@pitt.edu 724-205-
+
+2. Julie Bolden
+   Email: jub171@pitt.edu
+   Username: jub171
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Julie Bolden Head Women's Basketball Coach | Senior Woman Administrator jub171@pitt.edu 724-836-
+
+3. Marc Bucci
+   Email: marcbucci@pitt.edu
+   Username: marcbucci
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Marc Bucci Head Men's Soccer Coach | Intramurals Coordinator marcbucci@pitt.edu 724-836-
+
+4. Chris Klimchock
+   Email: cjk120@pitt.edu
+   Username: cjk120
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Chris Klimchock Head Men's Basketball Coach | Fitness Center Coordinator cjk120@pitt.edu 724-836-
+
+5. Chuck Myers
+   Email: chm143@pitt.edu
+   Username: chm143
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Chuck Myers Head Softball Coach | Operations Coordinator chm143@pitt.edu 724-836-
+
+6. Chuck Wigle
+   Email: cvw2@pitt.edu
+   Username: cvw2
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Chuck Wigle Head Women's Soccer Coach | Creative Content Coordinator cvw2@pitt.edu 724-836-
+
+7. Scott Adams
+   Email: sga10@pitt.edu
+   Username: sga10
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Scott Adams Head Baseball Coach | Head Golf Coach | Compliance Officer sga10@pitt.edu 724-205-
+
+8. Jeff McWilliams
+   Email: jam493@pitt.edu
+   Username: jam493
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Jeff McWilliams Assistant Baseball Coach jam493@pitt.edu
+
+9. Chris Klimchock
+   Email: cjk120@pitt.edu
+   Username: cjk120
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Chris Klimchock Head Men's Basketball Coach | Fitness Center Coordinator cjk120@pitt.edu 724-836-
+
+10. Robert Davis
+   Email: rod92@pitt.edu
+   Username: rod92
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Robert Davis Assistant Men's Basketball Coach rod92@pitt.edu
+
+11. Julie Bolden
+   Email: jub171@pitt.edu
+   Username: jub171
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Julie Bolden Head Women's Basketball Coach | Senior Woman Administrator jub171@pitt.edu 724-836-
+
+12. Kelsey Oddis
+   Email: kmo49@pitt.edu
+   Username: kmo49
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Kelsey Oddis Assistant Women's Basketball Coach kmo49@pitt.edu
+
+13. Amanda Cunningham
+   Email: akb107@pitt.edu
+   Username: akb107
+   Sports: Baseball
+   Title: Head Women's Bowling Coach
+   Original line: Amanda Cunningham Head Women's Bowling Coach akb107@pitt.edu
+
+14. Jeremy Eshleman
+   Email: jee111@pitt.edu
+   Username: jee111
+   Sports: Cross Country
+   Title: Head Cross Country Coach
+   Original line: Jeremy Eshleman Head Cross Country Coach jee111@pitt.edu
+
+15. Scott Adams
+   Email: sga10@pitt.edu
+   Username: sga10
+   Sports: Cross Country
+   Title: Head Baseball Coach
+   Original line: Scott Adams Head Baseball Coach | Head Golf Coach | Compliance Officer sga10@pitt.edu 724-205-
+
+16. Marc Bucci
+   Email: marcbucci@pitt.edu
+   Username: marcbucci
+   Sports: Cross Country
+   Title: s Soccer Coach
+   Original line: Marc Bucci Head Men's Soccer Coach | Intramurals Coordinator marcbucci@pitt.edu 724-836-
+
+17. Chuck Wigle
+   Email: cvw2@pitt.edu
+   Username: cvw2
+   Sports: Cross Country
+   Title: s Soccer Coach
+   Original line: Chuck Wigle Head Women's Soccer Coach | Creative Content Coordinator cvw2@pitt.edu 724-836-
+
+18. Chris Fabian
+   Email: cjf56@pitt.edu
+   Username: cjf56
+   Sports: Cross Country
+   Title: Assistant Women's Soccer Coach
+   Original line: Chris Fabian Assistant Women's Soccer Coach cjf56@pitt.edu
+
+19. Chuck Myers
+   Email: chm143@pitt.edu
+   Username: chm143
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Chuck Myers Head Softball Coach | Operations Coordinator chm143@pitt.edu 724-836-
+
+20. Alexandra Greenlee
+   Email: arg271@pitt.edu
+   Username: arg271
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Alexandra Greenlee Assistant Softball Coach arg271@pitt.edu
+
+21. Deven Summers
+   Email: DES418@pitt.edu
+   Username: DES418
+   Sports: Softball
+   Title: Head Tennis Coach
+   Original line: Deven Summers Head Tennis Coach DES418@pitt.edu
+
+22. Holly Saville
+   Email: hls117@pitt.edu
+   Username: hls117
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Holly Saville Head Volleyball Coach hls117@pitt.edu
+
+23. Rick Klimchock
+   Email: 
+   Username: rick.klimchock
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Rick Klimchock Assistant Men's Basketball Coach
+
+24. Harry Bowser
+   Email: 
+   Username: harry.bowser
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Harry Bowser Assistant Men's Basketball Coach
+
+25. Connor Student
+   Email: 
+   Username: connor.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Connor Flemm Student Assistant Coach
+
+26. John Cunningham
+   Email: 
+   Username: john.cunningham
+   Sports: Soccer
+   Title: John Cunningham Assistant Bowling Coach
+   Original line: John Cunningham Assistant Bowling Coach
+
+27. Sarah Kirkpatrick
+   Email: 
+   Username: sarah.kirkpatrick
+   Sports: Soccer
+   Title: Sarah Kirkpatrick Assistant Bowling Coach
+   Original line: Sarah Kirkpatrick Assistant Bowling Coach
+
+28. Ben Brown
+   Email: 
+   Username: ben.brown
+   Sports: Cross Country
+   Title: Ben Brown Assistant Cross Country Coach
+   Original line: Ben Brown Assistant Cross Country Coach
+
+29. Ben Fiore
+   Email: 
+   Username: ben.fiore
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Ben Fiore Assistant Men's Soccer Coach
+
+30. Reese Laurell
+   Email: 
+   Username: reese.laurell
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Reese Laurell Assistant Men's Soccer Coach
+
+31. Bri Burgunder
+   Email: 
+   Username: bri.burgunder
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Bri Burgunder Assistant Women's Soccer Coach
+
+32. Megan Goalkeeper
+   Email: 
+   Username: megan.goalkeeper
+   Sports: Soccer
+   Title: Megan Urbanek Goalkeeper Coach
+   Original line: Megan Urbanek Goalkeeper Coach
+
+33. Jenna Conty
+   Email: 
+   Username: jenna.conty
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Jenna Conty Assistant Women's Soccer Coach
+
+34. Shelby Noel
+   Email: 
+   Username: shelby.noel
+   Sports: Softball
+   Title: Shelby Noel Assistant Softball Coach
+   Original line: Shelby Noel Assistant Softball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Scott Adams Head Baseball Coach | Head Golf Coach | Compliance Officer sga10@pitt.edu 724-205-
+• Julie Bolden Head Women's Basketball Coach | Senior Woman Administrator jub171@pitt.edu 724-836-
+• Marc Bucci Head Men's Soccer Coach | Intramurals Coordinator marcbucci@pitt.edu 724-836-
+• Chris Klimchock Head Men's Basketball Coach | Fitness Center Coordinator cjk120@pitt.edu 724-836-
+• Chuck Myers Head Softball Coach | Operations Coordinator chm143@pitt.edu 724-836-
+• Chuck Wigle Head Women's Soccer Coach | Creative Content Coordinator cvw2@pitt.edu 724-836-
+• Scott Adams Head Baseball Coach | Head Golf Coach | Compliance Officer sga10@pitt.edu 724-205-
+• Jeff McWilliams Assistant Baseball Coach jam493@pitt.edu
+• Chris Klimchock Head Men's Basketball Coach | Fitness Center Coordinator cjk120@pitt.edu 724-836-
+• Robert Davis Assistant Men's Basketball Coach rod92@pitt.edu
+• Julie Bolden Head Women's Basketball Coach | Senior Woman Administrator jub171@pitt.edu 724-836-
+• Kelsey Oddis Assistant Women's Basketball Coach kmo49@pitt.edu
+• Amanda Cunningham Head Women's Bowling Coach akb107@pitt.edu
+• Jeremy Eshleman Head Cross Country Coach jee111@pitt.edu
+• Scott Adams Head Baseball Coach | Head Golf Coach | Compliance Officer sga10@pitt.edu 724-205-
+• Marc Bucci Head Men's Soccer Coach | Intramurals Coordinator marcbucci@pitt.edu 724-836-
+• Chuck Wigle Head Women's Soccer Coach | Creative Content Coordinator cvw2@pitt.edu 724-836-
+• Chris Fabian Assistant Women's Soccer Coach cjf56@pitt.edu
+• Chuck Myers Head Softball Coach | Operations Coordinator chm143@pitt.edu 724-836-
+• Alexandra Greenlee Assistant Softball Coach arg271@pitt.edu
+• Deven Summers Head Tennis Coach DES418@pitt.edu
+• Holly Saville Head Volleyball Coach hls117@pitt.edu

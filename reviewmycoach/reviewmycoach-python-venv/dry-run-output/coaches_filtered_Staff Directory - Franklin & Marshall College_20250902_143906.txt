@@ -1,0 +1,620 @@
+COACH ENTRIES FOUND - 2025-09-02 14:39:06
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Franklin & Marshall College
+Organization: Franklin & Marshall College Athletics
+
+Total coaches found: 79
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mary Salko
+   Email: marykate.boland@fandm.edu
+   Username: marykate.boland
+   Sports: Soccer
+   Title: Head Coach/Senior Woman
+   Original line: Mary Kate Salko '01 Head Coach/Senior Woman marykate.boland@fandm.edu 717-
+
+2. Sean Doherty
+   Email: sdoherty@fandm.edu
+   Username: sdoherty
+   Sports: Soccer
+   Title: Performance Enhancement Coach
+   Original line: Sean Doherty Performance Enhancement Coach sdoherty@fandm.edu 717-
+
+3. Ryan Horning
+   Email: rhorning@fandm.edu
+   Username: rhorning
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ryan Horning Head Coach rhorning@fandm.edu 717-
+
+4. Matt Riebesell
+   Email: mriebese@fandm.edu
+   Username: mriebese
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Riebesell Assistant Coach mriebese@fandm.edu
+
+5. Matt Scheuing
+   Email: mscheuin@fandm.edu
+   Username: mscheuin
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Scheuing Assistant Coach mscheuin@fandm.edu 717-
+
+6. Nick Nichay
+   Email: nnichay@fandm.edu
+   Username: nnichay
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Nick Nichay Head Coach nnichay@fandm.edu 717-
+
+7. Matt Walsh
+   Email: mwalsh3@fandm.edu
+   Username: mwalsh3
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Walsh Assistant Coach mwalsh3@fandm.edu 717-
+
+8. Zach Tuori
+   Email: ztuori@fandm.edu
+   Username: ztuori
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Zach Tuori Assistant Coach ztuori@fandm.edu
+
+9. Brianna Spector
+   Email: bspector@fandm.edu
+   Username: bspector
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brianna Spector Head Coach bspector@fandm.edu 717-
+
+10. Jacob Robinson
+   Email: jrobins1@fandm.edu
+   Username: jrobins1
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jacob Robinson Assistant Coach jrobins1@fandm.edu
+
+11. John Stoudt
+   Email: john.d.stoudt@fandm.edu
+   Username: john.d.stoudt
+   Sports: Baseball
+   Title: Head Coach Cross Country /
+   Original line: John Stoudt Head Coach Cross Country / john.d.stoudt@fandm.edu 717-
+
+12. Kaitlyn Eager
+   Email: kaitlyn.hamilton@fandm.edu
+   Username: kaitlyn.hamilton
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Kaitlyn Eager Head Coach kaitlyn.hamilton@fandm.edu 717-
+
+13. Jayme Goldkind
+   Email: jgoldkin@fandm.edu
+   Username: jgoldkin
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jayme Goldkind Assistant Coach jgoldkin@fandm.edu
+
+14. Sarah Schannauer
+   Email: sschanna@fandm.edu
+   Username: sschanna
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Sarah Schannauer '18 Assistant Coach sschanna@fandm.edu
+
+15. Erin McCormick
+   Email: ecoverda@fandm.edu
+   Username: ecoverda
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Erin McCormick '20 Assistant Coach ecoverda@fandm.edu
+
+16. Michael Phelan
+   Email: mphelan2@fandm.edu
+   Username: mphelan2
+   Sports: Football
+   Title: Head Coach
+   Original line: Michael Phelan Head Coach mphelan2@fandm.edu 717-
+
+17. Sean Moore
+   Email: smoore2@fandm.edu
+   Username: smoore2
+   Sports: Football
+   Title: Defensive Line Coach/Special Teams
+   Original line: Sean Moore Defensive Line Coach/Special Teams smoore2@fandm.edu
+
+18. Zach Handy
+   Email: zhandy@fandm.edu
+   Username: zhandy
+   Sports: Football
+   Title: Offensive Line Coach/Recruiting
+   Original line: Zach Handy Offensive Line Coach/Recruiting zhandy@fandm.edu
+
+19. Owen Walsh
+   Email: owalsh@fandm.edu
+   Username: owalsh
+   Sports: Football
+   Title: Linebackers Coach
+   Original line: Owen Walsh '24 Linebackers Coach owalsh@fandm.edu
+
+20. Chilamo Taylor
+   Email: ctaylor2@fandm.edu
+   Username: ctaylor2
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Chilamo Taylor '24 Wide Receivers Coach ctaylor2@fandm.edu
+
+21. Andy Loucks
+   Email: aloucks@fandm.edu
+   Username: aloucks
+   Sports: Football
+   Title: Tight Ends Coach
+   Original line: Andy Loucks Tight Ends Coach aloucks@fandm.edu
+
+22. Mitch Wagner
+   Email: mwagner2@fandm.edu
+   Username: mwagner2
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Mitch Wagner '24 Running Backs Coach mwagner2@fandm.edu
+
+23. Frank Fuller
+   Email: ffuller@fandm.edu
+   Username: ffuller
+   Sports: Football
+   Title: Leadership Coach
+   Original line: Frank Fuller Leadership Coach ffuller@fandm.edu
+
+24. Deryl Denlinger
+   Email: deryl.denlinger@fandm.edu
+   Username: deryl.denlinger
+   Sports: Football
+   Title: Head Coach
+   Original line: Deryl Denlinger Head Coach deryl.denlinger@fandm.edu 717-
+
+25. Andy Tompos
+   Email: andrew.tompos@fandm.edu
+   Username: andrew.tompos
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Andy Tompos '69 Assistant Coach andrew.tompos@fandm.edu
+
+26. Ken Ord
+   Email: kenneth.ord@fandm.edu
+   Username: kenneth.ord
+   Sports: Football
+   Title: Head Coach
+   Original line: Ken Ord Head Coach kenneth.ord@fandm.edu 717-
+
+27. Todd Cavallaro
+   Email: todd.cavallaro@fandm.edu
+   Username: todd.cavallaro
+   Sports: Football
+   Title: Head Coach
+   Original line: Todd Cavallaro Head Coach todd.cavallaro@fandm.edu 717-
+
+28. Nolan Sachs
+   Email: nsachs@fandm.edu
+   Username: nsachs
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nolan Sachs Assistant Coach nsachs@fandm.edu
+
+29. Rich Lefever
+   Email: rlefever@fandm.edu
+   Username: rlefever
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Rich Lefever Assistant Coach rlefever@fandm.edu
+
+30. Renee Dowd
+   Email: rdowd@fandm.edu
+   Username: rdowd
+   Sports: Football
+   Title: Head Coach
+   Original line: Renee Dowd Head Coach rdowd@fandm.edu
+
+31. Julie Gardner
+   Email: jgardner@fandm.edu
+   Username: jgardner
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Julie Gardner Assistant Coach jgardner@fandm.edu
+
+32. Bob Brady
+   Email: robert.brady@fandm.edu
+   Username: robert.brady
+   Sports: Football
+   Title: Head Coach
+   Original line: Bob Brady Head Coach robert.brady@fandm.edu 717-
+
+33. Dan Wagner
+   Email: dan.wagner@fandm.edu
+   Username: dan.wagner
+   Sports: Football
+   Title: Head Coach
+   Original line: Dan Wagner Head Coach dan.wagner@fandm.edu 717-
+
+34. Donnie Spangler
+   Email: donald.spangler@fandm.edu
+   Username: donald.spangler
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Donnie Spangler Assistant Coach donald.spangler@fandm.edu 717-
+
+35. Gio Van
+   Email: mvanhees@fandm.edu
+   Username: mvanhees
+   Sports: Football
+   Title: Heesewijk Assistant Coach
+   Original line: Gio Van Heesewijk Assistant Coach mvanhees@fandm.edu
+
+36. John Sumoski
+   Email: jsumoski@fandm.edu
+   Username: jsumoski
+   Sports: Football
+   Title: Head Coach
+   Original line: John Sumoski Head Coach jsumoski@fandm.edu 717-
+
+37. Chris Ackerman
+   Email: cackerma@fandm.edu
+   Username: cackerma
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Chris Ackerman Assistant Coach cackerma@fandm.edu
+
+38. Dina Henry
+   Email: dhenry@fandm.edu
+   Username: dhenry
+   Sports: Softball
+   Title: Head Coach
+   Original line: Dina Henry '94 Head Coach dhenry@fandm.edu
+
+39. Ryan Spang
+   Email: rspang@fandm.edu
+   Username: rspang
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ryan Spang Assistant Coach rspang@fandm.edu
+
+40. Joe Acquaviva
+   Email: joseph.acquaviva@fandm.edu
+   Username: joseph.acquaviva
+   Sports: Softball
+   Title: Head Coach
+   Original line: Joe Acquaviva Head Coach joseph.acquaviva@fandm.edu 717-
+
+41. Lauren Myers
+   Email: lauren.myers@fandm.edu
+   Username: lauren.myers
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Lauren Myers Assistant Coach lauren.myers@fandm.edu
+
+42. Katina Jones
+   Email: kjones5@fandm.edu
+   Username: kjones5
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Katina Jones Assistant Coach kjones5@fandm.edu
+
+43. Carl Schnabel
+   Email: carl.schnabel@fandm.edu
+   Username: carl.schnabel
+   Sports: Softball
+   Title: Head Coach
+   Original line: Carl Schnabel Head Coach carl.schnabel@fandm.edu 717-
+
+44. John Stoudt
+   Email: john.d.stoudt@fandm.edu
+   Username: john.d.stoudt
+   Sports: Softball
+   Title: Head Coach Cross Country /
+   Original line: John Stoudt Head Coach Cross Country / john.d.stoudt@fandm.edu 717-
+
+45. Paul Wagner
+   Email: paul.wagner@fandm.edu
+   Username: paul.wagner
+   Sports: Softball
+   Title: Assistant Coach - Recruiting
+   Original line: Paul Wagner Assistant Coach - Recruiting paul.wagner@fandm.edu
+
+46. Mary Salko
+   Email: marykate.boland@fandm.edu
+   Username: marykate.boland
+   Sports: Volleyball
+   Title: Head Coach/Senior Woman
+   Original line: Mary Kate Salko '01 Head Coach/Senior Woman marykate.boland@fandm.edu 717-
+
+47. Chris Salko
+   Email: christopher.salko@fandm.edu
+   Username: christopher.salko
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Chris Salko Assistant Coach christopher.salko@fandm.edu
+
+48. Mike Phillips
+   Email: mrogers@fandm.edu
+   Username: mrogers
+   Sports: Volleyball
+   Title: Wrestling Coach
+   Original line: Mike Rogers W. Roy Phillips ’34 Wrestling Coach mrogers@fandm.edu 717-
+
+49. Steve Borja
+   Email: sborja@fandm.edu
+   Username: sborja
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Steve Borja Assistant Coach sborja@fandm.edu 717-
+
+50. Tyson Dippery
+   Email: tyson.dippery@fandm.edu
+   Username: tyson.dippery
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Tyson Dippery Assistant Coach tyson.dippery@fandm.edu
+
+51. Cherelle Simmons
+   Email: 
+   Username: cherelle.simmons
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cherelle Simmons Assistant Coach
+
+52.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Assistant Coach - Distance
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach - Distance (Track) 358-
+
+53. Chris Goodling
+   Email: 
+   Username: chris.goodling
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Goodling Assistant Coach
+
+54. Maura Tucker
+   Email: 
+   Username: maura.tucker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Maura Tucker Assistant Coach
+
+55. Gabrielle Nolt
+   Email: 
+   Username: gabrielle.nolt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gabrielle Nolt Assistant Coach
+
+56. Ashley Noel
+   Email: 
+   Username: ashley.noel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ashley Noel Assistant Coach
+
+57. King Knox
+   Email: 
+   Username: king.knox
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: King Knox '65 Assistant Coach
+
+58. Nick Kirk
+   Email: 
+   Username: nick.kirk
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Kirk Assistant Coach
+
+59. Kyle McCormick
+   Email: 
+   Username: kyle.mccormick
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle McCormick '21 Assistant Coach
+
+60. Chris Tongel
+   Email: 
+   Username: chris.tongel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chris Tongel Assistant Coach
+
+61. Joe Madrid
+   Email: 
+   Username: joe.madrid
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Madrid Assistant Coach
+
+62. Anna Rosenberg
+   Email: 
+   Username: anna.rosenberg
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anna Rosenberg Assistant Coach
+
+63. Mark Wagner
+   Email: 
+   Username: mark.wagner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mark Wagner Assistant Coach
+
+64. Ryan Butler
+   Email: 
+   Username: ryan.butler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Butler Assistant Coach
+
+65. Ryan Lantzy
+   Email: 
+   Username: ryan.lantzy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Lantzy Assistant Coach
+
+66. Emily Eyler
+   Email: 
+   Username: emily.eyler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emily Eyler Assistant Coach
+
+67. Jon Goalkeeper
+   Email: 
+   Username: jon.goalkeeper
+   Sports: Soccer
+   Title: Jon Martin Goalkeeper Coach
+   Original line: Jon Martin Goalkeeper Coach
+
+68. Olivia Monismith
+   Email: 
+   Username: olivia.monismith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Olivia Monismith Assistant Coach
+
+69. Oliver Lu
+   Email: 
+   Username: oliver.lu
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Oliver Lu Assistant Coach
+
+70. Gavin Jones
+   Email: gavin.jones@fandm.edu
+   Username: gavin.jones
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dr.Bob Falk '67 Volunteer Assistant Coach gavin.jones@fandm.edu
+
+71. JD Abercrombie
+   Email: 
+   Username: jd.abercrombie
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: JD Abercrombie Assistant Coach
+
+72. Casey Coble
+   Email: 
+   Username: casey.coble
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Casey Coble Assistant Coach
+
+73. TBA 
+   Email: 
+   Username: tba
+   Sports: Soccer
+   Title: Head Coach
+   Original line: TBA TBA Head Coach
+
+74. Frank Yanni
+   Email: 
+   Username: frank.yanni
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Frank Yanni Assistant Coach
+
+75. Kwame Jumps
+   Email: 
+   Username: kwame.jumps
+   Sports: Soccer
+   Title: Kwame Smith Speed & Jumps Coach
+   Original line: Kwame Smith Speed & Jumps Coach
+
+76. Caroline Boehm
+   Email: 
+   Username: caroline.boehm
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caroline Boehm Assistant Coach
+
+77. Stephen Loiseau
+   Email: 
+   Username: stephen.loiseau
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Stephen Loiseau Assistant Coach
+
+78. Jack Bruce
+   Email: 
+   Username: jack.bruce
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jack Bruce '23 Assistant Coach
+
+79. Russ McDonnell
+   Email: 
+   Username: russ.mcdonnell
+   Sports: Strength & Conditioning
+   Title: Russ McDonnell Strength and Conditioning Coach
+   Original line: Russ McDonnell Strength and Conditioning Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mary Kate Salko '01 Head Coach/Senior Woman marykate.boland@fandm.edu 717-
+• Sean Doherty Performance Enhancement Coach sdoherty@fandm.edu 717-
+• Ryan Horning Head Coach rhorning@fandm.edu 717-
+• Matt Riebesell Assistant Coach mriebese@fandm.edu
+• Matt Scheuing Assistant Coach mscheuin@fandm.edu 717-
+• Nick Nichay Head Coach nnichay@fandm.edu 717-
+• Matt Walsh Assistant Coach mwalsh3@fandm.edu 717-
+• Zach Tuori Assistant Coach ztuori@fandm.edu
+• Brianna Spector Head Coach bspector@fandm.edu 717-
+• Jacob Robinson Assistant Coach jrobins1@fandm.edu
+• John Stoudt Head Coach Cross Country / john.d.stoudt@fandm.edu 717-
+• Kaitlyn Eager Head Coach kaitlyn.hamilton@fandm.edu 717-
+• Jayme Goldkind Assistant Coach jgoldkin@fandm.edu
+• Sarah Schannauer '18 Assistant Coach sschanna@fandm.edu
+• Erin McCormick '20 Assistant Coach ecoverda@fandm.edu
+• Michael Phelan Head Coach mphelan2@fandm.edu 717-
+• Sean Moore Defensive Line Coach/Special Teams smoore2@fandm.edu
+• Zach Handy Offensive Line Coach/Recruiting zhandy@fandm.edu
+• Owen Walsh '24 Linebackers Coach owalsh@fandm.edu
+• Chilamo Taylor '24 Wide Receivers Coach ctaylor2@fandm.edu
+• Andy Loucks Tight Ends Coach aloucks@fandm.edu
+• Mitch Wagner '24 Running Backs Coach mwagner2@fandm.edu
+• Frank Fuller Leadership Coach ffuller@fandm.edu
+• Deryl Denlinger Head Coach deryl.denlinger@fandm.edu 717-
+• Andy Tompos '69 Assistant Coach andrew.tompos@fandm.edu
+• Ken Ord Head Coach kenneth.ord@fandm.edu 717-
+• Todd Cavallaro Head Coach todd.cavallaro@fandm.edu 717-
+• Nolan Sachs Assistant Coach nsachs@fandm.edu
+• Rich Lefever Assistant Coach rlefever@fandm.edu
+• Renee Dowd Head Coach rdowd@fandm.edu
+• Julie Gardner Assistant Coach jgardner@fandm.edu
+• Bob Brady Head Coach robert.brady@fandm.edu 717-
+• Dan Wagner Head Coach dan.wagner@fandm.edu 717-
+• Donnie Spangler Assistant Coach donald.spangler@fandm.edu 717-
+• Gio Van Heesewijk Assistant Coach mvanhees@fandm.edu
+• John Sumoski Head Coach jsumoski@fandm.edu 717-
+• Chris Ackerman Assistant Coach cackerma@fandm.edu
+• Dina Henry '94 Head Coach dhenry@fandm.edu
+• Ryan Spang Assistant Coach rspang@fandm.edu
+• Joe Acquaviva Head Coach joseph.acquaviva@fandm.edu 717-
+• Lauren Myers Assistant Coach lauren.myers@fandm.edu
+• Katina Jones Assistant Coach kjones5@fandm.edu
+• Carl Schnabel Head Coach carl.schnabel@fandm.edu 717-
+• John Stoudt Head Coach Cross Country / john.d.stoudt@fandm.edu 717-
+• Paul Wagner Assistant Coach - Recruiting paul.wagner@fandm.edu
+• Mary Kate Salko '01 Head Coach/Senior Woman marykate.boland@fandm.edu 717-
+• Chris Salko Assistant Coach christopher.salko@fandm.edu
+• Mike Rogers W. Roy Phillips ’34 Wrestling Coach mrogers@fandm.edu 717-
+• Steve Borja Assistant Coach sborja@fandm.edu 717-
+• Tyson Dippery Assistant Coach tyson.dippery@fandm.edu
