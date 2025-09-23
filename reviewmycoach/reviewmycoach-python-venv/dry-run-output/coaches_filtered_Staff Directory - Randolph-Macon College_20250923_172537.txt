@@ -1,0 +1,404 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:37
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Randolph-Macon College
+Organization: Randolph-Macon College Athletics
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. MK Geratowski
+   Email: mkgeratowski@rmc.edu
+   Username: mkgeratowski
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: MK Geratowski Head Women's Lacrosse Coach, Assistant AD, Senior mkgeratowski@rmc.edu 804-752-
+
+2. Jessica Weiss
+   Email: JessicaWeiss@rmc.edu
+   Username: JessicaWeiss
+   Sports: Track & Field, Hockey
+   Title: Head Field Hockey Coach
+   Original line: Jessica Weiss Head Field Hockey Coach, Creative Content Specialist JessicaWeiss@rmc.edu 804-752-
+
+3. Ray Hedrick
+   Email: Baseball@rmc.edu
+   Username: Baseball
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: 804.752.7303
+   Original line: Ray Hedrick Head Baseball Coach Baseball@rmc.edu 804.752.7303
+
+4. Kevin Mooney
+   Email: Baseball@rmc.edu
+   Username: Baseball
+   Sports: Baseball
+   Title: Assistant Baseball Coach/Recruiting Coordinator/Director
+   Original line: Kevin Mooney Assistant Baseball Coach/Recruiting Coordinator/Director Baseball@rmc.edu
+
+5. Jake Zappia
+   Email: JakeZappia@rmc.edu
+   Username: JakeZappia
+   Sports: Baseball
+   Title: Pitching Coach
+   Original line: Jake Zappia Pitching Coach JakeZappia@rmc.edu
+
+6. Jessica Weiss
+   Email: JessicaWeiss@rmc.edu
+   Username: JessicaWeiss
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Jessica Weiss Head Field Hockey Coach, Creative Content Specialist JessicaWeiss@rmc.edu 804-752-
+
+7. Teresita Ambrogi-Torres
+   Email: TeresitaAmbrogiT@rmc.edu
+   Username: TeresitaAmbrogiT
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Teresita Ambrogi-Torres ‘21 Assistant Field Hockey Coach TeresitaAmbrogiT@rmc.edu 804-752-
+
+8. Pedro Arruza
+   Email: parruza@rmc.edu
+   Username: parruza
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Pedro Arruza Head Football Coach parruza@rmc.edu
+
+9. Bryce Neuse
+   Email: BryceNeuse@rmc.edu
+   Username: BryceNeuse
+   Sports: Football
+   Title: Running Backs/Assistant Strength Coach
+   Original line: Bryce Neuse Running Backs/Assistant Strength Coach BryceNeuse@rmc.edu
+
+10. Josh Merkel
+   Email: JoshMerkel@rmc.edu
+   Username: JoshMerkel
+   Sports: Football
+   Title: Head Men's Basketball Coach
+   Original line: Josh Merkel Head Men's Basketball Coach JoshMerkel@rmc.edu 804-752-
+
+11. Connor Roswech
+   Email: ConnorRoswech@rmc.edu
+   Username: ConnorRoswech
+   Sports: Football
+   Title: Assistant Men's Basketball Coach
+   Original line: Connor Roswech Assistant Men's Basketball Coach ConnorRoswech@rmc.edu
+
+12. Wyatt Hockenberry
+   Email: WyattHockenberry@rmc.edu
+   Username: WyattHockenberry
+   Sports: Football
+   Title: Assistant Men's Basketball Coach
+   Original line: Wyatt Hockenberry Assistant Men's Basketball Coach WyattHockenberry@rmc.edu
+
+13. J.B. Sheridan
+   Email: jbsheridan@rmc.edu
+   Username: jbsheridan
+   Sports: Football
+   Title: Head Men's Lacrosse Coach
+   Phone: 804.752.3784
+   Original line: J.B. Sheridan Head Men's Lacrosse Coach jbsheridan@rmc.edu 804.752.3784
+
+14. Ryan Rohde
+   Email: RyanRohde@rmc.edu
+   Username: RyanRohde
+   Sports: Football
+   Title: Associate Head Men's Lacrosse Coach
+   Original line: Ryan Rohde Associate Head Men's Lacrosse Coach RyanRohde@rmc.edu
+
+15. Josh Laux
+   Email: JoshLaux@rmc.edu
+   Username: JoshLaux
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Josh Laux Head Men's Soccer Coach JoshLaux@rmc.edu 434-603-
+
+16. Evan Blow
+   Email: evanblow@rmc.edu
+   Username: evanblow
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Evan Blow Assistant Men's Soccer Coach evanblow@rmc.edu
+
+17. Brent Kintzer
+   Email: brentkintzer@rmc.edu
+   Username: brentkintzer
+   Sports: Football
+   Title: Head Swimming Coach
+   Phone: 804.752.3104
+   Original line: Brent Kintzer Head Swimming Coach brentkintzer@rmc.edu 804.752.3104
+
+18. Paul Datovech
+   Email: pauldatovech@rmc.edu
+   Username: pauldatovech
+   Sports: Football
+   Title: Assistant Swimming Coach
+   Original line: Paul Datovech Assistant Swimming Coach pauldatovech@rmc.edu
+
+19. Charles Gray
+   Email: cgray@rmc.edu
+   Username: cgray
+   Sports: Football
+   Title: Head Men's Tennis Coach
+   Phone: 804.248.0231
+   Original line: Charles Gray Head Men's Tennis Coach cgray@rmc.edu 804.248.0231
+
+20. Christian Taylor
+   Email: christiantaylor@rmc.edu
+   Username: christiantaylor
+   Sports: Football
+   Title: Head Coach
+   Original line: Christian Taylor Head Coach christiantaylor@rmc.edu 804-752-
+
+21. Krysti Maronski-Neufeldt
+   Email: KrystiNeufeldt@rmc.edu
+   Username: KrystiNeufeldt
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Krysti Maronski-Neufeldt Head Softball Coach KrystiNeufeldt@rmc.edu
+
+22. Sami Davidson
+   Email: SamiDavidson@rmc.edu
+   Username: SamiDavidson
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Sami Davidson Assistant Softball Coach SamiDavidson@rmc.edu
+
+23. Lindsey Burke-Eberhart
+   Email: lindseyburke@rmc.edu
+   Username: lindseyburke
+   Sports: Softball
+   Title: Head Women's Basketball Coach
+   Original line: Lindsey Burke-Eberhart Head Women's Basketball Coach lindseyburke@rmc.edu 804-752-
+
+24. Jenna Stanton
+   Email: jennastanton@rmc.edu
+   Username: jennastanton
+   Sports: Softball
+   Title: Assistant Women's Basketball Coach
+   Original line: Jenna Stanton Assistant Women's Basketball Coach jennastanton@rmc.edu
+
+25. Joe Lostumbo
+   Email: JoeLostumbo@rmc.edu
+   Username: JoeLostumbo
+   Sports: Softball
+   Title: Associate Head Coach
+   Original line: Joe Lostumbo Associate Head Coach JoeLostumbo@rmc.edu
+
+26. MK Geratowski
+   Email: mkgeratowski@rmc.edu
+   Username: mkgeratowski
+   Sports: Softball
+   Title: s Lacrosse Coach
+   Original line: MK Geratowski Head Women's Lacrosse Coach, Assistant AD, Senior mkgeratowski@rmc.edu 804-752-
+
+27. Patrick Corbett
+   Email: patrickcorbett@rmc.edu
+   Username: patrickcorbett
+   Sports: Softball
+   Title: Head Women's Soccer Coach
+   Original line: Patrick Corbett Head Women's Soccer Coach patrickcorbett@rmc.edu
+
+28. Marisa Lamb
+   Email: marisalamb@rmc.edu
+   Username: marisalamb
+   Sports: Softball
+   Title: Assistant Women's Soccer Coach
+   Original line: Marisa Lamb Assistant Women's Soccer Coach marisalamb@rmc.edu
+
+29. Brent Kintzer
+   Email: brentkintzer@rmc.edu
+   Username: brentkintzer
+   Sports: Softball
+   Title: Head Swimming Coach
+   Phone: 804.752.3104
+   Original line: Brent Kintzer Head Swimming Coach brentkintzer@rmc.edu 804.752.3104
+
+30. Paul Datovech
+   Email: pauldatovech@rmc.edu
+   Username: pauldatovech
+   Sports: Softball
+   Title: Assistant Swimming Coach
+   Original line: Paul Datovech Assistant Swimming Coach pauldatovech@rmc.edu
+
+31. Sam Varner
+   Email: SamVarner@rmc.edu
+   Username: SamVarner
+   Sports: Softball
+   Title: Head Women's Tennis Coach
+   Original line: Sam Varner Head Women's Tennis Coach SamVarner@rmc.edu 804-752-
+
+32. Kelsey Goodman
+   Email: KelseyGoodman@rmc.edu
+   Username: KelseyGoodman
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Kelsey Goodman Head Women's Volleyball Coach KelseyGoodman@rmc.edu
+
+33. Alexandria Thees
+   Email: AllyThees@rmc.edu
+   Username: AllyThees
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Alexandria Thees Assistant Women's Volleyball Coach AllyThees@rmc.edu
+
+34. Noah Jackson
+   Email: NJackson@rmc.edu
+   Username: NJackson
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Shawn Boggs Assistant Men's Basketball Coach NJackson@rmc.edu
+
+35. Cole Churchill
+   Email: 
+   Username: cole.churchill
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cole Churchill '19 Assistant Coach
+
+36. Tim Rowe
+   Email: 
+   Username: tim.rowe
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tim Rowe Assistant Coach
+
+37. Taylor Koppens
+   Email: 
+   Username: taylor.koppens
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taylor Koppens Assistant Coach
+
+38. AJ Volunteer
+   Email: 
+   Username: aj.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: AJ McNemar Volunteer Assistant Coach
+
+39. Irby White
+   Email: 
+   Username: irby.white
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Irby White Assistant Men's Soccer Coach
+
+40. Colton Howell
+   Email: 
+   Username: colton.howell
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Colton Howell Assistant Men's Soccer Coach
+
+41. Celia Goalkeeper
+   Email: 
+   Username: celia.goalkeeper
+   Sports: Soccer
+   Title: s Soccer Goalkeeper Coach
+   Original line: Celia Mosier Men's & Women's Soccer Goalkeeper Coach
+
+42. Sammy Student
+   Email: 
+   Username: sammy.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sammy Beitz Student Assistant Coach
+
+43. Max Presley
+   Email: 
+   Username: max.presley
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Max Presley Assistant Men's Tennis Coach
+
+44. John Dinardi
+   Email: 
+   Username: john.dinardi
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: John Dinardi Assistant Men's Tennis Coach
+
+45. Aaron Volunteer
+   Email: 
+   Username: aaron.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aaron Milstead Volunteer Assistant Coach
+
+46. Hunter Volunteer
+   Email: 
+   Username: hunter.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hunter Taylor Volunteer Assistant Coach
+
+47. Travis Volunteer
+   Email: 
+   Username: travis.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Travis Williams Volunteer Assistant Coach
+
+48. Molly Pitching
+   Email: 
+   Username: molly.pitching
+   Sports: Soccer
+   Title: Molly Grube Pitching Coach
+   Original line: Molly Grube Pitching Coach
+
+49. Payton Cronen
+   Email: 
+   Username: payton.cronen
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Payton Cronen Assistant Women's Basketball Coach
+
+50. Olivia 
+   Email: 
+   Username: olivia
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Olivia Bowling '16 Assistant Women's Golf Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• MK Geratowski Head Women's Lacrosse Coach, Assistant AD, Senior mkgeratowski@rmc.edu 804-752-
+• Jessica Weiss Head Field Hockey Coach, Creative Content Specialist JessicaWeiss@rmc.edu 804-752-
+• Ray Hedrick Head Baseball Coach Baseball@rmc.edu 804.752.7303
+• Kevin Mooney Assistant Baseball Coach/Recruiting Coordinator/Director Baseball@rmc.edu
+• Jake Zappia Pitching Coach JakeZappia@rmc.edu
+• Jessica Weiss Head Field Hockey Coach, Creative Content Specialist JessicaWeiss@rmc.edu 804-752-
+• Teresita Ambrogi-Torres ‘21 Assistant Field Hockey Coach TeresitaAmbrogiT@rmc.edu 804-752-
+• Pedro Arruza Head Football Coach parruza@rmc.edu
+• Bryce Neuse Running Backs/Assistant Strength Coach BryceNeuse@rmc.edu
+• Josh Merkel Head Men's Basketball Coach JoshMerkel@rmc.edu 804-752-
+• Connor Roswech Assistant Men's Basketball Coach ConnorRoswech@rmc.edu
+• Wyatt Hockenberry Assistant Men's Basketball Coach WyattHockenberry@rmc.edu
+• J.B. Sheridan Head Men's Lacrosse Coach jbsheridan@rmc.edu 804.752.3784
+• Ryan Rohde Associate Head Men's Lacrosse Coach RyanRohde@rmc.edu
+• Josh Laux Head Men's Soccer Coach JoshLaux@rmc.edu 434-603-
+• Evan Blow Assistant Men's Soccer Coach evanblow@rmc.edu
+• Brent Kintzer Head Swimming Coach brentkintzer@rmc.edu 804.752.3104
+• Paul Datovech Assistant Swimming Coach pauldatovech@rmc.edu
+• Charles Gray Head Men's Tennis Coach cgray@rmc.edu 804.248.0231
+• Christian Taylor Head Coach christiantaylor@rmc.edu 804-752-
+• Krysti Maronski-Neufeldt Head Softball Coach KrystiNeufeldt@rmc.edu
+• Sami Davidson Assistant Softball Coach SamiDavidson@rmc.edu
+• Lindsey Burke-Eberhart Head Women's Basketball Coach lindseyburke@rmc.edu 804-752-
+• Jenna Stanton Assistant Women's Basketball Coach jennastanton@rmc.edu
+• Joe Lostumbo Associate Head Coach JoeLostumbo@rmc.edu
+• MK Geratowski Head Women's Lacrosse Coach, Assistant AD, Senior mkgeratowski@rmc.edu 804-752-
+• Patrick Corbett Head Women's Soccer Coach patrickcorbett@rmc.edu
+• Marisa Lamb Assistant Women's Soccer Coach marisalamb@rmc.edu
+• Brent Kintzer Head Swimming Coach brentkintzer@rmc.edu 804.752.3104
+• Paul Datovech Assistant Swimming Coach pauldatovech@rmc.edu
+• Sam Varner Head Women's Tennis Coach SamVarner@rmc.edu 804-752-
+• Kelsey Goodman Head Women's Volleyball Coach KelseyGoodman@rmc.edu
+• Alexandria Thees Assistant Women's Volleyball Coach AllyThees@rmc.edu

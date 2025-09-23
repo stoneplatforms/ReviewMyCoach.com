@@ -1,0 +1,314 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:15
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Virginia Military Institute
+Organization: Virginia Military Institute Athletics
+
+Total coaches found: 38
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sam Roberts
+   Email: robertsjs@vmi.edu
+   Username: robertsjs
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Sam Roberts Head Coach 540-464- robertsjs@vmi.edu
+
+2. Alex Pitching
+   Email: crosbyac@vmi.edu
+   Username: crosbyac
+   Sports: Baseball
+   Title: Coach
+   Original line: Alex Crosby Pitching Coach 540-464- crosbyac@vmi.edu
+
+3. Ryan Smoot
+   Email: smootrc@vmi.edu
+   Username: smootrc
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Ryan Smoot Assistant Coach/Recruiting Coordinator 540-464- smootrc@vmi.edu
+
+4. Trey Lyons
+   Email: lyonst@vmi.edu
+   Username: lyonst
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Trey Lyons Assistant Coach 540-464- lyonst@vmi.edu
+
+5. Xavier Silas
+   Email: silasx@vmi.edu
+   Username: silasx
+   Sports: Basketball
+   Title: Head Coach / Offensive Coordinator
+   Original line: Xavier Silas Associate Head Coach / Offensive Coordinator 540-464- silasx@vmi.edu
+
+6. Paul Harrison
+   Email: harrisonpj@vmi.edu
+   Username: harrisonpj
+   Sports: Basketball
+   Title: Assistant Coach / Defensive Coordinator
+   Original line: Paul Harrison Assistant Coach / Defensive Coordinator 540-464- harrisonpj@vmi.edu
+
+7. Austin Kenon
+   Email: kenonam@vmi.edu
+   Username: kenonam
+   Sports: Basketball
+   Title: Assistant Coach / Recruiting Coordinator
+   Original line: Austin Kenon Assistant Coach / Recruiting Coordinator 540-464- kenonam@vmi.edu
+
+8. Nick Korta
+   Email: kortanm@vmi.edu
+   Username: kortanm
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Nick Korta Assistant Coach 540-464- kortanm@vmi.edu
+
+9. Michael Caswell
+   Email: caswellmd@vmi.edu
+   Username: caswellmd
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Michael Caswell Assistant Coach 540-464- caswellmd@vmi.edu
+
+10. Tony Skiles
+   Email: skilesaj@vmi.edu
+   Username: skilesaj
+   Sports: Cross Country
+   Title: Head Cross Country Coach
+   Original line: Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+
+11. Tony Skiles
+   Email: skilesaj@vmi.edu
+   Username: skilesaj
+   Sports: Cross Country
+   Title: Head Cross Country Coach
+   Original line: Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+
+12. Greg Meyer
+   Email: meyergc@vmi.edu
+   Username: meyergc
+   Sports: Football
+   Title: Head Coach/Quarterbacks/Pass Game Coordinator
+   Original line: Greg Meyer Assistant Head Coach/Quarterbacks/Pass Game Coordinator 540-464- meyergc@vmi.edu
+
+13. Taylor Mendoza
+   Email: mendozata@vmi.edu
+   Username: mendozata
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Taylor Mendoza Head Coach 540-464- mendozata@vmi.edu
+
+14. Lt Bither
+   Email: bitherwf@vmi.edu
+   Username: bitherwf
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Lt. Col. Bill Bither Head Coach 540-464- bitherwf@vmi.edu
+
+15. Lt Bither
+   Email: bitherwf@vmi.edu
+   Username: bitherwf
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Lt. Col. Bill Bither Head Coach 540-464- bitherwf@vmi.edu
+
+16. Nick Regan
+   Email: regannj@vmi.edu
+   Username: regannj
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Nick Regan Head Coach 540-464- regannj@vmi.edu
+
+17. Jacob Wyrick
+   Email: wyrickjd@vmi.edu
+   Username: wyrickjd
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jacob Wyrick Assistant Coach 540-464- wyrickjd@vmi.edu
+
+18. Jim Robbins
+   Email: robbinsjc@vmi.edu
+   Username: robbinsjc
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jim Robbins Head Coach 540-464- robbinsjc@vmi.edu
+
+19. Heather Faasse
+   Email: faasseh@vmi.edu
+   Username: faasseh
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Heather Faasse Associate Head Coach 540-464- faasseh@vmi.edu
+
+20. Scott Thacker
+   Email: thackergs@vmi.edu
+   Username: thackergs
+   Sports: Swimming
+   Title: Head Swimming Coach
+   Original line: Scott Thacker Head Swimming Coach 540-464- thackergs@vmi.edu
+
+21. Kyle Friesenhahn
+   Email: friesenhahnkh@vmi.edu
+   Username: friesenhahnkh
+   Sports: Swimming
+   Title: Head Diving Coach
+   Original line: Kyle Friesenhahn Head Diving Coach 540-464- friesenhahnkh@vmi.edu
+
+22. Cayce Friesenhahn
+   Email: friesenhahnce@vmi.edu
+   Username: friesenhahnce
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Cayce Friesenhahn Assistant Coach 540-464- friesenhahnce@vmi.edu
+
+23. Scott Thacker
+   Email: thackergs@vmi.edu
+   Username: thackergs
+   Sports: Swimming
+   Title: Head Swimming Coach
+   Original line: Scott Thacker Head Swimming Coach 540-464- thackergs@vmi.edu
+
+24. Kyle Friesenhahn
+   Email: friesenhahnkh@vmi.edu
+   Username: friesenhahnkh
+   Sports: Swimming
+   Title: Head Diving Coach
+   Original line: Kyle Friesenhahn Head Diving Coach 540-464- friesenhahnkh@vmi.edu
+
+25. Cayce Friesenhahn
+   Email: friesenhahnce@vmi.edu
+   Username: friesenhahnce
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Cayce Friesenhahn Assistant Coach 540-464- friesenhahnce@vmi.edu
+
+26. Eddie Williams
+   Email: williamseg@vmi.edu
+   Username: williamseg
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Eddie Williams II Head Women's Track & Field Coach (Sprints/Hurdles/Relays) 540-464- williamseg@vmi.edu
+
+27. Tony Skiles
+   Email: skilesaj@vmi.edu
+   Username: skilesaj
+   Sports: Track & Field
+   Title: Head Cross Country Coach
+   Original line: Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+
+28. Eddie Williams
+   Email: williamseg@vmi.edu
+   Username: williamseg
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Eddie Williams II Head Women's Track & Field Coach (Sprints/Hurdles/Relays) 540-464- williamseg@vmi.edu
+
+29. Tony Skiles
+   Email: skilesaj@vmi.edu
+   Username: skilesaj
+   Sports: Track & Field
+   Title: Head Cross Country Coach
+   Original line: Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+
+30. Danielle Montenegro
+   Email: montenegrod@vmi.edu
+   Username: montenegrod
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Danielle Montenegro Head Coach 540-464- montenegrod@vmi.edu
+
+31. Jim Gibson
+   Email: gibsonjm@vmi.edu
+   Username: gibsonjm
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Jim Gibson Head Coach 540-464- gibsonjm@vmi.edu
+
+32. Ryan Hunsberger
+   Email: hunsbergerjr@vmi.edu
+   Username: hunsbergerjr
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Ryan Hunsberger Assistant Coach 540-464- hunsbergerjr@vmi.edu
+
+33. Andrew Wilson
+   Email: 
+   Username: andrew.wilson
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Andrew Wilson Head Coach
+
+34. Danny Rocco
+   Email: 
+   Username: danny.rocco
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Danny Rocco Head Coach
+
+35. Sam Honig
+   Email: 
+   Username: sam.honig
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sam Honig Assistant Coach
+
+36. Courtney Smith
+   Email: 
+   Username: courtney.smith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Courtney Smith Assistant Coach
+
+37. Gary Thacker
+   Email: 
+   Username: gary.thacker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gary Thacker Assistant Coach
+
+38. Joe Volunteer
+   Email: 
+   Username: joe.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Salinetro Volunteer Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sam Roberts Head Coach 540-464- robertsjs@vmi.edu
+• Alex Crosby Pitching Coach 540-464- crosbyac@vmi.edu
+• Ryan Smoot Assistant Coach/Recruiting Coordinator 540-464- smootrc@vmi.edu
+• Trey Lyons Assistant Coach 540-464- lyonst@vmi.edu
+• Xavier Silas Associate Head Coach / Offensive Coordinator 540-464- silasx@vmi.edu
+• Paul Harrison Assistant Coach / Defensive Coordinator 540-464- harrisonpj@vmi.edu
+• Austin Kenon Assistant Coach / Recruiting Coordinator 540-464- kenonam@vmi.edu
+• Nick Korta Assistant Coach 540-464- kortanm@vmi.edu
+• Michael Caswell Assistant Coach 540-464- caswellmd@vmi.edu
+• Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+• Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+• Greg Meyer Assistant Head Coach/Quarterbacks/Pass Game Coordinator 540-464- meyergc@vmi.edu
+• Taylor Mendoza Head Coach 540-464- mendozata@vmi.edu
+• Lt. Col. Bill Bither Head Coach 540-464- bitherwf@vmi.edu
+• Lt. Col. Bill Bither Head Coach 540-464- bitherwf@vmi.edu
+• Nick Regan Head Coach 540-464- regannj@vmi.edu
+• Jacob Wyrick Assistant Coach 540-464- wyrickjd@vmi.edu
+• Jim Robbins Head Coach 540-464- robbinsjc@vmi.edu
+• Heather Faasse Associate Head Coach 540-464- faasseh@vmi.edu
+• Scott Thacker Head Swimming Coach 540-464- thackergs@vmi.edu
+• Kyle Friesenhahn Head Diving Coach 540-464- friesenhahnkh@vmi.edu
+• Cayce Friesenhahn Assistant Coach 540-464- friesenhahnce@vmi.edu
+• Scott Thacker Head Swimming Coach 540-464- thackergs@vmi.edu
+• Kyle Friesenhahn Head Diving Coach 540-464- friesenhahnkh@vmi.edu
+• Cayce Friesenhahn Assistant Coach 540-464- friesenhahnce@vmi.edu
+• Eddie Williams II Head Women's Track & Field Coach (Sprints/Hurdles/Relays) 540-464- williamseg@vmi.edu
+• Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+• Eddie Williams II Head Women's Track & Field Coach (Sprints/Hurdles/Relays) 540-464- williamseg@vmi.edu
+• Tony Skiles Head Cross Country Coach 540-464- skilesaj@vmi.edu
+• Danielle Montenegro Head Coach 540-464- montenegrod@vmi.edu
+• Jim Gibson Head Coach 540-464- gibsonjm@vmi.edu
+• Ryan Hunsberger Assistant Coach 540-464- hunsbergerjr@vmi.edu

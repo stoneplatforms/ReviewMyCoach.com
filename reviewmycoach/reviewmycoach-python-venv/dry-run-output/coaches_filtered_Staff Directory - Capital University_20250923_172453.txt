@@ -1,0 +1,517 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:54
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Capital University
+Organization: Capital University Athletics
+
+Total coaches found: 66
+
+PARSED ENTRIES:
+----------------------------------------
+1. Anthony Gholson
+   Email: agholson@capital.edu
+   Username: agholson
+   Sports: Basketball
+   Title: Assistant Men's Basketball Coach
+   Original line: Anthony Gholson Assistant Men's Basketball Coach agholson@capital.edu 614-236- @Capital_MBB
+
+2. Matt Ogden
+   Email: mogden@capital.edu
+   Username: mogden
+   Sports: Soccer
+   Title: s Soccer Coach /
+   Original line: Matt Ogden Head Women's Soccer Coach / mogden@capital.edu 614-236- @CAP_WSoc
+
+3. Scott Manahan
+   Email: smanahan@capital.edu
+   Username: smanahan
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Scott Manahan Head Baseball Coach smanahan@capital.edu 614-236- @CUBaseball20
+
+4. Holden Martin
+   Email: hmartin38@capital.edu
+   Username: hmartin38
+   Sports: Baseball
+   Title: Assistant Baseball Coach - Infielders
+   Original line: Holden Martin Assistant Baseball Coach - Infielders, hmartin38@capital.edu 614-236-
+
+5. Duke Dickerson
+   Email: ddickerson11@capital.edu
+   Username: ddickerson11
+   Sports: Baseball
+   Title: Volunteer Assistant Baseball Coach
+   Original line: Duke Dickerson Volunteer Assistant Baseball Coach ddickerson11@capital.edu
+
+6. Damon Goodwin
+   Email: dgoodwin@capital.edu
+   Username: dgoodwin
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Damon Goodwin Head Men's Basketball Coach dgoodwin@capital.edu 614-236-
+
+7. Anthony Gholson
+   Email: agholson@capital.edu
+   Username: agholson
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Anthony Gholson Assistant Men's Basketball Coach agholson@capital.edu 614-236- @Capital_MBB
+
+8. Camille McPherson
+   Email: cmcpherson@capital.edu
+   Username: cmcpherson
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Camille McPherson Head Women's Basketball Coach cmcpherson@capital.edu 614-236- @CapitalWBB
+
+9. Schyler Fennimore
+   Email: sfennimore2@capital.edu
+   Username: sfennimore2
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Schyler Fennimore Assistant Women's Basketball Coach sfennimore2@capital.edu 614-236- @CoachFennimore
+
+10. Jason Wright
+   Email: jwright5@capital.edu
+   Username: jwright5
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Jason Wright Assistant Women's Basketball Coach jwright5@capital.edu
+
+11. Brian Foos
+   Email: bfoos@capital.edu
+   Username: bfoos
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Brian Foos Head Football Coach bfoos@capital.edu 614-236- @CoachFoos
+
+12. D.L. Knock
+   Email: dknock@capital.edu
+   Username: dknock
+   Sports: Football
+   Title: Assistant Football Coach - Wide
+   Original line: D.L. Knock Assistant Football Coach - Wide dknock@capital.edu 614-236- @knockDL
+
+13. Evan Nunez
+   Email: enunez2@capital.edu
+   Username: enunez2
+   Sports: Football
+   Title: Assistant Football Coach - Cornerbacks
+   Original line: Evan Nunez Assistant Football Coach - Cornerbacks enunez2@capital.edu @evan_nunez24
+
+14. Nick Fisanick
+   Email: nfisanick@capital.edu
+   Username: nfisanick
+   Sports: Football
+   Title: Assistant Football Coach - Defensive
+   Original line: Nick Fisanick Assistant Football Coach - Defensive nfisanick@capital.edu 614-236- @Nfisanick34
+
+15. Chance Green
+   Email: cgreen105@capital.edu
+   Username: cgreen105
+   Sports: Football
+   Title: Assistant Football Coach - Quarterbacks
+   Original line: Chance Green Assistant Football Coach - Quarterbacks cgreen105@capital.edu
+
+16. Tight Ends
+   Email: kschweitzer7@capital.edu
+   Username: kschweitzer7
+   Sports: Football
+   Title: Kearstin Schweitzer Assistant Football Coach
+   Original line: Kearstin Schweitzer Assistant Football Coach - Tight Ends kschweitzer7@capital.edu
+
+17. Joe Kucky
+   Email: jkucky@capital.edu
+   Username: jkucky
+   Sports: Football
+   Title: Assistant Football Coach - Linebackers
+   Original line: Joe Kucky Assistant Football Coach - Linebackers jkucky@capital.edu
+
+18. Ayden Langford
+   Email: alangford3@capital.edu
+   Username: alangford3
+   Sports: Football
+   Title: Assistant Football Coach - Offensive
+   Original line: Ayden Langford Assistant Football Coach - Offensive alangford3@capital.edu
+
+19. Andy Garcia
+   Email: agarcia@capital.edu
+   Username: agarcia
+   Sports: Football
+   Title: Head Men's and Women's Golf Coach
+   Original line: Andy Garcia Head Men's and Women's Golf Coach agarcia@capital.edu 614-236-
+
+20. Andy Garcia
+   Email: agarcia@capital.edu
+   Username: agarcia
+   Sports: Football
+   Title: Head Men's and Women's Golf Coach
+   Original line: Andy Garcia Head Men's and Women's Golf Coach agarcia@capital.edu 614-236-
+
+21. Adam Stewart
+   Email: astewart3@capital.edu
+   Username: astewart3
+   Sports: Football
+   Title: Head Men's Lacrosse Coach
+   Original line: Adam Stewart Head Men's Lacrosse Coach astewart3@capital.edu 614-236-
+
+22. Nick Schmidt
+   Email: nschmidt11@capital.edu
+   Username: nschmidt11
+   Sports: Football
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Nick Schmidt Assistant Men's Lacrosse Coach nschmidt11@capital.edu
+
+23. Kara Concheck
+   Email: kconcheck@capital.edu
+   Username: kconcheck
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Kara Concheck Head Women's Lacrosse Coach kconcheck@capital.edu 614-236-
+
+24. Corey Kirk
+   Email: ckirk20@capital.edu
+   Username: ckirk20
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Corey Kirk Head Men's Soccer Coach ckirk20@capital.edu 614-236-
+
+25. Matt Ogden
+   Email: mogden@capital.edu
+   Username: mogden
+   Sports: Football
+   Title: s Soccer Coach /
+   Original line: Matt Ogden Head Women's Soccer Coach / mogden@capital.edu 614-236- @CAP_WSoc
+
+26. Megan Wharton-Dombrowski
+   Email: mwharton2@capital.edu
+   Username: mwharton2
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Megan Wharton-Dombrowski Assistant Women's Soccer Coach mwharton2@capital.edu
+
+27. Geovanny Salinas
+   Email: gsalinas@capital.edu
+   Username: gsalinas
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Geovanny Salinas Assistant Women's Soccer Coach - gsalinas@capital.edu
+
+28. Anna Kirk
+   Email: akirk2@capital.edu
+   Username: akirk2
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Anna Kirk Head Softball Coach akirk2@capital.edu 614-236-
+
+29. Molly Troutman
+   Email: mtroutman@capital.edu
+   Username: mtroutman
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Molly Troutman Assistant Softball Coach mtroutman@capital.edu
+
+30. Jami Pope
+   Email: jpope7@capital.edu
+   Username: jpope7
+   Sports: Softball
+   Title: Assistant Softball Coach / Recruiting
+   Original line: Jami Pope Assistant Softball Coach / Recruiting jpope7@capital.edu 740-504-
+
+31. Bayli Dennison
+   Email: bpope@capital.edu
+   Username: bpope
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Bayli Dennison Assistant Softball Coach bpope@capital.edu
+
+32. Taylor Stanchin
+   Email: tstanchin@capital.edu
+   Username: tstanchin
+   Sports: Softball
+   Title: Head Tennis Coach
+   Original line: Taylor Stanchin Head Tennis Coach tstanchin@capital.edu 614-236-
+
+33. Rosanna Sguerra
+   Email: rsguerra@capital.edu
+   Username: rsguerra
+   Sports: Track & Field
+   Title: Head Volleyball Coach
+   Original line: Rosanna Sguerra Head Volleyball Coach rsguerra@capital.edu 614-236-
+
+34. Adam Bielby
+   Email: abielby@capital.edu
+   Username: abielby
+   Sports: Track & Field
+   Title: Assistant Volleyball Coach
+   Original line: Adam Bielby Assistant Volleyball Coach abielby@capital.edu
+
+35. Emily Drenth
+   Email: edrenth@capital.edu
+   Username: edrenth
+   Sports: Track & Field
+   Title: Assistant Volleyball Coach
+   Original line: Emily Drenth Assistant Volleyball Coach edrenth@capital.edu
+
+36. Sydney Shadburn
+   Email: sshadburn@capital.edu
+   Username: sshadburn
+   Sports: Track & Field
+   Title: Cheerleading Coach
+   Original line: Sydney Shadburn Cheerleading Coach sshadburn@capital.edu
+
+37. Emily Volunteer
+   Email: 
+   Username: emily.volunteer
+   Sports: Baseball
+   Title: Emily Manahan Volunteer Assistant Baseball Coach
+   Original line: Emily Manahan Volunteer Assistant Baseball Coach
+
+38. Dan Volunteer
+   Email: 
+   Username: dan.volunteer
+   Sports: Baseball
+   Title: Dan Briggs Volunteer Assistant Baseball Coach
+   Original line: Dan Briggs Volunteer Assistant Baseball Coach
+
+39. Jeff Volunteer
+   Email: 
+   Username: jeff.volunteer
+   Sports: Baseball
+   Title: Jeff Marietta Volunteer Assistant Baseball Coach
+   Original line: Jeff Marietta Volunteer Assistant Baseball Coach
+
+40. Brady Volunteer
+   Email: 
+   Username: brady.volunteer
+   Sports: Baseball
+   Title: Brady Adamek Volunteer Assistant Baseball Coach
+   Original line: Brady Adamek Volunteer Assistant Baseball Coach
+
+41. Mike Volunteer
+   Email: 
+   Username: mike.volunteer
+   Sports: Baseball
+   Title: Mike Aman Volunteer Assistant Baseball Coach
+   Original line: Mike Aman Volunteer Assistant Baseball Coach
+
+42. Aidan Graduate
+   Email: adebolt3@capital.edu
+   Username: adebolt3
+   Sports: Baseball
+   Title: Jedd Stucky Volunteer Assistant Baseball Coach
+   Original line: Jedd Stucky Volunteer Assistant Baseball Coach adebolt3@capital.edu
+
+43. Chris Volunteer
+   Email: 
+   Username: chris.volunteer
+   Sports: Baseball
+   Title: Chris Bowles Volunteer Assistant Baseball Coach
+   Original line: Chris Bowles Volunteer Assistant Baseball Coach
+
+44. Ryan Coan
+   Email: 
+   Username: ryan.coan
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Ryan Coan Assistant Men's Basketball Coach
+
+45. Anthony Mangette
+   Email: 
+   Username: anthony.mangette
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Anthony Mangette Assistant Men's Basketball Coach
+
+46.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 6151
+
+47.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+48. Paul Brown
+   Email: 
+   Username: paul.brown
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Paul Brown Assistant Coach - Women's Bowling
+
+49. Lilu Smith
+   Email: 
+   Username: lilu.smith
+   Sports: Soccer
+   Title: Assistant Coach - Women
+   Original line: Lilu Smith Assistant Coach - Women's Bowling
+
+50. James Pack
+   Email: 
+   Username: james.pack
+   Sports: Soccer
+   Title: Assistant Coach - Men
+   Original line: James Pack Assistant Coach - Men's Bowling
+
+51. Lance Gordon
+   Email: lgordon30@capital.edu
+   Username: lgordon30
+   Sports: Soccer
+   Title: Assistant Coach - Men
+   Original line: DeMario Wofford Assistant Coach - Men's Bowling lgordon30@capital.edu
+
+52. Ian Kellogg
+   Email: ikellogg2@capital.edu
+   Username: ikellogg2
+   Sports: Track & Field
+   Title: Field Coach
+   Original line: Field Coach 6528 ikellogg2@capital.edu
+
+53.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Field Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Field Coach
+
+54. Jacob Student
+   Email: 
+   Username: jacob.student
+   Sports: Soccer
+   Title: Jacob Hepner Student Assistant Football Coach
+   Original line: Jacob Hepner Student Assistant Football Coach
+
+55. Katie Page
+   Email: 
+   Username: katie.page
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Katie Page Assistant Women's Lacrosse Coach
+
+56. Joe Held
+   Email: 
+   Username: joe.held
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Joe Held Assistant Men's Soccer Coach
+
+57. Paul Garland
+   Email: 
+   Username: paul.garland
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Paul Garland Assistant Men's Soccer Coach
+
+58. Avery Hart
+   Email: 
+   Username: avery.hart
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Avery Hart Assistant Women's Soccer Coach
+
+59. Nikki Cox
+   Email: 
+   Username: nikki.cox
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Nikki Cox Assistant Women's Soccer Coach
+
+60. Mario Suarez
+   Email: 
+   Username: mario.suarez
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Mario Suarez Assistant Women's Soccer Coach
+
+61. Rachel Smith
+   Email: 
+   Username: rachel.smith
+   Sports: Tennis
+   Title: Rachel Smith Assistant Tennis Coach
+   Original line: Rachel Smith Assistant Tennis Coach
+
+62. Fraser Smith
+   Email: 
+   Username: fraser.smith
+   Sports: Track & Field
+   Title: Fraser Smith Assistant Track & Field Coach - Throws
+   Original line: Fraser Smith Assistant Track & Field Coach - Throws
+
+63. Champ Page
+   Email: cpage18@capital.edu
+   Username: cpage18
+   Sports: Track & Field
+   Title: Colby Owen Assistant Track & Field Coach - Throws
+   Original line: Colby Owen Assistant Track & Field Coach - Throws cpage18@capital.edu
+
+64. Chadd Volunteer
+   Email: 
+   Username: chadd.volunteer
+   Sports: Track & Field
+   Title: Chadd Pierce Volunteer Assistant Track & Field Coach
+   Original line: Chadd Pierce Volunteer Assistant Track & Field Coach
+
+65. Chris Volunteer
+   Email: 
+   Username: chris.volunteer
+   Sports: Volleyball
+   Title: Chris McNeeley Volunteer Assistant Volleyball Coach
+   Original line: Chris McNeeley Volunteer Assistant Volleyball Coach
+
+66. Mike Volunteer
+   Email: 
+   Username: mike.volunteer
+   Sports: Volleyball
+   Title: Mike Sage Volunteer Assistant Volleyball Coach
+   Original line: Mike Sage Volunteer Assistant Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Anthony Gholson Assistant Men's Basketball Coach agholson@capital.edu 614-236- @Capital_MBB
+• Matt Ogden Head Women's Soccer Coach / mogden@capital.edu 614-236- @CAP_WSoc
+• Scott Manahan Head Baseball Coach smanahan@capital.edu 614-236- @CUBaseball20
+• Holden Martin Assistant Baseball Coach - Infielders, hmartin38@capital.edu 614-236-
+• Duke Dickerson Volunteer Assistant Baseball Coach ddickerson11@capital.edu
+• Damon Goodwin Head Men's Basketball Coach dgoodwin@capital.edu 614-236-
+• Anthony Gholson Assistant Men's Basketball Coach agholson@capital.edu 614-236- @Capital_MBB
+• Camille McPherson Head Women's Basketball Coach cmcpherson@capital.edu 614-236- @CapitalWBB
+• Schyler Fennimore Assistant Women's Basketball Coach sfennimore2@capital.edu 614-236- @CoachFennimore
+• Jason Wright Assistant Women's Basketball Coach jwright5@capital.edu
+• Brian Foos Head Football Coach bfoos@capital.edu 614-236- @CoachFoos
+• D.L. Knock Assistant Football Coach - Wide dknock@capital.edu 614-236- @knockDL
+• Evan Nunez Assistant Football Coach - Cornerbacks enunez2@capital.edu @evan_nunez24
+• Nick Fisanick Assistant Football Coach - Defensive nfisanick@capital.edu 614-236- @Nfisanick34
+• Chance Green Assistant Football Coach - Quarterbacks cgreen105@capital.edu
+• Kearstin Schweitzer Assistant Football Coach - Tight Ends kschweitzer7@capital.edu
+• Joe Kucky Assistant Football Coach - Linebackers jkucky@capital.edu
+• Ayden Langford Assistant Football Coach - Offensive alangford3@capital.edu
+• Andy Garcia Head Men's and Women's Golf Coach agarcia@capital.edu 614-236-
+• Andy Garcia Head Men's and Women's Golf Coach agarcia@capital.edu 614-236-
+• Adam Stewart Head Men's Lacrosse Coach astewart3@capital.edu 614-236-
+• Nick Schmidt Assistant Men's Lacrosse Coach nschmidt11@capital.edu
+• Kara Concheck Head Women's Lacrosse Coach kconcheck@capital.edu 614-236-
+• Corey Kirk Head Men's Soccer Coach ckirk20@capital.edu 614-236-
+• Matt Ogden Head Women's Soccer Coach / mogden@capital.edu 614-236- @CAP_WSoc
+• Megan Wharton-Dombrowski Assistant Women's Soccer Coach mwharton2@capital.edu
+• Geovanny Salinas Assistant Women's Soccer Coach - gsalinas@capital.edu
+• Anna Kirk Head Softball Coach akirk2@capital.edu 614-236-
+• Molly Troutman Assistant Softball Coach mtroutman@capital.edu
+• Jami Pope Assistant Softball Coach / Recruiting jpope7@capital.edu 740-504-
+• Bayli Dennison Assistant Softball Coach bpope@capital.edu
+• Taylor Stanchin Head Tennis Coach tstanchin@capital.edu 614-236-
+• Rosanna Sguerra Head Volleyball Coach rsguerra@capital.edu 614-236-
+• Adam Bielby Assistant Volleyball Coach abielby@capital.edu
+• Emily Drenth Assistant Volleyball Coach edrenth@capital.edu
+• Sydney Shadburn Cheerleading Coach sshadburn@capital.edu

@@ -1,0 +1,356 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:24
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Shepherd University
+Organization: Shepherd University Athletics
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Andrew Kowalo
+   Email: akowalo@shepherd.edu
+   Username: akowalo
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Andrew Kowalo Head Baseball Coach akowalo@shepherd.edu
+
+2. Zach Guth
+   Email: zguth@shepherd.edu
+   Username: zguth
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Zach Guth Assistant Baseball Coach zguth@shepherd.edu
+
+3. Justin Namolik
+   Email: jnamolik@shepherd.edu
+   Username: jnamolik
+   Sports: Basketball (Men)
+   Title: Head Men's Basketball Coach
+   Phone: (304) 671-2319
+   Original line: Justin Namolik Head Men's Basketball Coach jnamolik@shepherd.edu 304-671-2319
+
+4. Giancarlo Pacheco
+   Email: gpacheco@shepherd.edu
+   Username: gpacheco
+   Sports: Basketball (Men)
+   Title: Assistant Men's Basketball Coach
+   Original line: Giancarlo Pacheco Assistant Men's Basketball Coach gpacheco@shepherd.edu
+
+5. Julie Kaufman
+   Email: jkaufman@shepherd.edu
+   Username: jkaufman
+   Sports: Basketball (Men)
+   Title: Head Women's Basketball Coach
+   Phone: (304) 876-5084
+   Original line: Julie Kaufman Head Women's Basketball Coach jkaufman@shepherd.edu 304-876-5084
+
+6. Josie Daugherty
+   Email: jdaugher@shepherd.edu
+   Username: jdaugher
+   Sports: Basketball (Men)
+   Title: Assistant Women's Basketball Coach
+   Original line: Josie Daugherty Assistant Women's Basketball Coach jdaugher@shepherd.edu
+
+7. Lindsey Bordovsky
+   Email: lbordovs@shepherd.edu
+   Username: lbordovs
+   Sports: Basketball (Men)
+   Title: Assistant Cheerleading Coach
+   Original line: Lindsey Bordovsky Assistant Cheerleading Coach lbordovs@shepherd.edu
+
+8. Ernie McCook
+   Email: emccook@shepherd.edu
+   Username: emccook
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Ernie McCook Head Football Coach emccook@shepherd.edu
+
+9. Josh Kline
+   Email: jkline@shepherd.edu
+   Username: jkline
+   Sports: Football
+   Title: Assistant Head Coach/Defensive Coordinator
+   Original line: Josh Kline Assistant Head Coach/Defensive Coordinator jkline@shepherd.edu
+
+10. Jarrod Kellar
+   Email: jkellar@shepherd.edu
+   Username: jkellar
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Jarrod Kellar Wide Receivers Coach jkellar@shepherd.edu
+
+11. EJ Norris
+   Email: enorris@shepherd.edu
+   Username: enorris
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: EJ Norris Defensive Line Coach enorris@shepherd.edu
+
+12. Chuck Walters
+   Email: cwalters@shepherd.edu
+   Username: cwalters
+   Sports: Cross Country
+   Title: Head Men's Cross Country Coach
+   Original line: Chuck Walters Head Men's Cross Country Coach cwalters@shepherd.edu
+
+13. Liz Kelly
+   Email: ekelly@shepherd.edu
+   Username: ekelly
+   Sports: Cross Country
+   Title: Assistant Men's Cross Country Coach
+   Original line: Liz Kelly Assistant Men's Cross Country Coach ekelly@shepherd.edu
+
+14. Corinne Baronner
+   Email: cbaronne@shepherd.edu
+   Username: cbaronne
+   Sports: Cross Country
+   Title: Assistant Men's Cross Country Coach
+   Original line: Corinne Baronner Assistant Men's Cross Country Coach cbaronne@shepherd.edu
+
+15. Chuck Walters
+   Email: cwalters@shepherd.edu
+   Username: cwalters
+   Sports: Cross Country
+   Title: Head Women's Cross Country Coach
+   Original line: Chuck Walters Head Women's Cross Country Coach cwalters@shepherd.edu
+
+16. Corinne Baronner
+   Email: cbaronne@shepherd.edu
+   Username: cbaronne
+   Sports: Cross Country
+   Title: Assistant Women's Cross Country Coach
+   Original line: Corinne Baronner Assistant Women's Cross Country Coach cbaronne@shepherd.edu
+
+17. Chuck Ingram
+   Email: cingram@shepherd.edu
+   Username: cingram
+   Sports: Cross Country
+   Title: Head Men's Golf Coach
+   Phone: (301) 465-9154
+   Original line: Chuck Ingram Head Men's Golf Coach cingram@shepherd.edu 301-465-9154
+
+18. Dr 
+   Email: mhall@shepherd.edu
+   Username: mhall
+   Sports: Cross Country
+   Title: Melissa Hall Head Women's Golf Coach
+   Phone: (304) 876-5235
+   Original line: Dr. Melissa Hall Head Women's Golf Coach mhall@shepherd.edu 304-876-5235
+
+19. Braxtin Reddinger
+   Email: bredding@shepherd.edu
+   Username: bredding
+   Sports: Lacrosse (Women)
+   Title: Head Women's Lacrosse Coach
+   Original line: Braxtin Reddinger Head Women's Lacrosse Coach bredding@shepherd.edu
+
+20. Marissa Leslie
+   Email: mleslie@shepherd.edu
+   Username: mleslie
+   Sports: Softball
+   Title: Head Softball Coach
+   Phone: (814) 312-0499
+   Original line: Marissa Leslie Head Softball Coach mleslie@shepherd.edu 814-312-0499
+
+21. Allison Baker
+   Email: abaker@shepherd.edu
+   Username: abaker
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Allison Baker Assistant Softball Coach abaker@shepherd.edu
+
+22. Ryan McDougall
+   Email: rmcdouga@shepherd.edu
+   Username: rmcdouga
+   Sports: Soccer (Men)
+   Title: Head Men's Soccer Coach
+   Original line: Ryan McDougall Head Men's Soccer Coach rmcdouga@shepherd.edu
+
+23. Nate Pryor
+   Email: npryor@shepherd.edu
+   Username: npryor
+   Sports: Soccer (Men)
+   Title: Assistant Men's Soccer Coach
+   Original line: Nate Pryor Assistant Men's Soccer Coach npryor@shepherd.edu
+
+24. Mackenzie Fairs
+   Email: mfairs01@rams.shepherd.edu
+   Username: mfairs01
+   Sports: Soccer (Men)
+   Title: Graduate Assistant Coach
+   Original line: Mackenzie Fairs Graduate Assistant Coach mfairs01@rams.shepherd.edu
+
+25. Sam Odell
+   Email: sodell@shepherd.edu
+   Username: sodell
+   Sports: Soccer (Men)
+   Title: Head Women's Soccer Coach
+   Original line: Sam Odell Head Women's Soccer Coach sodell@shepherd.edu
+
+26. Alex Hoekstra
+   Email: ahoekstr@shepherd.edu
+   Username: ahoekstr
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Phone: (423) 443-2549
+   Original line: Alex Hoekstra Head Volleyball Coach ahoekstr@shepherd.edu 423-443-2549
+
+27. Emily Goetz
+   Email: egoetz@shepherd.edu
+   Username: egoetz
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Tripp Lowe Assistant Men's Basketball Coach egoetz@shepherd.edu
+
+28. Rick Little
+   Email: 
+   Username: rick.little
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Rick Little Assistant Women's Basketball Coach
+
+29. Jennifer Roach
+   Email: 
+   Username: jennifer.roach
+   Sports: Soccer
+   Title: Jennifer Roach Head Cheerleading Coach
+   Original line: Jennifer Roach Head Cheerleading Coach
+
+30. Emily Turner
+   Email: 
+   Username: emily.turner
+   Sports: Soccer
+   Title: Emily Turner Assistant Cheerleading Coach
+   Original line: Emily Turner Assistant Cheerleading Coach
+
+31. Shelby Davis
+   Email: 
+   Username: shelby.davis
+   Sports: Soccer
+   Title: Shelby Davis Assistant Cheerleading Coach
+   Original line: Shelby Davis Assistant Cheerleading Coach
+
+32. Alexis Hawkins
+   Email: 
+   Username: alexis.hawkins
+   Sports: Soccer
+   Title: Alexis Hawkins Assistant Cheerleading Coach
+   Original line: Alexis Hawkins Assistant Cheerleading Coach
+
+33. Olivia Lee
+   Email: 
+   Username: olivia.lee
+   Sports: Soccer
+   Title: Olivia Lee Assistant Cheerleading Coach
+   Original line: Olivia Lee Assistant Cheerleading Coach
+
+34. Peer Graduate
+   Email: 
+   Username: peer.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: T.J. Peer Graduate Assistant Coach
+
+35. Rob Ambrose
+   Email: rambrose@shepherd.edu
+   Username: rambrose
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brodie List Graduate Assistant Coach rambrose@shepherd.edu
+
+36. Luke Teams
+   Email: lwrig01@shepherd.edu
+   Username: lwrig01
+   Sports: Soccer
+   Title: Shannon Breen Assistant Offensive Line Coach
+   Original line: Shannon Breen Assistant Offensive Line Coach lwrig01@shepherd.edu
+
+37. Nick Line
+   Email: 
+   Username: nick.line
+   Sports: Soccer
+   Title: Nick Kidwell Offensive Line Coach
+   Original line: Nick Kidwell Offensive Line Coach
+
+38. Liz Kelly
+   Email: 
+   Username: liz.kelly
+   Sports: Cross Country
+   Title: s Cross Country Coach
+   Original line: Liz Kelly Assistant Women's Cross Country Coach ekelly@shepherd
+
+39. David Leonard
+   Email: 
+   Username: david.leonard
+   Sports: Soccer
+   Title: Assistant Coach/Goalkeeper Coach
+   Original line: David Leonard Assistant Coach/Goalkeeper Coach
+
+40. Paris Kimbrell
+   Email: 
+   Username: paris.kimbrell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Paris Kimbrell Assistant Coach
+
+41. David Goalkeeper
+   Email: 
+   Username: david.goalkeeper
+   Sports: Soccer
+   Title: David Leonard Goalkeeper Coach
+   Original line: David Leonard Goalkeeper Coach
+
+42. Delaney Volunteer
+   Email: 
+   Username: delaney.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Delaney Bittner Volunteer Assistant Coach
+
+43. Chip Information
+   Email: cransom@shepherd.edu
+   Username: cransom
+   Sports: Volleyball
+   Title: Kevin Mennett Assistant Volleyball Coach
+   Original line: Kevin Mennett Assistant Volleyball Coach cransom@shepherd.edu
+
+44. Taylor Belella
+   Email: 
+   Username: taylor.belella
+   Sports: Volleyball
+   Title: Taylor Belella Assistant Volleyball Coach
+   Original line: Taylor Belella Assistant Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Andrew Kowalo Head Baseball Coach akowalo@shepherd.edu
+• Zach Guth Assistant Baseball Coach zguth@shepherd.edu
+• Justin Namolik Head Men's Basketball Coach jnamolik@shepherd.edu 304-671-2319
+• Giancarlo Pacheco Assistant Men's Basketball Coach gpacheco@shepherd.edu
+• Julie Kaufman Head Women's Basketball Coach jkaufman@shepherd.edu 304-876-5084
+• Josie Daugherty Assistant Women's Basketball Coach jdaugher@shepherd.edu
+• Lindsey Bordovsky Assistant Cheerleading Coach lbordovs@shepherd.edu
+• Ernie McCook Head Football Coach emccook@shepherd.edu
+• Josh Kline Assistant Head Coach/Defensive Coordinator jkline@shepherd.edu
+• Jarrod Kellar Wide Receivers Coach jkellar@shepherd.edu
+• EJ Norris Defensive Line Coach enorris@shepherd.edu
+• Chuck Walters Head Men's Cross Country Coach cwalters@shepherd.edu
+• Liz Kelly Assistant Men's Cross Country Coach ekelly@shepherd.edu
+• Corinne Baronner Assistant Men's Cross Country Coach cbaronne@shepherd.edu
+• Chuck Walters Head Women's Cross Country Coach cwalters@shepherd.edu
+• Corinne Baronner Assistant Women's Cross Country Coach cbaronne@shepherd.edu
+• Chuck Ingram Head Men's Golf Coach cingram@shepherd.edu 301-465-9154
+• Dr. Melissa Hall Head Women's Golf Coach mhall@shepherd.edu 304-876-5235
+• Braxtin Reddinger Head Women's Lacrosse Coach bredding@shepherd.edu
+• Marissa Leslie Head Softball Coach mleslie@shepherd.edu 814-312-0499
+• Allison Baker Assistant Softball Coach abaker@shepherd.edu
+• Ryan McDougall Head Men's Soccer Coach rmcdouga@shepherd.edu
+• Nate Pryor Assistant Men's Soccer Coach npryor@shepherd.edu
+• Mackenzie Fairs Graduate Assistant Coach mfairs01@rams.shepherd.edu
+• Sam Odell Head Women's Soccer Coach sodell@shepherd.edu
+• Alex Hoekstra Head Volleyball Coach ahoekstr@shepherd.edu 423-443-2549

@@ -1,0 +1,682 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:50
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: West Virginia University
+Organization: West Virginia University Athletics
+
+Total coaches found: 88
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kaitlin Sweeney
+   Email: Kaitlin.Sweeney@mail.wvu.edu
+   Username: Kaitlin.Sweeney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaitlin Sweeney Assistant Athletics Director of (304) Kaitlin.Sweeney@mail.wvu.edu Coach_KSweeney
+
+2. Christy Bryan-Davis
+   Email: WVUCheer@mail.wvu.edu
+   Username: WVUCheer
+   Sports: Soccer
+   Title: Cheerleading Coach
+   Original line: Christy Bryan-Davis Cheerleading Coach WVUCheer@mail.wvu.edu
+
+3. Jacob Garcia
+   Email: jacob.garcia1@mail.wvu.edu
+   Username: jacob.garcia1
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting
+   Original line: Jacob Garcia Assistant Coach/Recruiting (304) jacob.garcia1@mail.wvu.edu J_Gar12
+
+4. Jimmy Roesinger
+   Email: james.roesinger@mail.wvu.edu
+   Username: james.roesinger
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jimmy Roesinger Assistant Coach (304) james.roesinger@mail.wvu.edu jimbrorace
+
+5. Justin Oney
+   Email: jroney@mail.wvu.edu
+   Username: jroney
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Justin Oney Assistant Coach (304) jroney@mail.wvu.edu justinoney30
+
+6. Johnny Estelle
+   Email: johnny.estelle@mail.wvu.edu
+   Username: johnny.estelle
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Johnny Estelle Assistant Coach (304) johnny.estelle@mail.wvu.edu Coach_Estelle
+
+7. Phil Forte
+   Email: phillip.forte@mail.wvu.edu
+   Username: phillip.forte
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Phil Forte Assistant Coach (304) phillip.forte@mail.wvu.edu philforte13
+
+8. Jase Herl
+   Email: jase.herl@mail.wvu.edu
+   Username: jase.herl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jase Herl Assistant Coach (304) jase.herl@mail.wvu.edu jaseherl
+
+9. Mike Randle
+   Email: michael.randle@mail.wvu.edu
+   Username: michael.randle
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Mike Randle Assistant Coach (304) michael.randle@mail.wvu.edu mikerand5
+
+10. Andre Shaw
+   Email: andre.shaw@mail.wvu.edu
+   Username: andre.shaw
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Andre Shaw Assistant Coach (304) andre.shaw@mail.wvu.edu iam_DreShaw
+
+11. Sean Cleary
+   Email: Sean.Cleary@mail.wvu.edu
+   Username: Sean.Cleary
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Sean Cleary Head Coach (304) Sean.Cleary@mail.wvu.edu
+
+12. Shelly-Ann Gallimore
+   Email: Shelly-Ann.Gallimore@mail.wvu.edu
+   Username: Shelly-Ann.Gallimore
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Shelly-Ann Gallimore Associate Head Coach (304) Shelly-Ann.Gallimore@mail.wvu.edu ShellyGallimore
+
+13. Erin O'Reilly
+   Email: Reilly@mail.wvu.edu
+   Username: Reilly
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Erin O'Reilly Assistant Coach (304) Erin.O'Reilly@mail.wvu.edu
+
+14. Ryan Nehlen
+   Email: ryan.nehlen@mail.wvu.edu
+   Username: ryan.nehlen
+   Sports: Football
+   Title: Assistant Wide Receivers Coach
+   Original line: Ryan Nehlen Assistant Wide Receivers Coach (304) ryan.nehlen@mail.wvu.edu coachryannehlen
+
+15. Isaac Miller
+   Email: Isaac.miller4@mail.wvu.edu
+   Username: Isaac.miller4
+   Sports: Football
+   Title: Head Coach
+   Original line: Isaac Miller Assistant to the Head Football (304) Isaac.miller4@mail.wvu.edu CoachMillerWVU
+
+16. Sean Covich
+   Email: Sean.Covich@mail.wvu.edu
+   Username: Sean.Covich
+   Sports: Football
+   Title: Head Coach
+   Original line: Sean Covich Head Coach (304) Sean.Covich@mail.wvu.edu SeanCovich
+
+17. Will Koras
+   Email: william.koras@mail.wvu.edu
+   Username: william.koras
+   Sports: Football
+   Title: Assistant Coach/Director of Player
+   Original line: Will Koras Assistant Coach/Director of Player (304) william.koras@mail.wvu.edu wxkoras24
+
+18. Travis Doak
+   Email: Travis.Doak@mail.wvu.edu
+   Username: Travis.Doak
+   Sports: Football
+   Title: Head Coach
+   Original line: Travis Doak Associate Head Coach (304) Travis.Doak@mail.wvu.edu TravisDoak
+
+19. Jessica Yamzon
+   Email: jessica.yamzon@mail.wvu.edu
+   Username: jessica.yamzon
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jessica Yamzon Assistant Coach (304) jessica.yamzon@mail.wvu.edu _jessnicole24
+
+20. Kaylyn Millick
+   Email: kmillick@mail.wvu.edu
+   Username: kmillick
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kaylyn Millick Assistant Coach (724) kmillick@mail.wvu.edu
+
+21. Jon Family
+   Email: Jonathan.Hammond@mail.wvu.edu
+   Username: Jonathan.Hammond
+   Sports: Football
+   Title: Head Coach
+   Original line: Jon Hammond Hayhurst Family Head Coach (304) Jonathan.Hammond@mail.wvu.edu
+
+22. Jean-Pierre Lucas
+   Email: jp.lucas@mail.wvu.edu
+   Username: jp.lucas
+   Sports: Football
+   Title: Head Coach
+   Original line: Jean-Pierre Lucas Associate Head Coach (304) jp.lucas@mail.wvu.edu
+
+23. Jimmy King
+   Email: Jimmy.King@mail.wvu.edu
+   Username: Jimmy.King
+   Sports: Football
+   Title: Head Coach
+   Original line: Jimmy King Head Coach (304) Jimmy.King@mail.wvu.edu
+
+24. Tina Griffith
+   Email: Tina.Griffith@mail.wvu.edu
+   Username: Tina.Griffith
+   Sports: Football
+   Title: Head Coach
+   Original line: Tina Griffith Associate Head Coach (304) Tina.Griffith@mail.wvu.edu
+
+25. Mikie Sevick
+   Email: MichaelAnne.Sevick@mail.wvu.edu
+   Username: MichaelAnne.Sevick
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Mikie Sevick Assistant Coach (304) MichaelAnne.Sevick@mail.wvu.edu
+
+26. Ciara Devenuto-Wyeth
+   Email: ciara.wyeth@mail.wvu.edu
+   Username: ciara.wyeth
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ciara Devenuto-Wyeth Assistant Coach (304) ciara.wyeth@mail.wvu.edu
+
+27. Kathleen Graduate
+   Email: kmh00086@mix.wvu.edu
+   Username: kmh00086
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kathleen Hardy Graduate Assistant Coach (304) kmh00086@mix.wvu.edu
+
+28. Andy Wright
+   Email: Andy.Wright@mail.wvu.edu
+   Username: Andy.Wright
+   Sports: Football
+   Title: Head Coach
+   Original line: Andy Wright Associate Head Coach (304) Andy.Wright@mail.wvu.edu andywright85
+
+29. Nick Noble
+   Email: Nick.Noble@mail.wvu.edu
+   Username: Nick.Noble
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nick Noble Assistant Coach (304) Nick.Noble@mail.wvu.edu
+
+30. Lisa Stoia
+   Email: Lisa.Stoia@mail.wvu.edu
+   Username: Lisa.Stoia
+   Sports: Football
+   Title: Head Coach
+   Original line: Lisa Stoia Senior Associate Head Coach (304) Lisa.Stoia@mail.wvu.edu LisaStoiaWVU
+
+31. Eric Beltran
+   Email: eric.beltran@mail.wvu.edu
+   Username: eric.beltran
+   Sports: Football
+   Title: Head Coach
+   Original line: Eric Beltran Assistant Head Coach (304) eric.beltran@mail.wvu.edu _EricBeltran
+
+32. Liesa Seifert
+   Email: liesa.seifert@mail.wvu.edu
+   Username: liesa.seifert
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Liesa Seifert Assistant Coach liesa.seifert@mail.wvu.edu LiesaSeifert
+
+33. Brent MacDonald
+   Email: brent.macdonald@mail.wvu.edu
+   Username: brent.macdonald
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Brent MacDonald Head Coach (304) brent.macdonald@mail.wvu.edu
+
+34. Matt O'Neill
+   Email: moneill2@mail.wvu.edu
+   Username: moneill2
+   Sports: Swimming
+   Title: Head Diving Coach
+   Original line: Matt O'Neill Head Diving Coach moneill2@mail.wvu.edu
+
+35. Michael Walker
+   Email: mwalke15@mail.wvu.edu
+   Username: mwalke15
+   Sports: Swimming
+   Title: Associate Head Coach
+   Original line: Michael Walker Associate Head Coach mwalke15@mail.wvu.edu
+
+36. James Washbish
+   Email: james.washbish@mail.wvu.edu
+   Username: james.washbish
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: James Washbish Assistant Coach (304) james.washbish@mail.wvu.edu james_washbish
+
+37. David Dent
+   Email: david.dent@mail.wvu.edu
+   Username: david.dent
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: David Dent Assistant Coach (304) david.dent@mail.wvu.edu
+
+38. Miha Lisac
+   Email: Miha.Lisac@mail.wvu.edu
+   Username: Miha.Lisac
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Miha Lisac Head Coach (304) Miha.Lisac@mail.wvu.edu MihaLisac
+
+39. Logan Blair
+   Email: logan.blair@mail.wvu.edu
+   Username: logan.blair
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Logan Blair Assistant Coach (304) logan.blair@mail.wvu.edu
+
+40. Jen Greeny
+   Email: jennifer.greeny@mail.wvu.edu
+   Username: jennifer.greeny
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Jen Greeny Head Coach jennifer.greeny@mail.wvu.edu jagreeny
+
+41. Burdette Greeny
+   Email: burdette.greeny@mail.wvu.edu
+   Username: burdette.greeny
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Burdette Greeny Associate Head Coach (509) burdette.greeny@mail.wvu.edu BurdetteGreeny
+
+42. Aubrey Becker
+   Email: aubrey.becker@mail.wvu.edu
+   Username: aubrey.becker
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Aubrey Becker Assistant Coach (304) aubrey.becker@mail.wvu.edu Aub_Becker
+
+43. Mike Becker
+   Email: michael.becker1@mail.wvu.edu
+   Username: michael.becker1
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Mike Becker Assistant Coach (304) michael.becker1@mail.wvu.edu MichaelBecker7
+
+44. Tim Flynn
+   Email: TFlynn@mail.wvu.edu
+   Username: TFlynn
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Tim Flynn Head Coach (304) TFlynn@mail.wvu.edu TFlynn134
+
+45. Cliff Moore
+   Email: Clifford.Moore@mail.wvu.edu
+   Username: Clifford.Moore
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Cliff Moore Assistant Head Coach (304) Clifford.Moore@mail.wvu.edu TheCliffMoore
+
+46. Mitchell Port
+   Email: Mitchell.Port@mail.wvu.edu
+   Username: Mitchell.Port
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Mitchell Port Assistant Coach (304) Mitchell.Port@mail.wvu.edu bigmeech141
+
+47. Dr Behavior
+   Email: diane.benish@mail.wvu.edu
+   Username: diane.benish
+   Sports: Soccer, Strength & Conditioning
+   Title: Coach for Football Strength and
+   Original line: Coach for Football Strength and 293- diane.benish@mail.wvu.edu
+
+48. Karla Psychology
+   Email: karla.zavala@mail.wvu.edu
+   Username: karla.zavala
+   Sports: Soccer
+   Title: Coach/Director of Skill
+   Original line: Coach/Director of Skill 293- karla.zavala@mail.wvu.edu
+
+49. Aaron McLaurin
+   Email: aaron.mclaurin@mail.wvu.edu
+   Username: aaron.mclaurin
+   Sports: Soccer, Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach for Football 293- aaron.mclaurin@mail.wvu.edu
+
+50. William Bernhardt
+   Email: william.bernhardt@mail.wvu.edu
+   Username: william.bernhardt
+   Sports: Soccer, Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach for Football 288- william.bernhardt@mail.wvu.edu
+
+51. Vince Ippoliti
+   Email: vincent.ippoliti@mail.wvu.edu
+   Username: vincent.ippoliti
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach for Olympic vincent.ippoliti@mail.wvu.edu
+
+52. Jason Martinez
+   Email: jason.martinez2@mail.wvu.edu
+   Username: jason.martinez2
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach for Olympic Sports jason.martinez2@mail.wvu.edu
+
+53. Rodney Engineer
+   Email: rss0005@mail.wvu.edu
+   Username: rss0005
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Steve Sabins Head Coach (304) stevesabins rss0005@mail.wvu.edu
+
+54. Joey Cuomo
+   Email: joey.cuomo@mail.wvu.edu
+   Username: joey.cuomo
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ross Hodge Head Coach (304) coachrosshodge joey.cuomo@mail.wvu.edu
+
+55. Sean McClurg
+   Email: sean.mcclurg@mail.wvu.edu
+   Username: sean.mcclurg
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mark Kellogg Hayhurst Family Head Coach (304) CoachKellogg12 sean.mcclurg@mail.wvu.edu
+
+56. Alex Mergner
+   Email: alex.mergner@mail.wvu.edu
+   Username: alex.mergner
+   Sports: Soccer
+   Title: Head Coach
+   Original line: JC Carter Associate Head Coach (304) @JCCarter3 alex.mergner@mail.wvu.edu
+
+57. Kayla Scott
+   Email: kayla.scott3@mail.wvu.edu
+   Username: kayla.scott3
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Erin Grant Assistant Head Coach (304) @egrant14 kayla.scott3@mail.wvu.edu
+
+58. Jessica Grayson
+   Email: 
+   Username: jessica.grayson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jessica Grayson Assistant Coach (304) @CoachJGrayson
+
+59.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 293-
+
+60. Rich Rodriguez
+   Email: 
+   Username: rich.rodriguez
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Rich Rodriguez Head Coach (304) RealCoachRod
+
+61. Clara Santucci
+   Email: Clara.Santucci@mail.wvu.edu
+   Username: Clara.Santucci
+   Sports: Soccer
+   Title: Head Coach/Defensive
+   Original line: Zac Alley Assistant Head Coach/Defensive (304) CoachZAlley Clara.Santucci@mail.wvu.edu
+
+62. Travis Trickett
+   Email: 
+   Username: travis.trickett
+   Sports: Soccer
+   Title: coach
+   Original line: Travis Trickett Senior Offensive Assistant (304) CoachTTrickett
+
+63. Jack Line
+   Email: 
+   Username: jack.line
+   Sports: Soccer
+   Title: Offensive Line Coach
+   Original line: Jack Bicknell Jr. Offensive Line Coach (304) CoachBicknell
+
+64. Logan Receivers
+   Email: 
+   Username: logan.receivers
+   Sports: Soccer
+   Title: Logan Bradley Inside Receivers Coach
+   Original line: Logan Bradley Inside Receivers Coach (304) CoachBradleyWVU
+
+65. Jeff Bandits
+   Email: 
+   Username: jeff.bandits
+   Sports: Soccer
+   Title: Jeff Casteel Bandits Coach
+   Original line: Jeff Casteel Bandits Coach (304) CoachJCasteel
+
+66. Gabe Safeties
+   Email: 
+   Username: gabe.safeties
+   Sports: Soccer
+   Title: Gabe Franklin Safeties Coach
+   Original line: Gabe Franklin Safeties Coach (304) CoachGF628
+
+67. Ryan Receivers
+   Email: 
+   Username: ryan.receivers
+   Sports: Soccer
+   Title: Ryan Garrett Wide Receivers Coach
+   Original line: Ryan Garrett Wide Receivers Coach (304) CoachRGarrett
+
+68. William Line
+   Email: 
+   Username: william.line
+   Sports: Soccer
+   Title: William Green Defensive Line Coach
+   Original line: William Green Defensive Line Coach (304) coach_willgreen
+
+69. Pat Teams
+   Email: 
+   Username: pat.teams
+   Sports: Soccer
+   Title: coach
+   Original line: Pat Kirkland Special Teams (304) coachpkirkland
+
+70.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 4194
+
+71. Michael Ends
+   Email: 
+   Username: michael.ends
+   Sports: Soccer
+   Title: Michael Nysewander Tight Ends Coach
+   Original line: Michael Nysewander Tight Ends Coach (304) NYSEandeasy
+
+72. Larry Backs
+   Email: 
+   Username: larry.backs
+   Sports: Soccer
+   Title: Larry Porter Running Backs Coach
+   Original line: Larry Porter Running Backs Coach (304) CoachLPorter
+
+73. Rhett Quarterbacks
+   Email: 
+   Username: rhett.quarterbacks
+   Sports: Soccer
+   Title: Rhett Rodriguez Quarterbacks Coach
+   Original line: Rhett Rodriguez Quarterbacks Coach (304) rhett_rod
+
+74. Rod Cornerbacks
+   Email: 
+   Username: rod.cornerbacks
+   Sports: Soccer
+   Title: Rod West Cornerbacks Coach
+   Original line: Rod West Cornerbacks Coach (304) CoachRodWest
+
+75. Henry Weinreich
+   Email: 
+   Username: henry.weinreich
+   Sports: Soccer
+   Title: Henry Weinreich Nickels/Sams Coach
+   Original line: Henry Weinreich Nickels/Sams Coach (304) CoachWeinreich
+
+76. Treylen Brown
+   Email: 
+   Username: treylen.brown
+   Sports: Soccer
+   Title: Treylen Brown Assistant Offensive Line Coach
+   Original line: Treylen Brown Assistant Offensive Line Coach (304) TreylenBrown
+
+77. Ashton Analyst
+   Email: ashton.derico@mail.wvu.edu
+   Username: ashton.derico
+   Sports: Soccer
+   Title: Jake Casteel Assistant Defensive Coach
+   Original line: Jake Casteel Assistant Defensive Coach (304) JakeCasteel ashton.derico@mail.wvu.edu
+
+78. Running Backs
+   Email: 
+   Username: running.backs
+   Sports: Soccer
+   Title: Running Backs Coach
+   Original line: Running Backs Coach 293-
+
+79. Tucker Donati
+   Email: 
+   Username: tucker.donati
+   Sports: Soccer
+   Title: Tucker Donati Assistant Special Teams Coach
+   Original line: Tucker Donati Assistant Special Teams Coach (304) TuckerDonati
+
+80. Derek Dressler
+   Email: 
+   Username: derek.dressler
+   Sports: Soccer
+   Title: Derek Dressler Assistant Offensive Line Coach
+   Original line: Derek Dressler Assistant Offensive Line Coach (304) Coach_Dressler
+
+81. Andrew Warwick
+   Email: 
+   Username: andrew.warwick
+   Sports: Soccer
+   Title: Andrew Warwick Assistant Defensive Coach
+   Original line: Andrew Warwick Assistant Defensive Coach (304) CoachAWarwick
+
+82. Lori Rice
+   Email: Lori.Rice@mail.wvu.edu
+   Username: Lori.Rice
+   Sports: Soccer
+   Title: coach
+   Original line: Pat White Assistant Quarterbacks (304) coachpatwhite Lori.Rice@mail.wvu.edu
+
+83.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Assistant to the Head
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Assistant to the Head 293-
+
+84. Ja'Cquez Analyst
+   Email: 
+   Username: ja.cquez.analyst
+   Sports: Soccer
+   Title: coach
+   Original line: Ja'Cquez Williams Defensive Analyst (304) CoachQuez_
+
+85. Jason Butts
+   Email: 
+   Username: jason.butts
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jason Butts Head Coach CoachJasonButts
+
+86. Dan Stratford
+   Email: 
+   Username: dan.stratford
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dan Stratford Head Coach (304) DanStrats
+
+87. Nikki Izzo-Brown
+   Email: 
+   Username: nikki.izzo.brown
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Nikki Izzo-Brown Head Coach (304) WVUIzzoBrown
+
+88.  
+   Email: 
+   Username: 
+   Sports: Swimming
+   Title: Swimming Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Swimming Coach 288-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kaitlin Sweeney Assistant Athletics Director of (304) Kaitlin.Sweeney@mail.wvu.edu Coach_KSweeney
+• Christy Bryan-Davis Cheerleading Coach WVUCheer@mail.wvu.edu
+• Jacob Garcia Assistant Coach/Recruiting (304) jacob.garcia1@mail.wvu.edu J_Gar12
+• Jimmy Roesinger Assistant Coach (304) james.roesinger@mail.wvu.edu jimbrorace
+• Justin Oney Assistant Coach (304) jroney@mail.wvu.edu justinoney30
+• Johnny Estelle Assistant Coach (304) johnny.estelle@mail.wvu.edu Coach_Estelle
+• Phil Forte Assistant Coach (304) phillip.forte@mail.wvu.edu philforte13
+• Jase Herl Assistant Coach (304) jase.herl@mail.wvu.edu jaseherl
+• Mike Randle Assistant Coach (304) michael.randle@mail.wvu.edu mikerand5
+• Andre Shaw Assistant Coach (304) andre.shaw@mail.wvu.edu iam_DreShaw
+• Sean Cleary Head Coach (304) Sean.Cleary@mail.wvu.edu
+• Shelly-Ann Gallimore Associate Head Coach (304) Shelly-Ann.Gallimore@mail.wvu.edu ShellyGallimore
+• Erin O'Reilly Assistant Coach (304) Erin.O'Reilly@mail.wvu.edu
+• Ryan Nehlen Assistant Wide Receivers Coach (304) ryan.nehlen@mail.wvu.edu coachryannehlen
+• Isaac Miller Assistant to the Head Football (304) Isaac.miller4@mail.wvu.edu CoachMillerWVU
+• Sean Covich Head Coach (304) Sean.Covich@mail.wvu.edu SeanCovich
+• Will Koras Assistant Coach/Director of Player (304) william.koras@mail.wvu.edu wxkoras24
+• Travis Doak Associate Head Coach (304) Travis.Doak@mail.wvu.edu TravisDoak
+• Jessica Yamzon Assistant Coach (304) jessica.yamzon@mail.wvu.edu _jessnicole24
+• Kaylyn Millick Assistant Coach (724) kmillick@mail.wvu.edu
+• Jon Hammond Hayhurst Family Head Coach (304) Jonathan.Hammond@mail.wvu.edu
+• Jean-Pierre Lucas Associate Head Coach (304) jp.lucas@mail.wvu.edu
+• Jimmy King Head Coach (304) Jimmy.King@mail.wvu.edu
+• Tina Griffith Associate Head Coach (304) Tina.Griffith@mail.wvu.edu
+• Mikie Sevick Assistant Coach (304) MichaelAnne.Sevick@mail.wvu.edu
+• Ciara Devenuto-Wyeth Assistant Coach (304) ciara.wyeth@mail.wvu.edu
+• Kathleen Hardy Graduate Assistant Coach (304) kmh00086@mix.wvu.edu
+• Andy Wright Associate Head Coach (304) Andy.Wright@mail.wvu.edu andywright85
+• Nick Noble Assistant Coach (304) Nick.Noble@mail.wvu.edu
+• Lisa Stoia Senior Associate Head Coach (304) Lisa.Stoia@mail.wvu.edu LisaStoiaWVU
+• Eric Beltran Assistant Head Coach (304) eric.beltran@mail.wvu.edu _EricBeltran
+• Liesa Seifert Assistant Coach liesa.seifert@mail.wvu.edu LiesaSeifert
+• Brent MacDonald Head Coach (304) brent.macdonald@mail.wvu.edu
+• Matt O'Neill Head Diving Coach moneill2@mail.wvu.edu
+• Michael Walker Associate Head Coach mwalke15@mail.wvu.edu
+• James Washbish Assistant Coach (304) james.washbish@mail.wvu.edu james_washbish
+• David Dent Assistant Coach (304) david.dent@mail.wvu.edu
+• Miha Lisac Head Coach (304) Miha.Lisac@mail.wvu.edu MihaLisac
+• Logan Blair Assistant Coach (304) logan.blair@mail.wvu.edu
+• Jen Greeny Head Coach jennifer.greeny@mail.wvu.edu jagreeny
+• Burdette Greeny Associate Head Coach (509) burdette.greeny@mail.wvu.edu BurdetteGreeny
+• Aubrey Becker Assistant Coach (304) aubrey.becker@mail.wvu.edu Aub_Becker
+• Mike Becker Assistant Coach (304) michael.becker1@mail.wvu.edu MichaelBecker7
+• Tim Flynn Head Coach (304) TFlynn@mail.wvu.edu TFlynn134
+• Cliff Moore Assistant Head Coach (304) Clifford.Moore@mail.wvu.edu TheCliffMoore
+• Mitchell Port Assistant Coach (304) Mitchell.Port@mail.wvu.edu bigmeech141

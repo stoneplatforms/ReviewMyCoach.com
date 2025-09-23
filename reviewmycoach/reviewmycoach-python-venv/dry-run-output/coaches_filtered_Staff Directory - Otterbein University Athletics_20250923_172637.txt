@@ -1,0 +1,503 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:38
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Otterbein University
+Organization: Otterbein University Athletics
+
+Total coaches found: 61
+
+PARSED ENTRIES:
+----------------------------------------
+1. Monica Wright
+   Email: mmcdonald@otterbein.edu
+   Username: mmcdonald
+   Sports: Volleyball
+   Title: Senior Woman Administrator / Head Volleyball Coach
+   Phone: (614) 823-3534
+   Original line: Monica Wright Senior Woman Administrator / Head Volleyball Coach mmcdonald@otterbein.edu 614-823-3534
+
+2. George Powell
+   Email: gpowell@otterbein.edu
+   Username: gpowell
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (614) 823-3521
+   Original line: George Powell Head Coach gpowell@otterbein.edu 614-823-3521
+
+3. Brantley Curnutte
+   Email: curnutte3@otterbein.edu
+   Username: curnutte3
+   Sports: Baseball
+   Title: Assistant Coach - Pitching
+   Phone: (614) 286-0214
+   Original line: Brantley Curnutte Assistant Coach - Pitching curnutte3@otterbein.edu 614-286-0214
+
+4. Ruth Ann
+   Email: rshuster@otterbein.edu
+   Username: rshuster
+   Sports: Baseball
+   Title: Shuster Head Coach
+   Original line: Ruth Ann Shuster Head Coach rshuster@otterbein.edu
+
+5. Matt Sutton
+   Email: sutton7@otterbein.edu
+   Username: sutton7
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Matt Sutton Head Coach (XC) and Assistant Coach (T&F) sutton7@otterbein.edu
+
+6. Christopher Pinnick
+   Email: pinnick1@otterbein.edu
+   Username: pinnick1
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Christopher Pinnick Assistant Coach pinnick1@otterbein.edu
+
+7. Alex Gunnerson
+   Email: gunnerson1@otterbein.edu
+   Username: gunnerson1
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Alex Gunnerson Assistant Coach gunnerson1@otterbein.edu
+
+8. Dave Marquis
+   Email: marquis2@otterbein.edu
+   Username: marquis2
+   Sports: Football
+   Title: Head Coach
+   Original line: Dave Marquis Head Coach marquis2@otterbein.edu
+
+9. Ian Grant
+   Email: grant7@otterbein.edu
+   Username: grant7
+   Sports: Football
+   Title: Offensive Line Coach
+   Original line: Ian Grant Offensive Line Coach grant7@otterbein.edu
+
+10. Andy Winters
+   Email: winters1@otterbein.edu
+   Username: winters1
+   Sports: Football
+   Title: Head Coach
+   Phone: (614) 823-1844
+   Original line: Andy Winters Head Coach winters1@otterbein.edu 614-823-1844
+
+11. Matt Winters
+   Email: winters2@otterbein.edu
+   Username: winters2
+   Sports: Football
+   Title: Associate Head Coach
+   Phone: (614) 823-1886
+   Original line: Matt Winters Associate Head Coach winters2@otterbein.edu 614-823-1886
+
+12. AJ Dixon
+   Email: Dixon3@otterbein.edu
+   Username: Dixon3
+   Sports: Football
+   Title: Assistant Coach
+   Original line: AJ Dixon Assistant Coach Dixon3@otterbein.edu
+
+13. Grant Spicer
+   Email: spicer1@otterbein.edu
+   Username: spicer1
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Grant Spicer Assistant Coach spicer1@otterbein.edu
+
+14. Bryan Flannery
+   Email: flannery2@otterbein.edu
+   Username: flannery2
+   Sports: Football
+   Title: Student Coach
+   Original line: Bryan Flannery Student Coach flannery2@otterbein.edu
+
+15. Brian Booher
+   Email: BBooher@otterbein.edu
+   Username: BBooher
+   Sports: Football
+   Title: Head Golf Coach
+   Original line: Brian Booher Head Golf Coach BBooher@otterbein.edu
+
+16. Nick Steffanni
+   Email: nsteffanni@otterbein.edu
+   Username: nsteffanni
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nick Steffanni Assistant Coach nsteffanni@otterbein.edu
+
+17. Colin Hartnett
+   Email: chartnett@otterbein.edu
+   Username: chartnett
+   Sports: Football
+   Title: Head Coach
+   Phone: (614) 823-3543
+   Original line: Colin Hartnett Head Coach chartnett@otterbein.edu 614-823-3543
+
+18. Ryan Gossett
+   Email: Gossett3@otterbein.edu
+   Username: Gossett3
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ryan Gossett Assistant Coach Gossett3@otterbein.edu
+
+19. Phanawn Bailey
+   Email: bailey1@otterbein.edu
+   Username: bailey1
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Phanawn Bailey Assistant Coach bailey1@otterbein.edu
+
+20. Jason Griffiths
+   Email: jgriffiths@otterbein.edu
+   Username: jgriffiths
+   Sports: Football
+   Title: Head Coach
+   Phone: (614) 823-3524
+   Original line: Jason Griffiths Head Coach jgriffiths@otterbein.edu OR menssoccer 614-823-3524
+
+21. Niko Malobabic
+   Email: malobabic1@otterbein.edu
+   Username: malobabic1
+   Sports: Football
+   Title: Assistant Coach/Goalkeeper Coach
+   Original line: Niko Malobabic Assistant Coach/Goalkeeper Coach malobabic1@otterbein.edu
+
+22. Brent Rastetter
+   Email: BRastetter@Otterbein.edu
+   Username: BRastetter
+   Sports: Football
+   Title: Director of Wrestling / Men's Head Coach
+   Phone: (614) 823-3229
+   Original line: Brent Rastetter Director of Wrestling / Men's Head Coach BRastetter@Otterbein.edu 614-823-3229
+
+23. Chris Kline
+   Email: ckline@otterbein.edu
+   Username: ckline
+   Sports: Football
+   Title: Associate Head Coach - Women
+   Original line: Chris Kline Associate Head Coach - Women ckline@otterbein.edu
+
+24. Doug Short
+   Email: short1@otterbein.edu
+   Username: short1
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (614) 823-3229
+   Original line: Doug Short Assistant Coach short1@otterbein.edu 614-823-3229
+
+25. Bruce Anderson
+   Email: anderson26@otterbein.edu
+   Username: anderson26
+   Sports: Softball
+   Title: Head Coach
+   Phone: (614) 823-3506
+   Original line: Bruce Anderson Head Coach anderson26@otterbein.edu 614-823-3506
+
+26. Sami Ange
+   Email: ange1@otterbein.edu
+   Username: ange1
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Sami Ange Assistant Coach ange1@otterbein.edu
+
+27. Marc Thomas
+   Email: mthomas@otterbein.edu
+   Username: mthomas
+   Sports: Softball
+   Title: Men's and Women's Head Coach
+   Original line: Marc Thomas Men's and Women's Head Coach mthomas@otterbein.edu
+
+28. Matt Sutton
+   Email: sutton7@otterbein.edu
+   Username: sutton7
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Matt Sutton Head Coach (XC) and Assistant Coach (T&F) sutton7@otterbein.edu
+
+29. Christopher Pinnick
+   Email: pinnick1@otterbein.edu
+   Username: pinnick1
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Christopher Pinnick Assistant Coach pinnick1@otterbein.edu
+
+30. Pole Vault
+   Email: kuhn6@otterbein.edu
+   Username: kuhn6
+   Sports: Track & Field
+   Title: Abbey Kuhn Assistant Coach
+   Original line: Abbey Kuhn Assistant Coach - Pole Vault kuhn6@otterbein.edu
+
+31. Monica Wright
+   Email: mmcdonald@otterbein.edu
+   Username: mmcdonald
+   Sports: Volleyball
+   Title: Senior Woman Administrator / Head Volleyball Coach
+   Phone: (614) 823-3534
+   Original line: Monica Wright Senior Woman Administrator / Head Volleyball Coach mmcdonald@otterbein.edu 614-823-3534
+
+32. Leslie Davenport
+   Email: ldavenport@otterbein.edu
+   Username: ldavenport
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Leslie Davenport Assistant Coach ldavenport@otterbein.edu
+
+33. Diana Noles
+   Email: dnoles@Otterbein.edu
+   Username: dnoles
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (614) 823-3549
+   Original line: Diana Noles Head Coach dnoles@Otterbein.edu 614-823-3549
+
+34. Laura Litchfield
+   Email: litchfield2@otterbein.edu
+   Username: litchfield2
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Laura Litchfield Assistant Coach litchfield2@otterbein.edu
+
+35. Brooke Delara
+   Email: bdelara@otterbein.edu
+   Username: bdelara
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (614) 823-3545
+   Original line: Brooke Delara Head Coach bdelara@otterbein.edu 614-823-3545
+
+36. Noel Orioli
+   Email: orioli1@otterbein.edu
+   Username: orioli1
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Noel Orioli Assistant Coach orioli1@otterbein.edu
+
+37. Brandon Koons
+   Email: BKoons@Otterbein.edu
+   Username: BKoons
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (614) 823-1077
+   Original line: Brandon Koons Head Coach BKoons@Otterbein.edu OR wsoccer 614-823-1077
+
+38. Marc Kirsch
+   Email: kirsch2@otterbein.edu
+   Username: kirsch2
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Marc Kirsch Assistant Coach kirsch2@otterbein.edu
+
+39. Steve Bartram
+   Email: SBartram@Otterbein.edu
+   Username: SBartram
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Steve Bartram Assistant Coach SBartram@Otterbein.edu
+
+40. Chris Beattie
+   Email: cbeattie@otterbein.edu
+   Username: cbeattie
+   Sports: Volleyball
+   Title: Assistant Coach - Goalkeeping
+   Original line: Chris Beattie Assistant Coach - Goalkeeping cbeattie@otterbein.edu
+
+41. Patience Bowman
+   Email: Patience.Denz@Otterbein.edu
+   Username: Patience.Denz
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Patience Bowman Assistant Coach Patience.Denz@Otterbein.edu
+
+42. Brent Rastetter
+   Email: BRastetter@Otterbein.edu
+   Username: BRastetter
+   Sports: Volleyball
+   Title: Director of Wrestling / Men's Head Coach
+   Phone: (614) 823-3229
+   Original line: Brent Rastetter Director of Wrestling / Men's Head Coach BRastetter@Otterbein.edu 614-823-3229
+
+43. Chris Kline
+   Email: ckline@otterbein.edu
+   Username: ckline
+   Sports: Volleyball
+   Title: Associate Head Coach - Women
+   Original line: Chris Kline Associate Head Coach - Women ckline@otterbein.edu
+
+44. Doug Short
+   Email: short1@otterbein.edu
+   Username: short1
+   Sports: Volleyball
+   Title: Assistant Coach
+   Phone: (614) 823-3229
+   Original line: Doug Short Assistant Coach short1@otterbein.edu 614-823-3229
+
+45. Angelo Therapist
+   Email: ALamatrice@otterbein.edu
+   Username: ALamatrice
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Clay Strausbaugh Assistant Coach ALamatrice@otterbein.edu
+
+46. Tyler Graduate
+   Email: biddle1@otterbein.edu
+   Username: biddle1
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hunter Moore Assistant Coach biddle1@otterbein.edu
+
+47. Henry Graduate
+   Email: conrad3@otterbein.edu
+   Username: conrad3
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Heather Sandvik Assistant Coach conrad3@otterbein.edu
+
+48. Gage Beireis
+   Email: 
+   Username: gage.beireis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gage Beireis Assistant Coach
+
+49. Dara Ford
+   Email: dford@otterbein.edu
+   Username: dford
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Luke Valdevit Assistant Coach dford@otterbein.edu
+
+50. Henry Woofter
+   Email: 
+   Username: henry.woofter
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Henry Woofter Director/Head Coach
+
+51. Johnny Graduate
+   Email: lafortune1@otterbein.edu
+   Username: lafortune1
+   Sports: Soccer
+   Title: Ethan Archer Rocket League Coach
+   Original line: Ethan Archer Rocket League Coach lafortune1@otterbein.edu
+
+52. Nate Siege
+   Email: 
+   Username: nate.siege
+   Sports: Soccer
+   Title: Nate Miller Rainbow Six Siege Coach
+   Original line: Nate Miller Rainbow Six Siege Coach
+
+53. Danie Valorant
+   Email: 
+   Username: danie.valorant
+   Sports: Soccer
+   Title: Danie Heinz Valorant Coach
+   Original line: Danie Heinz Valorant Coach
+
+54. Matt Overwatch
+   Email: 
+   Username: matt.overwatch
+   Sports: Soccer
+   Title: Matt Cole Overwatch Coach
+   Original line: Matt Cole Overwatch Coach
+
+55. Matt Ultimate
+   Email: 
+   Username: matt.ultimate
+   Sports: Soccer
+   Title: Ultimate Coach
+   Original line: Matt Reece Super Smash Bros. Ultimate Coach
+
+56. Clayton Graduate
+   Email: adams12@otterbein.edu
+   Username: adams12
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mike Bruzzese Assistant Coach adams12@otterbein.edu
+
+57. Andy Hufford
+   Email: 
+   Username: andy.hufford
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andy Hufford Assistant Coach
+
+58. Xander Seal
+   Email: 
+   Username: xander.seal
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Xander Seal Assistant Coach
+
+59. Tyler Groth
+   Email: 
+   Username: tyler.groth
+   Sports: Soccer
+   Title: Assistant Coach - Goalies
+   Original line: Tyler Groth Assistant Coach - Goalies
+
+60. Konner Harris
+   Email: 
+   Username: konner.harris
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Konner Harris Assistant Coach
+
+61. Sadie Graduate
+   Email: davis85@otterbein.edu
+   Username: davis85
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Megan Waterwash Assistant Coach davis85@otterbein.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Monica Wright Senior Woman Administrator / Head Volleyball Coach mmcdonald@otterbein.edu 614-823-3534
+• George Powell Head Coach gpowell@otterbein.edu 614-823-3521
+• Brantley Curnutte Assistant Coach - Pitching curnutte3@otterbein.edu 614-286-0214
+• Ruth Ann Shuster Head Coach rshuster@otterbein.edu
+• Matt Sutton Head Coach (XC) and Assistant Coach (T&F) sutton7@otterbein.edu
+• Christopher Pinnick Assistant Coach pinnick1@otterbein.edu
+• Alex Gunnerson Assistant Coach gunnerson1@otterbein.edu
+• Dave Marquis Head Coach marquis2@otterbein.edu
+• Ian Grant Offensive Line Coach grant7@otterbein.edu
+• Andy Winters Head Coach winters1@otterbein.edu 614-823-1844
+• Matt Winters Associate Head Coach winters2@otterbein.edu 614-823-1886
+• AJ Dixon Assistant Coach Dixon3@otterbein.edu
+• Grant Spicer Assistant Coach spicer1@otterbein.edu
+• Bryan Flannery Student Coach flannery2@otterbein.edu
+• Brian Booher Head Golf Coach BBooher@otterbein.edu
+• Nick Steffanni Assistant Coach nsteffanni@otterbein.edu
+• Colin Hartnett Head Coach chartnett@otterbein.edu 614-823-3543
+• Ryan Gossett Assistant Coach Gossett3@otterbein.edu
+• Phanawn Bailey Assistant Coach bailey1@otterbein.edu
+• Jason Griffiths Head Coach jgriffiths@otterbein.edu OR menssoccer 614-823-3524
+• Niko Malobabic Assistant Coach/Goalkeeper Coach malobabic1@otterbein.edu
+• Brent Rastetter Director of Wrestling / Men's Head Coach BRastetter@Otterbein.edu 614-823-3229
+• Chris Kline Associate Head Coach - Women ckline@otterbein.edu
+• Doug Short Assistant Coach short1@otterbein.edu 614-823-3229
+• Bruce Anderson Head Coach anderson26@otterbein.edu 614-823-3506
+• Sami Ange Assistant Coach ange1@otterbein.edu
+• Marc Thomas Men's and Women's Head Coach mthomas@otterbein.edu
+• Matt Sutton Head Coach (XC) and Assistant Coach (T&F) sutton7@otterbein.edu
+• Christopher Pinnick Assistant Coach pinnick1@otterbein.edu
+• Abbey Kuhn Assistant Coach - Pole Vault kuhn6@otterbein.edu
+• Monica Wright Senior Woman Administrator / Head Volleyball Coach mmcdonald@otterbein.edu 614-823-3534
+• Leslie Davenport Assistant Coach ldavenport@otterbein.edu
+• Diana Noles Head Coach dnoles@Otterbein.edu 614-823-3549
+• Laura Litchfield Assistant Coach litchfield2@otterbein.edu
+• Brooke Delara Head Coach bdelara@otterbein.edu 614-823-3545
+• Noel Orioli Assistant Coach orioli1@otterbein.edu
+• Brandon Koons Head Coach BKoons@Otterbein.edu OR wsoccer 614-823-1077
+• Marc Kirsch Assistant Coach kirsch2@otterbein.edu
+• Steve Bartram Assistant Coach SBartram@Otterbein.edu
+• Chris Beattie Assistant Coach - Goalkeeping cbeattie@otterbein.edu
+• Patience Bowman Assistant Coach Patience.Denz@Otterbein.edu
+• Brent Rastetter Director of Wrestling / Men's Head Coach BRastetter@Otterbein.edu 614-823-3229
+• Chris Kline Associate Head Coach - Women ckline@otterbein.edu
+• Doug Short Assistant Coach short1@otterbein.edu 614-823-3229

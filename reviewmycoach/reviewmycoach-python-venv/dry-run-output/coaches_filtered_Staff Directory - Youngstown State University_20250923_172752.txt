@@ -1,0 +1,591 @@
+COACH ENTRIES FOUND - 2025-09-23 17:27:52
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Youngstown State University
+Organization: Youngstown State University Athletics
+
+Total coaches found: 73
+
+PARSED ENTRIES:
+----------------------------------------
+1. Nick Calhoun
+   Email: nacalhoun@ysu.edu
+   Username: nacalhoun
+   Sports: Soccer
+   Title: Assistant Sports Performance Coach
+   Original line: Nick Calhoun Assistant Sports Performance Coach nacalhoun@ysu.edu
+
+2. Hunter Pembleton
+   Email: hbpembleton@ysu.edu
+   Username: hbpembleton
+   Sports: Soccer
+   Title: Assistant Sports Performance Coach
+   Original line: Hunter Pembleton Assistant Sports Performance Coach hbpembleton@ysu.edu
+
+3. Mariya Mendoza
+   Email: mmmendoza@ysu.edu
+   Username: mmmendoza
+   Sports: Soccer
+   Title: Assistant Sports Performance Coach
+   Original line: Mariya Mendoza Assistant Sports Performance Coach mmmendoza@ysu.edu
+
+4. Trevor Charpie
+   Email: tcharpie@ysu.edu
+   Username: tcharpie
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Trevor Charpie Head Baseball Coach tcharpie@ysu.edu
+
+5. Will Maddox
+   Email: wpmaddox@ysu.edu
+   Username: wpmaddox
+   Sports: Baseball
+   Title: Associate Head Baseball Coach
+   Original line: Will Maddox Associate Head Baseball Coach wpmaddox@ysu.edu
+
+6. Dylan Moser
+   Email: dmmoser@ysu.edu
+   Username: dmmoser
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Dylan Moser Assistant Baseball Coach dmmoser@ysu.edu
+
+7. Evan Johnson
+   Email: ejohnson10@ysu.edu
+   Username: ejohnson10
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Evan Johnson Assistant Baseball Coach ejohnson10@ysu.edu
+
+8. Danny Reese
+   Email: dereese01@ysu.edu
+   Username: dereese01
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Danny Reese Assistant Men's Basketball Coach dereese01@ysu.edu
+
+9. Anthony Johnson
+   Email: adjohnson11@ysu.edu
+   Username: adjohnson11
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Anthony Johnson Assistant Men's Basketball Coach adjohnson11@ysu.edu
+
+10. Dwaine Osborne
+   Email: jdosborne@ysu.edu
+   Username: jdosborne
+   Sports: Baseball
+   Title: Associate Men's Basketball Head Coach
+   Original line: Dwaine Osborne Associate Men's Basketball Head Coach jdosborne@ysu.edu
+
+11. Mark Richmond
+   Email: marichmond@ysu.edu
+   Username: marichmond
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Mark Richmond Assistant Men's Basketball Coach marichmond@ysu.edu
+
+12. Melissa Jackson
+   Email: mdjackson02@ysu.edu
+   Username: mdjackson02
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Melissa Jackson Head Women's Basketball Coach mdjackson02@ysu.edu
+
+13. Courtney Davidson
+   Email: cldavidson@ysu.edu
+   Username: cldavidson
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Courtney Davidson Assistant Women's Basketball Coach cldavidson@ysu.edu
+
+14. Kayla DeCriscio
+   Email: kbdecriscio@ysu.edu
+   Username: kbdecriscio
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Kayla DeCriscio Assistant Women's Basketball Coach kbdecriscio@ysu.edu
+
+15. Shayna Gore
+   Email: sbgore@ysu.edu
+   Username: sbgore
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Shayna Gore Assistant Women's Basketball Coach sbgore@ysu.edu
+
+16. Logan Miller
+   Email: ljmiller03@student.ysu.edu
+   Username: ljmiller03
+   Sports: Baseball
+   Title: Graduate Assistant Women's Basketball Coach
+   Original line: Logan Miller Graduate Assistant Women's Basketball Coach ljmiller03@student.ysu.edu
+
+17. Doug Kuberski
+   Email: dwkuberski@ysu.edu
+   Username: dwkuberski
+   Sports: Baseball
+   Title: Head Women's Bowling Coach
+   Original line: Doug Kuberski Head Women's Bowling Coach dwkuberski@ysu.edu
+
+18. Mackenzie Olesky
+   Email: mmolesky@student.ysu.edu
+   Username: mmolesky
+   Sports: Baseball
+   Title: Assistant Bowling Coach
+   Original line: Mackenzie Olesky Assistant Bowling Coach mmolesky@student.ysu.edu
+
+19. Madyson Marx
+   Email: mrmarx@ysu.edu
+   Username: mrmarx
+   Sports: Baseball
+   Title: Graduate Assistant Bowling Coach
+   Original line: Madyson Marx Graduate Assistant Bowling Coach mrmarx@ysu.edu
+
+20. Brian Gorby
+   Email: bdgorby@ysu.edu
+   Username: bdgorby
+   Sports: Cross Country
+   Title: Head Cross Country Coach
+   Original line: Brian Gorby Head Cross Country Coach bdgorby@ysu.edu
+
+21. Keith Gorby
+   Email: kegorby@ysu.edu
+   Username: kegorby
+   Sports: Cross Country
+   Title: Assistant Track & Field/Cross Country Coach
+   Original line: Keith Gorby Assistant Track & Field/Cross Country Coach kegorby@ysu.edu
+
+22. John Haneline
+   Email: jphaneline@ysu.edu
+   Username: jphaneline
+   Sports: Football
+   Title: Assistant Football Coach - Defensive
+   Original line: John Haneline Assistant Football Coach - Defensive jphaneline@ysu.edu
+
+23. Mike Yurcich
+   Email: mtyurcich@ysu.edu
+   Username: mtyurcich
+   Sports: Football
+   Title: Assistant Football Coach - Offensive
+   Original line: Mike Yurcich Assistant Football Coach - Offensive mtyurcich@ysu.edu
+
+24. Line 
+   Email: abujnoch@ysu.edu
+   Username: abujnoch
+   Sports: Football
+   Title: Austen Bujnoch Assistant Football Coach
+   Original line: Austen Bujnoch Assistant Football Coach - Offensive Line abujnoch@ysu.edu
+
+25. Line 
+   Email: rthunter@ysu.edu
+   Username: rthunter
+   Sports: Football
+   Title: Ray Hunter Assistant Football Coach
+   Original line: Ray Hunter Assistant Football Coach - Defensive Line rthunter@ysu.edu
+
+26. Special Teams
+   Email: pbshepard@ysu.edu
+   Username: pbshepard
+   Sports: Football
+   Title: Pat Shepard Assistant Football Coach
+   Original line: Pat Shepard Assistant Football Coach - Special Teams pbshepard@ysu.edu
+
+27. Tight Ends
+   Email: rtgamble@ysu.edu
+   Username: rtgamble
+   Sports: Football
+   Title: Reggie Gamble Assistant Football Coach
+   Original line: Reggie Gamble Assistant Football Coach - Tight Ends rtgamble@ysu.edu
+
+28. Trent Voss
+   Email: tjvoss@ysu.edu
+   Username: tjvoss
+   Sports: Football
+   Title: Assistant Football Coach - Safeties
+   Original line: Trent Voss Assistant Football Coach - Safeties tjvoss@ysu.edu
+
+29. Michael Zordich
+   Email: mezordich@ysu.edu
+   Username: mezordich
+   Sports: Football
+   Title: Assistant Football Coach - Cornerbacks
+   Original line: Michael Zordich Assistant Football Coach - Cornerbacks mezordich@ysu.edu
+
+30. Running Backs
+   Email: jmheacock@ysu.edu
+   Username: jmheacock
+   Sports: Football
+   Title: Justin Heacock Assistant Football Coach
+   Original line: Justin Heacock Assistant Football Coach - Running Backs jmheacock@ysu.edu
+
+31. Wide Receivers
+   Email: cjparry@ysu.edu
+   Username: cjparry
+   Sports: Football
+   Title: Chris Parry Assistant Football Coach
+   Original line: Chris Parry Assistant Football Coach - Wide Receivers cjparry@ysu.edu
+
+32. Tony Joy
+   Email: tjoy@ysu.edu
+   Username: tjoy
+   Sports: Football
+   Title: Head Men's Golf Coach
+   Original line: Tony Joy Head Men's Golf Coach tjoy@ysu.edu
+
+33. Nate Miklos
+   Email: nmiklos@ysu.edu
+   Username: nmiklos
+   Sports: Football
+   Title: Head Women's Golf Coach
+   Original line: Nate Miklos Head Women's Golf Coach nmiklos@ysu.edu (724) 979-
+
+34. Lizzie Saur
+   Email: epsaur@ysu.edu
+   Username: epsaur
+   Sports: Football
+   Title: Assistant Women's Golf Coach
+   Original line: Lizzie Saur Assistant Women's Golf Coach epsaur@ysu.edu
+
+35. Liza Oakley
+   Email: eloakley@ysu.edu
+   Username: eloakley
+   Sports: Lacrosse
+   Title: Head Lacrosse Coach
+   Original line: Liza Oakley Head Lacrosse Coach eloakley@ysu.edu
+
+36. Elizabeth Mettler
+   Email: womenslax@ysu.edu
+   Username: womenslax
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Elizabeth Mettler Assistant Women's Lacrosse Coach | Director of womenslax@ysu.edu
+
+37. Julia Frombach
+   Email: jjfrombach@ysu.edu
+   Username: jjfrombach
+   Sports: Lacrosse
+   Title: Assistant Lacrosse Coach
+   Original line: Julia Frombach Assistant Lacrosse Coach jjfrombach@ysu.edu
+
+38. Rich Wall
+   Email: rjwall@ysu.edu
+   Username: rjwall
+   Sports: Soccer
+   Title: Women's Soccer Head Coach
+   Original line: Rich Wall Women's Soccer Head Coach rjwall@ysu.edu
+
+39. Michele Barletta
+   Email: mabarletta@ysu.edu
+   Username: mabarletta
+   Sports: Soccer
+   Title: Assistant Women's Soccer Coach
+   Original line: Michele Barletta Assistant Women's Soccer Coach mabarletta@ysu.edu
+
+40. Avery Fenchel
+   Email: akfenchel@ysu.edu
+   Username: akfenchel
+   Sports: Soccer
+   Title: Assistant Women's Soccer Coach
+   Original line: Avery Fenchel Assistant Women's Soccer Coach akfenchel@ysu.edu
+
+41. Taryn Baxter
+   Email: tbaxter01@ysu.edu
+   Username: tbaxter01
+   Sports: Soccer
+   Title: Assistant Women's Soccer Coach
+   Original line: Taryn Baxter Assistant Women's Soccer Coach tbaxter01@ysu.edu
+
+42. Brian Campbell
+   Email: bcampbell@ysu.edu
+   Username: bcampbell
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Brian Campbell Head Softball Coach bcampbell@ysu.edu
+
+43. Taylor Farmer
+   Email: tjfarmer@ysu.edu
+   Username: tjfarmer
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Taylor Farmer Assistant Softball Coach tjfarmer@ysu.edu
+
+44. Erin Pond
+   Email: eepond@ysu.edu
+   Username: eepond
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Erin Pond Assistant Softball Coach eepond@ysu.edu
+
+45. Brad Smith
+   Email: basmith11@ysu.edu
+   Username: basmith11
+   Sports: Swimming
+   Title: Head Women's and Men's Swimming & Diving Coach
+   Original line: Brad Smith Head Women's and Men's Swimming & Diving Coach basmith11@ysu.edu
+
+46. Noah Frederick
+   Email: nrfrederick@ysu.edu
+   Username: nrfrederick
+   Sports: Swimming
+   Title: Assistant Coach - Swimming
+   Original line: Noah Frederick Assistant Coach - Swimming nrfrederick@ysu.edu
+
+47. Abby Doss
+   Email: apdoss@ysu.edu
+   Username: apdoss
+   Sports: Swimming
+   Title: Assistant Coach - Swimming
+   Original line: Abby Doss Assistant Coach - Swimming apdoss@ysu.edu
+
+48. Ron Navarra
+   Email: rjnavarra@ysu.edu
+   Username: rjnavarra
+   Sports: Swimming
+   Title: Assistant Coach - Diving
+   Original line: Ron Navarra Assistant Coach - Diving rjnavarra@ysu.edu
+
+49. Kody Duncan
+   Email: kgduncan@ysu.edu
+   Username: kgduncan
+   Sports: Swimming
+   Title: Head Men's Tennis Coach
+   Original line: Kody Duncan Head Men's Tennis Coach kgduncan@ysu.edu
+
+50. Joe Dagati
+   Email: jdagati01@ysu.edu
+   Username: jdagati01
+   Sports: Swimming
+   Title: Assistant Men's Tennis Coach
+   Original line: Joe Dagati Assistant Men's Tennis Coach jdagati01@ysu.edu
+
+51. Mickael Sopel
+   Email: msopel@ysu.edu
+   Username: msopel
+   Sports: Swimming
+   Title: Head Women's Tennis Coach
+   Original line: Mickael Sopel Head Women's Tennis Coach msopel@ysu.edu
+
+52. Marcus Nardy
+   Email: mlnardy@student.ysu.edu
+   Username: mlnardy
+   Sports: Swimming
+   Title: Assistant Women's Tennis Coach
+   Original line: Marcus Nardy Assistant Women's Tennis Coach mlnardy@student.ysu.edu
+
+53. Brian Gorby
+   Email: bdgorby@ysu.edu
+   Username: bdgorby
+   Sports: Track & Field
+   Title: Head Track & Field/Cross Country Coach
+   Original line: Brian Gorby Head Track & Field/Cross Country Coach bdgorby@ysu.edu
+
+54. David Townsend
+   Email: dtown23253@aol.com
+   Username: dtown23253
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach - Sprints
+   Original line: David Townsend Assistant Track & Field Coach - Sprints dtown23253@aol.com
+
+55. Pole Vault
+   Email: rdpenniman@ysu.edu
+   Username: rdpenniman
+   Sports: Track & Field
+   Title: Rick Penniman Assistant Track & Field Coach
+   Original line: Rick Penniman Assistant Track & Field Coach - Pole Vault rdpenniman@ysu.edu
+
+56. Arnaldo Morales
+   Email: ajmorales@ysu.edu
+   Username: ajmorales
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach - Jumps/Multis
+   Original line: Arnaldo Morales Assistant Track & Field Coach - Jumps/Multis ajmorales@ysu.edu
+
+57. Jake Glass
+   Email: jeglass@ysu.edu
+   Username: jeglass
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach - Throws
+   Original line: Jake Glass Assistant Track & Field Coach - Throws jeglass@ysu.edu
+
+58. Keith Gorby
+   Email: kegorby@ysu.edu
+   Username: kegorby
+   Sports: Track & Field
+   Title: Assistant Track & Field/Cross Country Coach
+   Original line: Keith Gorby Assistant Track & Field/Cross Country Coach kegorby@ysu.edu
+
+59. Bre Rupe
+   Email: blbakan@ysu.edu
+   Username: blbakan
+   Sports: Track & Field
+   Title: Assistant Track & Field/Cross Country Coach
+   Original line: Bre Rupe Assistant Track & Field/Cross Country Coach blbakan@ysu.edu
+
+60. Riley Jarrett
+   Email: rljarrett01@ysu.edu
+   Username: rljarrett01
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Riley Jarrett Head Volleyball Coach rljarrett01@ysu.edu
+
+61. Grace Wilson
+   Email: gewilson03@ysu.edu
+   Username: gewilson03
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Grace Wilson Assistant Volleyball Coach gewilson03@ysu.edu
+
+62. Maddie Clayton
+   Email: mclayton01@ysu.edu
+   Username: mclayton01
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Maddie Clayton Assistant Volleyball Coach mclayton01@ysu.edu
+
+63. Sam Ott
+   Email: saott01@ysu.edu
+   Username: saott01
+   Sports: Volleyball
+   Title: Graduate Assistant Volleyball Coach
+   Original line: Sam Ott Graduate Assistant Volleyball Coach saott01@ysu.edu
+
+64. Ethan Faulkner
+   Email: 
+   Username: ethan.faulkner
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Ethan Faulkner Head Men's Basketball Coach
+
+65.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+66. Doug Phillips
+   Email: 
+   Username: doug.phillips
+   Sports: Soccer
+   Title: Doug Phillips Head Football Coach
+   Original line: Doug Phillips Head Football Coach
+
+67. Jeff Wilkins
+   Email: 
+   Username: jeff.wilkins
+   Sports: Soccer
+   Title: Jeff Wilkins Assistant Football Coach
+   Original line: Jeff Wilkins Assistant Football Coach
+
+68. Daniel Minenok
+   Email: 
+   Username: daniel.minenok
+   Sports: Soccer
+   Title: Daniel Minenok Assistant Football Coach - Graduate Assistant
+   Original line: Daniel Minenok Assistant Football Coach - Graduate Assistant (Defense)
+
+69. Mike to
+   Email: 
+   Username: mike.to
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mike Tomczak Advisor to the Head Coach
+
+70. Tom Chief
+   Email: twphillips02@ysu.edu
+   Username: twphillips02
+   Sports: Soccer
+   Title: Morgan Bequeaith Assistant Football Coach - Graduate Assistant
+   Original line: Morgan Bequeaith Assistant Football Coach - Graduate Assistant (Offense) twphillips02@ysu.edu
+
+71. Rollen Smith
+   Email: rtsmith03@ysu.edu
+   Username: rtsmith03
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Brian Terlesky Assistant Men's & Women's Golf Coach rtsmith03@ysu.edu
+
+72. Elyssa Graduate
+   Email: 
+   Username: elyssa.graduate
+   Sports: Softball
+   Title: Elyssa Imler Graduate Assistant Softball Coach
+   Original line: Elyssa Imler Graduate Assistant Softball Coach
+
+73. Petar Palkovic
+   Email: 
+   Username: petar.palkovic
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Petar Basic Palkovic Assistant Men's Tennis Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Nick Calhoun Assistant Sports Performance Coach nacalhoun@ysu.edu
+• Hunter Pembleton Assistant Sports Performance Coach hbpembleton@ysu.edu
+• Mariya Mendoza Assistant Sports Performance Coach mmmendoza@ysu.edu
+• Trevor Charpie Head Baseball Coach tcharpie@ysu.edu
+• Will Maddox Associate Head Baseball Coach wpmaddox@ysu.edu
+• Dylan Moser Assistant Baseball Coach dmmoser@ysu.edu
+• Evan Johnson Assistant Baseball Coach ejohnson10@ysu.edu
+• Danny Reese Assistant Men's Basketball Coach dereese01@ysu.edu
+• Anthony Johnson Assistant Men's Basketball Coach adjohnson11@ysu.edu
+• Dwaine Osborne Associate Men's Basketball Head Coach jdosborne@ysu.edu
+• Mark Richmond Assistant Men's Basketball Coach marichmond@ysu.edu
+• Melissa Jackson Head Women's Basketball Coach mdjackson02@ysu.edu
+• Courtney Davidson Assistant Women's Basketball Coach cldavidson@ysu.edu
+• Kayla DeCriscio Assistant Women's Basketball Coach kbdecriscio@ysu.edu
+• Shayna Gore Assistant Women's Basketball Coach sbgore@ysu.edu
+• Logan Miller Graduate Assistant Women's Basketball Coach ljmiller03@student.ysu.edu
+• Doug Kuberski Head Women's Bowling Coach dwkuberski@ysu.edu
+• Mackenzie Olesky Assistant Bowling Coach mmolesky@student.ysu.edu
+• Madyson Marx Graduate Assistant Bowling Coach mrmarx@ysu.edu
+• Brian Gorby Head Cross Country Coach bdgorby@ysu.edu
+• Keith Gorby Assistant Track & Field/Cross Country Coach kegorby@ysu.edu
+• John Haneline Assistant Football Coach - Defensive jphaneline@ysu.edu
+• Mike Yurcich Assistant Football Coach - Offensive mtyurcich@ysu.edu
+• Austen Bujnoch Assistant Football Coach - Offensive Line abujnoch@ysu.edu
+• Ray Hunter Assistant Football Coach - Defensive Line rthunter@ysu.edu
+• Pat Shepard Assistant Football Coach - Special Teams pbshepard@ysu.edu
+• Reggie Gamble Assistant Football Coach - Tight Ends rtgamble@ysu.edu
+• Trent Voss Assistant Football Coach - Safeties tjvoss@ysu.edu
+• Michael Zordich Assistant Football Coach - Cornerbacks mezordich@ysu.edu
+• Justin Heacock Assistant Football Coach - Running Backs jmheacock@ysu.edu
+• Chris Parry Assistant Football Coach - Wide Receivers cjparry@ysu.edu
+• Tony Joy Head Men's Golf Coach tjoy@ysu.edu
+• Nate Miklos Head Women's Golf Coach nmiklos@ysu.edu (724) 979-
+• Lizzie Saur Assistant Women's Golf Coach epsaur@ysu.edu
+• Liza Oakley Head Lacrosse Coach eloakley@ysu.edu
+• Elizabeth Mettler Assistant Women's Lacrosse Coach | Director of womenslax@ysu.edu
+• Julia Frombach Assistant Lacrosse Coach jjfrombach@ysu.edu
+• Rich Wall Women's Soccer Head Coach rjwall@ysu.edu
+• Michele Barletta Assistant Women's Soccer Coach mabarletta@ysu.edu
+• Avery Fenchel Assistant Women's Soccer Coach akfenchel@ysu.edu
+• Taryn Baxter Assistant Women's Soccer Coach tbaxter01@ysu.edu
+• Brian Campbell Head Softball Coach bcampbell@ysu.edu
+• Taylor Farmer Assistant Softball Coach tjfarmer@ysu.edu
+• Erin Pond Assistant Softball Coach eepond@ysu.edu
+• Brad Smith Head Women's and Men's Swimming & Diving Coach basmith11@ysu.edu
+• Noah Frederick Assistant Coach - Swimming nrfrederick@ysu.edu
+• Abby Doss Assistant Coach - Swimming apdoss@ysu.edu
+• Ron Navarra Assistant Coach - Diving rjnavarra@ysu.edu
+• Kody Duncan Head Men's Tennis Coach kgduncan@ysu.edu
+• Joe Dagati Assistant Men's Tennis Coach jdagati01@ysu.edu
+• Mickael Sopel Head Women's Tennis Coach msopel@ysu.edu
+• Marcus Nardy Assistant Women's Tennis Coach mlnardy@student.ysu.edu
+• Brian Gorby Head Track & Field/Cross Country Coach bdgorby@ysu.edu
+• David Townsend Assistant Track & Field Coach - Sprints dtown23253@aol.com
+• Rick Penniman Assistant Track & Field Coach - Pole Vault rdpenniman@ysu.edu
+• Arnaldo Morales Assistant Track & Field Coach - Jumps/Multis ajmorales@ysu.edu
+• Jake Glass Assistant Track & Field Coach - Throws jeglass@ysu.edu
+• Keith Gorby Assistant Track & Field/Cross Country Coach kegorby@ysu.edu
+• Bre Rupe Assistant Track & Field/Cross Country Coach blbakan@ysu.edu
+• Riley Jarrett Head Volleyball Coach rljarrett01@ysu.edu
+• Grace Wilson Assistant Volleyball Coach gewilson03@ysu.edu
+• Maddie Clayton Assistant Volleyball Coach mclayton01@ysu.edu
+• Sam Ott Graduate Assistant Volleyball Coach saott01@ysu.edu

@@ -1,0 +1,441 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:14
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Oberlin College
+Organization: Oberlin College Athletics
+
+Total coaches found: 54
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bernadette Forbush
+   Email: bernadette@t3athlete.com
+   Username: bernadette
+   Sports: Soccer
+   Title: Performance Coach
+   Original line: Bernadette Forbush T3 Performance Coach bernadette@t3athlete.com 831-245-
+
+2. Johnathan Ray
+   Email: jray2@oberlin.edu
+   Username: jray2
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Johnathan Ray Head Baseball Coach jray2@oberlin.edu 440-227-
+
+3. Tyler Schuch
+   Email: tschuch@oberlin.edu
+   Username: tschuch
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Tyler Schuch Assistant Baseball Coach tschuch@oberlin.edu 330-749-
+
+4. Shiva Senthil
+   Email: ssenthi1@oberlin.edu
+   Username: ssenthi1
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Shiva Senthil Head Men's Basketball Coach ssenthi1@oberlin.edu 440-219-
+
+5. Nate Smith
+   Email: nsmith4@oberlin.edu
+   Username: nsmith4
+   Sports: Baseball
+   Title: Associate Head Men's Basketball Coach
+   Original line: Nate Smith Associate Head Men's Basketball Coach nsmith4@oberlin.edu 419-351-
+
+6. Cory Emerine
+   Email: cemerine@oberlin.edu
+   Username: cemerine
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Cory Emerine Assistant Men's Basketball Coach cemerine@oberlin.edu 440-552-
+
+7. Evan Wiehe
+   Email: ewiehe@oberlin.edu
+   Username: ewiehe
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Evan Wiehe Assistant Men's Basketball Coach ewiehe@oberlin.edu 216-213-
+
+8. Avery Ghose
+   Email: aghose@oberlin.edu
+   Username: aghose
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Avery Ghose Assistant Men's Basketball Coach aghose@oberlin.edu 978-501-
+
+9. Stephany Dunmyer
+   Email: sdunmyer@oberlin.edu
+   Username: sdunmyer
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Stephany Dunmyer Head Women's Basketball Coach sdunmyer@oberlin.edu 440-775-
+
+10. Abigail Yunker
+   Email: ayunker@oberlin.edu
+   Username: ayunker
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Abigail Yunker Assistant Women's Basketball Coach ayunker@oberlin.edu
+
+11. Izzy Alexander
+   Email: izzy.alexander@oberlin.edu
+   Username: izzy.alexander
+   Sports: Cross Country
+   Title: Head Cross Country Coach / Assistant Track and
+   Original line: Izzy Alexander Head Cross Country Coach / Assistant Track and Field Coach izzy.alexander@oberlin.edu 440-775-
+
+12. Eric Line
+   Email: eline@oberlin.edu
+   Username: eline
+   Sports: Cross Country
+   Title: Assistant Cross Country Coach / Assistant Track &
+   Original line: Eric Line Assistant Cross Country Coach / Assistant Track & Field Coach- eline@oberlin.edu 440-935-
+
+13. Jess West
+   Email: jwest2@oberlin.edu
+   Username: jwest2
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Jess West Head Field Hockey Coach jwest2@oberlin.edu 440-935-
+
+14. Emily Harris
+   Email: eharris7@oberlin.edu
+   Username: eharris7
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Emily Harris Assistant Field Hockey Coach eharris7@oberlin.edu
+
+15. John Pont
+   Email: jpont@oberlin.edu
+   Username: jpont
+   Sports: Football
+   Title: Head Football Coach
+   Original line: John Pont Head Football Coach jpont@oberlin.edu
+
+16. Ben Hammer
+   Email: bhammer@oberlin.edu
+   Username: bhammer
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Ben Hammer Associate Head Coach bhammer@oberlin.edu
+
+17. Roseanna Smith
+   Email: rsmith5@oberlin.edu
+   Username: rsmith5
+   Sports: Football
+   Title: Chief of Staff / Assistant Football Coach
+   Original line: Roseanna Smith Chief of Staff / Assistant Football Coach rsmith5@oberlin.edu
+
+18. Kyle Zies
+   Email: kzies@oberlin.edu
+   Username: kzies
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Kyle Zies Assistant Football Coach kzies@oberlin.edu
+
+19. Jay Peterson
+   Email: apeters7@oberlin.edu
+   Username: apeters7
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Jay Peterson Assistant Football Coach apeters7@oberlin.edu
+
+20. Dante Reynolds
+   Email: dreynol1@oberlin.edu
+   Username: dreynol1
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Dante Reynolds Assistant Football Coach dreynol1@oberlin.edu
+
+21. Ryan Polak
+   Email: ryan.polak@oberlin.edu
+   Username: ryan.polak
+   Sports: Football
+   Title: Head Men's Lacrosse Coach
+   Original line: Ryan Polak Head Men's Lacrosse Coach ryan.polak@oberlin.edu 201-693-
+
+22. Thomas Klosowski
+   Email: tklosows@oberlin.edu
+   Username: tklosows
+   Sports: Football
+   Title: Associate Head Men's Lacrosse Coach
+   Original line: Thomas Klosowski Associate Head Men's Lacrosse Coach tklosows@oberlin.edu 440-935-
+
+23. Malory Nadrah
+   Email: mnadrah@oberlin.edu
+   Username: mnadrah
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Malory Nadrah Head Women's Lacrosse Coach mnadrah@oberlin.edu 440-935-
+
+24. Mike Petrella
+   Email: ct_mpetrella@oberlin.edu
+   Username: ct_mpetrella
+   Sports: Football
+   Title: Assistant Women's Lacrosse Coach - Goalies &
+   Original line: Mike Petrella Assistant Women's Lacrosse Coach - Goalies & Recruiting Coordinator ct_mpetrella@oberlin.edu 440-903-
+
+25. Blake New
+   Email: blake.new@oberlin.edu
+   Username: blake.new
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Blake New Head Men's Soccer Coach blake.new@oberlin.edu 440-775-
+
+26. Shelby Edwards
+   Email: sedward4@oberlin.edu
+   Username: sedward4
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Shelby Edwards Assistant Men's Soccer Coach sedward4@oberlin.edu 440-775-
+
+27. Goalkeeper 
+   Email: amiroberlinsc@gmail.com
+   Username: amiroberlinsc
+   Sports: Football
+   Title: Amir Kettani Assistant Men's Soccer Coach /
+   Original line: Amir Kettani Assistant Men's Soccer Coach / Goalkeeper Coach amiroberlinsc@gmail.com 440-796-
+
+28. Taylor Houck
+   Email: thouck@oberlin.edu
+   Username: thouck
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Taylor Houck Head Women's Soccer Coach thouck@oberlin.edu 440-775-
+
+29. Lydia Mitchell
+   Email: lmitchel@oberlin.edu
+   Username: lmitchel
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Lydia Mitchell Assistant Women's Soccer Coach lmitchel@oberlin.edu 541-240-
+
+30. Joe Vitale
+   Email: jvitale@oberlin.edu
+   Username: jvitale
+   Sports: Football
+   Title: Volunteer Assistant Women's Soccer Coach
+   Original line: Joe Vitale Volunteer Assistant Women's Soccer Coach jvitale@oberlin.edu
+
+31. Julie Pratt
+   Email: jpratt@oberlin.edu
+   Username: jpratt
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Julie Pratt Head Softball Coach jpratt@oberlin.edu 330-329-
+
+32. Lauren Dockrill
+   Email: ldockril@oberlin.edu
+   Username: ldockril
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Lauren Dockrill Assistant Softball Coach ldockril@oberlin.edu
+
+33. Aquatics 
+   Email: alex.delapena@oberlin.edu
+   Username: alex.delapena
+   Sports: Swimming
+   Title: Alex de la Peña Head Swimming & Diving Coach &
+   Original line: Alex de la Peña Head Swimming & Diving Coach & Aquatics Director alex.delapena@oberlin.edu 440-315-
+
+34. Jessica Padilla
+   Email: jpadill3@oberlin.edu
+   Username: jpadill3
+   Sports: Swimming
+   Title: Assistant Swimming & Diving Coach
+   Original line: Jessica Padilla Assistant Swimming & Diving Coach jpadill3@oberlin.edu 440-522-
+
+35. Eric Ishida
+   Email: eric.ishida@oberlin.edu
+   Username: eric.ishida
+   Sports: Swimming
+   Title: Head Men's Tennis Coach
+   Original line: Eric Ishida Head Men's Tennis Coach eric.ishida@oberlin.edu 440-315-
+
+36. John Erikson
+   Email: jerikson@oberlin.edu
+   Username: jerikson
+   Sports: Swimming
+   Title: Assistant Men's & Women's Tennis Coach
+   Original line: John Erikson Assistant Men's & Women's Tennis Coach jerikson@oberlin.edu 440-775-
+
+37. Magda Stepnik
+   Email: mstepnik@oberlin.edu
+   Username: mstepnik
+   Sports: Swimming
+   Title: Head Women's Tennis Coach
+   Original line: Magda Stepnik Head Women's Tennis Coach mstepnik@oberlin.edu 863-529-
+
+38. John Erikson
+   Email: jerikson@oberlin.edu
+   Username: jerikson
+   Sports: Swimming
+   Title: Assistant Men's & Women's Tennis Coach
+   Original line: John Erikson Assistant Men's & Women's Tennis Coach jerikson@oberlin.edu 440-775-
+
+39. Ben Wach
+   Email: ben.wach@oberlin.edu
+   Username: ben.wach
+   Sports: Track & Field
+   Title: Head Track & Field Coach - Combined Events/Sprints/Hurdles
+   Original line: Ben Wach Head Track & Field Coach - Combined Events/Sprints/Hurdles ben.wach@oberlin.edu 440-775-
+
+40. Izzy Alexander
+   Email: izzy.alexander@oberlin.edu
+   Username: izzy.alexander
+   Sports: Track & Field
+   Title: Head Cross Country Coach / Assistant Track and
+   Original line: Izzy Alexander Head Cross Country Coach / Assistant Track and Field Coach izzy.alexander@oberlin.edu 440-775-
+
+41. Jillian Roberts
+   Email: jrobert1@oberlin.edu
+   Username: jrobert1
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach - Throws
+   Original line: Jillian Roberts Assistant Track & Field Coach - Throws jrobert1@oberlin.edu 440-371-
+
+42. Eric Klopfenstein
+   Email: eklopfen@oberlin.edu
+   Username: eklopfen
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach - Sprints/Hurdles
+   Original line: Eric Klopfenstein Assistant Track & Field Coach - Sprints/Hurdles eklopfen@oberlin.edu 440-935-
+
+43. Eric Line
+   Email: eline@oberlin.edu
+   Username: eline
+   Sports: Track & Field
+   Title: Assistant Cross Country Coach / Assistant Track &
+   Original line: Eric Line Assistant Cross Country Coach / Assistant Track & Field Coach- eline@oberlin.edu 440-935-
+
+44. Ray Harris
+   Email: rgharris@oberlin.edu
+   Username: rgharris
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach - Jumps
+   Original line: Ray Harris Assistant Track & Field Coach - Jumps rgharris@oberlin.edu 440-590-
+
+45. Jasmine Brown
+   Email: jbrown4@oberlin.edu
+   Username: jbrown4
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Jasmine Brown Head Volleyball Coach jbrown4@oberlin.edu 713-492-
+
+46. Paola Maradei
+   Email: pmaradei@oberlin.edu
+   Username: pmaradei
+   Sports: Volleyball
+   Title: Mejia Assistant Volleyball Coach
+   Original line: Paola Maradei Mejia Assistant Volleyball Coach pmaradei@oberlin.edu
+
+47. Katie Stansbury
+   Email: kstansbu@oberlin.edu
+   Username: kstansbu
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Katie Stansbury Assistant Volleyball Coach kstansbu@oberlin.edu 440-799-
+
+48. Creg Jantz
+   Email: creg.jantz@oberlin.edu
+   Username: creg.jantz
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Assistant Women's Lacrosse Coach 8503 creg.jantz@oberlin.edu
+
+49. Conner Rybka
+   Email: crybka@oberlin.edu
+   Username: crybka
+   Sports: Soccer
+   Title: Performance Coach
+   Original line: Zachary Santoro T3 Performance Coach crybka@oberlin.edu
+
+50. Christopher Equipment
+   Email: chanders@oberlin.edu
+   Username: chanders
+   Sports: Baseball
+   Title: Eric Urban Assistant Baseball Coach
+   Original line: Eric Urban Assistant Baseball Coach chanders@oberlin.edu
+
+51. Jake Kessler
+   Email: 
+   Username: jake.kessler
+   Sports: Baseball
+   Title: Jake Kessler Assistant Baseball Coach
+   Original line: Jake Kessler Assistant Baseball Coach
+
+52. Mia Volunteer
+   Email: 
+   Username: mia.volunteer
+   Sports: Softball
+   Title: Mia Brito Volunteer Assistant Softball Coach
+   Original line: Mia Brito Volunteer Assistant Softball Coach
+
+53. Nicole Volunteer
+   Email: 
+   Username: nicole.volunteer
+   Sports: Softball
+   Title: Nicole Doyle Volunteer Assistant Softball Coach
+   Original line: Nicole Doyle Volunteer Assistant Softball Coach
+
+54. Ben Gutzky
+   Email: 
+   Username: ben.gutzky
+   Sports: Track & Field
+   Title: Ben Gutzky Assistant Track & Field Coach - Throws
+   Original line: Ben Gutzky Assistant Track & Field Coach - Throws
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bernadette Forbush T3 Performance Coach bernadette@t3athlete.com 831-245-
+• Johnathan Ray Head Baseball Coach jray2@oberlin.edu 440-227-
+• Tyler Schuch Assistant Baseball Coach tschuch@oberlin.edu 330-749-
+• Shiva Senthil Head Men's Basketball Coach ssenthi1@oberlin.edu 440-219-
+• Nate Smith Associate Head Men's Basketball Coach nsmith4@oberlin.edu 419-351-
+• Cory Emerine Assistant Men's Basketball Coach cemerine@oberlin.edu 440-552-
+• Evan Wiehe Assistant Men's Basketball Coach ewiehe@oberlin.edu 216-213-
+• Avery Ghose Assistant Men's Basketball Coach aghose@oberlin.edu 978-501-
+• Stephany Dunmyer Head Women's Basketball Coach sdunmyer@oberlin.edu 440-775-
+• Abigail Yunker Assistant Women's Basketball Coach ayunker@oberlin.edu
+• Izzy Alexander Head Cross Country Coach / Assistant Track and Field Coach izzy.alexander@oberlin.edu 440-775-
+• Eric Line Assistant Cross Country Coach / Assistant Track & Field Coach- eline@oberlin.edu 440-935-
+• Jess West Head Field Hockey Coach jwest2@oberlin.edu 440-935-
+• Emily Harris Assistant Field Hockey Coach eharris7@oberlin.edu
+• John Pont Head Football Coach jpont@oberlin.edu
+• Ben Hammer Associate Head Coach bhammer@oberlin.edu
+• Roseanna Smith Chief of Staff / Assistant Football Coach rsmith5@oberlin.edu
+• Kyle Zies Assistant Football Coach kzies@oberlin.edu
+• Jay Peterson Assistant Football Coach apeters7@oberlin.edu
+• Dante Reynolds Assistant Football Coach dreynol1@oberlin.edu
+• Ryan Polak Head Men's Lacrosse Coach ryan.polak@oberlin.edu 201-693-
+• Thomas Klosowski Associate Head Men's Lacrosse Coach tklosows@oberlin.edu 440-935-
+• Malory Nadrah Head Women's Lacrosse Coach mnadrah@oberlin.edu 440-935-
+• Mike Petrella Assistant Women's Lacrosse Coach - Goalies & Recruiting Coordinator ct_mpetrella@oberlin.edu 440-903-
+• Blake New Head Men's Soccer Coach blake.new@oberlin.edu 440-775-
+• Shelby Edwards Assistant Men's Soccer Coach sedward4@oberlin.edu 440-775-
+• Amir Kettani Assistant Men's Soccer Coach / Goalkeeper Coach amiroberlinsc@gmail.com 440-796-
+• Taylor Houck Head Women's Soccer Coach thouck@oberlin.edu 440-775-
+• Lydia Mitchell Assistant Women's Soccer Coach lmitchel@oberlin.edu 541-240-
+• Joe Vitale Volunteer Assistant Women's Soccer Coach jvitale@oberlin.edu
+• Julie Pratt Head Softball Coach jpratt@oberlin.edu 330-329-
+• Lauren Dockrill Assistant Softball Coach ldockril@oberlin.edu
+• Alex de la Peña Head Swimming & Diving Coach & Aquatics Director alex.delapena@oberlin.edu 440-315-
+• Jessica Padilla Assistant Swimming & Diving Coach jpadill3@oberlin.edu 440-522-
+• Eric Ishida Head Men's Tennis Coach eric.ishida@oberlin.edu 440-315-
+• John Erikson Assistant Men's & Women's Tennis Coach jerikson@oberlin.edu 440-775-
+• Magda Stepnik Head Women's Tennis Coach mstepnik@oberlin.edu 863-529-
+• John Erikson Assistant Men's & Women's Tennis Coach jerikson@oberlin.edu 440-775-
+• Ben Wach Head Track & Field Coach - Combined Events/Sprints/Hurdles ben.wach@oberlin.edu 440-775-
+• Izzy Alexander Head Cross Country Coach / Assistant Track and Field Coach izzy.alexander@oberlin.edu 440-775-
+• Jillian Roberts Assistant Track & Field Coach - Throws jrobert1@oberlin.edu 440-371-
+• Eric Klopfenstein Assistant Track & Field Coach - Sprints/Hurdles eklopfen@oberlin.edu 440-935-
+• Eric Line Assistant Cross Country Coach / Assistant Track & Field Coach- eline@oberlin.edu 440-935-
+• Ray Harris Assistant Track & Field Coach - Jumps rgharris@oberlin.edu 440-590-
+• Jasmine Brown Head Volleyball Coach jbrown4@oberlin.edu 713-492-
+• Paola Maradei Mejia Assistant Volleyball Coach pmaradei@oberlin.edu
+• Katie Stansbury Assistant Volleyball Coach kstansbu@oberlin.edu 440-799-

@@ -1,0 +1,393 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:14
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Fairmont State University
+Organization: Fairmont State University Athletics
+
+Total coaches found: 50
+
+PARSED ENTRIES:
+----------------------------------------
+1. Adam Kolberg
+   Email: Adam.Kolberg@fairmontstate.edu
+   Username: Adam.Kolberg
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Adam Kolberg Head Strength & Conditioning Coach Adam.Kolberg@fairmontstate.edu
+
+2. Danielle Cutri
+   Email: ddicarlo@fairmontstate.edu
+   Username: ddicarlo
+   Sports: Soccer
+   Title: Head Acrobatics & Tumbling Coach
+   Original line: Danielle Cutri Head Acrobatics & Tumbling Coach ddicarlo@fairmontstate.edu (304) 367-
+
+3. Virginia Krasznay
+   Email: Virginia.Krasznay@fairmontstate.edu
+   Username: Virginia.Krasznay
+   Sports: Soccer
+   Title: Assistant Acrobatics & Tumbling Coach
+   Original line: Virginia Krasznay Assistant Acrobatics & Tumbling Coach Virginia.Krasznay@fairmontstate.edu
+
+4. Karah Paull
+   Email: Karah.Paull@fairmontstate.edu
+   Username: Karah.Paull
+   Sports: Soccer
+   Title: Volunteer Assistant Acrobatics & Tumbling Coach
+   Original line: Karah Paull Volunteer Assistant Acrobatics & Tumbling Coach Karah.Paull@fairmontstate.edu
+
+5. Matt Yurish
+   Email: Matthew.Yurish@fairmontstate.edu
+   Username: Matthew.Yurish
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Matt Yurish Head Baseball Coach Matthew.Yurish@fairmontstate.edu (304) 367-
+
+6. Tim Koenig
+   Email: tkoenig@fairmontstate.edu
+   Username: tkoenig
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Tim Koenig Head Men's Basketball Coach tkoenig@fairmontstate.edu (304) 367-
+
+7. Trent Howard
+   Email: trent.howard@fairmontstate.edu
+   Username: trent.howard
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Trent Howard Assistant Men's Basketball Coach trent.howard@fairmontstate.edu
+
+8. Donald Kummer
+   Email: Donald.Kummer@fairmontstate.edu
+   Username: Donald.Kummer
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Donald Kummer Assistant Men's Basketball Coach Donald.Kummer@fairmontstate.edu
+
+9. Tim Baab
+   Email: Timothy.Baab@fairmontstate.edu
+   Username: Timothy.Baab
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Tim Baab Assistant Men's Basketball Coach Timothy.Baab@fairmontstate.edu
+
+10. Stephanie Anderson
+   Email: smichael10@fairmontstate.edu
+   Username: smichael10
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Stephanie Anderson Head Women's Basketball Coach smichael10@fairmontstate.edu (304) 367-
+
+11. Miki Glenn
+   Email: Mikaylah.Glenn@fairmontstate.edu
+   Username: Mikaylah.Glenn
+   Sports: Baseball
+   Title: Associate Head Women's Basketball Coach
+   Original line: Miki Glenn Associate Head Women's Basketball Coach Mikaylah.Glenn@fairmontstate.edu (304) 367-
+
+12. Luke Barker
+   Email: luke.barker@fairmontstate.edu
+   Username: luke.barker
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Luke Barker Head Football Coach luke.barker@fairmontstate.edu (304) 367-
+
+13. Zack Johnson
+   Email: zachary.johnson@fairmontstate.edu
+   Username: zachary.johnson
+   Sports: Football
+   Title: Associate Head Coach / Defensive Coordinator /
+   Original line: Zack Johnson Associate Head Coach / Defensive Coordinator / zachary.johnson@fairmontstate.edu (304) 367-
+
+14. Justin Fields
+   Email: justin.fields@fairmontstate.edu
+   Username: justin.fields
+   Sports: Football
+   Title: Cornerbacks Coach / Strength &
+   Original line: Justin Fields Cornerbacks Coach / Strength & Conditioning Liaison justin.fields@fairmontstate.edu
+
+15. Rick Johnson
+   Email: richard.johnson@fairmontstate.edu
+   Username: richard.johnson
+   Sports: Football
+   Title: Head Men's & Women's Golf Coach
+   Original line: Rick Johnson Head Men's & Women's Golf Coach richard.johnson@fairmontstate.edu
+
+16. Kernell Borneo
+   Email: Kernell.Borneo@fairmontstate.edu
+   Username: Kernell.Borneo
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Kernell Borneo Head Women's Soccer Coach Kernell.Borneo@fairmontstate.edu
+
+17. Emily Gallagher
+   Email: emily.gallagher@fairmontstate.edu
+   Username: emily.gallagher
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Emily Gallagher Assistant Women's Soccer Coach emily.gallagher@fairmontstate.edu
+
+18. Nat Wilkes
+   Email: nathaniel.wilkes@fairmontstate.edu
+   Username: nathaniel.wilkes
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Nat Wilkes Assistant Women's Soccer Coach nathaniel.wilkes@fairmontstate.edu
+
+19. Brooke Lowery
+   Email: bsullivan1@fairmontstate.edu
+   Username: bsullivan1
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Brooke Lowery Head Softball Coach bsullivan1@fairmontstate.edu (304) 367-
+
+20. Amy Hills
+   Email: Amy.Hills@fairmontstate.edu
+   Username: Amy.Hills
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Amy Hills Assistant Softball Coach Amy.Hills@fairmontstate.edu
+
+21. Pat Snively
+   Email: Patrick.Snively@fairmontstate.edu
+   Username: Patrick.Snively
+   Sports: Softball
+   Title: Head Swimming Coach
+   Original line: Pat Snively Head Swimming Coach Patrick.Snively@fairmontstate.edu (304) 367-
+
+22. Nathan Fubio
+   Email: nathan.fubio@fairmontstate.edu
+   Username: nathan.fubio
+   Sports: Softball
+   Title: Assistant Swimming Coach
+   Original line: Nathan Fubio Assistant Swimming Coach nathan.fubio@fairmontstate.edu
+
+23. Terry Deremer
+   Email: Terry.Deremer@fairmontstate.edu
+   Username: Terry.Deremer
+   Sports: Softball
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Terry Deremer Head Men's and Women's Tennis Coach Terry.Deremer@fairmontstate.edu (304) 367-
+
+24. Terry Deremer
+   Email: Terry.Deremer@fairmontstate.edu
+   Username: Terry.Deremer
+   Sports: Softball
+   Title: Head Men's and Women's Tennis Coach
+   Original line: Terry Deremer Head Men's and Women's Tennis Coach Terry.Deremer@fairmontstate.edu (304) 367-
+
+25. Travis Hinkle
+   Email: Travis.Hinkle@fairmontstate.edu
+   Username: Travis.Hinkle
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Travis Hinkle Head Volleyball Coach Travis.Hinkle@fairmontstate.edu (304) 333-
+
+26. Gennaro Bonaventura
+   Email: gbonaventura@fairmontstate.edu
+   Username: gbonaventura
+   Sports: Volleyball
+   Title: Head Wrestling Coach
+   Original line: Gennaro Bonaventura Head Wrestling Coach gbonaventura@fairmontstate.edu (631) 220-
+
+27. Cole Laya
+   Email: cole.laya@fairmontstate.edu
+   Username: cole.laya
+   Sports: Volleyball
+   Title: Assistant Wrestling Coach
+   Original line: Cole Laya Assistant Wrestling Coach cole.laya@fairmontstate.edu
+
+28. Alexis Smith
+   Email: 
+   Username: alexis.smith
+   Sports: Soccer
+   Title: Alexis Smith Assistant Acrobatics & Tumbling Coach
+   Original line: Alexis Smith Assistant Acrobatics & Tumbling Coach
+
+29. Jake Goodnight
+   Email: 
+   Username: jake.goodnight
+   Sports: Baseball
+   Title: Jake Goodnight Assistant Baseball Coach
+   Original line: Jake Goodnight Assistant Baseball Coach
+
+30. Pam Volunteer
+   Email: 
+   Username: pam.volunteer
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Pam Phillips Volunteer Assistant Men's Basketball Coach
+
+31. Kyle Volunteer
+   Email: 
+   Username: kyle.volunteer
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Kyle Swaim Volunteer Assistant Men's Basketball Coach
+
+32. Madeline Graduate
+   Email: 
+   Username: madeline.graduate
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Madeline Huffman Graduate Assistant Women's Basketball Coach
+
+33. Joey Volunteer
+   Email: 
+   Username: joey.volunteer
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Joey Herron Volunteer Assistant Women's Basketball Coach
+
+34. Indoor 
+   Email: 
+   Username: indoor
+   Sports: Track & Field
+   Title: s Indoor Track & Field Coach
+   Original line: Women's Indoor Track & Field Coach
+
+35. Nate King
+   Email: 
+   Username: nate.king
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nate King Assistant Coach
+
+36. Sophie Delligatti
+   Email: 
+   Username: sophie.delligatti
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sophie Delligatti Assistant Coach
+
+37. Kaylyn Christopher
+   Email: Kaylyn.Christopher@fairmontstate.edu
+   Username: Kaylyn.Christopher
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lauren Carte Assistant Coach Kaylyn.Christopher@fairmontstate.edu
+
+38. Brady Student
+   Email: 
+   Username: brady.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brady Swiger Student Assistant Coach
+
+39. Kaden Student
+   Email: 
+   Username: kaden.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kaden Hayes Student Assistant Coach
+
+40. Emily Holzopfel
+   Email: 
+   Username: emily.holzopfel
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Emily Holzopfel Assistant Men's and Women's Golf Coach
+
+41. Skyler Jefairjian
+   Email: 
+   Username: skyler.jefairjian
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Skyler Jefairjian Assistant Men's and Women's Golf Coach
+
+42. Jarad Mental
+   Email: 
+   Username: jarad.mental
+   Sports: Golf
+   Title: s Golf Mental Performance Coach
+   Original line: Jarad Lewellen Men's & Women's Golf Mental Performance Coach
+
+43. Kayla Fogle
+   Email: 
+   Username: kayla.fogle
+   Sports: Swimming
+   Title: Kayla Fogle Assistant Swimming Coach
+   Original line: Kayla Fogle Assistant Swimming Coach
+
+44. Alex Petry
+   Email: 
+   Username: alex.petry
+   Sports: Swimming
+   Title: Alex Petry Assistant Swimming Coach
+   Original line: Alex Petry Assistant Swimming Coach
+
+45. Ashley Yelinek
+   Email: 
+   Username: ashley.yelinek
+   Sports: Swimming
+   Title: Ashley Yelinek Assistant Swimming Coach
+   Original line: Ashley Yelinek Assistant Swimming Coach
+
+46. Jacob Student
+   Email: 
+   Username: jacob.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jacob Boone Student Assistant Coach
+
+47. Alex Student
+   Email: 
+   Username: alex.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alex Stacy Student Assistant Coach
+
+48. Seena Volunteer
+   Email: 
+   Username: seena.volunteer
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Seena Saadevandi Volunteer Assistant Men's and Women's Tennis Coach
+
+49. Dominic Eorio
+   Email: 
+   Username: dominic.eorio
+   Sports: Volleyball
+   Title: Dominic Eorio Assistant Volleyball Coach
+   Original line: Dominic Eorio Assistant Volleyball Coach
+
+50. Ken Volunteer
+   Email: 
+   Username: ken.volunteer
+   Sports: Wrestling
+   Title: Ken Burrs Volunteer Assistant Wrestling Coach
+   Original line: Ken Burrs Volunteer Assistant Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Adam Kolberg Head Strength & Conditioning Coach Adam.Kolberg@fairmontstate.edu
+• Danielle Cutri Head Acrobatics & Tumbling Coach ddicarlo@fairmontstate.edu (304) 367-
+• Virginia Krasznay Assistant Acrobatics & Tumbling Coach Virginia.Krasznay@fairmontstate.edu
+• Karah Paull Volunteer Assistant Acrobatics & Tumbling Coach Karah.Paull@fairmontstate.edu
+• Matt Yurish Head Baseball Coach Matthew.Yurish@fairmontstate.edu (304) 367-
+• Tim Koenig Head Men's Basketball Coach tkoenig@fairmontstate.edu (304) 367-
+• Trent Howard Assistant Men's Basketball Coach trent.howard@fairmontstate.edu
+• Donald Kummer Assistant Men's Basketball Coach Donald.Kummer@fairmontstate.edu
+• Tim Baab Assistant Men's Basketball Coach Timothy.Baab@fairmontstate.edu
+• Stephanie Anderson Head Women's Basketball Coach smichael10@fairmontstate.edu (304) 367-
+• Miki Glenn Associate Head Women's Basketball Coach Mikaylah.Glenn@fairmontstate.edu (304) 367-
+• Luke Barker Head Football Coach luke.barker@fairmontstate.edu (304) 367-
+• Zack Johnson Associate Head Coach / Defensive Coordinator / zachary.johnson@fairmontstate.edu (304) 367-
+• Justin Fields Cornerbacks Coach / Strength & Conditioning Liaison justin.fields@fairmontstate.edu
+• Rick Johnson Head Men's & Women's Golf Coach richard.johnson@fairmontstate.edu
+• Kernell Borneo Head Women's Soccer Coach Kernell.Borneo@fairmontstate.edu
+• Emily Gallagher Assistant Women's Soccer Coach emily.gallagher@fairmontstate.edu
+• Nat Wilkes Assistant Women's Soccer Coach nathaniel.wilkes@fairmontstate.edu
+• Brooke Lowery Head Softball Coach bsullivan1@fairmontstate.edu (304) 367-
+• Amy Hills Assistant Softball Coach Amy.Hills@fairmontstate.edu
+• Pat Snively Head Swimming Coach Patrick.Snively@fairmontstate.edu (304) 367-
+• Nathan Fubio Assistant Swimming Coach nathan.fubio@fairmontstate.edu
+• Terry Deremer Head Men's and Women's Tennis Coach Terry.Deremer@fairmontstate.edu (304) 367-
+• Terry Deremer Head Men's and Women's Tennis Coach Terry.Deremer@fairmontstate.edu (304) 367-
+• Travis Hinkle Head Volleyball Coach Travis.Hinkle@fairmontstate.edu (304) 333-
+• Gennaro Bonaventura Head Wrestling Coach gbonaventura@fairmontstate.edu (631) 220-
+• Cole Laya Assistant Wrestling Coach cole.laya@fairmontstate.edu

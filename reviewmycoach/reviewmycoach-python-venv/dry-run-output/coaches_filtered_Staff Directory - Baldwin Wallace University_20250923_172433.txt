@@ -1,0 +1,955 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:33
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Baldwin Wallace University
+Organization: Baldwin Wallace University Athletics
+
+Total coaches found: 123
+
+PARSED ENTRIES:
+----------------------------------------
+1. Jason Zastrow
+   Email: jzastrow@bw.edu
+   Username: jzastrow
+   Sports: Wrestling
+   Title: Assistant Athletic Director for Compliance/Associate Head Men's Wrestling Coach
+   Original line: Jason Zastrow Assistant Athletic Director for Compliance/Associate Head Men's Wrestling Coach jzastrow@bw.edu 440-826-
+
+2. Cheri Harrer
+   Email: charrer@bw.edu
+   Username: charrer
+   Sports: Basketball
+   Title: Senior Woman Administrator/Head Women's Basketball Coach
+   Original line: Cheri Harrer Senior Woman Administrator/Head Women's Basketball Coach charrer@bw.edu 440-826-
+
+3. Gretchen Toddy
+   Email: gtoddy@bw.edu
+   Username: gtoddy
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Gretchen Toddy Head Coach gtoddy@bw.edu 440-826-
+
+4. Athlete Services
+   Email: lwolff@bw.edu
+   Username: lwolff
+   Sports: Swimming
+   Title: Laura Demaline Head Swimming & Diving Coach/Coordinator of Student
+   Original line: Laura Demaline Head Swimming & Diving Coach/Coordinator of Student Athlete Services lwolff@bw.edu 440-826-
+
+5. Brian Harrison
+   Email: bharriso@bw.edu
+   Username: bharriso
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brian Harrison Head Coach bharriso@bw.edu 440-826-
+
+6. Matt Rosinski
+   Email: mrosinsk@bw.edu
+   Username: mrosinsk
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Matt Rosinski Assistant Baseball Coach mrosinsk@bw.edu 440-826-
+
+7. Jim Hilvert
+   Email: jhilvert@bw.edu
+   Username: jhilvert
+   Sports: Football
+   Title: Head Coach
+   Original line: Jim Hilvert Head Coach jhilvert@bw.edu 440-826-
+
+8. Line 
+   Email: mjbrown@bw.edu
+   Username: mjbrown
+   Sports: Football
+   Title: Matt Brown '
+   Original line: Matt Brown '12 Assistant Head Coach & Offensive Line Coach mjbrown@bw.edu 440-826-
+
+9. Andrew Cregan
+   Email: acregan@bw.edu
+   Username: acregan
+   Sports: Football
+   Title: '
+   Original line: Andrew Cregan '22 '24 Quarterbacks Coach & Recruiting Coordinator acregan@bw.edu 440-826-
+
+10. Brenton Miller
+   Email: bpmiller@bw.edu
+   Username: bpmiller
+   Sports: Football
+   Title: Director of Football Operations & Safeties Coach
+   Original line: Brenton Miller '21 '24 Director of Football Operations & Safeties Coach bpmiller@bw.edu 440-826-
+
+11. Ethan Nichol
+   Email: enichol@bw.edu
+   Username: enichol
+   Sports: Football
+   Title: Linebackers Coach &
+   Original line: Ethan Nichol Co-Defensive Coordinator, Special Teams Coordinator, Linebackers Coach & enichol@bw.edu 440-826-
+
+12. Ron Lewis
+   Email: ralewis@bw.edu
+   Username: ralewis
+   Sports: Football
+   Title: Wide Receiver Coach
+   Original line: Ron Lewis Wide Receiver Coach ralewis@bw.edu 440-826-
+
+13. Jeff Moulden
+   Email: jmoulden@bw.edu
+   Username: jmoulden
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Jeff Moulden '99 Running Backs Coach jmoulden@bw.edu 440-826-
+
+14. Jeff Stetler
+   Email: jstetler@bw.edu
+   Username: jstetler
+   Sports: Football
+   Title: Assistant Offensive Line Coach
+   Original line: Jeff Stetler '93 Assistant Offensive Line Coach jstetler@bw.edu 440-826-
+
+15. Josh Aiello
+   Email: jaiello@bw.edu
+   Username: jaiello
+   Sports: Football
+   Title: Graduate Assistant Running Backs Coach
+   Original line: Josh Aiello Graduate Assistant Running Backs Coach jaiello@bw.edu 440-826-
+
+16. Rocky Zingale
+   Email: rzingale@bw.edu
+   Username: rzingale
+   Sports: Football
+   Title: Graduate Assistant Tight Ends Coach
+   Original line: Rocky Zingale Graduate Assistant Tight Ends Coach rzingale@bw.edu 440-826-
+
+17. Zach Zoul
+   Email: zzoul@bw.edu
+   Username: zzoul
+   Sports: Football
+   Title: Graduate Assistant Linebackers Coach
+   Original line: Zach Zoul '25 Graduate Assistant Linebackers Coach zzoul@bw.edu 440-826-
+
+18. Tom Heil
+   Email: theil@bw.edu
+   Username: theil
+   Sports: Football
+   Title: Head Coach
+   Original line: Tom Heil Head Coach theil@bw.edu 440-826-
+
+19. Brad Johnson
+   Email: bjohnson@bw.edu
+   Username: bjohnson
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brad Johnson '15 Assistant Coach bjohnson@bw.edu
+
+20. Paul Ashby
+   Email: pashby@bw.edu
+   Username: pashby
+   Sports: Football
+   Title: Head Coach
+   Original line: Paul Ashby Head Coach pashby@bw.edu 440-826-
+
+21. Joe Eby
+   Email: jeby@bw.edu
+   Username: jeby
+   Sports: Football
+   Title: Head Cross Country Coach &
+   Original line: Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+
+22. Julian Johnson-Millan
+   Email: jjohnson@bw.edu
+   Username: jjohnson
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+
+23. Josh Fiorentino
+   Email: jfiorent@bw.edu
+   Username: jfiorent
+   Sports: Football
+   Title: Assistant Coach/Recruiting Intern
+   Original line: Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+
+24. Tony Tatro
+   Email: atatro@bw.edu
+   Username: atatro
+   Sports: Football
+   Title: Head Coach
+   Original line: Tony Tatro Head Coach atatro@bw.edu 440-826-
+
+25. Karson Burkey
+   Email: kburkey@bw.edu
+   Username: kburkey
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Karson Burkey Assistant Coach kburkey@bw.edu 440-826-
+
+26. Kaleb Delaney
+   Email: kdelaney@bw.edu
+   Username: kdelaney
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kaleb Delaney '23 Assistant Coach kdelaney@bw.edu
+
+27. Reid Ayers
+   Email: rayers@bw.edu
+   Username: rayers
+   Sports: Football
+   Title: Head Coach
+   Original line: Reid Ayers Head Coach rayers@bw.edu 440-826-
+
+28. Joe Jovanovski
+   Email: jjovanov@bw.edu
+   Username: jjovanov
+   Sports: Football
+   Title: Senior Assistant Coach/Recruitment Coordinator
+   Original line: Joe Jovanovski Senior Assistant Coach/Recruitment Coordinator jjovanov@bw.edu 440-826-
+
+29. Dominic Nunziato
+   Email: dnunziat23@bw.edu
+   Username: dnunziat23
+   Sports: Football
+   Title: Student Assistant Coach
+   Original line: Dominic Nunziato Student Assistant Coach dnunziat23@bw.edu
+
+30. Athlete Services
+   Email: lwolff@bw.edu
+   Username: lwolff
+   Sports: Football
+   Title: Laura Demaline Head Swimming & Diving Coach/Coordinator of Student
+   Original line: Laura Demaline Head Swimming & Diving Coach/Coordinator of Student Athlete Services lwolff@bw.edu 440-826-
+
+31. Mason Kooyman
+   Email: mkooyman@bw.edu
+   Username: mkooyman
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Mason Kooyman '24 Graduate Assistant Coach mkooyman@bw.edu 440-826-
+
+32. Tim Croy
+   Email: tcroy@bw.edu
+   Username: tcroy
+   Sports: Football
+   Title: Diving Coach
+   Original line: Tim Croy Diving Coach tcroy@bw.edu 440-826-
+
+33. Brian Rector
+   Email: brector@bw.edu
+   Username: brector
+   Sports: Football
+   Title: Head Coach
+   Original line: Brian Rector '89 Head Coach brector@bw.edu 440-826-
+
+34. Joe Eby
+   Email: jeby@bw.edu
+   Username: jeby
+   Sports: Football
+   Title: Head Cross Country Coach &
+   Original line: Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+
+35. Kim Gallavan
+   Email: kgallava@bw.edu
+   Username: kgallava
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Kim Gallavan '16 Associate Head Coach kgallava@bw.edu 440-826-
+
+36. Julian Johnson-Millan
+   Email: jjohnson@bw.edu
+   Username: jjohnson
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+
+37. Josh Fiorentino
+   Email: jfiorent@bw.edu
+   Username: jfiorent
+   Sports: Football
+   Title: Assistant Coach/Recruiting Intern
+   Original line: Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+
+38. Todd Sprints
+   Email: tjswish30@sbcglobal.net
+   Username: tjswish30
+   Sports: Football
+   Title: Jumps and Hurdles Coach
+   Original line: Todd Swisher '94 Sprints, Jumps and Hurdles Coach tjswish30@sbcglobal.net 440-826-
+
+39. Mike Murphy
+   Email: mmurphy@bw.edu
+   Username: mmurphy
+   Sports: Football
+   Title: Pole Vault Coach
+   Original line: Mike Murphy Pole Vault Coach mmurphy@bw.edu 440-826-
+
+40. Kyle Mars
+   Email: kmars@bw.edu
+   Username: kmars
+   Sports: Football
+   Title: Head Coach
+   Original line: Kyle Mars Head Coach kmars@bw.edu 440-826-
+
+41. Jason Klein
+   Email: jklein@bw.edu
+   Username: jklein
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Jason Klein Graduate Assistant Coach jklein@bw.edu
+
+42. Jamie Gibbs
+   Email: jgibbs@bw.edu
+   Username: jgibbs
+   Sports: Football
+   Title: Head Coach
+   Original line: Jamie Gibbs Head Coach jgibbs@bw.edu 440-826-
+
+43. Jason Zastrow
+   Email: jzastrow@bw.edu
+   Username: jzastrow
+   Sports: Football
+   Title: Assistant Athletic Director for Compliance/Associate Head Men's Wrestling Coach
+   Original line: Jason Zastrow Assistant Athletic Director for Compliance/Associate Head Men's Wrestling Coach jzastrow@bw.edu 440-826-
+
+44. Charlie Grygas
+   Email: cgrygas@bw.edu
+   Username: cgrygas
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Charlie Grygas Graduate Assistant Coach cgrygas@bw.edu 440-826-
+
+45. Doug Byrne
+   Email: dbyrne19@bw.edu
+   Username: dbyrne19
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Doug Byrne '23, '24 Assistant Coach dbyrne19@bw.edu 440-826-
+
+46. Dante Ginnetti
+   Email: dginnett@bw.edu
+   Username: dginnett
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Dante Ginnetti '21 Assistant Coach dginnett@bw.edu 440-826-
+
+47. Bill McGrain
+   Email: bmcgrain@bw.edu
+   Username: bmcgrain
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Bill McGrain Assistant Coach bmcgrain@bw.edu 440-826-
+
+48. Michael Petrella
+   Email: mpetrell@bw.edu
+   Username: mpetrell
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Michael Petrella '25 Assistant Coach mpetrell@bw.edu
+
+49. Charlie Nash
+   Email: cnash@bw.edu
+   Username: cnash
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Charlie Nash '20 Assistant Coach cnash@bw.edu 440-826-
+
+50. Justin Ritchie
+   Email: jritchie20@bw.edu
+   Username: jritchie20
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Justin Ritchie '24 Assistant Coach jritchie20@bw.edu 440-826-
+
+51. Tom Spencer
+   Email: tspencer@bw.edu
+   Username: tspencer
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tom Spencer Head Coach tspencer@bw.edu 440-826-
+
+52. Madelyn Thomas
+   Email: mthomas@bw.edu
+   Username: mthomas
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Madelyn Thomas Graduate Assistant Coach mthomas@bw.edu 440-826-
+
+53. Gretchen Toddy
+   Email: gtoddy@bw.edu
+   Username: gtoddy
+   Sports: Softball
+   Title: Head Coach
+   Original line: Gretchen Toddy Head Coach gtoddy@bw.edu 440-826-
+
+54. Cheri Harrer
+   Email: charrer@bw.edu
+   Username: charrer
+   Sports: Softball
+   Title: Senior Woman Administrator/Head Women's Basketball Coach
+   Original line: Cheri Harrer Senior Woman Administrator/Head Women's Basketball Coach charrer@bw.edu 440-826-
+
+55. Mason McCormack
+   Email: mmccorma@bw.edu
+   Username: mmccorma
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Mason McCormack Assistant Coach mmccorma@bw.edu 440-826-
+
+56. Dave Johnson
+   Email: dajohnso@bw.edu
+   Username: dajohnso
+   Sports: Softball
+   Title: Head Coach
+   Original line: Dave Johnson Head Coach dajohnso@bw.edu 440-826-
+
+57. Joe Eby
+   Email: jeby@bw.edu
+   Username: jeby
+   Sports: Softball
+   Title: Head Cross Country Coach &
+   Original line: Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+
+58. Julian Johnson-Millan
+   Email: jjohnson@bw.edu
+   Username: jjohnson
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+
+59. Josh Fiorentino
+   Email: jfiorent@bw.edu
+   Username: jfiorent
+   Sports: Softball
+   Title: Assistant Coach/Recruiting Intern
+   Original line: Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+
+60. Nicholle Shoger
+   Email: nstpierr@bw.edu
+   Username: nstpierr
+   Sports: Softball
+   Title: Head Coach
+   Original line: Nicholle Shoger Head Coach nstpierr@bw.edu 440-826-
+
+61. Gabby Jessup
+   Email: gjessup@bw.edu
+   Username: gjessup
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Gabby Jessup Assistant Coach gjessup@bw.edu 440-826-
+
+62. Jim Wojtkun
+   Email: jwojtkun@bw.edu
+   Username: jwojtkun
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jim Wojtkun Head Coach jwojtkun@bw.edu 440-826-
+
+63. Athlete Services
+   Email: lwolff@bw.edu
+   Username: lwolff
+   Sports: Softball
+   Title: Laura Demaline Head Swimming & Diving Coach/Coordinator of Student
+   Original line: Laura Demaline Head Swimming & Diving Coach/Coordinator of Student Athlete Services lwolff@bw.edu 440-826-
+
+64. Mason Kooyman
+   Email: mkooyman@bw.edu
+   Username: mkooyman
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Mason Kooyman '24 Graduate Assistant Coach mkooyman@bw.edu 440-826-
+
+65. Tim Croy
+   Email: tcroy@bw.edu
+   Username: tcroy
+   Sports: Softball
+   Title: Diving Coach
+   Original line: Tim Croy Diving Coach tcroy@bw.edu 440-826-
+
+66. TJ Michalski
+   Email: tmichals@bw.edu
+   Username: tmichals
+   Sports: Softball
+   Title: Head Coach
+   Original line: TJ Michalski Head Coach tmichals@bw.edu 440-826-
+
+67. Joe Eby
+   Email: jeby@bw.edu
+   Username: jeby
+   Sports: Softball
+   Title: Head Cross Country Coach &
+   Original line: Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+
+68. Kim Gallavan
+   Email: kgallava@bw.edu
+   Username: kgallava
+   Sports: Softball
+   Title: Associate Head Coach
+   Original line: Kim Gallavan '16 Associate Head Coach kgallava@bw.edu 440-826-
+
+69. Julian Johnson-Millan
+   Email: jjohnson@bw.edu
+   Username: jjohnson
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+
+70. Josh Fiorentino
+   Email: jfiorent@bw.edu
+   Username: jfiorent
+   Sports: Softball
+   Title: Assistant Coach/Recruiting Intern
+   Original line: Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+
+71. Todd Sprints
+   Email: tjswish30@sbcglobal.net
+   Username: tjswish30
+   Sports: Softball
+   Title: Jumps and Hurdles Coach
+   Original line: Todd Swisher '94 Sprints, Jumps and Hurdles Coach tjswish30@sbcglobal.net 440-826-
+
+72. Mike Murphy
+   Email: mmurphy@bw.edu
+   Username: mmurphy
+   Sports: Softball
+   Title: Pole Vault Coach
+   Original line: Mike Murphy Pole Vault Coach mmurphy@bw.edu 440-826-
+
+73. Kate Latkovic
+   Email: klatkovi@bw.edu
+   Username: klatkovi
+   Sports: Softball
+   Title: Head Coach
+   Original line: Kate Latkovic Head Coach klatkovi@bw.edu 440-826-
+
+74. Molly Harrison
+   Email: mharriso@bw.edu
+   Username: mharriso
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Molly Harrison Graduate Assistant Coach mharriso@bw.edu
+
+75. Anthony Winter
+   Email: awinter@bw.edu
+   Username: awinter
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Anthony Winter Assistant Coach awinter@bw.edu 440-826-
+
+76. TR Harker
+   Email: tharker2017@gmail.com
+   Username: tharker2017
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: TR Harker Assistant Coach tharker2017@gmail.com 440-826-
+
+77. Mia Rodriguez
+   Email: mrodrigu@bw.edu
+   Username: mrodrigu
+   Sports: Softball
+   Title: Head Coach
+   Original line: Mia Rodriguez Head Coach mrodrigu@bw.edu 440-826-
+
+78. Steve Pitching
+   Email: 
+   Username: steve.pitching
+   Sports: Soccer
+   Title: Steve Hagen Pitching Coach
+   Original line: Steve Hagen Pitching Coach 440-826-
+
+79. Jake Smith
+   Email: 
+   Username: jake.smith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Smith '20 Assistant Coach
+
+80. Mark Terlep
+   Email: 
+   Username: mark.terlep
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mark Terlep Assistant Coach
+
+81. Kevin McSweeney
+   Email: 
+   Username: kevin.mcsweeney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kevin McSweeney '21 Assistant Coach
+
+82. Jake Zappia
+   Email: 
+   Username: jake.zappia
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Zappia '23 Assistant Coach
+
+83. Mark Mohnickey
+   Email: 
+   Username: mark.mohnickey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mark Mohnickey Jr. '23 Assistant Coach
+
+84. Todd Fox
+   Email: 
+   Username: todd.fox
+   Sports: Soccer
+   Title: Assistant Defensive Line Coach
+   Original line: Todd Fox '95 Assistant Defensive Line Coach
+
+85. Pat Lyons
+   Email: 
+   Username: pat.lyons
+   Sports: Soccer
+   Title: Pat Lyons Assistant Quarterbacks Coach
+   Original line: Pat Lyons Assistant Quarterbacks Coach 440-826-
+
+86. Scott Peters
+   Email: 
+   Username: scott.peters
+   Sports: Soccer
+   Title: Scott Peters Assistant Defensive Line Coach
+   Original line: Scott Peters Assistant Defensive Line Coach 440-826-
+
+87. Landon Student
+   Email: 
+   Username: landon.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Landon Hare Student Assistant Coach
+
+88. Caden Student
+   Email: 
+   Username: caden.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caden Potts Student Assistant Coach
+
+89. Tom Harrington
+   Email: 
+   Username: tom.harrington
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Harrington Assistant Coach
+
+90. Kevin Student
+   Email: 
+   Username: kevin.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kevin Wilker Student Assistant Coach
+
+91. Nate Student
+   Email: 
+   Username: nate.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nate Hart Student Assistant Coach
+
+92. Erik Student
+   Email: 
+   Username: erik.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erik Wilson Student Assistant Coach
+
+93.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Head Track and Field Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Track and Field Coach 6990
+
+94. Logan Cook
+   Email: 
+   Username: logan.cook
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Logan Cook '25 Assistant Coach
+
+95. Scott Siler
+   Email: ssiler@bw.edu
+   Username: ssiler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rory Jeffers Assistant Coach ssiler@bw.edu
+
+96. Bill Schmoldt
+   Email: 
+   Username: bill.schmoldt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bill Schmoldt Assistant Coach
+
+97. Logan Student
+   Email: 
+   Username: logan.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Logan Purdy Student Assistant Coach
+
+98. Colin Fabian
+   Email: 
+   Username: colin.fabian
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Colin Fabian Assistant Coach
+
+99. Danny Ruple
+   Email: 
+   Username: danny.ruple
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Danny Ruple '20 Assistant Coach
+
+100. Vince Milner
+   Email: 
+   Username: vince.milner
+   Sports: Strength & Conditioning
+   Title: Strength Coach
+   Original line: Vince Milner '15 Strength Coach
+
+101. Paul Goalkeeper
+   Email: 
+   Username: paul.goalkeeper
+   Sports: Soccer
+   Title: Paul Viscomi Goalkeeper Coach
+   Original line: Paul Viscomi Goalkeeper Coach
+
+102. Josh Student
+   Email: 
+   Username: josh.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Kazyak Student Assistant Coach
+
+103. Bryce Student
+   Email: 
+   Username: bryce.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bryce Venrick Student Assistant Coach
+
+104. Rory Student
+   Email: 
+   Username: rory.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rory Wilson Student Assistant Coach
+
+105. Tyler Student
+   Email: 
+   Username: tyler.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyler Younker Student Assistant Coach
+
+106. Aiden Student
+   Email: 
+   Username: aiden.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aiden O'Neill Student Assistant Coach
+
+107. Justin Hill
+   Email: 
+   Username: justin.hill
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Justin Hill Assistant Coach
+
+108. Matt Vault
+   Email: 
+   Username: matt.vault
+   Sports: Soccer
+   Title: Matt Ludwig Pole Vault Coach
+   Original line: Matt Ludwig Pole Vault Coach
+
+109. Dr Metzger
+   Email: 
+   Username: dr.metzger
+   Sports: Soccer
+   Title: Alesha Metzger Assistant Distance Coach
+   Original line: Dr. Alesha Metzger Assistant Distance Coach
+
+110. Zak Dysert
+   Email: 
+   Username: zak.dysert
+   Sports: Soccer
+   Title: Zak Dysert Assistant Throws Coach
+   Original line: Zak Dysert Assistant Throws Coach
+
+111. Dr Martin
+   Email: 
+   Username: dr.martin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dr. Dan Martin Assistant Coach
+
+112. Alyssa Volunteer
+   Email: 
+   Username: alyssa.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alyssa Saghy Volunteer Assistant Coach
+
+113. Zak Anderson
+   Email: 
+   Username: zak.anderson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zak Anderson '23 Assistant Coach 440-826-
+
+114. Carter Lloyd
+   Email: 
+   Username: carter.lloyd
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carter Lloyd '25 Assistant Coach
+
+115. Robby Palmieri
+   Email: 
+   Username: robby.palmieri
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Robby Palmieri '25 Assistant Coach
+
+116. Tyler Maclellan
+   Email: 
+   Username: tyler.maclellan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyler Maclellan '18 Assistant Coach 440-826-
+
+117. Tavyn Student
+   Email: 
+   Username: tavyn.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tavyn Likosky Student Assistant Coach
+
+118. Donnie Student
+   Email: 
+   Username: donnie.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Donnie Birkett Student Assistant Coach
+
+119. Cori Wiedt
+   Email: 
+   Username: cori.wiedt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cori Wiedt Assistant Coach
+
+120. Carlos Shea-Ron
+   Email: 
+   Username: carlos.shea.ron
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carlos Shea-Ron Assistant Coach
+
+121. Courtney Cofer
+   Email: 
+   Username: courtney.cofer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Courtney Cofer '20 Assistant Coach
+
+122. Tyler Marzinski
+   Email: 
+   Username: tyler.marzinski
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyler Marzinski '23 Assistant Coach
+
+123. Sophie Chacon
+   Email: 
+   Username: sophie.chacon
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sophie Chacon Assistant Coach 440-826-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Jason Zastrow Assistant Athletic Director for Compliance/Associate Head Men's Wrestling Coach jzastrow@bw.edu 440-826-
+• Cheri Harrer Senior Woman Administrator/Head Women's Basketball Coach charrer@bw.edu 440-826-
+• Gretchen Toddy Head Coach gtoddy@bw.edu 440-826-
+• Laura Demaline Head Swimming & Diving Coach/Coordinator of Student Athlete Services lwolff@bw.edu 440-826-
+• Brian Harrison Head Coach bharriso@bw.edu 440-826-
+• Matt Rosinski Assistant Baseball Coach mrosinsk@bw.edu 440-826-
+• Jim Hilvert Head Coach jhilvert@bw.edu 440-826-
+• Matt Brown '12 Assistant Head Coach & Offensive Line Coach mjbrown@bw.edu 440-826-
+• Andrew Cregan '22 '24 Quarterbacks Coach & Recruiting Coordinator acregan@bw.edu 440-826-
+• Brenton Miller '21 '24 Director of Football Operations & Safeties Coach bpmiller@bw.edu 440-826-
+• Ethan Nichol Co-Defensive Coordinator, Special Teams Coordinator, Linebackers Coach & enichol@bw.edu 440-826-
+• Ron Lewis Wide Receiver Coach ralewis@bw.edu 440-826-
+• Jeff Moulden '99 Running Backs Coach jmoulden@bw.edu 440-826-
+• Jeff Stetler '93 Assistant Offensive Line Coach jstetler@bw.edu 440-826-
+• Josh Aiello Graduate Assistant Running Backs Coach jaiello@bw.edu 440-826-
+• Rocky Zingale Graduate Assistant Tight Ends Coach rzingale@bw.edu 440-826-
+• Zach Zoul '25 Graduate Assistant Linebackers Coach zzoul@bw.edu 440-826-
+• Tom Heil Head Coach theil@bw.edu 440-826-
+• Brad Johnson '15 Assistant Coach bjohnson@bw.edu
+• Paul Ashby Head Coach pashby@bw.edu 440-826-
+• Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+• Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+• Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+• Tony Tatro Head Coach atatro@bw.edu 440-826-
+• Karson Burkey Assistant Coach kburkey@bw.edu 440-826-
+• Kaleb Delaney '23 Assistant Coach kdelaney@bw.edu
+• Reid Ayers Head Coach rayers@bw.edu 440-826-
+• Joe Jovanovski Senior Assistant Coach/Recruitment Coordinator jjovanov@bw.edu 440-826-
+• Dominic Nunziato Student Assistant Coach dnunziat23@bw.edu
+• Laura Demaline Head Swimming & Diving Coach/Coordinator of Student Athlete Services lwolff@bw.edu 440-826-
+• Mason Kooyman '24 Graduate Assistant Coach mkooyman@bw.edu 440-826-
+• Tim Croy Diving Coach tcroy@bw.edu 440-826-
+• Brian Rector '89 Head Coach brector@bw.edu 440-826-
+• Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+• Kim Gallavan '16 Associate Head Coach kgallava@bw.edu 440-826-
+• Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+• Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+• Todd Swisher '94 Sprints, Jumps and Hurdles Coach tjswish30@sbcglobal.net 440-826-
+• Mike Murphy Pole Vault Coach mmurphy@bw.edu 440-826-
+• Kyle Mars Head Coach kmars@bw.edu 440-826-
+• Jason Klein Graduate Assistant Coach jklein@bw.edu
+• Jamie Gibbs Head Coach jgibbs@bw.edu 440-826-
+• Jason Zastrow Assistant Athletic Director for Compliance/Associate Head Men's Wrestling Coach jzastrow@bw.edu 440-826-
+• Charlie Grygas Graduate Assistant Coach cgrygas@bw.edu 440-826-
+• Doug Byrne '23, '24 Assistant Coach dbyrne19@bw.edu 440-826-
+• Dante Ginnetti '21 Assistant Coach dginnett@bw.edu 440-826-
+• Bill McGrain Assistant Coach bmcgrain@bw.edu 440-826-
+• Michael Petrella '25 Assistant Coach mpetrell@bw.edu
+• Charlie Nash '20 Assistant Coach cnash@bw.edu 440-826-
+• Justin Ritchie '24 Assistant Coach jritchie20@bw.edu 440-826-
+• Tom Spencer Head Coach tspencer@bw.edu 440-826-
+• Madelyn Thomas Graduate Assistant Coach mthomas@bw.edu 440-826-
+• Gretchen Toddy Head Coach gtoddy@bw.edu 440-826-
+• Cheri Harrer Senior Woman Administrator/Head Women's Basketball Coach charrer@bw.edu 440-826-
+• Mason McCormack Assistant Coach mmccorma@bw.edu 440-826-
+• Dave Johnson Head Coach dajohnso@bw.edu 440-826-
+• Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+• Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+• Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+• Nicholle Shoger Head Coach nstpierr@bw.edu 440-826-
+• Gabby Jessup Assistant Coach gjessup@bw.edu 440-826-
+• Jim Wojtkun Head Coach jwojtkun@bw.edu 440-826-
+• Laura Demaline Head Swimming & Diving Coach/Coordinator of Student Athlete Services lwolff@bw.edu 440-826-
+• Mason Kooyman '24 Graduate Assistant Coach mkooyman@bw.edu 440-826-
+• Tim Croy Diving Coach tcroy@bw.edu 440-826-
+• TJ Michalski Head Coach tmichals@bw.edu 440-826-
+• Joe Eby Coordinator of Cross Country and Track and Field; Head Cross Country Coach & jeby@bw.edu 440-826-
+• Kim Gallavan '16 Associate Head Coach kgallava@bw.edu 440-826-
+• Julian Johnson-Millan Assistant Coach jjohnson@bw.edu 440-826-
+• Josh Fiorentino Assistant Coach/Recruiting Intern jfiorent@bw.edu 440-826-
+• Todd Swisher '94 Sprints, Jumps and Hurdles Coach tjswish30@sbcglobal.net 440-826-
+• Mike Murphy Pole Vault Coach mmurphy@bw.edu 440-826-
+• Kate Latkovic Head Coach klatkovi@bw.edu 440-826-
+• Molly Harrison Graduate Assistant Coach mharriso@bw.edu
+• Anthony Winter Assistant Coach awinter@bw.edu 440-826-
+• TR Harker Assistant Coach tharker2017@gmail.com 440-826-
+• Mia Rodriguez Head Coach mrodrigu@bw.edu 440-826-

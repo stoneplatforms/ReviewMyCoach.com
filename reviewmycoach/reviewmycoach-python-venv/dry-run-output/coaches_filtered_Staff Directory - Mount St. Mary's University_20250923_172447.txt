@@ -1,0 +1,548 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:47
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Mount St. Mary's University
+Organization: Mount St. Mary's University Athletics
+
+Total coaches found: 68
+
+PARSED ENTRIES:
+----------------------------------------
+1. Travis Scott
+   Email: t.w.scott@msmary.edu
+   Username: t.w.scott
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Travis Scott Head Strength & Conditioning Coach t.w.scott@msmary.edu
+
+2. Maura Houk
+   Email: m.t.houk@msmary.edu
+   Username: m.t.houk
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Maura Houk Assistant Strength & Conditioning Coach m.t.houk@msmary.edu
+
+3. Frank Leoni
+   Email: mountbaseball@msmary.edu
+   Username: mountbaseball
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Frank Leoni Head Coach mountbaseball@msmary.edu 301-447-
+
+4. Dave Gage
+   Email: mountbaseball@msmary.edu
+   Username: mountbaseball
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Dave Gage Associate Head Coach mountbaseball@msmary.edu 301-447-
+
+5. Cory Mee
+   Email: mountbaseball@msmary.edu
+   Username: mountbaseball
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Cory Mee Assistant Coach mountbaseball@msmary.edu 301-447-
+
+6. Aaron Tarr
+   Email: mountbaseball@msmary.edu
+   Username: mountbaseball
+   Sports: Baseball
+   Title: Director of Player Development/Assistant Developmental Coach
+   Original line: Aaron Tarr Director of Player Development/Assistant Developmental Coach mountbaseball@msmary.edu 301-447-
+
+7. Keith Chesley
+   Email: k.a.chesley@msmary.edu
+   Username: k.a.chesley
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Keith Chesley Assistant Coach k.a.chesley@msmary.edu
+
+8. Jeremy Freeman
+   Email: j.r.freeman@msmary.edu
+   Username: j.r.freeman
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jeremy Freeman Assistant Coach j.r.freeman@msmary.edu 301-447-
+
+9. Dave Matturro
+   Email: matturro@msmary.edu
+   Username: matturro
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Dave Matturro Assistant Coach matturro@msmary.edu
+
+10. Sidy Sall
+   Email: s.e.sall@msmary.edu
+   Username: s.e.sall
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Sidy Sall Assistant Coach s.e.sall@msmary.edu
+
+11. Andrew Winton
+   Email: an.m.winton@msmary.edu
+   Username: an.m.winton
+   Sports: Baseball
+   Title: General Manager/ Assistant Coach
+   Original line: Andrew Winton General Manager/ Assistant Coach an.m.winton@msmary.edu
+
+12. Antoine White
+   Email: a.n.white@msmary.edu
+   Username: a.n.white
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Antoine White Head Coach a.n.white@msmary.edu 301-447-
+
+13. Kelsey Funderburgh
+   Email: k.l.funderburgh@msmary.edu
+   Username: k.l.funderburgh
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kelsey Funderburgh Assistant Coach k.l.funderburgh@msmary.edu 301-447-
+
+14. Danielle Durjan
+   Email: d.a.durjan@msmary.edu
+   Username: d.a.durjan
+   Sports: Baseball
+   Title: General Manager/Assistant Coach
+   Original line: Danielle Durjan General Manager/Assistant Coach d.a.durjan@msmary.edu
+
+15. Riley Maye
+   Email: r.l.maye@msmary.edu
+   Username: r.l.maye
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Riley Maye Assistant Coach r.l.maye@msmary.edu
+
+16. Imani Atkinson
+   Email: i.m.atkinson@msmary.edu
+   Username: i.m.atkinson
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Imani Atkinson Assistant Coach i.m.atkinson@msmary.edu
+
+17. Olivia Farwell
+   Email: o.l.farwell@msmary.edu
+   Username: o.l.farwell
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Olivia Farwell Head Coach o.l.farwell@msmary.edu
+
+18. Sandi James
+   Email: s.james@msmary.edu
+   Username: s.james
+   Sports: Football
+   Title: Head Coach
+   Original line: Sandi James Head Coach s.james@msmary.edu
+
+19. Kevin Farrell
+   Email: k.s.farrell@msmary.edu
+   Username: k.s.farrell
+   Sports: Football
+   Title: Head Coach
+   Original line: Kevin Farrell Head Coach k.s.farrell@msmary.edu
+
+20. Brent Will
+   Email: b.l.will@msmary.edu
+   Username: b.l.will
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brent Will Assistant Coach b.l.will@msmary.edu
+
+21. Chris Ryan
+   Email: c.m.ryan@msmary.edu
+   Username: c.m.ryan
+   Sports: Football
+   Title: Head Coach
+   Original line: Chris Ryan Head Coach c.m.ryan@msmary.edu
+
+22. Ryan O'Hagan
+   Email: r.j.ohagan@msmary.edu
+   Username: r.j.ohagan
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ryan O'Hagan Assistant Coach r.j.ohagan@msmary.edu
+
+23. Matthew Dugan
+   Email: m.p.dugan@msmary.edu
+   Username: m.p.dugan
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matthew Dugan Assistant Coach m.p.dugan@msmary.edu
+
+24. Kevin Murphy
+   Email: k.p.murphy@msmary.edu
+   Username: k.p.murphy
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kevin Murphy Assistant Coach k.p.murphy@msmary.edu
+
+25. Lauren Skellchock
+   Email: lschwarzmann@msmary.edu
+   Username: lschwarzmann
+   Sports: Football
+   Title: Head Coach
+   Original line: Lauren Skellchock Head Coach lschwarzmann@msmary.edu 301-447-
+
+26. Chandler Stewart
+   Email: c.m.stewart@msmary.edu
+   Username: c.m.stewart
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Chandler Stewart Assistant Coach c.m.stewart@msmary.edu
+
+27. Maggie Myles
+   Email: m.r.myles@msmary.edu
+   Username: m.r.myles
+   Sports: Football
+   Title: Head Coach
+   Original line: Maggie Myles Head Coach m.r.myles@msmary.edu 301-447-
+
+28. Brett Teach
+   Email: b.d.teach@msmary.edu
+   Username: b.d.teach
+   Sports: Football
+   Title: Head Coach
+   Original line: Brett Teach Head Coach b.d.teach@msmary.edu
+
+29. Daniel O'Rourke
+   Email: d.j.orourke@msmary.edu
+   Username: d.j.orourke
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Daniel O'Rourke Associate Head Coach d.j.orourke@msmary.edu
+
+30. Marcos Garcia
+   Email: m.a.garcia@msmary.edu
+   Username: m.a.garcia
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Marcos Garcia Assistant Coach m.a.garcia@msmary.edu
+
+31. Liis Abbott
+   Email: l.e.abbott@msmary.edu
+   Username: l.e.abbott
+   Sports: Football
+   Title: Head Coach
+   Original line: Liis Abbott Head Coach l.e.abbott@msmary.edu
+
+32. Doireann Fahey
+   Email: d.e.fahey@msmary.edu
+   Username: d.e.fahey
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Doireann Fahey Assistant Coach d.e.fahey@msmary.edu
+
+33. Chuck Hommey
+   Email: c.a.hommey@msmary.edu
+   Username: c.a.hommey
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Chuck Hommey Assistant Coach c.a.hommey@msmary.edu
+
+34. Anna Nagro
+   Email: nagro@msmary.edu
+   Username: nagro
+   Sports: Softball
+   Title: Head Coach
+   Original line: Anna Nagro Head Coach nagro@msmary.edu 301-447-
+
+35. Dani Brown
+   Email: da.l.brown@msmary.edu
+   Username: da.l.brown
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Dani Brown Assistant Coach da.l.brown@msmary.edu
+
+36. Neil Yost
+   Email: nyost@msmary.edu
+   Username: nyost
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Neil Yost Head Coach nyost@msmary.edu 301-447-
+
+37. John Nunnelley
+   Email: j.d.nunnelley@msmary.edu
+   Username: j.d.nunnelley
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: John Nunnelley Assistant Coach j.d.nunnelley@msmary.edu
+
+38. Cassidy Preste
+   Email: c.l.preste@msmary.edu
+   Username: c.l.preste
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Cassidy Preste Assistant Coach c.l.preste@msmary.edu
+
+39. Abby Leskovansky
+   Email: ab.m.leskovansky@msmary.edu
+   Username: ab.m.leskovansky
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Abby Leskovansky Assistant Coach ab.m.leskovansky@msmary.edu
+
+40. Analiese Jezowski
+   Email: an.m.jezowski@msmary.edu
+   Username: an.m.jezowski
+   Sports: Swimming
+   Title: Diving Coach
+   Original line: Analiese Jezowski Diving Coach an.m.jezowski@msmary.edu
+
+41. Leandros Misdrachis
+   Email: l.misdrachis@msmary.edu
+   Username: l.misdrachis
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Leandros Misdrachis Head Coach l.misdrachis@msmary.edu
+
+42. Chara Grammatikaki
+   Email: ch.grammatikaki@msmary.edu
+   Username: ch.grammatikaki
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Chara Grammatikaki Assistant Coach ch.grammatikaki@msmary.edu
+
+43. Jim Stevenson
+   Email: j.m.stevenson@msmary.edu
+   Username: j.m.stevenson
+   Sports: Track & Field
+   Title: Head Coach/Track
+   Original line: Jim Stevenson Head Coach/Track and Field j.m.stevenson@msmary.edu 301-447-
+
+44. Josh Poole
+   Email: j.a.poole@msmary.edu
+   Username: j.a.poole
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Josh Poole Associate Head Coach, Track & Field j.a.poole@msmary.edu 301-447-
+
+45. Jone Zabaleta
+   Email: j.zabaleta@msmary.edu
+   Username: j.zabaleta
+   Sports: Track & Field
+   Title: Assistant Coach/Cross Country
+   Original line: Jone Zabaleta Assistant Coach/Cross Country, Track & Field j.zabaleta@msmary.edu
+
+46. Grace King
+   Email: gr.e.king@msmary.edu
+   Username: gr.e.king
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Grace King Head Coach, Cross Country gr.e.king@msmary.edu
+
+47. Josh Poole
+   Email: j.a.poole@msmary.edu
+   Username: j.a.poole
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Josh Poole Associate Head Coach, Track & Field j.a.poole@msmary.edu 301-447-
+
+48. Jone Zabaleta
+   Email: j.zabaleta@msmary.edu
+   Username: j.zabaleta
+   Sports: Cross Country
+   Title: Assistant Coach/Cross Country
+   Original line: Jone Zabaleta Assistant Coach/Cross Country, Track & Field j.zabaleta@msmary.edu
+
+49. Grace King
+   Email: gr.e.king@msmary.edu
+   Username: gr.e.king
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Grace King Head Coach, Cross Country gr.e.king@msmary.edu
+
+50. Justin Vink
+   Email: j.n.vink@msmary.edu
+   Username: j.n.vink
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Justin Vink Head Coach j.n.vink@msmary.edu
+
+51. Tara Bowman
+   Email: t.m.bowman@msmary.edu
+   Username: t.m.bowman
+   Sports: Cross Country
+   Title: Head Dance Team Coach
+   Original line: Tara Bowman Head Dance Team Coach t.m.bowman@msmary.edu
+
+52. Emily Nield
+   Email: e.m.nield@msmary.edu
+   Username: e.m.nield
+   Sports: Cross Country
+   Title: Head Cheerleading Coach
+   Original line: Emily Nield Head Cheerleading Coach e.m.nield@msmary.edu
+
+53. Jay Myles
+   Email: myles@msmary.edu
+   Username: myles
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Jay Myles Head Coach myles@msmary.edu 301-447-
+
+54. Mike Keifer
+   Email: m.d.keifer@msmary.edu
+   Username: m.d.keifer
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Mike Keifer Assistant Coach m.d.keifer@msmary.edu
+
+55. Kyle Powers
+   Email: k.m.powers@msmary.edu
+   Username: k.m.powers
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Kyle Powers Assistant Coach k.m.powers@msmary.edu
+
+56. Chet Rockwood
+   Email: c.v.rockwood@msmary.edu
+   Username: c.v.rockwood
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Chet Rockwood Assistant Coach c.v.rockwood@msmary.edu
+
+57. Justine Deputy
+   Email: justine_miller@msmary.edu
+   Username: justine_miller
+   Sports: Softball
+   Title: Softball Coach
+   Original line: Softball Coach 6733 justine_miller@msmary.edu
+
+58. Donny Lind
+   Email: 
+   Username: donny.lind
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Donny Lind Head Coach
+
+59. Lindsey Marshall
+   Email: 
+   Username: lindsey.marshall
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lindsey Marshall Assistant Coach
+
+60. Nikey Roberts
+   Email: 
+   Username: nikey.roberts
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nikey Roberts Assistant Coach
+
+61. Jereme Raley
+   Email: 
+   Username: jereme.raley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jereme Raley Assistant Coach
+
+62. Erick Graduate
+   Email: er.b.villatoro@msmary.edu
+   Username: er.b.villatoro
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Christine Keleher Assistant Coach er.b.villatoro@msmary.edu
+
+63. Francesco Caratti
+   Email: 
+   Username: francesco.caratti
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Francesco Caratti Assistant Coach
+
+64. Jay Phillips
+   Email: phillips@msmary.edu
+   Username: phillips
+   Sports: Track & Field
+   Title: Assistant Coach/Track and Field
+   Original line: Paul DuBois Assistant Coach/Track and Field phillips@msmary.edu
+
+65. Ivan Zivojinovic
+   Email: 
+   Username: ivan.zivojinovic
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ivan Zivojinovic Assistant Coach
+
+66. Ognjen Cerkez
+   Email: 
+   Username: ognjen.cerkez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ognjen Cerkez Assistant Coach
+
+67. Melanie Team
+   Email: 
+   Username: melanie.team
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Melanie Sirbaugh Dance Team Assistant Coach
+
+68. Hayden McKay
+   Email: 
+   Username: hayden.mckay
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Hayden McKay Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Travis Scott Head Strength & Conditioning Coach t.w.scott@msmary.edu
+• Maura Houk Assistant Strength & Conditioning Coach m.t.houk@msmary.edu
+• Frank Leoni Head Coach mountbaseball@msmary.edu 301-447-
+• Dave Gage Associate Head Coach mountbaseball@msmary.edu 301-447-
+• Cory Mee Assistant Coach mountbaseball@msmary.edu 301-447-
+• Aaron Tarr Director of Player Development/Assistant Developmental Coach mountbaseball@msmary.edu 301-447-
+• Keith Chesley Assistant Coach k.a.chesley@msmary.edu
+• Jeremy Freeman Assistant Coach j.r.freeman@msmary.edu 301-447-
+• Dave Matturro Assistant Coach matturro@msmary.edu
+• Sidy Sall Assistant Coach s.e.sall@msmary.edu
+• Andrew Winton General Manager/ Assistant Coach an.m.winton@msmary.edu
+• Antoine White Head Coach a.n.white@msmary.edu 301-447-
+• Kelsey Funderburgh Assistant Coach k.l.funderburgh@msmary.edu 301-447-
+• Danielle Durjan General Manager/Assistant Coach d.a.durjan@msmary.edu
+• Riley Maye Assistant Coach r.l.maye@msmary.edu
+• Imani Atkinson Assistant Coach i.m.atkinson@msmary.edu
+• Olivia Farwell Head Coach o.l.farwell@msmary.edu
+• Sandi James Head Coach s.james@msmary.edu
+• Kevin Farrell Head Coach k.s.farrell@msmary.edu
+• Brent Will Assistant Coach b.l.will@msmary.edu
+• Chris Ryan Head Coach c.m.ryan@msmary.edu
+• Ryan O'Hagan Assistant Coach r.j.ohagan@msmary.edu
+• Matthew Dugan Assistant Coach m.p.dugan@msmary.edu
+• Kevin Murphy Assistant Coach k.p.murphy@msmary.edu
+• Lauren Skellchock Head Coach lschwarzmann@msmary.edu 301-447-
+• Chandler Stewart Assistant Coach c.m.stewart@msmary.edu
+• Maggie Myles Head Coach m.r.myles@msmary.edu 301-447-
+• Brett Teach Head Coach b.d.teach@msmary.edu
+• Daniel O'Rourke Associate Head Coach d.j.orourke@msmary.edu
+• Marcos Garcia Assistant Coach m.a.garcia@msmary.edu
+• Liis Abbott Head Coach l.e.abbott@msmary.edu
+• Doireann Fahey Assistant Coach d.e.fahey@msmary.edu
+• Chuck Hommey Assistant Coach c.a.hommey@msmary.edu
+• Anna Nagro Head Coach nagro@msmary.edu 301-447-
+• Dani Brown Assistant Coach da.l.brown@msmary.edu
+• Neil Yost Head Coach nyost@msmary.edu 301-447-
+• John Nunnelley Assistant Coach j.d.nunnelley@msmary.edu
+• Cassidy Preste Assistant Coach c.l.preste@msmary.edu
+• Abby Leskovansky Assistant Coach ab.m.leskovansky@msmary.edu
+• Analiese Jezowski Diving Coach an.m.jezowski@msmary.edu
+• Leandros Misdrachis Head Coach l.misdrachis@msmary.edu
+• Chara Grammatikaki Assistant Coach ch.grammatikaki@msmary.edu
+• Jim Stevenson Head Coach/Track and Field j.m.stevenson@msmary.edu 301-447-
+• Josh Poole Associate Head Coach, Track & Field j.a.poole@msmary.edu 301-447-
+• Jone Zabaleta Assistant Coach/Cross Country, Track & Field j.zabaleta@msmary.edu
+• Grace King Head Coach, Cross Country gr.e.king@msmary.edu
+• Josh Poole Associate Head Coach, Track & Field j.a.poole@msmary.edu 301-447-
+• Jone Zabaleta Assistant Coach/Cross Country, Track & Field j.zabaleta@msmary.edu
+• Grace King Head Coach, Cross Country gr.e.king@msmary.edu
+• Justin Vink Head Coach j.n.vink@msmary.edu
+• Tara Bowman Head Dance Team Coach t.m.bowman@msmary.edu
+• Emily Nield Head Cheerleading Coach e.m.nield@msmary.edu
+• Jay Myles Head Coach myles@msmary.edu 301-447-
+• Mike Keifer Assistant Coach m.d.keifer@msmary.edu
+• Kyle Powers Assistant Coach k.m.powers@msmary.edu
+• Chet Rockwood Assistant Coach c.v.rockwood@msmary.edu

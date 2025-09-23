@@ -1,0 +1,237 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:19
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Ohio Dominican University
+Organization: Ohio Dominican University Athletics
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Marcella Vanlandingham
+   Email: vanlandm@ohiodominican.edu
+   Username: vanlandm
+   Sports: Soccer
+   Title: Head Coach / Senior
+   Original line: Marcella Vanlandingham Head Coach / Senior Women's Administrator vanlandm@ohiodominican.edu 614-251-
+
+2. Christopher Antonides
+   Email: AntonidC@ohiodominican.edu
+   Username: AntonidC
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Christopher Antonides Head Coach AntonidC@ohiodominican.edu 614-251-
+
+3. Matt Magno
+   Email: magnom@ohiodominican.edu
+   Username: magnom
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Magno Assistant Coach magnom@ohiodominican.edu
+
+4. Brian Hull
+   Email: hullb3@ohiodominican.edu
+   Username: hullb3
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Brian Hull Assistant Coach hullb3@ohiodominican.edu
+
+5. Jorden Evans
+   Email: evansj9@ohiodominican.edu
+   Username: evansj9
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jorden Evans Head Coach evansj9@ohiodominican.edu
+
+6. Kelly Cummings
+   Email: cummingk@ohiodominican.edu
+   Username: cummingk
+   Sports: Football
+   Title: Head Coach
+   Original line: Kelly Cummings Head Coach cummingk@ohiodominican.edu 614-253-
+
+7. BJ Coad
+   Email: coadb@ohiodominican.edu
+   Username: coadb
+   Sports: Football
+   Title: Associate Head Coach /
+   Original line: BJ Coad Associate Head Coach / Offensive Coordinator coadb@ohiodominican.edu
+
+8. Casey Kaufman
+   Email: kaufmanc@ohiodominican.edu
+   Username: kaufmanc
+   Sports: Football
+   Title: Head Coach
+   Original line: Casey Kaufman Head Coach kaufmanc@ohiodominican.edu 614-251-
+
+9. Colton Everett
+   Email: everettc3@ohiodominican.edu
+   Username: everettc3
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Colton Everett Assistant Coach everettc3@ohiodominican.edu
+
+10. Lee LaBadie
+   Email: labadiel@ohiodominican.edu
+   Username: labadiel
+   Sports: Football
+   Title: Head Coach
+   Original line: Lee LaBadie Head Coach labadiel@ohiodominican.edu
+
+11. Chris Deibel
+   Email: deibelc@ohiodominican.edu
+   Username: deibelc
+   Sports: Football
+   Title: Head Coach
+   Original line: Chris Deibel Head Coach deibelc@ohiodominican.edu 614-253-
+
+12. Willy Merrick
+   Email: merrickw@ohiodominican.edu
+   Username: merrickw
+   Sports: Football
+   Title: Head Coach
+   Original line: Willy Merrick Head Coach merrickw@ohiodominican.edu 614-251-
+
+13. Lee LaBadie
+   Email: labadiel@ohiodominican.edu
+   Username: labadiel
+   Sports: Football
+   Title: Head Coach
+   Original line: Lee LaBadie Head Coach labadiel@ohiodominican.edu
+
+14. Dustin Fillmore
+   Email: fillmord@ohiodominican.edu
+   Username: fillmord
+   Sports: Football
+   Title: Assistant Coach - Sprints
+   Original line: Dustin Fillmore Assistant Coach - Sprints fillmord@ohiodominican.edu
+
+15. Marcella Vanlandingham
+   Email: vanlandm@ohiodominican.edu
+   Username: vanlandm
+   Sports: Softball
+   Title: Head Coach / Senior
+   Original line: Marcella Vanlandingham Head Coach / Senior Women's Administrator vanlandm@ohiodominican.edu 614-251-
+
+16. McKenzie Bump
+   Email: bumpm@ohiodominican.edu
+   Username: bumpm
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: McKenzie Bump Assistant Coach bumpm@ohiodominican.edu
+
+17. Brianna Sims
+   Email: simsb2@ohiodominican.edu
+   Username: simsb2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Brianna Sims Head Coach simsb2@ohiodominican.edu
+
+18. Macy Blankenship
+   Email: spielmam@ohiodominican.edu
+   Username: spielmam
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Macy Blankenship Assistant Coach spielmam@ohiodominican.edu
+
+19. Lee LaBadie
+   Email: labadiel@ohiodominican.edu
+   Username: labadiel
+   Sports: Softball
+   Title: Head Coach
+   Original line: Lee LaBadie Head Coach labadiel@ohiodominican.edu
+
+20. Chris Deibel
+   Email: deibelc@ohiodominican.edu
+   Username: deibelc
+   Sports: Softball
+   Title: Head Coach
+   Original line: Chris Deibel Head Coach deibelc@ohiodominican.edu 614-253-
+
+21. Tony Daniels
+   Email: danielst3@ohiodominican.edu
+   Username: danielst3
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tony Daniels Head Coach danielst3@ohiodominican.edu
+
+22. Nick Hills
+   Email: hillsn@ohiodominican.edu
+   Username: hillsn
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Nick Hills Assistant Coach hillsn@ohiodominican.edu 614-338-
+
+23. Lee LaBadie
+   Email: labadiel@ohiodominican.edu
+   Username: labadiel
+   Sports: Softball
+   Title: Head Coach
+   Original line: Lee LaBadie Head Coach labadiel@ohiodominican.edu
+
+24. Dustin Fillmore
+   Email: fillmord@ohiodominican.edu
+   Username: fillmord
+   Sports: Softball
+   Title: Assistant Coach - Sprints
+   Original line: Dustin Fillmore Assistant Coach - Sprints fillmord@ohiodominican.edu
+
+25. Amy Bambenek
+   Email: bambenea@ohiodominican.edu
+   Username: bambenea
+   Sports: Softball
+   Title: Head Coach
+   Original line: Amy Bambenek Head Coach bambenea@ohiodominican.edu 614-251-
+
+26. Suwarin Graduate
+   Email: yordins@ohiodominican.edu
+   Username: yordins
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Luke Pruter Assistant Coach yordins@ohiodominican.edu
+
+27. Luke Proffitt
+   Email: 
+   Username: luke.proffitt
+   Sports: Soccer
+   Title: Assistant Coach - Pole Vault
+   Original line: Luke Proffitt Assistant Coach - Pole Vault
+
+28. Lauren Lucas
+   Email: 
+   Username: lauren.lucas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lauren Lucas Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Marcella Vanlandingham Head Coach / Senior Women's Administrator vanlandm@ohiodominican.edu 614-251-
+• Christopher Antonides Head Coach AntonidC@ohiodominican.edu 614-251-
+• Matt Magno Assistant Coach magnom@ohiodominican.edu
+• Brian Hull Assistant Coach hullb3@ohiodominican.edu
+• Jorden Evans Head Coach evansj9@ohiodominican.edu
+• Kelly Cummings Head Coach cummingk@ohiodominican.edu 614-253-
+• BJ Coad Associate Head Coach / Offensive Coordinator coadb@ohiodominican.edu
+• Casey Kaufman Head Coach kaufmanc@ohiodominican.edu 614-251-
+• Colton Everett Assistant Coach everettc3@ohiodominican.edu
+• Lee LaBadie Head Coach labadiel@ohiodominican.edu
+• Chris Deibel Head Coach deibelc@ohiodominican.edu 614-253-
+• Willy Merrick Head Coach merrickw@ohiodominican.edu 614-251-
+• Lee LaBadie Head Coach labadiel@ohiodominican.edu
+• Dustin Fillmore Assistant Coach - Sprints fillmord@ohiodominican.edu
+• Marcella Vanlandingham Head Coach / Senior Women's Administrator vanlandm@ohiodominican.edu 614-251-
+• McKenzie Bump Assistant Coach bumpm@ohiodominican.edu
+• Brianna Sims Head Coach simsb2@ohiodominican.edu
+• Macy Blankenship Assistant Coach spielmam@ohiodominican.edu
+• Lee LaBadie Head Coach labadiel@ohiodominican.edu
+• Chris Deibel Head Coach deibelc@ohiodominican.edu 614-253-
+• Tony Daniels Head Coach danielst3@ohiodominican.edu
+• Nick Hills Assistant Coach hillsn@ohiodominican.edu 614-338-
+• Lee LaBadie Head Coach labadiel@ohiodominican.edu
+• Dustin Fillmore Assistant Coach - Sprints fillmord@ohiodominican.edu
+• Amy Bambenek Head Coach bambenea@ohiodominican.edu 614-251-

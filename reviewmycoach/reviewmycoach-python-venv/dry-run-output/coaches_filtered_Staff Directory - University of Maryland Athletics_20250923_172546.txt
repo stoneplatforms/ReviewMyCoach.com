@@ -1,0 +1,620 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:48
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Maryland
+Organization: University of Maryland Athletics
+
+Total coaches found: 78
+
+PARSED ENTRIES:
+----------------------------------------
+1.  of
+   Email: rwdavis@umd.edu
+   Username: rwdavis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Director of Football Ryan Davis rwdavis@umd.edu @CoachRyanDavis
+
+2. Jimmy Jackson
+   Email: jjacks38@umd.edu
+   Username: jjacks38
+   Sports: Baseball
+   Title: Assistant Coach/Pitching
+   Original line: Assistant Coach/Pitching Jimmy Jackson jjacks38@umd.edu jimmyjackson38
+
+3. Brock Keener
+   Email: bkeener@umd.edu
+   Username: bkeener
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Brock Keener bkeener@umd.edu
+
+4. Jelkonoh 
+   Email: jelkonoh@umd.edu
+   Username: jelkonoh
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Brenda Frese 301- jelkonoh@umd.edu @BrendaFrese
+
+5.  Carley
+   Email: ckuhns1@umd.edu
+   Username: ckuhns1
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Carley Kuhns ckuhns1@umd.edu CoachKuhns
+
+6. Jessica Imhof
+   Email: jimhof@umd.edu
+   Username: jimhof
+   Sports: Baseball
+   Title: Assistant Coach/Director
+   Original line: Assistant Coach/Director Jessica Imhof jimhof@umd.edu coachimhof
+
+7. Noelle Cobb
+   Email: ncobb@umd.edu
+   Username: ncobb
+   Sports: Baseball
+   Title: Assistant Coach/Director
+   Original line: Assistant Coach/Director Noelle Cobb ncobb@umd.edu @CoachCobb20
+
+8. Tapman Asper
+   Email: ktapman@umd.edu
+   Username: ktapman
+   Sports: Track & Field
+   Title: Associate Head Coach Kasey
+   Original line: Associate Head Coach Kasey Tapman Asper ktapman@umd.edu
+
+9. Maddy Sposito
+   Email: mspos30@umd.edu
+   Username: mspos30
+   Sports: Track & Field
+   Title: Assistant Coach /
+   Original line: Assistant Coach / Maddy Sposito mspos30@umd.edu
+
+10. Will Holt
+   Email: wholt@umd.edu
+   Username: wholt
+   Sports: Track & Field
+   Title: Assistant Coach/High
+   Original line: Assistant Coach/High Will Holt wholt@umd.edu
+
+11.  Football
+   Email: artauber@umd.edu
+   Username: artauber
+   Sports: Football
+   Title: Head Coach
+   Original line: Head Football Coach Michael Locksley 301- artauber@umd.edu @CoachLocks
+
+12. Thomas Safeties
+   Email: jet11@umd.edu
+   Username: jet11
+   Sports: Football
+   Title: Coach James
+   Original line: Safeties Coach James Thomas Jr. jet11@umd.edu @coachjthomas11
+
+13. Louis Swaba
+   Email: lswaba@umd.edu
+   Username: lswaba
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Running Backs Coach Louis Swaba lswaba@umd.edu
+
+14. Matt Konapelsky
+   Email: mkonapel@umd.edu
+   Username: mkonapel
+   Sports: Football
+   Title: Director of Coaching
+   Original line: Director of Coaching Matt Konapelsky mkonapel@umd.edu
+
+15.  of
+   Email: rwdavis@umd.edu
+   Username: rwdavis
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Director of Football Ryan Davis rwdavis@umd.edu @CoachRyanDavis
+
+16. John Phillips
+   Email: jcphilli@umd.edu
+   Username: jcphilli
+   Sports: Football
+   Title: Head Men's Golf Coach
+   Original line: Head Men's Golf Coach John Phillips jcphilli@umd.edu
+
+17. Hovland 
+   Email: hovland@umd.edu
+   Username: hovland
+   Sports: Football
+   Title: Head Coach
+   Original line: Head Coach Kelly Hovland 301- hovland@umd.edu @kellyghovland
+
+18. Marissa Kirkwood
+   Email: mkirk24@umd.edu
+   Username: mkirk24
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Assistant Coach Marissa Kirkwood mkirk24@umd.edu
+
+19.  Gymnastics
+   Email: bnelli@umd.edu
+   Username: bnelli
+   Sports: Football
+   Title: Head Coach
+   Original line: Head Gymnastics Coach Brett Nelligan 301- bnelli@umd.edu @TerpsGymnastics
+
+20. Tim O'Branski
+   Email: tobransk@umd.edu
+   Username: tobransk
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Assistant Coach Tim O'Branski tobransk@umd.edu
+
+21. Lkenis 
+   Email: lkenis@umd.edu
+   Username: lkenis
+   Sports: Football
+   Title: Head Coach
+   Original line: Associate Head Coach Lauri Kenis 301- lkenis@umd.edu
+
+22. Jpace20 
+   Email: jpace20@umd.edu
+   Username: jpace20
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Assistant Coach Jake Pace 301- jpace20@umd.edu @jakepace_20
+
+23. Brian Rowland
+   Email: rowlandb@umd.edu
+   Username: rowlandb
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Assistant Coach Brian Rowland rowlandb@umd.edu
+
+24. Michael Gould
+   Email: mgould14@umd.edu
+   Username: mgould14
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Assistant Coach Michael Gould mgould14@umd.edu
+
+25. Lauren Karn
+   Email: lkarn@umd.edu
+   Username: lkarn
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Head Softball Coach Lauren Karn lkarn@umd.edu
+
+26. Katey Hendershott
+   Email: khender@umd.edu
+   Username: khender
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Assistant Softball Coach Katey Hendershott khender@umd.edu
+
+27. Jen Lapicki
+   Email: jlapicki@umd.edu
+   Username: jlapicki
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Assistant Softball Coach Jen Lapicki jlapicki@umd.edu
+
+28. Dance Team
+   Email: annie10900@aol.com
+   Username: annie10900
+   Sports: Softball
+   Title: Coach
+   Original line: Dance Team Coach Ann Marie Kennedy 410- annie10900@aol.com
+
+29.  Tennis
+   Email: kdough@umd.edu
+   Username: kdough
+   Sports: Softball
+   Title: Head Coach
+   Original line: Head Tennis Coach Katie Dougherty 301- kdough@umd.edu @coachkdough
+
+30. Ruth Seaborne
+   Email: seaborne@umd.edu
+   Username: seaborne
+   Sports: Softball
+   Title: Associate Head Coach
+   Original line: Associate Head Coach Ruth Seaborne seaborne@umd.edu
+
+31.  Track
+   Email: avalmon@umd.edu
+   Username: avalmon
+   Sports: Softball
+   Title: Head Coach
+   Original line: Head Track Coach Andrew Valmon 301- avalmon@umd.edu @AValmon
+
+32. Dsiebert 
+   Email: dsiebert@umd.edu
+   Username: dsiebert
+   Sports: Softball
+   Title: Head Coach - Danielle Siebert
+   Original line: Associate Head Coach - Danielle Siebert 301- dsiebert@umd.edu @danielle_sieb
+
+33. Lynn Smith
+   Email: Lsmith04@umd.edu
+   Username: Lsmith04
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Assistant Coach Lynn Smith Lsmith04@umd.edu
+
+34. Dmoore10 
+   Email: dmoore10@umd.edu
+   Username: dmoore10
+   Sports: Softball
+   Title: Assistant Coach - Dezerea Bryant-Moore
+   Original line: Assistant Coach - Dezerea Bryant-Moore 301- dmoore10@umd.edu
+
+35.  Volleyball
+   Email: anh@umd.edu
+   Username: anh
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Head Volleyball Coach Adam Hughes 301- anh@umd.edu @AdamNHughes
+
+36. Becca1 
+   Email: becca1@umd.edu
+   Username: becca1
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Associate Head Coach Becca Acevedo 301- becca1@umd.edu @beccacevedo
+
+37. Rammerma 
+   Email: rammerma@umd.edu
+   Username: rammerma
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Assistant Coach Ryan Ammerman 301- rammerma@umd.edu
+
+38. Alex Clemsen
+   Email: aclemsen@umd.edu
+   Username: aclemsen
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Head Coach Alex Clemsen aclemsen@umd.edu @alextclemsen
+
+39. Nick Brascetta
+   Email: nickb@umd.edu
+   Username: nickb
+   Sports: Volleyball
+   Title: Associate Head Coach
+   Original line: Associate Head Coach Nick Brascetta nickb@umd.edu @nickolai_32
+
+40. Devin Mellon
+   Email: dmellon1@umd.edu
+   Username: dmellon1
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Assistant Coach Devin Mellon dmellon1@umd.edu
+
+41. Elijah Oliver
+   Email: eoliver4@umd.edu
+   Username: eoliver4
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Assistant Coach Elijah Oliver eoliver4@umd.edu
+
+42. Bhoffma4 
+   Email: bhoffma4@umd.edu
+   Username: bhoffma4
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach bhoffma4@umd.edu
+
+43. Gpiteo 
+   Email: gpiteo@umd.edu
+   Username: gpiteo
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach (FH, gpiteo@umd.edu
+
+44. Reynolb 
+   Email: reynolb@umd.edu
+   Username: reynolb
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Original line: Conditioning Coach for reynolb@umd.edu
+
+45.  
+   Email: 
+   Username: 
+   Sports: Strength & Conditioning
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Associate Strength and Jason Wooding @Coach_Wooding
+
+46. Jbbooth 
+   Email: jbbooth@umd.edu
+   Username: jbbooth
+   Sports: Soccer
+   Title: coach
+   Original line: Coaching Assistant jbbooth@umd.edu
+
+47. Ticketing Hornyak
+   Email: mhornyak@umd.edu
+   Username: mhornyak
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Head Coach Matt Swope @MattSwope19 mhornyak@umd.edu
+
+48. Ticketing Ruiz
+   Email: cruiz128@umd.edu
+   Username: cruiz128
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach cruiz128@umd.edu
+
+49.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Recruiting
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Recruiting
+
+50. Dereko 
+   Email: dereko@umd.edu
+   Username: dereko
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Associate Head Coach Devin Johnson dereko@umd.edu
+
+51. Wbridgha 
+   Email: wbridgha@umd.edu
+   Username: wbridgha
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach Lyle Wolf wbridgha@umd.edu
+
+52.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Steve Roccaforte
+
+53.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Wabissa Bede
+
+54. Joshc 
+   Email: joshc@umd.edu
+   Username: joshc
+   Sports: Soccer
+   Title: Assistant Coach/Director Aki Collins
+   Original line: Assistant Coach/Director Aki Collins joshc@umd.edu
+
+55.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Director of Basketball TJ Ryan CoachTJRyan
+
+56. Ghendrix 
+   Email: ghendrix@umd.edu
+   Username: ghendrix
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach Operations ghendrix@umd.edu
+
+57.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach
+
+58.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Offensive
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Offensive
+
+59.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Defensive
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Defensive 314-
+
+60.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Recruiting
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Recruiting 314-
+
+61.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach for Defense
+
+62. Wide Receivers
+   Email: 
+   Username: wide.receivers
+   Sports: Soccer
+   Title: Wide Receivers Coach
+   Original line: Wide Receivers Coach Latrell Scott
+
+63. Line 
+   Email: 
+   Username: line
+   Sports: Soccer
+   Title: Offensive Line Coach
+   Original line: Offensive Line Coach Damian Wroblewski
+
+64. Line 
+   Email: 
+   Username: line
+   Sports: Soccer
+   Title: Defensive Line Coach
+   Original line: Defensive Line Coach Corey Liuget
+
+65. Cwachhol 
+   Email: cwachhol@umd.edu
+   Username: cwachhol
+   Sports: Soccer
+   Title: Backs Coach
+   Original line: Backs Coach cwachhol@umd.edu
+
+66. Jmmassie 
+   Email: jmmassie@umd.edu
+   Username: jmmassie
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach Emilyee McGiles jmmassie@umd.edu
+
+67.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 314-
+
+68. Sgolds10 
+   Email: sgolds10@umd.edu
+   Username: sgolds10
+   Sports: Lacrosse
+   Title: coach
+   Original line: Head Men's Lacrosse John Tillman 301- @CoachTillman1 sgolds10@umd.edu
+
+69. Jbernha3 
+   Email: jbernha3@umd.edu
+   Username: jbernha3
+   Sports: Soccer
+   Title: Coach/Def
+   Original line: Coach/Def. Coordinator 314- jbernha3@umd.edu
+
+70.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Off
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Off. Coordinator
+
+71. Creese 
+   Email: creese@umd.edu
+   Username: creese
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach Alex Aust Holman creese@umd.edu
+
+72.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Soccer Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Soccer Coach
+
+73. Student Montgomery
+   Email: amontgo4@terpmail.umd.edu
+   Username: amontgo4
+   Sports: Soccer
+   Title: Cheerleading Coach
+   Original line: Cheerleading Coach Jessica Shumway amontgo4@terpmail.umd.edu
+
+74. Throws 
+   Email: 
+   Username: throws
+   Sports: Soccer
+   Title: Throws Coach
+   Original line: Throws Coach Kibwé Johnson
+
+75.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Alex Amankwah
+
+76.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Dominic Berger
+
+77.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach, Throws Rudy Winkler
+
+78.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Ethan Laird
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Director of Football Ryan Davis rwdavis@umd.edu @CoachRyanDavis
+• Assistant Coach/Pitching Jimmy Jackson jjacks38@umd.edu jimmyjackson38
+• Assistant Coach Brock Keener bkeener@umd.edu
+• Head Coach Brenda Frese 301- jelkonoh@umd.edu @BrendaFrese
+• Assistant Carley Kuhns ckuhns1@umd.edu CoachKuhns
+• Assistant Coach/Director Jessica Imhof jimhof@umd.edu coachimhof
+• Assistant Coach/Director Noelle Cobb ncobb@umd.edu @CoachCobb20
+• Associate Head Coach Kasey Tapman Asper ktapman@umd.edu
+• Assistant Coach / Maddy Sposito mspos30@umd.edu
+• Assistant Coach/High Will Holt wholt@umd.edu
+• Head Football Coach Michael Locksley 301- artauber@umd.edu @CoachLocks
+• Safeties Coach James Thomas Jr. jet11@umd.edu @coachjthomas11
+• Running Backs Coach Louis Swaba lswaba@umd.edu
+• Director of Coaching Matt Konapelsky mkonapel@umd.edu
+• Director of Football Ryan Davis rwdavis@umd.edu @CoachRyanDavis
+• Head Men's Golf Coach John Phillips jcphilli@umd.edu
+• Head Coach Kelly Hovland 301- hovland@umd.edu @kellyghovland
+• Assistant Coach Marissa Kirkwood mkirk24@umd.edu
+• Head Gymnastics Coach Brett Nelligan 301- bnelli@umd.edu @TerpsGymnastics
+• Assistant Coach Tim O'Branski tobransk@umd.edu
+• Associate Head Coach Lauri Kenis 301- lkenis@umd.edu
+• Assistant Coach Jake Pace 301- jpace20@umd.edu @jakepace_20
+• Assistant Coach Brian Rowland rowlandb@umd.edu
+• Assistant Coach Michael Gould mgould14@umd.edu
+• Head Softball Coach Lauren Karn lkarn@umd.edu
+• Assistant Softball Coach Katey Hendershott khender@umd.edu
+• Assistant Softball Coach Jen Lapicki jlapicki@umd.edu
+• Dance Team Coach Ann Marie Kennedy 410- annie10900@aol.com
+• Head Tennis Coach Katie Dougherty 301- kdough@umd.edu @coachkdough
+• Associate Head Coach Ruth Seaborne seaborne@umd.edu
+• Head Track Coach Andrew Valmon 301- avalmon@umd.edu @AValmon
+• Associate Head Coach - Danielle Siebert 301- dsiebert@umd.edu @danielle_sieb
+• Assistant Coach Lynn Smith Lsmith04@umd.edu
+• Assistant Coach - Dezerea Bryant-Moore 301- dmoore10@umd.edu
+• Head Volleyball Coach Adam Hughes 301- anh@umd.edu @AdamNHughes
+• Associate Head Coach Becca Acevedo 301- becca1@umd.edu @beccacevedo
+• Assistant Coach Ryan Ammerman 301- rammerma@umd.edu
+• Head Coach Alex Clemsen aclemsen@umd.edu @alextclemsen
+• Associate Head Coach Nick Brascetta nickb@umd.edu @nickolai_32
+• Assistant Coach Devin Mellon dmellon1@umd.edu
+• Assistant Coach Elijah Oliver eoliver4@umd.edu

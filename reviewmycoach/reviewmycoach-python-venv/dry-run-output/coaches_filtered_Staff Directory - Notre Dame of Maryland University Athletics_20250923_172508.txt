@@ -1,0 +1,407 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:09
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Notre Dame of Maryland University
+Organization: Notre Dame of Maryland University Athletics
+
+Total coaches found: 51
+
+PARSED ENTRIES:
+----------------------------------------
+1. Matt Backert
+   Email: mbackert@ndm.edu
+   Username: mbackert
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Matt Backert Head Coach mbackert@ndm.edu
+
+2. T.J. Jordan
+   Email: rjordan@ndm.edu
+   Username: rjordan
+   Sports: Baseball
+   Title: Head Coach
+   Original line: T.J. Jordan Head Coach rjordan@ndm.edu
+
+3. Kalin Wynn
+   Email: kwynn@ndm.edu
+   Username: kwynn
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (410) 532-3588
+   Original line: Kalin Wynn Head Coach kwynn@ndm.edu 410-532-3588
+
+4. Candice Hendricks
+   Email: chendricks@ndm.edu
+   Username: chendricks
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (410) 532-3588
+   Original line: Candice Hendricks Assistant Coach chendricks@ndm.edu 410-532-3588
+
+5. Shamera Willoughby
+   Email: swilloughby@ndm.edu
+   Username: swilloughby
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Shamera Willoughby Head Coach swilloughby@ndm.edu
+
+6. Kevin Totaro
+   Email: ktotaro@ndm.edu
+   Username: ktotaro
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (410) 419-3008
+   Original line: Kevin Totaro Head Coach ktotaro@ndm.edu 410-419-3008
+
+7. Raamah Harcum
+   Email: rharcum@ndm.edu
+   Username: rharcum
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Raamah Harcum Assistant Coach rharcum@ndm.edu
+
+8. Aaron Czech
+   Email: aczech1@live.edm.edu
+   Username: aczech1
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Aaron Czech Assistant Coach aczech1@live.edm.edu
+
+9. Robert Tarver
+   Email: rtarver@ndm.edu
+   Username: rtarver
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Robert Tarver Assistant Coach rtarver@ndm.edu
+
+10. Sean McNicholas
+   Email: smcnicholas@ndm.edu
+   Username: smcnicholas
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Sean McNicholas Assistant Coach smcnicholas@ndm.edu
+
+11. Kari-lei Berry
+   Email: kberry@ndm.edu
+   Username: kberry
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (410) 532-3587
+   Original line: Kari-lei Berry Head Coach kberry@ndm.edu 410-532-3587
+
+12. Lauren Davenport
+   Email: ldavenport@ndm.edu
+   Username: ldavenport
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Lauren Davenport Assistant Coach ldavenport@ndm.edu
+
+13. Frank Olszewski
+   Email: folszewski@ndm.edu
+   Username: folszewski
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Frank Olszewski Head Coach folszewski@ndm.edu
+
+14. Nathan Rauscher
+   Email: nrauscher@ndm.edu
+   Username: nrauscher
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Nathan Rauscher Head Coach nrauscher@ndm.edu
+
+15. Samantha Whiting
+   Email: swhiting@ndm.edu
+   Username: swhiting
+   Sports: Softball
+   Title: Head Coach
+   Phone: (410) 532-3584
+   Original line: Samantha Whiting Head Coach swhiting@ndm.edu 410-532-3584
+
+16. Andre Ervin
+   Email: aervin@ndm.edu
+   Username: aervin
+   Sports: Softball
+   Title: Head Coach
+   Original line: Andre Ervin Head Coach aervin@ndm.edu
+
+17. Shamera Willoughby
+   Email: swilloughby@ndm.edu
+   Username: swilloughby
+   Sports: Softball
+   Title: Head Coach
+   Original line: Shamera Willoughby Head Coach swilloughby@ndm.edu
+
+18. Henry DeTitta
+   Email: hdetitta@ndm.edu
+   Username: hdetitta
+   Sports: Softball
+   Title: Head Coach
+   Original line: Henry DeTitta Head Coach hdetitta@ndm.edu
+
+19. Catherine Subrizi
+   Email: csubrizi1@ndm.edu
+   Username: csubrizi1
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Catherine Subrizi Assistant Coach csubrizi1@ndm.edu
+
+20. Dr Wagner
+   Email: awagner7@ndm.edu
+   Username: awagner7
+   Sports: Baseball
+   Title: coach
+   Original line: BASEBALL COACHING STAFF awagner7@ndm.edu
+
+21. DJ Gargano
+   Email: 
+   Username: dj.gargano
+   Sports: Soccer
+   Title: Head Coach
+   Original line: DJ Gargano Assistant Head Coach
+
+22. Riley Burroughs
+   Email: 
+   Username: riley.burroughs
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Riley Burroughs Assistant Coach
+
+23. Mark Winkel
+   Email: mwinkel@ndm.edu
+   Username: mwinkel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ethan Wallace Assistant Coach mwinkel@ndm.edu
+
+24. Dr Faculty
+   Email: jmckeon@ndm.edu
+   Username: jmckeon
+   Sports: Soccer
+   Title: Reed Adams Pitching Coach
+   Original line: Reed Adams Pitching Coach jmckeon@ndm.edu
+
+25. Morgan Keimig
+   Email: mkeimig@ndm.edu
+   Username: mkeimig
+   Sports: Basketball
+   Title: coach
+   Original line: MEN'S BASKETBALL COACHING STAFF mkeimig@ndm.edu
+
+26. Raphael Jordan
+   Email: 
+   Username: raphael.jordan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Raphael Jordan Assistant Coach
+
+27. Brian Selby
+   Email: 
+   Username: brian.selby
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brian Selby Assistant Coach
+
+28. Johnnie Grimes
+   Email: 
+   Username: johnnie.grimes
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Johnnie Grimes Assistant Coach
+
+29.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S BASKETBALL COACHING STAFF
+
+30. Taylor Carter
+   Email: 
+   Username: taylor.carter
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taylor Carter Assistant Coach
+
+31. Zaria Comer
+   Email: 
+   Username: zaria.comer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zaria Comer Assistant Coach
+
+32. Daija Fitchett
+   Email: 
+   Username: daija.fitchett
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Daija Fitchett Assistant Coach
+
+33.  
+   Email: 
+   Username: 
+   Sports: Cross Country
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: CROSS COUNTRY COACHING STAFF
+
+34.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S LACROSSE COACHING STAFF
+
+35.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S LACROSSE COACHING STAFF
+
+36.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S SOCCER COACHING STAFF
+
+37. John Kouakam
+   Email: 
+   Username: john.kouakam
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Kouakam Assistant Coach
+
+38. AJ Lewis
+   Email: 
+   Username: aj.lewis
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: AJ Lewis Assistant Coach
+
+39. Josh Danza
+   Email: 
+   Username: josh.danza
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Danza Assistant Coach
+
+40.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S SOCCER COACHING STAFF
+
+41. Jordan Ganzermiller
+   Email: 
+   Username: jordan.ganzermiller
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jordan Ganzermiller Assistant Coach
+
+42. Colette Pierce
+   Email: 
+   Username: colette.pierce
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Colette Pierce Assistant Coach
+
+43.  
+   Email: 
+   Username: 
+   Sports: Softball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: SOFTBALL COACHING STAFF
+
+44. Billy Wilkins
+   Email: 
+   Username: billy.wilkins
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Billy Wilkins Assistant Coach
+
+45.  
+   Email: 
+   Username: 
+   Sports: Tennis
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S TENNIS COACHING STAFF
+
+46. Conor Somers
+   Email: 
+   Username: conor.somers
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Conor Somers Assistant Coach
+
+47.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S TRACK COACHING STAFF
+
+48.  
+   Email: 
+   Username: 
+   Sports: Volleyball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S VOLLEYBALL COACHING STAFF
+
+49. Geoffrey Koger
+   Email: 
+   Username: geoffrey.koger
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Geoffrey Koger Assistant Coach
+
+50. Paulina Hernandez
+   Email: 
+   Username: paulina.hernandez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Paulina Hernandez Assistant Coach
+
+51. Bobbi McDowell
+   Email: 
+   Username: bobbi.mcdowell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bobbi McDowell Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Matt Backert Head Coach mbackert@ndm.edu
+• T.J. Jordan Head Coach rjordan@ndm.edu
+• Kalin Wynn Head Coach kwynn@ndm.edu 410-532-3588
+• Candice Hendricks Assistant Coach chendricks@ndm.edu 410-532-3588
+• Shamera Willoughby Head Coach swilloughby@ndm.edu
+• Kevin Totaro Head Coach ktotaro@ndm.edu 410-419-3008
+• Raamah Harcum Assistant Coach rharcum@ndm.edu
+• Aaron Czech Assistant Coach aczech1@live.edm.edu
+• Robert Tarver Assistant Coach rtarver@ndm.edu
+• Sean McNicholas Assistant Coach smcnicholas@ndm.edu
+• Kari-lei Berry Head Coach kberry@ndm.edu 410-532-3587
+• Lauren Davenport Assistant Coach ldavenport@ndm.edu
+• Frank Olszewski Head Coach folszewski@ndm.edu
+• Nathan Rauscher Head Coach nrauscher@ndm.edu
+• Samantha Whiting Head Coach swhiting@ndm.edu 410-532-3584
+• Andre Ervin Head Coach aervin@ndm.edu
+• Shamera Willoughby Head Coach swilloughby@ndm.edu
+• Henry DeTitta Head Coach hdetitta@ndm.edu
+• Catherine Subrizi Assistant Coach csubrizi1@ndm.edu

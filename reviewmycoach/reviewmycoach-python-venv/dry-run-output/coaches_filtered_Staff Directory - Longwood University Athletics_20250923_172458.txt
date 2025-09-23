@@ -1,0 +1,342 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:58
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Trey Eggleston Assistant Vice President of University Priorities egglestontm@longwood.edu 434-395-
+Organization: Longwood University Athletics
+
+Total coaches found: 41
+
+PARSED ENTRIES:
+----------------------------------------
+1. Josh Acker
+   Email: ackerjt@longwood.edu
+   Username: ackerjt
+   Sports: Soccer
+   Title: Assistant Sports Performance Coach
+   Original line: Josh Acker Assistant Sports Performance Coach (BSB, M/WTEN, M/WTRK, ackerjt@longwood.edu
+
+2. Erica Lowery
+   Email: loweryeh2@longwood.edu
+   Username: loweryeh2
+   Sports: Soccer
+   Title: Assistant Sports Performance Coach
+   Original line: Erica Lowery Assistant Sports Performance Coach (SB, WLAX, M/WXC, FH) loweryeh2@longwood.edu
+
+3. Ray Noe
+   Email: noerd@longwood.edu
+   Username: noerd
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Ray Noe Head Baseball Coach noerd@longwood.edu
+
+4. Eric Miles
+   Email: mileseg2@longwood.edu
+   Username: mileseg2
+   Sports: Baseball
+   Title: Assistant Baseball Coach/Pitching Coach
+   Original line: Eric Miles Assistant Baseball Coach/Pitching Coach mileseg2@longwood.edu
+
+5. Tyler Sullivan
+   Email: sullivantm2@longwood.edu
+   Username: sullivantm2
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Tyler Sullivan Assistant Baseball Coach sullivantm2@longwood.edu
+
+6. Harrison Stevens
+   Email: stevenshm2@longwood.edu
+   Username: stevenshm2
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Harrison Stevens Assistant Coach/Recruiting Coordinator stevenshm2@longwood.edu
+
+7. Ronnie Thomas
+   Email: thomasr@longwood.edu
+   Username: thomasr
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Ronnie Thomas Head Men's Basketball Coach thomasr@longwood.edu
+
+8. Marty McGillan
+   Email: mcgillanmt@longwood.edu
+   Username: mcgillanmt
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Marty McGillan Associate Head Coach mcgillanmt@longwood.edu 434-395-
+
+9. Tom Palombo
+   Email: palombotj@longwood.edu
+   Username: palombotj
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Tom Palombo Associate Head Coach palombotj@longwood.edu
+
+10. Matt Sholtis
+   Email: sholtismp@longwood.edu
+   Username: sholtismp
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Matt Sholtis Assistant Coach sholtismp@longwood.edu
+
+11. Emmanuel Matey
+   Email: mateyem@longwood.edu
+   Username: mateyem
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Emmanuel Matey Assistant Coach mateyem@longwood.edu
+
+12. Myo Baxter-Bell
+   Email: baxterbellmr@longwood.edu
+   Username: baxterbellmr
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Myo Baxter-Bell Assistant Coach – Player Development baxterbellmr@longwood.edu
+
+13. Odri Dedolli
+   Email: dedollio@longwood.edu
+   Username: dedollio
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Odri Dedolli Assistant Coach – Analytics & Technology dedollio@longwood.edu
+
+14. Erika Lang-Montgomery
+   Email: langmontgomerye@longwood.edu
+   Username: langmontgomerye
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Erika Lang-Montgomery Head Women's Basketball Coach langmontgomerye@longwood.edu
+
+15. Landis 
+   Email: mccoylf@longwood.edu
+   Username: mccoylf
+   Sports: Baseball
+   Title: McCoy Assistant Women's Basketball Coach
+   Original line: Landis F. McCoy Assistant Women's Basketball Coach mccoylf@longwood.edu 434-395-
+
+16. Rachel Balzer
+   Email: balzerrl@longwood.edu
+   Username: balzerrl
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Rachel Balzer Assistant Women's Basketball Coach balzerrl@longwood.edu
+
+17. Ivana Boyd
+   Email: boydic@longwood.edu
+   Username: boydic
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Ivana Boyd Assistant Women's Basketball Coach boydic@longwood.edu
+
+18. Brendan Scanlon
+   Email: brendan.scanlon@live.longwood.edu
+   Username: brendan.scanlon
+   Sports: Baseball
+   Title: Graduate Assistant Women's Basketball Coach
+   Original line: Brendan Scanlon Graduate Assistant Women's Basketball Coach brendan.scanlon@live.longwood.edu
+
+19. Jacob Torres
+   Email: torresjl@longwood.edu
+   Username: torresjl
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jacob Torres Assistant Coach torresjl@longwood.edu
+
+20. Miranda Rigg
+   Email: riggme@longwood.edu
+   Username: riggme
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Miranda Rigg Head Field Hockey Coach riggme@longwood.edu
+
+21. Alexa Rastigue
+   Email: rastigueam@longwood.edu
+   Username: rastigueam
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Alexa Rastigue Assistant Coach rastigueam@longwood.edu
+
+22. Kevin Fillman
+   Email: fillmankm@longwood.edu
+   Username: fillmankm
+   Sports: Track & Field
+   Title: Head Men's Golf Coach
+   Original line: Kevin Fillman Head Men's Golf Coach fillmankm@longwood.edu 434-395-
+
+23. Megan Weaver
+   Email: weavermc@longwood.edu
+   Username: weavermc
+   Sports: Track & Field
+   Title: Head Women's Golf Coach
+   Original line: Megan Weaver Head Women's Golf Coach weavermc@longwood.edu
+
+24. Dwayne Hicks
+   Email: hicksdm2@longwood.edu
+   Username: hicksdm2
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Original line: Dwayne Hicks Head Women's Lacrosse Coach hicksdm2@longwood.edu 434-395-
+
+25. Kiana Francis
+   Email: franciskm2@longwood.edu
+   Username: franciskm2
+   Sports: Track & Field
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Kiana Francis Assistant Women's Lacrosse Coach franciskm2@longwood.edu
+
+26. Ali Bryant
+   Email: alexandra.bryant2@live.longwood.edu
+   Username: alexandra.bryant2
+   Sports: Track & Field
+   Title: Graduate Assistant Women's Lacrosse Coach
+   Original line: Ali Bryant Graduate Assistant Women's Lacrosse Coach alexandra.bryant2@live.longwood.edu
+
+27. Paul Gilbert
+   Email: gilbertpe@longwood.edu
+   Username: gilbertpe
+   Sports: Track & Field
+   Title: Head Men's Soccer Coach
+   Original line: Paul Gilbert Head Men's Soccer Coach gilbertpe@longwood.edu 615-796-
+
+28. Yuriy Sadula
+   Email: sadulay@longwood.edu
+   Username: sadulay
+   Sports: Track & Field
+   Title: Associate Head Men's Soccer Coach
+   Original line: Yuriy Sadula Associate Head Men's Soccer Coach sadulay@longwood.edu
+
+29. Finn Jurak
+   Email: finn.jurak@live.longwood.edu
+   Username: finn.jurak
+   Sports: Track & Field
+   Title: Assistant Men's Soccer Coach
+   Original line: Finn Jurak Assistant Men's Soccer Coach finn.jurak@live.longwood.edu
+
+30. Todd Dyer
+   Email: dyerbt@longwood.edu
+   Username: dyerbt
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Original line: Todd Dyer Head Women's Soccer Coach dyerbt@longwood.edu 434-395-
+
+31. Rich Stoneman
+   Email: stonemanrn@longwood.edu
+   Username: stonemanrn
+   Sports: Track & Field
+   Title: Associate Head Women's Soccer Coach
+   Original line: Rich Stoneman Associate Head Women's Soccer Coach stonemanrn@longwood.edu 434-395-
+
+32. Dr 
+   Email: brownmm2@longwood.edu
+   Username: brownmm2
+   Sports: Softball
+   Title: Megan Brown Head Softball Coach
+   Original line: Dr. Megan Brown Head Softball Coach brownmm2@longwood.edu 434-395-
+
+33. Cat Clifford
+   Email: cliffordce@longwood.edu
+   Username: cliffordce
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Cat Clifford Assistant Coach cliffordce@longwood.edu
+
+34. Haylie Brunson
+   Email: brunsonhesw@longwood.edu
+   Username: brunsonhesw
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Haylie Brunson Graduate Assistant Coach brunsonhesw@longwood.edu
+
+35. Jack Batchelor
+   Email: jack.batchelor@live.longwood.edu
+   Username: jack.batchelor
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Jack Batchelor Graduate Assistant Coach jack.batchelor@live.longwood.edu
+
+36. Charlie Gallagher
+   Email: gallagherc@longwood.edu
+   Username: gallagherc
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Charlie Gallagher Volunteer Assistant Coach gallagherc@longwood.edu
+
+37. Harriet Glaves
+   Email: harriet.glaves@live.longwood.edu
+   Username: harriet.glaves
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Harriet Glaves Graduate Assistant Coach harriet.glaves@live.longwood.edu
+
+38. Charlie Gallagher
+   Email: gallagherc@longwood.edu
+   Username: gallagherc
+   Sports: Softball
+   Title: Volunteer Assistant Coach
+   Original line: Charlie Gallagher Volunteer Assistant Coach gallagherc@longwood.edu
+
+39. Jenna Burks
+   Email: burksjm@longwood.edu
+   Username: burksjm
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach burksjm@longwood.edu
+
+40.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Country Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country Coach
+
+41. Robert Volunteer
+   Email: 
+   Username: robert.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Robert Boyd Volunteer Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Josh Acker Assistant Sports Performance Coach (BSB, M/WTEN, M/WTRK, ackerjt@longwood.edu
+• Erica Lowery Assistant Sports Performance Coach (SB, WLAX, M/WXC, FH) loweryeh2@longwood.edu
+• Ray Noe Head Baseball Coach noerd@longwood.edu
+• Eric Miles Assistant Baseball Coach/Pitching Coach mileseg2@longwood.edu
+• Tyler Sullivan Assistant Baseball Coach sullivantm2@longwood.edu
+• Harrison Stevens Assistant Coach/Recruiting Coordinator stevenshm2@longwood.edu
+• Ronnie Thomas Head Men's Basketball Coach thomasr@longwood.edu
+• Marty McGillan Associate Head Coach mcgillanmt@longwood.edu 434-395-
+• Tom Palombo Associate Head Coach palombotj@longwood.edu
+• Matt Sholtis Assistant Coach sholtismp@longwood.edu
+• Emmanuel Matey Assistant Coach mateyem@longwood.edu
+• Myo Baxter-Bell Assistant Coach – Player Development baxterbellmr@longwood.edu
+• Odri Dedolli Assistant Coach – Analytics & Technology dedollio@longwood.edu
+• Erika Lang-Montgomery Head Women's Basketball Coach langmontgomerye@longwood.edu
+• Landis F. McCoy Assistant Women's Basketball Coach mccoylf@longwood.edu 434-395-
+• Rachel Balzer Assistant Women's Basketball Coach balzerrl@longwood.edu
+• Ivana Boyd Assistant Women's Basketball Coach boydic@longwood.edu
+• Brendan Scanlon Graduate Assistant Women's Basketball Coach brendan.scanlon@live.longwood.edu
+• Jacob Torres Assistant Coach torresjl@longwood.edu
+• Miranda Rigg Head Field Hockey Coach riggme@longwood.edu
+• Alexa Rastigue Assistant Coach rastigueam@longwood.edu
+• Kevin Fillman Head Men's Golf Coach fillmankm@longwood.edu 434-395-
+• Megan Weaver Head Women's Golf Coach weavermc@longwood.edu
+• Dwayne Hicks Head Women's Lacrosse Coach hicksdm2@longwood.edu 434-395-
+• Kiana Francis Assistant Women's Lacrosse Coach franciskm2@longwood.edu
+• Ali Bryant Graduate Assistant Women's Lacrosse Coach alexandra.bryant2@live.longwood.edu
+• Paul Gilbert Head Men's Soccer Coach gilbertpe@longwood.edu 615-796-
+• Yuriy Sadula Associate Head Men's Soccer Coach sadulay@longwood.edu
+• Finn Jurak Assistant Men's Soccer Coach finn.jurak@live.longwood.edu
+• Todd Dyer Head Women's Soccer Coach dyerbt@longwood.edu 434-395-
+• Rich Stoneman Associate Head Women's Soccer Coach stonemanrn@longwood.edu 434-395-
+• Dr. Megan Brown Head Softball Coach brownmm2@longwood.edu 434-395-
+• Cat Clifford Assistant Coach cliffordce@longwood.edu
+• Haylie Brunson Graduate Assistant Coach brunsonhesw@longwood.edu
+• Jack Batchelor Graduate Assistant Coach jack.batchelor@live.longwood.edu
+• Charlie Gallagher Volunteer Assistant Coach gallagherc@longwood.edu
+• Harriet Glaves Graduate Assistant Coach harriet.glaves@live.longwood.edu
+• Charlie Gallagher Volunteer Assistant Coach gallagherc@longwood.edu

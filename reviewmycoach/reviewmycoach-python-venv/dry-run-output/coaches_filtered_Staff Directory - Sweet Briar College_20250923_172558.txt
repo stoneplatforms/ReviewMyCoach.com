@@ -1,0 +1,235 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:58
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Sweet Briar College
+Organization: Sweet Briar College Athletics
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brian Hensley
+   Email: bhensley@sbc.edu
+   Username: bhensley
+   Sports: Softball
+   Title: Associate Director of Athletics for Facilities and Operations/Head Softball Coach
+   Phone: (434) 381-6441
+   Original line: Brian Hensley Associate Director of Athletics for Facilities and Operations/Head Softball Coach bhensley@sbc.edu 434-381-6441
+
+2. Joanna Friesen
+   Email: jfriesen@sbc.edu
+   Username: jfriesen
+   Sports: Track & Field, Cross Country
+   Title: Track & Field Coach/SWA
+   Phone: (434) 381-6291
+   Original line: Joanna Friesen Head Cross Country, Track & Field Coach/SWA jfriesen@sbc.edu 434-381-6291
+
+3. Mimi Wroten
+   Email: mwroten@sbc.edu
+   Username: mwroten
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (434) 381-6348
+   Original line: Mimi Wroten '93 Director of Riding/Head Coach, NCEA mwroten@sbc.edu 434-381-6348
+
+4. Mikel Mayo-Pitts
+   Email: mmayo-pitts@sbc.edu
+   Username: mmayo-pitts
+   Sports: Soccer
+   Title: Director of Outdoor Programs / Head Climbing Coach
+   Phone: (434) 381-6369
+   Original line: Mikel Mayo-Pitts Director of Outdoor Programs / Head Climbing Coach mmayo-pitts@sbc.edu 434-381-6369
+
+5. Joanna Friesen
+   Email: jfriesen@sbc.edu
+   Username: jfriesen
+   Sports: Cross Country
+   Title: Track & Field Coach/SWA
+   Phone: (434) 381-6291
+   Original line: Joanna Friesen Head Cross Country, Track & Field Coach/SWA jfriesen@sbc.edu 434-381-6291
+
+6. Robert Sullivan
+   Email: rsullivan@sbc.edu
+   Username: rsullivan
+   Sports: Cross Country
+   Title: Assistant Cross Country/Track & Field Coach
+   Original line: Robert Sullivan Jr. Assistant Cross Country/Track & Field Coach rsullivan@sbc.edu
+
+7. Mimi Wroten
+   Email: mwroten@sbc.edu
+   Username: mwroten
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (434) 381-6348
+   Original line: Mimi Wroten '93 Director of Riding/Head Coach, NCEA mwroten@sbc.edu 434-381-6348
+
+8. Lizzie Fisch
+   Email: lfisch@sbc.edu
+   Username: lfisch
+   Sports: Cross Country
+   Title: Head Coach
+   Phone: (434) 381-6367
+   Original line: Lizzie Fisch Head Coach, IHSA/Assistant Coach, NCEA lfisch@sbc.edu 434-381-6367
+
+9. Isabella Kondi
+   Email: bkondi@sbc.edu
+   Username: bkondi
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Phone: (434) 381-6338
+   Original line: Isabella Kondi Head Field Hockey Coach bkondi@sbc.edu 434-381-6338
+
+10. Karren Mann
+   Email: kmann@sbc.edu
+   Username: kmann
+   Sports: Track & Field
+   Title: Volunteer Field Hockey Goalkeeper Coach
+   Original line: Karren Mann Volunteer Field Hockey Goalkeeper Coach kmann@sbc.edu
+
+11. Garnet Manley
+   Email: gmanley@sbc.edu
+   Username: gmanley
+   Sports: Track & Field
+   Title: Head Golf Coach
+   Phone: (434) 381-6713
+   Original line: Garnet Manley Jr. Head Golf Coach gmanley@sbc.edu 434-381-6713
+
+12. Bucky Morris
+   Email: bmorris@sbc.edu
+   Username: bmorris
+   Sports: Lacrosse
+   Title: Head Lacrosse Coach
+   Phone: (434) 381-6305
+   Original line: Bucky Morris Head Lacrosse Coach bmorris@sbc.edu 434-381-6305
+
+13. Kaitlyn Barbour
+   Email: kbarbour@sbc.edu
+   Username: kbarbour
+   Sports: Soccer
+   Title: Head Soccer Coach
+   Phone: (434) 381-6462
+   Original line: Kaitlyn Barbour Head Soccer Coach kbarbour@sbc.edu 434-381-6462
+
+14. Caroline Lewis
+   Email: cmlewis3983@sbc.edu
+   Username: cmlewis3983
+   Sports: Soccer
+   Title: Assistant Soccer Coach
+   Original line: Caroline Lewis M'23 Assistant Soccer Coach cmlewis3983@sbc.edu
+
+15. Dre Wilkerson
+   Email: dwilkerson@sbc.edu
+   Username: dwilkerson
+   Sports: Soccer
+   Title: Assistant Soccer Coach
+   Original line: Dre Wilkerson Assistant Soccer Coach dwilkerson@sbc.edu
+
+16. Brian Hensley
+   Email: bhensley@sbc.edu
+   Username: bhensley
+   Sports: Softball
+   Title: Associate Director of Athletics for Facilities and Operations/Head Softball Coach
+   Phone: (434) 381-6441
+   Original line: Brian Hensley Associate Director of Athletics for Facilities and Operations/Head Softball Coach bhensley@sbc.edu 434-381-6441
+
+17. Aaron Cofer
+   Email: acofer@sbc.edu
+   Username: acofer
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Aaron Cofer Assistant Softball Coach acofer@sbc.edu
+
+18. Aquatics 
+   Email: bnicholson@sbc.edu
+   Username: bnicholson
+   Sports: Swimming
+   Title: Bill Nicholson Head Swim Coach/Director
+   Phone: (434) 381-6549
+   Original line: Bill Nicholson Head Swim Coach/Director of Aquatics bnicholson@sbc.edu 434-381-6549
+
+19. Greg Harkins
+   Email: gharkins@sbc.edu
+   Username: gharkins
+   Sports: Swimming
+   Title: Head Tennis Coach
+   Phone: (434) 381-6149
+   Original line: Greg Harkins Head Tennis Coach gharkins@sbc.edu 434-381-6149
+
+20. Joanna Friesen
+   Email: jfriesen@sbc.edu
+   Username: jfriesen
+   Sports: Track & Field
+   Title: Track & Field Coach/SWA
+   Phone: (434) 381-6291
+   Original line: Joanna Friesen Head Cross Country, Track & Field Coach/SWA jfriesen@sbc.edu 434-381-6291
+
+21. Robert Sullivan
+   Email: rsullivan@sbc.edu
+   Username: rsullivan
+   Sports: Track & Field
+   Title: Assistant Cross Country/Track & Field Coach
+   Original line: Robert Sullivan Jr. Assistant Cross Country/Track & Field Coach rsullivan@sbc.edu
+
+22. AJ Escobar
+   Email: ajescobar@sbc.edu
+   Username: ajescobar
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: AJ Escobar Head Volleyball Coach ajescobar@sbc.edu
+
+23. Sarah Miller
+   Email: 
+   Username: sarah.miller
+   Sports: Soccer
+   Title: Assistant IHSA Coach
+   Original line: Sarah Miller '20 Assistant IHSA Coach
+
+24. Anna Belliveau
+   Email: 
+   Username: anna.belliveau
+   Sports: Lacrosse
+   Title: Anna Belliveau Assistant Lacrosse Coach
+   Original line: Anna Belliveau Assistant Lacrosse Coach
+
+25. Lauren Thraves
+   Email: 
+   Username: lauren.thraves
+   Sports: Lacrosse
+   Title: Lauren Thraves Assistant Lacrosse Coach
+   Original line: Lauren Thraves Assistant Lacrosse Coach
+
+26. Gabe Venturi
+   Email: 
+   Username: gabe.venturi
+   Sports: Tennis
+   Title: Gabe Venturi Assistant Tennis Coach
+   Original line: Gabe Venturi Assistant Tennis Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brian Hensley Associate Director of Athletics for Facilities and Operations/Head Softball Coach bhensley@sbc.edu 434-381-6441
+• Joanna Friesen Head Cross Country, Track & Field Coach/SWA jfriesen@sbc.edu 434-381-6291
+• Mimi Wroten '93 Director of Riding/Head Coach, NCEA mwroten@sbc.edu 434-381-6348
+• Mikel Mayo-Pitts Director of Outdoor Programs / Head Climbing Coach mmayo-pitts@sbc.edu 434-381-6369
+• Joanna Friesen Head Cross Country, Track & Field Coach/SWA jfriesen@sbc.edu 434-381-6291
+• Robert Sullivan Jr. Assistant Cross Country/Track & Field Coach rsullivan@sbc.edu
+• Mimi Wroten '93 Director of Riding/Head Coach, NCEA mwroten@sbc.edu 434-381-6348
+• Lizzie Fisch Head Coach, IHSA/Assistant Coach, NCEA lfisch@sbc.edu 434-381-6367
+• Isabella Kondi Head Field Hockey Coach bkondi@sbc.edu 434-381-6338
+• Karren Mann Volunteer Field Hockey Goalkeeper Coach kmann@sbc.edu
+• Garnet Manley Jr. Head Golf Coach gmanley@sbc.edu 434-381-6713
+• Bucky Morris Head Lacrosse Coach bmorris@sbc.edu 434-381-6305
+• Kaitlyn Barbour Head Soccer Coach kbarbour@sbc.edu 434-381-6462
+• Caroline Lewis M'23 Assistant Soccer Coach cmlewis3983@sbc.edu
+• Dre Wilkerson Assistant Soccer Coach dwilkerson@sbc.edu
+• Brian Hensley Associate Director of Athletics for Facilities and Operations/Head Softball Coach bhensley@sbc.edu 434-381-6441
+• Aaron Cofer Assistant Softball Coach acofer@sbc.edu
+• Bill Nicholson Head Swim Coach/Director of Aquatics bnicholson@sbc.edu 434-381-6549
+• Greg Harkins Head Tennis Coach gharkins@sbc.edu 434-381-6149
+• Joanna Friesen Head Cross Country, Track & Field Coach/SWA jfriesen@sbc.edu 434-381-6291
+• Robert Sullivan Jr. Assistant Cross Country/Track & Field Coach rsullivan@sbc.edu
+• AJ Escobar Head Volleyball Coach ajescobar@sbc.edu

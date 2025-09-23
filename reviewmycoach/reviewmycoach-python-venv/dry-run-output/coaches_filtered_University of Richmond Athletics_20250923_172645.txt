@@ -1,0 +1,338 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:45
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Richmond
+Organization: University of Richmond Athletics
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Cynthia McMillan
+   Email: 
+   Username: cynthia.mcmillan
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Cynthia McMillan Head Coach, Cheerleading 289-8486
+
+2. Jay DeMayo
+   Email: 
+   Username: jay.demayo
+   Sports: Strength & Conditioning
+   Title: Jay DeMayo Head Strength & Conditioning Coach
+   Original line: Jay DeMayo Head Strength & Conditioning Coach (MBB, MTEN) 289-8213
+
+3. Beacher Porter
+   Email: 
+   Username: beacher.porter
+   Sports: Golf, Strength & Conditioning
+   Title: Beacher Porter Head Strength and Conditioning Coach
+   Original line: Beacher Porter Head Strength and Conditioning Coach for Olympic Sports (GOLF, WLAX, 289-8213
+
+4. Brandon Heeter
+   Email: 
+   Username: brandon.heeter
+   Sports: Strength & Conditioning
+   Title: Brandon Heeter Head Strength & Conditioning Coach
+   Original line: Brandon Heeter Head Strength & Conditioning Coach (WBB, WTEN)
+
+5. Kieran Thayer
+   Email: 
+   Username: kieran.thayer
+   Sports: Strength & Conditioning
+   Title: Kieran Thayer Strength Coach
+   Original line: Kieran Thayer Strength Coach (BASE, FH, XC/TF) 289-8213
+
+6. Mik Aoki
+   Email: 
+   Username: mik.aoki
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mik Aoki Head Coach
+
+7. Josh Epstein
+   Email: 
+   Username: josh.epstein
+   Sports: Soccer
+   Title: Assistant Coach/Pitching Coach
+   Original line: Josh Epstein Assistant Coach/Pitching Coach 289-8391
+
+8. Collin Radack
+   Email: 
+   Username: collin.radack
+   Sports: Soccer
+   Title: Assistant Coach / Hitting Coach
+   Original line: Collin Radack Assistant Coach / Hitting Coach 289-8391
+
+9. Kyle Norman
+   Email: 
+   Username: kyle.norman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Norman Assistant Coach 289-8391
+
+10. Chris Mooney
+   Email: 
+   Username: chris.mooney
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chris Mooney Head Coach 289-8384
+
+11. Peter Thomas
+   Email: 
+   Username: peter.thomas
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Peter Thomas Associate Head Coach
+
+12. David Boyden
+   Email: 
+   Username: david.boyden
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: David Boyden Assistant Coach
+
+13. Will Gipe
+   Email: 
+   Username: will.gipe
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Will Gipe Assistant Coach 287-6303
+
+14. Jack Fahed
+   Email: 
+   Username: jack.fahed
+   Sports: Soccer
+   Title: Assistant Coach/Director of Program Development
+   Original line: Jack Fahed Assistant Coach/Director of Program Development
+
+15. Aaron Roussell
+   Email: 
+   Username: aaron.roussell
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Aaron Roussell Head Coach 289-8366
+
+16. Jeanine Radice
+   Email: 
+   Username: jeanine.radice
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jeanine Radice Associate Head Coach 287-6560
+
+17. Brittany Pinkney
+   Email: 
+   Username: brittany.pinkney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brittany Pinkney Assistant Coach 289-8764
+
+18. Ariel Stephenson
+   Email: 
+   Username: ariel.stephenson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ariel Stephenson Assistant Coach
+
+19. Alex Louin
+   Email: 
+   Username: alex.louin
+   Sports: Soccer
+   Title: Assistant Coach/Operations
+   Original line: Alex Louin Assistant Coach/Operations
+
+20. Lori Taylor
+   Email: 
+   Username: lori.taylor
+   Sports: Track & Field
+   Title: s XC and T&F Coach
+   Original line: Lori Taylor Director of Track/Head Women's XC and T&F Coach
+
+21. Steve Taylor
+   Email: 
+   Username: steve.taylor
+   Sports: Soccer
+   Title: s XC Coach and Assistant T&F Coach
+   Original line: Steve Taylor Head Men's XC Coach and Assistant T&F Coach
+
+22. Billy Caldwell
+   Email: 
+   Username: billy.caldwell
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Billy Caldwell Associate Head Coach
+
+23. Martu Loncarica
+   Email: 
+   Username: martu.loncarica
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Martu Loncarica Head Coach
+
+24. Erin Menges
+   Email: 
+   Username: erin.menges
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erin Menges Assistant Coach
+
+25. Sierra Goalkeeper
+   Email: 
+   Username: sierra.goalkeeper
+   Sports: Soccer
+   Title: Sierra Espeland Volunteer Goalkeeper Coach
+   Original line: Sierra Espeland Volunteer Goalkeeper Coach
+
+26. Joe Chomet
+   Email: 
+   Username: joe.chomet
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Chomet Assistant Coach
+
+27. Russ Huesman
+   Email: 
+   Username: russ.huesman
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Russ Huesman Head Coach
+
+28. Justin Wood
+   Email: 
+   Username: justin.wood
+   Sports: Soccer
+   Title: Head Coach/Defensive Coordinator/Linebackers
+   Original line: Justin Wood Assistant Head Coach/Defensive Coordinator/Linebackers 287-1909
+
+29. Adam Decker
+   Email: 
+   Username: adam.decker
+   Sports: Golf
+   Title: Head Coach
+   Original line: Adam Decker Head Coach, Men's Golf
+
+30. Calle Barlow
+   Email: 
+   Username: calle.barlow
+   Sports: Golf
+   Title: Head Coach
+   Original line: Calle Barlow Head Coach, Women's Golf
+
+31. Dan Chemotti
+   Email: 
+   Username: dan.chemotti
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dan Chemotti Head Coach 662-3116
+
+32. Paul Richards
+   Email: 
+   Username: paul.richards
+   Sports: Soccer
+   Title: Head Coach/Defensive Coordinator
+   Original line: Paul Richards Associate Head Coach/Defensive Coordinator 662-3149
+
+33. Jack Kearney
+   Email: 
+   Username: jack.kearney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jack Kearney Assistant Coach
+
+34. Conor Whipple
+   Email: 
+   Username: conor.whipple
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Conor Whipple Assistant Coach
+
+35. Anne Harrington
+   Email: 
+   Username: anne.harrington
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Anne Harrington Head Coach 287-6680
+
+36. Danielle Etrasco
+   Email: 
+   Username: danielle.etrasco
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Danielle Etrasco Assistant Coach 289-8579
+
+37. Taylor Paige
+   Email: 
+   Username: taylor.paige
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taylor Paige Assistant Coach
+
+38. Adam Denton
+   Email: 
+   Username: adam.denton
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Adam Denton Head Coach 804-287-
+
+39. Meghan Gill
+   Email: 
+   Username: meghan.gill
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Meghan Gill Associate Head Coach 804-287-
+
+40. Errin Stanton
+   Email: 
+   Username: errin.stanton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Errin Stanton Assistant Coach 804-287-
+
+41. Matt Barany
+   Email: 
+   Username: matt.barany
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Matt Barany Head Coach 289-8750
+
+42. Andrew Goe
+   Email: 
+   Username: andrew.goe
+   Sports: Soccer
+   Title: Andrew Goe Head Diving Coach
+   Original line: Andrew Goe Head Diving Coach
+
+43. Freya Rayner
+   Email: 
+   Username: freya.rayner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Freya Rayner Assistant Coach
+
+44. Jacob Dunbar
+   Email: 
+   Username: jacob.dunbar
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jacob Dunbar Associate Head Coach
+
+45. Emily Dunbar
+   Email: 
+   Username: emily.dunbar
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Emily Dunbar Associate Head Coach
+
+46. Jacob Dunbar
+   Email: 
+   Username: jacob.dunbar
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jacob Dunbar Associate Head Coach 216-470-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

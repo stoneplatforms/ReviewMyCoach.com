@@ -1,0 +1,394 @@
+COACH ENTRIES FOUND - 2025-09-23 17:23:47
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Marshall University
+Organization: Marshall University Athletics
+
+Total coaches found: 54
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dwight Galt
+   Email: 
+   Username: dwight.galt
+   Sports: Strength & Conditioning
+   Title: Dwight Galt Head Strength & Conditioning Coach
+   Original line: Dwight Galt Head Strength & Conditioning Coach (FB) ----
+
+2. Greg Allen
+   Email: 
+   Username: greg.allen
+   Sports: Strength & Conditioning
+   Title: Greg Allen Assistant Strength and Conditioning Coach
+   Original line: Greg Allen Assistant Strength and Conditioning Coach (FB) ----
+
+3. Nathaniel 
+   Email: 
+   Username: nathaniel
+   Sports: Strength & Conditioning
+   Title: Nathaniel Assistant Strength and Conditioning Coach
+   Original line: Nathaniel Assistant Strength and Conditioning Coach (BASE, SB) ----
+
+4. Blaike Smith
+   Email: 
+   Username: blaike.smith
+   Sports: Strength & Conditioning
+   Title: Blaike Smith Assistant Strength and Conditioning Coach
+   Original line: Blaike Smith Assistant Strength and Conditioning Coach (WBB, TEN) -----
+
+5. Anthony 
+   Email: 
+   Username: anthony
+   Sports: Strength & Conditioning
+   Title: Anthony Assistant Strength and Conditioning Coach
+   Original line: Anthony Assistant Strength and Conditioning Coach (MGLF, WGLF, SWIM,
+
+6. Miles Edmond
+   Email: 
+   Username: miles.edmond
+   Sports: Strength & Conditioning
+   Title: Miles Edmond Assistant Strength and Conditioning Coach
+   Original line: Miles Edmond Assistant Strength and Conditioning Coach (TFXC, FB) ----
+
+7. Davi Edwards
+   Email: 
+   Username: davi.edwards
+   Sports: Strength & Conditioning
+   Title: Davi Edwards Assistant Strength & Conditioning Coach
+   Original line: Davi Edwards Assistant Strength & Conditioning Coach (MSOC, WSOC)
+
+8. Greg Beals
+   Email: 
+   Username: greg.beals
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Greg Beals Baseball Head Coach
+
+9. Tim Donnelly
+   Email: 
+   Username: tim.donnelly
+   Sports: Soccer
+   Title: Head Coach/Recruiting Coordinator
+   Original line: Tim Donnelly Associate Head Coach/Recruiting Coordinator
+
+10. Aaron Pitching
+   Email: 
+   Username: aaron.pitching
+   Sports: Soccer
+   Title: Aaron Blair Pitching Coach
+   Original line: Aaron Blair Pitching Coach
+
+11. Blair Everhart
+   Email: 
+   Username: blair.everhart
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Blair Everhart Assistant Coach
+
+12. Cornelius 
+   Email: 
+   Username: cornelius
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Cornelius Head Coach 6460
+
+13. Rob Fulford
+   Email: 
+   Username: rob.fulford
+   Sports: Soccer
+   Title: Head Coach ----
+   Original line: Rob Fulford Associate Head Coach ----
+
+14. Adam Williams
+   Email: 
+   Username: adam.williams
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Adam Williams Assistant Coach
+
+15. Steve Snell
+   Email: 
+   Username: steve.snell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Steve Snell Assistant Coach
+
+16. Isaiah Carson
+   Email: 
+   Username: isaiah.carson
+   Sports: Soccer
+   Title: Assistant Coach/Dir
+   Original line: Isaiah Carson Assistant Coach/Dir. of Operations ----
+
+17. Juli Fulks
+   Email: 
+   Username: juli.fulks
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Juli Fulks Head Coach
+
+18. Mykasa Lucas
+   Email: 
+   Username: mykasa.lucas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mykasa Lucas Assistant Coach
+
+19. Patrick Herlihy
+   Email: 
+   Username: patrick.herlihy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Patrick Herlihy Assistant Coach
+
+20. Cassie Lastivka
+   Email: 
+   Username: cassie.lastivka
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cassie Lastivka Assistant Coach
+
+21. Tony Gibson
+   Email: 
+   Username: tony.gibson
+   Sports: Soccer
+   Title: Head Coach ----
+   Original line: Tony Gibson Head Coach ----
+
+22. Gunter Brewer
+   Email: 
+   Username: gunter.brewer
+   Sports: Soccer
+   Title: Head Coach/Inside Wide Receivers/Tight Ends ----
+   Original line: Gunter Brewer Assistant Head Coach/Inside Wide Receivers/Tight Ends ----
+
+23. Chansi Receivers
+   Email: 
+   Username: chansi.receivers
+   Sports: Soccer
+   Title: Chansi Stuckey Wide Receivers Coach ----
+   Original line: Chansi Stuckey Wide Receivers Coach ----
+
+24. Nicole Executive
+   Email: 
+   Username: nicole.executive
+   Sports: Soccer
+   Title: Head Coach ----
+   Original line: Nicole Walton Executive Assistant to the Head Coach ----
+
+25. Matt Grobe
+   Email: 
+   Username: matt.grobe
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Matt Grobe Head Coach 5401
+
+26. Brooke 
+   Email: 
+   Username: brooke
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Brooke Head Coach 3330
+
+27. Chris Grassie
+   Email: 
+   Username: chris.grassie
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chris Grassie Head Coach 4659
+
+28. Josh Faga
+   Email: 
+   Username: josh.faga
+   Sports: Soccer
+   Title: Head Coach -----
+   Original line: Josh Faga Associate Head Coach -----
+
+29. Gabriel Perrotta
+   Email: 
+   Username: gabriel.perrotta
+   Sports: Soccer
+   Title: Assistant Coach ----
+   Original line: Gabriel Perrotta Assistant Coach ----
+
+30. Jake Young
+   Email: 
+   Username: jake.young
+   Sports: Soccer
+   Title: Assistant Coach ----
+   Original line: Jake Young Assistant Coach ----
+
+31. Rafa Simoes
+   Email: 
+   Username: rafa.simoes
+   Sports: Soccer
+   Title: Head Coach -----
+   Original line: Rafa Simoes Head Coach -----
+
+32. Ross Holland
+   Email: 
+   Username: ross.holland
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ross Holland Associate Head Coach
+
+33. Dan O'Connor
+   Email: 
+   Username: dan.o.connor
+   Sports: Soccer
+   Title: Assistant Coach / Director of Operations
+   Original line: Dan O'Connor Assistant Coach / Director of Operations
+
+34. Augusto Volunteer
+   Email: 
+   Username: augusto.volunteer
+   Sports: Soccer
+   Title: Augusto Maciel Volunteer Coach
+   Original line: Augusto Maciel Volunteer Coach
+
+35. Morgan Zerkle
+   Email: 
+   Username: morgan.zerkle
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Morgan Zerkle Head Coach
+
+36. Aly Harrell
+   Email: 
+   Username: aly.harrell
+   Sports: Soccer
+   Title: Assistant Coach/Director of Operations
+   Original line: Aly Harrell Assistant Coach/Director of Operations
+
+37. Riley Blampied
+   Email: 
+   Username: riley.blampied
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Riley Blampied Assistant Coach
+
+38. Drew Pitching
+   Email: 
+   Username: drew.pitching
+   Sports: Soccer
+   Title: Drew Calloway Pitching Coach
+   Original line: Drew Calloway Pitching Coach
+
+39. Kenyatta Grant
+   Email: 
+   Username: kenyatta.grant
+   Sports: Soccer
+   Title: Kenyatta Grant Head Cheer Coach
+   Original line: Kenyatta Grant Head Cheer Coach
+
+40. Brayden Bailey
+   Email: 
+   Username: brayden.bailey
+   Sports: Soccer
+   Title: Brayden Bailey Head Dance Coach
+   Original line: Brayden Bailey Head Dance Coach
+
+41. Samantha 
+   Email: 
+   Username: samantha
+   Sports: Soccer
+   Title: Samantha Assistant Cheer Coach
+   Original line: Samantha Assistant Cheer Coach
+
+42. Lori Davis
+   Email: 
+   Username: lori.davis
+   Sports: Soccer
+   Title: Lori Davis Assistant Cheer Coach ----
+   Original line: Lori Davis Assistant Cheer Coach ----
+
+43. Ian Walsh
+   Email: 
+   Username: ian.walsh
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ian Walsh Head Coach 2573
+
+44. Megan 
+   Email: 
+   Username: megan
+   Sports: Soccer
+   Title: Megan Diving Coach -----
+   Original line: Megan Diving Coach -----
+
+45. Kat Mueller
+   Email: 
+   Username: kat.mueller
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kat Mueller Assistant Coach
+
+46. John Mercer
+   Email: 
+   Username: john.mercer
+   Sports: Soccer
+   Title: Head Coach
+   Original line: John Mercer Head Coach 2431
+
+47. JJ Mercer
+   Email: 
+   Username: jj.mercer
+   Sports: Soccer
+   Title: Assistant Coach ----
+   Original line: JJ Mercer Assistant Coach ----
+
+48. Caleb Bowen
+   Email: 
+   Username: caleb.bowen
+   Sports: Track & Field, Cross Country
+   Title: Head Coach - Cross Country/Assistant Coach Track & Field
+   Original line: Caleb Bowen Head Coach - Cross Country/Assistant Coach Track & Field 5659
+
+49. Tessa Roberts
+   Email: 
+   Username: tessa.roberts
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Tessa Roberts Associate Head Coach
+
+50. Andrea Deem
+   Email: 
+   Username: andrea.deem
+   Sports: Soccer
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Andrea Deem Assistant Coach/Recruiting Coordinator
+
+51. Devonte Nesby
+   Email: 
+   Username: devonte.nesby
+   Sports: Track & Field
+   Title: Devonte Nesby Assistant Track & Field Coach ----
+   Original line: Devonte Nesby Assistant Track & Field Coach ----
+
+52. Heather Stout
+   Email: 
+   Username: heather.stout
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Heather Stout Head Coach
+
+53. Tim Ebbecke
+   Email: 
+   Username: tim.ebbecke
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting Coordinator
+   Original line: Tim Ebbecke Assistant Coach / Recruiting Coordinator
+
+54. Maci Watrous
+   Email: 
+   Username: maci.watrous
+   Sports: Soccer
+   Title: Assistant Coach ----
+   Original line: Maci Watrous Assistant Coach ----
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

@@ -1,0 +1,388 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:01
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Cedarville University Athletic Department
+Organization: Cedarville University Athletics
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Sarah Payne
+   Email: sarahleahy@cedarville.edu
+   Username: sarahleahy
+   Sports: Strength & Conditioning
+   Title: Strength and Conditioning Coach
+   Phone: (937) 766-7946
+   Original line: Sarah Payne Strength and Conditioning Coach sarahleahy@cedarville.edu 937-766-7946
+
+2. Ryan Rager
+   Email: ryanlrager@cedarville.edu
+   Username: ryanlrager
+   Sports: Strength & Conditioning
+   Title: Assistant Athletic Trainer / Strength and Conditioning Coach
+   Phone: (937) 766-7946
+   Original line: Ryan Rager Assistant Athletic Trainer / Strength and Conditioning Coach ryanlrager@cedarville.edu 937-766-7946
+
+3. Matt Richter
+   Email: mrichter@cedarville.edu
+   Username: mrichter
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-3246
+   Original line: Matt Richter Head Coach mrichter@cedarville.edu 937-766-3246
+
+4. David Steele
+   Email: dsteele@cedarville.edu
+   Username: dsteele
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-3780
+   Original line: David Steele Assistant Coach dsteele@cedarville.edu 937-766-3780
+
+5. Zac Filos
+   Email: zfilos@cedarville.edu
+   Username: zfilos
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-3780
+   Original line: Zac Filos Assistant Coach zfilos@cedarville.edu 937-766-3780
+
+6. John Chavies
+   Email: johnchavies@cedarville.edu
+   Username: johnchavies
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-3780
+   Original line: John Chavies Assistant Coach johnchavies@cedarville.edu 937-766-3780
+
+7. Rob Jones
+   Email: rrjones@cedarville.edu
+   Username: rrjones
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-4974
+   Original line: Rob Jones Head Coach rrjones@cedarville.edu 937-766-4974
+
+8. Dan McNeely
+   Email: dmcneely@cedarville.edu
+   Username: dmcneely
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-7644
+   Original line: Dan McNeely Assistant Coach dmcneely@cedarville.edu 937-766-7644
+
+9. TJ Nagy
+   Email: anthonyjnagy@cedarville.edu
+   Username: anthonyjnagy
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-8835
+   Original line: TJ Nagy Assistant Coach anthonyjnagy@cedarville.edu 937-766-8835
+
+10. Eric Chisholm
+   Email: ejchisholm@cedarville.edu
+   Username: ejchisholm
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-7644
+   Original line: Eric Chisholm Assistant Coach ejchisholm@cedarville.edu 937-766-7644
+
+11. Addy Miller
+   Email: addymiller@cedarville.edu
+   Username: addymiller
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-6111
+   Original line: Addy Miller Head Coach addymiller@cedarville.edu 937-766-6111
+
+12. Kevin Obungu
+   Email: kobungu@cedarville.edu
+   Username: kobungu
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-7984
+   Original line: Kevin Obungu Assistant Coach kobungu@cedarville.edu 937-766-7984
+
+13. Janae Saunders
+   Email: janaesaunders@cedarville.edu
+   Username: janaesaunders
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-6112
+   Original line: Janae Saunders Assistant Coach janaesaunders@cedarville.edu 937-766-6112
+
+14. Stephen Buettell
+   Email: stephenbuettell@cedarville.edu
+   Username: stephenbuettell
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-6112
+   Original line: Stephen Buettell Assistant Coach stephenbuettell@cedarville.edu 937-766-6112
+
+15. Colton Lino
+   Email: coltonlino@cedarville.edu
+   Username: coltonlino
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-6112
+   Original line: Colton Lino Assistant Coach coltonlino@cedarville.edu 937-766-6112
+
+16. Hayley Holmes
+   Email: hstudebaker@cedarville.edu
+   Username: hstudebaker
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-7768
+   Original line: Hayley Holmes Head Coach hstudebaker@cedarville.edu 937-766-7768
+
+17. Paul Orchard
+   Email: orchardp@cedarville.edu
+   Username: orchardp
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-7762
+   Original line: Paul Orchard Head Coach orchardp@cedarville.edu 937-766-7762
+
+18. Jeff Bolender
+   Email: bolender@cedarville.edu
+   Username: bolender
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-7636
+   Original line: Jeff Bolender Head Coach bolender@cedarville.edu 937-766-7636
+
+19. Katie Ruhlman
+   Email: kjruhlman@cedarville.edu
+   Username: kjruhlman
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-7636
+   Original line: Katie Ruhlman Assistant Coach kjruhlman@cedarville.edu 937-766-7636
+
+20. Andrew Heath
+   Email: andrewcheath@cedarville.edu
+   Username: andrewcheath
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-7790
+   Original line: Andrew Heath Head Coach andrewcheath@cedarville.edu 937-766-7790
+
+21. Rich Ritter
+   Email: rritter@cedarville.edu
+   Username: rritter
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-3478
+   Original line: Rich Ritter Head Coach rritter@cedarville.edu 937-766-3478
+
+22. Rich Ritter
+   Email: rritter@cedarville.edu
+   Username: rritter
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-3478
+   Original line: Rich Ritter Head Coach rritter@cedarville.edu 937-766-3478
+
+23. Brett Faro
+   Email: bfaro@cedarville.edu
+   Username: bfaro
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-3663
+   Original line: Brett Faro Head Coach bfaro@cedarville.edu 937-766-3663
+
+24. Jon-Eric Stiles
+   Email: jstiles@cedarville.edu
+   Username: jstiles
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-3664
+   Original line: Jon-Eric Stiles Assistant Coach jstiles@cedarville.edu 937-766-3664
+
+25. Jonathan Meade
+   Email: jonathanmeade@cedarville.edu
+   Username: jonathanmeade
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (937) 766-7867
+   Original line: Jonathan Meade Head Coach jonathanmeade@cedarville.edu 937-766-7867
+
+26. Bethany Murphy
+   Email: bethanymurphy@cedarville.edu
+   Username: bethanymurphy
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (937) 766-6531
+   Original line: Bethany Murphy Assistant Coach bethanymurphy@cedarville.edu 937-766-6531
+
+27. Dr 
+   Email: roperk@cedarville.edu
+   Username: roperk
+   Sports: Baseball
+   Title: Kevin Roper Assistant Coach - Goalkeepers
+   Phone: (937) 766-4115
+   Original line: Dr. Kevin Roper Assistant Coach - Goalkeepers roperk@cedarville.edu 937-766-4115
+
+28. Kelsey Chapman
+   Email: klchapman@cedarville.edu
+   Username: klchapman
+   Sports: Softball
+   Title: Head Coach
+   Phone: (937) 766-4973
+   Original line: Kelsey Chapman Head Coach klchapman@cedarville.edu 937-766-4973
+
+29. Morgan Zaborowski
+   Email: mzaborowski@cedarville.edu
+   Username: mzaborowski
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (937) 766-4445
+   Original line: Morgan Zaborowski Assistant Coach mzaborowski@cedarville.edu 937-766-4445
+
+30. Karl Monson
+   Email: karlmonson@cedarville.edu
+   Username: karlmonson
+   Sports: Softball
+   Title: Head Coach
+   Phone: (937) 766-3477
+   Original line: Karl Monson Head Coach karlmonson@cedarville.edu 937-766-3477
+
+31. Kady Monson
+   Email: kadymonson@cedarville.edu
+   Username: kadymonson
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (937) 766-3077
+   Original line: Kady Monson Assistant Coach kadymonson@cedarville.edu 937-766-3077
+
+32. Karl Monson
+   Email: karlmonson@cedarville.edu
+   Username: karlmonson
+   Sports: Softball
+   Title: Head Coach
+   Phone: (937) 766-3477
+   Original line: Karl Monson Head Coach karlmonson@cedarville.edu 937-766-3477
+
+33. Kady Monson
+   Email: kadymonson@cedarville.edu
+   Username: kadymonson
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (937) 766-3077
+   Original line: Kady Monson Assistant Coach kadymonson@cedarville.edu 937-766-3077
+
+34. Jeff Bolender
+   Email: bolender@cedarville.edu
+   Username: bolender
+   Sports: Softball
+   Title: Head Coach
+   Phone: (937) 766-7636
+   Original line: Jeff Bolender Head Coach (Jumps) bolender@cedarville.edu 937-766-7636
+
+35. Max Kittle
+   Email: maxkittle@cedarville.edu
+   Username: maxkittle
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (937) 766-3476
+   Original line: Max Kittle Assistant Coach (Hurdles, Sprints) maxkittle@cedarville.edu 937-766-3476
+
+36. Paul Orchard
+   Email: orchardp@cedarville.edu
+   Username: orchardp
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (937) 766-7762
+   Original line: Paul Orchard Assistant Coach (Men's Distance) orchardp@cedarville.edu 937-766-7762
+
+37. Katie Ruhlman
+   Email: kruhlman@cedarville.edu
+   Username: kruhlman
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (937) 766-7636
+   Original line: Katie Ruhlman Assistant Coach (Women's Distance) kruhlman@cedarville.edu 937-766-7636
+
+38. Greg Smith
+   Email: gregsmith@cedarville.edu
+   Username: gregsmith
+   Sports: Softball
+   Title: Head Coach
+   Phone: (937) 766-3849
+   Original line: Greg Smith Head Coach gregsmith@cedarville.edu 937-766-3849
+
+39. Cassadi Colbert
+   Email: ccolbert@cedarville.edu
+   Username: ccolbert
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: (937) 766-3042
+   Original line: Cassadi Colbert Assistant Coach ccolbert@cedarville.edu 937-766-3042
+
+40. Matt Harner
+   Email: 
+   Username: matt.harner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Harner Assistant Coach 937-766-7644
+
+41. Brittany Johnson
+   Email: 
+   Username: brittany.johnson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brittany Johnson Assistant Coach (Pole Vault)
+
+42. Bethany Sholl
+   Email: 
+   Username: bethany.sholl
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bethany Sholl Assistant Coach (Women's Distance)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Sarah Payne Strength and Conditioning Coach sarahleahy@cedarville.edu 937-766-7946
+• Ryan Rager Assistant Athletic Trainer / Strength and Conditioning Coach ryanlrager@cedarville.edu 937-766-7946
+• Matt Richter Head Coach mrichter@cedarville.edu 937-766-3246
+• David Steele Assistant Coach dsteele@cedarville.edu 937-766-3780
+• Zac Filos Assistant Coach zfilos@cedarville.edu 937-766-3780
+• John Chavies Assistant Coach johnchavies@cedarville.edu 937-766-3780
+• Rob Jones Head Coach rrjones@cedarville.edu 937-766-4974
+• Dan McNeely Assistant Coach dmcneely@cedarville.edu 937-766-7644
+• TJ Nagy Assistant Coach anthonyjnagy@cedarville.edu 937-766-8835
+• Eric Chisholm Assistant Coach ejchisholm@cedarville.edu 937-766-7644
+• Addy Miller Head Coach addymiller@cedarville.edu 937-766-6111
+• Kevin Obungu Assistant Coach kobungu@cedarville.edu 937-766-7984
+• Janae Saunders Assistant Coach janaesaunders@cedarville.edu 937-766-6112
+• Stephen Buettell Assistant Coach stephenbuettell@cedarville.edu 937-766-6112
+• Colton Lino Assistant Coach coltonlino@cedarville.edu 937-766-6112
+• Hayley Holmes Head Coach hstudebaker@cedarville.edu 937-766-7768
+• Paul Orchard Head Coach orchardp@cedarville.edu 937-766-7762
+• Jeff Bolender Head Coach bolender@cedarville.edu 937-766-7636
+• Katie Ruhlman Assistant Coach kjruhlman@cedarville.edu 937-766-7636
+• Andrew Heath Head Coach andrewcheath@cedarville.edu 937-766-7790
+• Rich Ritter Head Coach rritter@cedarville.edu 937-766-3478
+• Rich Ritter Head Coach rritter@cedarville.edu 937-766-3478
+• Brett Faro Head Coach bfaro@cedarville.edu 937-766-3663
+• Jon-Eric Stiles Assistant Coach jstiles@cedarville.edu 937-766-3664
+• Jonathan Meade Head Coach jonathanmeade@cedarville.edu 937-766-7867
+• Bethany Murphy Assistant Coach bethanymurphy@cedarville.edu 937-766-6531
+• Dr. Kevin Roper Assistant Coach - Goalkeepers roperk@cedarville.edu 937-766-4115
+• Kelsey Chapman Head Coach klchapman@cedarville.edu 937-766-4973
+• Morgan Zaborowski Assistant Coach mzaborowski@cedarville.edu 937-766-4445
+• Karl Monson Head Coach karlmonson@cedarville.edu 937-766-3477
+• Kady Monson Assistant Coach kadymonson@cedarville.edu 937-766-3077
+• Karl Monson Head Coach karlmonson@cedarville.edu 937-766-3477
+• Kady Monson Assistant Coach kadymonson@cedarville.edu 937-766-3077
+• Jeff Bolender Head Coach (Jumps) bolender@cedarville.edu 937-766-7636
+• Max Kittle Assistant Coach (Hurdles, Sprints) maxkittle@cedarville.edu 937-766-3476
+• Paul Orchard Assistant Coach (Men's Distance) orchardp@cedarville.edu 937-766-7762
+• Katie Ruhlman Assistant Coach (Women's Distance) kruhlman@cedarville.edu 937-766-7636
+• Greg Smith Head Coach gregsmith@cedarville.edu 937-766-3849
+• Cassadi Colbert Assistant Coach ccolbert@cedarville.edu 937-766-3042

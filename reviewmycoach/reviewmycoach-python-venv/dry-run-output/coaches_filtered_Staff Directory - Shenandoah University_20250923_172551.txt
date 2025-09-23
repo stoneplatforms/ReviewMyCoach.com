@@ -1,0 +1,535 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:51
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Shenandoah University
+Organization: Shenandoah University Athletics
+
+Total coaches found: 65
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chris Jenkins
+   Email: cjenkins1@su.edu
+   Username: cjenkins1
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Chris Jenkins Assistant Coach cjenkins1@su.edu
+
+2. Nick Sborz
+   Email: nsborz@su.edu
+   Username: nsborz
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Nick Sborz '06 Assistant Coach nsborz@su.edu
+
+3. Drew Crawford
+   Email: acrawfo2@su.edu
+   Username: acrawfo2
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Drew Crawford '08 Assistant Coach acrawfo2@su.edu
+
+4. Nick Doyle
+   Email: nicholas.doyle@su.edu
+   Username: nicholas.doyle
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 540.665.4567
+   Original line: Nick Doyle Head Coach nicholas.doyle@su.edu 540.665.4567
+
+5. Isaac Blue
+   Email: isaac.blue@su.edu
+   Username: isaac.blue
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: 540.665.4913
+   Original line: Isaac Blue Assistant Coach isaac.blue@su.edu 540.665.4913
+
+6. Avery White
+   Email: awhite17@su.edu
+   Username: awhite17
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: 540.665.4913
+   Original line: Avery White '21 Assistant Coach awhite17@su.edu 540.665.4913
+
+7. Melissa Smeltzer-Kraft
+   Email: mkraft@su.edu
+   Username: mkraft
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 540.665.5400
+   Original line: Melissa Smeltzer-Kraft Head Coach mkraft@su.edu 540.665.5400
+
+8. Tessa Hampton
+   Email: tessa.johnston@su.edu
+   Username: tessa.johnston
+   Sports: Baseball
+   Title: Associate Head Coach
+   Phone: 540.665.5539
+   Original line: Tessa Hampton Associate Head Coach tessa.johnston@su.edu 540.665.5539
+
+9. Elsebeth Birman
+   Email: ebirman@su.edu
+   Username: ebirman
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: 540.665.5539
+   Original line: Elsebeth Birman Assistant Coach ebirman@su.edu 540.665.5539
+
+10. Meredith Bloomfield
+   Email: mbloomfi@su.edu
+   Username: mbloomfi
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Meredith Bloomfield Assistant Coach mbloomfi@su.edu
+
+11. Wendy Ware
+   Email: wtaylor@alumni.su.edu
+   Username: wtaylor
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Wendy Ware '08 Assistant Coach wtaylor@alumni.su.edu
+
+12. Scott Yoder
+   Email: syoder@su.edu
+   Username: syoder
+   Sports: Football
+   Title: Head Coach
+   Phone: 540.678.4306
+   Original line: Scott Yoder Head Coach syoder@su.edu 540.678.4306
+
+13. Hayden Bauserman
+   Email: hbauserm14@su.edu
+   Username: hbauserm14
+   Sports: Football
+   Title: Assistant Coach
+   Phone: 540.678.4306
+   Original line: Hayden Bauserman '18 Assistant Coach hbauserm14@su.edu 540.678.4306
+
+14. Jake Shaffer
+   Email: jshaffer13@su.edu
+   Username: jshaffer13
+   Sports: Football
+   Title: Assistant Coach
+   Phone: 540.678.4306
+   Original line: Jake Shaffer '17, '18 Assistant Coach jshaffer13@su.edu 540.678.4306
+
+15. David Munoz
+   Email: dmunoz19@su.edu
+   Username: dmunoz19
+   Sports: Football
+   Title: Assistant Coach
+   Original line: David Munoz '24, '25 Assistant Coach dmunoz19@su.edu
+
+16. Justin Harris-Ayala
+   Email: jharrisa21@su.edu
+   Username: jharrisa21
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Justin Harris-Ayala '25 Assistant Coach jharrisa21@su.edu
+
+17. Scott Singhass
+   Email: ssinghas@su.edu
+   Username: ssinghas
+   Sports: Football
+   Title: Head Coach/PGA Professional
+   Phone: 540.535.3560
+   Original line: Scott Singhass Head Coach/PGA Professional ssinghas@su.edu 540.535.3560
+
+18. Scott Romine
+   Email: sromine10@yahoo.com
+   Username: sromine10
+   Sports: Football
+   Title: Assistant Coach
+   Phone: 540.535.3560
+   Original line: Scott Romine Assistant Coach sromine10@yahoo.com 540.535.3560
+
+19. Scott Singhass
+   Email: ssinghas@su.edu
+   Username: ssinghas
+   Sports: Football
+   Title: Head Coach/PGA Professional
+   Phone: 540.535.3560
+   Original line: Scott Singhass Head Coach/PGA Professional ssinghas@su.edu 540.535.3560
+
+20. Scott Romine
+   Email: sromine10@yahoo.com
+   Username: sromine10
+   Sports: Football
+   Title: Assistant Coach
+   Phone: 540.535.3560
+   Original line: Scott Romine Assistant Coach sromine10@yahoo.com 540.535.3560
+
+21. Tim Marshall
+   Email: tmarshal@su.edu
+   Username: tmarshal
+   Sports: Football
+   Title: Head Coach
+   Phone: 540.665.5415
+   Original line: Tim Marshall Head Coach tmarshal@su.edu 540.665.5415
+
+22. Brett Holmes
+   Email: bholmes09@su.edu
+   Username: bholmes09
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brett Holmes '14 Assistant Coach bholmes09@su.edu
+
+23. Brandon Kates
+   Email: bkates@su.edu
+   Username: bkates
+   Sports: Football
+   Title: Head Coach
+   Phone: 540.665.4519
+   Original line: Brandon Kates Head Coach bkates@su.edu 540.665.4519
+
+24. Joey Dell'Estate
+   Email: joseph.dellestate@su.edu
+   Username: joseph.dellestate
+   Sports: Football
+   Title: Assistant Soccer Coach
+   Original line: Joey Dell'Estate Assistant Soccer Coach joseph.dellestate@su.edu
+
+25. Bobby Davis
+   Email: robert.davis@su.edu
+   Username: robert.davis
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Bobby Davis Assistant Coach robert.davis@su.edu
+
+26. Elizabeth Pike
+   Email: epike@su.edu
+   Username: epike
+   Sports: Football
+   Title: Head Coach
+   Phone: 540.665.5538
+   Original line: Elizabeth Pike '11 Head Coach epike@su.edu 540.665.5538
+
+27. Courtney Stull
+   Email: cstull092@su.edu
+   Username: cstull092
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Courtney Stull '14 Assistant Coach cstull092@su.edu
+
+28. Olivia Scarbrough
+   Email: olivia.scarbrough@su.edu
+   Username: olivia.scarbrough
+   Sports: Softball
+   Title: Head Coach
+   Original line: Olivia Scarbrough Head Coach olivia.scarbrough@su.edu
+
+29. Tessa Gage
+   Email: tessa.gage@su.edu
+   Username: tessa.gage
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: 540.542.6289
+   Original line: Tessa Gage Assistant Coach tessa.gage@su.edu 540.542.6289
+
+30. Jason Cole
+   Email: jcole1@su.edu
+   Username: jcole1
+   Sports: Softball
+   Title: Head Coach
+   Phone: 540.545.7360
+   Original line: Jason Cole Head Coach jcole1@su.edu 540.545.7360
+
+31. Dustan DeMello
+   Email: ddemello09@su.edu
+   Username: ddemello09
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Dustan DeMello '14 Assistant Coach ddemello09@su.edu
+
+32. Andy Marrocco
+   Email: andrew.marrocco@su.edu
+   Username: andrew.marrocco
+   Sports: Softball
+   Title: Head Coach
+   Phone: 540.665.5579
+   Original line: Andy Marrocco Head Coach andrew.marrocco@su.edu 540.665.5579
+
+33. Sam Martin
+   Email: wyq18@su.edu
+   Username: wyq18
+   Sports: Softball
+   Title: Assistant Coach
+   Phone: 540.545.7397
+   Original line: Sam Martin Assistant Coach wyq18@su.edu 540.545.7397
+
+34. Travis Abele
+   Email: travis.abele@su.edu
+   Username: travis.abele
+   Sports: Softball
+   Title: Head Coach
+   Phone: 540.665.4797
+   Original line: Travis Abele Head Coach travis.abele@su.edu 540.665.4797
+
+35. Travis Abele
+   Email: travis.abele@su.edu
+   Username: travis.abele
+   Sports: Softball
+   Title: Head Coach
+   Phone: 540.665.4797
+   Original line: Travis Abele Head Coach travis.abele@su.edu 540.665.4797
+
+36. Olivia Thacker
+   Email: olivia.thacker@su.edu
+   Username: olivia.thacker
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Olivia Thacker '25 Assistant Coach olivia.thacker@su.edu
+
+37. Jerry Wampler
+   Email: jerry.wampler@su.edu
+   Username: jerry.wampler
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jerry Wampler Assistant Coach jerry.wampler@su.edu
+
+38. Alex Reeves
+   Email: alexander.reeves@su.edu
+   Username: alexander.reeves
+   Sports: Softball
+   Title: Head Coach
+   Original line: Alex Reeves Head Coach alexander.reeves@su.edu
+
+39. Brett Sabol
+   Email: gsabol@su.edu
+   Username: gsabol
+   Sports: Softball
+   Title: Head Coach
+   Phone: 540.678.4429
+   Original line: Brett Sabol Head Coach gsabol@su.edu 540.678.4429
+
+40. Dr Foxx
+   Email: dfoxx@su.edu
+   Username: dfoxx
+   Sports: Baseball
+   Title: Facilities/Head Baseball Coach
+   Original line: Facilities/Head Baseball Coach dfoxx@su.edu
+
+41.  
+   Email: 
+   Username: 
+   Sports: Hockey
+   Title: Hockey Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Hockey Coach
+
+42. Kara Phoubandith
+   Email: kphouban@su.edu
+   Username: kphouban
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Women's Lacrosse Coach kphouban@su.edu
+
+43. Richard Hayden
+   Email: 
+   Username: richard.hayden
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Richard Hayden Assistant Coach
+
+44. Mairead McKibbin
+   Email: 
+   Username: mairead.mckibbin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mairead McKibbin Assistant Coach
+
+45. Elise Velasquez
+   Email: 
+   Username: elise.velasquez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Elise Velasquez Assistant Coach
+
+46.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+47. Grant Derflinger
+   Email: 
+   Username: grant.derflinger
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Grant Derflinger Assistant Coach
+
+48. Kalvin Oliver
+   Email: koliver@su.edu
+   Username: koliver
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: David Agyei '22, '23 Assistant Coach koliver@su.edu
+
+49. Adam Shaker
+   Email: 
+   Username: adam.shaker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Adam Shaker Assistant Coach
+
+50. Beth Rogers
+   Email: brogers@su.edu
+   Username: brogers
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tony Crisp Assistant Coach brogers@su.edu
+
+51. Logan Clingerman
+   Email: 
+   Username: logan.clingerman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Logan Clingerman '22, '24 Assistant Coach
+
+52. Delaney Devers
+   Email: 
+   Username: delaney.devers
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Delaney Devers Assistant Coach
+
+53. Lindsey Administrator
+   Email: llutz@su.edu
+   Username: llutz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Madison Re Assistant Coach llutz@su.edu
+
+54. Larry Volunteer
+   Email: 
+   Username: larry.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Larry Kates Volunteer Assistant Coach
+
+55. Emily Volunteer
+   Email: 
+   Username: emily.volunteer
+   Sports: Soccer
+   Title: Assistant Coach/Alumni
+   Original line: Emily Yergin Volunteer Assistant Coach/Alumni
+
+56. Kendall Lincoln
+   Email: 
+   Username: kendall.lincoln
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kendall Lincoln Assistant Coach
+
+57. Joel Volunteer
+   Email: 
+   Username: joel.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joel Flower Volunteer Assistant Coach
+
+58. Janelle Anderson
+   Email: 
+   Username: janelle.anderson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Janelle Anderson Assistant Coach
+
+59. Mackenzie Plowman
+   Email: 
+   Username: mackenzie.plowman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mackenzie Plowman Assistant Coach
+
+60. Sarah Christy
+   Email: 
+   Username: sarah.christy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sarah Christy Assistant Coach
+
+61. Tucker Kindig
+   Email: 
+   Username: tucker.kindig
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tucker Kindig '23 Assistant Coach
+
+62. Carmen Wright
+   Email: 
+   Username: carmen.wright
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Carmen Wright Assistant Coach
+
+63. Tom Shea-Roop
+   Email: 
+   Username: tom.shea.roop
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Shea-Roop Assistant Coach
+
+64. Daniel Estricher
+   Email: 
+   Username: daniel.estricher
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Daniel Estricher Assistant Coach
+
+65. Jeff Rives
+   Email: 
+   Username: jeff.rives
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jeff Rives Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chris Jenkins Assistant Coach cjenkins1@su.edu
+• Nick Sborz '06 Assistant Coach nsborz@su.edu
+• Drew Crawford '08 Assistant Coach acrawfo2@su.edu
+• Nick Doyle Head Coach nicholas.doyle@su.edu 540.665.4567
+• Isaac Blue Assistant Coach isaac.blue@su.edu 540.665.4913
+• Avery White '21 Assistant Coach awhite17@su.edu 540.665.4913
+• Melissa Smeltzer-Kraft Head Coach mkraft@su.edu 540.665.5400
+• Tessa Hampton Associate Head Coach tessa.johnston@su.edu 540.665.5539
+• Elsebeth Birman Assistant Coach ebirman@su.edu 540.665.5539
+• Meredith Bloomfield Assistant Coach mbloomfi@su.edu
+• Wendy Ware '08 Assistant Coach wtaylor@alumni.su.edu
+• Scott Yoder Head Coach syoder@su.edu 540.678.4306
+• Hayden Bauserman '18 Assistant Coach hbauserm14@su.edu 540.678.4306
+• Jake Shaffer '17, '18 Assistant Coach jshaffer13@su.edu 540.678.4306
+• David Munoz '24, '25 Assistant Coach dmunoz19@su.edu
+• Justin Harris-Ayala '25 Assistant Coach jharrisa21@su.edu
+• Scott Singhass Head Coach/PGA Professional ssinghas@su.edu 540.535.3560
+• Scott Romine Assistant Coach sromine10@yahoo.com 540.535.3560
+• Scott Singhass Head Coach/PGA Professional ssinghas@su.edu 540.535.3560
+• Scott Romine Assistant Coach sromine10@yahoo.com 540.535.3560
+• Tim Marshall Head Coach tmarshal@su.edu 540.665.5415
+• Brett Holmes '14 Assistant Coach bholmes09@su.edu
+• Brandon Kates Head Coach bkates@su.edu 540.665.4519
+• Joey Dell'Estate Assistant Soccer Coach joseph.dellestate@su.edu
+• Bobby Davis Assistant Coach robert.davis@su.edu
+• Elizabeth Pike '11 Head Coach epike@su.edu 540.665.5538
+• Courtney Stull '14 Assistant Coach cstull092@su.edu
+• Olivia Scarbrough Head Coach olivia.scarbrough@su.edu
+• Tessa Gage Assistant Coach tessa.gage@su.edu 540.542.6289
+• Jason Cole Head Coach jcole1@su.edu 540.545.7360
+• Dustan DeMello '14 Assistant Coach ddemello09@su.edu
+• Andy Marrocco Head Coach andrew.marrocco@su.edu 540.665.5579
+• Sam Martin Assistant Coach wyq18@su.edu 540.545.7397
+• Travis Abele Head Coach travis.abele@su.edu 540.665.4797
+• Travis Abele Head Coach travis.abele@su.edu 540.665.4797
+• Olivia Thacker '25 Assistant Coach olivia.thacker@su.edu
+• Jerry Wampler Assistant Coach jerry.wampler@su.edu
+• Alex Reeves Head Coach alexander.reeves@su.edu
+• Brett Sabol Head Coach gsabol@su.edu 540.678.4429

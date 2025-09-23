@@ -1,0 +1,191 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:05
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Central State University
+Organization: Central State University Athletics
+
+Total coaches found: 23
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tony Carter
+   Email: tcarter@centralstate.edu
+   Username: tcarter
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Tony Carter Head Football Coach tcarter@centralstate.edu
+
+2. Pat Clark
+   Email: pclark2@centralstate.edu
+   Username: pclark2
+   Sports: Football
+   Title: Assistant Head Coach and
+   Original line: Pat Clark Assistant Head Coach and Co-Defensive Coordinator pclark2@centralstate.edu
+
+3. Santonio Holmes
+   Email: sholmes1@centralstate.edu
+   Username: sholmes1
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Santonio Holmes Wide Receivers Coach sholmes1@centralstate.edu
+
+4. Mike McCray
+   Email: mmccray@centralstate.edu
+   Username: mmccray
+   Sports: Football
+   Title: Linebackers Coach
+   Original line: Mike McCray Linebackers Coach mmccray@centralstate.edu
+
+5. Nathan Cousin
+   Email: ncousin@centralstate.edu
+   Username: ncousin
+   Sports: Football
+   Title: Defensive Assistant Coach
+   Original line: Nathan Cousin Defensive Assistant Coach ncousin@centralstate.edu
+
+6. Devin Walker
+   Email: dwalker@centralstate.edu
+   Username: dwalker
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Devin Walker Head Volleyball Coach dwalker@centralstate.edu 937-376-
+
+7. Travis Lewis
+   Email: tlewis11@centralstate.edu
+   Username: tlewis11
+   Sports: Volleyball
+   Title: Head Men's Basketball Coach
+   Original line: Travis Lewis Head Men's Basketball Coach tlewis11@centralstate.edu 937-376-
+
+8. Matt Wortham
+   Email: mwortha21@gmail.com
+   Username: mwortha21
+   Sports: Volleyball
+   Title: Associate Head Coach /
+   Original line: Matt Wortham Associate Head Coach / Offensive Coordinator mwortha21@gmail.com
+
+9. Allen Drake
+   Email: coachallendrake@gmail.com
+   Username: coachallendrake
+   Sports: Volleyball
+   Title: Assistant Coach /
+   Original line: Allen Drake Assistant Coach / Defensive Coordinator coachallendrake@gmail.com
+
+10. Annitra Cole
+   Email: acole2@centralstate.edu
+   Username: acole2
+   Sports: Volleyball
+   Title: Head Women's Basketball Coach
+   Original line: Annitra Cole Head Women's Basketball Coach acole2@centralstate.edu 937-376-
+
+11. Elliott Lightfoot
+   Email: jlightfoot@centralstate.edu
+   Username: jlightfoot
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Elliott Lightfoot Head Coach jlightfoot@centralstate.edu 937-376-
+
+12. William Ware
+   Email: wware@centralstate.edu
+   Username: wware
+   Sports: Volleyball
+   Title: Head Men's and Women's Golf Coach
+   Original line: William Ware Head Men's and Women's Golf Coach wware@centralstate.edu 937-376-
+
+13. Breanne Lovelace
+   Email: breannelovelace80@gmail.com
+   Username: breannelovelace80
+   Sports: Volleyball
+   Title: Head Cheer Coach
+   Original line: Breanne Lovelace Head Cheer Coach breannelovelace80@gmail.com
+
+14.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+15. Brandon Line
+   Email: 
+   Username: brandon.line
+   Sports: Soccer
+   Title: Brandon McKinney Defensive Line Coach
+   Original line: Brandon McKinney Defensive Line Coach
+
+16. Dave Brumagen
+   Email: 
+   Username: dave.brumagen
+   Sports: Soccer
+   Title: Dave Brumagen Assistant Defensive Line Coach
+   Original line: Dave Brumagen Assistant Defensive Line Coach
+
+17. Javen Miles
+   Email: 
+   Username: javen.miles
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Javen Miles Offensive Assistant Coach
+
+18. Marquis Student
+   Email: 
+   Username: marquis.student
+   Sports: Soccer
+   Title: Marquis Buchanan Student Coach
+   Original line: Marquis Buchanan Student Coach, Offensive Assistant
+
+19. Carson Line
+   Email: 
+   Username: carson.line
+   Sports: Soccer
+   Title: Carson Hailey Offensive Line Coach and Run Game Coordinator
+   Original line: Carson Hailey Offensive Line Coach and Run Game Coordinator
+
+20. RJ Walker
+   Email: 
+   Username: rj.walker
+   Sports: Soccer
+   Title: Assistant Coach / Special Teams Coordinator / Player
+   Original line: RJ Walker Assistant Coach / Special Teams Coordinator / Player
+
+21. Donald Special
+   Email: 
+   Username: donald.special
+   Sports: Soccer
+   Title: Head Coach / Video Coordinator
+   Original line: Donald Hadesman Special Assistant to the Head Coach / Video Coordinator
+
+22. Shyheim Small
+   Email: sjakwan760@gmail.com
+   Username: sjakwan760
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: James Hill Jr. Assistant Coach 937-376- sjakwan760@gmail.com
+
+23. Lemi Laki
+   Email: 
+   Username: lemi.laki
+   Sports: Track & Field, Cross Country
+   Title: Assistant Coach Track and Field/Cross Country
+   Original line: Lemi Laki Assistant Coach Track and Field/Cross Country
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tony Carter Head Football Coach tcarter@centralstate.edu
+• Pat Clark Assistant Head Coach and Co-Defensive Coordinator pclark2@centralstate.edu
+• Santonio Holmes Wide Receivers Coach sholmes1@centralstate.edu
+• Mike McCray Linebackers Coach mmccray@centralstate.edu
+• Nathan Cousin Defensive Assistant Coach ncousin@centralstate.edu
+• Devin Walker Head Volleyball Coach dwalker@centralstate.edu 937-376-
+• Travis Lewis Head Men's Basketball Coach tlewis11@centralstate.edu 937-376-
+• Matt Wortham Associate Head Coach / Offensive Coordinator mwortha21@gmail.com
+• Allen Drake Assistant Coach / Defensive Coordinator coachallendrake@gmail.com
+• Annitra Cole Head Women's Basketball Coach acole2@centralstate.edu 937-376-
+• Elliott Lightfoot Head Coach jlightfoot@centralstate.edu 937-376-
+• William Ware Head Men's and Women's Golf Coach wware@centralstate.edu 937-376-
+• Breanne Lovelace Head Cheer Coach breannelovelace80@gmail.com

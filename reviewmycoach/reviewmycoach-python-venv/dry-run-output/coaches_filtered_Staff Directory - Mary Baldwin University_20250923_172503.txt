@@ -1,0 +1,221 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:03
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Mary Baldwin University
+Organization: Mary Baldwin University Athletics
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Christy Shelton
+   Email: cshelton@marybaldwin.edu
+   Username: cshelton
+   Sports: Softball
+   Title: Associate Director of Athletics/SWA/Head Softball Coach
+   Phone: (540) 887-7321
+   Original line: Christy Shelton Associate Director of Athletics/SWA/Head Softball Coach cshelton@marybaldwin.edu 540-887-7321
+
+2. Scott Hearn
+   Email: smhearn@marybaldwin.edu
+   Username: smhearn
+   Sports: Baseball
+   Title: Head Baseball Coach/Compliance Director
+   Phone: (540) 887-7195
+   Original line: Scott Hearn Head Baseball Coach/Compliance Director smhearn@marybaldwin.edu 540-887-7195
+
+3. Scott Hearn
+   Email: smhearn@marybaldwin.edu
+   Username: smhearn
+   Sports: Baseball
+   Title: Head Baseball Coach/Compliance Director
+   Phone: (540) 887-7195
+   Original line: Scott Hearn Head Baseball Coach/Compliance Director smhearn@marybaldwin.edu 540-887-7195
+
+4. Bryce Mackey
+   Email: bcmackey@marybaldwin.edu
+   Username: bcmackey
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Phone: (540) 887-7195
+   Original line: Bryce Mackey Assistant Baseball Coach bcmackey@marybaldwin.edu 540-887-7195
+
+5. Daniel Eacho
+   Email: dleacho@marybaldwin.edu
+   Username: dleacho
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Daniel Eacho Head Men's Basketball Coach dleacho@marybaldwin.edu
+
+6. Tevin Brown
+   Email: twbrown@marybaldwin.edu
+   Username: twbrown
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Tevin Brown Assistant Men's Basketball Coach twbrown@marybaldwin.edu
+
+7. Rob VanCleve
+   Email: rwvancleve@marybaldwin.edu
+   Username: rwvancleve
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Rob VanCleve Head Coach rwvancleve@marybaldwin.edu
+
+8. Zack Clark
+   Email: zwclark@marybaldwin.edu
+   Username: zwclark
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (540) 887-7166
+   Original line: Zack Clark Head Coach Men's Soccer zwclark@marybaldwin.edu 540-887-7166
+
+9. Christy Shelton
+   Email: cshelton@marybaldwin.edu
+   Username: cshelton
+   Sports: Softball
+   Title: Associate Director of Athletics/SWA/Head Softball Coach
+   Phone: (540) 887-7321
+   Original line: Christy Shelton Associate Director of Athletics/SWA/Head Softball Coach cshelton@marybaldwin.edu 540-887-7321
+
+10. Jason Whitaker
+   Email: jwhitaker@marybaldwin.edu
+   Username: jwhitaker
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jason Whitaker Assistant Coach jwhitaker@marybaldwin.edu
+
+11. Rob VanCleve
+   Email: rwvancleve@marybaldwin.edu
+   Username: rwvancleve
+   Sports: Softball
+   Title: Head Coach
+   Original line: Rob VanCleve Head Coach rwvancleve@marybaldwin.edu
+
+12. Brad Rideout
+   Email: berideout@marybaldwin.edu
+   Username: berideout
+   Sports: Softball
+   Title: Head Women's Basketball Coach
+   Phone: (717) 446-7281
+   Original line: Brad Rideout Head Women's Basketball Coach berideout@marybaldwin.edu 717-446-7281
+
+13. Sunny Gelnovatch
+   Email: sgelnovatch@marybaldwin.edu
+   Username: sgelnovatch
+   Sports: Softball
+   Title: Head Women's Soccer Coach
+   Original line: Sunny Gelnovatch Head Women's Soccer Coach sgelnovatch@marybaldwin.edu
+
+14. Madelyn Vinson
+   Email: vinsonml7367@marybaldwin.edu
+   Username: vinsonml7367
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Madelyn Vinson Assistant Coach vinsonml7367@marybaldwin.edu
+
+15. Amanda McCoy
+   Email: almccoy@marybaldwin.edu
+   Username: almccoy
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Amanda McCoy Head Women's Volleyball Coach almccoy@marybaldwin.edu
+
+16. Bailey Montana
+   Email: bemontana@marybaldwin.edu
+   Username: bemontana
+   Sports: Softball
+   Title: Assistant Volleyball Coach
+   Original line: Bailey Montana Assistant Volleyball Coach bemontana@marybaldwin.edu
+
+17. Josh Volunteer
+   Email: 
+   Username: josh.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Lallo Volunteer Assistant Coach
+
+18. Noah Volunteer
+   Email: 
+   Username: noah.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Noah Kessler Volunteer Assistant Coach
+
+19. Tyler Graduate
+   Email: 
+   Username: tyler.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyler Smith Graduate Assistant Coach
+
+20. Mikel Bradley
+   Email: 
+   Username: mikel.bradley
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Mikel Bradley Assistant Men's Basketball Coach
+
+21. Caroline Motley
+   Email: 
+   Username: caroline.motley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caroline Motley Assistant Coach
+
+22. Kyle Volunteer
+   Email: 
+   Username: kyle.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Creamer Volunteer Assistant Coach
+
+23. Emily McCreary
+   Email: 
+   Username: emily.mccreary
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emily McCreary Assistant Coach
+
+24. Ken Barlett
+   Email: 
+   Username: ken.barlett
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Ken Barlett Women's Basketball Assistant Coach
+
+25. Cy Volunteer
+   Email: 
+   Username: cy.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cy Harkins Volunteer Assistant Coach
+
+26. Savannah Volunteer
+   Email: 
+   Username: savannah.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Savannah Figueroa Volunteer Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Christy Shelton Associate Director of Athletics/SWA/Head Softball Coach cshelton@marybaldwin.edu 540-887-7321
+• Scott Hearn Head Baseball Coach/Compliance Director smhearn@marybaldwin.edu 540-887-7195
+• Scott Hearn Head Baseball Coach/Compliance Director smhearn@marybaldwin.edu 540-887-7195
+• Bryce Mackey Assistant Baseball Coach bcmackey@marybaldwin.edu 540-887-7195
+• Daniel Eacho Head Men's Basketball Coach dleacho@marybaldwin.edu
+• Tevin Brown Assistant Men's Basketball Coach twbrown@marybaldwin.edu
+• Rob VanCleve Head Coach rwvancleve@marybaldwin.edu
+• Zack Clark Head Coach Men's Soccer zwclark@marybaldwin.edu 540-887-7166
+• Christy Shelton Associate Director of Athletics/SWA/Head Softball Coach cshelton@marybaldwin.edu 540-887-7321
+• Jason Whitaker Assistant Coach jwhitaker@marybaldwin.edu
+• Rob VanCleve Head Coach rwvancleve@marybaldwin.edu
+• Brad Rideout Head Women's Basketball Coach berideout@marybaldwin.edu 717-446-7281
+• Sunny Gelnovatch Head Women's Soccer Coach sgelnovatch@marybaldwin.edu
+• Madelyn Vinson Assistant Coach vinsonml7367@marybaldwin.edu
+• Amanda McCoy Head Women's Volleyball Coach almccoy@marybaldwin.edu
+• Bailey Montana Assistant Volleyball Coach bemontana@marybaldwin.edu

@@ -1,0 +1,234 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:34
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Virginia Union University
+Organization: Virginia Union University Athletics
+
+Total coaches found: 28
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alvin Parker
+   Email: adparker@vuu.edu
+   Username: adparker
+   Sports: Soccer
+   Title: Associate Athletic Director / Head Football Coach
+   Original line: Alvin Parker Associate Athletic Director / Head Football Coach adparker@vuu.edu
+
+2. Jay Butler
+   Email: llbutler@vuu.edu
+   Username: llbutler
+   Sports: Basketball
+   Title: Head Men's Basketball Coach
+   Original line: Jay Butler Head Men's Basketball Coach llbutler@vuu.edu 804-257-
+
+3. Robert Johnson
+   Email: rajohnson@vuu.edu
+   Username: rajohnson
+   Sports: Basketball
+   Title: Assistant Men's Basketball Coach
+   Original line: Robert Johnson Assistant Men's Basketball Coach rajohnson@vuu.edu 804-212-
+
+4. Alico Dunk
+   Email: ajdunk@vuu.edu
+   Username: ajdunk
+   Sports: Basketball
+   Title: Head Women's Basketball Coach
+   Original line: Alico Dunk Head Women's Basketball Coach ajdunk@vuu.edu TBA
+
+5. Shenika Worthy
+   Email: Snworthy@vuu.edu
+   Username: Snworthy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shenika Worthy Assistant Coach Snworthy@vuu.edu
+
+6. James Washington
+   Email: littlegrown@yahoo.com
+   Username: littlegrown
+   Sports: Soccer
+   Title: Head Coach
+   Original line: James Washington Head Coach littlegrown@yahoo.com 804-342-
+
+7. Danielle Johnson
+   Email: vuu.cheer1865@gmail.com
+   Username: vuu.cheer1865
+   Sports: Soccer
+   Title: Head Cheerleading Coach
+   Original line: Danielle Johnson Head Cheerleading Coach vuu.cheer1865@gmail.com 804-342-
+
+8. Franck Charles
+   Email: Fcharles@vuu.edu
+   Username: Fcharles
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Franck Charles Head Coach Fcharles@vuu.edu 804-342-
+
+9. Gabriel Kotto
+   Email: gabrielkotto@gmail.com
+   Username: gabrielkotto
+   Sports: Cross Country
+   Title: Head Tennis Coach
+   Original line: Gabriel Kotto Head Tennis Coach gabrielkotto@gmail.com
+
+10. Alvin Parker
+   Email: adparker@vuu.edu
+   Username: adparker
+   Sports: Football
+   Title: Associate Athletic Director / Head Football Coach
+   Original line: Alvin Parker Associate Athletic Director / Head Football Coach adparker@vuu.edu
+
+11. Edward Pointer
+   Email: ejpointer@vuu.edu
+   Username: ejpointer
+   Sports: Football
+   Title: Assistant Head Coach / Defensive Coordinator /
+   Original line: Edward Pointer Assistant Head Coach / Defensive Coordinator / ejpointer@vuu.edu
+
+12. Diego Ryland
+   Email: dcryland@vuu.edu
+   Username: dcryland
+   Sports: Football
+   Title: Associate Head Coach / Special Teams Coordinator /
+   Original line: Diego Ryland Associate Head Coach / Special Teams Coordinator / dcryland@vuu.edu
+
+13. Nicholas Rogers
+   Email: nrogers@vuu.edu
+   Username: nrogers
+   Sports: Football
+   Title: Secondary Coach / Recruiting Coordinator / Assistant
+   Original line: Nicholas Rogers Secondary Coach / Recruiting Coordinator / Assistant nrogers@vuu.edu
+
+14. Game 
+   Email: emjones1@vuu.edu
+   Username: emjones1
+   Sports: Football
+   Title: Evan Jones Corners Coach/Defensive Pass
+   Original line: Evan Jones Corners Coach/Defensive Pass Game Coordinator emjones1@vuu.edu
+
+15. Ryan Gould
+   Email: rdgould@vuu.edu
+   Username: rdgould
+   Sports: Football
+   Title: Assistant Defensive Line Coach
+   Original line: Ryan Gould Assistant Defensive Line Coach rdgould@vuu.edu
+
+16. Kevin Dent
+   Email: Football@vuu.edu
+   Username: Football
+   Sports: Football
+   Title: Assistant Offensive Line Coach
+   Original line: Kevin Dent Assistant Offensive Line Coach Football@vuu.edu
+
+17. Dominique Mulero
+   Email: dlmulero@vuu.edu
+   Username: dlmulero
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Dominique Mulero Head Softball Coach dlmulero@vuu.edu 804-342-
+
+18. John Cerminara
+   Email: jmcerminara@gmail.com
+   Username: jmcerminara
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: John Cerminara Assistant Coach (Throws) jmcerminara@gmail.com 717-315-
+
+19. Franck Charles
+   Email: Fcharles@vuu.edu
+   Username: Fcharles
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Franck Charles Head Coach Fcharles@vuu.edu 804-342-
+
+20. Tovias Parker
+   Email: taparker@vuu.edu
+   Username: taparker
+   Sports: Track & Field
+   Title: Hurdles Coach
+   Original line: Tovias Parker, Jr. Hurdles Coach taparker@vuu.edu 786-925-
+
+21. Brian Gurley
+   Email: bgurley@vuu.edu
+   Username: bgurley
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach
+   Original line: Brian Gurley Assistant Track & Field Coach bgurley@vuu.edu
+
+22. Anetra Sims
+   Email: adsims@vuu.edu
+   Username: adsims
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Anetra Sims Head Volleyball Coach adsims@vuu.edu
+
+23. Joe Intercollegiate
+   Email: jdtaylor@vuu.edu
+   Username: jdtaylor
+   Sports: Golf
+   Title: Support / Head Golf Coach
+   Original line: Support / Head Golf Coach 5677 jdtaylor@vuu.edu
+
+24. Assiaonnia Thomas
+   Email: 
+   Username: assiaonnia.thomas
+   Sports: Soccer
+   Title: Assiaonnia Thomas Assistant Bowling Coach
+   Original line: Assiaonnia Thomas Assistant Bowling Coach
+
+25. Lee Stilley
+   Email: 
+   Username: lee.stilley
+   Sports: Soccer
+   Title: Assistant Cheer Coach
+   Original line: Lee Stilley, Jr. Assistant Cheer Coach
+
+26. Sean Bowers
+   Email: 
+   Username: sean.bowers
+   Sports: Golf
+   Title: Sean Bowers Assistant Golf Coach
+   Original line: Sean Bowers Assistant Golf Coach
+
+27. TBA 
+   Email: 
+   Username: tba
+   Sports: Volleyball
+   Title: TBA TBA Head Volleyball Coach
+   Original line: TBA TBA Head Volleyball Coach
+
+28. Jon Amaral
+   Email: 
+   Username: jon.amaral
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jon Amaral Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alvin Parker Associate Athletic Director / Head Football Coach adparker@vuu.edu
+• Jay Butler Head Men's Basketball Coach llbutler@vuu.edu 804-257-
+• Robert Johnson Assistant Men's Basketball Coach rajohnson@vuu.edu 804-212-
+• Alico Dunk Head Women's Basketball Coach ajdunk@vuu.edu TBA
+• Shenika Worthy Assistant Coach Snworthy@vuu.edu
+• James Washington Head Coach littlegrown@yahoo.com 804-342-
+• Danielle Johnson Head Cheerleading Coach vuu.cheer1865@gmail.com 804-342-
+• Franck Charles Head Coach Fcharles@vuu.edu 804-342-
+• Gabriel Kotto Head Tennis Coach gabrielkotto@gmail.com
+• Alvin Parker Associate Athletic Director / Head Football Coach adparker@vuu.edu
+• Edward Pointer Assistant Head Coach / Defensive Coordinator / ejpointer@vuu.edu
+• Diego Ryland Associate Head Coach / Special Teams Coordinator / dcryland@vuu.edu
+• Nicholas Rogers Secondary Coach / Recruiting Coordinator / Assistant nrogers@vuu.edu
+• Evan Jones Corners Coach/Defensive Pass Game Coordinator emjones1@vuu.edu
+• Ryan Gould Assistant Defensive Line Coach rdgould@vuu.edu
+• Kevin Dent Assistant Offensive Line Coach Football@vuu.edu
+• Dominique Mulero Head Softball Coach dlmulero@vuu.edu 804-342-
+• John Cerminara Assistant Coach (Throws) jmcerminara@gmail.com 717-315-
+• Franck Charles Head Coach Fcharles@vuu.edu 804-342-
+• Tovias Parker, Jr. Hurdles Coach taparker@vuu.edu 786-925-
+• Brian Gurley Assistant Track & Field Coach bgurley@vuu.edu
+• Anetra Sims Head Volleyball Coach adsims@vuu.edu

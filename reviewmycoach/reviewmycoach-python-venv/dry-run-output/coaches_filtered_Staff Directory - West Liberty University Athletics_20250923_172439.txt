@@ -1,0 +1,443 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:39
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: West Liberty University
+Organization: West Liberty University Athletics
+
+Total coaches found: 55
+
+PARSED ENTRIES:
+----------------------------------------
+1. Woman 
+   Email: cassandra.seth@westliberty.edu
+   Username: cassandra.seth
+   Sports: Basketball
+   Title: Cassie Seth Associate Head Women's Basketball Coach /
+   Original line: Cassie Seth Associate Head Women's Basketball Coach / Senior Woman cassandra.seth@westliberty.edu 304-336-
+
+2. Co-Compliance 
+   Email: kelsey.kyle@westliberty.edu
+   Username: kelsey.kyle
+   Sports: Soccer
+   Title: Kelsey Kyle Acrobatics & Tumbling Head Coach /
+   Original line: Kelsey Kyle Acrobatics & Tumbling Head Coach / Co-Compliance Coordinator kelsey.kyle@westliberty.edu 304-336-
+
+3. Co-Compliance 
+   Email: kelsey.kyle@westliberty.edu
+   Username: kelsey.kyle
+   Sports: Soccer
+   Title: Kelsey Kyle Acrobatics & Tumbling Head Coach /
+   Original line: Kelsey Kyle Acrobatics & Tumbling Head Coach / Co-Compliance Coordinator kelsey.kyle@westliberty.edu 304-336-
+
+4. Abbey Horvath
+   Email: amhorvath@westliberty.edu
+   Username: amhorvath
+   Sports: Soccer
+   Title: Graduate Assistant Acrobatics & Tumbling Coach
+   Original line: Abbey Horvath Graduate Assistant Acrobatics & Tumbling Coach amhorvath@westliberty.edu 304-336-
+
+5. Eric Burkle
+   Email: eburkle@westliberty.edu
+   Username: eburkle
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Eric Burkle Head Baseball Coach eburkle@westliberty.edu 304-336-
+
+6. Chris Koutsavlis
+   Email: chris.koutsavlis@westliberty.edu
+   Username: chris.koutsavlis
+   Sports: Baseball
+   Title: Assistant Coach /
+   Original line: Chris Koutsavlis Assistant Coach / Recruiting Coordinator chris.koutsavlis@westliberty.edu 304-336-
+
+7. Koby Bubash
+   Email: kbubash@westliberty.edu
+   Username: kbubash
+   Sports: Baseball
+   Title: Graduate Assistant Baseball Coach
+   Original line: Koby Bubash Graduate Assistant Baseball Coach kbubash@westliberty.edu 304-336-
+
+8. Michael Lamberti
+   Email: michael.lamberti@westliberty.edu
+   Username: michael.lamberti
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Michael Lamberti Head Men's Basketball Coach michael.lamberti@westliberty.edu 304-336-
+
+9. Aaron Huffman
+   Email: ahuffman@westliberty.edu
+   Username: ahuffman
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Aaron Huffman Assistant Men's Basketball Coach ahuffman@westliberty.edu 304-336-
+
+10. Greg Bearer
+   Email: gregory.bearer@westliberty.edu
+   Username: gregory.bearer
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Greg Bearer Assistant Men's Basketball Coach gregory.bearer@westliberty.edu 304-336-
+
+11. Kyle Cooper
+   Email: kyle.cooper@westliberty.edu
+   Username: kyle.cooper
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Kyle Cooper Head Women's Basketball Coach kyle.cooper@westliberty.edu 304-336-
+
+12. Woman 
+   Email: cassandra.seth@westliberty.edu
+   Username: cassandra.seth
+   Sports: Baseball
+   Title: Cassie Seth Associate Head Women's Basketball Coach /
+   Original line: Cassie Seth Associate Head Women's Basketball Coach / Senior Woman cassandra.seth@westliberty.edu 304-336-
+
+13. Michael Guinn
+   Email: michael.guinn@westliberty.edu
+   Username: michael.guinn
+   Sports: Cross Country
+   Title: II Interim Head Cross Country and Track Coach
+   Original line: Michael Guinn II Interim Head Cross Country and Track Coach michael.guinn@westliberty.edu
+
+14. Roger Waialae
+   Email: rwaialae@westliberty.edu
+   Username: rwaialae
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Roger Waialae Head Football Coach rwaialae@westliberty.edu 304-336-
+
+15. Jeff Monteroso
+   Email: jmonteroso@westliberty.edu
+   Username: jmonteroso
+   Sports: Football
+   Title: Assistant Football Coach/Defensive Coordinator
+   Original line: Jeff Monteroso Assistant Football Coach/Defensive Coordinator jmonteroso@westliberty.edu 304-336-
+
+16. Marcus Spencer
+   Email: marcus.spencer@westliberty.edu
+   Username: marcus.spencer
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Marcus Spencer Assistant Football Coach marcus.spencer@westliberty.edu
+
+17. Mark Konopka
+   Email: mark.konopka@westliberty.edu
+   Username: mark.konopka
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Mark Konopka Assistant Football Coach mark.konopka@westliberty.edu
+
+18. Josh Francis
+   Email: josh.francis@westliberty.edu
+   Username: josh.francis
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Josh Francis Assistant Football Coach josh.francis@westliberty.edu
+
+19. Johnny Bonar
+   Email: jbonar1@westliberty.edu
+   Username: jbonar1
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Johnny Bonar Assistant Football Coach jbonar1@westliberty.edu
+
+20. Mason Werner
+   Email: mason.werner@westliberty.edu
+   Username: mason.werner
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Mason Werner Assistant Football Coach mason.werner@westliberty.edu
+
+21. Caydan Keeler
+   Email: ckeeler@westliberty.edu
+   Username: ckeeler
+   Sports: Football
+   Title: Graduate Assistant Football Coach
+   Original line: Caydan Keeler Graduate Assistant Football Coach ckeeler@westliberty.edu
+
+22. Noah Seivertson
+   Email: noah.seivertson@westliberty.edu
+   Username: noah.seivertson
+   Sports: Football
+   Title: Head Men's Golf Coach
+   Original line: Noah Seivertson Head Men's Golf Coach noah.seivertson@westliberty.edu
+
+23. Freddie Fitzsimmons
+   Email: frederick.fitzsimmons@westliberty.edu
+   Username: frederick.fitzsimmons
+   Sports: Football
+   Title: Head Women's Golf Coach
+   Original line: Freddie Fitzsimmons Head Women's Golf Coach frederick.fitzsimmons@westliberty.edu
+
+24. Sean Regan
+   Email: sean.regan@westliberty.edu
+   Username: sean.regan
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Sean Regan Head Men's Soccer Coach sean.regan@westliberty.edu 304-280-
+
+25. Santiago Bruni
+   Email: sbruni@westliberty.edu
+   Username: sbruni
+   Sports: Football
+   Title: Graduate Assistant Men's Soccer Coach
+   Original line: Santiago Bruni Graduate Assistant Men's Soccer Coach sbruni@westliberty.edu
+
+26. Zach Rycroft
+   Email: zbrycroft@westliberty.edu
+   Username: zbrycroft
+   Sports: Football
+   Title: Assistant Coach /
+   Original line: Zach Rycroft Assistant Coach / Recruitment Coordinator zbrycroft@westliberty.edu
+
+27. Pete McMenemy
+   Email: pmcmenemy@westliberty.edu
+   Username: pmcmenemy
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Pete McMenemy Head Women's Soccer Coach pmcmenemy@westliberty.edu 304-336-
+
+28. Sara Pelegreen
+   Email: sara.pelegreen@westliberty.edu
+   Username: sara.pelegreen
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Sara Pelegreen Head Softball Coach sara.pelegreen@westliberty.edu 304-336-
+
+29. Delani Buckner
+   Email: dbuckner@westliberty.edu
+   Username: dbuckner
+   Sports: Softball
+   Title: Graduate Assistant Softball Coach
+   Original line: Delani Buckner Graduate Assistant Softball Coach dbuckner@westliberty.edu 304-336-
+
+30. Ronald Hulewicz
+   Email: ronald.hulewicz@westliberty.edu
+   Username: ronald.hulewicz
+   Sports: Softball
+   Title: Head Men's Tennis Coach
+   Original line: Ronald Hulewicz Head Men's Tennis Coach ronald.hulewicz@westliberty.edu
+
+31. Travis Closser
+   Email: travis.closser@westliberty.edu
+   Username: travis.closser
+   Sports: Softball
+   Title: Head Women's Tennis Coach
+   Original line: Travis Closser Head Women's Tennis Coach travis.closser@westliberty.edu
+
+32. Michael Guinn
+   Email: michael.guinn@westliberty.edu
+   Username: michael.guinn
+   Sports: Track & Field
+   Title: II Interim Head Cross Country and Track Coach
+   Original line: Michael Guinn II Interim Head Cross Country and Track Coach michael.guinn@westliberty.edu
+
+33. Makenzy Johnson
+   Email: mjohnson4@westliberty.edu
+   Username: mjohnson4
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Makenzy Johnson Head Volleyball Coach mjohnson4@westliberty.edu
+
+34. Katerina Negron
+   Email: knegron@westliberty.edu
+   Username: knegron
+   Sports: Volleyball
+   Title: Graduate Assistant Volleyball Coach
+   Original line: Katerina Negron Graduate Assistant Volleyball Coach knegron@westliberty.edu
+
+35. Danny Irwin
+   Email: daniel.irwin@westliberty.edu
+   Username: daniel.irwin
+   Sports: Volleyball
+   Title: Director of Wrestling / Head Men's Wrestling Coach
+   Original line: Danny Irwin Director of Wrestling / Head Men's Wrestling Coach daniel.irwin@westliberty.edu 304-336-
+
+36. Christian Rivera
+   Email: crivera@westliberty.edu
+   Username: crivera
+   Sports: Volleyball
+   Title: Assistant Men's Wrestling Coach
+   Original line: Christian Rivera Assistant Men's Wrestling Coach crivera@westliberty.edu 304-336-
+
+37. Mike Carpenter
+   Email: mcarpenter1@westliberty.edu
+   Username: mcarpenter1
+   Sports: Volleyball
+   Title: Assistant Men's Wrestling Coach
+   Original line: Mike Carpenter Assistant Men's Wrestling Coach mcarpenter1@westliberty.edu 304-336-
+
+38. Dakoda Rodgers
+   Email: dlrodgers@westliberty.edu
+   Username: dlrodgers
+   Sports: Volleyball
+   Title: Graduate Assistant Wrestling Coach
+   Original line: Dakoda Rodgers Graduate Assistant Wrestling Coach dlrodgers@westliberty.edu
+
+39. Jordan Watters
+   Email: jbwatters@westliberty.edu
+   Username: jbwatters
+   Sports: Volleyball
+   Title: Graduate Assistant Wrestling Coach
+   Original line: Jordan Watters Graduate Assistant Wrestling Coach jbwatters@westliberty.edu
+
+40. Troy Bell
+   Email: troy.bell@westliberty.edu
+   Username: troy.bell
+   Sports: Volleyball
+   Title: Head Women's Wrestling Coach
+   Original line: Troy Bell Head Women's Wrestling Coach troy.bell@westliberty.edu
+
+41. Dakoda Rodgers
+   Email: dlrodgers@westliberty.edu
+   Username: dlrodgers
+   Sports: Volleyball
+   Title: Graduate Assistant Wrestling Coach
+   Original line: Dakoda Rodgers Graduate Assistant Wrestling Coach dlrodgers@westliberty.edu
+
+42. Jordan Watters
+   Email: jbwatters@westliberty.edu
+   Username: jbwatters
+   Sports: Volleyball
+   Title: Graduate Assistant Wrestling Coach
+   Original line: Jordan Watters Graduate Assistant Wrestling Coach jbwatters@westliberty.edu
+
+43. Bri Tetzloff
+   Email: brianna.tetzloff@westliberty.edu
+   Username: brianna.tetzloff
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chloe Palmer Acrobatics & Tumbling Assistant Coach 304-336- brianna.tetzloff@westliberty.edu
+
+44. Robbie Bonar
+   Email: 
+   Username: robbie.bonar
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Robbie Bonar Assistant Women's Basketball Coach
+
+45. Hannah Kemp
+   Email: 
+   Username: hannah.kemp
+   Sports: Track & Field, Cross Country
+   Title: Hannah Kemp Assistant Cross Country and Track Coach
+   Original line: Hannah Kemp Assistant Cross Country and Track Coach (Distance)
+
+46. Devlin Graduate
+   Email: 
+   Username: devlin.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Micheál Devlin Women's Soccer Graduate Assistant Coach
+
+47. Jim Welsh
+   Email: 
+   Username: jim.welsh
+   Sports: Softball
+   Title: Jim Welsh Assistant Softball Coach
+   Original line: Jim Welsh Assistant Softball Coach
+
+48. Danielle Stewart
+   Email: 
+   Username: danielle.stewart
+   Sports: Track & Field
+   Title: Danielle Stewart Assistant Track and Field Coach
+   Original line: Danielle Stewart Assistant Track and Field Coach (Pole Vault)
+
+49. Ben Fedoush
+   Email: 
+   Username: ben.fedoush
+   Sports: Track & Field
+   Title: Ben Fedoush Assistant Track and Field Coach
+   Original line: Ben Fedoush Assistant Track and Field Coach (Throws)
+
+50. Hannah Larkey
+   Email: 
+   Username: hannah.larkey
+   Sports: Track & Field
+   Title: Hannah Larkey Assistant Track and Field Coach
+   Original line: Hannah Larkey Assistant Track and Field Coach (Throws)
+
+51. Eric Doty
+   Email: 
+   Username: eric.doty
+   Sports: Track & Field
+   Title: Eric Doty Assistant Track and Field Coach
+   Original line: Eric Doty Assistant Track and Field Coach (Sprints)
+
+52. Michael Trax
+   Email: 
+   Username: michael.trax
+   Sports: Track & Field
+   Title: Michael Trax Assistant Track and Field Coach
+   Original line: Michael Trax Assistant Track and Field Coach (Jumps)
+
+53. John Ferens
+   Email: 
+   Username: john.ferens
+   Sports: Wrestling
+   Title: John Ferens Assistant Wrestling Coach
+   Original line: John Ferens Assistant Wrestling Coach
+
+54. Tyler Volunteer
+   Email: 
+   Username: tyler.volunteer
+   Sports: Wrestling
+   Title: Tyler Jenkins Volunteer Assistant Wrestling Coach
+   Original line: Tyler Jenkins Volunteer Assistant Wrestling Coach
+
+55. Eliana Paterra
+   Email: 
+   Username: eliana.paterra
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Eliana Paterra Assistant Women's Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Cassie Seth Associate Head Women's Basketball Coach / Senior Woman cassandra.seth@westliberty.edu 304-336-
+• Kelsey Kyle Acrobatics & Tumbling Head Coach / Co-Compliance Coordinator kelsey.kyle@westliberty.edu 304-336-
+• Kelsey Kyle Acrobatics & Tumbling Head Coach / Co-Compliance Coordinator kelsey.kyle@westliberty.edu 304-336-
+• Abbey Horvath Graduate Assistant Acrobatics & Tumbling Coach amhorvath@westliberty.edu 304-336-
+• Eric Burkle Head Baseball Coach eburkle@westliberty.edu 304-336-
+• Chris Koutsavlis Assistant Coach / Recruiting Coordinator chris.koutsavlis@westliberty.edu 304-336-
+• Koby Bubash Graduate Assistant Baseball Coach kbubash@westliberty.edu 304-336-
+• Michael Lamberti Head Men's Basketball Coach michael.lamberti@westliberty.edu 304-336-
+• Aaron Huffman Assistant Men's Basketball Coach ahuffman@westliberty.edu 304-336-
+• Greg Bearer Assistant Men's Basketball Coach gregory.bearer@westliberty.edu 304-336-
+• Kyle Cooper Head Women's Basketball Coach kyle.cooper@westliberty.edu 304-336-
+• Cassie Seth Associate Head Women's Basketball Coach / Senior Woman cassandra.seth@westliberty.edu 304-336-
+• Michael Guinn II Interim Head Cross Country and Track Coach michael.guinn@westliberty.edu
+• Roger Waialae Head Football Coach rwaialae@westliberty.edu 304-336-
+• Jeff Monteroso Assistant Football Coach/Defensive Coordinator jmonteroso@westliberty.edu 304-336-
+• Marcus Spencer Assistant Football Coach marcus.spencer@westliberty.edu
+• Mark Konopka Assistant Football Coach mark.konopka@westliberty.edu
+• Josh Francis Assistant Football Coach josh.francis@westliberty.edu
+• Johnny Bonar Assistant Football Coach jbonar1@westliberty.edu
+• Mason Werner Assistant Football Coach mason.werner@westliberty.edu
+• Caydan Keeler Graduate Assistant Football Coach ckeeler@westliberty.edu
+• Noah Seivertson Head Men's Golf Coach noah.seivertson@westliberty.edu
+• Freddie Fitzsimmons Head Women's Golf Coach frederick.fitzsimmons@westliberty.edu
+• Sean Regan Head Men's Soccer Coach sean.regan@westliberty.edu 304-280-
+• Santiago Bruni Graduate Assistant Men's Soccer Coach sbruni@westliberty.edu
+• Zach Rycroft Assistant Coach / Recruitment Coordinator zbrycroft@westliberty.edu
+• Pete McMenemy Head Women's Soccer Coach pmcmenemy@westliberty.edu 304-336-
+• Sara Pelegreen Head Softball Coach sara.pelegreen@westliberty.edu 304-336-
+• Delani Buckner Graduate Assistant Softball Coach dbuckner@westliberty.edu 304-336-
+• Ronald Hulewicz Head Men's Tennis Coach ronald.hulewicz@westliberty.edu
+• Travis Closser Head Women's Tennis Coach travis.closser@westliberty.edu
+• Michael Guinn II Interim Head Cross Country and Track Coach michael.guinn@westliberty.edu
+• Makenzy Johnson Head Volleyball Coach mjohnson4@westliberty.edu
+• Katerina Negron Graduate Assistant Volleyball Coach knegron@westliberty.edu
+• Danny Irwin Director of Wrestling / Head Men's Wrestling Coach daniel.irwin@westliberty.edu 304-336-
+• Christian Rivera Assistant Men's Wrestling Coach crivera@westliberty.edu 304-336-
+• Mike Carpenter Assistant Men's Wrestling Coach mcarpenter1@westliberty.edu 304-336-
+• Dakoda Rodgers Graduate Assistant Wrestling Coach dlrodgers@westliberty.edu
+• Jordan Watters Graduate Assistant Wrestling Coach jbwatters@westliberty.edu
+• Troy Bell Head Women's Wrestling Coach troy.bell@westliberty.edu
+• Dakoda Rodgers Graduate Assistant Wrestling Coach dlrodgers@westliberty.edu
+• Jordan Watters Graduate Assistant Wrestling Coach jbwatters@westliberty.edu

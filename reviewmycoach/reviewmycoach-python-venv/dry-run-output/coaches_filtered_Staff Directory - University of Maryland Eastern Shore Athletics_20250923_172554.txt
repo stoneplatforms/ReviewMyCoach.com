@@ -1,0 +1,217 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:54
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: 1 College Backbone Road
+Organization: University of Maryland Eastern Shore Athletics
+
+Total coaches found: 26
+
+PARSED ENTRIES:
+----------------------------------------
+1. Michael Sager
+   Email: outtrainsportsperformance@gmail.com
+   Username: outtrainsportsperformance
+   Sports: Strength & Conditioning
+   Title: Strength & Conditioning Coach
+   Original line: Michael Sager Strength & Conditioning Coach outtrainsportsperformance@gmail.com
+
+2. Vanessa Faircloth
+   Email: vjfaircloth@umes.edu
+   Username: vjfaircloth
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Vanessa Faircloth Head Coach vjfaircloth@umes.edu
+
+3. Noelle Eagles
+   Email: njeagles@umes.edu
+   Username: njeagles
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Noelle Eagles Assistant Coach njeagles@umes.edu
+
+4. Derionah Abner
+   Email: ddabner@umes.edu
+   Username: ddabner
+   Sports: Soccer
+   Title: Graduate Assistant Coach
+   Original line: Derionah Abner Graduate Assistant Coach ddabner@umes.edu
+
+5. Jerel Walker
+   Email: jmwalker2@umes.edu
+   Username: jmwalker2
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jerel Walker Head Coach jmwalker2@umes.edu
+
+6. Sharlene Milwood-Lee
+   Email: smilwoodlee@umes.edu
+   Username: smilwoodlee
+   Sports: Track & Field, Cross Country
+   Title: Head Coach of Cross Country and Track
+   Original line: Sharlene Milwood-Lee Head Coach of Cross Country and Track and Field smilwoodlee@umes.edu
+
+7. Jathan DeBerry
+   Email: jldeberry@umes.edu
+   Username: jldeberry
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jathan DeBerry Assistant Coach jldeberry@umes.edu
+
+8. Ronald Simms
+   Email: rlsimms@umes.edu
+   Username: rlsimms
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ronald Simms Jr. Head Coach rlsimms@umes.edu
+
+9. Malikah Willis
+   Email: mwillis@umes.edu
+   Username: mwillis
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Malikah Willis Head Coach mwillis@umes.edu
+
+10. Adria Crawford
+   Email: abcrawford@umes.edu
+   Username: abcrawford
+   Sports: Soccer
+   Title: Associate Head Coach
+   Original line: Adria Crawford Associate Head Coach abcrawford@umes.edu
+
+11. Cleo Hill
+   Email: chill2@umes.edu
+   Username: chill2
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Cleo Hill, Jr. Head Coach chill2@umes.edu
+
+12. Lance Beckwith
+   Email: labeckwith@umes.edu
+   Username: labeckwith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lance Beckwith Assistant Coach labeckwith@umes.edu
+
+13. Chuck Ellis
+   Email: egindraw@umes.edu
+   Username: egindraw
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chuck Ellis Assistant Coach egindraw@umes.edu
+
+14. Delorian Heard
+   Email: dcheard@umes.edu
+   Username: dcheard
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Delorian Heard Assistant Coach dcheard@umes.edu
+
+15. Dr 
+   Email: abrockman@umes.edu
+   Username: abrockman
+   Sports: Soccer
+   Title: Anitra Brockman Head Coach
+   Original line: Dr. Anitra Brockman Head Coach abrockman@umes.edu
+
+16. Aaron Robinson
+   Email: amrobinson3@umes.edu
+   Username: amrobinson3
+   Sports: Softball
+   Title: Head Coach
+   Original line: Aaron Robinson Head Coach amrobinson3@umes.edu
+
+17. Janelle Higgins
+   Email: jwhiggins@umes.edu
+   Username: jwhiggins
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Janelle Higgins Assistant Coach jwhiggins@umes.edu
+
+18. Danny Acosta
+   Email: dacostalaureano@umes.edu
+   Username: dacostalaureano
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Danny Acosta Head Coach dacostalaureano@umes.edu
+
+19. JD Mundy
+   Email: jdmundy@umes.edu
+   Username: jdmundy
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: JD Mundy Assistant Coach jdmundy@umes.edu
+
+20. Tara President
+   Email: taowens@umes.edu
+   Username: taowens
+   Sports: Soccer
+   Title: Cheerleading Coach
+   Original line: Cheerleading Coach (Sport Administrator: Bowling) 8471 taowens@umes.edu
+
+21. Sierra Miller
+   Email: snmiller@umes.edu
+   Username: snmiller
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Detia Cork Associate Head Coach snmiller@umes.edu
+
+22. Michael Dietitian
+   Email: mkirtsos@umes.edu
+   Username: mkirtsos
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Steve Menz Assistant Coach mkirtsos@umes.edu
+
+23. Paris Vaughan
+   Email: 
+   Username: paris.vaughan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Paris Vaughan Assistant Coach
+
+24. Sarah Miles
+   Email: 
+   Username: sarah.miles
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sarah Miles Assistant Coach
+
+25. Areanna Graduate
+   Email: alcombs@umes.edu
+   Username: alcombs
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chey Cooper Assistant Coach alcombs@umes.edu
+
+26. Joe Grassett
+   Email: 
+   Username: joe.grassett
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Grassett Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Michael Sager Strength & Conditioning Coach outtrainsportsperformance@gmail.com
+• Vanessa Faircloth Head Coach vjfaircloth@umes.edu
+• Noelle Eagles Assistant Coach njeagles@umes.edu
+• Derionah Abner Graduate Assistant Coach ddabner@umes.edu
+• Jerel Walker Head Coach jmwalker2@umes.edu
+• Sharlene Milwood-Lee Head Coach of Cross Country and Track and Field smilwoodlee@umes.edu
+• Jathan DeBerry Assistant Coach jldeberry@umes.edu
+• Ronald Simms Jr. Head Coach rlsimms@umes.edu
+• Malikah Willis Head Coach mwillis@umes.edu
+• Adria Crawford Associate Head Coach abcrawford@umes.edu
+• Cleo Hill, Jr. Head Coach chill2@umes.edu
+• Lance Beckwith Assistant Coach labeckwith@umes.edu
+• Chuck Ellis Assistant Coach egindraw@umes.edu
+• Delorian Heard Assistant Coach dcheard@umes.edu
+• Dr. Anitra Brockman Head Coach abrockman@umes.edu
+• Aaron Robinson Head Coach amrobinson3@umes.edu
+• Janelle Higgins Assistant Coach jwhiggins@umes.edu
+• Danny Acosta Head Coach dacostalaureano@umes.edu
+• JD Mundy Assistant Coach jdmundy@umes.edu

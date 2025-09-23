@@ -1,0 +1,633 @@
+COACH ENTRIES FOUND - 2025-09-23 17:27:08
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Cincinnati - Official Website
+Organization: University of Cincinnati - Official Website Athletics
+
+Total coaches found: 82
+
+PARSED ENTRIES:
+----------------------------------------
+1. Tim Murphy
+   Email: uccheerleading@yahoo.com
+   Username: uccheerleading
+   Sports: Soccer
+   Title: Assistant Coach - Cheer
+   Original line: Tim Murphy Assistant Coach - Cheer uccheerleading@yahoo.com
+
+2. Johnny Downey
+   Email: uccheerleading@yahoo.com
+   Username: uccheerleading
+   Sports: Soccer
+   Title: Assistant Coach - Cheer
+   Original line: Johnny Downey Assistant Coach - Cheer uccheerleading@yahoo.com
+
+3. Chris Helmers
+   Email: helmerca@ucmail.uc.edu
+   Username: helmerca
+   Sports: Soccer
+   Title: Assistant Coach - Cheer
+   Original line: Chris Helmers Assistant Coach - Cheer helmerca@ucmail.uc.edu
+
+4. Courtney Dang
+   Email: dangca@ucmail.uc.edu
+   Username: dangca
+   Sports: Soccer
+   Title: Head Coach - Dance
+   Original line: Courtney Dang Head Coach - Dance dangca@ucmail.uc.edu
+
+5. Jordan Bischel
+   Email: baseball@ucmail.uc.edu
+   Username: baseball
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jordan Bischel Head Coach baseball@ucmail.uc.edu
+
+6. Kyle Pettoruto
+   Email: pettorkg@ucmail.uc.edu
+   Username: pettorkg
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kyle Pettoruto Assistant Coach pettorkg@ucmail.uc.edu
+
+7. Tom Winske
+   Email: winsketp@ucmail.uc.edu
+   Username: winsketp
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Winske Assistant Coach winsketp@ucmail.uc.edu
+
+8. Tayler Sheriff
+   Email: sheriftr@ucmail.uc.edu
+   Username: sheriftr
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tayler Sheriff Assistant Coach sheriftr@ucmail.uc.edu
+
+9. Ashley Hecimovich
+   Email: hecimoay@ucmail.uc.edu
+   Username: hecimoay
+   Sports: Soccer
+   Title: Executive to the Head Coach
+   Original line: Ashley Hecimovich Executive to the Head Coach hecimoay@ucmail.uc.edu
+
+10. Vijay Stingley
+   Email: stinglvy@ucmail.uc.edu
+   Username: stinglvy
+   Sports: Soccer
+   Title: Inside Receivers Coach
+   Original line: Vijay Stingley Inside Receivers Coach stinglvy@ucmail.uc.edu
+
+11. Robert Nunn
+   Email: nunnrt@ucmail.uc.edu
+   Username: nunnrt
+   Sports: Soccer
+   Title: Senior Advisor to the Head Coach
+   Original line: Robert Nunn Senior Advisor to the Head Coach nunnrt@ucmail.uc.edu
+
+12. Tim Conner
+   Email: connertj@ucmail.uc.edu
+   Username: connertj
+   Sports: Soccer
+   Title: Assistant Special Teams Coach
+   Original line: Tim Conner Assistant Special Teams Coach connertj@ucmail.uc.edu
+
+13. Josh Runda
+   Email: rundaja@ucmail.uc.edu
+   Username: rundaja
+   Sports: Soccer
+   Title: Assistant Safeties Coach
+   Original line: Josh Runda Assistant Safeties Coach rundaja@ucmail.uc.edu
+
+14. Jacob Brandon
+   Email: brandojb@ucmail.uc.edu
+   Username: brandojb
+   Sports: Soccer
+   Title: Assistant Linebackers Coach
+   Original line: Jacob Brandon Assistant Linebackers Coach brandojb@ucmail.uc.edu
+
+15. Chris Canada
+   Email: canadacr@mail.uc.edu
+   Username: canadacr
+   Sports: Soccer
+   Title: Assistant Quarterbacks Coach
+   Original line: Chris Canada Assistant Quarterbacks Coach canadacr@mail.uc.edu
+
+16. Grant Gourley
+   Email: gourlegm@mail.uc.edu
+   Username: gourlegm
+   Sports: Soccer
+   Title: Assistant Cornerbacks Coach
+   Original line: Grant Gourley Assistant Cornerbacks Coach gourlegm@mail.uc.edu
+
+17. Doug Martin
+   Email: martidg@uc.edu
+   Username: martidg
+   Sports: Golf
+   Title: Men's Golf Head Coach
+   Original line: Doug Martin Men's Golf Head Coach martidg@uc.edu
+
+18. Aimee Ponte
+   Email: ponteae@ucmail.uc.edu
+   Username: ponteae
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Aimee Ponte Head Coach ponteae@ucmail.uc.edu
+
+19. Gina Thomas
+   Email: gina.oliver@uc.edu
+   Username: gina.oliver
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Gina Thomas Head Coach gina.oliver@uc.edu
+
+20. Jamie Redding
+   Email: reddinje@ucmail.uc.edu
+   Username: reddinje
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jamie Redding Assistant Coach reddinje@ucmail.uc.edu
+
+21. Zach Tamburello
+   Email: tamburpz@ucmail.uc.edu
+   Username: tamburpz
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zach Tamburello Assistant Coach tamburpz@ucmail.uc.edu
+
+22. Erica Demers
+   Email: demersea@ucmail.uc.edu
+   Username: demersea
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Erica Demers Head Coach demersea@ucmail.uc.edu
+
+23. Paul Babba
+   Email: babbapp@ucmail.uc.edu
+   Username: babbapp
+   Sports: Soccer
+   Title: Associate Head Coach
+   Original line: Paul Babba Associate Head Coach babbapp@ucmail.uc.edu
+
+24. Olivia Silverman
+   Email: silverom@ucmail.uc.edu
+   Username: silverom
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Olivia Silverman Assistant Coach silverom@ucmail.uc.edu
+
+25. Ella Rogers
+   Email: rogere@ucmail.uc.edu
+   Username: rogere
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ella Rogers Assistant Coach rogere@ucmail.uc.edu
+
+26. Swimming &
+   Email: mandy.disalle@uc.edu
+   Username: mandy.disalle
+   Sports: Swimming
+   Title: & Diving Head Coach
+   Original line: Swimming & Diving Head Coach mandy.disalle@uc.edu
+
+27. Joey Ferreri
+   Email: joseph.ferreri@uc.edu
+   Username: joseph.ferreri
+   Sports: Soccer
+   Title: Associate Head Coach
+   Original line: Joey Ferreri Associate Head Coach joseph.ferreri@uc.edu
+
+28. Blake Hanna
+   Email: hannaba@ucmail.uc.edu
+   Username: hannaba
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Blake Hanna Assistant Coach hannaba@ucmail.uc.edu
+
+29. Scott Stern
+   Email: sternsm@ucmail.uc.edu
+   Username: sternsm
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Scott Stern Assistant Coach sternsm@ucmail.uc.edu
+
+30. Ben Herboth
+   Email: herbotbj@ucmail.uc.edu
+   Username: herbotbj
+   Sports: Soccer
+   Title: Diving Coach
+   Original line: Ben Herboth Diving Coach herbotbj@ucmail.uc.edu
+
+31. Emily Hetzer
+   Email: hetzerea@ucmail.uc.edu
+   Username: hetzerea
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emily Hetzer Assistant Coach hetzerea@ucmail.uc.edu
+
+32. Eric Toth
+   Email: eric.toth@uc.edu
+   Username: eric.toth
+   Sports: Tennis
+   Title: Women's Tennis Head Coach
+   Original line: Eric Toth Women's Tennis Head Coach eric.toth@uc.edu
+
+33. Erich Sullins
+   Email: sullinen@ucmail.uc.edu
+   Username: sullinen
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erich Sullins Assistant Coach (Throws) sullinen@ucmail.uc.edu
+
+34. Jed Helker
+   Email: helkerje@ucmail.uc.edu
+   Username: helkerje
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jed Helker Assistant Coach (Distance) helkerje@ucmail.uc.edu
+
+35. Danijela 
+   Email: tomicda@ucmail.uc.edu
+   Username: tomicda
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Danijela Tomić Head Coach tomicda@ucmail.uc.edu
+
+36. Alison Cooke
+   Email: cookeas@ucmail.uc.edu
+   Username: cookeas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alison Cooke Assistant Coach cookeas@ucmail.uc.edu
+
+37. Sean Drexl
+   Email: drexlsn@ucmail.uc.edu
+   Username: drexlsn
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Drexl Assistant Coach drexlsn@ucmail.uc.edu
+
+38. Abby Rogers
+   Email: kelly2ao@mail.uc.edu
+   Username: kelly2ao
+   Sports: Soccer
+   Title: Coach - Cheer
+   Original line: Coach - Cheer 3463 kelly2ao@mail.uc.edu
+
+39. Christian Vias
+   Email: 
+   Username: christian.vias
+   Sports: Soccer
+   Title: Assistant Coach - Cheer
+   Original line: Christian Vias Assistant Coach - Cheer
+
+40. Stephanie Rogers
+   Email: 
+   Username: stephanie.rogers
+   Sports: Soccer
+   Title: Assistant Coach - Dance
+   Original line: Stephanie Rogers Assistant Coach - Dance
+
+41. Rachel Reese
+   Email: 
+   Username: rachel.reese
+   Sports: Soccer
+   Title: Assistant Coach - Dance
+   Original line: Rachel Reese Assistant Coach - Dance
+
+42. Cameron Dietz
+   Email: dietzc5@ucmail.uc.edu
+   Username: dietzc5
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach dietzc5@ucmail.uc.edu
+
+43. Micaela Stingley
+   Email: serranml@ucmail.uc.edu
+   Username: serranml
+   Sports: Soccer
+   Title: Performance Coach
+   Original line: Performance Coach serranml@ucmail.uc.edu
+
+44. Mac Bosel
+   Email: boselmi@ucmail.uc.edu
+   Username: boselmi
+   Sports: Soccer
+   Title: Coaching Coordinator
+   Original line: Coaching Coordinator 0040 boselmi@ucmail.uc.edu
+
+45. Tyler Dellerman
+   Email: Dellertr@ucmail.uc.edu
+   Username: Dellertr
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Wes Miller Head Coach Dellertr@ucmail.uc.edu
+
+46. Seth Logue
+   Email: loguesm@mail.uc.edu
+   Username: loguesm
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chad Dollar Associate Head Coach loguesm@mail.uc.edu
+
+47.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach/Recruiting
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach/Recruiting
+
+48. Adam Luckey
+   Email: luckeyak@mail.uc.edu
+   Username: luckeyak
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tim Buckley Assistant Coach luckeyak@mail.uc.edu
+
+49. Bill Chief
+   Email: comarwt@ucmail.uc.edu
+   Username: comarwt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mamadou N'Diaye Assistant Coach comarwt@ucmail.uc.edu
+
+50.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach / Director of Player
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach / Director of Player
+
+51. Mike Rehfeldt
+   Email: rehfelml@ucmail.uc.edu
+   Username: rehfelml
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Head Coach rehfelml@ucmail.uc.edu
+
+52. Ashley Barlow
+   Email: ashley.barlow@uc.edu
+   Username: ashley.barlow
+   Sports: Soccer
+   Title: Assistant Coach / Offensive
+   Original line: Assistant Coach / Offensive 513-556- ashley.barlow@uc.edu
+
+53.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach / Recruiting 513-556-
+
+54. Kabrina 
+   Email: 
+   Username: kabrina
+   Sports: Soccer
+   Title: Assistant Coach / Director of
+   Original line: Kabrina Assistant Coach / Director of 513-556-
+
+55. Abby Jump
+   Email: abby.jump@uc.edu
+   Username: abby.jump
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach 2360 abby.jump@uc.edu
+
+56. Elise Sum
+   Email: sumee@ucmail.uc.edu
+   Username: sumee
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Scott Satterfield Head Coach sumee@ucmail.uc.edu
+
+57.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 4110
+
+58. Adam Braithwaite
+   Email: 
+   Username: adam.braithwaite
+   Sports: Soccer
+   Title: Assistant Coach / Safeties
+   Original line: Adam Braithwaite Assistant Coach / Safeties
+
+59. Nic Cardwell
+   Email: 
+   Username: nic.cardwell
+   Sports: Soccer
+   Title: Assistant Coach / Offensive Line
+   Original line: Nic Cardwell Assistant Coach / Offensive Line
+
+60. Sean Dawkins
+   Email: 
+   Username: sean.dawkins
+   Sports: Soccer
+   Title: Assistant Coach / Running Backs
+   Original line: Sean Dawkins Assistant Coach / Running Backs
+
+61. Eddie Hicks
+   Email: 
+   Username: eddie.hicks
+   Sports: Soccer
+   Title: Assistant Coach / Cornerbacks
+   Original line: Eddie Hicks Assistant Coach / Cornerbacks
+
+62. Josh Stepp
+   Email: 
+   Username: josh.stepp
+   Sports: Soccer
+   Title: Assistant Coach / Tight Ends
+   Original line: Josh Stepp Assistant Coach / Tight Ends
+
+63. Walter Stewart
+   Email: 
+   Username: walter.stewart
+   Sports: Soccer
+   Title: Assistant Coach - Defensive Line
+   Original line: Walter Stewart Assistant Coach - Defensive Line
+
+64. Pete Thomas
+   Email: 
+   Username: pete.thomas
+   Sports: Soccer
+   Title: Assistant Coach / Quarterbacks
+   Original line: Pete Thomas Assistant Coach / Quarterbacks
+
+65. David Flores
+   Email: 
+   Username: david.flores
+   Sports: Soccer
+   Title: David Flores Assistant Offensive Line Coach
+   Original line: David Flores Assistant Offensive Line Coach
+
+66. Curtis Fitch
+   Email: 
+   Username: curtis.fitch
+   Sports: Soccer
+   Title: Curtis Fitch Assistant Tight Ends Coach
+   Original line: Curtis Fitch Assistant Tight Ends Coach
+
+67. Roger Carter
+   Email: 
+   Username: roger.carter
+   Sports: Soccer
+   Title: Roger Carter Assistant Running Backs Coach
+   Original line: Roger Carter Assistant Running Backs Coach
+
+68. Theo Lemon
+   Email: 
+   Username: theo.lemon
+   Sports: Soccer
+   Title: Theo Lemon Assistant Defensive Line Coach
+   Original line: Theo Lemon Assistant Defensive Line Coach
+
+69. Austin Frick
+   Email: 
+   Username: austin.frick
+   Sports: Golf
+   Title: Assistant Coach
+   Original line: Austin Frick Men's Golf Assistant Coach
+
+70. Alex Giles
+   Email: 
+   Username: alex.giles
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Alex Giles Women's Golf Coach
+
+71. Brad Bolton
+   Email: 
+   Username: brad.bolton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brad Bolton Assistant Coach
+
+72.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Associate Head Coach, Men's Track 513-556-
+
+73. Susan Seaton
+   Email: susan.seaton@uc.edu
+   Username: susan.seaton
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Nadine Faustin- Associate Head Coach, Women's 919-673- susan.seaton@uc.edu
+
+74. Chris Wineberg
+   Email: winebect@ucmail.uc.edu
+   Username: winebect
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach/Pole
+   Original line: Assistant Track & Field Coach/Pole 630-696- winebect@ucmail.uc.edu
+
+75. Nadine Faustin
+   Email: Nadine.Faustin-Parker@uc.edu
+   Username: Nadine.Faustin-Parker
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Associate Head Coach Men’s & Nadine.Faustin-Parker@uc.edu
+
+76. Sam Kranz
+   Email: samuel.kranz@uc.edu
+   Username: samuel.kranz
+   Sports: Track & Field
+   Title: Coach Track & Field
+   Original line: Coach Track & Field samuel.kranz@uc.edu
+
+77. Lucas Rothenberger
+   Email: lucas.rothenberger@uc.edu
+   Username: lucas.rothenberger
+   Sports: Soccer
+   Title: Brendan Boyd Volunteer Coach
+   Original line: Brendan Boyd Volunteer Coach lucas.rothenberger@uc.edu
+
+78. Volunteer 
+   Email: 
+   Username: volunteer
+   Sports: Soccer
+   Title: Volunteer Coach
+   Original line: Volunteer Coach
+
+79. Chris Volunteer
+   Email: 
+   Username: chris.volunteer
+   Sports: Soccer
+   Title: Chris Borzor Volunteer Coach
+   Original line: Chris Borzor Volunteer Coach
+
+80. Victoria Volunteer
+   Email: 
+   Username: victoria.volunteer
+   Sports: Soccer
+   Title: Victoria Abunaw Volunteer Coach
+   Original line: Victoria Abunaw Volunteer Coach
+
+81. Alec Volunteer
+   Email: 
+   Username: alec.volunteer
+   Sports: Soccer
+   Title: Alec Sandusky Volunteer Coach
+   Original line: Alec Sandusky Volunteer Coach
+
+82.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach/Recruiting
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Associate Head Coach/Recruiting
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Tim Murphy Assistant Coach - Cheer uccheerleading@yahoo.com
+• Johnny Downey Assistant Coach - Cheer uccheerleading@yahoo.com
+• Chris Helmers Assistant Coach - Cheer helmerca@ucmail.uc.edu
+• Courtney Dang Head Coach - Dance dangca@ucmail.uc.edu
+• Jordan Bischel Head Coach baseball@ucmail.uc.edu
+• Kyle Pettoruto Assistant Coach pettorkg@ucmail.uc.edu
+• Tom Winske Assistant Coach winsketp@ucmail.uc.edu
+• Tayler Sheriff Assistant Coach sheriftr@ucmail.uc.edu
+• Ashley Hecimovich Executive to the Head Coach hecimoay@ucmail.uc.edu
+• Vijay Stingley Inside Receivers Coach stinglvy@ucmail.uc.edu
+• Robert Nunn Senior Advisor to the Head Coach nunnrt@ucmail.uc.edu
+• Tim Conner Assistant Special Teams Coach connertj@ucmail.uc.edu
+• Josh Runda Assistant Safeties Coach rundaja@ucmail.uc.edu
+• Jacob Brandon Assistant Linebackers Coach brandojb@ucmail.uc.edu
+• Chris Canada Assistant Quarterbacks Coach canadacr@mail.uc.edu
+• Grant Gourley Assistant Cornerbacks Coach gourlegm@mail.uc.edu
+• Doug Martin Men's Golf Head Coach martidg@uc.edu
+• Aimee Ponte Head Coach ponteae@ucmail.uc.edu
+• Gina Thomas Head Coach gina.oliver@uc.edu
+• Jamie Redding Assistant Coach reddinje@ucmail.uc.edu
+• Zach Tamburello Assistant Coach tamburpz@ucmail.uc.edu
+• Erica Demers Head Coach demersea@ucmail.uc.edu
+• Paul Babba Associate Head Coach babbapp@ucmail.uc.edu
+• Olivia Silverman Assistant Coach silverom@ucmail.uc.edu
+• Ella Rogers Assistant Coach rogere@ucmail.uc.edu
+• Swimming & Diving Head Coach mandy.disalle@uc.edu
+• Joey Ferreri Associate Head Coach joseph.ferreri@uc.edu
+• Blake Hanna Assistant Coach hannaba@ucmail.uc.edu
+• Scott Stern Assistant Coach sternsm@ucmail.uc.edu
+• Ben Herboth Diving Coach herbotbj@ucmail.uc.edu
+• Emily Hetzer Assistant Coach hetzerea@ucmail.uc.edu
+• Eric Toth Women's Tennis Head Coach eric.toth@uc.edu
+• Erich Sullins Assistant Coach (Throws) sullinen@ucmail.uc.edu
+• Jed Helker Assistant Coach (Distance) helkerje@ucmail.uc.edu
+• Danijela Tomić Head Coach tomicda@ucmail.uc.edu
+• Alison Cooke Assistant Coach cookeas@ucmail.uc.edu
+• Sean Drexl Assistant Coach drexlsn@ucmail.uc.edu

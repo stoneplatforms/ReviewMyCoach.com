@@ -1,0 +1,299 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:47
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Hampden-Sydney College
+Organization: Hampden-Sydney College Athletics
+
+Total coaches found: 36
+
+PARSED ENTRIES:
+----------------------------------------
+1. Chad Eisele
+   Email: ceisele@hsc.edu
+   Username: ceisele
+   Sports: Golf
+   Title: Director of Athletics/Assistant Golf Coach
+   Original line: Chad Eisele Director of Athletics/Assistant Golf Coach ceisele@hsc.edu (434) 223-
+
+2. Michael Mulvey
+   Email: mmulvey@hsc.edu
+   Username: mmulvey
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Michael Mulvey Head Baseball Coach mmulvey@hsc.edu (434) 223-
+
+3. Chad Wien
+   Email: cwien@hsc.edu
+   Username: cwien
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Chad Wien Assistant Baseball Coach cwien@hsc.edu (434) 223-
+
+4. Billy Catron
+   Email: bcatron@hsc.edu
+   Username: bcatron
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Billy Catron Assistant Baseball Coach bcatron@hsc.edu (434) 223-
+
+5. Caleb Kimbrough
+   Email: ckimbrough@hsc.edu
+   Username: ckimbrough
+   Sports: Basketball
+   Title: Head Basketball Coach
+   Original line: Caleb Kimbrough Head Basketball Coach ckimbrough@hsc.edu (434) 223-
+
+6. Bryson Gibson
+   Email: bgibson@hsc.edu
+   Username: bgibson
+   Sports: Basketball
+   Title: Associate Head Basketball Coach
+   Original line: Bryson Gibson Associate Head Basketball Coach bgibson@hsc.edu (434) 223-
+
+7. Carson Long
+   Email: clong@hsc.edu
+   Username: clong
+   Sports: Basketball
+   Title: Assistant Basketball Coach
+   Original line: Carson Long Assistant Basketball Coach clong@hsc.edu (434) 223-
+
+8. Zach Hinton
+   Email: zhinton@hsc.edu
+   Username: zhinton
+   Sports: Basketball
+   Title: Assistant Basketball Coach
+   Original line: Zach Hinton Assistant Basketball Coach zhinton@hsc.edu (434) 223-
+
+9. Intramurals 
+   Email: jdeaton@hsc.edu
+   Username: jdeaton
+   Sports: Basketball
+   Title: Jared Deaton Head Cross County & Distance Track Coach / Director of Club Sports
+   Original line: Jared Deaton Head Cross County & Distance Track Coach / Director of Club Sports and Intramurals jdeaton@hsc.edu (434) 223-
+
+10. Vince Luvara
+   Email: vluvara@hsc.edu
+   Username: vluvara
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Vince Luvara Head Football Coach vluvara@hsc.edu (434) 223-
+
+11. Zach Zullinger
+   Email: wzullinger@hsc.edu
+   Username: wzullinger
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Zach Zullinger '07 Assistant Football Coach: Linebackers/Special Teams Coordinator/Recruiting wzullinger@hsc.edu (434) 223-
+
+12. David Clark
+   Email: dclark@hsc.edu
+   Username: dclark
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: David Clark, Jr. Assistant Football Coach: Defensive Coordinator/Safeties/Equipment dclark@hsc.edu (434) 223-
+
+13. Max Beal
+   Email: mbeal@hsc.edu
+   Username: mbeal
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Max Beal Assistant Football Coach: Offensive Coordinator/Offensive Line/Director of Football mbeal@hsc.edu (434) 223-
+
+14. Teddy Spooner
+   Email: tspooner@hsc.edu
+   Username: tspooner
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Teddy Spooner Assistant Football Coach: Quarterbacks/Pass Game Coordinator/Director of tspooner@hsc.edu (434) 223-
+
+15. Jadin Davis
+   Email: jcdavis@hsc.edu
+   Username: jcdavis
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Jadin Davis Assistant Football Coach: Cornerbacks/Asst. Special Teams Coordinator/Asst. jcdavis@hsc.edu (434) 223-
+
+16. William Edgar
+   Email: wedgar@hsc.edu
+   Username: wedgar
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: William Edgar Assistant Football Coach: Defensive Line/Video Coordinator/Asst. Recruiting wedgar@hsc.edu (434) 223-
+
+17. Tayshaun Porter
+   Email: tporter@hsc.edu
+   Username: tporter
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Tayshaun Porter Assistant Football Coach: Wide Receivers/Asst. Recruiting Coordinator tporter@hsc.edu (434) 223-
+
+18. Tyler Peterson
+   Email: tpeterson@hsc.edu
+   Username: tpeterson
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Tyler Peterson Assistant Football Coach: Tight Ends/Asst. Special Teams Coordinator/Asst. Director tpeterson@hsc.edu (434) 223-
+
+19. Duncan Wheeler
+   Email: dwheeler@hsc.edu
+   Username: dwheeler
+   Sports: Football
+   Title: Head Golf Coach
+   Original line: Duncan Wheeler Head Golf Coach dwheeler@hsc.edu (434) 223-
+
+20. Chad Eisele
+   Email: ceisele@hsc.edu
+   Username: ceisele
+   Sports: Football
+   Title: Director of Athletics/Assistant Golf Coach
+   Original line: Chad Eisele Director of Athletics/Assistant Golf Coach ceisele@hsc.edu (434) 223-
+
+21. Jason Rostan
+   Email: jrostan@hsc.edu
+   Username: jrostan
+   Sports: Lacrosse
+   Title: Head Lacrosse Coach
+   Original line: Jason Rostan '03 Head Lacrosse Coach jrostan@hsc.edu (434) 223-
+
+22. Jared Krikorian
+   Email: jkrikorian@hsc.edu
+   Username: jkrikorian
+   Sports: Lacrosse
+   Title: Assistant Lacrosse Coach
+   Original line: Jared Krikorian Assistant Lacrosse Coach jkrikorian@hsc.edu (434) 223-
+
+23. Paul Amos
+   Email: pamos@hsc.edu
+   Username: pamos
+   Sports: Lacrosse
+   Title: Regional Development Officer for Athletics/Assistant Lacrosse Coach
+   Original line: Paul Amos '92 Regional Development Officer for Athletics/Assistant Lacrosse Coach pamos@hsc.edu (434) 223-
+
+24. Cole Hogan
+   Email: chogan@hsc.edu
+   Username: chogan
+   Sports: Lacrosse
+   Title: Assistant Lacrosse Coach
+   Original line: Cole Hogan Assistant Lacrosse Coach chogan@hsc.edu (434) 223-
+
+25. Tommy DiNuzzo
+   Email: tdinuzzo@hsc.edu
+   Username: tdinuzzo
+   Sports: Soccer
+   Title: Head Soccer Coach
+   Original line: Tommy DiNuzzo Head Soccer Coach tdinuzzo@hsc.edu (434) 223-
+
+26. Andrew Longhurst
+   Email: alonghurst@hsc.edu
+   Username: alonghurst
+   Sports: Soccer
+   Title: Assistant Soccer Coach
+   Original line: Andrew Longhurst Assistant Soccer Coach alonghurst@hsc.edu (434) 223-
+
+27. Yugo Suzuki
+   Email: YSuzuki@hsc.edu
+   Username: YSuzuki
+   Sports: Soccer
+   Title: Assistant Soccer Coach
+   Original line: Yugo Suzuki Assistant Soccer Coach YSuzuki@hsc.edu (434) 223-
+
+28. Grayson Burns
+   Email: gburns@hsc.edu
+   Username: gburns
+   Sports: Soccer
+   Title: Head Tennis Coach
+   Original line: Grayson Burns '20 Head Tennis Coach gburns@hsc.edu (434) 223-
+
+29. Rick Godsey
+   Email: rgodsey@hsc.edu
+   Username: rgodsey
+   Sports: Soccer
+   Title: Assistant Tennis Coach
+   Original line: Rick Godsey '85 Assistant Tennis Coach rgodsey@hsc.edu
+
+30. Daniel Weese
+   Email: DWeese@hsc.edu
+   Username: DWeese
+   Sports: Soccer
+   Title: Assistant Tennis Coach
+   Original line: Daniel Weese, Ph.D. Assistant Tennis Coach DWeese@hsc.edu
+
+31. Seth Trujillo
+   Email: strujillo@hsc.edu
+   Username: strujillo
+   Sports: Soccer
+   Title: Head Club Rugby Coach
+   Original line: Seth Trujillo Head Club Rugby Coach strujillo@hsc.edu
+
+32. Kyle Lafayette
+   Email: 
+   Username: kyle.lafayette
+   Sports: Soccer
+   Title: Kyle Lafayette Assistant Football Coach
+   Original line: Kyle Lafayette Assistant Football Coach: Nickels
+
+33. Thomas Robinson
+   Email: 
+   Username: thomas.robinson
+   Sports: Soccer
+   Title: Thomas Robinson Assistant Football Coach
+   Original line: Thomas Robinson Assistant Football Coach: Running Backs
+
+34. Deke Summers
+   Email: 
+   Username: deke.summers
+   Sports: Soccer
+   Title: Assistant Football Coach
+   Original line: Deke Summers '67 Assistant Football Coach: Senior Offensive Consultant/Asst. Quarterbacks
+
+35. Joe Freeland
+   Email: 
+   Username: joe.freeland
+   Sports: Soccer
+   Title: Joe Freeland Assistant Football Coach
+   Original line: Joe Freeland Assistant Football Coach: Outside Linebackers
+
+36. Kent Dickey
+   Email: 
+   Username: kent.dickey
+   Sports: Soccer
+   Title: Kent Dickey Assistant Soccer Coach
+   Original line: Kent Dickey Assistant Soccer Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Chad Eisele Director of Athletics/Assistant Golf Coach ceisele@hsc.edu (434) 223-
+• Michael Mulvey Head Baseball Coach mmulvey@hsc.edu (434) 223-
+• Chad Wien Assistant Baseball Coach cwien@hsc.edu (434) 223-
+• Billy Catron Assistant Baseball Coach bcatron@hsc.edu (434) 223-
+• Caleb Kimbrough Head Basketball Coach ckimbrough@hsc.edu (434) 223-
+• Bryson Gibson Associate Head Basketball Coach bgibson@hsc.edu (434) 223-
+• Carson Long Assistant Basketball Coach clong@hsc.edu (434) 223-
+• Zach Hinton Assistant Basketball Coach zhinton@hsc.edu (434) 223-
+• Jared Deaton Head Cross County & Distance Track Coach / Director of Club Sports and Intramurals jdeaton@hsc.edu (434) 223-
+• Vince Luvara Head Football Coach vluvara@hsc.edu (434) 223-
+• Zach Zullinger '07 Assistant Football Coach: Linebackers/Special Teams Coordinator/Recruiting wzullinger@hsc.edu (434) 223-
+• David Clark, Jr. Assistant Football Coach: Defensive Coordinator/Safeties/Equipment dclark@hsc.edu (434) 223-
+• Max Beal Assistant Football Coach: Offensive Coordinator/Offensive Line/Director of Football mbeal@hsc.edu (434) 223-
+• Teddy Spooner Assistant Football Coach: Quarterbacks/Pass Game Coordinator/Director of tspooner@hsc.edu (434) 223-
+• Jadin Davis Assistant Football Coach: Cornerbacks/Asst. Special Teams Coordinator/Asst. jcdavis@hsc.edu (434) 223-
+• William Edgar Assistant Football Coach: Defensive Line/Video Coordinator/Asst. Recruiting wedgar@hsc.edu (434) 223-
+• Tayshaun Porter Assistant Football Coach: Wide Receivers/Asst. Recruiting Coordinator tporter@hsc.edu (434) 223-
+• Tyler Peterson Assistant Football Coach: Tight Ends/Asst. Special Teams Coordinator/Asst. Director tpeterson@hsc.edu (434) 223-
+• Duncan Wheeler Head Golf Coach dwheeler@hsc.edu (434) 223-
+• Chad Eisele Director of Athletics/Assistant Golf Coach ceisele@hsc.edu (434) 223-
+• Jason Rostan '03 Head Lacrosse Coach jrostan@hsc.edu (434) 223-
+• Jared Krikorian Assistant Lacrosse Coach jkrikorian@hsc.edu (434) 223-
+• Paul Amos '92 Regional Development Officer for Athletics/Assistant Lacrosse Coach pamos@hsc.edu (434) 223-
+• Cole Hogan Assistant Lacrosse Coach chogan@hsc.edu (434) 223-
+• Tommy DiNuzzo Head Soccer Coach tdinuzzo@hsc.edu (434) 223-
+• Andrew Longhurst Assistant Soccer Coach alonghurst@hsc.edu (434) 223-
+• Yugo Suzuki Assistant Soccer Coach YSuzuki@hsc.edu (434) 223-
+• Grayson Burns '20 Head Tennis Coach gburns@hsc.edu (434) 223-
+• Rick Godsey '85 Assistant Tennis Coach rgodsey@hsc.edu
+• Daniel Weese, Ph.D. Assistant Tennis Coach DWeese@hsc.edu
+• Seth Trujillo Head Club Rugby Coach strujillo@hsc.edu

@@ -1,0 +1,538 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:39
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Towson University
+Organization: Towson University Athletics
+
+Total coaches found: 67
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dylan Wardle
+   Email: dewardle@towson.edu
+   Username: dewardle
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Dylan Wardle Assistant Strength and Conditioning Coach dewardle@towson.edu
+
+2. Matt Tyner
+   Email: mtyner@towson.edu
+   Username: mtyner
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Matt Tyner Head Coach mtyner@towson.edu
+
+3. Pitching 
+   Email: mruppenthal@towson.edu
+   Username: mruppenthal
+   Sports: Baseball
+   Title: Mike Ruppenthal Associate Head Coach /
+   Original line: Mike Ruppenthal Associate Head Coach / Pitching Coach mruppenthal@towson.edu
+
+4. J.D. Pulfer
+   Email: jdpulfer@towson.edu
+   Username: jdpulfer
+   Sports: Baseball
+   Title: J.D. Assistant Coach /
+   Original line: J.D. Pulfer Assistant Coach / Recruiting Coordinator jdpulfer@towson.edu
+
+5. Joel 
+   Email: javina@towson.edu
+   Username: javina
+   Sports: Baseball
+   Title: a Assistant Coach
+   Original line: Joel Aviña Assistant Coach javina@towson.edu
+
+6. Pat Skerry
+   Email: pskerry@towson.edu
+   Username: pskerry
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Pat Skerry Head Coach pskerry@towson.edu 410-704-
+
+7. Roster Management
+   Email: poconnell@towson.edu
+   Username: poconnell
+   Sports: Baseball
+   Title: Pat O'Connell Associate Head Coach/Director of
+   Original line: Pat O'Connell Associate Head Coach/Director of Roster Management poconnell@towson.edu 410-704-
+
+8. Student-Athlete Development
+   Email: pbiteemoto@towson.edu
+   Username: pbiteemoto
+   Sports: Baseball
+   Title: Parfait Bitee Associate Head Coach/Director of
+   Original line: Parfait Bitee Associate Head Coach/Director of Student-Athlete Development pbiteemoto@towson.edu 410-704-
+
+9. Chris Conway
+   Email: cconway@towson.edu
+   Username: cconway
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Chris Conway Assistant Coach/Recruiting Coordinator cconway@towson.edu 410-704-
+
+10. John Auslander
+   Email: jauslander@towson.edu
+   Username: jauslander
+   Sports: Baseball
+   Title: Assistant Coach/Offensive Coordinator
+   Original line: John Auslander Assistant Coach/Offensive Coordinator jauslander@towson.edu
+
+11. Beruk Asfaw
+   Email: basfaw@towson.edu
+   Username: basfaw
+   Sports: Baseball
+   Title: Assistant Coach/Director of
+   Original line: Beruk Asfaw Assistant Coach/Director of Basketball Operations basfaw@towson.edu
+
+12. Eric Atkins
+   Email: eatkins@towson.edu
+   Username: eatkins
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Eric Atkins Associate Head Coach eatkins@towson.edu
+
+13. Tony DiClemente
+   Email: adiclemente@towson.edu
+   Username: adiclemente
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tony DiClemente Assistant Coach adiclemente@towson.edu
+
+14. Zion Sanders
+   Email: zsanders@towson.edu
+   Username: zsanders
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Zion Sanders Assistant Coach zsanders@towson.edu
+
+15. General 
+   Email: lkhalil@towson.edu
+   Username: lkhalil
+   Sports: Baseball
+   Title: Lorie Khalil Assistant Coach /
+   Original line: Lorie Khalil Assistant Coach / General Manager lkhalil@towson.edu
+
+16. Nick Boboshko
+   Email: nboboshko@towson.edu
+   Username: nboboshko
+   Sports: Baseball
+   Title: Assistant Coach / Director
+   Original line: Nick Boboshko Assistant Coach / Director of Operations nboboshko@towson.edu
+
+17. Eugene Younger
+   Email: eugeneyounger@towson.edu
+   Username: eugeneyounger
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Eugene Younger Head Coach eugeneyounger@towson.edu
+
+18. Consandria Walker-Hall
+   Email: cwalkerhall@towson.edu
+   Username: cwalkerhall
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Consandria Walker-Hall Head Coach cwalkerhall@towson.edu 410-704-
+
+19. Evan Freeman
+   Email: efreeman@towson.edu
+   Username: efreeman
+   Sports: Baseball
+   Title: Assistant Coach - Mid-Distance & Distance
+   Original line: Evan Freeman Assistant Coach - Mid-Distance & Distance efreeman@towson.edu
+
+20. Lonnie Pugh
+   Email: lpugh@towson.edu
+   Username: lpugh
+   Sports: Baseball
+   Title: Assistant Coach - Throws
+   Original line: Lonnie Pugh Assistant Coach - Throws lpugh@towson.edu
+
+21. Zach Brown
+   Email: zkbrown@towson.edu
+   Username: zkbrown
+   Sports: Baseball
+   Title: Assistant Coach - Sprints/Hurdles
+   Original line: Zach Brown Assistant Coach - Sprints/Hurdles zkbrown@towson.edu 410-704-
+
+22. Katie Gerzabek
+   Email: ksalem@towson.edu
+   Username: ksalem
+   Sports: Track & Field
+   Title: Salem Head Coach
+   Original line: Katie Gerzabek Salem Head Coach ksalem@towson.edu 410-704-
+
+23. Noelle Frost
+   Email: nafrost@towson.edu
+   Username: nafrost
+   Sports: Track & Field
+   Title: Associate Head Coach
+   Original line: Noelle Frost Associate Head Coach nafrost@towson.edu 443-878-
+
+24. Pete Shinnick
+   Email: pshinnick@towson.edu
+   Username: pshinnick
+   Sports: Football
+   Title: Head Coach
+   Original line: Pete Shinnick Head Coach pshinnick@towson.edu
+
+25. Mike Larkin
+   Email: mtlarkin@towson.edu
+   Username: mtlarkin
+   Sports: Football
+   Title: Head Coach
+   Original line: Mike Larkin Head Coach mtlarkin@towson.edu 410-704-
+
+26. Brian Sadler
+   Email: bsadler@towson.edu
+   Username: bsadler
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Brian Sadler Associate Head Coach bsadler@towson.edu
+
+27. Mike Larkin
+   Email: mtlarkin@towson.edu
+   Username: mtlarkin
+   Sports: Football
+   Title: Head Coach
+   Original line: Mike Larkin Head Coach mtlarkin@towson.edu 410-704-
+
+28. Rachel Yu
+   Email: ryu@towson.edu
+   Username: ryu
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Rachel Yu Associate Head Coach ryu@towson.edu
+
+29. Jay Ramirez
+   Email: sramirez@towson.edu
+   Username: sramirez
+   Sports: Football
+   Title: Head Coach
+   Original line: Jay Ramirez Head Coach sramirez@towson.edu 410-704-
+
+30. Ashley LeVine
+   Email: asauer@towson.edu
+   Username: asauer
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Ashley LeVine Associate Head Coach asauer@towson.edu 410-704-
+
+31. Jasmine Kauffman
+   Email: jkauff5@students.towson.edu
+   Username: jkauff5
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Jasmine Kauffman Volunteer Assistant Coach jkauff5@students.towson.edu
+
+32. Shawn Nadelen
+   Email: snadelen@towson.edu
+   Username: snadelen
+   Sports: Football
+   Title: Head Coach
+   Original line: Shawn Nadelen Head Coach snadelen@towson.edu 410-704-
+
+33. Steve Grossi
+   Email: sgrossi@towson.edu
+   Username: sgrossi
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Steve Grossi Assistant Coach, Defensive Coordinator sgrossi@towson.edu 410-704-
+
+34. Matt Musci
+   Email: mmusci@towson.edu
+   Username: mmusci
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matt Musci Assistant Coach, Offensive Coordinator mmusci@towson.edu 410-704-
+
+35. Andy Shilling
+   Email: ashilling@towson.edu
+   Username: ashilling
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Andy Shilling Assistant Coach ashilling@towson.edu 410-704-
+
+36. Kristen Carr
+   Email: kacarr@towson.edu
+   Username: kacarr
+   Sports: Football
+   Title: Head Coach
+   Original line: Kristen Carr Head Coach kacarr@towson.edu
+
+37. Rebecca Lane
+   Email: rnlane@towson.edu
+   Username: rnlane
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Rebecca Lane Assistant Coach rnlane@towson.edu
+
+38. Lyndsey 
+   Email: lmunoz@towson.edu
+   Username: lmunoz
+   Sports: Football
+   Title: oz Assistant Coach
+   Original line: Lyndsey Muñoz Assistant Coach lmunoz@towson.edu
+
+39. Kristin O'Neill
+   Email: keoneill@towson.edu
+   Username: keoneill
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Kristin O'Neill Assistant Coach keoneill@towson.edu
+
+40. Katherine Vettori
+   Email: kvettori@towson.edu
+   Username: kvettori
+   Sports: Football
+   Title: Head Coach
+   Original line: Katherine Vettori Head Coach kvettori@towson.edu
+
+41. Matt Dwyer
+   Email: mdwyer@towson.edu
+   Username: mdwyer
+   Sports: Football
+   Title: Associate Head Coach
+   Original line: Matt Dwyer Associate Head Coach mdwyer@towson.edu 410-704-
+
+42. Brad Hartin
+   Email: bhartin@towson.edu
+   Username: bhartin
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brad Hartin Assistant Coach bhartin@towson.edu 410-704-
+
+43. Lisa Costello
+   Email: lcostello@towson.edu
+   Username: lcostello
+   Sports: Softball
+   Title: Head Coach
+   Original line: Lisa Costello Head Coach lcostello@towson.edu 410-704-
+
+44. Jessie Mack
+   Email: jhutchens@towson.edu
+   Username: jhutchens
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jessie Mack Assistant Coach jhutchens@towson.edu 410-704-
+
+45. Alli Florian
+   Email: aflorian@towson.edu
+   Username: aflorian
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alli Florian Assistant Coach aflorian@towson.edu
+
+46. Anthony Bruno
+   Email: abruno@towson.edu
+   Username: abruno
+   Sports: Softball
+   Title: Head Coach
+   Original line: Anthony Bruno Head Coach abruno@towson.edu 410-704-
+
+47. Emilie Petit
+   Email: epetit@towson.edu
+   Username: epetit
+   Sports: Softball
+   Title: Assistant Coach / Women's
+   Original line: Emilie Petit Assistant Coach / Women's Recruiting Coordinator epetit@towson.edu
+
+48. Patrick Boyle
+   Email: patrickboyle@towson.edu
+   Username: patrickboyle
+   Sports: Softball
+   Title: Assistant Coach / Men's
+   Original line: Patrick Boyle Assistant Coach / Men's Recruiting Coordinator patrickboyle@towson.edu
+
+49. Sergey Meshcherskiy
+   Email: smeshcherskiy@towson.edu
+   Username: smeshcherskiy
+   Sports: Softball
+   Title: Diving Coach
+   Original line: Sergey Meshcherskiy Diving Coach smeshcherskiy@towson.edu
+
+50. Jamie Peterson
+   Email: jrpeterson@towson.edu
+   Username: jrpeterson
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jamie Peterson Head Coach jrpeterson@towson.edu 410-704-
+
+51. Don Metil
+   Email: dmetil@towson.edu
+   Username: dmetil
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Don Metil Head Coach dmetil@towson.edu 410-704-
+
+52. Terry Hutchinson
+   Email: thutchinson@towson.edu
+   Username: thutchinson
+   Sports: Volleyball
+   Title: Associate Head Coach
+   Original line: Terry Hutchinson Associate Head Coach thutchinson@towson.edu 410-704-
+
+53. Mariana Silva
+   Email: mdepaulasilva@towson.edu
+   Username: mdepaulasilva
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Mariana Silva Assistant Coach mdepaulasilva@towson.edu
+
+54. Laura Harper
+   Email: 
+   Username: laura.harper
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Laura Harper Head Coach 410-704-
+
+55. Zoe Rubinstein
+   Email: 
+   Username: zoe.rubinstein
+   Sports: Soccer
+   Title: Assistant Coach - Pole Vault
+   Original line: Zoe Rubinstein Assistant Coach - Pole Vault
+
+56. Piper Student
+   Email: 
+   Username: piper.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Piper Jons Student Assistant Coach
+
+57. Alex Line
+   Email: akolt@towson.edu
+   Username: akolt
+   Sports: Soccer
+   Title: Dave Gonzales Assistant Offensive Coach
+   Original line: Dave Gonzales Assistant Offensive Line Coach akolt@towson.edu
+
+58. Harry Backs
+   Email: wrichards@towson.edu
+   Username: wrichards
+   Sports: Soccer
+   Title: Assistant Wide Receivers Coach
+   Original line: Willie Taggart Jr. Assistant Wide Receivers Coach wrichards@towson.edu
+
+59. Harry Freeman
+   Email: 
+   Username: harry.freeman
+   Sports: Soccer
+   Title: Harry Freeman V Assistant Secondary Coach
+   Original line: Harry Freeman V Assistant Secondary Coach
+
+60. DJ Receivers
+   Email: dsteward@towson.edu
+   Username: dsteward
+   Sports: Soccer
+   Title: Shaun Kennedy Assistant Linebackers Coach
+   Original line: Shaun Kennedy Assistant Linebackers Coach dsteward@towson.edu
+
+61. Lance Yaniger
+   Email: lyaniger@towson.edu
+   Username: lyaniger
+   Sports: Soccer
+   Title: Jack Brooks Assistant Special Teams Coach
+   Original line: Jack Brooks Assistant Special Teams Coach lyaniger@towson.edu
+
+62. John Lee
+   Email: jhlee@towson.edu
+   Username: jhlee
+   Sports: Soccer
+   Title: Head Coach
+   Original line: David Sobczak Special Assistant to Head Coach jhlee@towson.edu
+
+63. Brock Goalkeeper
+   Email: 
+   Username: brock.goalkeeper
+   Sports: Soccer
+   Title: Brock Yetso Goalkeeper Coach
+   Original line: Brock Yetso Goalkeeper Coach
+
+64. Max Verheyen
+   Email: 
+   Username: max.verheyen
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Max Verheyen Assistant Coach
+
+65. Ivan Volunteer
+   Email: 
+   Username: ivan.volunteer
+   Sports: Soccer
+   Title: Ivan Rodriguez Volunteer Coach
+   Original line: Ivan Rodriguez Volunteer Coach
+
+66. Mike Volunteer
+   Email: 
+   Username: mike.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mike Edison Volunteer Assistant Coach
+
+67. Anna-Marie Graduate
+   Email: 
+   Username: anna.marie.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anna-Marie Kopecka Graduate Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dylan Wardle Assistant Strength and Conditioning Coach dewardle@towson.edu
+• Matt Tyner Head Coach mtyner@towson.edu
+• Mike Ruppenthal Associate Head Coach / Pitching Coach mruppenthal@towson.edu
+• J.D. Pulfer Assistant Coach / Recruiting Coordinator jdpulfer@towson.edu
+• Joel Aviña Assistant Coach javina@towson.edu
+• Pat Skerry Head Coach pskerry@towson.edu 410-704-
+• Pat O'Connell Associate Head Coach/Director of Roster Management poconnell@towson.edu 410-704-
+• Parfait Bitee Associate Head Coach/Director of Student-Athlete Development pbiteemoto@towson.edu 410-704-
+• Chris Conway Assistant Coach/Recruiting Coordinator cconway@towson.edu 410-704-
+• John Auslander Assistant Coach/Offensive Coordinator jauslander@towson.edu
+• Beruk Asfaw Assistant Coach/Director of Basketball Operations basfaw@towson.edu
+• Eric Atkins Associate Head Coach eatkins@towson.edu
+• Tony DiClemente Assistant Coach adiclemente@towson.edu
+• Zion Sanders Assistant Coach zsanders@towson.edu
+• Lorie Khalil Assistant Coach / General Manager lkhalil@towson.edu
+• Nick Boboshko Assistant Coach / Director of Operations nboboshko@towson.edu
+• Eugene Younger Head Coach eugeneyounger@towson.edu
+• Consandria Walker-Hall Head Coach cwalkerhall@towson.edu 410-704-
+• Evan Freeman Assistant Coach - Mid-Distance & Distance efreeman@towson.edu
+• Lonnie Pugh Assistant Coach - Throws lpugh@towson.edu
+• Zach Brown Assistant Coach - Sprints/Hurdles zkbrown@towson.edu 410-704-
+• Katie Gerzabek Salem Head Coach ksalem@towson.edu 410-704-
+• Noelle Frost Associate Head Coach nafrost@towson.edu 443-878-
+• Pete Shinnick Head Coach pshinnick@towson.edu
+• Mike Larkin Head Coach mtlarkin@towson.edu 410-704-
+• Brian Sadler Associate Head Coach bsadler@towson.edu
+• Mike Larkin Head Coach mtlarkin@towson.edu 410-704-
+• Rachel Yu Associate Head Coach ryu@towson.edu
+• Jay Ramirez Head Coach sramirez@towson.edu 410-704-
+• Ashley LeVine Associate Head Coach asauer@towson.edu 410-704-
+• Jasmine Kauffman Volunteer Assistant Coach jkauff5@students.towson.edu
+• Shawn Nadelen Head Coach snadelen@towson.edu 410-704-
+• Steve Grossi Assistant Coach, Defensive Coordinator sgrossi@towson.edu 410-704-
+• Matt Musci Assistant Coach, Offensive Coordinator mmusci@towson.edu 410-704-
+• Andy Shilling Assistant Coach ashilling@towson.edu 410-704-
+• Kristen Carr Head Coach kacarr@towson.edu
+• Rebecca Lane Assistant Coach rnlane@towson.edu
+• Lyndsey Muñoz Assistant Coach lmunoz@towson.edu
+• Kristin O'Neill Assistant Coach keoneill@towson.edu
+• Katherine Vettori Head Coach kvettori@towson.edu
+• Matt Dwyer Associate Head Coach mdwyer@towson.edu 410-704-
+• Brad Hartin Assistant Coach bhartin@towson.edu 410-704-
+• Lisa Costello Head Coach lcostello@towson.edu 410-704-
+• Jessie Mack Assistant Coach jhutchens@towson.edu 410-704-
+• Alli Florian Assistant Coach aflorian@towson.edu
+• Anthony Bruno Head Coach abruno@towson.edu 410-704-
+• Emilie Petit Assistant Coach / Women's Recruiting Coordinator epetit@towson.edu
+• Patrick Boyle Assistant Coach / Men's Recruiting Coordinator patrickboyle@towson.edu
+• Sergey Meshcherskiy Diving Coach smeshcherskiy@towson.edu
+• Jamie Peterson Head Coach jrpeterson@towson.edu 410-704-
+• Don Metil Head Coach dmetil@towson.edu 410-704-
+• Terry Hutchinson Associate Head Coach thutchinson@towson.edu 410-704-
+• Mariana Silva Assistant Coach mdepaulasilva@towson.edu

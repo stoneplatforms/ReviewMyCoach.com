@@ -1,0 +1,438 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:22
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Hiram College
+Organization: Hiram College Athletics
+
+Total coaches found: 54
+
+PARSED ENTRIES:
+----------------------------------------
+1. Ryan Nordquist
+   Email: NordquistR@Hiram.edu
+   Username: NordquistR
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Ryan Nordquist Assistant Baseball Coach (330) 569- NordquistR@Hiram.edu
+
+2. Mark Mohnickey
+   Email: MohnickeyM@hiram.edu
+   Username: MohnickeyM
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Mark Mohnickey Assistant Baseball Coach MohnickeyM@hiram.edu
+
+3. Pierce Cumpstone
+   Email: CumpstonePB@hiram.edu
+   Username: CumpstonePB
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Pierce Cumpstone Head Men's Basketball Coach (330) 569- CumpstonePB@hiram.edu
+
+4. Wynston Johnson
+   Email: JohnsonW@hiram.edu
+   Username: JohnsonW
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Wynston Johnson Assistant Men's Basketball Coach JohnsonW@hiram.edu
+
+5. Anastasia Lawler
+   Email: LawlerAQ@hiram.edu
+   Username: LawlerAQ
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Anastasia Lawler Assistant Women's Basketball Coach LawlerAQ@hiram.edu
+
+6. Xavier Dupree
+   Email: DupreeX@hiram.edu
+   Username: DupreeX
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Xavier Dupree Head Football Coach (330) 569- DupreeX@hiram.edu
+
+7. Tanner Niles
+   Email: NilesTA@Hiram.edu
+   Username: NilesTA
+   Sports: Football
+   Title: Head Coach/Defensive
+   Original line: Tanner Niles Assistant Head Coach/Defensive (330) 569- NilesTA@Hiram.edu
+
+8. Dallas Bruton
+   Email: BrutonDP@hiram.edu
+   Username: BrutonDP
+   Sports: Football
+   Title: Recruiting Coordinator/Quarterbacks Coach
+   Original line: Dallas Bruton Recruiting Coordinator/Quarterbacks Coach BrutonDP@hiram.edu
+
+9. Raequan Davis-Hereford
+   Email: DavisRH@hiram.edu
+   Username: DavisRH
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Raequan Davis-Hereford Wide Receivers Coach DavisRH@hiram.edu
+
+10. Davis Brumbaugh
+   Email: BrumbaughDS@hiram.edu
+   Username: BrumbaughDS
+   Sports: Football
+   Title: Cornerback Coach
+   Original line: Davis Brumbaugh Cornerback Coach BrumbaughDS@hiram.edu
+
+11. William Lay
+   Email: LayWE@hiram.edu
+   Username: LayWE
+   Sports: Football
+   Title: III Offensive Line Coach
+   Original line: William Lay III Offensive Line Coach LayWE@hiram.edu
+
+12. Andrew Winkler
+   Email: WinklerAH@hiram.edu
+   Username: WinklerAH
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: Andrew Winkler Defensive Line Coach WinklerAH@hiram.edu
+
+13. Michael Soltis
+   Email: SoltisMM@hiram.edu
+   Username: SoltisMM
+   Sports: Football
+   Title: Specialist Coach
+   Original line: Michael Soltis Specialist Coach SoltisMM@hiram.edu
+
+14. James Workman
+   Email: WorkmanJT@hiram.edu
+   Username: WorkmanJT
+   Sports: Football
+   Title: s Golf Coach
+   Original line: James Workman Head Men's and Women's Golf Coach (330) 389- WorkmanJT@hiram.edu
+
+15. Brennan Cain
+   Email: CainBP@hiram.edu
+   Username: CainBP
+   Sports: Football
+   Title: Assistant Men's and Women's Golf Coach
+   Original line: Brennan Cain Assistant Men's and Women's Golf Coach CainBP@hiram.edu
+
+16. James Workman
+   Email: WorkmanJT@hiram.edu
+   Username: WorkmanJT
+   Sports: Football
+   Title: s Golf Coach
+   Original line: James Workman Head Men's and Women's Golf Coach (330) 389- WorkmanJT@hiram.edu
+
+17. Brennan Cain
+   Email: CainBP@hiram.edu
+   Username: CainBP
+   Sports: Football
+   Title: Assistant Men's and Women's Golf Coach
+   Original line: Brennan Cain Assistant Men's and Women's Golf Coach CainBP@hiram.edu
+
+18. Jeffrey Curto
+   Email: CurtoJJ@hiram.edu
+   Username: CurtoJJ
+   Sports: Football
+   Title: s Ice Hockey Coach
+   Original line: Jeffrey Curto, Ph.D. Head Men's Ice Hockey Coach (330) 569- CurtoJJ@hiram.edu
+
+19. Joe Vandervere-Sarlanis
+   Email: VandervereJK@hiram.edu
+   Username: VandervereJK
+   Sports: Football
+   Title: Assistant Men's Ice Hockey Coach
+   Original line: Joe Vandervere-Sarlanis Assistant Men's Ice Hockey Coach VandervereJK@hiram.edu
+
+20. Jason Griffith
+   Email: GriffithJC@hiram.edu
+   Username: GriffithJC
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Jason Griffith Head Men's Lacrosse Coach (330) 569- GriffithJC@hiram.edu
+
+21. Mark Payton
+   Email: PaytonM@hiram.edu
+   Username: PaytonM
+   Sports: Football
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Mark Payton Assistant Men's Lacrosse Coach PaytonM@hiram.edu
+
+22. Maddie Wilson
+   Email: WilsonJ2@hiram.edu
+   Username: WilsonJ2
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Maddie Wilson Head Women's Lacrosse Coach WilsonJ2@hiram.edu
+
+23. Kaylee Szekeres
+   Email: SzekeresK@hiram.edu
+   Username: SzekeresK
+   Sports: Football
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Kaylee Szekeres Assistant Women's Lacrosse Coach SzekeresK@hiram.edu
+
+24. Joe Chmura
+   Email: ChmuraJ@hiram.edu
+   Username: ChmuraJ
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Joe Chmura Head Men's Soccer Coach (330) 569- ChmuraJ@hiram.edu
+
+25. Patrick Hartup
+   Email: HartupPP@hiram.edu
+   Username: HartupPP
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Patrick Hartup Assistant Men's Soccer Coach HartupPP@hiram.edu
+
+26. Omar Najjar
+   Email: NajjarOA@hiram.edu
+   Username: NajjarOA
+   Sports: Football
+   Title: Assistant Men's Soccer Coach
+   Original line: Omar Najjar Assistant Men's Soccer Coach NajjarOA@hiram.edu
+
+27. Mike Shiels
+   Email: ShielsM@hiram.edu
+   Username: ShielsM
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Mike Shiels Head Women's Soccer Coach (330) 569- ShielsM@hiram.edu
+
+28. Giselle Bahena
+   Email: BahenaG@hiram.edu
+   Username: BahenaG
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Giselle Bahena Head Softball Coach (330) 569- BahenaG@hiram.edu
+
+29. Gianna Araki
+   Email: ArakiGK@hiram.edu
+   Username: ArakiGK
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Gianna Araki Assistant Softball Coach ArakiGK@hiram.edu
+
+30. Brianna Burns
+   Email: BurnsBJ@hiram.edu
+   Username: BurnsBJ
+   Sports: Softball
+   Title: Head STUNT Coach
+   Original line: Brianna Burns Head STUNT Coach (330) 569- BurnsBJ@hiram.edu
+
+31. Matt Campbell
+   Email: CampbellM2@hiram.edu
+   Username: CampbellM2
+   Sports: Swimming
+   Title: Head Swimming & Diving Coach
+   Original line: Matt Campbell Head Swimming & Diving Coach (330) 569- CampbellM2@hiram.edu
+
+32. Kyle Martini
+   Email: MartiniKT@hiram.edu
+   Username: MartiniKT
+   Sports: Track & Field
+   Title: s Volleyball Coach
+   Original line: Kyle Martini Head Men's Volleyball Coach (330) 569- MartiniKT@hiram.edu
+
+33. Holly Hoffman
+   Email: hoffmanh@hiram.edu
+   Username: hoffmanh
+   Sports: Track & Field
+   Title: s Volleyball Coach
+   Original line: Holly Hoffman Assistant Men's & Women's Volleyball Coach (330) 569- hoffmanh@hiram.edu
+
+34. Paige Cole
+   Email: ColePA@hiram.edu
+   Username: ColePA
+   Sports: Track & Field
+   Title: Assistant Men's & Women's Volleyball Coach
+   Original line: Paige Cole Assistant Men's & Women's Volleyball Coach ColePA@hiram.edu
+
+35. Macy Interim
+   Email: RoellM@hiram.edu
+   Username: RoellM
+   Sports: Track & Field
+   Title: s Volleyball Coach
+   Original line: Macy Roell Interim Head Women's Volleyball Coach (330) 569- RoellM@hiram.edu
+
+36. Holly Hoffman
+   Email: hoffmanh@hiram.edu
+   Username: hoffmanh
+   Sports: Track & Field
+   Title: s Volleyball Coach
+   Original line: Holly Hoffman Assistant Men's & Women's Volleyball Coach (330) 569- hoffmanh@hiram.edu
+
+37. Paige Cole
+   Email: ColePA@hiram.edu
+   Username: ColePA
+   Sports: Track & Field
+   Title: Assistant Men's & Women's Volleyball Coach
+   Original line: Paige Cole Assistant Men's & Women's Volleyball Coach ColePA@hiram.edu
+
+38. Dustin Porter
+   Email: PorterD@hiram.edu
+   Username: PorterD
+   Sports: Track & Field
+   Title: s Wrestling Coach
+   Phone: (440) 487-3072
+   Original line: Dustin Porter Head Men's Wrestling Coach 440-487-3072 PorterD@hiram.edu
+
+39. Christy Powell
+   Email: PowellCM@hiram.edu
+   Username: PowellCM
+   Sports: Track & Field
+   Title: s Wrestling Coach
+   Original line: Christy Powell Head Women's Wrestling Coach (470) 269- PowellCM@hiram.edu
+
+40. Jim Johnston
+   Email: johnstonjw@hiram.edu
+   Username: johnstonjw
+   Sports: Basketball
+   Title: Basketball Coach
+   Original line: Basketball Coach 5352 johnstonjw@hiram.edu
+
+41. Jim Schweickert
+   Email: SchweickertJM@hiram.edu
+   Username: SchweickertJM
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 5348 SchweickertJM@hiram.edu
+
+42. Dave WBB
+   Email: bishoffd@hiram.edu
+   Username: bishoffd
+   Sports: Baseball
+   Title: Jim Diestel Assistant Baseball Coach
+   Original line: Jim Diestel Assistant Baseball Coach bishoffd@hiram.edu
+
+43. Alexandra Administrator
+   Email: DellasA1@hiram.edu
+   Username: DellasA1
+   Sports: Track & Field
+   Title: Country/Track & Field Coach
+   Original line: Country/Track & Field Coach 5941 DellasA1@hiram.edu
+
+44.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Country/Track & Field Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country/Track & Field Coach
+
+45.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coordinator/Safeties Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coordinator/Safeties Coach 5946
+
+46.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+47. Isaac Volunteer
+   Email: 
+   Username: isaac.volunteer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Isaac Keeno Volunteer Assistant Men's Lacrosse Coach
+
+48. Michael Volunteer
+   Email: 
+   Username: michael.volunteer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Michael Iodice Volunteer Assistant Men's Lacrosse Coach
+
+49. Jacob Volunteer
+   Email: 
+   Username: jacob.volunteer
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Jacob Hagenbaugh Volunteer Assistant Men's Soccer Coach
+
+50. Alec Eldridge
+   Email: EldridgeA1@hiram.edu
+   Username: EldridgeA1
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Molly Malachow Assistant Women's Soccer Coach EldridgeA1@hiram.edu
+
+51.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 5343
+
+52. Jason Volunteer
+   Email: grosellejm@hiram.edu
+   Username: grosellejm
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach (Throws) grosellejm@hiram.edu
+
+53. Ryan Kirst
+   Email: 
+   Username: ryan.kirst
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Ryan Kirst Assistant Men's Wrestling Coach
+
+54. Emilee Demann
+   Email: 
+   Username: emilee.demann
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Emilee Demann Assistant Women's Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Ryan Nordquist Assistant Baseball Coach (330) 569- NordquistR@Hiram.edu
+• Mark Mohnickey Assistant Baseball Coach MohnickeyM@hiram.edu
+• Pierce Cumpstone Head Men's Basketball Coach (330) 569- CumpstonePB@hiram.edu
+• Wynston Johnson Assistant Men's Basketball Coach JohnsonW@hiram.edu
+• Anastasia Lawler Assistant Women's Basketball Coach LawlerAQ@hiram.edu
+• Xavier Dupree Head Football Coach (330) 569- DupreeX@hiram.edu
+• Tanner Niles Assistant Head Coach/Defensive (330) 569- NilesTA@Hiram.edu
+• Dallas Bruton Recruiting Coordinator/Quarterbacks Coach BrutonDP@hiram.edu
+• Raequan Davis-Hereford Wide Receivers Coach DavisRH@hiram.edu
+• Davis Brumbaugh Cornerback Coach BrumbaughDS@hiram.edu
+• William Lay III Offensive Line Coach LayWE@hiram.edu
+• Andrew Winkler Defensive Line Coach WinklerAH@hiram.edu
+• Michael Soltis Specialist Coach SoltisMM@hiram.edu
+• James Workman Head Men's and Women's Golf Coach (330) 389- WorkmanJT@hiram.edu
+• Brennan Cain Assistant Men's and Women's Golf Coach CainBP@hiram.edu
+• James Workman Head Men's and Women's Golf Coach (330) 389- WorkmanJT@hiram.edu
+• Brennan Cain Assistant Men's and Women's Golf Coach CainBP@hiram.edu
+• Jeffrey Curto, Ph.D. Head Men's Ice Hockey Coach (330) 569- CurtoJJ@hiram.edu
+• Joe Vandervere-Sarlanis Assistant Men's Ice Hockey Coach VandervereJK@hiram.edu
+• Jason Griffith Head Men's Lacrosse Coach (330) 569- GriffithJC@hiram.edu
+• Mark Payton Assistant Men's Lacrosse Coach PaytonM@hiram.edu
+• Maddie Wilson Head Women's Lacrosse Coach WilsonJ2@hiram.edu
+• Kaylee Szekeres Assistant Women's Lacrosse Coach SzekeresK@hiram.edu
+• Joe Chmura Head Men's Soccer Coach (330) 569- ChmuraJ@hiram.edu
+• Patrick Hartup Assistant Men's Soccer Coach HartupPP@hiram.edu
+• Omar Najjar Assistant Men's Soccer Coach NajjarOA@hiram.edu
+• Mike Shiels Head Women's Soccer Coach (330) 569- ShielsM@hiram.edu
+• Giselle Bahena Head Softball Coach (330) 569- BahenaG@hiram.edu
+• Gianna Araki Assistant Softball Coach ArakiGK@hiram.edu
+• Brianna Burns Head STUNT Coach (330) 569- BurnsBJ@hiram.edu
+• Matt Campbell Head Swimming & Diving Coach (330) 569- CampbellM2@hiram.edu
+• Kyle Martini Head Men's Volleyball Coach (330) 569- MartiniKT@hiram.edu
+• Holly Hoffman Assistant Men's & Women's Volleyball Coach (330) 569- hoffmanh@hiram.edu
+• Paige Cole Assistant Men's & Women's Volleyball Coach ColePA@hiram.edu
+• Macy Roell Interim Head Women's Volleyball Coach (330) 569- RoellM@hiram.edu
+• Holly Hoffman Assistant Men's & Women's Volleyball Coach (330) 569- hoffmanh@hiram.edu
+• Paige Cole Assistant Men's & Women's Volleyball Coach ColePA@hiram.edu
+• Dustin Porter Head Men's Wrestling Coach 440-487-3072 PorterD@hiram.edu
+• Christy Powell Head Women's Wrestling Coach (470) 269- PowellCM@hiram.edu

@@ -1,0 +1,213 @@
+COACH ENTRIES FOUND - 2025-09-23 17:23:57
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Bowie State University
+Organization: Bowie State University Athletics
+
+Total coaches found: 25
+
+PARSED ENTRIES:
+----------------------------------------
+1. Fitness Center
+   Email: mteamer@bowiestate.edu
+   Username: mteamer
+   Sports: Soccer
+   Title: Marcus Teamer Sports Performance Coach
+   Original line: Marcus Teamer Sports Performance Coach Fitness Center mteamer@bowiestate.edu (301)
+
+2. Kyle Jackson
+   Email: bsubulldogsfb@bowiestate.edu
+   Username: bsubulldogsfb
+   Sports: Football
+   Title: Head Coach
+   Original line: Kyle Jackson Head Coach Room 221 bsubulldogsfb@bowiestate.edu (301)
+
+3. Edric Poitier
+   Email: epoitier@bowiestate.edu
+   Username: epoitier
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Edric Poitier Head Coach Room 215 epoitier@bowiestate.edu (301)
+
+4. Christiana Dubose
+   Email: dubosec0114@students.bowiestate.edu
+   Username: dubosec0114
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Christiana Dubose Assistant Coach Room 215 dubosec0114@students.bowiestate.edu (301)
+
+5. Rodric Johnson
+   Email: rjohnson@bowiestate.edu
+   Username: rjohnson
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Rodric Johnson Assistant Coach rjohnson@bowiestate.edu (301)
+
+6. Tubar Thompson
+   Email: fthompson@bowiestate.edu
+   Username: fthompson
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Tubar Thompson Head Coach Room 205 fthompson@bowiestate.edu (301)
+
+7. Edric Poitier
+   Email: epoitier@bowiestate.edu
+   Username: epoitier
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Edric Poitier Head Coach Room 215 epoitier@bowiestate.edu (301)
+
+8. Shadae Swan
+   Email: sswan@bowiestate.edu
+   Username: sswan
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Shadae Swan Head Coach Room 210 sswan@bowiestate.edu (301)
+
+9. Brian Johnson
+   Email: bjohnson@bowiestate.edu
+   Username: bjohnson
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Brian Johnson Assistant Coach Room 107 bjohnson@bowiestate.edu (301)
+
+10. Lisa Jing
+   Email: ljing@bowiestate.edu
+   Username: ljing
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Lisa Jing Assistant Coach Room 107 ljing@bowiestate.edu (301)
+
+11. Darrell Brooks
+   Email: dwbrooks@bowiestate.edu
+   Username: dwbrooks
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Darrell Brooks Head Coach Room 109 dwbrooks@bowiestate.edu (301)
+
+12. Bryan Wilson
+   Email: bwilson@bowiestate.edu
+   Username: bwilson
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Bryan Wilson Associate Head Coach Room 109 bwilson@bowiestate.edu (301)
+
+13. Sedric Baker
+   Email: sbaker@bowiestate.edu
+   Username: sbaker
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Sedric Baker Assistant Coach Room 109 sbaker@bowiestate.edu (301)
+
+14. Anthony Carpenter
+   Email: acarpenter@bowiestate.edu
+   Username: acarpenter
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Anthony Carpenter Assistant Coach acarpenter@bowiestate.edu (301)
+
+15. Ed Powell
+   Email: epowell@bowiestate.edu
+   Username: epowell
+   Sports: Softball
+   Title: Head Coach
+   Original line: Ed Powell Head Coach Room 213 epowell@bowiestate.edu (301)
+
+16. Samantha Stefan
+   Email: sstefan@bowiestate.edu
+   Username: sstefan
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Samantha Stefan Assistant Coach Room 213 sstefan@bowiestate.edu (301)
+
+17. James 
+   Email: mpowell@bowiestate.edu
+   Username: mpowell
+   Sports: Softball
+   Title: Morgan Powell Assistant Coach
+   Original line: Morgan Powell Assistant Coach James E. mpowell@bowiestate.edu (301)
+
+18. Todd Byrom
+   Email: tbyrom@bowiestate.edu
+   Username: tbyrom
+   Sports: Softball
+   Title: Head Coach
+   Original line: Todd Byrom Head Coach Room 207 tbyrom@bowiestate.edu (301)
+
+19. Thomasina Boardley
+   Email: tboardley@bowiestate.edu
+   Username: tboardley
+   Sports: Softball
+   Title: Head Coach
+   Original line: Thomasina Boardley Head Coach Student Center, tboardley@bowiestate.edu (301)
+
+20. Erica Johnson
+   Email: emjohnson@bowiestate.edu
+   Username: emjohnson
+   Sports: Softball
+   Title: Assistant Coach Henry
+   Original line: Erica Johnson Assistant Coach Henry emjohnson@bowiestate.edu
+
+21.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach/Defensive Coordinator
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach/Defensive Coordinator 860-
+
+22. Ashley Quarles
+   Email: 
+   Username: ashley.quarles
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ashley Quarles Assistant Coach
+
+23.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Country Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Country Coach 3575
+
+24. Pamela Crockett
+   Email: pcrockett@bowiestate.edu
+   Username: pcrockett
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Harry Allen Assistant Coach pcrockett@bowiestate.edu
+
+25. Shawnee Parker
+   Email: 
+   Username: shawnee.parker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shawnee Parker Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Marcus Teamer Sports Performance Coach Fitness Center mteamer@bowiestate.edu (301)
+• Kyle Jackson Head Coach Room 221 bsubulldogsfb@bowiestate.edu (301)
+• Edric Poitier Head Coach Room 215 epoitier@bowiestate.edu (301)
+• Christiana Dubose Assistant Coach Room 215 dubosec0114@students.bowiestate.edu (301)
+• Rodric Johnson Assistant Coach rjohnson@bowiestate.edu (301)
+• Tubar Thompson Head Coach Room 205 fthompson@bowiestate.edu (301)
+• Edric Poitier Head Coach Room 215 epoitier@bowiestate.edu (301)
+• Shadae Swan Head Coach Room 210 sswan@bowiestate.edu (301)
+• Brian Johnson Assistant Coach Room 107 bjohnson@bowiestate.edu (301)
+• Lisa Jing Assistant Coach Room 107 ljing@bowiestate.edu (301)
+• Darrell Brooks Head Coach Room 109 dwbrooks@bowiestate.edu (301)
+• Bryan Wilson Associate Head Coach Room 109 bwilson@bowiestate.edu (301)
+• Sedric Baker Assistant Coach Room 109 sbaker@bowiestate.edu (301)
+• Anthony Carpenter Assistant Coach acarpenter@bowiestate.edu (301)
+• Ed Powell Head Coach Room 213 epowell@bowiestate.edu (301)
+• Samantha Stefan Assistant Coach Room 213 sstefan@bowiestate.edu (301)
+• Morgan Powell Assistant Coach James E. mpowell@bowiestate.edu (301)
+• Todd Byrom Head Coach Room 207 tbyrom@bowiestate.edu (301)
+• Thomasina Boardley Head Coach Student Center, tboardley@bowiestate.edu (301)
+• Erica Johnson Assistant Coach Henry emjohnson@bowiestate.edu

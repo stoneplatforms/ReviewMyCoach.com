@@ -1,0 +1,861 @@
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+Could get FontBBox from font descriptor because None cannot be parsed as 4 floats
+
+=== [1/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Marshall University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Marshall University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Marshall University Athletics
+🔄 No single-line format found, trying multi-line format...
+✔ Found 0 coach entries using multi-line format
+✔ Results written to dry-run-output/coaches_filtered_Marshall University Athletics_20250923_171721.txt
+Found 54 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Dwight Galt () → coaches/dwight.galt
+[DRY RUN] Would create unclaimed coach profile: Greg Allen () → coaches/greg.allen
+[DRY RUN] Would create unclaimed coach profile: Nathaniel () → coaches/nathaniel
+[DRY RUN] Would create unclaimed coach profile: Blaike Smith () → coaches/blaike.smith
+[DRY RUN] Would create unclaimed coach profile: Anthony () → coaches/anthony
+[DRY RUN] Would create unclaimed coach profile: Miles Edmond () → coaches/miles.edmond
+[DRY RUN] Would create unclaimed coach profile: Davi Edwards () → coaches/davi.edwards
+[DRY RUN] Would create unclaimed coach profile: Greg Beals () → coaches/greg.beals
+[DRY RUN] Would create unclaimed coach profile: Tim Donnelly () → coaches/tim.donnelly
+[DRY RUN] Would create unclaimed coach profile: Aaron Pitching () → coaches/aaron.pitching
+[DRY RUN] Would create unclaimed coach profile: Blair Everhart () → coaches/blair.everhart
+[DRY RUN] Would create unclaimed coach profile: Cornelius () → coaches/cornelius
+[DRY RUN] Would create unclaimed coach profile: Rob Fulford () → coaches/rob.fulford
+[DRY RUN] Would create unclaimed coach profile: Adam Williams () → coaches/adam.williams
+[DRY RUN] Would create unclaimed coach profile: Steve Snell () → coaches/steve.snell
+[DRY RUN] Would create unclaimed coach profile: Isaiah Carson () → coaches/isaiah.carson
+[DRY RUN] Would create unclaimed coach profile: Juli Fulks () → coaches/juli.fulks
+[DRY RUN] Would create unclaimed coach profile: Mykasa Lucas () → coaches/mykasa.lucas
+[DRY RUN] Would create unclaimed coach profile: Patrick Herlihy () → coaches/patrick.herlihy
+[DRY RUN] Would create unclaimed coach profile: Cassie Lastivka () → coaches/cassie.lastivka
+[DRY RUN] Would create unclaimed coach profile: Tony Gibson () → coaches/tony.gibson
+[DRY RUN] Would create unclaimed coach profile: Gunter Brewer () → coaches/gunter.brewer
+[DRY RUN] Would create unclaimed coach profile: Chansi Receivers () → coaches/chansi.receivers
+[DRY RUN] Would create unclaimed coach profile: Nicole Executive () → coaches/nicole.executive
+[DRY RUN] Would create unclaimed coach profile: Matt Grobe () → coaches/matt.grobe
+[DRY RUN] Would create unclaimed coach profile: Brooke () → coaches/brooke
+[DRY RUN] Would create unclaimed coach profile: Chris Grassie () → coaches/chris.grassie
+[DRY RUN] Would create unclaimed coach profile: Josh Faga () → coaches/josh.faga
+[DRY RUN] Would create unclaimed coach profile: Gabriel Perrotta () → coaches/gabriel.perrotta
+[DRY RUN] Would create unclaimed coach profile: Jake Young () → coaches/jake.young
+[DRY RUN] Would create unclaimed coach profile: Rafa Simoes () → coaches/rafa.simoes
+[DRY RUN] Would create unclaimed coach profile: Ross Holland () → coaches/ross.holland
+[DRY RUN] Would create unclaimed coach profile: Dan O'Connor () → coaches/dan.o.connor
+[DRY RUN] Would create unclaimed coach profile: Augusto Volunteer () → coaches/augusto.volunteer
+[DRY RUN] Would create unclaimed coach profile: Morgan Zerkle () → coaches/morgan.zerkle
+[DRY RUN] Would create unclaimed coach profile: Aly Harrell () → coaches/aly.harrell
+[DRY RUN] Would create unclaimed coach profile: Riley Blampied () → coaches/riley.blampied
+[DRY RUN] Would create unclaimed coach profile: Drew Pitching () → coaches/drew.pitching
+[DRY RUN] Would create unclaimed coach profile: Kenyatta Grant () → coaches/kenyatta.grant
+[DRY RUN] Would create unclaimed coach profile: Brayden Bailey () → coaches/brayden.bailey
+[DRY RUN] Would create unclaimed coach profile: Samantha () → coaches/samantha
+[DRY RUN] Would create unclaimed coach profile: Lori Davis () → coaches/lori.davis
+[DRY RUN] Would create unclaimed coach profile: Ian Walsh () → coaches/ian.walsh
+[DRY RUN] Would create unclaimed coach profile: Megan () → coaches/megan
+[DRY RUN] Would create unclaimed coach profile: Kat Mueller () → coaches/kat.mueller
+[DRY RUN] Would create unclaimed coach profile: John Mercer () → coaches/john.mercer
+[DRY RUN] Would create unclaimed coach profile: JJ Mercer () → coaches/jj.mercer
+[DRY RUN] Would create unclaimed coach profile: Caleb Bowen () → coaches/caleb.bowen
+[DRY RUN] Would create unclaimed coach profile: Tessa Roberts () → coaches/tessa.roberts
+[DRY RUN] Would create unclaimed coach profile: Andrea Deem () → coaches/andrea.deem
+[DRY RUN] Would create unclaimed coach profile: Devonte Nesby () → coaches/devonte.nesby
+[DRY RUN] Would create unclaimed coach profile: Heather Stout () → coaches/heather.stout
+[DRY RUN] Would create unclaimed coach profile: Tim Ebbecke () → coaches/tim.ebbecke
+[DRY RUN] Would create unclaimed coach profile: Maci Watrous () → coaches/maci.watrous
+
+=== [2/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Bethany College.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Bethany College.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Bethany College Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: CROSS COUNTRY
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: SWIMMING & DIVING
+🏃‍♂️ Found sport section: TRACK & FIELD
+✔ Found 32 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Bethany College_20250923_171722.txt
+Found 44 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Brandon Robinson (brobinson@bethanywv.edu) → coaches/brobinson
+[DRY RUN] Would create unclaimed coach profile: Mikayla Administrator (mlopez@bethanywv.edu) → coaches/mlopez
+[DRY RUN] Would create unclaimed coach profile: Michael Finlan (mfinlan@bethanywv.edu) → coaches/mfinlan
+[DRY RUN] Would create unclaimed coach profile: Brandon Thorsen (bthorsen@bethanywv.edu) → coaches/bthorsen
+[DRY RUN] Would create unclaimed coach profile: Tyshaun Walker (tyshaun.walker@bethanywv.edu) → coaches/tyshaun.walker
+[DRY RUN] Would create unclaimed coach profile: Mikayla Administrator (mlopez@bethanywv.edu) → coaches/mlopez
+[DRY RUN] Would create unclaimed coach profile: Tremayne Leverette (tleverette@bethanywv.edu) → coaches/tleverette
+[DRY RUN] Would create unclaimed coach profile: Dream Cherry (dream.cherry@bethanywv.edu) → coaches/dream.cherry
+[DRY RUN] Would create unclaimed coach profile: Jordan Johnson (Jordan.Johnson@bethanywv.edu) → coaches/Jordan.Johnson
+[DRY RUN] Would create unclaimed coach profile: Marc Hull (marc.hull@bethanywv.edu) → coaches/marc.hull
+[DRY RUN] Would create unclaimed coach profile: Brandon Robinson (brobinson@bethanywv.edu) → coaches/brobinson
+[DRY RUN] Would create unclaimed coach profile: Bryar DeSanti (bdesanti@bethanywv.edu) → coaches/bdesanti
+[DRY RUN] Would create unclaimed coach profile: Marc Hull (marc.hull@bethanywv.edu) → coaches/marc.hull
+[DRY RUN] Would create unclaimed coach profile: Matt Graduate (mbordfeld@bethanywv.edu) → coaches/mbordfeld
+[DRY RUN] Would create unclaimed coach profile: Wyatt Graduate (wyatt.hirt@bethanywv.edu) → coaches/wyatt.hirt
+[DRY RUN] Would create unclaimed coach profile: Tyler Graduate (tpearce@bethanywv.edu) → coaches/tpearce
+[DRY RUN] Would create unclaimed coach profile: Kailey Pettit (kpettit@bethanywv.edu) → coaches/kpettit
+[DRY RUN] Would create unclaimed coach profile: Travis Lysiak (tlysiak@bethanywv.edu) → coaches/tlysiak
+[DRY RUN] Would create unclaimed coach profile: Harold Pallone (harold.pallone@bethanywv.edu) → coaches/harold.pallone
+[DRY RUN] Would create unclaimed coach profile: Molly Nuri (mnuri@bethanywv.edu) → coaches/mnuri
+[DRY RUN] Would create unclaimed coach profile: Matthew Wolf (mwolf@bethanywv.edu) → coaches/mwolf
+[DRY RUN] Would create unclaimed coach profile: James Hofmann (james.hofmann@bethanywv.edu) → coaches/james.hofmann
+[DRY RUN] Would create unclaimed coach profile: Olivia Wilkerson (olivia.wilkerson@bethanywv.edu) → coaches/olivia.wilkerson
+[DRY RUN] Would create unclaimed coach profile: Lexi Buck (ABuck@bethanywv.edu) → coaches/ABuck
+[DRY RUN] Would create unclaimed coach profile: Jeani Humpe (jhumpe@bethanywv.edu) → coaches/jhumpe
+[DRY RUN] Would create unclaimed coach profile: Jordan Johnson (Jordan.Johnson@bethanywv.edu) → coaches/Jordan.Johnson
+[DRY RUN] Would create unclaimed coach profile: Anna Zills (anna.zills@bethanywv.edu) → coaches/anna.zills
+[DRY RUN] Would create unclaimed coach profile: Chuck Shoemaker (cshoemaker@bethanywv.edu) → coaches/cshoemaker
+[DRY RUN] Would create unclaimed coach profile: Brittany Arent (barent@bethanywv.edu) → coaches/barent
+[DRY RUN] Would create unclaimed coach profile: Riley Felton (rfelton@bethanywv.edu) → coaches/rfelton
+[DRY RUN] Would create unclaimed coach profile: Pete Pol (pete.dipol@bethanywv.edu) → coaches/pete.dipol
+[DRY RUN] Would create unclaimed coach profile: Pete Pol (pete.dipol@bethanywv.edu) → coaches/pete.dipol
+[DRY RUN] Would create unclaimed coach profile: Kacey Morrison (kmorrison@bethanywv.edu) → coaches/kmorrison
+[DRY RUN] Would create unclaimed coach profile: Peter Toula () → coaches/peter.toula
+[DRY RUN] Would create unclaimed coach profile: Greg Graduate () → coaches/greg.graduate
+[DRY RUN] Would create unclaimed coach profile: Zavien Graduate () → coaches/zavien.graduate
+[DRY RUN] Would create unclaimed coach profile: Ben Graduate () → coaches/ben.graduate
+[DRY RUN] Would create unclaimed coach profile: Michael Ceraolo () → coaches/michael.ceraolo
+[DRY RUN] Would create unclaimed coach profile: Pedro Chillemi () → coaches/pedro.chillemi
+[DRY RUN] Would create unclaimed coach profile: Lauren Graduate () → coaches/lauren.graduate
+[DRY RUN] Would create unclaimed coach profile: Andrew Weiss () → coaches/andrew.weiss
+[DRY RUN] Would create unclaimed coach profile: Tim Graduate () → coaches/tim.graduate
+[DRY RUN] Would create unclaimed coach profile: Anna Graduate () → coaches/anna.graduate
+
+=== [3/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Concord University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Concord University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Concord University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 25 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Concord University Athletics_20250923_171722.txt
+Found 46 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Luke Co (coachduffy@concord.edu) → coaches/coachduffy
+[DRY RUN] Would create unclaimed coach profile: Tracy Facilities (coachgravely@concord.edu) → coaches/coachgravely
+[DRY RUN] Would create unclaimed coach profile: Drew Bailey (acbailey@concord.edu) → coaches/acbailey
+[DRY RUN] Would create unclaimed coach profile: Jacob Emerson (jemerson@concord.edu) → coaches/jemerson
+[DRY RUN] Would create unclaimed coach profile: Kevan Lambert (lambertk30@mycu.concord.edu) → coaches/lambertk30
+[DRY RUN] Would create unclaimed coach profile: Nathan Asher (ashern11@mycu.concord.edu) → coaches/ashern11
+[DRY RUN] Would create unclaimed coach profile: Todd May (coachmay@concord.edu) → coaches/coachmay
+[DRY RUN] Would create unclaimed coach profile: Drew Greene (adgreene@concord.edu) → coaches/adgreene
+[DRY RUN] Would create unclaimed coach profile: Tesla Southcott (tsakers@concord.edu) → coaches/tsakers
+[DRY RUN] Would create unclaimed coach profile: Morgan Mitchell (mmitchell@concord.edu) → coaches/mmitchell
+[DRY RUN] Would create unclaimed coach profile: Caroline Houpe (houpec25@mycu.concord.edu) → coaches/houpec25
+[DRY RUN] Would create unclaimed coach profile: Jessica Doty (cheer@concord.edu) → coaches/cheer
+[DRY RUN] Would create unclaimed coach profile: Jonathan Kigel (jkigel@concord.edu) → coaches/jkigel
+[DRY RUN] Would create unclaimed coach profile: Ethan Board (boarde07@alumni.concord.edu) → coaches/boarde07
+[DRY RUN] Would create unclaimed coach profile: Cody Edwards (ceedwards@concord.edu) → coaches/ceedwards
+[DRY RUN] Would create unclaimed coach profile: Dante Johnson (dcjohnson@concord.edu) → coaches/dcjohnson
+[DRY RUN] Would create unclaimed coach profile: Peyton Cox (pacox@concord.edu) → coaches/pacox
+[DRY RUN] Would create unclaimed coach profile: Alex Smith (aasmith@concord.edu) → coaches/aasmith
+[DRY RUN] Would create unclaimed coach profile: Cheslon Carollisen (carollisenc26@mycu.concord.edu) → coaches/carollisenc26
+[DRY RUN] Would create unclaimed coach profile: Alejandro Jaramillo (jaramillod@mycu.concord.edu) → coaches/jaramillod
+[DRY RUN] Would create unclaimed coach profile: Carson Proffitt (cwproffitt@concord.edu) → coaches/cwproffitt
+[DRY RUN] Would create unclaimed coach profile: Carson Proffitt (cwproffitt@concord.edu) → coaches/cwproffitt
+[DRY RUN] Would create unclaimed coach profile: Luke Duffy (coachduffy@concord.edu) → coaches/coachduffy
+[DRY RUN] Would create unclaimed coach profile: Alisa Tasler (atasler@concord.edu) → coaches/atasler
+[DRY RUN] Would create unclaimed coach profile: Kate Dillon (coachsouthcott@concord.edu) → coaches/coachsouthcott
+[DRY RUN] Would create unclaimed coach profile: Trennon Mitchell () → coaches/trennon.mitchell
+[DRY RUN] Would create unclaimed coach profile: Al Volunteer () → coaches/al.volunteer
+[DRY RUN] Would create unclaimed coach profile: DeAirus Backs () → coaches/deairus.backs
+[DRY RUN] Would create unclaimed coach profile: Emmanuel Linebackers () → coaches/emmanuel.linebackers
+[DRY RUN] Would create unclaimed coach profile: Elton Backs () → coaches/elton.backs
+[DRY RUN] Would create unclaimed coach profile: Dylan Receivers () → coaches/dylan.receivers
+[DRY RUN] Would create unclaimed coach profile: Justin Zimmerman (jpzimmerman@concord.edu) → coaches/jpzimmerman
+[DRY RUN] Would create unclaimed coach profile: Jermaine Cornerbacks () → coaches/jermaine.cornerbacks
+[DRY RUN] Would create unclaimed coach profile: Brett Student () → coaches/brett.student
+[DRY RUN] Would create unclaimed coach profile: Jake Student () → coaches/jake.student
+[DRY RUN] Would create unclaimed coach profile: Kevin Student () → coaches/kevin.student
+[DRY RUN] Would create unclaimed coach profile: Javon Ends () → coaches/javon.ends
+[DRY RUN] Would create unclaimed coach profile: Mats Roorda () → coaches/mats.roorda
+[DRY RUN] Would create unclaimed coach profile: Chloe Allan () → coaches/chloe.allan
+[DRY RUN] Would create unclaimed coach profile: Sophie Clutter () → coaches/sophie.clutter
+[DRY RUN] Would create unclaimed coach profile: Adrian Cabello () → coaches/adrian.cabello
+[DRY RUN] Would create unclaimed coach profile: Courtney Raines () → coaches/courtney.raines
+[DRY RUN] Would create unclaimed coach profile: Cartney Schoolcraft () → coaches/cartney.schoolcraft
+[DRY RUN] Would create unclaimed coach profile: Reese Turner () → coaches/reese.turner
+[DRY RUN] Would create unclaimed coach profile: Isabelle Volunteer () → coaches/isabelle.volunteer
+[DRY RUN] Would create unclaimed coach profile: Tragen Moore () → coaches/tragen.moore
+
+=== [4/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Davis and Elkins College Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Davis and Elkins College Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Davis and Elkins College Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: CROSS COUNTRY
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: SWIMMING
+🏃‍♂️ Found sport section: TRACK & FIELD
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 30 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Davis and Elkins College Athletics_20250923_171722.txt
+Found 31 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Michael Kiely (kielym@dewv.edu) → coaches/kielym
+[DRY RUN] Would create unclaimed coach profile: Brett Ripley (ripleyb@dewv.edu) → coaches/ripleyb
+[DRY RUN] Would create unclaimed coach profile: Heath Broughton (broughtonh@dewv.edu) → coaches/broughtonh
+[DRY RUN] Would create unclaimed coach profile: Lance VanNoy (vannoyl@dewv.edu) → coaches/vannoyl
+[DRY RUN] Would create unclaimed coach profile: Daniel Harris (mbbcoaches@dewv.edu) → coaches/mbbcoaches
+[DRY RUN] Would create unclaimed coach profile: John Coakley (coakleyj@dewv.edu) → coaches/coakleyj
+[DRY RUN] Would create unclaimed coach profile: Craig Ford (fordc@dewv.edu) → coaches/fordc
+[DRY RUN] Would create unclaimed coach profile: Sam Rolle (rolles@dewv.edu) → coaches/rolles
+[DRY RUN] Would create unclaimed coach profile: Donna Carr (carrd2@dewv.edu) → coaches/carrd2
+[DRY RUN] Would create unclaimed coach profile: Bria Brown (brownb3@dewv.edu) → coaches/brownb3
+[DRY RUN] Would create unclaimed coach profile: LaChazity Shaver (shaverl@dewv.edu) → coaches/shaverl
+[DRY RUN] Would create unclaimed coach profile: Jason Pyles (pylesj@dewv.edu) → coaches/pylesj
+[DRY RUN] Would create unclaimed coach profile: Jackson Gibson (gibsonj3@dewv.edu) → coaches/gibsonj3
+[DRY RUN] Would create unclaimed coach profile: Tycen Allan (allant@dewv.edu) → coaches/allant
+[DRY RUN] Would create unclaimed coach profile: David Pomeroy (pomeroyd@dewv.edu) → coaches/pomeroyd
+[DRY RUN] Would create unclaimed coach profile: Harley Kinney (kinneyh@dewv.edu) → coaches/kinneyh
+[DRY RUN] Would create unclaimed coach profile: Meir Lewin (lewinm@dewv.edu) → coaches/lewinm
+[DRY RUN] Would create unclaimed coach profile: Remy Tazifor (taziforr@dewv.edu) → coaches/taziforr
+[DRY RUN] Would create unclaimed coach profile: Gadi Vogel (vogelg@dewv.edu) → coaches/vogelg
+[DRY RUN] Would create unclaimed coach profile: Keenan Schaeffer (schaefferk@dewv.edu) → coaches/schaefferk
+[DRY RUN] Would create unclaimed coach profile: Elle Fracker (frackera@dewv.edu) → coaches/frackera
+[DRY RUN] Would create unclaimed coach profile: Kellsi Peterson (petersonk2@dewv.edu) → coaches/petersonk2
+[DRY RUN] Would create unclaimed coach profile: Nicole Rose (rosen@dewv.edu) → coaches/rosen
+[DRY RUN] Would create unclaimed coach profile: Collin Meadows (meadowsc@dewv.edu) → coaches/meadowsc
+[DRY RUN] Would create unclaimed coach profile: Jason Pyles (pylesj@dewv.edu) → coaches/pylesj
+[DRY RUN] Would create unclaimed coach profile: Jackson Gibson (gibsonj3@dewv.edu) → coaches/gibsonj3
+[DRY RUN] Would create unclaimed coach profile: Julie Danner (dannerj@dewv.edu) → coaches/dannerj
+[DRY RUN] Would create unclaimed coach profile: LaChazity Shaver (shaverl@dewv.edu) → coaches/shaverl
+[DRY RUN] Would create unclaimed coach profile: Justin Case (casej@dewv.edu) → coaches/casej
+[DRY RUN] Would create unclaimed coach profile: Matthew Danner (dannerm@dewv.edu) → coaches/dannerm
+[DRY RUN] Would create unclaimed coach profile: Shane Levenson () → coaches/shane.levenson
+
+=== [5/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Fairmont State University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Fairmont State University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Fairmont State University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 27 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Fairmont State University Athletics_20250923_171722.txt
+Found 50 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Adam Kolberg (Adam.Kolberg@fairmontstate.edu) → coaches/Adam.Kolberg
+[DRY RUN] Would create unclaimed coach profile: Danielle Cutri (ddicarlo@fairmontstate.edu) → coaches/ddicarlo
+[DRY RUN] Would create unclaimed coach profile: Virginia Krasznay (Virginia.Krasznay@fairmontstate.edu) → coaches/Virginia.Krasznay
+[DRY RUN] Would create unclaimed coach profile: Karah Paull (Karah.Paull@fairmontstate.edu) → coaches/Karah.Paull
+[DRY RUN] Would create unclaimed coach profile: Matt Yurish (Matthew.Yurish@fairmontstate.edu) → coaches/Matthew.Yurish
+[DRY RUN] Would create unclaimed coach profile: Tim Koenig (tkoenig@fairmontstate.edu) → coaches/tkoenig
+[DRY RUN] Would create unclaimed coach profile: Trent Howard (trent.howard@fairmontstate.edu) → coaches/trent.howard
+[DRY RUN] Would create unclaimed coach profile: Donald Kummer (Donald.Kummer@fairmontstate.edu) → coaches/Donald.Kummer
+[DRY RUN] Would create unclaimed coach profile: Tim Baab (Timothy.Baab@fairmontstate.edu) → coaches/Timothy.Baab
+[DRY RUN] Would create unclaimed coach profile: Stephanie Anderson (smichael10@fairmontstate.edu) → coaches/smichael10
+[DRY RUN] Would create unclaimed coach profile: Miki Glenn (Mikaylah.Glenn@fairmontstate.edu) → coaches/Mikaylah.Glenn
+[DRY RUN] Would create unclaimed coach profile: Luke Barker (luke.barker@fairmontstate.edu) → coaches/luke.barker
+[DRY RUN] Would create unclaimed coach profile: Zack Johnson (zachary.johnson@fairmontstate.edu) → coaches/zachary.johnson
+[DRY RUN] Would create unclaimed coach profile: Justin Fields (justin.fields@fairmontstate.edu) → coaches/justin.fields
+[DRY RUN] Would create unclaimed coach profile: Rick Johnson (richard.johnson@fairmontstate.edu) → coaches/richard.johnson
+[DRY RUN] Would create unclaimed coach profile: Kernell Borneo (Kernell.Borneo@fairmontstate.edu) → coaches/Kernell.Borneo
+[DRY RUN] Would create unclaimed coach profile: Emily Gallagher (emily.gallagher@fairmontstate.edu) → coaches/emily.gallagher
+[DRY RUN] Would create unclaimed coach profile: Nat Wilkes (nathaniel.wilkes@fairmontstate.edu) → coaches/nathaniel.wilkes
+[DRY RUN] Would create unclaimed coach profile: Brooke Lowery (bsullivan1@fairmontstate.edu) → coaches/bsullivan1
+[DRY RUN] Would create unclaimed coach profile: Amy Hills (Amy.Hills@fairmontstate.edu) → coaches/Amy.Hills
+[DRY RUN] Would create unclaimed coach profile: Pat Snively (Patrick.Snively@fairmontstate.edu) → coaches/Patrick.Snively
+[DRY RUN] Would create unclaimed coach profile: Nathan Fubio (nathan.fubio@fairmontstate.edu) → coaches/nathan.fubio
+[DRY RUN] Would create unclaimed coach profile: Terry Deremer (Terry.Deremer@fairmontstate.edu) → coaches/Terry.Deremer
+[DRY RUN] Would create unclaimed coach profile: Terry Deremer (Terry.Deremer@fairmontstate.edu) → coaches/Terry.Deremer
+[DRY RUN] Would create unclaimed coach profile: Travis Hinkle (Travis.Hinkle@fairmontstate.edu) → coaches/Travis.Hinkle
+[DRY RUN] Would create unclaimed coach profile: Gennaro Bonaventura (gbonaventura@fairmontstate.edu) → coaches/gbonaventura
+[DRY RUN] Would create unclaimed coach profile: Cole Laya (cole.laya@fairmontstate.edu) → coaches/cole.laya
+[DRY RUN] Would create unclaimed coach profile: Alexis Smith () → coaches/alexis.smith
+[DRY RUN] Would create unclaimed coach profile: Jake Goodnight () → coaches/jake.goodnight
+[DRY RUN] Would create unclaimed coach profile: Pam Volunteer () → coaches/pam.volunteer
+[DRY RUN] Would create unclaimed coach profile: Kyle Volunteer () → coaches/kyle.volunteer
+[DRY RUN] Would create unclaimed coach profile: Madeline Graduate () → coaches/madeline.graduate
+[DRY RUN] Would create unclaimed coach profile: Joey Volunteer () → coaches/joey.volunteer
+[DRY RUN] Would create unclaimed coach profile: Indoor () → coaches/indoor
+[DRY RUN] Would create unclaimed coach profile: Nate King () → coaches/nate.king
+[DRY RUN] Would create unclaimed coach profile: Sophie Delligatti () → coaches/sophie.delligatti
+[DRY RUN] Would create unclaimed coach profile: Kaylyn Christopher (Kaylyn.Christopher@fairmontstate.edu) → coaches/Kaylyn.Christopher
+[DRY RUN] Would create unclaimed coach profile: Brady Student () → coaches/brady.student
+[DRY RUN] Would create unclaimed coach profile: Kaden Student () → coaches/kaden.student
+[DRY RUN] Would create unclaimed coach profile: Emily Holzopfel () → coaches/emily.holzopfel
+[DRY RUN] Would create unclaimed coach profile: Skyler Jefairjian () → coaches/skyler.jefairjian
+[DRY RUN] Would create unclaimed coach profile: Jarad Mental () → coaches/jarad.mental
+[DRY RUN] Would create unclaimed coach profile: Kayla Fogle () → coaches/kayla.fogle
+[DRY RUN] Would create unclaimed coach profile: Alex Petry () → coaches/alex.petry
+[DRY RUN] Would create unclaimed coach profile: Ashley Yelinek () → coaches/ashley.yelinek
+[DRY RUN] Would create unclaimed coach profile: Jacob Student () → coaches/jacob.student
+[DRY RUN] Would create unclaimed coach profile: Alex Student () → coaches/alex.student
+[DRY RUN] Would create unclaimed coach profile: Seena Volunteer () → coaches/seena.volunteer
+[DRY RUN] Would create unclaimed coach profile: Dominic Eorio () → coaches/dominic.eorio
+[DRY RUN] Would create unclaimed coach profile: Ken Volunteer () → coaches/ken.volunteer
+
+=== [6/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Glenville State University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Glenville State University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Glenville State University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 34 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Glenville State University Athletics_20250923_171723.txt
+Found 41 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Stephen Dye (Stephen.Dye@glenville.edu) → coaches/Stephen.Dye
+[DRY RUN] Would create unclaimed coach profile: Special (Dan.Meyers@glenville.edu) → coaches/Dan.Meyers
+[DRY RUN] Would create unclaimed coach profile: Compliance (James.Mullins@glenville.edu) → coaches/James.Mullins
+[DRY RUN] Would create unclaimed coach profile: Aleks Vanoss (aleks.vanoss@glenville.edu) → coaches/aleks.vanoss
+[DRY RUN] Would create unclaimed coach profile: Seth Arnold (seth.arnold@glenville.edu) → coaches/seth.arnold
+[DRY RUN] Would create unclaimed coach profile: Taylor Broadwater (Taylor.Broadwater@glenville.edu) → coaches/Taylor.Broadwater
+[DRY RUN] Would create unclaimed coach profile: Compliance (James.Mullins@glenville.edu) → coaches/James.Mullins
+[DRY RUN] Would create unclaimed coach profile: Zach Bacon (Zach.Bacon@glenville.edu) → coaches/Zach.Bacon
+[DRY RUN] Would create unclaimed coach profile: Bob Bolen (Bob.Bolen@glenville.edu) → coaches/Bob.Bolen
+[DRY RUN] Would create unclaimed coach profile: Stephen Dye (Stephen.Dye@glenville.edu) → coaches/Stephen.Dye
+[DRY RUN] Would create unclaimed coach profile: Emily Stoller (emily.stoller@glenville.edu) → coaches/emily.stoller
+[DRY RUN] Would create unclaimed coach profile: Abby Stoller (abby.stoller@glenville.edu) → coaches/abby.stoller
+[DRY RUN] Would create unclaimed coach profile: Special (Dan.Meyers@glenville.edu) → coaches/Dan.Meyers
+[DRY RUN] Would create unclaimed coach profile: Mike Kellar (Mike.Kellar@glenville.edu) → coaches/Mike.Kellar
+[DRY RUN] Would create unclaimed coach profile: JJ Mayer (JJ.Mayer@glenville.edu) → coaches/JJ.Mayer
+[DRY RUN] Would create unclaimed coach profile: Jeremy Harmer (Jeremy.Harmer@glenville.edu) → coaches/Jeremy.Harmer
+[DRY RUN] Would create unclaimed coach profile: Video (Javon.Butler@glenville.edu) → coaches/Javon.Butler
+[DRY RUN] Would create unclaimed coach profile: Jack Hofmann (Jack.Hofmann@glenville.edu) → coaches/Jack.Hofmann
+[DRY RUN] Would create unclaimed coach profile: Nelson Brown (Nelson.Brown@glenville.edu) → coaches/Nelson.Brown
+[DRY RUN] Would create unclaimed coach profile: Seth Arnold (seth.arnold@glenville.edu) → coaches/seth.arnold
+[DRY RUN] Would create unclaimed coach profile: John Lilly (jrlilly3@gmail.com) → coaches/jrlilly3
+[DRY RUN] Would create unclaimed coach profile: Caitlyn Sturm (Caitlyn.Sturm@glenville.edu) → coaches/Caitlyn.Sturm
+[DRY RUN] Would create unclaimed coach profile: J.R. Dodson (JR.Dodson@glenville.edu) → coaches/JR.Dodson
+[DRY RUN] Would create unclaimed coach profile: Sara Scoone (Sara.Scoone@glenville.edu) → coaches/Sara.Scoone
+[DRY RUN] Would create unclaimed coach profile: Kiara Perkins (kiara.perkins@glenville.edu) → coaches/kiara.perkins
+[DRY RUN] Would create unclaimed coach profile: Special (Dan.Meyers@glenville.edu) → coaches/Dan.Meyers
+[DRY RUN] Would create unclaimed coach profile: Zack Marcum (Zack.Marcum@glenville.edu) → coaches/Zack.Marcum
+[DRY RUN] Would create unclaimed coach profile: Isaac Johnson (Isaac.Johnson@glenville.edu) → coaches/Isaac.Johnson
+[DRY RUN] Would create unclaimed coach profile: Dylan Cottrell (Dylan.Cottrell@glenville.edu) → coaches/Dylan.Cottrell
+[DRY RUN] Would create unclaimed coach profile: Chris Basford (Chris.Basford@glenville.edu) → coaches/Chris.Basford
+[DRY RUN] Would create unclaimed coach profile: Duane Chapman (Donald.Chapman@glenville.edu) → coaches/Donald.Chapman
+[DRY RUN] Would create unclaimed coach profile: Bridget Carr (Bridget.Carr@glenville.edu) → coaches/Bridget.Carr
+[DRY RUN] Would create unclaimed coach profile: Megan Evans (Megan.Evans@glenville.edu) → coaches/Megan.Evans
+[DRY RUN] Would create unclaimed coach profile: Sydney Naughton (Sydney.Naughton@glenville.edu) → coaches/Sydney.Naughton
+[DRY RUN] Would create unclaimed coach profile: Jesse Skiles (Jesse.Skiles@glenville.edu) → coaches/Jesse.Skiles
+[DRY RUN] Would create unclaimed coach profile: Jeanette Leal (Jeanette.Leal@glenville.edu) → coaches/Jeanette.Leal
+[DRY RUN] Would create unclaimed coach profile: Colin Graduate (Colin.Bryant@glenville.edu) → coaches/Colin.Bryant
+[DRY RUN] Would create unclaimed coach profile: Jarrod West () → coaches/jarrod.west
+[DRY RUN] Would create unclaimed coach profile: Emily Graduate (Emily.Barr@glenville.edu) → coaches/Emily.Barr
+[DRY RUN] Would create unclaimed coach profile: Dakota Goalkeeper () → coaches/dakota.goalkeeper
+[DRY RUN] Would create unclaimed coach profile: Tim White () → coaches/tim.white
+
+=== [7/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Shepherd University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Shepherd University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Shepherd University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: BASKETBALL (MEN'S)
+🏃‍♂️ Found sport section: BASKETBALL (WOMEN'S)
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: CROSS COUNTRY (MEN'S)
+🏃‍♂️ Found sport section: LACROSSE (WOMEN'S)
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: SOCCER (MEN'S)
+🏃‍♂️ Found sport section: SOCCER (WOMEN'S)
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 26 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Shepherd University Athletics_20250923_171723.txt
+Found 44 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Andrew Kowalo (akowalo@shepherd.edu) → coaches/akowalo
+[DRY RUN] Would create unclaimed coach profile: Zach Guth (zguth@shepherd.edu) → coaches/zguth
+[DRY RUN] Would create unclaimed coach profile: Justin Namolik (jnamolik@shepherd.edu) → coaches/jnamolik | Phone: (304) 671-2319
+[DRY RUN] Would create unclaimed coach profile: Giancarlo Pacheco (gpacheco@shepherd.edu) → coaches/gpacheco
+[DRY RUN] Would create unclaimed coach profile: Julie Kaufman (jkaufman@shepherd.edu) → coaches/jkaufman | Phone: (304) 876-5084
+[DRY RUN] Would create unclaimed coach profile: Josie Daugherty (jdaugher@shepherd.edu) → coaches/jdaugher
+[DRY RUN] Would create unclaimed coach profile: Lindsey Bordovsky (lbordovs@shepherd.edu) → coaches/lbordovs
+[DRY RUN] Would create unclaimed coach profile: Ernie McCook (emccook@shepherd.edu) → coaches/emccook
+[DRY RUN] Would create unclaimed coach profile: Josh Kline (jkline@shepherd.edu) → coaches/jkline
+[DRY RUN] Would create unclaimed coach profile: Jarrod Kellar (jkellar@shepherd.edu) → coaches/jkellar
+[DRY RUN] Would create unclaimed coach profile: EJ Norris (enorris@shepherd.edu) → coaches/enorris
+[DRY RUN] Would create unclaimed coach profile: Chuck Walters (cwalters@shepherd.edu) → coaches/cwalters
+[DRY RUN] Would create unclaimed coach profile: Liz Kelly (ekelly@shepherd.edu) → coaches/ekelly
+[DRY RUN] Would create unclaimed coach profile: Corinne Baronner (cbaronne@shepherd.edu) → coaches/cbaronne
+[DRY RUN] Would create unclaimed coach profile: Chuck Walters (cwalters@shepherd.edu) → coaches/cwalters
+[DRY RUN] Would create unclaimed coach profile: Corinne Baronner (cbaronne@shepherd.edu) → coaches/cbaronne
+[DRY RUN] Would create unclaimed coach profile: Chuck Ingram (cingram@shepherd.edu) → coaches/cingram | Phone: (301) 465-9154
+[DRY RUN] Would create unclaimed coach profile: Dr (mhall@shepherd.edu) → coaches/mhall | Phone: (304) 876-5235
+[DRY RUN] Would create unclaimed coach profile: Braxtin Reddinger (bredding@shepherd.edu) → coaches/bredding
+[DRY RUN] Would create unclaimed coach profile: Marissa Leslie (mleslie@shepherd.edu) → coaches/mleslie | Phone: (814) 312-0499
+[DRY RUN] Would create unclaimed coach profile: Allison Baker (abaker@shepherd.edu) → coaches/abaker
+[DRY RUN] Would create unclaimed coach profile: Ryan McDougall (rmcdouga@shepherd.edu) → coaches/rmcdouga
+[DRY RUN] Would create unclaimed coach profile: Nate Pryor (npryor@shepherd.edu) → coaches/npryor
+[DRY RUN] Would create unclaimed coach profile: Mackenzie Fairs (mfairs01@rams.shepherd.edu) → coaches/mfairs01
+[DRY RUN] Would create unclaimed coach profile: Sam Odell (sodell@shepherd.edu) → coaches/sodell
+[DRY RUN] Would create unclaimed coach profile: Alex Hoekstra (ahoekstr@shepherd.edu) → coaches/ahoekstr | Phone: (423) 443-2549
+[DRY RUN] Would create unclaimed coach profile: Emily Goetz (egoetz@shepherd.edu) → coaches/egoetz
+[DRY RUN] Would create unclaimed coach profile: Rick Little () → coaches/rick.little
+[DRY RUN] Would create unclaimed coach profile: Jennifer Roach () → coaches/jennifer.roach
+[DRY RUN] Would create unclaimed coach profile: Emily Turner () → coaches/emily.turner
+[DRY RUN] Would create unclaimed coach profile: Shelby Davis () → coaches/shelby.davis
+[DRY RUN] Would create unclaimed coach profile: Alexis Hawkins () → coaches/alexis.hawkins
+[DRY RUN] Would create unclaimed coach profile: Olivia Lee () → coaches/olivia.lee
+[DRY RUN] Would create unclaimed coach profile: Peer Graduate () → coaches/peer.graduate
+[DRY RUN] Would create unclaimed coach profile: Rob Ambrose (rambrose@shepherd.edu) → coaches/rambrose
+[DRY RUN] Would create unclaimed coach profile: Luke Teams (lwrig01@shepherd.edu) → coaches/lwrig01
+[DRY RUN] Would create unclaimed coach profile: Nick Line () → coaches/nick.line
+[DRY RUN] Would create unclaimed coach profile: Liz Kelly () → coaches/liz.kelly
+[DRY RUN] Would create unclaimed coach profile: David Leonard () → coaches/david.leonard
+[DRY RUN] Would create unclaimed coach profile: Paris Kimbrell () → coaches/paris.kimbrell
+[DRY RUN] Would create unclaimed coach profile: David Goalkeeper () → coaches/david.goalkeeper
+[DRY RUN] Would create unclaimed coach profile: Delaney Volunteer () → coaches/delaney.volunteer
+[DRY RUN] Would create unclaimed coach profile: Chip Information (cransom@shepherd.edu) → coaches/cransom
+[DRY RUN] Would create unclaimed coach profile: Taylor Belella () → coaches/taylor.belella
+
+=== [8/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - University of Charleston Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - University of Charleston Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: University of Charleston Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+✔ Found 48 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - University of Charleston Athletics_20250923_171723.txt
+Found 55 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Dean Peterson (deanpeterson@ucwv.edu) → coaches/deanpeterson
+[DRY RUN] Would create unclaimed coach profile: Kyle Watson (kylewatson@ucwv.edu) → coaches/kylewatson
+[DRY RUN] Would create unclaimed coach profile: Carter Lyles (carterlyles@ucwv.edu) → coaches/carterlyles
+[DRY RUN] Would create unclaimed coach profile: Evan Ulrich (evanulrich@ucwv.edu) → coaches/evanulrich
+[DRY RUN] Would create unclaimed coach profile: Joe Simonetta (josephsimonetta@ucwv.edu) → coaches/josephsimonetta
+[DRY RUN] Would create unclaimed coach profile: Mason Volunteer (masonthomas@ucwv.edu) → coaches/masonthomas
+[DRY RUN] Would create unclaimed coach profile: James Long (jameslong@ucwv.edu) → coaches/jameslong
+[DRY RUN] Would create unclaimed coach profile: Payton Sturm (paytonsturm@ucwv.edu) → coaches/paytonsturm
+[DRY RUN] Would create unclaimed coach profile: Cal Davis (caldavis@ucwv.edu) → coaches/caldavis
+[DRY RUN] Would create unclaimed coach profile: Cameron Marks (cameronmarks@ucwv.edu) → coaches/cameronmarks
+[DRY RUN] Would create unclaimed coach profile: Bubby Johnson (dytanyajohnson@ucwv.edu) → coaches/dytanyajohnson
+[DRY RUN] Would create unclaimed coach profile: Shanquaylia Stanton (shanquayliastanton@ucwv.edu) → coaches/shanquayliastanton
+[DRY RUN] Would create unclaimed coach profile: Jacquie Brown (jacquelinebrown@ucwv.edu) → coaches/jacquelinebrown
+[DRY RUN] Would create unclaimed coach profile: Mike Tesch (michaeltesch@ucwv.edu) → coaches/michaeltesch
+[DRY RUN] Would create unclaimed coach profile: Nick Watts (nicholaswatts@ucwv.edu) → coaches/nicholaswatts
+[DRY RUN] Would create unclaimed coach profile: Kyle Line (kylerigney@ucwv.edu) → coaches/kylerigney
+[DRY RUN] Would create unclaimed coach profile: Hunter Teams (hunterbecker@ucwv.edu) → coaches/hunterbecker
+[DRY RUN] Would create unclaimed coach profile: Alex Daugherty (alexdaugherty@ucwv.edu) → coaches/alexdaugherty
+[DRY RUN] Would create unclaimed coach profile: Karon Gibson (karongibson@ucwv.edu) → coaches/karongibson
+[DRY RUN] Would create unclaimed coach profile: Jourdyn Receivers (jourdynthompson@ucwv.edu) → coaches/jourdynthompson
+[DRY RUN] Would create unclaimed coach profile: Julius Safeties (juliusjones@ucwv.edu) → coaches/juliusjones
+[DRY RUN] Would create unclaimed coach profile: Will Johnson (wcjuccoach@hotmail.com) → coaches/wcjuccoach
+[DRY RUN] Would create unclaimed coach profile: Ryland Luciano (rylandluciano@ucwv.edu) → coaches/rylandluciano
+[DRY RUN] Would create unclaimed coach profile: Lindley Ward (lindleyward@ucwv.edu) → coaches/lindleyward
+[DRY RUN] Would create unclaimed coach profile: Laurelle Weisbrod (laurelleweisbrod@ucwv.edu) → coaches/laurelleweisbrod
+[DRY RUN] Would create unclaimed coach profile: Daniel Smee (danielsmee@ucwv.edu) → coaches/danielsmee
+[DRY RUN] Would create unclaimed coach profile: Corbin Bowers (corbinbowers@ucwv.edu) → coaches/corbinbowers
+[DRY RUN] Would create unclaimed coach profile: Connor Hartwell (connorhartwell@ucwv.edu) → coaches/connorhartwell
+[DRY RUN] Would create unclaimed coach profile: Tyler Card (tylercard@ucwv.edu) → coaches/tylercard
+[DRY RUN] Would create unclaimed coach profile: Sarah Leiby (sarahleiby@ucwv.edu) → coaches/sarahleiby
+[DRY RUN] Would create unclaimed coach profile: Salma Luevano (salmaluevano@ucwv.edu) → coaches/salmaluevano
+[DRY RUN] Would create unclaimed coach profile: Jim Kirk (jameskirk@ucwv.edu) → coaches/jameskirk
+[DRY RUN] Would create unclaimed coach profile: Kévan Regnier (kevanregnier@ucwv.edu) → coaches/kevanregnier
+[DRY RUN] Would create unclaimed coach profile: Taylor Welch (taylorwelch@ucwv.edu) → coaches/taylorwelch
+[DRY RUN] Would create unclaimed coach profile: Maddie Krause (madisonkrause@ucwv.edu) → coaches/madisonkrause
+[DRY RUN] Would create unclaimed coach profile: Alec Foote (alecjfoote@ucwv.edu) → coaches/alecjfoote
+[DRY RUN] Would create unclaimed coach profile: Jack Bowman (johnbowman1@ucwv.edu) → coaches/johnbowman1
+[DRY RUN] Would create unclaimed coach profile: Alec Foote (alecjfoote@ucwv.edu) → coaches/alecjfoote
+[DRY RUN] Would create unclaimed coach profile: Jack Bowman (johnbowman1@ucwv.edu) → coaches/johnbowman1
+[DRY RUN] Would create unclaimed coach profile: Nick Bias (nicholasbias@ucwv.edu) → coaches/nicholasbias
+[DRY RUN] Would create unclaimed coach profile: Nicholas Halabicky (nicholashalabicky@ucwv.edu) → coaches/nicholashalabicky
+[DRY RUN] Would create unclaimed coach profile: Shawn Arthur (shawnarthur@ucwv.edu) → coaches/shawnarthur
+[DRY RUN] Would create unclaimed coach profile: Grant Brinson (grantbrinson@ucwv.edu) → coaches/grantbrinson
+[DRY RUN] Would create unclaimed coach profile: Sarah-Emily Woodward (sarahwoodward@ucwv.edu) → coaches/sarahwoodward
+[DRY RUN] Would create unclaimed coach profile: Robert Poole (robertpoole@ucwv.edu) → coaches/robertpoole
+[DRY RUN] Would create unclaimed coach profile: Quintin Ward (quintinward@ucwv.edu) → coaches/quintinward
+[DRY RUN] Would create unclaimed coach profile: Adam Hamad (adamhamad@ucwv.edu) → coaches/adamhamad
+[DRY RUN] Would create unclaimed coach profile: Julia Abramo (juliarocha@ucwv.edu) → coaches/juliarocha
+[DRY RUN] Would create unclaimed coach profile: Backs () → coaches/backs
+[DRY RUN] Would create unclaimed coach profile: Mohammad Volunteer () → coaches/mohammad.volunteer
+[DRY RUN] Would create unclaimed coach profile: Rielly Volunteer () → coaches/rielly.volunteer
+[DRY RUN] Would create unclaimed coach profile: Chuck Gaerttner () → coaches/chuck.gaerttner
+[DRY RUN] Would create unclaimed coach profile: Camryn Volunteer () → coaches/camryn.volunteer
+
+=== [9/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - WVU Tech Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - WVU Tech Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: WVU Tech Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: CROSS COUNTRY
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: SWIMMING
+🏃‍♂️ Found sport section: TRACK AND FIELD
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 21 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - WVU Tech Athletics_20250923_171723.txt
+Found 24 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Garrett Goosman (garrett.goosman@mail.wvu.edu) → coaches/garrett.goosman | Phone: (304) 929-1501
+[DRY RUN] Would create unclaimed coach profile: Lawrence Nesselrodt (Lawrence.Nesselrodt@mail.wvu.edu) → coaches/Lawrence.Nesselrodt | Phone: (304) 929-1514
+[DRY RUN] Would create unclaimed coach profile: Joe Goddard (joseph.goddard@mail.wvu.edu) → coaches/joseph.goddard | Phone: (304) 929-1508
+[DRY RUN] Would create unclaimed coach profile: Corey Acord (Corey.Acord@mail.wvu.edu) → coaches/Corey.Acord
+[DRY RUN] Would create unclaimed coach profile: Benitez Jackson (blj0007@mail.wvu.edu) → coaches/blj0007
+[DRY RUN] Would create unclaimed coach profile: Kenny Osborne (kenneth.osborne@mail.wvu.edu) → coaches/kenneth.osborne | Phone: (304) 929-1500
+[DRY RUN] Would create unclaimed coach profile: Alexis Phillips (alexis.phillips@mail.wvu.edu) → coaches/alexis.phillips
+[DRY RUN] Would create unclaimed coach profile: Jordan Hosey (jordan.hosey@mail.wvu.edu) → coaches/jordan.hosey | Phone: (304) 929-1504
+[DRY RUN] Would create unclaimed coach profile: Jessica York (jessica.york@mail.wvu.edu) → coaches/jessica.york
+[DRY RUN] Would create unclaimed coach profile: Brad Davis (bdavis7@mail.wvu.edu) → coaches/bdavis7 | Phone: (304) 545-3112
+[DRY RUN] Would create unclaimed coach profile: Garrett Goosman (garrett.goosman@mail.wvu.edu) → coaches/garrett.goosman | Phone: (304) 929-1501
+[DRY RUN] Would create unclaimed coach profile: Nick Semnani (nick.semnani@mail.wvu.edu) → coaches/nick.semnani | Phone: (304) 929-1507
+[DRY RUN] Would create unclaimed coach profile: Dominic Galietta (dominic.galietta@mail.wvu.edu) → coaches/dominic.galietta
+[DRY RUN] Would create unclaimed coach profile: Kate Carr (kaitlyn.franks@mail.wvu.edu) → coaches/kaitlyn.franks | Phone: (304) 929-0339
+[DRY RUN] Would create unclaimed coach profile: Lenny Keaveny (Leonard.Keaveny@mail.wvu.edu) → coaches/Leonard.Keaveny | Phone: (304) 228-9090
+[DRY RUN] Would create unclaimed coach profile: Brandon Moore (bmoore4@mail.wvu.edu) → coaches/bmoore4
+[DRY RUN] Would create unclaimed coach profile: Kennedy Smith (krs00030@mix.wvu.edu) → coaches/krs00030 | Phone: (304) 222-5130
+[DRY RUN] Would create unclaimed coach profile: Jordan Hosey (jordan.hosey@mail.wvu.edu) → coaches/jordan.hosey | Phone: (304) 929-1504
+[DRY RUN] Would create unclaimed coach profile: Jessica York (jessica.york@mail.wvu.edu) → coaches/jessica.york
+[DRY RUN] Would create unclaimed coach profile: Amber Linville (aglinville@mail.wvu.edu) → coaches/aglinville | Phone: (304) 929-1503
+[DRY RUN] Would create unclaimed coach profile: Joel Harris (joel.harris1@mail.wvu.edu) → coaches/joel.harris1 | Phone: (304) 929-1519
+[DRY RUN] Would create unclaimed coach profile: Becky Davis (rsbrouse@mail.wvu.edu) → coaches/rsbrouse
+[DRY RUN] Would create unclaimed coach profile: Kyleigh Jackson () → coaches/kyleigh.jackson
+[DRY RUN] Would create unclaimed coach profile: Ron Martin () → coaches/ron.martin
+
+=== [10/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Liberty University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Liberty University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: West Liberty University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: CROSS COUNTRY
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: TRACK & FIELD
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 42 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - West Liberty University Athletics_20250923_171724.txt
+Found 55 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Woman (cassandra.seth@westliberty.edu) → coaches/cassandra.seth
+[DRY RUN] Would create unclaimed coach profile: Co-Compliance (kelsey.kyle@westliberty.edu) → coaches/kelsey.kyle
+[DRY RUN] Would create unclaimed coach profile: Co-Compliance (kelsey.kyle@westliberty.edu) → coaches/kelsey.kyle
+[DRY RUN] Would create unclaimed coach profile: Abbey Horvath (amhorvath@westliberty.edu) → coaches/amhorvath
+[DRY RUN] Would create unclaimed coach profile: Eric Burkle (eburkle@westliberty.edu) → coaches/eburkle
+[DRY RUN] Would create unclaimed coach profile: Chris Koutsavlis (chris.koutsavlis@westliberty.edu) → coaches/chris.koutsavlis
+[DRY RUN] Would create unclaimed coach profile: Koby Bubash (kbubash@westliberty.edu) → coaches/kbubash
+[DRY RUN] Would create unclaimed coach profile: Michael Lamberti (michael.lamberti@westliberty.edu) → coaches/michael.lamberti
+[DRY RUN] Would create unclaimed coach profile: Aaron Huffman (ahuffman@westliberty.edu) → coaches/ahuffman
+[DRY RUN] Would create unclaimed coach profile: Greg Bearer (gregory.bearer@westliberty.edu) → coaches/gregory.bearer
+[DRY RUN] Would create unclaimed coach profile: Kyle Cooper (kyle.cooper@westliberty.edu) → coaches/kyle.cooper
+[DRY RUN] Would create unclaimed coach profile: Woman (cassandra.seth@westliberty.edu) → coaches/cassandra.seth
+[DRY RUN] Would create unclaimed coach profile: Michael Guinn (michael.guinn@westliberty.edu) → coaches/michael.guinn
+[DRY RUN] Would create unclaimed coach profile: Roger Waialae (rwaialae@westliberty.edu) → coaches/rwaialae
+[DRY RUN] Would create unclaimed coach profile: Jeff Monteroso (jmonteroso@westliberty.edu) → coaches/jmonteroso
+[DRY RUN] Would create unclaimed coach profile: Marcus Spencer (marcus.spencer@westliberty.edu) → coaches/marcus.spencer
+[DRY RUN] Would create unclaimed coach profile: Mark Konopka (mark.konopka@westliberty.edu) → coaches/mark.konopka
+[DRY RUN] Would create unclaimed coach profile: Josh Francis (josh.francis@westliberty.edu) → coaches/josh.francis
+[DRY RUN] Would create unclaimed coach profile: Johnny Bonar (jbonar1@westliberty.edu) → coaches/jbonar1
+[DRY RUN] Would create unclaimed coach profile: Mason Werner (mason.werner@westliberty.edu) → coaches/mason.werner
+[DRY RUN] Would create unclaimed coach profile: Caydan Keeler (ckeeler@westliberty.edu) → coaches/ckeeler
+[DRY RUN] Would create unclaimed coach profile: Noah Seivertson (noah.seivertson@westliberty.edu) → coaches/noah.seivertson
+[DRY RUN] Would create unclaimed coach profile: Freddie Fitzsimmons (frederick.fitzsimmons@westliberty.edu) → coaches/frederick.fitzsimmons
+[DRY RUN] Would create unclaimed coach profile: Sean Regan (sean.regan@westliberty.edu) → coaches/sean.regan
+[DRY RUN] Would create unclaimed coach profile: Santiago Bruni (sbruni@westliberty.edu) → coaches/sbruni
+[DRY RUN] Would create unclaimed coach profile: Zach Rycroft (zbrycroft@westliberty.edu) → coaches/zbrycroft
+[DRY RUN] Would create unclaimed coach profile: Pete McMenemy (pmcmenemy@westliberty.edu) → coaches/pmcmenemy
+[DRY RUN] Would create unclaimed coach profile: Sara Pelegreen (sara.pelegreen@westliberty.edu) → coaches/sara.pelegreen
+[DRY RUN] Would create unclaimed coach profile: Delani Buckner (dbuckner@westliberty.edu) → coaches/dbuckner
+[DRY RUN] Would create unclaimed coach profile: Ronald Hulewicz (ronald.hulewicz@westliberty.edu) → coaches/ronald.hulewicz
+[DRY RUN] Would create unclaimed coach profile: Travis Closser (travis.closser@westliberty.edu) → coaches/travis.closser
+[DRY RUN] Would create unclaimed coach profile: Michael Guinn (michael.guinn@westliberty.edu) → coaches/michael.guinn
+[DRY RUN] Would create unclaimed coach profile: Makenzy Johnson (mjohnson4@westliberty.edu) → coaches/mjohnson4
+[DRY RUN] Would create unclaimed coach profile: Katerina Negron (knegron@westliberty.edu) → coaches/knegron
+[DRY RUN] Would create unclaimed coach profile: Danny Irwin (daniel.irwin@westliberty.edu) → coaches/daniel.irwin
+[DRY RUN] Would create unclaimed coach profile: Christian Rivera (crivera@westliberty.edu) → coaches/crivera
+[DRY RUN] Would create unclaimed coach profile: Mike Carpenter (mcarpenter1@westliberty.edu) → coaches/mcarpenter1
+[DRY RUN] Would create unclaimed coach profile: Dakoda Rodgers (dlrodgers@westliberty.edu) → coaches/dlrodgers
+[DRY RUN] Would create unclaimed coach profile: Jordan Watters (jbwatters@westliberty.edu) → coaches/jbwatters
+[DRY RUN] Would create unclaimed coach profile: Troy Bell (troy.bell@westliberty.edu) → coaches/troy.bell
+[DRY RUN] Would create unclaimed coach profile: Dakoda Rodgers (dlrodgers@westliberty.edu) → coaches/dlrodgers
+[DRY RUN] Would create unclaimed coach profile: Jordan Watters (jbwatters@westliberty.edu) → coaches/jbwatters
+[DRY RUN] Would create unclaimed coach profile: Bri Tetzloff (brianna.tetzloff@westliberty.edu) → coaches/brianna.tetzloff
+[DRY RUN] Would create unclaimed coach profile: Robbie Bonar () → coaches/robbie.bonar
+[DRY RUN] Would create unclaimed coach profile: Hannah Kemp () → coaches/hannah.kemp
+[DRY RUN] Would create unclaimed coach profile: Devlin Graduate () → coaches/devlin.graduate
+[DRY RUN] Would create unclaimed coach profile: Jim Welsh () → coaches/jim.welsh
+[DRY RUN] Would create unclaimed coach profile: Danielle Stewart () → coaches/danielle.stewart
+[DRY RUN] Would create unclaimed coach profile: Ben Fedoush () → coaches/ben.fedoush
+[DRY RUN] Would create unclaimed coach profile: Hannah Larkey () → coaches/hannah.larkey
+[DRY RUN] Would create unclaimed coach profile: Eric Doty () → coaches/eric.doty
+[DRY RUN] Would create unclaimed coach profile: Michael Trax () → coaches/michael.trax
+[DRY RUN] Would create unclaimed coach profile: John Ferens () → coaches/john.ferens
+[DRY RUN] Would create unclaimed coach profile: Tyler Volunteer () → coaches/tyler.volunteer
+[DRY RUN] Would create unclaimed coach profile: Eliana Paterra () → coaches/eliana.paterra
+
+=== [11/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Virginia State University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Virginia State University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: West Virginia State University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+✔ Found 22 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - West Virginia State University Athletics_20250923_171724.txt
+Found 35 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Mattie Best (mattie.best@wvstateu.edu) → coaches/mattie.best
+[DRY RUN] Would create unclaimed coach profile: Gillian Cooper (gillian.cooper@wvstateu.edu) → coaches/gillian.cooper
+[DRY RUN] Would create unclaimed coach profile: Sean Loyd (loyds@wvstateu.edu) → coaches/loyds
+[DRY RUN] Would create unclaimed coach profile: Greg Keaton (gk1530@yahoo.com) → coaches/gk1530
+[DRY RUN] Would create unclaimed coach profile: Steve Crosier (scrosier9@gmail.com) → coaches/scrosier9
+[DRY RUN] Would create unclaimed coach profile: Bryan Poore (poorebr@wvstateu.edu) → coaches/poorebr
+[DRY RUN] Would create unclaimed coach profile: Marcus Reed (marcus.reed@wvstateu.edu) → coaches/marcus.reed
+[DRY RUN] Would create unclaimed coach profile: Whitney Bays (whitney.bays@wvstateu.edu) → coaches/whitney.bays
+[DRY RUN] Would create unclaimed coach profile: Tiffany Plear (t.mplear@yahoo.com) → coaches/t.mplear
+[DRY RUN] Would create unclaimed coach profile: John Pennington (jpennin1@wvstateu.edu) → coaches/jpennin1
+[DRY RUN] Would create unclaimed coach profile: Travaris Receivers (travaris.ephraim@wvstateu.edu) → coaches/travaris.ephraim
+[DRY RUN] Would create unclaimed coach profile: Caleb Line (caleb.muxlow@wvstateu.edu) → coaches/caleb.muxlow
+[DRY RUN] Would create unclaimed coach profile: Ben Safeties (bcm0015@wvstateu.edu) → coaches/bcm0015
+[DRY RUN] Would create unclaimed coach profile: Corlyn Line (cwitcher@wvstateu.edu) → coaches/cwitcher
+[DRY RUN] Would create unclaimed coach profile: Warren Linebackers (wwood2@wvstateu.edu) → coaches/wwood2
+[DRY RUN] Would create unclaimed coach profile: Sonny Anderson (sonny@bhgrec.com) → coaches/sonny
+[DRY RUN] Would create unclaimed coach profile: Mattie Best (mattie.best@wvstateu.edu) → coaches/mattie.best
+[DRY RUN] Would create unclaimed coach profile: Jacob Edwards (jacob.edwards@wvstateu.edu) → coaches/jacob.edwards
+[DRY RUN] Would create unclaimed coach profile: Ryan Volunteer (rmullins7@wvstateu.edu) → coaches/rmullins7
+[DRY RUN] Would create unclaimed coach profile: Sonny Anderson (sonny@bhgrec.com) → coaches/sonny
+[DRY RUN] Would create unclaimed coach profile: Javien Ralph (javien.ralph@wvstateu.edu) → coaches/javien.ralph
+[DRY RUN] Would create unclaimed coach profile: Shannon Gerencir (shannon.gerencir@wvstateu.edu) → coaches/shannon.gerencir
+[DRY RUN] Would create unclaimed coach profile: Lester Raines () → coaches/lester.raines
+[DRY RUN] Would create unclaimed coach profile: Sam Character () → coaches/sam.character
+[DRY RUN] Would create unclaimed coach profile: Receiver () → coaches/receiver
+[DRY RUN] Would create unclaimed coach profile: Nate Ends () → coaches/nate.ends
+[DRY RUN] Would create unclaimed coach profile: Christian Backs () → coaches/christian.backs
+[DRY RUN] Would create unclaimed coach profile: Backs () → coaches/backs
+[DRY RUN] Would create unclaimed coach profile: Rashad Jackson (rashad.jackson5@yahoo.com) → coaches/rashad.jackson5
+[DRY RUN] Would create unclaimed coach profile: Omari Lewis (olewis2@wvstateu.edu) → coaches/olewis2
+[DRY RUN] Would create unclaimed coach profile: Interim () → coaches/interim
+[DRY RUN] Would create unclaimed coach profile: Kasey Volunteer () → coaches/kasey.volunteer
+[DRY RUN] Would create unclaimed coach profile: Eric Volunteer () → coaches/eric.volunteer
+
+=== [12/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Virginia University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Virginia University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: West Virginia University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SWIMMING & DIVING
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 46 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - West Virginia University Athletics_20250923_171724.txt
+Found 88 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Kaitlin Sweeney (Kaitlin.Sweeney@mail.wvu.edu) → coaches/Kaitlin.Sweeney
+[DRY RUN] Would create unclaimed coach profile: Christy Bryan-Davis (WVUCheer@mail.wvu.edu) → coaches/WVUCheer
+[DRY RUN] Would create unclaimed coach profile: Jacob Garcia (jacob.garcia1@mail.wvu.edu) → coaches/jacob.garcia1
+[DRY RUN] Would create unclaimed coach profile: Jimmy Roesinger (james.roesinger@mail.wvu.edu) → coaches/james.roesinger
+[DRY RUN] Would create unclaimed coach profile: Justin Oney (jroney@mail.wvu.edu) → coaches/jroney
+[DRY RUN] Would create unclaimed coach profile: Johnny Estelle (johnny.estelle@mail.wvu.edu) → coaches/johnny.estelle
+[DRY RUN] Would create unclaimed coach profile: Phil Forte (phillip.forte@mail.wvu.edu) → coaches/phillip.forte
+[DRY RUN] Would create unclaimed coach profile: Jase Herl (jase.herl@mail.wvu.edu) → coaches/jase.herl
+[DRY RUN] Would create unclaimed coach profile: Mike Randle (michael.randle@mail.wvu.edu) → coaches/michael.randle
+[DRY RUN] Would create unclaimed coach profile: Andre Shaw (andre.shaw@mail.wvu.edu) → coaches/andre.shaw
+[DRY RUN] Would create unclaimed coach profile: Sean Cleary (Sean.Cleary@mail.wvu.edu) → coaches/Sean.Cleary
+[DRY RUN] Would create unclaimed coach profile: Shelly-Ann Gallimore (Shelly-Ann.Gallimore@mail.wvu.edu) → coaches/Shelly-Ann.Gallimore
+[DRY RUN] Would create unclaimed coach profile: Erin O'Reilly (Reilly@mail.wvu.edu) → coaches/Reilly
+[DRY RUN] Would create unclaimed coach profile: Ryan Nehlen (ryan.nehlen@mail.wvu.edu) → coaches/ryan.nehlen
+[DRY RUN] Would create unclaimed coach profile: Isaac Miller (Isaac.miller4@mail.wvu.edu) → coaches/Isaac.miller4
+[DRY RUN] Would create unclaimed coach profile: Sean Covich (Sean.Covich@mail.wvu.edu) → coaches/Sean.Covich
+[DRY RUN] Would create unclaimed coach profile: Will Koras (william.koras@mail.wvu.edu) → coaches/william.koras
+[DRY RUN] Would create unclaimed coach profile: Travis Doak (Travis.Doak@mail.wvu.edu) → coaches/Travis.Doak
+[DRY RUN] Would create unclaimed coach profile: Jessica Yamzon (jessica.yamzon@mail.wvu.edu) → coaches/jessica.yamzon
+[DRY RUN] Would create unclaimed coach profile: Kaylyn Millick (kmillick@mail.wvu.edu) → coaches/kmillick
+[DRY RUN] Would create unclaimed coach profile: Jon Family (Jonathan.Hammond@mail.wvu.edu) → coaches/Jonathan.Hammond
+[DRY RUN] Would create unclaimed coach profile: Jean-Pierre Lucas (jp.lucas@mail.wvu.edu) → coaches/jp.lucas
+[DRY RUN] Would create unclaimed coach profile: Jimmy King (Jimmy.King@mail.wvu.edu) → coaches/Jimmy.King
+[DRY RUN] Would create unclaimed coach profile: Tina Griffith (Tina.Griffith@mail.wvu.edu) → coaches/Tina.Griffith
+[DRY RUN] Would create unclaimed coach profile: Mikie Sevick (MichaelAnne.Sevick@mail.wvu.edu) → coaches/MichaelAnne.Sevick
+[DRY RUN] Would create unclaimed coach profile: Ciara Devenuto-Wyeth (ciara.wyeth@mail.wvu.edu) → coaches/ciara.wyeth
+[DRY RUN] Would create unclaimed coach profile: Kathleen Graduate (kmh00086@mix.wvu.edu) → coaches/kmh00086
+[DRY RUN] Would create unclaimed coach profile: Andy Wright (Andy.Wright@mail.wvu.edu) → coaches/Andy.Wright
+[DRY RUN] Would create unclaimed coach profile: Nick Noble (Nick.Noble@mail.wvu.edu) → coaches/Nick.Noble
+[DRY RUN] Would create unclaimed coach profile: Lisa Stoia (Lisa.Stoia@mail.wvu.edu) → coaches/Lisa.Stoia
+[DRY RUN] Would create unclaimed coach profile: Eric Beltran (eric.beltran@mail.wvu.edu) → coaches/eric.beltran
+[DRY RUN] Would create unclaimed coach profile: Liesa Seifert (liesa.seifert@mail.wvu.edu) → coaches/liesa.seifert
+[DRY RUN] Would create unclaimed coach profile: Brent MacDonald (brent.macdonald@mail.wvu.edu) → coaches/brent.macdonald
+[DRY RUN] Would create unclaimed coach profile: Matt O'Neill (moneill2@mail.wvu.edu) → coaches/moneill2
+[DRY RUN] Would create unclaimed coach profile: Michael Walker (mwalke15@mail.wvu.edu) → coaches/mwalke15
+[DRY RUN] Would create unclaimed coach profile: James Washbish (james.washbish@mail.wvu.edu) → coaches/james.washbish
+[DRY RUN] Would create unclaimed coach profile: David Dent (david.dent@mail.wvu.edu) → coaches/david.dent
+[DRY RUN] Would create unclaimed coach profile: Miha Lisac (Miha.Lisac@mail.wvu.edu) → coaches/Miha.Lisac
+[DRY RUN] Would create unclaimed coach profile: Logan Blair (logan.blair@mail.wvu.edu) → coaches/logan.blair
+[DRY RUN] Would create unclaimed coach profile: Jen Greeny (jennifer.greeny@mail.wvu.edu) → coaches/jennifer.greeny
+[DRY RUN] Would create unclaimed coach profile: Burdette Greeny (burdette.greeny@mail.wvu.edu) → coaches/burdette.greeny
+[DRY RUN] Would create unclaimed coach profile: Aubrey Becker (aubrey.becker@mail.wvu.edu) → coaches/aubrey.becker
+[DRY RUN] Would create unclaimed coach profile: Mike Becker (michael.becker1@mail.wvu.edu) → coaches/michael.becker1
+[DRY RUN] Would create unclaimed coach profile: Tim Flynn (TFlynn@mail.wvu.edu) → coaches/TFlynn
+[DRY RUN] Would create unclaimed coach profile: Cliff Moore (Clifford.Moore@mail.wvu.edu) → coaches/Clifford.Moore
+[DRY RUN] Would create unclaimed coach profile: Mitchell Port (Mitchell.Port@mail.wvu.edu) → coaches/Mitchell.Port
+[DRY RUN] Would create unclaimed coach profile: Dr Behavior (diane.benish@mail.wvu.edu) → coaches/diane.benish
+[DRY RUN] Would create unclaimed coach profile: Karla Psychology (karla.zavala@mail.wvu.edu) → coaches/karla.zavala
+[DRY RUN] Would create unclaimed coach profile: Aaron McLaurin (aaron.mclaurin@mail.wvu.edu) → coaches/aaron.mclaurin
+[DRY RUN] Would create unclaimed coach profile: William Bernhardt (william.bernhardt@mail.wvu.edu) → coaches/william.bernhardt
+[DRY RUN] Would create unclaimed coach profile: Vince Ippoliti (vincent.ippoliti@mail.wvu.edu) → coaches/vincent.ippoliti
+[DRY RUN] Would create unclaimed coach profile: Jason Martinez (jason.martinez2@mail.wvu.edu) → coaches/jason.martinez2
+[DRY RUN] Would create unclaimed coach profile: Rodney Engineer (rss0005@mail.wvu.edu) → coaches/rss0005
+[DRY RUN] Would create unclaimed coach profile: Joey Cuomo (joey.cuomo@mail.wvu.edu) → coaches/joey.cuomo
+[DRY RUN] Would create unclaimed coach profile: Sean McClurg (sean.mcclurg@mail.wvu.edu) → coaches/sean.mcclurg
+[DRY RUN] Would create unclaimed coach profile: Alex Mergner (alex.mergner@mail.wvu.edu) → coaches/alex.mergner
+[DRY RUN] Would create unclaimed coach profile: Kayla Scott (kayla.scott3@mail.wvu.edu) → coaches/kayla.scott3
+[DRY RUN] Would create unclaimed coach profile: Jessica Grayson () → coaches/jessica.grayson
+[DRY RUN] Would create unclaimed coach profile: Rich Rodriguez () → coaches/rich.rodriguez
+[DRY RUN] Would create unclaimed coach profile: Clara Santucci (Clara.Santucci@mail.wvu.edu) → coaches/Clara.Santucci
+[DRY RUN] Would create unclaimed coach profile: Travis Trickett () → coaches/travis.trickett
+[DRY RUN] Would create unclaimed coach profile: Jack Line () → coaches/jack.line
+[DRY RUN] Would create unclaimed coach profile: Logan Receivers () → coaches/logan.receivers
+[DRY RUN] Would create unclaimed coach profile: Jeff Bandits () → coaches/jeff.bandits
+[DRY RUN] Would create unclaimed coach profile: Gabe Safeties () → coaches/gabe.safeties
+[DRY RUN] Would create unclaimed coach profile: Ryan Receivers () → coaches/ryan.receivers
+[DRY RUN] Would create unclaimed coach profile: William Line () → coaches/william.line
+[DRY RUN] Would create unclaimed coach profile: Pat Teams () → coaches/pat.teams
+[DRY RUN] Would create unclaimed coach profile: Michael Ends () → coaches/michael.ends
+[DRY RUN] Would create unclaimed coach profile: Larry Backs () → coaches/larry.backs
+[DRY RUN] Would create unclaimed coach profile: Rhett Quarterbacks () → coaches/rhett.quarterbacks
+[DRY RUN] Would create unclaimed coach profile: Rod Cornerbacks () → coaches/rod.cornerbacks
+[DRY RUN] Would create unclaimed coach profile: Henry Weinreich () → coaches/henry.weinreich
+[DRY RUN] Would create unclaimed coach profile: Treylen Brown () → coaches/treylen.brown
+[DRY RUN] Would create unclaimed coach profile: Ashton Analyst (ashton.derico@mail.wvu.edu) → coaches/ashton.derico
+[DRY RUN] Would create unclaimed coach profile: Running Backs () → coaches/running.backs
+[DRY RUN] Would create unclaimed coach profile: Tucker Donati () → coaches/tucker.donati
+[DRY RUN] Would create unclaimed coach profile: Derek Dressler () → coaches/derek.dressler
+[DRY RUN] Would create unclaimed coach profile: Andrew Warwick () → coaches/andrew.warwick
+[DRY RUN] Would create unclaimed coach profile: Lori Rice (Lori.Rice@mail.wvu.edu) → coaches/Lori.Rice
+[DRY RUN] Would create unclaimed coach profile: Ja'Cquez Analyst () → coaches/ja.cquez.analyst
+[DRY RUN] Would create unclaimed coach profile: Jason Butts () → coaches/jason.butts
+[DRY RUN] Would create unclaimed coach profile: Dan Stratford () → coaches/dan.stratford
+[DRY RUN] Would create unclaimed coach profile: Nikki Izzo-Brown () → coaches/nikki.izzo.brown
+
+=== [13/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Virginia Wesleyan College Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - West Virginia Wesleyan College Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: West Virginia Wesleyan College Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: CROSS COUNTRY
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: TRACK & FIELD
+✔ Found 34 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - West Virginia Wesleyan College Athletics_20250923_171725.txt
+Found 43 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Nancy Wheeler (wheeler.n@wvwc.edu) → coaches/wheeler.n | Phone: (304) 473-8219
+[DRY RUN] Would create unclaimed coach profile: Lee Bradley (bradley.e@wvwc.edu) → coaches/bradley.e | Phone: (304) 473-8054
+[DRY RUN] Would create unclaimed coach profile: Dylan Cooper (cooper.d@wvwc.edu) → coaches/cooper.d
+[DRY RUN] Would create unclaimed coach profile: Kelsey Stowers (chambers.k@wvwc.edu) → coaches/chambers.k | Phone: (304) 473-8506
+[DRY RUN] Would create unclaimed coach profile: Brody Strawderman (strawderman.b@wvwc.edu) → coaches/strawderman.b
+[DRY RUN] Would create unclaimed coach profile: Lawrence Anderson (anderson.l@wvwc.edu) → coaches/anderson.l
+[DRY RUN] Would create unclaimed coach profile: Derek Sloan (sloan.d@wvwc.edu) → coaches/sloan.d | Phone: (304) 473-8131
+[DRY RUN] Would create unclaimed coach profile: Jeff Hoffman (hoffman.j@wvwc.edu) → coaches/hoffman.j
+[DRY RUN] Would create unclaimed coach profile: Brett Vincent (vincent.b@wvwc.edu) → coaches/vincent.b | Phone: (304) 473-8057
+[DRY RUN] Would create unclaimed coach profile: Darius Green (green.d@wvwc.edu) → coaches/green.d
+[DRY RUN] Would create unclaimed coach profile: Dwayne Martin (martin.d2@wvwc.edu) → coaches/martin.d2 | Phone: (304) 473-8255
+[DRY RUN] Would create unclaimed coach profile: Jason Westfall (westfall.j@wvwc.edu) → coaches/westfall.j
+[DRY RUN] Would create unclaimed coach profile: Jason Westfall (westfall.j@wvwc.edu) → coaches/westfall.j
+[DRY RUN] Would create unclaimed coach profile: Haylee Shires (shires.h@wvwc.edu) → coaches/shires.h
+[DRY RUN] Would create unclaimed coach profile: Hannah Lively (lively.h@wvwc.edu) → coaches/lively.h | Phone: (304) 473-8350
+[DRY RUN] Would create unclaimed coach profile: Emma Adcock (adcock.wv.2021@gmail.com) → coaches/adcock.wv.2021
+[DRY RUN] Would create unclaimed coach profile: Glenn Francis (francis.g@wvwc.edu) → coaches/francis.g | Phone: (304) 473-8195
+[DRY RUN] Would create unclaimed coach profile: Eric Belcher (belcher.e@wvwc.edu) → coaches/belcher.e
+[DRY RUN] Would create unclaimed coach profile: Holden Talton (talton.h@wvwc.edu) → coaches/talton.h
+[DRY RUN] Would create unclaimed coach profile: Josephine Mazza (mazza.j@wvwc.edu) → coaches/mazza.j
+[DRY RUN] Would create unclaimed coach profile: Steve Warner (warner_s@wvwc.edu) → coaches/warner_s | Phone: (304) 473-8005
+[DRY RUN] Would create unclaimed coach profile: Sarah Richardson (richardson.s@wvwc.edu) → coaches/richardson.s
+[DRY RUN] Would create unclaimed coach profile: Bob Allen (allen.r@wvwc.edu) → coaches/allen.r
+[DRY RUN] Would create unclaimed coach profile: Tiffany Colburn (colburn.t@wvwc.edu) → coaches/colburn.t
+[DRY RUN] Would create unclaimed coach profile: Tiffany Colburn (colburn.t@wvwc.edu) → coaches/colburn.t
+[DRY RUN] Would create unclaimed coach profile: Kyle Hoffman (hoffman.k@wvwc.edu) → coaches/hoffman.k | Phone: (304) 473-8495
+[DRY RUN] Would create unclaimed coach profile: Cayley Symons (symons.ca.2021@wvwc.edu) → coaches/symons.ca.2021 | Phone: 473-8495
+[DRY RUN] Would create unclaimed coach profile: Kyle Hoffman (hoffman.k@wvwc.edu) → coaches/hoffman.k | Phone: (304) 473-8495
+[DRY RUN] Would create unclaimed coach profile: Cayley Symons (symons.ca.2021@wvwc.edu) → coaches/symons.ca.2021 | Phone: 473-8495
+[DRY RUN] Would create unclaimed coach profile: Kelsey Stowers (chambers.k@wvwc.edu) → coaches/chambers.k | Phone: (304) 473-8506
+[DRY RUN] Would create unclaimed coach profile: Lawrence Anderson (anderson.l@wvwc.edu) → coaches/anderson.l
+[DRY RUN] Would create unclaimed coach profile: Brody Strawderman (strawderman.b@wvwc.edu) → coaches/strawderman.b
+[DRY RUN] Would create unclaimed coach profile: Nancy Wheeler (wheeler.n@wvwc.edu) → coaches/wheeler.n | Phone: (304) 473-8219
+[DRY RUN] Would create unclaimed coach profile: Ashley Stanton (stanton.a@wvwc.edu) → coaches/stanton.a
+[DRY RUN] Would create unclaimed coach profile: Paul Price () → coaches/paul.price
+[DRY RUN] Would create unclaimed coach profile: Tate Leavitt () → coaches/tate.leavitt
+[DRY RUN] Would create unclaimed coach profile: Ron Backs () → coaches/ron.backs
+[DRY RUN] Would create unclaimed coach profile: Ethen Linebackers () → coaches/ethen.linebackers
+[DRY RUN] Would create unclaimed coach profile: Johnny Backs () → coaches/johnny.backs
+[DRY RUN] Would create unclaimed coach profile: Davis Quarterbacks () → coaches/davis.quarterbacks
+[DRY RUN] Would create unclaimed coach profile: Seth Receivers () → coaches/seth.receivers
+[DRY RUN] Would create unclaimed coach profile: Kennedy Volunteer () → coaches/kennedy.volunteer
+[DRY RUN] Would create unclaimed coach profile: Jim Gregory () → coaches/jim.gregory
+
+=== [14/14] Processing: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Wheeling University Athletics.pdf ===
+📄 Processing PDF file: /Users/kevinvera/Documents/GitHub/ReviewMyCoach.com/reviewmycoach/reviewmycoach-python-venv/pdfs/wv/Staff Directory - Wheeling University Athletics.pdf
+⚠️  No area code detected - phone numbers will remain as-is
+🏫 Detected organization: Wheeling University Athletics
+🏃‍♂️ Found sport section: BASEBALL
+🏃‍♂️ Found sport section: CROSS COUNTRY
+🏃‍♂️ Found sport section: FOOTBALL
+🏃‍♂️ Found sport section: SOFTBALL
+🏃‍♂️ Found sport section: SWIMMING
+🏃‍♂️ Found sport section: TRACK AND FIELD
+🏃‍♂️ Found sport section: VOLLEYBALL
+✔ Found 31 coach entries using single-line format
+✔ Results written to dry-run-output/coaches_filtered_Staff Directory - Wheeling University Athletics_20250923_171725.txt
+Found 59 coach entries (filtered from PDF).
+DRY RUN MODE - No actual upload to Firestore
+[DRY RUN] Would create unclaimed coach profile: Christy Benner (cbenner@wheeling.edu) → coaches/cbenner
+[DRY RUN] Would create unclaimed coach profile: Ryan Lewicki (rlewicki@wheeling.edu) → coaches/rlewicki
+[DRY RUN] Would create unclaimed coach profile: Alexis Kelly (akelly@wheeling.edu) → coaches/akelly
+[DRY RUN] Would create unclaimed coach profile: Ryan Lewicki (rlewicki@wheeling.edu) → coaches/rlewicki
+[DRY RUN] Would create unclaimed coach profile: Greg Bamberger (baseball@wheeling.edu) → coaches/baseball
+[DRY RUN] Would create unclaimed coach profile: Chris Richardson (crichardson@wheeling.edu) → coaches/crichardson
+[DRY RUN] Would create unclaimed coach profile: Jared Chambliss (jchambliss930@cardinal.wheeling.edu) → coaches/jchambliss930
+[DRY RUN] Would create unclaimed coach profile: Ella Skeens (eskeens@wheeling.edu) → coaches/eskeens
+[DRY RUN] Would create unclaimed coach profile: Zac Bruney (zbruney@wheeling.edu) → coaches/zbruney
+[DRY RUN] Would create unclaimed coach profile: Steve McNeely (smcneely@wheeling.edu) → coaches/smcneely
+[DRY RUN] Would create unclaimed coach profile: Mott Gaymon (mgaymon@wheeling.edu) → coaches/mgaymon
+[DRY RUN] Would create unclaimed coach profile: Exree Loe (eloe727@cardinal.wheeling.edu) → coaches/eloe727
+[DRY RUN] Would create unclaimed coach profile: Chris Charles (ccharles822@cardinal.wheeling.edu) → coaches/ccharles822
+[DRY RUN] Would create unclaimed coach profile: Thadd Obecny (tobecny@wheeling.edu) → coaches/tobecny
+[DRY RUN] Would create unclaimed coach profile: Thadd Obecny (tobecny@wheeling.edu) → coaches/tobecny
+[DRY RUN] Would create unclaimed coach profile: Gage Bradshaw (gbradshaw@wheeling.edu) → coaches/gbradshaw
+[DRY RUN] Would create unclaimed coach profile: Drew Gardner (agardner694@cardinal.wheeling.edu) → coaches/agardner694
+[DRY RUN] Would create unclaimed coach profile: Maxwell Hamilton (mhamilton@wheeling.edu) → coaches/mhamilton
+[DRY RUN] Would create unclaimed coach profile: Michael Geibel (mgeibel@wheeling.edu) → coaches/mgeibel
+[DRY RUN] Would create unclaimed coach profile: Zach Hoge (zhoge899@cardinal.wheeling.edu) → coaches/zhoge899
+[DRY RUN] Would create unclaimed coach profile: Ken Pape (kpape@wheeling.edu) → coaches/kpape
+[DRY RUN] Would create unclaimed coach profile: Mallory Chapman (mchapman@wheeling.edu) → coaches/mchapman
+[DRY RUN] Would create unclaimed coach profile: Cassie Minder (softball@wheeling.edu) → coaches/softball
+[DRY RUN] Would create unclaimed coach profile: Brandon Regan (bregan@wheeling.edu) → coaches/bregan
+[DRY RUN] Would create unclaimed coach profile: Miguel Martin (mmartin012@cardinal.wheeling.edu) → coaches/mmartin012
+[DRY RUN] Would create unclaimed coach profile: Ryan Wall (rwall@wheeling.edu) → coaches/rwall
+[DRY RUN] Would create unclaimed coach profile: Ben Healy (bhealy@wheeling.edu) → coaches/bhealy
+[DRY RUN] Would create unclaimed coach profile: Elijah Young (eyoung698@cardinal.wheeling.edu) → coaches/eyoung698
+[DRY RUN] Would create unclaimed coach profile: Christy Benner (cbenner@wheeling.edu) → coaches/cbenner
+[DRY RUN] Would create unclaimed coach profile: Karly Niesen (kniesen059@cardinal.wheeling.edu) → coaches/kniesen059
+[DRY RUN] Would create unclaimed coach profile: Shane Brown (sbrown@wheeling.edu) → coaches/sbrown
+[DRY RUN] Would create unclaimed coach profile: Roger Lewicki () → coaches/roger.lewicki
+[DRY RUN] Would create unclaimed coach profile: Saige Graduate () → coaches/saige.graduate
+[DRY RUN] Would create unclaimed coach profile: Kenny Graduate () → coaches/kenny.graduate
+[DRY RUN] Would create unclaimed coach profile: Mason Graduate () → coaches/mason.graduate
+[DRY RUN] Would create unclaimed coach profile: Andres Graduate () → coaches/andres.graduate
+[DRY RUN] Would create unclaimed coach profile: Matt Student () → coaches/matt.student
+[DRY RUN] Would create unclaimed coach profile: Tyler Graduate (gcheng077@cardinal.wheeling.edu) → coaches/gcheng077
+[DRY RUN] Would create unclaimed coach profile: Andre Game (alondon@wheeling.edu) → coaches/alondon
+[DRY RUN] Would create unclaimed coach profile: Mike Kaiser (mkaiser@wheeling.edu) → coaches/mkaiser
+[DRY RUN] Would create unclaimed coach profile: Receivers () → coaches/receivers
+[DRY RUN] Would create unclaimed coach profile: Mathias Graduate () → coaches/mathias.graduate
+[DRY RUN] Would create unclaimed coach profile: Ana Graduate () → coaches/ana.graduate
+[DRY RUN] Would create unclaimed coach profile: Faith Flanagan () → coaches/faith.flanagan
+[DRY RUN] Would create unclaimed coach profile: Maisy Graduate (mlatus905@cardinal.wheeling.edu) → coaches/mlatus905
+[DRY RUN] Would create unclaimed coach profile: Bill Volunteer () → coaches/bill.volunteer
+[DRY RUN] Would create unclaimed coach profile: Courtney Graduate () → coaches/courtney.graduate
+[DRY RUN] Would create unclaimed coach profile: Sammy Graduate () → coaches/sammy.graduate
+[DRY RUN] Would create unclaimed coach profile: Carlos Graduate () → coaches/carlos.graduate
+[DRY RUN] Would create unclaimed coach profile: Rayven Graduate (rnorman844@cardinal.wheeling.edu) → coaches/rnorman844
+[DRY RUN] Would create unclaimed coach profile: Sofia Graduate () → coaches/sofia.graduate
+[DRY RUN] Would create unclaimed coach profile: Olivia Graduate (ohoban446@cardinal.wheeling.edu) → coaches/ohoban446
+[DRY RUN] Would create unclaimed coach profile: Greg Schmitt (gschmitt@wheeling.edu) → coaches/gschmitt
+[DRY RUN] Would create unclaimed coach profile: Pia Graduate () → coaches/pia.graduate
+[DRY RUN] Would create unclaimed coach profile: Greg Brown () → coaches/greg.brown
+[DRY RUN] Would create unclaimed coach profile: Zach Student () → coaches/zach.student
+
+=== DONE ===
+PDFs processed: 14
+Coach entries found: 669

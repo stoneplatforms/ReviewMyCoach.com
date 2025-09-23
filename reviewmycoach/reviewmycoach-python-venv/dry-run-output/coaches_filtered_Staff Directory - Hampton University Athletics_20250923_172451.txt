@@ -1,0 +1,375 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:52
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Hampton University
+Organization: Hampton University Athletics
+
+Total coaches found: 44
+
+PARSED ENTRIES:
+----------------------------------------
+1. Greg Fahey
+   Email: gregory.fahey@hamptonu.edu
+   Username: gregory.fahey
+   Sports: Soccer
+   Title: Associate Head Coach /
+   Phone: (757) 727-6818
+   Original line: Greg Fahey Associate Head Coach / gregory.fahey@hamptonu.edu 757-727-6818
+
+2. Calvin Cage
+   Email: calvin.cage@hamptonu.edu
+   Username: calvin.cage
+   Sports: Soccer
+   Title: Assistant Coach / Recruiting
+   Original line: Calvin Cage Assistant Coach / Recruiting calvin.cage@hamptonu.edu
+
+3. Mike Carr
+   Email: michael.carr@hamptonu.edu
+   Username: michael.carr
+   Sports: Soccer
+   Title: Assistant Coach / Defensive
+   Phone: (757) 727-6819
+   Original line: Mike Carr Assistant Coach / Defensive michael.carr@hamptonu.edu 757-727-6819
+
+4. Kyron Cartwright
+   Email: kyron.cartwright@hamptonu.edu
+   Username: kyron.cartwright
+   Sports: Soccer
+   Title: Assistant Coach / Offensive
+   Phone: (757) 727-6818
+   Original line: Kyron Cartwright Assistant Coach / Offensive kyron.cartwright@hamptonu.edu 757-727-6818
+
+5. Tamisha Augustin
+   Email: tamisha.augustin@hamptonu.edu
+   Username: tamisha.augustin
+   Sports: Soccer
+   Title: Head Coach
+   Phone: (757) 727-6817
+   Original line: Tamisha Augustin Head Coach tamisha.augustin@hamptonu.edu 757-727-6817
+
+6. Dexter Holt
+   Email: dexter.holt@hamptonu.edu
+   Username: dexter.holt
+   Sports: Soccer
+   Title: Associate Head Coach
+   Phone: (757) 727-6815
+   Original line: Dexter Holt Associate Head Coach dexter.holt@hamptonu.edu 757-727-6815
+
+7. Jaamal Rhodes
+   Email: jaamal.rhodes@hamptonu.edu
+   Username: jaamal.rhodes
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (757) 727-6818
+   Original line: Jaamal Rhodes Assistant Coach jaamal.rhodes@hamptonu.edu 757-727-6818
+
+8. Trinese Fox
+   Email: trinese.fox@hamptonu.edu
+   Username: trinese.fox
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Trinese Fox Assistant Coach trinese.fox@hamptonu.edu
+
+9. Brooke Moore
+   Email: brooke.moore@hamptonu.edu
+   Username: brooke.moore
+   Sports: Soccer
+   Title: Assistant Coach
+   Phone: (757) 727-6851
+   Original line: Brooke Moore Assistant Coach brooke.moore@hamptonu.edu 757-727-6851
+
+10. Trenton Boykin
+   Email: trenton.boykin@hamptonu.edu
+   Username: trenton.boykin
+   Sports: Football
+   Title: Head Coach
+   Phone: (757) 727-5322
+   Original line: Trenton Boykin Head Coach trenton.boykin@hamptonu.edu 757-727-5322
+
+11. Howard Feggins
+   Email: howard.feggins@hamptonu.edu
+   Username: howard.feggins
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (757) 727-5322
+   Original line: Howard Feggins Assistant Coach – Running howard.feggins@hamptonu.edu 757-727-5322
+
+12. Marc Yellock
+   Email: marc.yellock@hamptonu.edu
+   Username: marc.yellock
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (757) 727-5322
+   Original line: Marc Yellock Assistant Coach – Defensive marc.yellock@hamptonu.edu 757-727-5322
+
+13. Raekwon Bethea
+   Email: lordraekwon.bethea@hamptonu.edu
+   Username: lordraekwon.bethea
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Raekwon Bethea Assistant Coach – Defensive lordraekwon.bethea@hamptonu.edu 757=727=5322
+
+14. Vincent Culpepper
+   Email: vincent.culpepper@hamptonu.edu
+   Username: vincent.culpepper
+   Sports: Football
+   Title: Head Coach
+   Original line: Vincent Culpepper Head Coach vincent.culpepper@hamptonu.edu
+
+15. Chris Burke
+   Email: christopher.burke@hamptonu.edu
+   Username: christopher.burke
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Chris Burke Assistant Coach christopher.burke@hamptonu.edu
+
+16. Rick Matthews
+   Email: curtis.matthews@hamptonu.edu
+   Username: curtis.matthews
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Rick Matthews Assistant Coach curtis.matthews@hamptonu.edu
+
+17. Makalynne Dyer
+   Email: makalynne.dyer@hamptonu.edu
+   Username: makalynne.dyer
+   Sports: Football
+   Title: Head Coach
+   Original line: Makalynne Dyer Head Coach makalynne.dyer@hamptonu.edu
+
+18. Ana Popovic
+   Email: ana.popovic@hamptonu.edu
+   Username: ana.popovic
+   Sports: Football
+   Title: Head Coach
+   Phone: (757) 447-8769
+   Original line: Ana Popovic Head Coach ana.popovic@hamptonu.edu 757-447-8769
+
+19. Alfredo Rodriguez
+   Email: alfredo.rodriguezmarquez@hamptonu.edu
+   Username: alfredo.rodriguezmarquez
+   Sports: Football
+   Title: Marquez Assistant Coach
+   Original line: Alfredo Rodriguez Marquez Assistant Coach alfredo.rodriguezmarquez@hamptonu.edu
+
+20. Sha'keela Saunders
+   Email: shakeela.saunders@hamptonu.edu
+   Username: shakeela.saunders
+   Sports: Football
+   Title: Head Coach
+   Original line: Sha'keela Saunders Head Coach - Women's Track shakeela.saunders@hamptonu.edu
+
+21. Eric Smalls
+   Email: eric.smalls@hamptonu.edu
+   Username: eric.smalls
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (757) 727-5721
+   Original line: Eric Smalls Assistant Coach eric.smalls@hamptonu.edu 757-727-5721
+
+22. Moise Joseph
+   Email: moise.joseph@hamptonu.edu
+   Username: moise.joseph
+   Sports: Football
+   Title: Assistant Coach
+   Phone: (757) 727-5727
+   Original line: Moise Joseph Assistant Coach moise.joseph@hamptonu.edu 757-727-5727
+
+23. Scot Vorwold
+   Email: scot.vorwold@hamptonu.edu
+   Username: scot.vorwold
+   Sports: Football
+   Title: Head Coach
+   Phone: (757) 727-5517
+   Original line: Scot Vorwold Head Coach scot.vorwold@hamptonu.edu 757-727-5517
+
+24. Matheau Hall
+   Email: matheau.hall@hamptonu.edu
+   Username: matheau.hall
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matheau Hall Assistant Coach matheau.hall@hamptonu.edu
+
+25. Melissa Fernandez
+   Email: melissa.fernandez@hamptonu.edu
+   Username: melissa.fernandez
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Melissa Fernandez Assistant Coach melissa.fernandez@hamptonu.edu
+
+26. Cat Tarvin
+   Email: catherine.tarvin@hamptonu.edu
+   Username: catherine.tarvin
+   Sports: Softball
+   Title: Head Coach
+   Original line: Cat Tarvin Head Coach catherine.tarvin@hamptonu.edu
+
+27. Ashley Carter
+   Email: ashley.daviscarter@hamptonu.edu
+   Username: ashley.daviscarter
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ashley Carter Assistant Coach ashley.daviscarter@hamptonu.edu
+
+28. Khadija Neely
+   Email: khadija.neely@hamptonu.edu
+   Username: khadija.neely
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Khadija Neely Assistant Coach khadija.neely@hamptonu.edu
+
+29. Ronaldo Pacheco
+   Email: ronaldo.pacheco@hamptonu.edu
+   Username: ronaldo.pacheco
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (757) 728-6278
+   Original line: Ronaldo Pacheco Head Coach ronaldo.pacheco@hamptonu.edu 757-728-6278
+
+30. Gabrielle Tlelima
+   Email: gabrielle.calloway@hamptonu.edu
+   Username: gabrielle.calloway
+   Sports: Volleyball
+   Title: Assistant Coach
+   Phone: (757) 728-6278
+   Original line: Gabrielle Tlelima Assistant Coach gabrielle.calloway@hamptonu.edu 757-728-6278
+
+31. Dr 
+   Email: joetta.jensen@hamptonu.edu
+   Username: joetta.jensen
+   Sports: Volleyball
+   Title: Jodi Jensen Head Coach
+   Phone: (757) 727-5725
+   Original line: Dr. Jodi Jensen Head Coach joetta.jensen@hamptonu.edu 757-727-5725
+
+32. Kelli Marin
+   Email: kelli.marin@hamptonu.edu
+   Username: kelli.marin
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Kelli Marin Head Coach kelli.marin@hamptonu.edu
+
+33. Dylan D'Andrea
+   Email: dylan.dandrea@hamptonu.edu
+   Username: dylan.dandrea
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ivan Thomas Head Coach 757-727-6852 dylan.dandrea@hamptonu.edu
+
+34. Jazmine McMillon
+   Email: jazmine.mcmillon@hamptonu.edu
+   Username: jazmine.mcmillon
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach – Linebackers jazmine.mcmillon@hamptonu.edu
+
+35.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach – Wide
+
+36.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach –
+
+37. Bobby Blizzard
+   Email: robert.blizzard@hamptonu.edu
+   Username: robert.blizzard
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Coordinator / Assistant Coach robert.blizzard@hamptonu.edu
+
+38. Ollie Taylor
+   Email: oliver.taylor@hamptonu.edu
+   Username: oliver.taylor
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach – Offensive oliver.taylor@hamptonu.edu
+
+39. Le'Marcus Game
+   Email: lamarcus.gibson@hamptonu.edu
+   Username: lamarcus.gibson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach – Defensive lamarcus.gibson@hamptonu.edu
+
+40. Brad Game
+   Email: william.bustle@hamptonu.edu
+   Username: william.bustle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach – Tight Ends william.bustle@hamptonu.edu
+
+41. TBA 
+   Email: 
+   Username: tba
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: TBA . Assistant Coach
+
+42. Eduardo Goalkeeper
+   Email: 
+   Username: eduardo.goalkeeper
+   Sports: Soccer
+   Title: Eduardo Barria Goalkeeper Coach
+   Original line: Eduardo Barria Goalkeeper Coach
+
+43. Travonna Byrd
+   Email: 
+   Username: travonna.byrd
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Travonna Byrd Assistant Coach
+
+44. Vanessa Gardiner
+   Email: 
+   Username: vanessa.gardiner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Vanessa Gardiner Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Greg Fahey Associate Head Coach / gregory.fahey@hamptonu.edu 757-727-6818
+• Calvin Cage Assistant Coach / Recruiting calvin.cage@hamptonu.edu
+• Mike Carr Assistant Coach / Defensive michael.carr@hamptonu.edu 757-727-6819
+• Kyron Cartwright Assistant Coach / Offensive kyron.cartwright@hamptonu.edu 757-727-6818
+• Tamisha Augustin Head Coach tamisha.augustin@hamptonu.edu 757-727-6817
+• Dexter Holt Associate Head Coach dexter.holt@hamptonu.edu 757-727-6815
+• Jaamal Rhodes Assistant Coach jaamal.rhodes@hamptonu.edu 757-727-6818
+• Trinese Fox Assistant Coach trinese.fox@hamptonu.edu
+• Brooke Moore Assistant Coach brooke.moore@hamptonu.edu 757-727-6851
+• Trenton Boykin Head Coach trenton.boykin@hamptonu.edu 757-727-5322
+• Howard Feggins Assistant Coach – Running howard.feggins@hamptonu.edu 757-727-5322
+• Marc Yellock Assistant Coach – Defensive marc.yellock@hamptonu.edu 757-727-5322
+• Raekwon Bethea Assistant Coach – Defensive lordraekwon.bethea@hamptonu.edu 757=727=5322
+• Vincent Culpepper Head Coach vincent.culpepper@hamptonu.edu
+• Chris Burke Assistant Coach christopher.burke@hamptonu.edu
+• Rick Matthews Assistant Coach curtis.matthews@hamptonu.edu
+• Makalynne Dyer Head Coach makalynne.dyer@hamptonu.edu
+• Ana Popovic Head Coach ana.popovic@hamptonu.edu 757-447-8769
+• Alfredo Rodriguez Marquez Assistant Coach alfredo.rodriguezmarquez@hamptonu.edu
+• Sha'keela Saunders Head Coach - Women's Track shakeela.saunders@hamptonu.edu
+• Eric Smalls Assistant Coach eric.smalls@hamptonu.edu 757-727-5721
+• Moise Joseph Assistant Coach moise.joseph@hamptonu.edu 757-727-5727
+• Scot Vorwold Head Coach scot.vorwold@hamptonu.edu 757-727-5517
+• Matheau Hall Assistant Coach matheau.hall@hamptonu.edu
+• Melissa Fernandez Assistant Coach melissa.fernandez@hamptonu.edu
+• Cat Tarvin Head Coach catherine.tarvin@hamptonu.edu
+• Ashley Carter Assistant Coach ashley.daviscarter@hamptonu.edu
+• Khadija Neely Assistant Coach khadija.neely@hamptonu.edu
+• Ronaldo Pacheco Head Coach ronaldo.pacheco@hamptonu.edu 757-728-6278
+• Gabrielle Tlelima Assistant Coach gabrielle.calloway@hamptonu.edu 757-728-6278
+• Dr. Jodi Jensen Head Coach joetta.jensen@hamptonu.edu 757-727-5725
+• Kelli Marin Head Coach kelli.marin@hamptonu.edu

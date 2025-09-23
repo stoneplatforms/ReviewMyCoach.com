@@ -1,0 +1,485 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:04
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Frostburg State University
+Organization: Frostburg State University Athletics
+
+Total coaches found: 60
+
+PARSED ENTRIES:
+----------------------------------------
+1. Carl Haas
+   Email: cwhaas@frostburg.edu
+   Username: cwhaas
+   Sports: Lacrosse
+   Title: s Lacrosse Coach/Equipment
+   Original line: Carl Haas Assistant Men's Lacrosse Coach/Equipment cwhaas@frostburg.edu
+
+2. Josiah Herrera
+   Email: jherrera@frostburg.edu
+   Username: jherrera
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Josiah Herrera Assistant Strength & Conditioning Coach jherrera@frostburg.edu
+
+3. Danielle Yutzy
+   Email: dlyutzy@frostburg.edu
+   Username: dlyutzy
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Danielle Yutzy Head Coach dlyutzy@frostburg.edu
+
+4. Katie Amedure
+   Email: kmnunley@frostburg.edu
+   Username: kmnunley
+   Sports: Soccer
+   Title: Head Acrobatics & Tumbling Coach
+   Original line: Katie Amedure Head Acrobatics & Tumbling Coach kmnunley@frostburg.edu (301) 687-
+
+5. Sophia Del
+   Email: sdelgreco@frostburg.edu
+   Username: sdelgreco
+   Sports: Soccer
+   Title: Greco Acrobatics & Tumbling Assistant Coach
+   Original line: Sophia Del Greco Acrobatics & Tumbling Assistant Coach sdelgreco@frostburg.edu
+
+6. Edonnya Alvarez
+   Email: esalvarez@frostburg.edu
+   Username: esalvarez
+   Sports: Soccer
+   Title: Acrobatics & Tumbling Graduate Assistant Coach
+   Original line: Edonnya Alvarez Acrobatics & Tumbling Graduate Assistant Coach esalvarez@frostburg.edu
+
+7. Anthony Williams
+   Email: anwilliams@frostburg.edu
+   Username: anwilliams
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Anthony Williams Head Baseball Coach anwilliams@frostburg.edu
+
+8. Michael Austin
+   Email: maaustin@frostburg.edu
+   Username: maaustin
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Michael Austin Assistant Baseball Coach maaustin@frostburg.edu
+
+9. Brian Wirth
+   Email: brwirth@frostburg.edu
+   Username: brwirth
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Brian Wirth Assistant Baseball Coach brwirth@frostburg.edu
+
+10. Ethan Kiple
+   Email: efkiple0@frostburg.edu
+   Username: efkiple0
+   Sports: Baseball
+   Title: Volunteer Assistant Baseball Coach
+   Original line: Ethan Kiple Volunteer Assistant Baseball Coach efkiple0@frostburg.edu
+
+11. Zack Thomsen
+   Email: zwthomsen@frostburg.edu
+   Username: zwthomsen
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Zack Thomsen Head Men's Basketball Coach zwthomsen@frostburg.edu
+
+12. Seth Keller
+   Email: skeller0@frostburg.edu
+   Username: skeller0
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Seth Keller Assistant Men's Basketball Coach skeller0@frostburg.edu
+
+13. Jenna Eckleberry
+   Email: jreckleberry@frostburg.edu
+   Username: jreckleberry
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Jenna Eckleberry Head Women's Basketball Coach jreckleberry@frostburg.edu 301-687- @FROSTBURG_WBB
+
+14. Harley Herndon
+   Email: hsherndon@frostburg.edu
+   Username: hsherndon
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Harley Herndon Assistant Women's Basketball Coach hsherndon@frostburg.edu
+
+15. Marianne Hutchens
+   Email: mkhutchens@frostburg.edu
+   Username: mkhutchens
+   Sports: Baseball
+   Title: Head Cross Country Coach
+   Original line: Marianne Hutchens Head Cross Country Coach mkhutchens@frostburg.edu
+
+16. Eric Wagoner
+   Email: eswagoner@frostburg.edu
+   Username: eswagoner
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Eric Wagoner Head Football Coach eswagoner@frostburg.edu (301) 687- @coach_ewags
+
+17. Trevor Miller
+   Email: trmiller@frostburg.edu
+   Username: trmiller
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Trevor Miller Offensive Coordinator / Offensive Line trmiller@frostburg.edu (301) 687- @FSUCoachMiller
+
+18. Eric Rhodes
+   Email: edrhodes@frostburg.edu
+   Username: edrhodes
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Eric Rhodes Defensive Coordinator / Defensive Backs edrhodes@frostburg.edu 301-687- @CoachRhodes__
+
+19. Derek Teams
+   Email: dlprather@frostburg.edu
+   Username: dlprather
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Derek Prather Special Teams Coordinator / Linebackers dlprather@frostburg.edu @CoachDPrather
+
+20. Dave Calcutta
+   Email: dscalcutta@frostburg.edu
+   Username: dscalcutta
+   Sports: Football
+   Title: Assistant Football Coach -Defensive Line
+   Original line: Dave Calcutta Assistant Football Coach -Defensive Line dscalcutta@frostburg.edu 301-687- @Coach_Cal_FSU
+
+21. Wide Receivers
+   Email: mwpuffenberger@frostburg.edu
+   Username: mwpuffenberger
+   Sports: Football
+   Title: Matt Puffenberger Assistant Football Coach
+   Original line: Matt Puffenberger Assistant Football Coach - Wide Receivers mwpuffenberger@frostburg.edu @CoachPuff_FSU
+
+22. Backs 
+   Email: ldbrown@frostburg.edu
+   Username: ldbrown
+   Sports: Football
+   Title: Lamont Brown III Assistant Football Coach - Running
+   Original line: Lamont Brown III Assistant Football Coach - Running Backs and ldbrown@frostburg.edu
+
+23. Jack Ennis
+   Email: tjennis0@frostburg.edu
+   Username: tjennis0
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jack Ennis Defensive Assistant tjennis0@frostburg.edu @Coach_JEnnis
+
+24. Kaitlin Thompson
+   Email: kathompson@frostburg.edu
+   Username: kathompson
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Kaitlin Thompson Head Field Hockey Coach kathompson@frostburg.edu (301) 687-
+
+25. Alyssa Donato
+   Email: amdonato@frostburg.edu
+   Username: amdonato
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Alyssa Donato Assistant Field Hockey Coach amdonato@frostburg.edu
+
+26. Steve Gartelman
+   Email: smgartelman@frostburg.edu
+   Username: smgartelman
+   Sports: Track & Field
+   Title: Head Men's Lacrosse Coach
+   Original line: Steve Gartelman Head Men's Lacrosse Coach smgartelman@frostburg.edu (301) 687-
+
+27. Carl Haas
+   Email: cwhaas@frostburg.edu
+   Username: cwhaas
+   Sports: Track & Field
+   Title: s Lacrosse Coach/Equipment
+   Original line: Carl Haas Assistant Men's Lacrosse Coach/Equipment cwhaas@frostburg.edu
+
+28. Victor Licata
+   Email: Ath-V.Licata@frostburg.edu
+   Username: Ath-V.Licata
+   Sports: Track & Field
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Victor Licata Assistant Men's Lacrosse Coach Ath-V.Licata@frostburg.edu
+
+29. Stephanie King
+   Email: smking@frostburg.edu
+   Username: smking
+   Sports: Track & Field
+   Title: Women's Lacrosse Head Coach
+   Original line: Stephanie King Women's Lacrosse Head Coach smking@frostburg.edu
+
+30. Jenna Ranney
+   Email: jranney@frostburg.edu
+   Username: jranney
+   Sports: Track & Field
+   Title: Women's Lacrosse Assistant Coach
+   Original line: Jenna Ranney Women's Lacrosse Assistant Coach jranney@frostburg.edu
+
+31. Camden DeMaio
+   Email: codemaio@frostburg.edu
+   Username: codemaio
+   Sports: Track & Field
+   Title: Women's Lacrosse Graduate Assistant Coach
+   Original line: Camden DeMaio Women's Lacrosse Graduate Assistant Coach codemaio@frostburg.edu
+
+32. Jeff Horton
+   Email: jkhorton@frostburg.edu
+   Username: jkhorton
+   Sports: Track & Field
+   Title: Head Women's Rugby Coach
+   Original line: Jeff Horton Head Women's Rugby Coach jkhorton@frostburg.edu
+
+33. John Baker
+   Email: jebaker@frostburg.edu
+   Username: jebaker
+   Sports: Track & Field
+   Title: Assistant Women's Rugby Coach
+   Original line: John Baker Assistant Women's Rugby Coach jebaker@frostburg.edu
+
+34. Brian Cruz
+   Email: bcruz@frostburg.edu
+   Username: bcruz
+   Sports: Track & Field
+   Title: s Soccer Coach - Goalkeepers
+   Original line: Brian Cruz Assistant Men's Soccer Coach - Goalkeepers bcruz@frostburg.edu
+
+35. Brian Parker
+   Email: bparker@frostburg.edu
+   Username: bparker
+   Sports: Track & Field
+   Title: Head Women's Soccer Coach
+   Original line: Brian Parker Head Women's Soccer Coach bparker@frostburg.edu (301) 687- @FrostburgWS
+
+36. Bryant Sheffield
+   Email: bsheffield@frostburg.edu
+   Username: bsheffield
+   Sports: Track & Field
+   Title: Assistant Women's Soccer Coach
+   Original line: Bryant Sheffield Assistant Women's Soccer Coach bsheffield@frostburg.edu
+
+37. Shanel Stott
+   Email: smstott@frostburg.edu
+   Username: smstott
+   Sports: Softball
+   Title: Softball Assistant Coach
+   Original line: Shanel Stott Softball Assistant Coach smstott@frostburg.edu
+
+38. Kyle Garase
+   Email: kpgarase@frostburg.edu
+   Username: kpgarase
+   Sports: Softball
+   Title: Head Swimming Coach
+   Original line: Kyle Garase Head Swimming Coach kpgarase@frostburg.edu
+
+39. Jan Burton
+   Email: j.burton@frostburg.edu
+   Username: j.burton
+   Sports: Softball
+   Title: Volunteer Assistant Swimming Coach
+   Original line: Jan Burton Volunteer Assistant Swimming Coach j.burton@frostburg.edu
+
+40. Desire Johnson
+   Email: djohnson@frostburg.edu
+   Username: djohnson
+   Sports: Softball
+   Title: Head Tennis Coach
+   Original line: Desire Johnson Head Tennis Coach djohnson@frostburg.edu
+
+41. Liz Aristizabal
+   Email: laristizabal@frostburg.edu
+   Username: laristizabal
+   Sports: Softball
+   Title: Tennis Graduate Assistant Coach
+   Original line: Liz Aristizabal Tennis Graduate Assistant Coach laristizabal@frostburg.edu
+
+42. Rayshawn Walker
+   Email: rwalker@frostburg.edu
+   Username: rwalker
+   Sports: Softball
+   Title: Track & Field Head Coach
+   Original line: Rayshawn Walker Track & Field Head Coach rwalker@frostburg.edu
+
+43. Ballard Suiter
+   Email: btsuiter@frostburg.edu
+   Username: btsuiter
+   Sports: Softball
+   Title: Track & Field Assistant Coach
+   Original line: Ballard Suiter Track & Field Assistant Coach - btsuiter@frostburg.edu
+
+44. Peter Letourneau
+   Email: pdletourneau@frostburg.edu
+   Username: pdletourneau
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Peter Letourneau Head Women's Volleyball Coach pdletourneau@frostburg.edu 301-687-
+
+45. Ola Magiera
+   Email: amagiera@frostburg.edu
+   Username: amagiera
+   Sports: Softball
+   Title: Assistant Volleyball Coach
+   Original line: Ola Magiera Assistant Volleyball Coach amagiera@frostburg.edu
+
+46. Josh Hutchens
+   Email: jghutchens@frostburg.edu
+   Username: jghutchens
+   Sports: Softball
+   Title: Head Men's Wrestling Coach
+   Original line: Josh Hutchens Head Men's Wrestling Coach jghutchens@frostburg.edu 301-687-
+
+47. Blake Heim
+   Email: baheim@frostburg.edu
+   Username: baheim
+   Sports: Softball
+   Title: Assistant Men's Wrestling Coach
+   Original line: Blake Heim Assistant Men's Wrestling Coach baheim@frostburg.edu
+
+48. Breonnah Neal
+   Email: baneal@frostburg.edu
+   Username: baneal
+   Sports: Softball
+   Title: Head Women's Wrestling Coach
+   Original line: Breonnah Neal Head Women's Wrestling Coach baneal@frostburg.edu (301) 687-
+
+49. Caitlin Cardenas
+   Email: cicardenas@frostburg.edu
+   Username: cicardenas
+   Sports: Softball
+   Title: Assistant Women's Wrestling Coach
+   Original line: Caitlin Cardenas Assistant Women's Wrestling Coach cicardenas@frostburg.edu
+
+50. Rubin Interim
+   Email: rstevenson@frostburg.edu
+   Username: rstevenson
+   Sports: Softball
+   Title: Operations/ Head Softball Coach
+   Original line: Operations/ Head Softball Coach 4414 rstevenson@frostburg.edu
+
+51. Eric Seifarth
+   Email: emseifarth@frostburg.edu
+   Username: emseifarth
+   Sports: Soccer
+   Title: Soccer Coach
+   Original line: Soccer Coach 3072 emseifarth@frostburg.edu
+
+52. Ben Crowder
+   Email: bhcrowder@frostburg.edu
+   Username: bhcrowder
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Assistant Women's Basketball Coach 1886 bhcrowder@frostburg.edu
+
+53. Jack Graduate
+   Email: jwcalhoun0@frostburg.edu
+   Username: jwcalhoun0
+   Sports: Track & Field, Hockey
+   Title: Assistant Field Hockey Coach
+   Original line: Assistant Field Hockey Coach jwcalhoun0@frostburg.edu
+
+54. Kyle Linhart
+   Email: kjlinhart@frostburg.edu
+   Username: kjlinhart
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach kjlinhart@frostburg.edu
+
+55. Larry Volunteer
+   Email: 
+   Username: larry.volunteer
+   Sports: Baseball
+   Title: Larry Williams Volunteer Assistant Baseball Coach
+   Original line: Larry Williams Volunteer Assistant Baseball Coach
+
+56. Jon Volunteer
+   Email: 
+   Username: jon.volunteer
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Jon Hegeman Men's Basketball Volunteer Assistant Coach
+
+57. Seth Volunteer
+   Email: 
+   Username: seth.volunteer
+   Sports: Basketball
+   Title: Assistant Coach
+   Original line: Seth Ashline Men's Basketball Volunteer Assistant Coach
+
+58. Thomas Wasley
+   Email: 
+   Username: thomas.wasley
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Thomas Wasley Assistant Men's Soccer Coach
+
+59. Zach Volunteer
+   Email: 
+   Username: zach.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Zach Harpel Men's Soccer Volunteer Assistant Coach
+
+60. Brian Volunteer
+   Email: 
+   Username: brian.volunteer
+   Sports: Wrestling
+   Title: s Wrestling Coach
+   Original line: Brian Davis Volunteer Assistant Men's Wrestling Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Carl Haas Assistant Men's Lacrosse Coach/Equipment cwhaas@frostburg.edu
+• Josiah Herrera Assistant Strength & Conditioning Coach jherrera@frostburg.edu
+• Danielle Yutzy Head Coach dlyutzy@frostburg.edu
+• Katie Amedure Head Acrobatics & Tumbling Coach kmnunley@frostburg.edu (301) 687-
+• Sophia Del Greco Acrobatics & Tumbling Assistant Coach sdelgreco@frostburg.edu
+• Edonnya Alvarez Acrobatics & Tumbling Graduate Assistant Coach esalvarez@frostburg.edu
+• Anthony Williams Head Baseball Coach anwilliams@frostburg.edu
+• Michael Austin Assistant Baseball Coach maaustin@frostburg.edu
+• Brian Wirth Assistant Baseball Coach brwirth@frostburg.edu
+• Ethan Kiple Volunteer Assistant Baseball Coach efkiple0@frostburg.edu
+• Zack Thomsen Head Men's Basketball Coach zwthomsen@frostburg.edu
+• Seth Keller Assistant Men's Basketball Coach skeller0@frostburg.edu
+• Jenna Eckleberry Head Women's Basketball Coach jreckleberry@frostburg.edu 301-687- @FROSTBURG_WBB
+• Harley Herndon Assistant Women's Basketball Coach hsherndon@frostburg.edu
+• Marianne Hutchens Head Cross Country Coach mkhutchens@frostburg.edu
+• Eric Wagoner Head Football Coach eswagoner@frostburg.edu (301) 687- @coach_ewags
+• Trevor Miller Offensive Coordinator / Offensive Line trmiller@frostburg.edu (301) 687- @FSUCoachMiller
+• Eric Rhodes Defensive Coordinator / Defensive Backs edrhodes@frostburg.edu 301-687- @CoachRhodes__
+• Derek Prather Special Teams Coordinator / Linebackers dlprather@frostburg.edu @CoachDPrather
+• Dave Calcutta Assistant Football Coach -Defensive Line dscalcutta@frostburg.edu 301-687- @Coach_Cal_FSU
+• Matt Puffenberger Assistant Football Coach - Wide Receivers mwpuffenberger@frostburg.edu @CoachPuff_FSU
+• Lamont Brown III Assistant Football Coach - Running Backs and ldbrown@frostburg.edu
+• Jack Ennis Defensive Assistant tjennis0@frostburg.edu @Coach_JEnnis
+• Kaitlin Thompson Head Field Hockey Coach kathompson@frostburg.edu (301) 687-
+• Alyssa Donato Assistant Field Hockey Coach amdonato@frostburg.edu
+• Steve Gartelman Head Men's Lacrosse Coach smgartelman@frostburg.edu (301) 687-
+• Carl Haas Assistant Men's Lacrosse Coach/Equipment cwhaas@frostburg.edu
+• Victor Licata Assistant Men's Lacrosse Coach Ath-V.Licata@frostburg.edu
+• Stephanie King Women's Lacrosse Head Coach smking@frostburg.edu
+• Jenna Ranney Women's Lacrosse Assistant Coach jranney@frostburg.edu
+• Camden DeMaio Women's Lacrosse Graduate Assistant Coach codemaio@frostburg.edu
+• Jeff Horton Head Women's Rugby Coach jkhorton@frostburg.edu
+• John Baker Assistant Women's Rugby Coach jebaker@frostburg.edu
+• Brian Cruz Assistant Men's Soccer Coach - Goalkeepers bcruz@frostburg.edu
+• Brian Parker Head Women's Soccer Coach bparker@frostburg.edu (301) 687- @FrostburgWS
+• Bryant Sheffield Assistant Women's Soccer Coach bsheffield@frostburg.edu
+• Shanel Stott Softball Assistant Coach smstott@frostburg.edu
+• Kyle Garase Head Swimming Coach kpgarase@frostburg.edu
+• Jan Burton Volunteer Assistant Swimming Coach j.burton@frostburg.edu
+• Desire Johnson Head Tennis Coach djohnson@frostburg.edu
+• Liz Aristizabal Tennis Graduate Assistant Coach laristizabal@frostburg.edu
+• Rayshawn Walker Track & Field Head Coach rwalker@frostburg.edu
+• Ballard Suiter Track & Field Assistant Coach - btsuiter@frostburg.edu
+• Peter Letourneau Head Women's Volleyball Coach pdletourneau@frostburg.edu 301-687-
+• Ola Magiera Assistant Volleyball Coach amagiera@frostburg.edu
+• Josh Hutchens Head Men's Wrestling Coach jghutchens@frostburg.edu 301-687-
+• Blake Heim Assistant Men's Wrestling Coach baheim@frostburg.edu
+• Breonnah Neal Head Women's Wrestling Coach baneal@frostburg.edu (301) 687-
+• Caitlin Cardenas Assistant Women's Wrestling Coach cicardenas@frostburg.edu

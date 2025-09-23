@@ -1,0 +1,620 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:29
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Ohio Wesleyan University
+Organization: Ohio Wesleyan University Athletics
+
+Total coaches found: 76
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mike DeWitt
+   Email: mddewitt@owu.edu
+   Username: mddewitt
+   Sports: Basketball
+   Title: Associate Athletics Director/Head Men's Basketball Coach
+   Original line: Mike DeWitt Associate Athletics Director/Head Men's Basketball Coach mddewitt@owu.edu 740-368-
+
+2. Tyler Mott
+   Email: tamott@owu.edu
+   Username: tamott
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tyler Mott Head Coach tamott@owu.edu 740-368-
+
+3. Jon Koepf
+   Email: jkkoepf@owu.edu
+   Username: jkkoepf
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Jon Koepf Associate Head Coach jkkoepf@owu.edu 740-368-
+
+4. Jeremy Carper
+   Email: jlcarper@owu.edu
+   Username: jlcarper
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Jeremy Carper Volunteer Assistant Coach jlcarper@owu.edu 740-368-
+
+5. Brandon Szink
+   Email: bszink@owu.edu
+   Username: bszink
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Brandon Szink Volunteer Assistant Coach bszink@owu.edu 740-368-
+
+6. Mike DeWitt
+   Email: mddewitt@owu.edu
+   Username: mddewitt
+   Sports: Baseball
+   Title: Associate Athletics Director/Head Men's Basketball Coach
+   Original line: Mike DeWitt Associate Athletics Director/Head Men's Basketball Coach mddewitt@owu.edu 740-368-
+
+7. David Vogel
+   Email: davogel@owu.edu
+   Username: davogel
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: David Vogel Associate Head Coach davogel@owu.edu 740-368-
+
+8. Cody Hartzler
+   Email: crhartzler@owu.edu
+   Username: crhartzler
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Cody Hartzler Head Coach crhartzler@owu.edu
+
+9. Susan Smith
+   Email: sasmith@owu.edu
+   Username: sasmith
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Susan Smith Associate Head Coach sasmith@owu.edu 740-368-
+
+10. Kris Boey
+   Email: kwboey@owu.edu
+   Username: kwboey
+   Sports: Baseball
+   Title: Director of Track & Field and Cross Country/Head Track & Field Coach
+   Original line: Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+
+11. Ben Carlson
+   Email: brcarlso@owu.edu
+   Username: brcarlso
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ben Carlson Head Coach brcarlso@owu.edu 740-368-
+
+12. Kris Boey
+   Email: kwboey@owu.edu
+   Username: kwboey
+   Sports: Baseball
+   Title: Director of Track & Field and Cross Country/Head Track & Field Coach
+   Original line: Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+
+13. Ben Carlson
+   Email: brcarlso@owu.edu
+   Username: brcarlso
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ben Carlson Head Coach brcarlso@owu.edu 740-368-
+
+14. Brenda Semit
+   Email: bjsemit@owu.edu
+   Username: bjsemit
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Brenda Semit Head Coach bjsemit@owu.edu 740-368-
+
+15. Jon O'Haire
+   Email: jhohaire@owu.edu
+   Username: jhohaire
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jon O'Haire Assistant Coach jhohaire@owu.edu 740-368-
+
+16. Tom Watts
+   Email: tbwatts@owu.edu
+   Username: tbwatts
+   Sports: Football
+   Title: Head Coach
+   Original line: Tom Watts Head Coach tbwatts@owu.edu 740-368-
+
+17. Casey King
+   Email: cwking2@owu.edu
+   Username: cwking2
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Casey King Assistant Coach cwking2@owu.edu 740-368-
+
+18. Keith Rucker
+   Email: kvrucker@owu.edu
+   Username: kvrucker
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Keith Rucker Assistant Coach kvrucker@owu.edu 740-368-
+
+19. Ethan Sheirer
+   Email: emsheirer@owu.edu
+   Username: emsheirer
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ethan Sheirer Assistant Coach emsheirer@owu.edu 740-368-
+
+20. Desmond Andrews-Ogbogu
+   Email: dmandrewsogbogu@owu.edu
+   Username: dmandrewsogbogu
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Desmond Andrews-Ogbogu Graduate Assistant Coach dmandrewsogbogu@owu.edu 740-368-
+
+21. Cade Cradlebaugh
+   Email: cmcradlebaugh@owu.edu
+   Username: cmcradlebaugh
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Cade Cradlebaugh Graduate Assistant Coach cmcradlebaugh@owu.edu 740-368-
+
+22. Pat Day
+   Email: pmday@owu.edu
+   Username: pmday
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Pat Day Graduate Assistant Coach pmday@owu.edu 740-368-
+
+23. Charlie Hornacek
+   Email: cdhornacek@owu.edu
+   Username: cdhornacek
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Charlie Hornacek Graduate Assistant Coach cdhornacek@owu.edu 740-368-
+
+24. Steve Runge
+   Email: sprunge@owu.edu
+   Username: sprunge
+   Sports: Football
+   Title: Director of Golf/Head Golf Coach
+   Original line: Steve Runge Director of Golf/Head Golf Coach sprunge@owu.edu 740-368-
+
+25. Cari Cottle
+   Email: cldeangelis@owu.edu
+   Username: cldeangelis
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Cari Cottle Assistant Coach cldeangelis@owu.edu 740-368-
+
+26. Andrew Cottle
+   Email: abcottle@owu.edu
+   Username: abcottle
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Andrew Cottle Volunteer Assistant Coach abcottle@owu.edu 740-368-
+
+27. Steve Runge
+   Email: sprunge@owu.edu
+   Username: sprunge
+   Sports: Football
+   Title: Director of Golf/Head Golf Coach
+   Original line: Steve Runge Director of Golf/Head Golf Coach sprunge@owu.edu 740-368-
+
+28. Cari Cottle
+   Email: cldeangelis@owu.edu
+   Username: cldeangelis
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Cari Cottle Assistant Coach cldeangelis@owu.edu 740-368-
+
+29. Andrew Cottle
+   Email: abcottle@owu.edu
+   Username: abcottle
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Andrew Cottle Volunteer Assistant Coach abcottle@owu.edu 740-368-
+
+30. Mike Plantholt
+   Email: maplanth@owu.edu
+   Username: maplanth
+   Sports: Football
+   Title: Head Coach
+   Original line: Mike Plantholt Head Coach maplanth@owu.edu 740-368-
+
+31. Doug Gorski
+   Email: dtgorski@owu.edu
+   Username: dtgorski
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Doug Gorski Assistant Coach dtgorski@owu.edu 740-368-
+
+32. Justin Inacio
+   Email: jminacio@owu.edu
+   Username: jminacio
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Justin Inacio Assistant Coach jminacio@owu.edu 740-368-
+
+33. Matt Rice
+   Email: mrrice@owu.edu
+   Username: mrrice
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Matt Rice Assistant Coach mrrice@owu.edu 740-368-
+
+34. Paige Messersmith
+   Email: plmessersmith@owu.edu
+   Username: plmessersmith
+   Sports: Football
+   Title: Head Coach
+   Original line: Paige Messersmith Head Coach plmessersmith@owu.edu 740-368-
+
+35. Rachael Yoho
+   Email: rpyoho@owu.edu
+   Username: rpyoho
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Rachael Yoho Assistant Coach rpyoho@owu.edu 740-368-
+
+36. Patricia Ryan
+   Email: pkryan@owu.edu
+   Username: pkryan
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Patricia Ryan Volunteer Assistant Coach pkryan@owu.edu 740-368-
+
+37. Matt Weiss
+   Email: mdweiss@owu.edu
+   Username: mdweiss
+   Sports: Football
+   Title: Head Coach
+   Original line: Matt Weiss Head Coach mdweiss@owu.edu 740-368-
+
+38. Hector Gomez
+   Email: hdgomez@owu.edu
+   Username: hdgomez
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Hector Gomez Assistant Coach hdgomez@owu.edu 740-368-
+
+39. Chad Prickett
+   Email: cwprickett@owu.edu
+   Username: cwprickett
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Chad Prickett Assistant Coach cwprickett@owu.edu 740-368-
+
+40. Pat Ferguson
+   Email: pjferguson@owu.edu
+   Username: pjferguson
+   Sports: Football
+   Title: Head Coach
+   Original line: Pat Ferguson Head Coach pjferguson@owu.edu 740-368-
+
+41. Jim Wendling
+   Email: jpwendling@owu.edu
+   Username: jpwendling
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Jim Wendling Assistant Coach jpwendling@owu.edu 740-368-
+
+42. Ashley Ellithorp-Segner
+   Email: ajellithorpsegner@owu.edu
+   Username: ajellithorpsegner
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ashley Ellithorp-Segner Assistant Coach ajellithorpsegner@owu.edu 740-368-
+
+43. Cassie Cunningham
+   Email: cccunnin@owu.edu
+   Username: cccunnin
+   Sports: Softball
+   Title: Head Coach
+   Original line: Cassie Cunningham Head Coach cccunnin@owu.edu 740-368-
+
+44. Alexis Harvey
+   Email: anharvey@owu.edu
+   Username: anharvey
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Alexis Harvey Assistant Coach anharvey@owu.edu 740-368-
+
+45. Richard Hawes
+   Email: rlhawes@owu.edu
+   Username: rlhawes
+   Sports: Softball
+   Title: Head Coach
+   Original line: Richard Hawes Head Coach rlhawes@owu.edu 740-368-
+
+46. Beth Reed
+   Email: bjward@owu.edu
+   Username: bjward
+   Sports: Softball
+   Title: Assistant Coach/Pool Manager
+   Original line: Beth Reed Assistant Coach/Pool Manager bjward@owu.edu 740-368-
+
+47. Brad Russell
+   Email: barussell@owu.edu
+   Username: barussell
+   Sports: Softball
+   Title: Diving Coach
+   Original line: Brad Russell Diving Coach barussell@owu.edu 740-816-
+
+48. Richard Hawes
+   Email: rlhawes@owu.edu
+   Username: rlhawes
+   Sports: Softball
+   Title: Head Coach
+   Original line: Richard Hawes Head Coach rlhawes@owu.edu 740-368-
+
+49. Beth Reed
+   Email: bjward@owu.edu
+   Username: bjward
+   Sports: Softball
+   Title: Assistant Coach/Pool Manager
+   Original line: Beth Reed Assistant Coach/Pool Manager bjward@owu.edu 740-368-
+
+50. Brad Russell
+   Email: barussell@owu.edu
+   Username: barussell
+   Sports: Softball
+   Title: Diving Coach
+   Original line: Brad Russell Diving Coach barussell@owu.edu 740-816-
+
+51. Joshua Byerly
+   Email: jdbyerly@owu.edu
+   Username: jdbyerly
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Joshua Byerly Assistant Coach jdbyerly@owu.edu 740-368-
+
+52. Jason Homorody
+   Email: jlhomorody@owu.edu
+   Username: jlhomorody
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jason Homorody Assistant Coach jlhomorody@owu.edu 740-368-
+
+53. Joshua Byerly
+   Email: jdbyerly@owu.edu
+   Username: jdbyerly
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Joshua Byerly Assistant Coach jdbyerly@owu.edu 740-368-
+
+54. Jason Homorody
+   Email: jlhomorody@owu.edu
+   Username: jlhomorody
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jason Homorody Assistant Coach jlhomorody@owu.edu 740-368-
+
+55. Kris Boey
+   Email: kwboey@owu.edu
+   Username: kwboey
+   Sports: Softball
+   Title: Director of Track & Field and Cross Country/Head Track & Field Coach
+   Original line: Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+
+56. Ben Carlson
+   Email: brcarlso@owu.edu
+   Username: brcarlso
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ben Carlson Assistant Coach brcarlso@owu.edu 740-368-
+
+57. Jim Green
+   Email: jbgreen@owu.edu
+   Username: jbgreen
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jim Green Assistant Coach jbgreen@owu.edu 740-368-
+
+58. Dennis Kline
+   Email: dekline@owu.edu
+   Username: dekline
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Dennis Kline Assistant Coach dekline@owu.edu 740-368-
+
+59. Colin McShane
+   Email: cpmcshane@owu.edu
+   Username: cpmcshane
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Colin McShane Assistant Coach cpmcshane@owu.edu 740-368-
+
+60. Reggie Osborne
+   Email: crosborne@owu.edu
+   Username: crosborne
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Reggie Osborne Assistant Coach crosborne@owu.edu 740-368-
+
+61. Kris Boey
+   Email: kwboey@owu.edu
+   Username: kwboey
+   Sports: Softball
+   Title: Director of Track & Field and Cross Country/Head Track & Field Coach
+   Original line: Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+
+62. Ben Carlson
+   Email: brcarlso@owu.edu
+   Username: brcarlso
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ben Carlson Assistant Coach brcarlso@owu.edu 740-368-
+
+63. Jim Green
+   Email: jbgreen@owu.edu
+   Username: jbgreen
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jim Green Assistant Coach jbgreen@owu.edu 740-368-
+
+64. Dennis Kline
+   Email: dekline@owu.edu
+   Username: dekline
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Dennis Kline Assistant Coach dekline@owu.edu 740-368-
+
+65. Colin McShane
+   Email: cpmcshane@owu.edu
+   Username: cpmcshane
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Colin McShane Assistant Coach cpmcshane@owu.edu 740-368-
+
+66. Reggie Osborne
+   Email: crosborne@owu.edu
+   Username: crosborne
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Reggie Osborne Assistant Coach crosborne@owu.edu 740-368-
+
+67. Kirsta Cobb
+   Email: ktcobb@owu.edu
+   Username: ktcobb
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Kirsta Cobb Head Coach ktcobb@owu.edu 740-368-
+
+68. Amaya Smith
+   Email: aasmith@owu.edu
+   Username: aasmith
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Amaya Smith Assistant Coach aasmith@owu.edu 740-368-
+
+69. Paul Reid
+   Email: ptreid@owu.edu
+   Username: ptreid
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Paul Reid Head Coach ptreid@owu.edu 740-368-
+
+70. Vincent Pickett
+   Email: vtpickett@owu.edu
+   Username: vtpickett
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Vincent Pickett Assistant Coach vtpickett@owu.edu 740-368-
+
+71. Benjamin Hooff
+   Email: bthooff@owu.edu
+   Username: bthooff
+   Sports: Volleyball
+   Title: Volunteer Assistant Coach
+   Original line: Benjamin Hooff Volunteer Assistant Coach bthooff@owu.edu 740-368-
+
+72. Tanner McHugh
+   Email: trmchugh@owu.edu
+   Username: trmchugh
+   Sports: Volleyball
+   Title: Volunteer Assistant Coach
+   Original line: Tanner McHugh Volunteer Assistant Coach trmchugh@owu.edu 740-368-
+
+73. Jamie Volunteer
+   Email: 
+   Username: jamie.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jamie Ingles Volunteer Assistant Coach 740-368-
+
+74. Shelley Volunteer
+   Email: 
+   Username: shelley.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shelley Johnson Volunteer Assistant Coach 740-368-
+
+75. Brooke Volunteer
+   Email: 
+   Username: brooke.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brooke Nethers Volunteer Assistant Coach 740-368-
+
+76. Lisa Volunteer
+   Email: 
+   Username: lisa.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lisa Tubbs Volunteer Assistant Coach 740-368-
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mike DeWitt Associate Athletics Director/Head Men's Basketball Coach mddewitt@owu.edu 740-368-
+• Tyler Mott Head Coach tamott@owu.edu 740-368-
+• Jon Koepf Associate Head Coach jkkoepf@owu.edu 740-368-
+• Jeremy Carper Volunteer Assistant Coach jlcarper@owu.edu 740-368-
+• Brandon Szink Volunteer Assistant Coach bszink@owu.edu 740-368-
+• Mike DeWitt Associate Athletics Director/Head Men's Basketball Coach mddewitt@owu.edu 740-368-
+• David Vogel Associate Head Coach davogel@owu.edu 740-368-
+• Cody Hartzler Head Coach crhartzler@owu.edu
+• Susan Smith Associate Head Coach sasmith@owu.edu 740-368-
+• Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+• Ben Carlson Head Coach brcarlso@owu.edu 740-368-
+• Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+• Ben Carlson Head Coach brcarlso@owu.edu 740-368-
+• Brenda Semit Head Coach bjsemit@owu.edu 740-368-
+• Jon O'Haire Assistant Coach jhohaire@owu.edu 740-368-
+• Tom Watts Head Coach tbwatts@owu.edu 740-368-
+• Casey King Assistant Coach cwking2@owu.edu 740-368-
+• Keith Rucker Assistant Coach kvrucker@owu.edu 740-368-
+• Ethan Sheirer Assistant Coach emsheirer@owu.edu 740-368-
+• Desmond Andrews-Ogbogu Graduate Assistant Coach dmandrewsogbogu@owu.edu 740-368-
+• Cade Cradlebaugh Graduate Assistant Coach cmcradlebaugh@owu.edu 740-368-
+• Pat Day Graduate Assistant Coach pmday@owu.edu 740-368-
+• Charlie Hornacek Graduate Assistant Coach cdhornacek@owu.edu 740-368-
+• Steve Runge Director of Golf/Head Golf Coach sprunge@owu.edu 740-368-
+• Cari Cottle Assistant Coach cldeangelis@owu.edu 740-368-
+• Andrew Cottle Volunteer Assistant Coach abcottle@owu.edu 740-368-
+• Steve Runge Director of Golf/Head Golf Coach sprunge@owu.edu 740-368-
+• Cari Cottle Assistant Coach cldeangelis@owu.edu 740-368-
+• Andrew Cottle Volunteer Assistant Coach abcottle@owu.edu 740-368-
+• Mike Plantholt Head Coach maplanth@owu.edu 740-368-
+• Doug Gorski Assistant Coach dtgorski@owu.edu 740-368-
+• Justin Inacio Assistant Coach jminacio@owu.edu 740-368-
+• Matt Rice Assistant Coach mrrice@owu.edu 740-368-
+• Paige Messersmith Head Coach plmessersmith@owu.edu 740-368-
+• Rachael Yoho Assistant Coach rpyoho@owu.edu 740-368-
+• Patricia Ryan Volunteer Assistant Coach pkryan@owu.edu 740-368-
+• Matt Weiss Head Coach mdweiss@owu.edu 740-368-
+• Hector Gomez Assistant Coach hdgomez@owu.edu 740-368-
+• Chad Prickett Assistant Coach cwprickett@owu.edu 740-368-
+• Pat Ferguson Head Coach pjferguson@owu.edu 740-368-
+• Jim Wendling Assistant Coach jpwendling@owu.edu 740-368-
+• Ashley Ellithorp-Segner Assistant Coach ajellithorpsegner@owu.edu 740-368-
+• Cassie Cunningham Head Coach cccunnin@owu.edu 740-368-
+• Alexis Harvey Assistant Coach anharvey@owu.edu 740-368-
+• Richard Hawes Head Coach rlhawes@owu.edu 740-368-
+• Beth Reed Assistant Coach/Pool Manager bjward@owu.edu 740-368-
+• Brad Russell Diving Coach barussell@owu.edu 740-816-
+• Richard Hawes Head Coach rlhawes@owu.edu 740-368-
+• Beth Reed Assistant Coach/Pool Manager bjward@owu.edu 740-368-
+• Brad Russell Diving Coach barussell@owu.edu 740-816-
+• Joshua Byerly Assistant Coach jdbyerly@owu.edu 740-368-
+• Jason Homorody Assistant Coach jlhomorody@owu.edu 740-368-
+• Joshua Byerly Assistant Coach jdbyerly@owu.edu 740-368-
+• Jason Homorody Assistant Coach jlhomorody@owu.edu 740-368-
+• Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+• Ben Carlson Assistant Coach brcarlso@owu.edu 740-368-
+• Jim Green Assistant Coach jbgreen@owu.edu 740-368-
+• Dennis Kline Assistant Coach dekline@owu.edu 740-368-
+• Colin McShane Assistant Coach cpmcshane@owu.edu 740-368-
+• Reggie Osborne Assistant Coach crosborne@owu.edu 740-368-
+• Kris Boey Director of Track & Field and Cross Country/Head Track & Field Coach kwboey@owu.edu 740-368-
+• Ben Carlson Assistant Coach brcarlso@owu.edu 740-368-
+• Jim Green Assistant Coach jbgreen@owu.edu 740-368-
+• Dennis Kline Assistant Coach dekline@owu.edu 740-368-
+• Colin McShane Assistant Coach cpmcshane@owu.edu 740-368-
+• Reggie Osborne Assistant Coach crosborne@owu.edu 740-368-
+• Kirsta Cobb Head Coach ktcobb@owu.edu 740-368-
+• Amaya Smith Assistant Coach aasmith@owu.edu 740-368-
+• Paul Reid Head Coach ptreid@owu.edu 740-368-
+• Vincent Pickett Assistant Coach vtpickett@owu.edu 740-368-
+• Benjamin Hooff Volunteer Assistant Coach bthooff@owu.edu 740-368-
+• Tanner McHugh Volunteer Assistant Coach trmchugh@owu.edu 740-368-

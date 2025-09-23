@@ -1,0 +1,522 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:47
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Malone University Athletic Department
+Organization: Malone University Athletics
+
+Total coaches found: 68
+
+PARSED ENTRIES:
+----------------------------------------
+1. Lindsay Milano
+   Email: lmilano@malone.edu
+   Username: lmilano
+   Sports: Strength & Conditioning
+   Title: Strength and Conditioning Coach
+   Original line: Lindsay Milano Strength and Conditioning Coach lmilano@malone.edu
+
+2. Tom Crank
+   Email: tcrank@malone.edu
+   Username: tcrank
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tom Crank Head Coach tcrank@malone.edu 330-471-
+
+3. Charlie Wallrapp
+   Email: cwallrapp@malone.edu
+   Username: cwallrapp
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Charlie Wallrapp Head Coach cwallrapp@malone.edu 330-471-
+
+4. Will Nowak
+   Email: wnowak@malone.edu
+   Username: wnowak
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Will Nowak Assistant Coach wnowak@malone.edu
+
+5. Josiah McNair
+   Email: jmcnair1@malone.edu
+   Username: jmcnair1
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Josiah McNair Graduate Assistant Coach jmcnair1@malone.edu
+
+6. Selana Ickes
+   Email: sreale@malone.edu
+   Username: sreale
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Selana Ickes Head Coach sreale@malone.edu 330-471-
+
+7. Madison Cloonan
+   Email: mcloonan@malone.edu
+   Username: mcloonan
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Madison Cloonan Assistant Coach mcloonan@malone.edu
+
+8. Megan Belke
+   Email: mbelke@malone.edu
+   Username: mbelke
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Megan Belke Assistant Coach mbelke@malone.edu
+
+9. Derek Sanders
+   Email: dmsanders2@malone.edu
+   Username: dmsanders2
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Derek Sanders Graduate Assistant Coach dmsanders2@malone.edu
+
+10. Jack Hazen
+   Email: jhazen@malone.edu
+   Username: jhazen
+   Sports: Baseball
+   Title: Coach Emeritus
+   Original line: Jack Hazen Coach Emeritus jhazen@malone.edu 330-471-
+
+11. League 
+   Email: esports@malone.edu
+   Username: esports
+   Sports: Baseball
+   Title: Symeon Crosier Assistant Coach - Rocket
+   Original line: Symeon Crosier Assistant Coach - Rocket League Coach esports@malone.edu
+
+12. Bros 
+   Email: esports@malone.edu
+   Username: esports
+   Sports: Baseball
+   Title: Micah Czirr Assistant Coach - Smash
+   Original line: Micah Czirr Assistant Coach - Smash Bros. Coach esports@malone.edu
+
+13. Ken Hyland
+   Email: khyland@malone.edu
+   Username: khyland
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Ken Hyland Head Coach khyland@malone.edu 330-471-
+
+14. Sport 
+   Email: weddins@malone.edu
+   Username: weddins
+   Sports: Baseball
+   Title: Bill Eddins Head Coach / Assistant Athletic Director for Club and
+   Original line: Bill Eddins Head Coach / Assistant Athletic Director for Club and Recreation Sport weddins@malone.edu 330-471-
+
+15. Lindsay Milano
+   Email: lmilano@malone.edu
+   Username: lmilano
+   Sports: Baseball
+   Title: Strength and Conditioning Coach
+   Original line: Lindsay Milano Strength and Conditioning Coach lmilano@malone.edu
+
+16. Michael Campbell
+   Email: mcampbell@malone.edu
+   Username: mcampbell
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Michael Campbell Head Coach mcampbell@malone.edu 330-471-
+
+17. Michael Jewell
+   Email: mjewell@malone.edu
+   Username: mjewell
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Michael Jewell Head Coach mjewell@malone.edu 330-471-
+
+18. Bill Lawrence
+   Email: blawrence@malone.edu
+   Username: blawrence
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bill Lawrence Head Coach blawrence@malone.edu 330-471-
+
+19. Bailey Shattell
+   Email: bshattell@malone.edu
+   Username: bshattell
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bailey Shattell Head Coach bshattell@malone.edu 330-471-
+
+20. Tyler Wickham
+   Email: twickham@malone.edu
+   Username: twickham
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Tyler Wickham Assistant Coach twickham@malone.edu
+
+21. Skyler Huda
+   Email: sahuda1@malone.edu
+   Username: sahuda1
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Skyler Huda Graduate Assistant Coach sahuda1@malone.edu
+
+22. Jeff Hite
+   Email: jhite@malone.edu
+   Username: jhite
+   Sports: Softball
+   Title: Head Coach
+   Original line: Jeff Hite Head Coach jhite@malone.edu 330-471-
+
+23. Jerry Reynolds
+   Email: jreynolds@malone.edu
+   Username: jreynolds
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jerry Reynolds Assistant Coach jreynolds@malone.edu
+
+24. Karen Marinos
+   Email: kmarinos@malone.edu
+   Username: kmarinos
+   Sports: Softball
+   Title: Co-Head Coach
+   Original line: Karen Marinos Co-Head Coach kmarinos@malone.edu
+
+25. Krista Klein
+   Email: krklein@malone.edu
+   Username: krklein
+   Sports: Softball
+   Title: Co-Head Coach
+   Original line: Krista Klein Co-Head Coach krklein@malone.edu
+
+26. Nick Wertz
+   Email: nwertz@malone.edu
+   Username: nwertz
+   Sports: Softball
+   Title: Head Coach
+   Original line: Nick Wertz Head Coach nwertz@malone.edu 330-471-
+
+27. Kylie Demarets
+   Email: kdemarets@malone.edu
+   Username: kdemarets
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Kylie Demarets Graduate Assistant Coach kdemarets@malone.edu
+
+28. Jack Hazen
+   Email: jhazen@malone.edu
+   Username: jhazen
+   Sports: Softball
+   Title: Coach Emeritus
+   Original line: Jack Hazen Coach Emeritus jhazen@malone.edu 330-471-
+
+29. Rafael Gonzalez
+   Email: rgonzalez@malone.edu
+   Username: rgonzalez
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Rafael Gonzalez Head Coach rgonzalez@malone.edu 330-471-
+
+30. Paige Bogue
+   Email: pbbrenner1@malone.edu
+   Username: pbbrenner1
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Paige Bogue Assistant Coach pbbrenner1@malone.edu
+
+31. Tanya Hockman
+   Email: thockman@malone.edu
+   Username: thockman
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 8376 thockman@malone.edu
+
+32. Matthew Information
+   Email: mkennell@malone.edu
+   Username: mkennell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jon Crank Assistant Coach mkennell@malone.edu
+
+33. Leyna Graduate
+   Email: lheather1@malone.edu
+   Username: lheather1
+   Sports: Soccer
+   Title: John Thompson Hitting Coach
+   Original line: John Thompson Hitting Coach lheather1@malone.edu
+
+34. Ryan Sarbaugh
+   Email: 
+   Username: ryan.sarbaugh
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Sarbaugh Assistant Coach
+
+35. Joe Crank
+   Email: 
+   Username: joe.crank
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Joe Crank Assistant Coach
+
+36. Branden Carey
+   Email: 
+   Username: branden.carey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Branden Carey Assistant Coach
+
+37. Stone King
+   Email: 
+   Username: stone.king
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Stone King Assistant Coach
+
+38. Tyson Gingerich
+   Email: 
+   Username: tyson.gingerich
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tyson Gingerich Assistant Coach
+
+39. Tyler Graduate
+   Email: 
+   Username: tyler.graduate
+   Sports: Soccer
+   Title: Tyler Hays Graduate Assistant Pitching Coach
+   Original line: Tyler Hays Graduate Assistant Pitching Coach
+
+40. Michael Graduate
+   Email: 
+   Username: michael.graduate
+   Sports: Soccer
+   Title: Michael Cook Graduate Assistant Pitching Coach
+   Original line: Michael Cook Graduate Assistant Pitching Coach
+
+41. Jordan Lindesmith
+   Email: 
+   Username: jordan.lindesmith
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jordan Lindesmith Assistant Coach
+
+42. Shavon Robinson
+   Email: 
+   Username: shavon.robinson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shavon Robinson Assistant Coach
+
+43. Anthony Butch
+   Email: 
+   Username: anthony.butch
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anthony Butch Assistant Coach
+
+44. Taryn Graduate
+   Email: 
+   Username: taryn.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taryn Cash Graduate Assistant Coach
+
+45. Macey Graduate
+   Email: 
+   Username: macey.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Macey Hicks Graduate Assistant Coach
+
+46. Austin Graduate
+   Email: 
+   Username: austin.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Austin Underwood Graduate Assistant Coach
+
+47. Zach Fresenko
+   Email: zfresenko@malone.edu
+   Username: zfresenko
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Noah Chaplik Volunteer Assistant Coach zfresenko@malone.edu
+
+48. Bill Volunteer
+   Email: 
+   Username: bill.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bill Huntington Volunteer Assistant Coach
+
+49. Brandon Mills
+   Email: 
+   Username: brandon.mills
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Mills Assistant Coach
+
+50. Barry Volunteer
+   Email: 
+   Username: barry.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Barry Hyland Volunteer Assistant Coach
+
+51. Savanna Student
+   Email: 
+   Username: savanna.student
+   Sports: Soccer
+   Title: Savanna Porter Student Coach
+   Original line: Savanna Porter Student Coach
+
+52. Nate Grover
+   Email: 
+   Username: nate.grover
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nate Grover Assistant Coach
+
+53. Accele Rando
+   Email: 
+   Username: accele.rando
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Accele Rando Assistant Coach
+
+54. Denny Ciornei
+   Email: 
+   Username: denny.ciornei
+   Sports: Soccer
+   Title: Assistant Coach - Goalkeepers
+   Original line: Denny Ciornei Assistant Coach - Goalkeepers
+
+55. Oliver Graduate
+   Email: 
+   Username: oliver.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Oliver Condell Graduate Assistant Coach
+
+56. Ella Graduate
+   Email: 
+   Username: ella.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ella Collinsworth Graduate Assistant Coach
+
+57. Taylor Graduate
+   Email: 
+   Username: taylor.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Taylor Walls Graduate Assistant Coach
+
+58. Lee Allender
+   Email: 
+   Username: lee.allender
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lee Allender Assistant Coach
+
+59. Erin Steiner
+   Email: 
+   Username: erin.steiner
+   Sports: Soccer
+   Title: Erin Steiner Diving Coach
+   Original line: Erin Steiner Diving Coach
+
+60. Caleb Volunteer
+   Email: 
+   Username: caleb.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caleb Cosentino Volunteer Assistant Coach
+
+61. Trent Volunteer
+   Email: 
+   Username: trent.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Trent Dibell Volunteer Assistant Coach
+
+62. Madalyn Volunteer
+   Email: 
+   Username: madalyn.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Madalyn Steirwalt Volunteer Assistant Coach
+
+63. Jeb Ford
+   Email: 
+   Username: jeb.ford
+   Sports: Soccer
+   Title: Assistant Coach - Sprints/Hurdles
+   Original line: Jeb Ford Assistant Coach - Sprints/Hurdles
+
+64. Deana Fresenko
+   Email: 
+   Username: deana.fresenko
+   Sports: Soccer
+   Title: Assistant Coach - Jumps
+   Original line: Deana Fresenko Assistant Coach - Jumps
+
+65. Chris Beemiller
+   Email: 
+   Username: chris.beemiller
+   Sports: Soccer
+   Title: Assistant Coach - Throws
+   Original line: Chris Beemiller Assistant Coach - Throws
+
+66. Travis Volunteer
+   Email: 
+   Username: travis.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Travis Morgan Volunteer Assistant Coach
+
+67. Ashley Stumperth
+   Email: 
+   Username: ashley.stumperth
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ashley Stumperth Assistant Coach
+
+68. Anna Volunteer
+   Email: 
+   Username: anna.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anna Hopple Volunteer Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Lindsay Milano Strength and Conditioning Coach lmilano@malone.edu
+• Tom Crank Head Coach tcrank@malone.edu 330-471-
+• Charlie Wallrapp Head Coach cwallrapp@malone.edu 330-471-
+• Will Nowak Assistant Coach wnowak@malone.edu
+• Josiah McNair Graduate Assistant Coach jmcnair1@malone.edu
+• Selana Ickes Head Coach sreale@malone.edu 330-471-
+• Madison Cloonan Assistant Coach mcloonan@malone.edu
+• Megan Belke Assistant Coach mbelke@malone.edu
+• Derek Sanders Graduate Assistant Coach dmsanders2@malone.edu
+• Jack Hazen Coach Emeritus jhazen@malone.edu 330-471-
+• Symeon Crosier Assistant Coach - Rocket League Coach esports@malone.edu
+• Micah Czirr Assistant Coach - Smash Bros. Coach esports@malone.edu
+• Ken Hyland Head Coach khyland@malone.edu 330-471-
+• Bill Eddins Head Coach / Assistant Athletic Director for Club and Recreation Sport weddins@malone.edu 330-471-
+• Lindsay Milano Strength and Conditioning Coach lmilano@malone.edu
+• Michael Campbell Head Coach mcampbell@malone.edu 330-471-
+• Michael Jewell Head Coach mjewell@malone.edu 330-471-
+• Bill Lawrence Head Coach blawrence@malone.edu 330-471-
+• Bailey Shattell Head Coach bshattell@malone.edu 330-471-
+• Tyler Wickham Assistant Coach twickham@malone.edu
+• Skyler Huda Graduate Assistant Coach sahuda1@malone.edu
+• Jeff Hite Head Coach jhite@malone.edu 330-471-
+• Jerry Reynolds Assistant Coach jreynolds@malone.edu
+• Karen Marinos Co-Head Coach kmarinos@malone.edu
+• Krista Klein Co-Head Coach krklein@malone.edu
+• Nick Wertz Head Coach nwertz@malone.edu 330-471-
+• Kylie Demarets Graduate Assistant Coach kdemarets@malone.edu
+• Jack Hazen Coach Emeritus jhazen@malone.edu 330-471-
+• Rafael Gonzalez Head Coach rgonzalez@malone.edu 330-471-
+• Paige Bogue Assistant Coach pbbrenner1@malone.edu

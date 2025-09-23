@@ -1,0 +1,500 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:01
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Miami University
+Organization: Miami University RedHawks Athletics
+
+Total coaches found: 61
+
+PARSED ENTRIES:
+----------------------------------------
+1. Kelsey Minson
+   Email: minsonk@miamioh.edu
+   Username: minsonk
+   Sports: Soccer, Track & Field
+   Title: Associate Human Performance Coach
+   Original line: Kelsey Minson Associate Human Performance Coach (Soccer, Skating, Field 513-529- minsonk@miamioh.edu
+
+2. Nate Flannery
+   Email: flannen@miamioh.edu
+   Username: flannen
+   Sports: Soccer
+   Title: Assistant Human Performance Coach
+   Original line: Nate Flannery Assistant Human Performance Coach 513-529- flannen@miamioh.edu
+
+3. Marley Wahler
+   Email: wahlerm@miamioh.edu
+   Username: wahlerm
+   Sports: Soccer
+   Title: Assistant Human Performance Coach
+   Original line: Marley Wahler Assistant Human Performance Coach 513-529- wahlerm@miamioh.edu
+
+4. Keith Parker
+   Email: parkerkr@miamioh.edu
+   Username: parkerkr
+   Sports: Soccer
+   Title: Assistant Human Performance Coach
+   Original line: Keith Parker Assistant Human Performance Coach 513-529- parkerkr@miamioh.edu
+
+5. Jordan Goffena
+   Email: goffenjd@miamioh.edu
+   Username: goffenjd
+   Sports: Soccer
+   Title: Mental Performance Coach
+   Original line: Jordan Goffena Mental Performance Coach goffenjd@miamioh.edu
+
+6. Brian Smiley
+   Email: smileyb@miamioh.edu
+   Username: smileyb
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brian Smiley Head Coach 513-529- smileyb@miamioh.edu
+
+7. Kyle Trewyn
+   Email: trewynk@miamioh.edu
+   Username: trewynk
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Kyle Trewyn Associate Head Coach 513-529- trewynk@miamioh.edu
+
+8. Larry Pitching
+   Email: scullyl@miamioh.edu
+   Username: scullyl
+   Sports: Baseball
+   Title: Coach
+   Original line: Larry Scully Pitching Coach 513-529- scullyl@miamioh.edu
+
+9. Miguel Rivera
+   Email: riveram7@miamioh.edu
+   Username: riveram7
+   Sports: Baseball
+   Title: Assistant Coach/Director of Baseball Operations
+   Original line: Miguel Rivera Assistant Coach/Director of Baseball Operations 513-529- riveram7@miamioh.edu
+
+10. Jonathan Holmes
+   Email: holmesj@miamioh.edu
+   Username: holmesj
+   Sports: Basketball (Men)
+   Title: Head Coach
+   Original line: Jonathan Holmes Associate Head Coach 513-529- holmesj@miamioh.edu
+
+11. Khristian Smith
+   Email: Khristian.Smith@miamioh.edu
+   Username: Khristian.Smith
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Khristian Smith Assistant Coach 513-529- Khristian.Smith@miamioh.edu
+
+12. Carl Richburg
+   Email: Carl.Richburg@miamioh.edu
+   Username: Carl.Richburg
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Carl Richburg Assistant Coach 513-529- Carl.Richburg@miamioh.edu
+
+13. Elijah Pennington
+   Email: pennine@miamioh.edu
+   Username: pennine
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Elijah Pennington Assistant Coach 513-529- pennine@miamioh.edu
+
+14. Ben Botts
+   Email: bottsb@miamioh.edu
+   Username: bottsb
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Ben Botts Assistant Coach 513-529- bottsb@miamioh.edu
+
+15. Ben Wierzba
+   Email: wierzbb@miamioh.edu
+   Username: wierzbb
+   Sports: Basketball (Men)
+   Title: Head Coach
+   Original line: Ben Wierzba Associate Head Coach 513-529- wierzbb@miamioh.edu
+
+16. Shumate 
+   Email: shumatld@miamioh.edu
+   Username: shumatld
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: JR Shumate Assistant Coach 513-529- shumatld@miamioh.edu
+
+17. Maya Chandler
+   Email: chandlm5@miamioh.edu
+   Username: chandlm5
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Maya Chandler Assistant Coach 513-529- chandlm5@miamioh.edu
+
+18. Avery Wright
+   Email: wrigh439@miamioh.edu
+   Username: wrigh439
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Avery Wright Assistant Coach 513-529- wrigh439@miamioh.edu
+
+19. Jude McCullough
+   Email: mccullmj@miamioh.edu
+   Username: mccullmj
+   Sports: Basketball (Men)
+   Title: Cheer Coach
+   Original line: Jude McCullough Cheer Coach mccullmj@miamioh.edu
+
+20. Puzo 
+   Email: puzoji@miamioh.edu
+   Username: puzoji
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Iñako Puzo Head Coach 513-529- puzoji@miamioh.edu
+
+21. Chip Rogers
+   Email: chip.rogers@miamioh.edu
+   Username: chip.rogers
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Chip Rogers Associate Head Coach 513-529- chip.rogers@miamioh.edu
+
+22. Joan Carol
+   Email: coralj@miamioh.edu
+   Username: coralj
+   Sports: Track & Field
+   Title: Oliveras Assistant Coach
+   Original line: Joan Carol Oliveras Assistant Coach coralj@miamioh.edu
+
+23. Hollyn Roe
+   Email: roeh@miamioh.edu
+   Username: roeh
+   Sports: Track & Field
+   Title: Assistant Goalkeeper Coach
+   Original line: Hollyn Roe Assistant Goalkeeper Coach roeh@miamioh.edu
+
+24. JD Fletcher
+   Email: fletchjd@miamioh.edu
+   Username: fletchjd
+   Sports: Football
+   Title: Head Coach
+   Original line: JD Fletcher Head Coach 513-529- fletchjd@miamioh.edu
+
+25. Charlie Winkler
+   Email: winkledc@miamioh.edu
+   Username: winkledc
+   Sports: Football
+   Title: Assistant Coach/Player Development
+   Original line: Charlie Winkler Assistant Coach/Player Development 513-529- winkledc@miamioh.edu
+
+26. Bruce Cunningham
+   Email: cunninb@miamioh.edu
+   Username: cunninb
+   Sports: Football
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Bruce Cunningham Assistant Coach/Recruiting Coordinator 513-529- cunninb@miamioh.edu
+
+27. Anthony Noreen
+   Email: noreenam@miamioh.edu
+   Username: noreenam
+   Sports: Football
+   Title: Head Coach
+   Original line: Anthony Noreen Head Coach 513-529- noreenam@miamioh.edu
+
+28. Troy Thibodeau
+   Email: thibodtm@miamioh.edu
+   Username: thibodtm
+   Sports: Football
+   Title: Head Coach
+   Original line: Troy Thibodeau Associate Head Coach 513-529- thibodtm@miamioh.edu
+
+29. David General
+   Email: niesdm@miamioh.edu
+   Username: niesdm
+   Sports: Football
+   Title: Assistant Coach
+   Original line: David Nies General Manager/Assistant Coach 513-529- niesdm@miamioh.edu
+
+30. Lionel Mauron
+   Email: mauronl@miamioh.edu
+   Username: mauronl
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Lionel Mauron Assistant Coach 513-529- mauronl@miamioh.edu
+
+31. Jimmy Spratt
+   Email: sprattj@miamioh.edu
+   Username: sprattj
+   Sports: Football
+   Title: Head Coach
+   Original line: Jimmy Spratt Assistant to the Head Coach 513-529- sprattj@miamioh.edu
+
+32. Courtney Sirmans
+   Email: sirmancj@miamioh.edu
+   Username: sirmancj
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Courtney Sirmans Head Coach 513-529- sirmancj@miamioh.edu
+
+33. Roberto Gallegos
+   Email: gallegr@miamioh.edu
+   Username: gallegr
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Roberto Gallegos Associate Head Coach 513-529- gallegr@miamioh.edu
+
+34. Michael Crane
+   Email: cranem@miamioh.edu
+   Username: cranem
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Michael Crane Assistant Coach 513-529- cranem@miamioh.edu
+
+35. Mandy Gardner-Colegate
+   Email: mandy.colegate@miamioh.edu
+   Username: mandy.colegate
+   Sports: Softball
+   Title: Head Coach
+   Original line: Mandy Gardner-Colegate Head Coach 513-529- mandy.colegate@miamioh.edu
+
+36. Alivia Forshey
+   Email: alivia.forshey@miamioh.edu
+   Username: alivia.forshey
+   Sports: Softball
+   Title: Head Coach
+   Original line: Alivia Forshey Associate Head Coach 513-529- alivia.forshey@miamioh.edu
+
+37. Emerald Doria
+   Email: doriae@miamioh.edu
+   Username: doriae
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Emerald Doria Assistant Coach 513-529- doriae@miamioh.edu
+
+38. Jenna Golembiewski
+   Email: golembjm@miamioh.edu
+   Username: golembjm
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jenna Golembiewski Assistant Coach 5135293113 golembjm@miamioh.edu
+
+39. Samantha Pitter
+   Email: pittersr@miamioh.edu
+   Username: pittersr
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Samantha Pitter Head Coach of Men's and Women's Swimming and Diving 513-529- pittersr@miamioh.edu
+
+40. Kevin Menke
+   Email: menkek@miamioh.edu
+   Username: menkek
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Kevin Menke Assistant Coach 513-529- menkek@miamioh.edu
+
+41. Charlie Retter
+   Email: rettercj@miamioh.edu
+   Username: rettercj
+   Sports: Swimming
+   Title: Diving Coach
+   Original line: Charlie Retter Diving Coach 513-529- rettercj@miamioh.edu
+
+42. Katey Nyquist
+   Email: nyquiskz@miamioh.edu
+   Username: nyquiskz
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Katey Nyquist Head Coach 513-529- nyquiskz@miamioh.edu
+
+43. Sammie Levine
+   Email: levinesl@miamioh.edu
+   Username: levinesl
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Sammie Levine Assistant Coach 513-529- levinesl@miamioh.edu
+
+44. Ricardo Rosas
+   Email: rosasr@miamioh.edu
+   Username: rosasr
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Ricardo Rosas Head Coach 513-255- rosasr@miamioh.edu
+
+45. Champy Halim
+   Email: halimc@miamioh.edu
+   Username: halimc
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Champy Halim Assistant Coach 513-529- halimc@miamioh.edu
+
+46. Matt Moore
+   Email: moorem28@miamioh.edu
+   Username: moorem28
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Matt Moore Assistant Coach moorem28@miamioh.edu
+
+47. De'Sean Turner
+   Email: turner79@miamioh.edu
+   Username: turner79
+   Sports: Swimming
+   Title: Sean Head Cross Country Coach
+   Original line: De'Sean Turner Head Cross Country Coach, Associate Head Track and Field 513-529- turner79@miamioh.edu
+
+48. Ryan Smith
+   Email: smithr40@miamioh.edu
+   Username: smithr40
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Ryan Smith Assistant Coach (Throws) 513-529- smithr40@miamioh.edu
+
+49. Dexter Benkard
+   Email: benkard@miamioh.edu
+   Username: benkard
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Dexter Benkard Assistant Coach (Distance) 513-529- benkard@miamioh.edu
+
+50. Josh Dangel
+   Email: dangeljd@miamioh.edu
+   Username: dangeljd
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Josh Dangel Assistant Coach (Sprints/Jumps) 513-529- dangeljd@miamioh.edu
+
+51. Jaz Smith
+   Email: smit1164@miamioh.edu
+   Username: smit1164
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Jaz Smith Assistant Coach (Sprints/Hurdles/Jumps) 513-529- smit1164@miamioh.edu
+
+52. Rebecca Podojil
+   Email: podijir@miamioh.edu
+   Username: podijir
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Rebecca Podojil Assistant Coach (Hurdles) podijir@miamioh.edu
+
+53. Dan Gwitt
+   Email: muvb@miamioh.edu
+   Username: muvb
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Dan Gwitt Head Coach 513-529- muvb@miamioh.edu
+
+54. Amanda Chamberlain
+   Email: chambe46@miamioh.edu
+   Username: chambe46
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Amanda Chamberlain Assistant Coach 513-529- chambe46@miamioh.edu
+
+55. Kristina Fultz
+   Email: Fultzk@miamioh.edu
+   Username: Fultzk
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Kristina Fultz Assistant Coach 513-529- Fultzk@miamioh.edu
+
+56. Haley Davidson
+   Email: davidsh5@miamioh.edu
+   Username: davidsh5
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Haley Davidson Assistant Coach 513-529- davidsh5@miamioh.edu
+
+57. Dr Dailey
+   Email: daileysw@miamioh.edu
+   Username: daileysw
+   Sports: Soccer
+   Title: Performance Coach
+   Original line: Performance Coach of Football) 8018 daileysw@miamioh.edu
+
+58. Travis Steele
+   Email: 
+   Username: travis.steele
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Travis Steele Head Coach 513-529-
+
+59. Glenn Box
+   Email: 
+   Username: glenn.box
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Glenn Box Head Coach 513-529-
+
+60. Chuck Martin
+   Email: 
+   Username: chuck.martin
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chuck Martin Head Coach 513-529-
+
+61.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 3489
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Kelsey Minson Associate Human Performance Coach (Soccer, Skating, Field 513-529- minsonk@miamioh.edu
+• Nate Flannery Assistant Human Performance Coach 513-529- flannen@miamioh.edu
+• Marley Wahler Assistant Human Performance Coach 513-529- wahlerm@miamioh.edu
+• Keith Parker Assistant Human Performance Coach 513-529- parkerkr@miamioh.edu
+• Jordan Goffena Mental Performance Coach goffenjd@miamioh.edu
+• Brian Smiley Head Coach 513-529- smileyb@miamioh.edu
+• Kyle Trewyn Associate Head Coach 513-529- trewynk@miamioh.edu
+• Larry Scully Pitching Coach 513-529- scullyl@miamioh.edu
+• Miguel Rivera Assistant Coach/Director of Baseball Operations 513-529- riveram7@miamioh.edu
+• Jonathan Holmes Associate Head Coach 513-529- holmesj@miamioh.edu
+• Khristian Smith Assistant Coach 513-529- Khristian.Smith@miamioh.edu
+• Carl Richburg Assistant Coach 513-529- Carl.Richburg@miamioh.edu
+• Elijah Pennington Assistant Coach 513-529- pennine@miamioh.edu
+• Ben Botts Assistant Coach 513-529- bottsb@miamioh.edu
+• Ben Wierzba Associate Head Coach 513-529- wierzbb@miamioh.edu
+• JR Shumate Assistant Coach 513-529- shumatld@miamioh.edu
+• Maya Chandler Assistant Coach 513-529- chandlm5@miamioh.edu
+• Avery Wright Assistant Coach 513-529- wrigh439@miamioh.edu
+• Jude McCullough Cheer Coach mccullmj@miamioh.edu
+• Iñako Puzo Head Coach 513-529- puzoji@miamioh.edu
+• Chip Rogers Associate Head Coach 513-529- chip.rogers@miamioh.edu
+• Joan Carol Oliveras Assistant Coach coralj@miamioh.edu
+• Hollyn Roe Assistant Goalkeeper Coach roeh@miamioh.edu
+• JD Fletcher Head Coach 513-529- fletchjd@miamioh.edu
+• Charlie Winkler Assistant Coach/Player Development 513-529- winkledc@miamioh.edu
+• Bruce Cunningham Assistant Coach/Recruiting Coordinator 513-529- cunninb@miamioh.edu
+• Anthony Noreen Head Coach 513-529- noreenam@miamioh.edu
+• Troy Thibodeau Associate Head Coach 513-529- thibodtm@miamioh.edu
+• David Nies General Manager/Assistant Coach 513-529- niesdm@miamioh.edu
+• Lionel Mauron Assistant Coach 513-529- mauronl@miamioh.edu
+• Jimmy Spratt Assistant to the Head Coach 513-529- sprattj@miamioh.edu
+• Courtney Sirmans Head Coach 513-529- sirmancj@miamioh.edu
+• Roberto Gallegos Associate Head Coach 513-529- gallegr@miamioh.edu
+• Michael Crane Assistant Coach 513-529- cranem@miamioh.edu
+• Mandy Gardner-Colegate Head Coach 513-529- mandy.colegate@miamioh.edu
+• Alivia Forshey Associate Head Coach 513-529- alivia.forshey@miamioh.edu
+• Emerald Doria Assistant Coach 513-529- doriae@miamioh.edu
+• Jenna Golembiewski Assistant Coach 5135293113 golembjm@miamioh.edu
+• Samantha Pitter Head Coach of Men's and Women's Swimming and Diving 513-529- pittersr@miamioh.edu
+• Kevin Menke Assistant Coach 513-529- menkek@miamioh.edu
+• Charlie Retter Diving Coach 513-529- rettercj@miamioh.edu
+• Katey Nyquist Head Coach 513-529- nyquiskz@miamioh.edu
+• Sammie Levine Assistant Coach 513-529- levinesl@miamioh.edu
+• Ricardo Rosas Head Coach 513-255- rosasr@miamioh.edu
+• Champy Halim Assistant Coach 513-529- halimc@miamioh.edu
+• Matt Moore Assistant Coach moorem28@miamioh.edu
+• De'Sean Turner Head Cross Country Coach, Associate Head Track and Field 513-529- turner79@miamioh.edu
+• Ryan Smith Assistant Coach (Throws) 513-529- smithr40@miamioh.edu
+• Dexter Benkard Assistant Coach (Distance) 513-529- benkard@miamioh.edu
+• Josh Dangel Assistant Coach (Sprints/Jumps) 513-529- dangeljd@miamioh.edu
+• Jaz Smith Assistant Coach (Sprints/Hurdles/Jumps) 513-529- smit1164@miamioh.edu
+• Rebecca Podojil Assistant Coach (Hurdles) podijir@miamioh.edu
+• Dan Gwitt Head Coach 513-529- muvb@miamioh.edu
+• Amanda Chamberlain Assistant Coach 513-529- chambe46@miamioh.edu
+• Kristina Fultz Assistant Coach 513-529- Fultzk@miamioh.edu
+• Haley Davidson Assistant Coach 513-529- davidsh5@miamioh.edu

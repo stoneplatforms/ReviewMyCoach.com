@@ -1,0 +1,446 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:58
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Washington College
+Organization: Washington College Athletics
+
+Total coaches found: 56
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alex Calder-Butler
+   Email: acalder2@washcoll.edu
+   Username: acalder2
+   Sports: Track & Field, Hockey
+   Title: Head Field Hockey Coach/ADID
+   Original line: Alex Calder-Butler Head Field Hockey Coach/ADID acalder2@washcoll.edu 410-778-
+
+2. Advisory Council
+   Email: ssnover2@washcoll.edu
+   Username: ssnover2
+   Sports: Soccer
+   Title: Sally Snover Head Coach/Director of Student-Athlete
+   Original line: Sally Snover Head Coach/Director of Student-Athlete Advisory Council ssnover2@washcoll.edu 410-810-
+
+3. Tom Fiala
+   Email: tfiala2@washcoll.edu
+   Username: tfiala2
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tom Fiala Head Coach tfiala2@washcoll.edu 410-778-
+
+4. Cal Berman
+   Email: cberman2@washcoll.edu
+   Username: cberman2
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Cal Berman Assistant Coach/Recruiting Coordinator cberman2@washcoll.edu
+
+5. Corey Begly
+   Email: cbegly2@washcoll.edu
+   Username: cbegly2
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Corey Begly Head Coach cbegly2@washcoll.edu 410-778-
+
+6. Chris King
+   Email: cking4@washcoll.edu
+   Username: cking4
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Chris King Assistant Coach cking4@washcoll.edu 410-810-
+
+7. Mary Nolte
+   Email: mnolte2@washcoll.edu
+   Username: mnolte2
+   Sports: Baseball
+   Title: Head Cross Country Coach / Head Track &
+   Original line: Mary Nolte Head Cross Country Coach / Head Track & Field Coach mnolte2@washcoll.edu
+
+8. Alex Calder-Butler
+   Email: acalder2@washcoll.edu
+   Username: acalder2
+   Sports: Track & Field
+   Title: Head Field Hockey Coach/ADID
+   Original line: Alex Calder-Butler Head Field Hockey Coach/ADID acalder2@washcoll.edu 410-778-
+
+9. Kaiya Sabur
+   Email: ksabur2@washcoll.edu
+   Username: ksabur2
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Kaiya Sabur Assistant Coach ksabur2@washcoll.edu
+
+10. Dan Philippon
+   Email: dphilippon2@washcoll.edu
+   Username: dphilippon2
+   Sports: Track & Field
+   Title: Head Men's & Women's Golf Coach
+   Original line: Dan Philippon Head Men's & Women's Golf Coach dphilippon2@washcoll.edu 401-741-
+
+11. Dan Philippon
+   Email: dphilippon2@washcoll.edu
+   Username: dphilippon2
+   Sports: Track & Field
+   Title: Head Men's & Women's Golf Coach
+   Original line: Dan Philippon Head Men's & Women's Golf Coach dphilippon2@washcoll.edu 401-741-
+
+12. Meghan Keelan
+   Email: mkeelan2@washcoll.edu
+   Username: mkeelan2
+   Sports: Track & Field
+   Title: Lewis Head Coach
+   Original line: Meghan Keelan Lewis Head Coach mkeelan2@washcoll.edu 410-778-
+
+13. Gillian Hanson
+   Email: ghanson2@washcoll.edu
+   Username: ghanson2
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Gillian Hanson Assistant Coach ghanson2@washcoll.edu 410-810-
+
+14. Alex Kincaid
+   Email: akincaid2@washcoll.edu
+   Username: akincaid2
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Alex Kincaid Head Coach akincaid2@washcoll.edu
+
+15. Rene Szynal
+   Email: rszynal2@washcoll.edu
+   Username: rszynal2
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Rene Szynal Assistant Coach rszynal2@washcoll.edu
+
+16. Kari Hughes
+   Email: khughes5@washcoll.edu
+   Username: khughes5
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Kari Hughes Head Coach khughes5@washcoll.edu 410-778-
+
+17. Caren Saunders
+   Email: csaunders2@washcoll.edu
+   Username: csaunders2
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Caren Saunders Assistant Coach csaunders2@washcoll.edu
+
+18. Ashleigh Genevich
+   Email: agenevich2@washcoll.edu
+   Username: agenevich2
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Ashleigh Genevich Assistant Coach agenevich2@washcoll.edu
+
+19. Lauren Shaw
+   Email: lshaw3@washcoll.edu
+   Username: lshaw3
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: Lauren Shaw Volunteer Assistant Coach lshaw3@washcoll.edu
+
+20. Sophie Westfield
+   Email: swestfield2@washcoll.edu
+   Username: swestfield2
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: Sophie Westfield Volunteer Assistant Coach swestfield2@washcoll.edu
+
+21. Karis Kincaid
+   Email: kmarano2@washcoll.edu
+   Username: kmarano2
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: Karis Kincaid Volunteer Assistant Coach kmarano2@washcoll.edu 410-440-
+
+22. Sailing 
+   Email: eclayton2@washcoll.edu
+   Username: eclayton2
+   Sports: Track & Field
+   Title: Evan Clayton Head Coach and Director
+   Original line: Evan Clayton Head Sailing Coach and Director of Sailing eclayton2@washcoll.edu 410-778-
+
+23. Roy Dunshee
+   Email: rdunshee2@washcoll.edu
+   Username: rdunshee2
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Roy Dunshee Head Coach rdunshee2@washcoll.edu 410-778-
+
+24. Ryan Shera
+   Email: rshera2@washcoll.edu
+   Username: rshera2
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Ryan Shera Assistant Coach rshera2@washcoll.edu 410-810-
+
+25. James Bedrock
+   Email: jbedrock2@washcoll.edu
+   Username: jbedrock2
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: James Bedrock Volunteer Assistant Coach jbedrock2@washcoll.edu
+
+26. Jeff Reinoehl
+   Email: jreinoehl2@washcoll.edu
+   Username: jreinoehl2
+   Sports: Track & Field
+   Title: Volunteer Assistant Coach
+   Original line: Jeff Reinoehl Volunteer Assistant Coach jreinoehl2@washcoll.edu
+
+27. Tom Reilly
+   Email: treilly2@washcoll.edu
+   Username: treilly2
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Tom Reilly Head Coach treilly2@washcoll.edu 410-810-
+
+28. Advisory Council
+   Email: ssnover2@washcoll.edu
+   Username: ssnover2
+   Sports: Softball
+   Title: Sally Snover Head Coach/Director of Student-Athlete
+   Original line: Sally Snover Head Coach/Director of Student-Athlete Advisory Council ssnover2@washcoll.edu 410-810-
+
+29. Eric Widger
+   Email: ewidger2@washcoll.edu
+   Username: ewidger2
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Eric Widger Assistant Coach ewidger2@washcoll.edu 410-810-
+
+30. James Koval
+   Email: jkoval2@washcoll.edu
+   Username: jkoval2
+   Sports: Softball
+   Title: Head Coach
+   Original line: James Koval Head Coach jkoval2@washcoll.edu
+
+31. James Koval
+   Email: jkoval2@washcoll.edu
+   Username: jkoval2
+   Sports: Softball
+   Title: Head Coach
+   Original line: James Koval Head Coach jkoval2@washcoll.edu
+
+32. Constantine Ananiadis
+   Email: cananiadis2@washcoll.edu
+   Username: cananiadis2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Constantine Ananiadis Head Coach cananiadis2@washcoll.edu 410-778-
+
+33. Naz 
+   Email: nkaragoz2@washcoll.edu
+   Username: nkaragoz2
+   Sports: Softball
+   Title: z Associate Head Coach
+   Original line: Naz Karagöz Associate Head Coach nkaragoz2@washcoll.edu 410-778-
+
+34. Constantine Ananiadis
+   Email: cananiadis2@washcoll.edu
+   Username: cananiadis2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Constantine Ananiadis Head Coach cananiadis2@washcoll.edu 410-778-
+
+35. Naz 
+   Email: nkaragoz2@washcoll.edu
+   Username: nkaragoz2
+   Sports: Softball
+   Title: z Associate Head Coach
+   Original line: Naz Karagöz Associate Head Coach nkaragoz2@washcoll.edu 410-778-
+
+36. Doug Pfaff
+   Email: dpfaff2@washcoll.edu
+   Username: dpfaff2
+   Sports: Softball
+   Title: Head Coach
+   Original line: Doug Pfaff Head Coach dpfaff2@washcoll.edu
+
+37. Aaron Amick
+   Email: aamick2@washcoll.edu
+   Username: aamick2
+   Sports: Softball
+   Title: Associate Head Coach/Skeet Coach
+   Original line: Aaron Amick Associate Head Coach/Skeet Coach aamick2@washcoll.edu
+
+38. Heloisa Niespodzinski
+   Email: hniespodzinski2@washcoll.edu
+   Username: hniespodzinski2
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Heloisa Niespodzinski Assistant Coach hniespodzinski2@washcoll.edu 410-810-
+
+39. Thad Moore
+   Email: tmoore2@washcoll.edu
+   Username: tmoore2
+   Sports: Basketball
+   Title: s Basketball Coach/SWA
+   Original line: Women's Basketball Coach/SWA 7462 tmoore2@washcoll.edu
+
+40. Ben Waterfront
+   Email: barmiger2@washcoll.edu
+   Username: barmiger2
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Andrew Lerario Assistant Coach barmiger2@washcoll.edu
+
+41. Jillyn Coleman
+   Email: 
+   Username: jillyn.coleman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jillyn Coleman Assistant Coach
+
+42. Steve Volunteer
+   Email: 
+   Username: steve.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Steve Kaneshiki Volunteer Assistant Coach
+
+43. Fin Moreland
+   Email: 
+   Username: fin.moreland
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Fin Moreland Assistant Coach
+
+44. Kolyn Volunteer
+   Email: 
+   Username: kolyn.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kolyn Kirby Volunteer Assistant Coach
+
+45. Erika Volunteer
+   Email: 
+   Username: erika.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Erika Reynolds Volunteer Assistant Coach
+
+46. Tom Volunteer
+   Email: 
+   Username: tom.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tom Bowman Volunteer Assistant Coach
+
+47. Katim Volunteer
+   Email: 
+   Username: katim.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Katim Njie Volunteer Assistant Coach
+
+48. Mayowa Volunteer
+   Email: 
+   Username: mayowa.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mayowa Taiwo Volunteer Assistant Coach
+
+49. Kerrin Ehrensbeck
+   Email: 
+   Username: kerrin.ehrensbeck
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kerrin Ehrensbeck Assistant Coach
+
+50. Dawn Volunteer
+   Email: 
+   Username: dawn.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dawn Reilly Volunteer Assistant Coach
+
+51. Fran Volunteer
+   Email: 
+   Username: fran.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Fran Mazza Volunteer Assistant Coach
+
+52. Rhia Volunteer
+   Email: 
+   Username: rhia.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Rhia Aurand Volunteer Assistant Coach
+
+53. Karl Hoegstedt
+   Email: 
+   Username: karl.hoegstedt
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Karl Hoegstedt Assistant Coach
+
+54. JD Trap
+   Email: 
+   Username: jd.trap
+   Sports: Soccer
+   Title: JD Whitt Trap Coach
+   Original line: JD Whitt Trap Coach
+
+55. Will Trap
+   Email: 
+   Username: will.trap
+   Sports: Soccer
+   Title: Trap Coach
+   Original line: Will Sears '22 Trap Coach
+
+56. Gage Clay
+   Email: 
+   Username: gage.clay
+   Sports: Soccer
+   Title: Sporting Clay Coach
+   Original line: Gage Williams '24 Sporting Clay Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alex Calder-Butler Head Field Hockey Coach/ADID acalder2@washcoll.edu 410-778-
+• Sally Snover Head Coach/Director of Student-Athlete Advisory Council ssnover2@washcoll.edu 410-810-
+• Tom Fiala Head Coach tfiala2@washcoll.edu 410-778-
+• Cal Berman Assistant Coach/Recruiting Coordinator cberman2@washcoll.edu
+• Corey Begly Head Coach cbegly2@washcoll.edu 410-778-
+• Chris King Assistant Coach cking4@washcoll.edu 410-810-
+• Mary Nolte Head Cross Country Coach / Head Track & Field Coach mnolte2@washcoll.edu
+• Alex Calder-Butler Head Field Hockey Coach/ADID acalder2@washcoll.edu 410-778-
+• Kaiya Sabur Assistant Coach ksabur2@washcoll.edu
+• Dan Philippon Head Men's & Women's Golf Coach dphilippon2@washcoll.edu 401-741-
+• Dan Philippon Head Men's & Women's Golf Coach dphilippon2@washcoll.edu 401-741-
+• Meghan Keelan Lewis Head Coach mkeelan2@washcoll.edu 410-778-
+• Gillian Hanson Assistant Coach ghanson2@washcoll.edu 410-810-
+• Alex Kincaid Head Coach akincaid2@washcoll.edu
+• Rene Szynal Assistant Coach rszynal2@washcoll.edu
+• Kari Hughes Head Coach khughes5@washcoll.edu 410-778-
+• Caren Saunders Assistant Coach csaunders2@washcoll.edu
+• Ashleigh Genevich Assistant Coach agenevich2@washcoll.edu
+• Lauren Shaw Volunteer Assistant Coach lshaw3@washcoll.edu
+• Sophie Westfield Volunteer Assistant Coach swestfield2@washcoll.edu
+• Karis Kincaid Volunteer Assistant Coach kmarano2@washcoll.edu 410-440-
+• Evan Clayton Head Sailing Coach and Director of Sailing eclayton2@washcoll.edu 410-778-
+• Roy Dunshee Head Coach rdunshee2@washcoll.edu 410-778-
+• Ryan Shera Assistant Coach rshera2@washcoll.edu 410-810-
+• James Bedrock Volunteer Assistant Coach jbedrock2@washcoll.edu
+• Jeff Reinoehl Volunteer Assistant Coach jreinoehl2@washcoll.edu
+• Tom Reilly Head Coach treilly2@washcoll.edu 410-810-
+• Sally Snover Head Coach/Director of Student-Athlete Advisory Council ssnover2@washcoll.edu 410-810-
+• Eric Widger Assistant Coach ewidger2@washcoll.edu 410-810-
+• James Koval Head Coach jkoval2@washcoll.edu
+• James Koval Head Coach jkoval2@washcoll.edu
+• Constantine Ananiadis Head Coach cananiadis2@washcoll.edu 410-778-
+• Naz Karagöz Associate Head Coach nkaragoz2@washcoll.edu 410-778-
+• Constantine Ananiadis Head Coach cananiadis2@washcoll.edu 410-778-
+• Naz Karagöz Associate Head Coach nkaragoz2@washcoll.edu 410-778-
+• Doug Pfaff Head Coach dpfaff2@washcoll.edu
+• Aaron Amick Associate Head Coach/Skeet Coach aamick2@washcoll.edu
+• Heloisa Niespodzinski Assistant Coach hniespodzinski2@washcoll.edu 410-810-

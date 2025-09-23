@@ -1,0 +1,731 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:25
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Virginia Tech
+Organization: Virginia Tech Athletics
+
+Total coaches found: 94
+
+PARSED ENTRIES:
+----------------------------------------
+1. John Szefc
+   Email: vtbaseball@vt.edu
+   Username: vtbaseball
+   Sports: Baseball
+   Title: Head Coach
+   Original line: John Szefc Head Coach vtbaseball@vt.edu
+
+2. Doug Willey
+   Email: vtbaseball@vt.edu
+   Username: vtbaseball
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Doug Willey Assistant Coach, Pitching vtbaseball@vt.edu
+
+3. Itoro Coleman
+   Email: coit25@vt.edu
+   Username: coit25
+   Sports: Basketball (Men)
+   Title: Associate Head Coach
+   Original line: Itoro Coleman Associate Head Coach coit25@vt.edu
+
+4. Jen Hoover
+   Email: jenhoover@vt.edu
+   Username: jenhoover
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Jen Hoover Assistant Coach jenhoover@vt.edu
+
+5. Sharnee Zoll-
+   Email: sharneez@vt.edu
+   Username: sharneez
+   Sports: Basketball (Men)
+   Title: Assistant Coach &
+   Original line: Assistant Coach & Recruiting Coordinator sharneez@vt.edu
+
+6. Darren Guensch
+   Email: dguensch@vt.edu
+   Username: dguensch
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Darren Guensch Assistant Coach dguensch@vt.edu
+
+7. Jerod McCullen
+   Email: jerodmccullen@vt.edu
+   Username: jerodmccullen
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Jerod McCullen Director of Recruiting, Assistant Coach jerodmccullen@vt.edu
+
+8. Shannon Lewis
+   Email: shan15@vt.edu
+   Username: shan15
+   Sports: Football
+   Title: Executive Assistant to the Head Coach
+   Phone: 231-3123
+   Original line: Shannon Lewis Executive Assistant to the Head Coach shan15@vt.edu 231-3123
+
+9. John Cencerik
+   Email: cencerik@vt.edu
+   Username: cencerik
+   Sports: Football
+   Title: coach
+   Original line: John Cencerik Assistant Director of Football Coaching Video cencerik@vt.edu
+
+10. Brian Sharp
+   Email: basharp@vt.edu
+   Username: basharp
+   Sports: Football
+   Title: Head Coach
+   Original line: Brian Sharp Head Coach basharp@vt.edu
+
+11. Dan Ruyle
+   Email: danr@vt.edu
+   Username: danr
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Dan Ruyle Assistant Coach danr@vt.edu
+
+12. Carol Robertson
+   Email: carolr@vt.edu
+   Username: carolr
+   Sports: Football
+   Title: Head Coach
+   Phone: 750-6439
+   Original line: Carol Robertson Head Coach carolr@vt.edu 750-6439
+
+13. Russell Abbott
+   Email: abbott77@vt.edu
+   Username: abbott77
+   Sports: Football
+   Title: Assistant Coach
+   Phone: 553-1322
+   Original line: Russell Abbott Assistant Coach abbott77@vt.edu 553-1322
+
+14. Kristen Skiera
+   Email: kskiera@vt.edu
+   Username: kskiera
+   Sports: Lacrosse (Women)
+   Title: Head Coach
+   Original line: Kristen Skiera Head Coach kskiera@vt.edu
+
+15. Shannon Jacobitti
+   Email: sgilroy@vt.edu
+   Username: sgilroy
+   Sports: Lacrosse (Women)
+   Title: Associate Head Coach
+   Original line: Shannon Jacobitti Associate Head Coach sgilroy@vt.edu
+
+16. Molly Dunphey
+   Email: mdunphey@vt.edu
+   Username: mdunphey
+   Sports: Lacrosse (Women)
+   Title: Assistant Coach
+   Original line: Molly Dunphey Assistant Coach mdunphey@vt.edu
+
+17. Grace Weigand
+   Email: gracekw@vt.edu
+   Username: gracekw
+   Sports: Lacrosse (Women)
+   Title: Assistant Coach
+   Original line: Grace Weigand Assistant Coach gracekw@vt.edu
+
+18. Mike Brizendine
+   Email: vtmsoccer@vt.edu
+   Username: vtmsoccer
+   Sports: Soccer (Men)
+   Title: Head Coach
+   Original line: Mike Brizendine Head Coach vtmsoccer@vt.edu
+
+19. Patrick McSorley
+   Email: vtmsoccer@vt.edu
+   Username: vtmsoccer
+   Sports: Soccer (Men)
+   Title: Associate Head Coach
+   Original line: Patrick McSorley Associate Head Coach vtmsoccer@vt.edu
+
+20. Matt Watts
+   Email: vtmsoccer@vt.edu
+   Username: vtmsoccer
+   Sports: Soccer (Men)
+   Title: Associate Head Coach
+   Original line: Matt Watts Associate Head Coach vtmsoccer@vt.edu
+
+21. Kyle Renfro
+   Email: vtmsoccer@vt.edu
+   Username: vtmsoccer
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Kyle Renfro Assistant Coach vtmsoccer@vt.edu
+
+22. Drew Kopp
+   Email: drewk@vt.edu
+   Username: drewk
+   Sports: Soccer (Men)
+   Title: Associate Head Coach
+   Original line: Drew Kopp Associate Head Coach drewk@vt.edu
+
+23. Matt Gwilliam
+   Email: mattg08@vt.edu
+   Username: mattg08
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Matt Gwilliam Assistant Coach mattg08@vt.edu
+
+24. Mike Lewis
+   Email: michaellewis@vt.edu
+   Username: michaellewis
+   Sports: Softball
+   Title: Associate Head Coach
+   Original line: Mike Lewis Associate Head Coach michaellewis@vt.edu
+
+25. Josh Johnson
+   Email: jsjohnson@vt.edu
+   Username: jsjohnson
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Josh Johnson Assistant Coach jsjohnson@vt.edu
+
+26. Josh Larrick
+   Email: larrickj@vt.edu
+   Username: larrickj
+   Sports: Softball
+   Title: Head Coach
+   Original line: Josh Larrick Head Coach larrickj@vt.edu
+
+27. Kelly Krantz
+   Email: kellykrantz@vt.edu
+   Username: kellykrantz
+   Sports: Softball
+   Title: Dance Coach
+   Original line: Kelly Krantz Dance Coach kellykrantz@vt.edu
+
+28. Ryan Hawkins
+   Email: ryanph10@vt.edu
+   Username: ryanph10
+   Sports: Swimming
+   Title: Head Diving Coach
+   Original line: Ryan Hawkins Head Diving Coach ryanph10@vt.edu
+
+29. Steve Steketee
+   Email: sps78@vt.edu
+   Username: sps78
+   Sports: Swimming
+   Title: Associate Head Coach
+   Original line: Steve Steketee Associate Head Coach sps78@vt.edu
+
+30. Klaudia Nazieblo
+   Email: nazieblo@vt.edu
+   Username: nazieblo
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Klaudia Nazieblo Assistant Coach nazieblo@vt.edu
+
+31. Mason Revis
+   Email: rmason1@vt.edu
+   Username: rmason1
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Mason Revis Assistant Coach rmason1@vt.edu
+
+32. Jim Thompson
+   Email: jthomp@vt.edu
+   Username: jthomp
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Jim Thompson Head Coach jthomp@vt.edu
+
+33. Terry Ann
+   Email: tzawacki@vt.edu
+   Username: tzawacki
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Head Coach tzawacki@vt.edu
+
+34. Alan Dunson
+   Email: aland23@vt.edu
+   Username: aland23
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Alan Dunson Associate Head Coach (Sprints, Hurdles & Relays) aland23@vt.edu
+
+35. Bob Phillips
+   Email: bob.phillips@vt.edu
+   Username: bob.phillips
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Bob Phillips Assistant Coach (Pole Vault) bob.phillips@vt.edu
+
+36. Cleopatra Borel
+   Email: cborel@vt.edu
+   Username: cborel
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Cleopatra Borel Assistant Coach (Throws) cborel@vt.edu
+
+37. John Ellis
+   Email: johnellis@vt.edu
+   Username: johnellis
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: John Ellis Assistant Coach (Jumps & Mulits) johnellis@vt.edu
+
+38. Hannah Long
+   Email: hannahjl25@vt.edu
+   Username: hannahjl25
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Hannah Long Assistant Coach (Distance) hannahjl25@vt.edu
+
+39. Gregory Jack
+   Email: gjack@vt.edu
+   Username: gjack
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Gregory Jack Assistant Coach (Throws) gjack@vt.edu
+
+40. Rachel Volunteer
+   Email: rbaxter@vt.edu
+   Username: rbaxter
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Rachel Baxter Volunteer Assistant Coach (Pole Vault) rbaxter@vt.edu
+
+41. Caleb Adams
+   Email: caleba@vt.edu
+   Username: caleba
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Caleb Adams Assistant Coach caleba@vt.edu
+
+42. William Tatge
+   Email: wtatge@vt.edu
+   Username: wtatge
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: William Tatge Assistant Coach wtatge@vt.edu
+
+43. Victoria Brisack
+   Email: vbrisack@vt.edu
+   Username: vbrisack
+   Sports: Volleyball
+   Title: Assistant Coach &
+   Original line: Victoria Brisack Assistant Coach & Recruiting Coordinator vbrisack@vt.edu
+
+44. Jared Frayer
+   Email: frayer17@vt.edu
+   Username: frayer17
+   Sports: Volleyball
+   Title: Associate Head Coach
+   Original line: Jared Frayer Associate Head Coach frayer17@vt.edu
+
+45. Zach Tanelli
+   Email: ztanelli@vt.edu
+   Username: ztanelli
+   Sports: Volleyball
+   Title: Associate Head Coach
+   Original line: Zach Tanelli Associate Head Coach ztanelli@vt.edu
+
+46. Jared Haught
+   Email: jthaugh3@vt.edu
+   Username: jthaugh3
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Jared Haught Assistant Coach jthaugh3@vt.edu
+
+47. Eric Hale
+   Email: ericjh@vt.edu
+   Username: ericjh
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Associate Head Coach, Offense & Recruiting ericjh@vt.edu
+
+48. Hannah Whitbread
+   Email: hannahwhit@vt.edu
+   Username: hannahwhit
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach, Catchers/Scouting & Assistant hannahwhit@vt.edu
+
+49. Mike Young
+   Email: 
+   Username: mike.young
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Mike Young Head Coach
+
+50. Easton General
+   Email: edally@vt.edu
+   Username: edally
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chester Frazier Associate Head Coach edally@vt.edu
+
+51. Byers 
+   Email: 
+   Username: byers
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: J.D. Byers Assistant Coach
+
+52. Stephanie Ballein
+   Email: sballein@vt.edu
+   Username: sballein
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ace Custis Special Assistant to the Head Coach sballein@vt.edu
+
+53. Bruce Garnes
+   Email: bgarnes@vt.edu
+   Username: bgarnes
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Megan Duffy Head Coach bgarnes@vt.edu
+
+54. Jerry Cheynet
+   Email: msoccer@vt.edu
+   Username: msoccer
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Philip Montgomery Interim Head Coach msoccer@vt.edu
+
+55. Lester Karlin
+   Email: lkarlin@vt.edu
+   Username: lkarlin
+   Sports: Soccer
+   Title: Stu Holt Special Teams Coordinator/Tight Ends Coach
+   Original line: Stu Holt Special Teams Coordinator/Tight Ends Coach lkarlin@vt.edu
+
+56. Price 
+   Email: 
+   Username: price
+   Sports: Soccer
+   Title: Head Coach/Defensive Line Coach
+   Original line: J.C. Price Associate Head Coach/Defensive Line Coach
+
+57.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach/Offensive Recruiting
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Head Coach/Offensive Recruiting
+
+58.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coordinator/Wide Receivers Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coordinator/Wide Receivers Coach
+
+59.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+60. Elijah Backs
+   Email: 
+   Username: elijah.backs
+   Sports: Soccer
+   Title: Elijah Brooks Running Backs Coach
+   Original line: Elijah Brooks Running Backs Coach
+
+61. Pierson Safeties
+   Email: 
+   Username: pierson.safeties
+   Sports: Soccer
+   Title: Pierson Prioleau Safeties Coach
+   Original line: Pierson Prioleau Safeties Coach
+
+62. Matt Line
+   Email: 
+   Username: matt.line
+   Sports: Soccer
+   Title: Matt Moore Offensive Line Coach
+   Original line: Matt Moore Offensive Line Coach
+
+63. Shawn Linebackers
+   Email: 
+   Username: shawn.linebackers
+   Sports: Soccer
+   Title: Shawn Quinn Outside Linebackers Coach
+   Original line: Shawn Quinn Outside Linebackers Coach
+
+64. Jireh Edges
+   Email: 
+   Username: jireh.edges
+   Sports: Soccer
+   Title: Jireh Wilson Edges Coach
+   Original line: Jireh Wilson Edges Coach
+
+65. Jens Danielsen
+   Email: 
+   Username: jens.danielsen
+   Sports: Soccer
+   Title: Jens Danielsen Assistant Offensive Line Coach
+   Original line: Jens Danielsen Assistant Offensive Line Coach
+
+66. Bryan Nickels
+   Email: 
+   Username: bryan.nickels
+   Sports: Soccer
+   Title: Bryan Whitehead Nickels Coach
+   Original line: Bryan Whitehead Nickels Coach
+
+67. Xavier Linebackers
+   Email: 
+   Username: xavier.linebackers
+   Sports: Soccer
+   Title: Xavier Adibi Inside Linebackers Coach
+   Original line: Xavier Adibi Inside Linebackers Coach
+
+68. Brian Co-Quarterbacks
+   Email: 
+   Username: brian.co.quarterbacks
+   Sports: Soccer
+   Title: Brian Crist Co-Quarterbacks Coach
+   Original line: Brian Crist Co-Quarterbacks Coach
+
+69. Brent Ends
+   Email: 
+   Username: brent.ends
+   Sports: Soccer
+   Title: Brent Davis Tight Ends Coach
+   Original line: Brent Davis Tight Ends Coach
+
+70.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Associate Safeties Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Associate Safeties Coach
+
+71. Brandon McCombs
+   Email: 
+   Username: brandon.mccombs
+   Sports: Soccer
+   Title: Brandon McCombs Assistant Special Teams/Specialist Coach
+   Original line: Brandon McCombs Assistant Special Teams/Specialist Coach
+
+72.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Running Backs Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Running Backs Coach
+
+73. Mike Moyseenko
+   Email: 
+   Username: mike.moyseenko
+   Sports: Soccer
+   Title: Mike Moyseenko Associate Tight Ends Coach
+   Original line: Mike Moyseenko Associate Tight Ends Coach
+
+74.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Cornerbacks Coach/Quality Control
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Cornerbacks Coach/Quality Control
+
+75. Jan Johnson
+   Email: 
+   Username: jan.johnson
+   Sports: Soccer
+   Title: Assistant Defensive Line Coach/Quality Control
+   Original line: Jan Johnson Jr. Assistant Defensive Line Coach/Quality Control
+
+76. Cam Phillips
+   Email: 
+   Username: cam.phillips
+   Sports: Soccer
+   Title: Cam Phillips Assistant Wide Receivers Coach/Quality Control
+   Original line: Cam Phillips Assistant Wide Receivers Coach/Quality Control
+
+77. Resident Medicine
+   Email: claudiap18@vt.edu
+   Username: claudiap18
+   Sports: Soccer
+   Title: coach
+   Original line: Joshua Phillips Director of Football Coaching Video claudiap18@vt.edu
+
+78.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Head Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Head Coach
+
+79. Preston Burpo
+   Email: 
+   Username: preston.burpo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Preston Burpo Assistant Coach
+
+80. Pete D'Amour
+   Email: 
+   Username: pete.d.amour
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Pete D'Amour Head Coach
+
+81. Huemul Mata
+   Email: 
+   Username: huemul.mata
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Huemul Mata Assistant Coach
+
+82. Timothy Frye
+   Email: 
+   Username: timothy.frye
+   Sports: Soccer
+   Title: Assistant Coach - Cheer
+   Original line: Timothy Frye Assistant Coach - Cheer
+
+83. Natalie Wimmer
+   Email: nforbes9@vt.edu
+   Username: nforbes9
+   Sports: Soccer
+   Title: Head Coach/Men
+   Original line: Associate Head Coach/Men's Recruiting nforbes9@vt.edu
+
+84. Chip Webb
+   Email: 
+   Username: chip.webb
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chip Webb Assistant Coach
+
+85. Aaron Marchetti
+   Email: 
+   Username: aaron.marchetti
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aaron Marchetti Assistant Coach
+
+86. Megan Forster
+   Email: 
+   Username: megan.forster
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Megan Forster Assistant Coach
+
+87. Bronte Murgett
+   Email: 
+   Username: bronte.murgett
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bronte Murgett Assistant Coach
+
+88. Ben Thomas
+   Email: 
+   Username: ben.thomas
+   Sports: Track & Field
+   Title: Ben Thomas Head Track and Field Coach
+   Original line: Ben Thomas Head Track and Field Coach
+
+89.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach (Distance) / XC Recruiting
+
+90. Katie Kennedy
+   Email: 
+   Username: katie.kennedy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Katie Kennedy Assistant Coach (Distance)
+
+91. Deakin Volunteer
+   Email: 
+   Username: deakin.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Deakin Volz Volunteer Assistant Coach (Pole Vault)
+
+92. Benji Pinckney
+   Email: 
+   Username: benji.pinckney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Benji Pinckney Assistant Coach (Distance) / Director of Operations
+
+93. Marci Byers
+   Email: 
+   Username: marci.byers
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Marci Byers Head Coach
+
+94. Tony Robie
+   Email: 
+   Username: tony.robie
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Tony Robie Head Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• John Szefc Head Coach vtbaseball@vt.edu
+• Doug Willey Assistant Coach, Pitching vtbaseball@vt.edu
+• Itoro Coleman Associate Head Coach coit25@vt.edu
+• Jen Hoover Assistant Coach jenhoover@vt.edu
+• Assistant Coach & Recruiting Coordinator sharneez@vt.edu
+• Darren Guensch Assistant Coach dguensch@vt.edu
+• Jerod McCullen Director of Recruiting, Assistant Coach jerodmccullen@vt.edu
+• Shannon Lewis Executive Assistant to the Head Coach shan15@vt.edu 231-3123
+• John Cencerik Assistant Director of Football Coaching Video cencerik@vt.edu
+• Brian Sharp Head Coach basharp@vt.edu
+• Dan Ruyle Assistant Coach danr@vt.edu
+• Carol Robertson Head Coach carolr@vt.edu 750-6439
+• Russell Abbott Assistant Coach abbott77@vt.edu 553-1322
+• Kristen Skiera Head Coach kskiera@vt.edu
+• Shannon Jacobitti Associate Head Coach sgilroy@vt.edu
+• Molly Dunphey Assistant Coach mdunphey@vt.edu
+• Grace Weigand Assistant Coach gracekw@vt.edu
+• Mike Brizendine Head Coach vtmsoccer@vt.edu
+• Patrick McSorley Associate Head Coach vtmsoccer@vt.edu
+• Matt Watts Associate Head Coach vtmsoccer@vt.edu
+• Kyle Renfro Assistant Coach vtmsoccer@vt.edu
+• Drew Kopp Associate Head Coach drewk@vt.edu
+• Matt Gwilliam Assistant Coach mattg08@vt.edu
+• Mike Lewis Associate Head Coach michaellewis@vt.edu
+• Josh Johnson Assistant Coach jsjohnson@vt.edu
+• Josh Larrick Head Coach larrickj@vt.edu
+• Kelly Krantz Dance Coach kellykrantz@vt.edu
+• Ryan Hawkins Head Diving Coach ryanph10@vt.edu
+• Steve Steketee Associate Head Coach sps78@vt.edu
+• Klaudia Nazieblo Assistant Coach nazieblo@vt.edu
+• Mason Revis Assistant Coach rmason1@vt.edu
+• Jim Thompson Head Coach jthomp@vt.edu
+• Head Coach tzawacki@vt.edu
+• Alan Dunson Associate Head Coach (Sprints, Hurdles & Relays) aland23@vt.edu
+• Bob Phillips Assistant Coach (Pole Vault) bob.phillips@vt.edu
+• Cleopatra Borel Assistant Coach (Throws) cborel@vt.edu
+• John Ellis Assistant Coach (Jumps & Mulits) johnellis@vt.edu
+• Hannah Long Assistant Coach (Distance) hannahjl25@vt.edu
+• Gregory Jack Assistant Coach (Throws) gjack@vt.edu
+• Rachel Baxter Volunteer Assistant Coach (Pole Vault) rbaxter@vt.edu
+• Caleb Adams Assistant Coach caleba@vt.edu
+• William Tatge Assistant Coach wtatge@vt.edu
+• Victoria Brisack Assistant Coach & Recruiting Coordinator vbrisack@vt.edu
+• Jared Frayer Associate Head Coach frayer17@vt.edu
+• Zach Tanelli Associate Head Coach ztanelli@vt.edu
+• Jared Haught Assistant Coach jthaugh3@vt.edu

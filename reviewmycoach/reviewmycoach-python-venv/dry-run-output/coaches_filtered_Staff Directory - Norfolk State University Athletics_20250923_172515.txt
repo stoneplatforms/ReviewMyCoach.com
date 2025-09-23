@@ -1,0 +1,371 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:15
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Norfolk State University
+Organization: Norfolk State University Athletics
+
+Total coaches found: 45
+
+PARSED ENTRIES:
+----------------------------------------
+1. DeCedrick Quinn
+   Email: dtquinn@nsu.edu
+   Username: dtquinn
+   Sports: Strength & Conditioning
+   Title: Assistant Coach
+   Original line: DeCedrick "Ced" Quinn Sr. Director of Strength & dtquinn@nsu.edu (757) 823- @CoachCedQuinn
+
+2. M.L. Morgan
+   Email: mlmorgan@nsu.edu
+   Username: mlmorgan
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: M.L. Morgan Head Baseball Coach mlmorgan@nsu.edu
+
+3. Robert Jones
+   Email: spartanbasketball@nsu.edu
+   Username: spartanbasketball
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Robert Jones Head Coach spartanbasketball@nsu.edu (757) 823- NSUCoachJones
+
+4. Jamal Brown
+   Email: gbrown@nsu.edu
+   Username: gbrown
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Jamal Brown Associate Head Coach gbrown@nsu.edu (757) 823- koachjamalbrown
+
+5. C.J. Clemons
+   Email: clclemons@nsu.edu
+   Username: clclemons
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: C.J. Clemons Assistant Coach clclemons@nsu.edu (757) 823- CoachClemons13
+
+6. Leonard Fairley
+   Email: lcfairley@nsu.edu
+   Username: lcfairley
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Leonard Fairley Assistant Coach lcfairley@nsu.edu (757) 823- CoachLenNSU
+
+7. Kyonze Chavis
+   Email: spartanbasketball@nsu.edu
+   Username: spartanbasketball
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kyonze Chavis Assistant Coach spartanbasketball@nsu.edu (757) 823-
+
+8. Jermaine Woods
+   Email: jawoods@nsu.edu
+   Username: jawoods
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jermaine Woods Head Coach jawoods@nsu.edu (757) 823- woodsnfam
+
+9. Lindsey Payton
+   Email: lmpayton@nsu.edu
+   Username: lmpayton
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Lindsey Payton Associate Head Coach lmpayton@nsu.edu
+
+10. Asia Williams
+   Email: aswilliams@nsu.edu
+   Username: aswilliams
+   Sports: Baseball
+   Title: Assistant Coach /
+   Original line: Asia Williams Assistant Coach / Recruiting Coordinator aswilliams@nsu.edu (757) 823-
+
+11. Chanette Hicks
+   Email: cahicks@nsu.edu
+   Username: cahicks
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Chanette Hicks Assistant Coach cahicks@nsu.edu (757) 823-
+
+12. Mossi Staples
+   Email: msstaples@nsu.edu
+   Username: msstaples
+   Sports: Baseball
+   Title: Director of Operations/ Assistant Coach
+   Original line: Mossi Staples Director of Operations/ Assistant Coach msstaples@nsu.edu
+
+13. Aundray Darden
+   Email: adarden@nsu.edu
+   Username: adarden
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Aundray Darden Head Coach adarden@nsu.edu (757) 823-
+
+14. Cathryn Myrick
+   Email: Myrickcathryn79@gmail.com
+   Username: Myrickcathryn79
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Cathryn Myrick Assistant Coach Myrickcathryn79@gmail.com (757) 823-
+
+15. Brian Sheppard
+   Email: bsheppard@nsu.edu
+   Username: bsheppard
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brian Sheppard Offensive Coordinator bsheppard@nsu.edu (757) 278- @coachbshep
+
+16. Elton Brown
+   Email: egbrown@nsu.edu
+   Username: egbrown
+   Sports: Football
+   Title: Offensive Line Coach
+   Original line: Elton Brown Offensive Line Coach egbrown@nsu.edu (757) 278- @coacheltonbrown
+
+17. Special Teams
+   Email: rdreynolds@nsu.edu
+   Username: rdreynolds
+   Sports: Football
+   Title: LaRoy Reynolds Linebackers Coach/ Assistant
+   Original line: LaRoy Reynolds Linebackers Coach/ Assistant Special Teams rdreynolds@nsu.edu (757) 278- @LetItReign52
+
+18. Tim Smith
+   Email: tfsmith@nsu.edu
+   Username: tfsmith
+   Sports: Football
+   Title: Wide Receivers Coach
+   Original line: Tim Smith Wide Receivers Coach tfsmith@nsu.edu (757) 278- @Coach_TimSmith
+
+19. Jameel 
+   Email: jlsmith01@nsu.edu
+   Username: jlsmith01
+   Sports: Football
+   Title: Smith Defensive Backs Coach
+   Original line: Jameel "Jabo" Smith Defensive Backs Coach jlsmith01@nsu.edu (757) 278- @Coach_Jabo
+
+20. Dre Kendrick
+   Email: sakendrick@nsu.edu
+   Username: sakendrick
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Dre Kendrick Running Backs Coach sakendrick@nsu.edu (757) 278- @drekendrick4
+
+21. Izaan Cross
+   Email: icross@nsu.edu
+   Username: icross
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: Izaan Cross Defensive Line Coach icross@nsu.edu (757) 278- @BossCross76ers
+
+22. Special Teams
+   Email: tmwoodbury@nsu.edu
+   Username: tmwoodbury
+   Sports: Football
+   Title: Tory Woodbury Assistant Head Coach/
+   Original line: Tory Woodbury Assistant Head Coach/ Special Teams tmwoodbury@nsu.edu (757) 278- @T_Woodbury11
+
+23. Darryl Bullock
+   Email: dabullock@nsu.edu
+   Username: dabullock
+   Sports: Football
+   Title: Assistant Head Coach
+   Original line: Darryl Bullock Assistant Head Coach dabullock@nsu.edu (757) 278- @coachbull_
+
+24. School Relations
+   Email: whappleton@nsu.edu
+   Username: whappleton
+   Sports: Football
+   Title: Wilson Appleton Safeties Coach/ High
+   Original line: Wilson Appleton Safeties Coach/ High School Relations whappleton@nsu.edu (757) 278- @CoachWAppleton
+
+25. Steve Adams
+   Email: sradams@nsu.edu
+   Username: sradams
+   Sports: Football
+   Title: Tight Ends Coach /
+   Original line: Steve Adams Tight Ends Coach / Recruiting Coordinator sradams@nsu.edu (757) 278- CoachSteveAdams
+
+26. DeCedrick Quinn
+   Email: dtquinn@nsu.edu
+   Username: dtquinn
+   Sports: Football
+   Title: Assistant Coach
+   Original line: DeCedrick "Ced" Quinn Sr. Director of Strength & dtquinn@nsu.edu (757) 823- @CoachCedQuinn
+
+27. Peter Banas
+   Email: psbanas@nsu.edu
+   Username: psbanas
+   Sports: Softball
+   Title: Head Men's and Women's Coach
+   Original line: Peter Banas Head Men's and Women's Coach psbanas@nsu.edu (757) 823-
+
+28. Kenneth Giles
+   Email: kgiles@nsu.edu
+   Username: kgiles
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kenneth Giles Director of Track & Field Programs kgiles@nsu.edu (757) 823- CoachGiles1
+
+29. Ernest Barrett
+   Email: egbarrett@nsu.edu
+   Username: egbarrett
+   Sports: Softball
+   Title: Associate Head Coach
+   Original line: Ernest Barrett Associate Head Coach egbarrett@nsu.edu (757) 823-
+
+30. Ashanti Matthews
+   Email: admatthews@nsu.edu
+   Username: admatthews
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ashanti Matthews Assistant Coach admatthews@nsu.edu 757-823-
+
+31. Daiysa Burrell
+   Email: dmburrell@nsu.edu
+   Username: dmburrell
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Daiysa Burrell Assistant Coach (Throws) dmburrell@nsu.edu (757) 823-
+
+32. Brian Triolet
+   Email: bttriolet@nsu.edu
+   Username: bttriolet
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Brian Triolet Assistant Coach (Pole Vaulters) bttriolet@nsu.edu (757) 823-
+
+33. Kenneth Giles
+   Email: kgiles@nsu.edu
+   Username: kgiles
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Kenneth Giles Director of Track & Field Programs kgiles@nsu.edu (757) 823- CoachGiles1
+
+34. Ernest Barrett
+   Email: egbarrett@nsu.edu
+   Username: egbarrett
+   Sports: Softball
+   Title: Associate Head Coach
+   Original line: Ernest Barrett Associate Head Coach egbarrett@nsu.edu (757) 823-
+
+35. Ashanti Matthews
+   Email: admatthews@nsu.edu
+   Username: admatthews
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Ashanti Matthews Assistant Coach admatthews@nsu.edu 757-823-
+
+36. Daiysa Burrell
+   Email: dmburrell@nsu.edu
+   Username: dmburrell
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Daiysa Burrell Assistant Coach (Throws) dmburrell@nsu.edu (757) 823-
+
+37. Brian Triolet
+   Email: bttriolet@nsu.edu
+   Username: bttriolet
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Brian Triolet Assistant Coach (Pole Vaulters) bttriolet@nsu.edu (757) 823-
+
+38. Kathy Bullock
+   Email: kbullock@nsu.edu
+   Username: kbullock
+   Sports: Softball
+   Title: Head Coach
+   Original line: Kathy Bullock Head Coach kbullock@nsu.edu (757) 823- BullockCoachk
+
+39. Chip Tarleton
+   Email: jatarleton@nsu.edu
+   Username: jatarleton
+   Sports: Softball
+   Title: Assistant Coach /
+   Original line: Chip Tarleton Assistant Coach / Recruiting Coordinator jatarleton@nsu.edu 805-766-
+
+40. Lewis Montague
+   Email: 
+   Username: lewis.montague
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lewis Tag Montague Assistant Coach
+
+41. Corey Coffer
+   Email: 
+   Username: corey.coffer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Corey Coffer Assistant Coach
+
+42. Brandon Plummer
+   Email: 
+   Username: brandon.plummer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brandon Plummer Assistant Coach
+
+43. Michael Vick
+   Email: 
+   Username: michael.vick
+   Sports: Soccer
+   Title: Michael Vick Head Football Coach
+   Original line: Michael Vick Head Football Coach (757) 278- @MichaelVick
+
+44.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 4664
+
+45. Shelby DesChamps
+   Email: 
+   Username: shelby.deschamps
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Shelby DesChamps Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• DeCedrick "Ced" Quinn Sr. Director of Strength & dtquinn@nsu.edu (757) 823- @CoachCedQuinn
+• M.L. Morgan Head Baseball Coach mlmorgan@nsu.edu
+• Robert Jones Head Coach spartanbasketball@nsu.edu (757) 823- NSUCoachJones
+• Jamal Brown Associate Head Coach gbrown@nsu.edu (757) 823- koachjamalbrown
+• C.J. Clemons Assistant Coach clclemons@nsu.edu (757) 823- CoachClemons13
+• Leonard Fairley Assistant Coach lcfairley@nsu.edu (757) 823- CoachLenNSU
+• Kyonze Chavis Assistant Coach spartanbasketball@nsu.edu (757) 823-
+• Jermaine Woods Head Coach jawoods@nsu.edu (757) 823- woodsnfam
+• Lindsey Payton Associate Head Coach lmpayton@nsu.edu
+• Asia Williams Assistant Coach / Recruiting Coordinator aswilliams@nsu.edu (757) 823-
+• Chanette Hicks Assistant Coach cahicks@nsu.edu (757) 823-
+• Mossi Staples Director of Operations/ Assistant Coach msstaples@nsu.edu
+• Aundray Darden Head Coach adarden@nsu.edu (757) 823-
+• Cathryn Myrick Assistant Coach Myrickcathryn79@gmail.com (757) 823-
+• Brian Sheppard Offensive Coordinator bsheppard@nsu.edu (757) 278- @coachbshep
+• Elton Brown Offensive Line Coach egbrown@nsu.edu (757) 278- @coacheltonbrown
+• LaRoy Reynolds Linebackers Coach/ Assistant Special Teams rdreynolds@nsu.edu (757) 278- @LetItReign52
+• Tim Smith Wide Receivers Coach tfsmith@nsu.edu (757) 278- @Coach_TimSmith
+• Jameel "Jabo" Smith Defensive Backs Coach jlsmith01@nsu.edu (757) 278- @Coach_Jabo
+• Dre Kendrick Running Backs Coach sakendrick@nsu.edu (757) 278- @drekendrick4
+• Izaan Cross Defensive Line Coach icross@nsu.edu (757) 278- @BossCross76ers
+• Tory Woodbury Assistant Head Coach/ Special Teams tmwoodbury@nsu.edu (757) 278- @T_Woodbury11
+• Darryl Bullock Assistant Head Coach dabullock@nsu.edu (757) 278- @coachbull_
+• Wilson Appleton Safeties Coach/ High School Relations whappleton@nsu.edu (757) 278- @CoachWAppleton
+• Steve Adams Tight Ends Coach / Recruiting Coordinator sradams@nsu.edu (757) 278- CoachSteveAdams
+• DeCedrick "Ced" Quinn Sr. Director of Strength & dtquinn@nsu.edu (757) 823- @CoachCedQuinn
+• Peter Banas Head Men's and Women's Coach psbanas@nsu.edu (757) 823-
+• Kenneth Giles Director of Track & Field Programs kgiles@nsu.edu (757) 823- CoachGiles1
+• Ernest Barrett Associate Head Coach egbarrett@nsu.edu (757) 823-
+• Ashanti Matthews Assistant Coach admatthews@nsu.edu 757-823-
+• Daiysa Burrell Assistant Coach (Throws) dmburrell@nsu.edu (757) 823-
+• Brian Triolet Assistant Coach (Pole Vaulters) bttriolet@nsu.edu (757) 823-
+• Kenneth Giles Director of Track & Field Programs kgiles@nsu.edu (757) 823- CoachGiles1
+• Ernest Barrett Associate Head Coach egbarrett@nsu.edu (757) 823-
+• Ashanti Matthews Assistant Coach admatthews@nsu.edu 757-823-
+• Daiysa Burrell Assistant Coach (Throws) dmburrell@nsu.edu (757) 823-
+• Brian Triolet Assistant Coach (Pole Vaulters) bttriolet@nsu.edu (757) 823-
+• Kathy Bullock Head Coach kbullock@nsu.edu (757) 823- BullockCoachk
+• Chip Tarleton Assistant Coach / Recruiting Coordinator jatarleton@nsu.edu 805-766-

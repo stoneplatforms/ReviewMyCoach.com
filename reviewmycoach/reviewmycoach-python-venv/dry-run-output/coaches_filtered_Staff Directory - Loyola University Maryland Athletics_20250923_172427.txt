@@ -1,0 +1,434 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:27
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Loyola University Maryland
+Organization: Loyola University Maryland Athletics
+
+Total coaches found: 54
+
+PARSED ENTRIES:
+----------------------------------------
+1. Bryan Artfitch
+   Email: bpartfitch@loyola.edu
+   Username: bpartfitch
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Bryan Artfitch Head Strength & Conditioning Coach (410) bpartfitch@loyola.edu
+
+2. Nicholas Lundeberg
+   Email: nlundeberg@loyola.edu
+   Username: nlundeberg
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nicholas Lundeberg Assistant Coach nlundeberg@loyola.edu
+
+3. Matt Blue
+   Email: mblue@loyola.edu
+   Username: mblue
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Blue Assistant Coach mblue@loyola.edu
+
+4. Kevin Farrell
+   Email: kcfarrell@loyola.edu
+   Username: kcfarrell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kevin Farrell Assistant Coach kcfarrell@loyola.edu
+
+5. Ricky Hernandez
+   Email: rhernandez@loyola.edu
+   Username: rhernandez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ricky Hernandez Assistant Coach rhernandez@loyola.edu
+
+6. Khyle Diaz
+   Email: kdiaz1@loyola.edu
+   Username: kdiaz1
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Khyle Diaz Assistant Coach kdiaz1@loyola.edu
+
+7. Josh Cooperwood
+   Email: jcooperwood@loyola.edu
+   Username: jcooperwood
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Josh Cooperwood Assistant Coach jcooperwood@loyola.edu
+
+8. Diana Martinez
+   Email: djmartinez@loyola.edu
+   Username: djmartinez
+   Sports: Soccer
+   Title: Assistant Coach/Recruiting Coordinator
+   Original line: Diana Martinez Assistant Coach/Recruiting Coordinator djmartinez@loyola.edu
+
+9. Annalese Lamke
+   Email: alamke@loyola.edu
+   Username: alamke
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Annalese Lamke Assistant Coach (410) alamke@loyola.edu
+
+10. Jolene Sosnowski
+   Email: jsosnowski@loyola.edu
+   Username: jsosnowski
+   Sports: Soccer
+   Title: Head Cheerleading Coach
+   Original line: Jolene Sosnowski Head Cheerleading Coach jsosnowski@loyola.edu
+
+11. Amy Horst
+   Email: alhorst@loyola.edu
+   Username: alhorst
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Amy Horst Head Coach (410) alhorst@loyola.edu
+
+12. Jordyn Pugh
+   Email: jmpugh@loyola.edu
+   Username: jmpugh
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jordyn Pugh Assistant Coach (410) jmpugh@loyola.edu
+
+13. Emma Gerhold
+   Email: ejgerhold@loyola.edu
+   Username: ejgerhold
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emma Gerhold Assistant Coach 410-617- ejgerhold@loyola.edu
+
+14. Chris Baloga
+   Email: cmbaloga@loyola.edu
+   Username: cmbaloga
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chris Baloga Head Coach (410) cmbaloga@loyola.edu
+
+15. Charley Toomey
+   Email: ctoomey1@loyola.edu
+   Username: ctoomey1
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Charley Toomey Head Coach ctoomey1@loyola.edu
+
+16. Matt Dwan
+   Email: mcdwan@loyola.edu
+   Username: mcdwan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Dwan Assistant Coach (410) mcdwan@loyola.edu
+
+17. Justin Ward
+   Email: jpward@loyola.edu
+   Username: jpward
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Justin Ward Assistant Coach jpward@loyola.edu
+
+18. Sean Cottle
+   Email: scottle@loyola.edu
+   Username: scottle
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sean Cottle Assistant Coach (410) scottle@loyola.edu
+
+19. Jen Adams
+   Email: jadams4@loyola.edu
+   Username: jadams4
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jen Adams Head Coach (410) jadams4@loyola.edu
+
+20. Dana Dobbie
+   Email: dmdobbie@loyola.edu
+   Username: dmdobbie
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dana Dobbie Assistant Coach (410) dmdobbie@loyola.edu
+
+21. Caroline Hager
+   Email: cjhager@loyola.edu
+   Username: cjhager
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caroline Hager Assistant Coach (410) cjhager@loyola.edu
+
+22. Georgia Latch
+   Email: gelatch@loyola.edu
+   Username: gelatch
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Georgia Latch Assistant Coach gelatch@loyola.edu
+
+23. Megan Patrick
+   Email: mapatrick2@loyola.edu
+   Username: mapatrick2
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Megan Patrick Head Coach (410) mapatrick2@loyola.edu
+
+24. Maggie Rabenberg
+   Email: marabenberg@loyola.edu
+   Username: marabenberg
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Maggie Rabenberg Assistant Coach (410) marabenberg@loyola.edu
+
+25. Steve Nichols
+   Email: sgnichols@loyola.edu
+   Username: sgnichols
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Steve Nichols Head Coach (410) sgnichols@loyola.edu
+
+26. Jamie Darvill
+   Email: jndarvill@loyola.edu
+   Username: jndarvill
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jamie Darvill Assistant Coach (410) jndarvill@loyola.edu
+
+27. Jesse Haislip
+   Email: jhaislip@loyola.edu
+   Username: jhaislip
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jesse Haislip Assistant Coach (410) jhaislip@loyola.edu
+
+28. Joe Mallia
+   Email: jmallia@loyola.edu
+   Username: jmallia
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Joe Mallia Head Coach (410) jmallia@loyola.edu
+
+29. Emma Steiner
+   Email: ekershner@loyola.edu
+   Username: ekershner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Emma Steiner Assistant Coach ekershner@loyola.edu
+
+30. Dallas Fiszel
+   Email: dfiszel@loyola.edu
+   Username: dfiszel
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dallas Fiszel Assistant Coach (410) dfiszel@loyola.edu
+
+31. Brian Loeffler
+   Email: bloeffler@loyola.edu
+   Username: bloeffler
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Brian Loeffler Head Coach (410) bloeffler@loyola.edu
+
+32. Jay Venit
+   Email: jvenit@loyola.edu
+   Username: jvenit
+   Sports: Soccer
+   Title: Assistant Coach /
+   Original line: Jay Venit Assistant Coach / Recruiting Coordinator jvenit@loyola.edu
+
+33. George Kennedy
+   Email: gekennedy@loyola.edu
+   Username: gekennedy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: George Kennedy Assistant Coach gekennedy@loyola.edu
+
+34. Beth Ann
+   Email: balegambi@loyola.edu
+   Username: balegambi
+   Sports: Soccer
+   Title: Legambi Assistant Coach
+   Original line: Beth Ann Legambi Assistant Coach balegambi@loyola.edu
+
+35. Reed Sells
+   Email: rsells@loyola.edu
+   Username: rsells
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Reed Sells Assistant Coach rsells@loyola.edu
+
+36. Anton Hoherz
+   Email: ahoherz@loyola.edu
+   Username: ahoherz
+   Sports: Soccer
+   Title: Diving Coach
+   Original line: Anton Hoherz Diving Coach ahoherz@loyola.edu
+
+37. Josh Eventoff
+   Email: jaeventoff@loyola.edu
+   Username: jaeventoff
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Josh Eventoff Head Coach (410) jaeventoff@loyola.edu
+
+38. Olivia Tracey
+   Email: oltracey@loyola.edu
+   Username: oltracey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Olivia Tracey Assistant Coach oltracey@loyola.edu
+
+39. Alija Pittenger
+   Email: akpittenger@loyola.edu
+   Username: akpittenger
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Alija Pittenger Head Coach (410) akpittenger@loyola.edu
+
+40. Aubrey Dondlinger
+   Email: adondlinger@loyola.edu
+   Username: adondlinger
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aubrey Dondlinger Assistant Coach adondlinger@loyola.edu
+
+41. Phil Wrye
+   Email: pwrye@loyola.edu
+   Username: pwrye
+   Sports: Strength & Conditioning
+   Title: Jason Kim Assistant Strength & Conditioning Coach
+   Original line: Jason Kim Assistant Strength & Conditioning Coach pwrye@loyola.edu
+
+42. Ryan Eigenbrode
+   Email: rceigenbrode@loyola.edu
+   Username: rceigenbrode
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Josh Loeffler Head Coach rceigenbrode@loyola.edu
+
+43. Jerrod Production
+   Email: jcrichardson@loyola.edu
+   Username: jcrichardson
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Danielle O'Banion Head Coach jcrichardson@loyola.edu
+
+44. Nick Miguelino
+   Email: 
+   Username: nick.miguelino
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Miguelino Assistant Coach
+
+45. Will Wears
+   Email: 
+   Username: will.wears
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Will Wears Assistant Coach
+
+46. Connor Tobias
+   Email: 
+   Username: connor.tobias
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Connor Tobias Assistant Coach
+
+47. Doug Bartlett
+   Email: 
+   Username: doug.bartlett
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Doug Bartlett Assistant Coach
+
+48. Maeve McKew
+   Email: mmckew@loyola.edu
+   Username: mmckew
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Daniel Petkovich Assistant Coach mmckew@loyola.edu
+
+49. Evy Ryan
+   Email: 
+   Username: evy.ryan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Evy Ryan Assistant Coach
+
+50. Ramiro Morales
+   Email: 
+   Username: ramiro.morales
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ramiro Morales Assistant Coach
+
+51. Marquez Fernandez
+   Email: 
+   Username: marquez.fernandez
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Marquez Fernandez Assistant Coach
+
+52. Patrick Carter
+   Email: 
+   Username: patrick.carter
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Patrick Carter Assistant Coach
+
+53. Joe Sefoi
+   Email: 
+   Username: joe.sefoi
+   Sports: Strength & Conditioning
+   Title: Joe Sefoi Strength and Conditioning Coach
+   Original line: Joe Sefoi Strength and Conditioning Coach
+
+54. Eric Arriaga
+   Email: 
+   Username: eric.arriaga
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Eric Arriaga Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Bryan Artfitch Head Strength & Conditioning Coach (410) bpartfitch@loyola.edu
+• Nicholas Lundeberg Assistant Coach nlundeberg@loyola.edu
+• Matt Blue Assistant Coach mblue@loyola.edu
+• Kevin Farrell Assistant Coach kcfarrell@loyola.edu
+• Ricky Hernandez Assistant Coach rhernandez@loyola.edu
+• Khyle Diaz Assistant Coach kdiaz1@loyola.edu
+• Josh Cooperwood Assistant Coach jcooperwood@loyola.edu
+• Diana Martinez Assistant Coach/Recruiting Coordinator djmartinez@loyola.edu
+• Annalese Lamke Assistant Coach (410) alamke@loyola.edu
+• Jolene Sosnowski Head Cheerleading Coach jsosnowski@loyola.edu
+• Amy Horst Head Coach (410) alhorst@loyola.edu
+• Jordyn Pugh Assistant Coach (410) jmpugh@loyola.edu
+• Emma Gerhold Assistant Coach 410-617- ejgerhold@loyola.edu
+• Chris Baloga Head Coach (410) cmbaloga@loyola.edu
+• Charley Toomey Head Coach ctoomey1@loyola.edu
+• Matt Dwan Assistant Coach (410) mcdwan@loyola.edu
+• Justin Ward Assistant Coach jpward@loyola.edu
+• Sean Cottle Assistant Coach (410) scottle@loyola.edu
+• Jen Adams Head Coach (410) jadams4@loyola.edu
+• Dana Dobbie Assistant Coach (410) dmdobbie@loyola.edu
+• Caroline Hager Assistant Coach (410) cjhager@loyola.edu
+• Georgia Latch Assistant Coach gelatch@loyola.edu
+• Megan Patrick Head Coach (410) mapatrick2@loyola.edu
+• Maggie Rabenberg Assistant Coach (410) marabenberg@loyola.edu
+• Steve Nichols Head Coach (410) sgnichols@loyola.edu
+• Jamie Darvill Assistant Coach (410) jndarvill@loyola.edu
+• Jesse Haislip Assistant Coach (410) jhaislip@loyola.edu
+• Joe Mallia Head Coach (410) jmallia@loyola.edu
+• Emma Steiner Assistant Coach ekershner@loyola.edu
+• Dallas Fiszel Assistant Coach (410) dfiszel@loyola.edu
+• Brian Loeffler Head Coach (410) bloeffler@loyola.edu
+• Jay Venit Assistant Coach / Recruiting Coordinator jvenit@loyola.edu
+• George Kennedy Assistant Coach gekennedy@loyola.edu
+• Beth Ann Legambi Assistant Coach balegambi@loyola.edu
+• Reed Sells Assistant Coach rsells@loyola.edu
+• Anton Hoherz Diving Coach ahoherz@loyola.edu
+• Josh Eventoff Head Coach (410) jaeventoff@loyola.edu
+• Olivia Tracey Assistant Coach oltracey@loyola.edu
+• Alija Pittenger Head Coach (410) akpittenger@loyola.edu
+• Aubrey Dondlinger Assistant Coach adondlinger@loyola.edu

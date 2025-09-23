@@ -1,0 +1,659 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:28
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University Heights, OH 44118
+Organization: John Carroll University Athletics
+
+Total coaches found: 82
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dejan Mladenovic
+   Email: dmladenovic@jcu.edu
+   Username: dmladenovic
+   Sports: Soccer
+   Title: Head Coach /
+   Original line: Dejan Mladenovic Head Coach / Assistant Athletic dmladenovic@jcu.edu 3041 @DekiMladenovic6
+
+2. Tim Robertson
+   Email: trobertson@jcu.edu
+   Username: trobertson
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Tim Robertson Head Strength & Conditioning Coach trobertson@jcu.edu 1552
+
+3. Scott Shantery
+   Email: sshantery@jcu.edu
+   Username: sshantery
+   Sports: Hockey
+   Title: Club Hockey Head Coach
+   Original line: Scott Shantery Club Hockey Head Coach sshantery@jcu.edu 440-622-
+
+4. Andrew Wisniewski
+   Email: awisniewski09@jcu.edu
+   Username: awisniewski09
+   Sports: Hockey
+   Title: Club Hockey Assistant Coach
+   Original line: Andrew Wisniewski Club Hockey Assistant Coach awisniewski09@jcu.edu
+
+5. Bobby Bell
+   Email: rbell@jcu.edu
+   Username: rbell
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Bobby Bell Head Coach rbell@jcu.edu 4660
+
+6. Keaton Mark
+   Email: kmark@jcu.edu
+   Username: kmark
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Keaton Mark Assistant Coach kmark@jcu.edu
+
+7. Pete Moran
+   Email: pmoran@jcu.edu
+   Username: pmoran
+   Sports: Basketball (Men)
+   Title: Head Coach
+   Original line: Pete Moran Head Coach pmoran@jcu.edu 4511 @Pmoran07
+
+8. Dave Wojciechowski
+   Email: dwojciechowski@jcu.edu
+   Username: dwojciechowski
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Dave Wojciechowski Assistant Coach dwojciechowski@jcu.edu 6686
+
+9. Pat Moran
+   Email: pemoran@jcu.edu
+   Username: pemoran
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Pat Moran Assistant Coach pemoran@jcu.edu
+
+10. Beth Andrews
+   Email: eandrews@jcu.edu
+   Username: eandrews
+   Sports: Basketball (Men)
+   Title: Head Coach
+   Original line: Beth Andrews Head Coach eandrews@jcu.edu 4414 / 440- BAndrew2715
+
+11. Kelsey Michaels
+   Email: kmichaels@jcu.edu
+   Username: kmichaels
+   Sports: Basketball (Men)
+   Title: Assistant Coach/Recruiting
+   Original line: Kelsey Michaels Assistant Coach/Recruiting kmichaels@jcu.edu
+
+12. Mike Marcinko
+   Email: mmarcinko@jcu.edu
+   Username: mmarcinko
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Mike Marcinko Assistant Coach mmarcinko@jcu.edu
+
+13. Emily Taylor
+   Email: etaylor@jcu.edu
+   Username: etaylor
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Emily Taylor Assistant Coach etaylor@jcu.edu
+
+14. Joe McNulty
+   Email: jmcnulty@jcu.edu
+   Username: jmcnulty
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Joe McNulty Assistant Coach (Throws) jmcnulty@jcu.edu
+
+15. Corey Minton
+   Email: cminton@jcu.edu
+   Username: cminton
+   Sports: Basketball (Men)
+   Title: Assistant Coach
+   Original line: Corey Minton Assistant Coach (Jumps) cminton@jcu.edu
+
+16. Jeff Behrman
+   Email: jbehrman@jcu.edu
+   Username: jbehrman
+   Sports: Football
+   Title: Head Coach
+   Original line: Jeff Behrman Head Coach jbehrman@jcu.edu 3040 @jeff_behrman
+
+17. Dean Paul
+   Email: dpaul@jcu.edu
+   Username: dpaul
+   Sports: Football
+   Title: Assistant Head Coach / Defensive
+   Original line: Dean Paul Assistant Head Coach / Defensive dpaul@jcu.edu @coachDeanPaul
+
+18. Travis James
+   Email: tjames@jcu.edu
+   Username: tjames
+   Sports: Football
+   Title: Assistant Head Coach / Offensive
+   Original line: Travis James Assistant Head Coach / Offensive tjames@jcu.edu @FBCoachTJ
+
+19. Nate Dean
+   Email: ndean@jcu.edu
+   Username: ndean
+   Sports: Football
+   Title: Cornerbacks Coach
+   Original line: Nate Dean Cornerbacks Coach ndean@jcu.edu
+
+20. Ron Dolciato
+   Email: rdolciato@jcu.edu
+   Username: rdolciato
+   Sports: Football
+   Title: Quarterbacks Coach
+   Original line: Ron Dolciato Quarterbacks Coach rdolciato@jcu.edu
+
+21. Joey Torok
+   Email: jtorok@jcu.edu
+   Username: jtorok
+   Sports: Football
+   Title: Running Backs Coach
+   Original line: Joey Torok Running Backs Coach jtorok@jcu.edu
+
+22. JT Monahan
+   Email: jmonahan@jcu.edu
+   Username: jmonahan
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: JT Monahan Defensive Line Coach jmonahan@jcu.edu
+
+23. Drew Schiano
+   Email: dschiano@jcu.edu
+   Username: dschiano
+   Sports: Football
+   Title: Assistant Wide Receivers Coach
+   Original line: Drew Schiano Assistant Wide Receivers Coach dschiano@jcu.edu
+
+24. Drew Schiano
+   Email: dschiano@jcu.edu
+   Username: dschiano
+   Sports: Football
+   Title: Assistant Wide Receivers Coach
+   Original line: Drew Schiano Assistant Wide Receivers Coach dschiano@jcu.edu
+
+25. Braeden Gedeon
+   Email: bgedeon28@jcu.edu
+   Username: bgedeon28
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Braeden Gedeon Assistant Coach bgedeon28@jcu.edu
+
+26. Nicholas Ruggiero
+   Email: nruggiero@jcu.edu
+   Username: nruggiero
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nicholas Ruggiero Assistant Coach nruggiero@jcu.edu
+
+27. Jeff Pawlowski
+   Email: jpawlowski@jcu.edu
+   Username: jpawlowski
+   Sports: Football
+   Title: Head Coach
+   Original line: Jeff Pawlowski Head Coach jpawlowski@jcu.edu 4505
+
+28. Derek Smith
+   Email: dasmith19@jcu.edu
+   Username: dasmith19
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Derek Smith Assistant Coach dasmith19@jcu.edu
+
+29. Anthony Krakowiak
+   Email: akrakowiak25@jcu.edu
+   Username: akrakowiak25
+   Sports: Football
+   Title: Volunteer Assistant Coach
+   Original line: Anthony Krakowiak Volunteer Assistant Coach akrakowiak25@jcu.edu
+
+30. Missy Gedeon
+   Email: mgedeon@jcu.edu
+   Username: mgedeon
+   Sports: Football
+   Title: Head Coach
+   Original line: Missy Gedeon Head Coach mgedeon@jcu.edu
+
+31. Milt Johnson
+   Email: mixjohnson@jcu.edu
+   Username: mixjohnson
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Milt Johnson Assistant Coach mixjohnson@jcu.edu
+
+32. Trent Maxwell
+   Email: tmaxwell@jcu.edu
+   Username: tmaxwell
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Trent Maxwell Assistant Coach tmaxwell@jcu.edu
+
+33. Joe Rautenstrauch
+   Email: jrautenstrauch@jcu.edu
+   Username: jrautenstrauch
+   Sports: Lacrosse
+   Title: Head Coach
+   Original line: Joe Rautenstrauch Head Coach jrautenstrauch@jcu.edu 4968 @CoachJoeRaut
+
+34. Tim Edwards
+   Email: tedwards@jcu.edu
+   Username: tedwards
+   Sports: Lacrosse
+   Title: Assistant Coach / Recruiting
+   Original line: Tim Edwards Assistant Coach / Recruiting tedwards@jcu.edu
+
+35. Jon Gaglio
+   Email: jgaglio23@jcu.edu
+   Username: jgaglio23
+   Sports: Lacrosse
+   Title: Assistant Coach
+   Original line: Jon Gaglio Assistant Coach jgaglio23@jcu.edu
+
+36. Kelsey Shewbridge
+   Email: kshewbridge@jcu.edu
+   Username: kshewbridge
+   Sports: Lacrosse (Women)
+   Title: Head Coach
+   Original line: Kelsey Shewbridge Head Coach kshewbridge@jcu.edu
+
+37. Marlo Peck
+   Email: mpeck@jcu.edu
+   Username: mpeck
+   Sports: Lacrosse (Women)
+   Title: Assistant Coach
+   Original line: Marlo Peck Assistant Coach mpeck@jcu.edu
+
+38. Dejan Mladenovic
+   Email: dmladenovic@jcu.edu
+   Username: dmladenovic
+   Sports: Soccer (Men)
+   Title: Head Coach /
+   Original line: Dejan Mladenovic Head Coach / Assistant Athletic dmladenovic@jcu.edu 3041 @DekiMladenovic6
+
+39. Ante Pilekic
+   Email: apilekic@jcu.edu
+   Username: apilekic
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Ante Pilekic Assistant Coach apilekic@jcu.edu
+
+40. Michael Adelman
+   Email: madelman@jcu.edu
+   Username: madelman
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Michael Adelman Assistant Coach madelman@jcu.edu
+
+41. Dominic Grobler
+   Email: dgrobler27@jcu.edu
+   Username: dgrobler27
+   Sports: Soccer (Men)
+   Title: Goalkeeper Coach
+   Original line: Dominic Grobler Goalkeeper Coach dgrobler27@jcu.edu
+
+42. Michael Marich
+   Email: mmarich@jcu.edu
+   Username: mmarich
+   Sports: Soccer (Men)
+   Title: Head Coach
+   Original line: Michael Marich Head Coach mmarich@jcu.edu 4527 @JCUWSOCCER
+
+43. Jake Cooper
+   Email: jcooper@jcu.edu
+   Username: jcooper
+   Sports: Soccer (Men)
+   Title: Assistant Coach
+   Original line: Jake Cooper Assistant Coach jcooper@jcu.edu
+
+44. Tony Scibelli
+   Email: ascibelli@jcu.edu
+   Username: ascibelli
+   Sports: Softball
+   Title: Head Coach
+   Original line: Tony Scibelli Head Coach ascibelli@jcu.edu
+
+45. Hailey Eckelberry
+   Email: heckelberry@jcu.edu
+   Username: heckelberry
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Hailey Eckelberry Assistant Coach heckelberry@jcu.edu
+
+46. Jeff Morganti
+   Email: jmorganti@jcu.edu
+   Username: jmorganti
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Jeff Morganti Assistant Coach jmorganti@jcu.edu
+
+47. Matt McPeek
+   Email: mmcpeek@jcu.edu
+   Username: mmcpeek
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Matt McPeek Assistant Coach mmcpeek@jcu.edu
+
+48. Mark de
+   Email: mdeswardt@jcu.edu
+   Username: mdeswardt
+   Sports: Swimming
+   Title: Swardt Head Swimming & Diving Coach
+   Original line: Mark de Swardt Head Swimming & Diving Coach mdeswardt@jcu.edu
+
+49. Lewis Fellinger
+   Email: lfellinger@jcu.edu
+   Username: lfellinger
+   Sports: Swimming
+   Title: Head Diving Coach
+   Original line: Lewis Fellinger Head Diving Coach lfellinger@jcu.edu 1624
+
+50. Taylor Epstein
+   Email: tepstein@jcu.edu
+   Username: tepstein
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Taylor Epstein Assistant Coach tepstein@jcu.edu
+
+51. Westin Fishel
+   Email: wfishel22@jcu.edu
+   Username: wfishel22
+   Sports: Swimming
+   Title: Volunteer Assistant Coach
+   Original line: Westin Fishel Volunteer Assistant Coach wfishel22@jcu.edu
+
+52. Maddie Dolce
+   Email: mdolce@jcu.edu
+   Username: mdolce
+   Sports: Swimming
+   Title: Assistant Swim & Dive Coach
+   Original line: Maddie Dolce Assistant Swim & Dive Coach mdolce@jcu.edu
+
+53. Travis Lombardozzi
+   Email: tlombardozzi@jcu.edu
+   Username: tlombardozzi
+   Sports: Swimming
+   Title: Assistant Coach / Strength &
+   Original line: Travis Lombardozzi Assistant Coach / Strength & tlombardozzi@jcu.edu
+
+54. Kayla Kollin
+   Email: kkollin25@jcu.edu
+   Username: kkollin25
+   Sports: Swimming
+   Title: Assistant Volunteer Diving Coach
+   Original line: Kayla Kollin Assistant Volunteer Diving Coach kkollin25@jcu.edu
+
+55. Torrey McNeal
+   Email: tmcneal@jcu.edu
+   Username: tmcneal
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Torrey McNeal Head Coach tmcneal@jcu.edu
+
+56. Earl Beebe
+   Email: ebeebe@jcu.edu
+   Username: ebeebe
+   Sports: Swimming
+   Title: Assistant Coach
+   Original line: Earl Beebe Assistant Coach ebeebe@jcu.edu
+
+57. Michele Benoit
+   Email: mbenoit@jcu.edu
+   Username: mbenoit
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Michele Benoit Head Coach mbenoit@jcu.edu 1562
+
+58. Joe Dreyer
+   Email: jdreyer@jcu.edu
+   Username: jdreyer
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Joe Dreyer Assistant Coach jdreyer@jcu.edu
+
+59. Jason Bednar
+   Email: jbednar@jcu.edu
+   Username: jbednar
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Jason Bednar Assistant Coach jbednar@jcu.edu
+
+60. Alex Johnson
+   Email: adjohnson@jcu.edu
+   Username: adjohnson
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Alex Johnson Assistant Coach adjohnson@jcu.edu
+
+61. Mark Hawald
+   Email: mhawald@jcu.edu
+   Username: mhawald
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Mark Hawald Head Coach mhawald@jcu.edu 4464 @mhawald
+
+62. Jack Stanley
+   Email: jstanley@jcu.edu
+   Username: jstanley
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Jack Stanley Assistant Coach jstanley@jcu.edu
+
+63. Mark Hawald
+   Email: mhawald@jcu.edu
+   Username: mhawald
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Mark Hawald Head Coach mhawald@jcu.edu 4464 @mhawald
+
+64. Ryan Monk
+   Email: rmonk@jcu.edu
+   Username: rmonk
+   Sports: Volleyball
+   Title: Associate Head Coach
+   Original line: Ryan Monk Associate Head Coach rmonk@jcu.edu
+
+65. Mitch Tikkanen
+   Email: mtikkanen@jcu.edu
+   Username: mtikkanen
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Mitch Tikkanen Assistant Coach mtikkanen@jcu.edu
+
+66. Gina Stephan
+   Email: gstephan@jcu.edu
+   Username: gstephan
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Gina Stephan Head Coach gstephan@jcu.edu
+
+67. Joe Information
+   Email: jginley@jcu.edu
+   Username: jginley
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Assistant Coach jginley@jcu.edu
+
+68. Rachael McGrail
+   Email: rmcgrail@jcu.edu
+   Username: rmcgrail
+   Sports: Baseball
+   Title: Facilities / Assistant Baseball Coach
+   Original line: Facilities / Assistant Baseball Coach rmcgrail@jcu.edu
+
+69.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach / Sports Information
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach / Sports Information
+
+70. Pat Tatom
+   Email: 
+   Username: pat.tatom
+   Sports: Soccer
+   Title: Assistant Coach -
+   Original line: Pat Tatom Assistant Coach -
+
+71. Bruce Johnson
+   Email: 
+   Username: bruce.johnson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bruce Johnson Assistant Coach
+
+72. William Brand
+   Email: 
+   Username: william.brand
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: William Brand Assistant Coach
+
+73. Eric Intern
+   Email: eschlenk25@jcu.edu
+   Username: eschlenk25
+   Sports: Track & Field
+   Title: Field Coach
+   Original line: Field Coach eschlenk25@jcu.edu
+
+74. Daniel Tutskey
+   Email: dtutskey@jcu.edu
+   Username: dtutskey
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Bryce Basista Volunteer Assistant Coach - dtutskey@jcu.edu
+
+75. Linebackers 
+   Email: 
+   Username: linebackers
+   Sports: Soccer
+   Title: Linebackers Coach
+   Original line: Linebackers Coach
+
+76. Jack Volunteer
+   Email: 
+   Username: jack.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jack MacLean Volunteer Assistant Coach
+
+77. Colin Corcoran
+   Email: 
+   Username: colin.corcoran
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Colin Corcoran Assistant Coach
+
+78. Matt Volunteer
+   Email: 
+   Username: matt.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Burke Volunteer Assistant Coach
+
+79. Britta Treu
+   Email: 
+   Username: britta.treu
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Britta Treu Assistant Coach
+
+80.  
+   Email: 
+   Username: 
+   Sports: Strength & Conditioning
+   Title: Conditioning Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Conditioning Coach
+
+81.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach
+
+82. Kevin Shadrach
+   Email: 
+   Username: kevin.shadrach
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kevin Shadrach Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dejan Mladenovic Head Coach / Assistant Athletic dmladenovic@jcu.edu 3041 @DekiMladenovic6
+• Tim Robertson Head Strength & Conditioning Coach trobertson@jcu.edu 1552
+• Scott Shantery Club Hockey Head Coach sshantery@jcu.edu 440-622-
+• Andrew Wisniewski Club Hockey Assistant Coach awisniewski09@jcu.edu
+• Bobby Bell Head Coach rbell@jcu.edu 4660
+• Keaton Mark Assistant Coach kmark@jcu.edu
+• Pete Moran Head Coach pmoran@jcu.edu 4511 @Pmoran07
+• Dave Wojciechowski Assistant Coach dwojciechowski@jcu.edu 6686
+• Pat Moran Assistant Coach pemoran@jcu.edu
+• Beth Andrews Head Coach eandrews@jcu.edu 4414 / 440- BAndrew2715
+• Kelsey Michaels Assistant Coach/Recruiting kmichaels@jcu.edu
+• Mike Marcinko Assistant Coach mmarcinko@jcu.edu
+• Emily Taylor Assistant Coach etaylor@jcu.edu
+• Joe McNulty Assistant Coach (Throws) jmcnulty@jcu.edu
+• Corey Minton Assistant Coach (Jumps) cminton@jcu.edu
+• Jeff Behrman Head Coach jbehrman@jcu.edu 3040 @jeff_behrman
+• Dean Paul Assistant Head Coach / Defensive dpaul@jcu.edu @coachDeanPaul
+• Travis James Assistant Head Coach / Offensive tjames@jcu.edu @FBCoachTJ
+• Nate Dean Cornerbacks Coach ndean@jcu.edu
+• Ron Dolciato Quarterbacks Coach rdolciato@jcu.edu
+• Joey Torok Running Backs Coach jtorok@jcu.edu
+• JT Monahan Defensive Line Coach jmonahan@jcu.edu
+• Drew Schiano Assistant Wide Receivers Coach dschiano@jcu.edu
+• Drew Schiano Assistant Wide Receivers Coach dschiano@jcu.edu
+• Braeden Gedeon Assistant Coach bgedeon28@jcu.edu
+• Nicholas Ruggiero Assistant Coach nruggiero@jcu.edu
+• Jeff Pawlowski Head Coach jpawlowski@jcu.edu 4505
+• Derek Smith Assistant Coach dasmith19@jcu.edu
+• Anthony Krakowiak Volunteer Assistant Coach akrakowiak25@jcu.edu
+• Missy Gedeon Head Coach mgedeon@jcu.edu
+• Milt Johnson Assistant Coach mixjohnson@jcu.edu
+• Trent Maxwell Assistant Coach tmaxwell@jcu.edu
+• Joe Rautenstrauch Head Coach jrautenstrauch@jcu.edu 4968 @CoachJoeRaut
+• Tim Edwards Assistant Coach / Recruiting tedwards@jcu.edu
+• Jon Gaglio Assistant Coach jgaglio23@jcu.edu
+• Kelsey Shewbridge Head Coach kshewbridge@jcu.edu
+• Marlo Peck Assistant Coach mpeck@jcu.edu
+• Dejan Mladenovic Head Coach / Assistant Athletic dmladenovic@jcu.edu 3041 @DekiMladenovic6
+• Ante Pilekic Assistant Coach apilekic@jcu.edu
+• Michael Adelman Assistant Coach madelman@jcu.edu
+• Dominic Grobler Goalkeeper Coach dgrobler27@jcu.edu
+• Michael Marich Head Coach mmarich@jcu.edu 4527 @JCUWSOCCER
+• Jake Cooper Assistant Coach jcooper@jcu.edu
+• Tony Scibelli Head Coach ascibelli@jcu.edu
+• Hailey Eckelberry Assistant Coach heckelberry@jcu.edu
+• Jeff Morganti Assistant Coach jmorganti@jcu.edu
+• Matt McPeek Assistant Coach mmcpeek@jcu.edu
+• Mark de Swardt Head Swimming & Diving Coach mdeswardt@jcu.edu
+• Lewis Fellinger Head Diving Coach lfellinger@jcu.edu 1624
+• Taylor Epstein Assistant Coach tepstein@jcu.edu
+• Westin Fishel Volunteer Assistant Coach wfishel22@jcu.edu
+• Maddie Dolce Assistant Swim & Dive Coach mdolce@jcu.edu
+• Travis Lombardozzi Assistant Coach / Strength & tlombardozzi@jcu.edu
+• Kayla Kollin Assistant Volunteer Diving Coach kkollin25@jcu.edu
+• Torrey McNeal Head Coach tmcneal@jcu.edu
+• Earl Beebe Assistant Coach ebeebe@jcu.edu
+• Michele Benoit Head Coach mbenoit@jcu.edu 1562
+• Joe Dreyer Assistant Coach jdreyer@jcu.edu
+• Jason Bednar Assistant Coach jbednar@jcu.edu
+• Alex Johnson Assistant Coach adjohnson@jcu.edu
+• Mark Hawald Head Coach mhawald@jcu.edu 4464 @mhawald
+• Jack Stanley Assistant Coach jstanley@jcu.edu
+• Mark Hawald Head Coach mhawald@jcu.edu 4464 @mhawald
+• Ryan Monk Associate Head Coach rmonk@jcu.edu
+• Mitch Tikkanen Assistant Coach mtikkanen@jcu.edu
+• Gina Stephan Head Coach gstephan@jcu.edu

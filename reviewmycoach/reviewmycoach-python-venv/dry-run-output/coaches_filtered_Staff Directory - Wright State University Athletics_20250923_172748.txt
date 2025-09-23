@@ -1,0 +1,312 @@
+COACH ENTRIES FOUND - 2025-09-23 17:27:48
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Wright State University
+Organization: Wright State University Athletics
+
+Total coaches found: 37
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alyssa Crusey
+   Email: alyssa.crusey@wright.edu
+   Username: alyssa.crusey
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Assistant Strength and Conditioning Coach Alyssa Crusey alyssa.crusey@wright.edu 937-775-
+
+2. Alex Sogard
+   Email: alex.sogard@wright.edu
+   Username: alex.sogard
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Alex Sogard alex.sogard@wright.edu 937-775-
+
+3. Jordan Chiero
+   Email: jordan.chiero@wright.edu
+   Username: jordan.chiero
+   Sports: Baseball
+   Title: Associate Head Coach / Hitting Coach
+   Original line: Associate Head Coach / Hitting Coach Jordan Chiero jordan.chiero@wright.edu
+
+4. Travis Ferrick
+   Email: travis.ferrick@wright.edu
+   Username: travis.ferrick
+   Sports: Baseball
+   Title: Pitching Coach / Recruiting Coordinator
+   Original line: Pitching Coach / Recruiting Coordinator Travis Ferrick travis.ferrick@wright.edu
+
+5. Gehrig Anglin
+   Email: gehrig.anglin@wright.edu
+   Username: gehrig.anglin
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach (Infielders) Gehrig Anglin gehrig.anglin@wright.edu
+
+6. Clint Sargent
+   Email: clint.sargent@wright.edu
+   Username: clint.sargent
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Clint Sargent clint.sargent@wright.edu
+
+7. Travis Trice
+   Email: travis.trice@wright.edu
+   Username: travis.trice
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Associate Head Coach Travis Trice travis.trice@wright.edu
+
+8. MEN'S BASKETBALL
+   Email: dan.bere@wright.edu
+   Username: dan.bere
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Associate Head Coach Dan Beré dan.bere@wright.edu
+
+9. Jaaron Simmons
+   Email: jaaron.simmons@wright.edu
+   Username: jaaron.simmons
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Jaaron Simmons jaaron.simmons@wright.edu
+
+10. Kari Hoffman
+   Email: kari.hoffman@wright.edu
+   Username: kari.hoffman
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Kari Hoffman kari.hoffman@wright.edu
+
+11. John Leonzo
+   Email: john.leonzo@wright.edu
+   Username: john.leonzo
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Associate Head Coach John Leonzo john.leonzo@wright.edu
+
+12. Patrick Bain
+   Email: patrick.bain@wright.edu
+   Username: patrick.bain
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Patrick Bain patrick.bain@wright.edu
+
+13. Lauryn Fox
+   Email: lauryn.fox@wright.edu
+   Username: lauryn.fox
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Lauryn Fox lauryn.fox@wright.edu
+
+14.  Coach,
+   Email: olivia.trice@wright.edu
+   Username: olivia.trice
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach, Director of Operations Olivia Trice olivia.trice@wright.edu
+
+15. Jeff Fleck
+   Email: jeffrey.fleck@wright.edu
+   Username: jeffrey.fleck
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Jeff Fleck jeffrey.fleck@wright.edu 937-272-
+
+16. Colleen McKee
+   Email: colleen.mckee@wright.edu
+   Username: colleen.mckee
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Colleen McKee colleen.mckee@wright.edu
+
+17. Alyssa Hatton
+   Email: alyssa.hatton@wright.edu
+   Username: alyssa.hatton
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Alyssa Hatton alyssa.hatton@wright.edu
+
+18. Rick Williamson
+   Email: rick.williamson@wright.edu
+   Username: rick.williamson
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Rick Williamson rick.williamson@wright.edu 937-367-
+
+19. Jeff Ross
+   Email: jeffrey.ross@wright.edu
+   Username: jeffrey.ross
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Jeff Ross jeffrey.ross@wright.edu
+
+20. Noah Schaub
+   Email: noah.schaub@wright.edu
+   Username: noah.schaub
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Noah Schaub noah.schaub@wright.edu 330-806-
+
+21. Shaila Jones
+   Email: shaila.jones@wright.edu
+   Username: shaila.jones
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Shaila Jones shaila.jones@wright.edu
+
+22. Conner Lash
+   Email: conner.lash@wright.edu
+   Username: conner.lash
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Conner Lash conner.lash@wright.edu
+
+23. der Sluijs
+   Email: alex.vandersluijs@wright.edu
+   Username: alex.vandersluijs
+   Sports: Baseball
+   Title: Head Coach Alex Van
+   Original line: Head Coach Alex Van der Sluijs alex.vandersluijs@wright.edu 937-775-
+
+24. Chris Garcia
+   Email: christopher.garcia@wright.edu
+   Username: christopher.garcia
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Chris Garcia christopher.garcia@wright.edu 937-775-
+
+25. Adam Maloney
+   Email: adam.maloney@wright.edu
+   Username: adam.maloney
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Adam Maloney adam.maloney@wright.edu 937-775-
+
+26. Grant Ingham
+   Email: Grant.ingham@wright.edu
+   Username: Grant.ingham
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Grant Ingham Grant.ingham@wright.edu
+
+27. Travis Sobers
+   Email: travis.sobers@wright.edu
+   Username: travis.sobers
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Head Coach Travis Sobers travis.sobers@wright.edu 937-775-
+
+28. Jeannie Trosper
+   Email: jeannie.borda@wright.edu
+   Username: jeannie.borda
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Jeannie Trosper jeannie.borda@wright.edu 937-775-
+
+29. Krystle Seidel
+   Email: krystle.seidel@wright.edu
+   Username: krystle.seidel
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Krystle Seidel krystle.seidel@wright.edu 937-775-
+
+30. Ian Molfenter
+   Email: ian.molfenter@wright.edu
+   Username: ian.molfenter
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Ian Molfenter ian.molfenter@wright.edu 937-775-
+
+31. Neil Daniels
+   Email: neil.daniels@wright.edu
+   Username: neil.daniels
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Assistant Coach Neil Daniels neil.daniels@wright.edu 937-775-
+
+32. Travers Green
+   Email: travers.green@wright.edu
+   Username: travers.green
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Head Coach Travers Green travers.green@wright.edu 937-775-
+
+33. Megan Alders
+   Email: megan.alders@wright.edu
+   Username: megan.alders
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Assistant Coach Megan Alders megan.alders@wright.edu
+
+34. Cam Hausler
+   Email: hausler.3@wright.edu
+   Username: hausler.3
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Assistant Coach Cam Hausler hausler.3@wright.edu
+
+35. Megan Wielonski
+   Email: megan.wielonski@wright.edu
+   Username: megan.wielonski
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Assistant Coach Megan Wielonski megan.wielonski@wright.edu
+
+36.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Palngji Sunday
+
+37.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Assistant Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Assistant Coach Scott Thompson
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Assistant Strength and Conditioning Coach Alyssa Crusey alyssa.crusey@wright.edu 937-775-
+• Head Coach Alex Sogard alex.sogard@wright.edu 937-775-
+• Associate Head Coach / Hitting Coach Jordan Chiero jordan.chiero@wright.edu
+• Pitching Coach / Recruiting Coordinator Travis Ferrick travis.ferrick@wright.edu
+• Assistant Coach (Infielders) Gehrig Anglin gehrig.anglin@wright.edu
+• Head Coach Clint Sargent clint.sargent@wright.edu
+• Associate Head Coach Travis Trice travis.trice@wright.edu
+• Associate Head Coach Dan Beré dan.bere@wright.edu
+• Assistant Coach Jaaron Simmons jaaron.simmons@wright.edu
+• Head Coach Kari Hoffman kari.hoffman@wright.edu
+• Associate Head Coach John Leonzo john.leonzo@wright.edu
+• Assistant Coach Patrick Bain patrick.bain@wright.edu
+• Assistant Coach Lauryn Fox lauryn.fox@wright.edu
+• Assistant Coach, Director of Operations Olivia Trice olivia.trice@wright.edu
+• Head Coach Jeff Fleck jeffrey.fleck@wright.edu 937-272-
+• Assistant Coach Colleen McKee colleen.mckee@wright.edu
+• Assistant Coach Alyssa Hatton alyssa.hatton@wright.edu
+• Head Coach Rick Williamson rick.williamson@wright.edu 937-367-
+• Assistant Coach Jeff Ross jeffrey.ross@wright.edu
+• Assistant Coach Noah Schaub noah.schaub@wright.edu 330-806-
+• Assistant Coach Shaila Jones shaila.jones@wright.edu
+• Head Coach Conner Lash conner.lash@wright.edu
+• Head Coach Alex Van der Sluijs alex.vandersluijs@wright.edu 937-775-
+• Assistant Coach Chris Garcia christopher.garcia@wright.edu 937-775-
+• Assistant Coach Adam Maloney adam.maloney@wright.edu 937-775-
+• Assistant Coach Grant Ingham Grant.ingham@wright.edu
+• Head Coach Travis Sobers travis.sobers@wright.edu 937-775-
+• Assistant Coach Jeannie Trosper jeannie.borda@wright.edu 937-775-
+• Assistant Coach Krystle Seidel krystle.seidel@wright.edu 937-775-
+• Assistant Coach Ian Molfenter ian.molfenter@wright.edu 937-775-
+• Assistant Coach Neil Daniels neil.daniels@wright.edu 937-775-
+• Head Coach Travers Green travers.green@wright.edu 937-775-
+• Assistant Coach Megan Alders megan.alders@wright.edu
+• Assistant Coach Cam Hausler hausler.3@wright.edu
+• Assistant Coach Megan Wielonski megan.wielonski@wright.edu

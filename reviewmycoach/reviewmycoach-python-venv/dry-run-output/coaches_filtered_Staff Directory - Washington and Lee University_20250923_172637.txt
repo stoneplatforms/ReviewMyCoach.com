@@ -1,0 +1,533 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:38
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Washington and Lee University
+Organization: Washington and Lee University Athletics
+
+Total coaches found: 66
+
+PARSED ENTRIES:
+----------------------------------------
+1. Erin Administrator
+   Email: nesse@wlu.edu
+   Username: nesse
+   Sports: Tennis
+   Title: s Tennis Coach
+   Original line: Erin Ness Senior Woman Administrator & Head Women's Tennis Coach 540-458- nesse@wlu.edu 14th (2012-13)
+
+2. Dave Forman
+   Email: dforman@wlu.edu
+   Username: dforman
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Dave Forman Head Strength & Conditioning Coach 540-458- dforman@wlu.edu 3rd (2022-23)
+
+3. Aron Gibson
+   Email: agibson@wlu.edu
+   Username: agibson
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach/Assistant
+   Original line: Aron Gibson Assistant Strength and Conditioning Coach/Assistant 540-458- agibson@wlu.edu 5th (2019)
+
+4. Ted White
+   Email: whitet@wlu.edu
+   Username: whitet
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Ted White Head Baseball Coach 540-458- whitet@wlu.edu 8th (2018)
+
+5. Brandon Cohen
+   Email: cohenb@wlu.edu
+   Username: cohenb
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Brandon Cohen Assistant Baseball Coach 540-458- cohenb@wlu.edu 8th (2018)
+
+6. Chris McHugh
+   Email: mchughc@wlu.edu
+   Username: mchughc
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Chris McHugh '09 Head Men's Basketball Coach 540-458- mchughc@wlu.edu 9th (2017-18)
+
+7. Isaac Hibbard
+   Email: ihibbard@wlu.edu
+   Username: ihibbard
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Isaac Hibbard Assistant Men's Basketball Coach 540-458- ihibbard@wlu.edu 2nd (2024-25)
+
+8. Brittney Kemp
+   Email: bkemp@wlu.edu
+   Username: bkemp
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Brittney Kemp Head Women's Basketball Coach 540-458- bkemp@wlu.edu 2nd (2024-25)
+
+9. Brittany Stawovy
+   Email: bstawovy@wlu.edu
+   Username: bstawovy
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Brittany Stawovy Assistant Women's Basketball Coach 540-458- bstawovy@wlu.edu 1st (2025-26)
+
+10. Brandon Spalding
+   Email: spaldingb@wlu.edu
+   Username: spaldingb
+   Sports: Baseball
+   Title: s Cross Country Coach
+   Original line: Brandon Spalding Head Men’s Cross Country Coach 540-458- spaldingb@wlu.edu 12th (2013)
+
+11. Brandon Aldridge
+   Email: uhlb@wlu.edu
+   Username: uhlb
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brandon Uhl Norris T. Aldridge Men’s Track & Field Head Coach 540-458- uhlb@wlu.edu 18th (2008)
+
+12. Sarah Hollen
+   Email: shollen@wlu.edu
+   Username: shollen
+   Sports: Baseball
+   Title: Assistant Track & Field and Cross Country Coach
+   Original line: Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+
+13. Dana Freeman
+   Email: freemand@wlu.edu
+   Username: freemand
+   Sports: Baseball
+   Title: s Track & Field Coach
+   Original line: Dana Freeman Head Women’s Track & Field Coach 540-458- freemand@wlu.edu 12th (2013)
+
+14. Sarah Hollen
+   Email: shollen@wlu.edu
+   Username: shollen
+   Sports: Baseball
+   Title: Assistant Track & Field and Cross Country Coach
+   Original line: Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+
+15. Gina Wills
+   Email: willsr@wlu.edu
+   Username: willsr
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Original line: Gina Wills Head Field Hockey Coach 540-458- willsr@wlu.edu 10th (2015)
+
+16. Blaine Donnelly
+   Email: bdonnelly@wlu.edu
+   Username: bdonnelly
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Blaine Donnelly Assistant Field Hockey Coach 540-458- bdonnelly@wlu.edu 3rd (2022)
+
+17. Garrett LeRose
+   Email: leroseg@wlu.edu
+   Username: leroseg
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Garrett LeRose '07 Head Football Coach 540-458- leroseg@wlu.edu 17th (2008)
+
+18. Vaughn Johnson
+   Email: vjohnson@wlu.edu
+   Username: vjohnson
+   Sports: Football
+   Title: Associate Head Football Coach - Defensive
+   Original line: Vaughn Johnson Associate Head Football Coach - Defensive 540-458- vjohnson@wlu.edu 5th (2020)
+
+19. Jimmie Johnson
+   Email: jmjohnson@wlu.edu
+   Username: jmjohnson
+   Sports: Football
+   Title: Assistant Football Coach - Assist
+   Original line: Jimmie Johnson III '20 Assistant Football Coach - Assist. Defensive Backs / Specials jmjohnson@wlu.edu 4th (2020-23,
+
+20. Mat Rapoza
+   Email: mrapoza@wlu.edu
+   Username: mrapoza
+   Sports: Football
+   Title: Assistant Football Coach - Offensive Coordinator / Running
+   Original line: Mat Rapoza '03 Assistant Football Coach - Offensive Coordinator / Running 540-458- mrapoza@wlu.edu 4th (2022)
+
+21. Tony Collins
+   Email: tcollins@wlu.edu
+   Username: tcollins
+   Sports: Football
+   Title: II Assistant Football Coach - Defensive Line Coach
+   Original line: Tony Collins II Assistant Football Coach - Defensive Line Coach 540-458- tcollins@wlu.edu 4th (2022)
+
+22. Nick Kazandjian
+   Email: nkazandjian@wlu.edu
+   Username: nkazandjian
+   Sports: Football
+   Title: Assistant Football Coach - Running Backs/Wide Receivers
+   Original line: Nick Kazandjian Assistant Football Coach - Running Backs/Wide Receivers 540-458- nkazandjian@wlu.edu 1st (2025)
+
+23. Pete Wall
+   Email: gyscekp@wlu.edu
+   Username: gyscekp
+   Sports: Football
+   Title: s Golf Coach
+   Original line: Pete Gyscek Thomas R. Wall, IV ’80 Head Men's Golf Coach 540-458- gyscekp@wlu.edu 12th (2011-12)
+
+24. Pete Wall
+   Email: gyscekp@wlu.edu
+   Username: gyscekp
+   Sports: Football
+   Title: s Golf Coach
+   Original line: Pete Gyscek Thomas R. Wall, IV ’80 Head Men's Golf Coach 540-458- gyscekp@wlu.edu 12th (2011-12)
+
+25. Will Garrett
+   Email: wgarrett@wlu.edu
+   Username: wgarrett
+   Sports: Football
+   Title: Head Coach / Offensive Coordinator
+   Original line: Will Garrett '13 Assistant Head Coach / Offensive Coordinator 540-458- wgarrett@wlu.edu 3rd (2023)
+
+26. Maddie Coleman
+   Email: mcoleman@wlu.edu
+   Username: mcoleman
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Maddie Coleman Head Women's Lacrosse Coach 540-458- mcoleman@wlu.edu 3rd (2023)
+
+27. Avery Blackmon
+   Email: ablackmon@wlu.edu
+   Username: ablackmon
+   Sports: Football
+   Title: s Lacrosse Coach
+   Original line: Avery Blackmon Assistant Women's Lacrosse Coach 540-458- ablackmon@wlu.edu 3rd (2023)
+
+28. Emily Guyer
+   Email: eguyer@wlu.edu
+   Username: eguyer
+   Sports: Football
+   Title: Assistant Riding Coach
+   Original line: Emily Guyer Assistant Riding Coach 540-458- eguyer@wlu.edu 5th (2019-20)
+
+29. Chris Mitchell
+   Email: cmitchell@wlu.edu
+   Username: cmitchell
+   Sports: Football
+   Title: Head Equestrian Coach
+   Original line: Chris Mitchell Head Equestrian Coach 540-463- cmitchell@wlu.edu 1st (2025-26)
+
+30. Lumumba Shabazz
+   Email: lshabazz@wlu.edu
+   Username: lshabazz
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Lumumba Shabazz Head Men's Soccer Coach 540-458- lshabazz@wlu.edu 2nd (2024)
+
+31. Josh Gildea
+   Email: jgildea@wlu.edu
+   Username: jgildea
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Josh Gildea Assistant Men's Soccer Coach 540-458- jgildea@wlu.edu 2nd (2024)
+
+32. Tiffany Pins
+   Email: tpins@wlu.edu
+   Username: tpins
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Tiffany Pins Head Women's Soccer Coach 540-458- tpins@wlu.edu 4th (2022)
+
+33. Robert Tomecek
+   Email: rtomecek@wlu.edu
+   Username: rtomecek
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: Robert Tomecek Assistant Women's Soccer Coach 540-458- rtomecek@wlu.edu 4th (2022)
+
+34. Kami Gardner
+   Email: gardnerka@wlu.edu
+   Username: gardnerka
+   Sports: Football
+   Title: s Swimming Coach
+   Original line: Kami Gardner Head Men's and Women's Swimming Coach 540-458- gardnerka@wlu.edu 19th (2007-08)
+
+35. Taylor Steele
+   Email: tsteele@wlu.edu
+   Username: tsteele
+   Sports: Football
+   Title: s Swimming Coach
+   Original line: Taylor Steele Assistant Men's and Women's Swimming Coach 540-458- tsteele@wlu.edu 7th (2013-16,
+
+36. Alex Henderson
+   Email: ahenderson@wlu.edu
+   Username: ahenderson
+   Sports: Football
+   Title: s Swimming Coach
+   Original line: Alex Henderson Assistant Men's and Women's Swimming Coach 540-458- ahenderson@wlu.edu 3rd (2022-23)
+
+37. Kami Gardner
+   Email: gardnerka@wlu.edu
+   Username: gardnerka
+   Sports: Football
+   Title: s Swimming Coach
+   Original line: Kami Gardner Head Men's and Women's Swimming Coach 540-458- gardnerka@wlu.edu 19th (2007-08)
+
+38. Taylor Steele
+   Email: tsteele@wlu.edu
+   Username: tsteele
+   Sports: Football
+   Title: s Swimming Coach
+   Original line: Taylor Steele Assistant Men's and Women's Swimming Coach 540-458- tsteele@wlu.edu 7th (2013-16,
+
+39. Alex Henderson
+   Email: ahenderson@wlu.edu
+   Username: ahenderson
+   Sports: Football
+   Title: s Swimming Coach
+   Original line: Alex Henderson Assistant Men's and Women's Swimming Coach 540-458- ahenderson@wlu.edu 3rd (2022-23)
+
+40. David Detwiler
+   Email: detwilerd@wlu.edu
+   Username: detwilerd
+   Sports: Football
+   Title: s Tennis Coach
+   Original line: David Detwiler Head Men's Tennis Coach 540-458- detwilerd@wlu.edu 25th (2000-01)
+
+41. Erin Administrator
+   Email: nesse@wlu.edu
+   Username: nesse
+   Sports: Football
+   Title: s Tennis Coach
+   Original line: Erin Ness Senior Woman Administrator & Head Women's Tennis Coach 540-458- nesse@wlu.edu 14th (2012-13)
+
+42. Tyler Linscott
+   Email: tlinscott@wlu.edu
+   Username: tlinscott
+   Sports: Football
+   Title: s Tennis Coach
+   Original line: Tyler Linscott Assistant Women's Tennis Coach 540-458- tlinscott@wlu.edu 1st (2024-25)
+
+43. Brandon Aldridge
+   Email: uhlb@wlu.edu
+   Username: uhlb
+   Sports: Football
+   Title: Head Coach
+   Original line: Brandon Uhl Norris T. Aldridge Men’s Track & Field Head Coach 540-458- uhlb@wlu.edu 18th (2008)
+
+44. Brandon Spalding
+   Email: spaldingb@wlu.edu
+   Username: spaldingb
+   Sports: Football
+   Title: s Cross Country Coach
+   Original line: Brandon Spalding Head Men’s Cross Country Coach 540-458- spaldingb@wlu.edu 12th (2013)
+
+45. Aron Gibson
+   Email: agibson@wlu.edu
+   Username: agibson
+   Sports: Football
+   Title: Assistant Strength and Conditioning Coach/Assistant
+   Original line: Aron Gibson Assistant Strength and Conditioning Coach/Assistant 540-458- agibson@wlu.edu 5th (2019)
+
+46. Sarah Hollen
+   Email: shollen@wlu.edu
+   Username: shollen
+   Sports: Football
+   Title: Assistant Track & Field and Cross Country Coach
+   Original line: Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+
+47. Dana Freeman
+   Email: freemand@wlu.edu
+   Username: freemand
+   Sports: Football
+   Title: s Track & Field Coach
+   Original line: Dana Freeman Head Women’s Track & Field Coach 540-458- freemand@wlu.edu 12th (2013)
+
+48. Aron Gibson
+   Email: agibson@wlu.edu
+   Username: agibson
+   Sports: Football
+   Title: Assistant Strength and Conditioning Coach/Assistant
+   Original line: Aron Gibson Assistant Strength and Conditioning Coach/Assistant 540-458- agibson@wlu.edu 5th (2019)
+
+49. Sarah Hollen
+   Email: shollen@wlu.edu
+   Username: shollen
+   Sports: Football
+   Title: Assistant Track & Field and Cross Country Coach
+   Original line: Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+
+50. Morgan Hoover
+   Email: mhoover@wlu.edu
+   Username: mhoover
+   Sports: Volleyball
+   Title: Assistant Volleyball Coach
+   Original line: Morgan Hoover Assistant Volleyball Coach 540-458- mhoover@wlu.edu 4th (2022)
+
+51. Taylor Gibson
+   Email: Tgibson@wlu.edu
+   Username: Tgibson
+   Sports: Volleyball
+   Title: Volunteer Assistant Coach
+   Original line: Taylor Gibson '06 Volunteer Assistant Coach Tgibson@wlu.edu 4th (2022)
+
+52. Nathan Shearer
+   Email: shearern@wlu.edu
+   Username: shearern
+   Sports: Volleyball
+   Title: Head Wrestling Coach
+   Original line: Nathan Shearer Head Wrestling Coach 540-458- shearern@wlu.edu 13th (2011-12)
+
+53. Alex Radsky
+   Email: radskya@wlu.edu
+   Username: radskya
+   Sports: Volleyball
+   Title: Assistant Wrestling Coach
+   Original line: Alex Radsky Assistant Wrestling Coach 540-458- radskya@wlu.edu 10th (2015)
+
+54. Jan Walsh
+   Email: hathornj@wlu.edu
+   Username: hathornj
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach 8946 hathornj@wlu.edu
+
+55.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: Lacrosse Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Lacrosse Coach 8678
+
+56. Gene McCabe
+   Email: mccabee@wlu.edu
+   Username: mccabee
+   Sports: Cross Country
+   Title: s Cross Country Coach
+   Original line: Head Women’s Cross Country Coach 8679 mccabee@wlu.edu
+
+57. Patti Center
+   Email: collitonp@wlu.edu
+   Username: collitonp
+   Sports: Soccer
+   Title: s Throws Coach
+   Original line: Women’s and Men’s Throws Coach 8262 collitonp@wlu.edu
+
+58. Jonathan Volunteer
+   Email: 
+   Username: jonathan.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jonathan Perry Volunteer Assistant Coach
+
+59. Drew Volunteer
+   Email: 
+   Username: drew.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Drew Harrell Volunteer Assistant Coach
+
+60. Backs Ends
+   Email: 
+   Username: backs.ends
+   Sports: Soccer
+   Title: Backs & Tight Ends Coach
+   Original line: Backs & Tight Ends Coach 8688
+
+61. Gavin Colliton
+   Email: 
+   Username: gavin.colliton
+   Sports: Soccer
+   Title: Gavin Colliton Assistant Football Coach - Offensive Line
+   Original line: Gavin Colliton Assistant Football Coach - Offensive Line
+
+62.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 8058
+
+63. Jane Hopkinson-Wood
+   Email: 
+   Username: jane.hopkinson.wood
+   Sports: Golf
+   Title: s Golf Coach
+   Original line: Jane Hopkinson-Wood Head Women's Golf Coach 540-458- jhopkinson- 2nd (2023-24)
+
+64. Jim Volunteer
+   Email: 
+   Username: jim.volunteer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Jim Farrar Volunteer Assistant Women's Lacrosse Coach
+
+65. Lauren Volunteer
+   Email: 
+   Username: lauren.volunteer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Lauren Vance Volunteer Assistant Women's Lacrosse Coach
+
+66. Tracy Volunteer
+   Email: 
+   Username: tracy.volunteer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Tracy Tucker Volunteer Assistant Women's Lacrosse Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Erin Ness Senior Woman Administrator & Head Women's Tennis Coach 540-458- nesse@wlu.edu 14th (2012-13)
+• Dave Forman Head Strength & Conditioning Coach 540-458- dforman@wlu.edu 3rd (2022-23)
+• Aron Gibson Assistant Strength and Conditioning Coach/Assistant 540-458- agibson@wlu.edu 5th (2019)
+• Ted White Head Baseball Coach 540-458- whitet@wlu.edu 8th (2018)
+• Brandon Cohen Assistant Baseball Coach 540-458- cohenb@wlu.edu 8th (2018)
+• Chris McHugh '09 Head Men's Basketball Coach 540-458- mchughc@wlu.edu 9th (2017-18)
+• Isaac Hibbard Assistant Men's Basketball Coach 540-458- ihibbard@wlu.edu 2nd (2024-25)
+• Brittney Kemp Head Women's Basketball Coach 540-458- bkemp@wlu.edu 2nd (2024-25)
+• Brittany Stawovy Assistant Women's Basketball Coach 540-458- bstawovy@wlu.edu 1st (2025-26)
+• Brandon Spalding Head Men’s Cross Country Coach 540-458- spaldingb@wlu.edu 12th (2013)
+• Brandon Uhl Norris T. Aldridge Men’s Track & Field Head Coach 540-458- uhlb@wlu.edu 18th (2008)
+• Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+• Dana Freeman Head Women’s Track & Field Coach 540-458- freemand@wlu.edu 12th (2013)
+• Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+• Gina Wills Head Field Hockey Coach 540-458- willsr@wlu.edu 10th (2015)
+• Blaine Donnelly Assistant Field Hockey Coach 540-458- bdonnelly@wlu.edu 3rd (2022)
+• Garrett LeRose '07 Head Football Coach 540-458- leroseg@wlu.edu 17th (2008)
+• Vaughn Johnson Associate Head Football Coach - Defensive 540-458- vjohnson@wlu.edu 5th (2020)
+• Jimmie Johnson III '20 Assistant Football Coach - Assist. Defensive Backs / Specials jmjohnson@wlu.edu 4th (2020-23,
+• Mat Rapoza '03 Assistant Football Coach - Offensive Coordinator / Running 540-458- mrapoza@wlu.edu 4th (2022)
+• Tony Collins II Assistant Football Coach - Defensive Line Coach 540-458- tcollins@wlu.edu 4th (2022)
+• Nick Kazandjian Assistant Football Coach - Running Backs/Wide Receivers 540-458- nkazandjian@wlu.edu 1st (2025)
+• Pete Gyscek Thomas R. Wall, IV ’80 Head Men's Golf Coach 540-458- gyscekp@wlu.edu 12th (2011-12)
+• Pete Gyscek Thomas R. Wall, IV ’80 Head Men's Golf Coach 540-458- gyscekp@wlu.edu 12th (2011-12)
+• Will Garrett '13 Assistant Head Coach / Offensive Coordinator 540-458- wgarrett@wlu.edu 3rd (2023)
+• Maddie Coleman Head Women's Lacrosse Coach 540-458- mcoleman@wlu.edu 3rd (2023)
+• Avery Blackmon Assistant Women's Lacrosse Coach 540-458- ablackmon@wlu.edu 3rd (2023)
+• Emily Guyer Assistant Riding Coach 540-458- eguyer@wlu.edu 5th (2019-20)
+• Chris Mitchell Head Equestrian Coach 540-463- cmitchell@wlu.edu 1st (2025-26)
+• Lumumba Shabazz Head Men's Soccer Coach 540-458- lshabazz@wlu.edu 2nd (2024)
+• Josh Gildea Assistant Men's Soccer Coach 540-458- jgildea@wlu.edu 2nd (2024)
+• Tiffany Pins Head Women's Soccer Coach 540-458- tpins@wlu.edu 4th (2022)
+• Robert Tomecek Assistant Women's Soccer Coach 540-458- rtomecek@wlu.edu 4th (2022)
+• Kami Gardner Head Men's and Women's Swimming Coach 540-458- gardnerka@wlu.edu 19th (2007-08)
+• Taylor Steele Assistant Men's and Women's Swimming Coach 540-458- tsteele@wlu.edu 7th (2013-16,
+• Alex Henderson Assistant Men's and Women's Swimming Coach 540-458- ahenderson@wlu.edu 3rd (2022-23)
+• Kami Gardner Head Men's and Women's Swimming Coach 540-458- gardnerka@wlu.edu 19th (2007-08)
+• Taylor Steele Assistant Men's and Women's Swimming Coach 540-458- tsteele@wlu.edu 7th (2013-16,
+• Alex Henderson Assistant Men's and Women's Swimming Coach 540-458- ahenderson@wlu.edu 3rd (2022-23)
+• David Detwiler Head Men's Tennis Coach 540-458- detwilerd@wlu.edu 25th (2000-01)
+• Erin Ness Senior Woman Administrator & Head Women's Tennis Coach 540-458- nesse@wlu.edu 14th (2012-13)
+• Tyler Linscott Assistant Women's Tennis Coach 540-458- tlinscott@wlu.edu 1st (2024-25)
+• Brandon Uhl Norris T. Aldridge Men’s Track & Field Head Coach 540-458- uhlb@wlu.edu 18th (2008)
+• Brandon Spalding Head Men’s Cross Country Coach 540-458- spaldingb@wlu.edu 12th (2013)
+• Aron Gibson Assistant Strength and Conditioning Coach/Assistant 540-458- agibson@wlu.edu 5th (2019)
+• Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+• Dana Freeman Head Women’s Track & Field Coach 540-458- freemand@wlu.edu 12th (2013)
+• Aron Gibson Assistant Strength and Conditioning Coach/Assistant 540-458- agibson@wlu.edu 5th (2019)
+• Sarah Hollen '22 Assistant Track & Field and Cross Country Coach 540-458- shollen@wlu.edu 1st (2024-25)
+• Morgan Hoover Assistant Volleyball Coach 540-458- mhoover@wlu.edu 4th (2022)
+• Taylor Gibson '06 Volunteer Assistant Coach Tgibson@wlu.edu 4th (2022)
+• Nathan Shearer Head Wrestling Coach 540-458- shearern@wlu.edu 13th (2011-12)
+• Alex Radsky Assistant Wrestling Coach 540-458- radskya@wlu.edu 10th (2015)

@@ -1,0 +1,574 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:24
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Ashland University
+Organization: Ashland University Athletics
+
+Total coaches found: 70
+
+PARSED ENTRIES:
+----------------------------------------
+1. DaJuan Seward
+   Email: dseward@ashland.edu
+   Username: dseward
+   Sports: Track & Field
+   Title: Athletic Student Success Coach / Assistant Track & Field Coach
+   Original line: DaJuan Seward Athletic Student Success Coach / Assistant Track & Field Coach (Jumps / dseward@ashland.edu
+
+2. Corey Mason
+   Email: cmason13@ashland.edu
+   Username: cmason13
+   Sports: Strength & Conditioning
+   Title: Head Strength and Conditioning Coach
+   Original line: Corey Mason Head Strength and Conditioning Coach cmason13@ashland.edu
+
+3. Aaron Barnhart
+   Email: abarnha9@ashland.edu
+   Username: abarnha9
+   Sports: Strength & Conditioning
+   Title: Assistant Strength and Conditioning Coach
+   Original line: Aaron Barnhart Assistant Strength and Conditioning Coach abarnha9@ashland.edu
+
+4. Isaac Ridgway
+   Email: iridgway@ashland.edu
+   Username: iridgway
+   Sports: Strength & Conditioning
+   Title: Strength and Conditioning Graduate Assistant Coach
+   Original line: Isaac Ridgway Strength and Conditioning Graduate Assistant Coach iridgway@ashland.edu
+
+5. John Schaly
+   Email: jschaly@ashland.edu
+   Username: jschaly
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: John Schaly Head Baseball Coach 419-289- jschaly@ashland.edu
+
+6. Brady Cottom
+   Email: bcottom@ashland.edu
+   Username: bcottom
+   Sports: Baseball
+   Title: Associate Head Baseball Coach
+   Original line: Brady Cottom Associate Head Baseball Coach 419-289- bcottom@ashland.edu
+
+7. Wyatt Smith
+   Email: wsmith21@ashland.edu
+   Username: wsmith21
+   Sports: Baseball
+   Title: Baseball Graduate Assistant Coach
+   Original line: Wyatt Smith Baseball Graduate Assistant Coach wsmith21@ashland.edu
+
+8. John Ellenwood
+   Email: jellenwo@ashland.edu
+   Username: jellenwo
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: John Ellenwood Head Men's Basketball Coach jellenwo@ashland.edu
+
+9. Brook Turson
+   Email: bturson1@ashland.edu
+   Username: bturson1
+   Sports: Baseball
+   Title: Men's Basketball Associate Head Coach
+   Original line: Brook Turson Men's Basketball Associate Head Coach bturson1@ashland.edu
+
+10. Mark DeLaney
+   Email: mdelaney@ashland.edu
+   Username: mdelaney
+   Sports: Baseball
+   Title: Men's Basketball Assistant Coach
+   Original line: Mark DeLaney Men's Basketball Assistant Coach mdelaney@ashland.edu
+
+11. Stefan Stanic
+   Email: sstanic@ashland.edu
+   Username: sstanic
+   Sports: Baseball
+   Title: Men's Basketball Graduate Assistant Coach
+   Original line: Stefan Stanic Men's Basketball Graduate Assistant Coach sstanic@ashland.edu
+
+12. Kari Pickens
+   Email: kpickens@ashland.edu
+   Username: kpickens
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Kari Pickens Women's Basketball Head Coach 419-289- kpickens@ashland.edu
+
+13. Jenna Kotas
+   Email: jkotas@ashland.edu
+   Username: jkotas
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Jenna Kotas Associate Head Women's Basketball Coach 419-289- jkotas@ashland.edu
+
+14. Natalie Thomas
+   Email: nthoma14@ashland.edu
+   Username: nthoma14
+   Sports: Baseball
+   Title: Women's Basketball Graduate Assistant Coach
+   Original line: Natalie Thomas Women's Basketball Graduate Assistant Coach nthoma14@ashland.edu
+
+15. Lydia Flint
+   Email: lsweene2@ashland.edu
+   Username: lsweene2
+   Sports: Baseball
+   Title: Assistant Women's Baskeball Coach
+   Original line: Lydia Flint Assistant Women's Baskeball Coach lsweene2@ashland.edu
+
+16. Jacob Sussman
+   Email: jsussman@ashland.edu
+   Username: jsussman
+   Sports: Cross Country
+   Title: Head Cross Country Coach / Director of Track & Field Operations /
+   Original line: Jacob Sussman Head Cross Country Coach / Director of Track & Field Operations / 419-207- jsussman@ashland.edu
+
+17. Molly Priest
+   Email: mpriest2@ashland.edu
+   Username: mpriest2
+   Sports: Cross Country
+   Title: Assistant Cross Country Coach
+   Original line: Molly Priest Assistant Cross Country Coach mpriest2@ashland.edu
+
+18. P.J. Fiscus
+   Email: pfiscus@ashland.edu
+   Username: pfiscus
+   Sports: Cross Country
+   Title: Head esports Coach
+   Original line: P.J. Fiscus Head esports Coach pfiscus@ashland.edu
+
+19. Doug Geiser
+   Email: dgeiser@ashland.edu
+   Username: dgeiser
+   Sports: Football
+   Title: Head Football Coach / Tight Ends / Fullbacks
+   Original line: Doug Geiser Head Football Coach / Tight Ends / Fullbacks 419-289- dgeiser@ashland.edu
+
+20. Jim Cordle
+   Email: jcordle@ashland.edu
+   Username: jcordle
+   Sports: Football
+   Title: Associate Head Football Coach / Offensive Line / Run Game Coordinator /
+   Original line: Jim Cordle Associate Head Football Coach / Offensive Line / Run Game Coordinator / 419-207- jcordle@ashland.edu
+
+21. Tim Rose
+   Email: trose1@ashland.edu
+   Username: trose1
+   Sports: Football
+   Title: Assistant Football Coach - Defensive Coordinator / Linebackers
+   Original line: Tim Rose Assistant Football Coach - Defensive Coordinator / Linebackers 419-289- trose1@ashland.edu
+
+22. Tom Stacy
+   Email: tstacy@ashland.edu
+   Username: tstacy
+   Sports: Football
+   Title: Assistant Football Coach - Offensive Coordinator / Quarterbacks
+   Original line: Tom Stacy Assistant Football Coach - Offensive Coordinator / Quarterbacks 419-289- tstacy@ashland.edu
+
+23. John Sacco
+   Email: msaccome@ashland.edu
+   Username: msaccome
+   Sports: Football
+   Title: Saccomen Assistant Football Coach - Interior Defensive Line
+   Original line: John Saccomen Assistant Football Coach - Interior Defensive Line 419-289- msaccome@ashland.edu
+
+24. Dominick Orsini
+   Email: dorsini@ashland.edu
+   Username: dorsini
+   Sports: Football
+   Title: Assistant Football Coach - Safeties /
+   Original line: Dominick Orsini Assistant Football Coach - Safeties / Recruiting Coordinator dorsini@ashland.edu
+
+25. Andy Tabler
+   Email: atabler2@ashland.edu
+   Username: atabler2
+   Sports: Football
+   Title: Assistant Football Coach - Defensive Ends
+   Original line: Andy Tabler Assistant Football Coach - Defensive Ends 419-289- atabler2@ashland.edu
+
+26. Nickoli 
+   Email: anickoli@ashland.edu
+   Username: anickoli
+   Sports: Football
+   Title: Assistant Football Coach - Director of Football Operations / Tailbacks /
+   Original line: A.J. Nickoli Assistant Football Coach - Director of Football Operations / Tailbacks / 419-289- anickoli@ashland.edu
+
+27. Donzale Ashley
+   Email: dashley2@ashland.edu
+   Username: dashley2
+   Sports: Football
+   Title: Assistant Football Coach - Cornerbacks / Academic Coordinator / Kickoff
+   Original line: Donzale Ashley Assistant Football Coach - Cornerbacks / Academic Coordinator / Kickoff dashley2@ashland.edu
+
+28. Garrett Turnbaugh
+   Email: gturnbau@ashland.edu
+   Username: gturnbau
+   Sports: Football
+   Title: Assistant Football Coach - Wide Receivers / Head JV Coach / Video
+   Original line: Garrett Turnbaugh Assistant Football Coach - Wide Receivers / Head JV Coach / Video gturnbau@ashland.edu
+
+29. Evan Graduate
+   Email: ekirkpa2@ashland.edu
+   Username: ekirkpa2
+   Sports: Football
+   Title: Kirkpatrick Assistant Football Coach
+   Original line: Evan Kirkpatrick Graduate Assistant Football Coach (Offense) ekirkpa2@ashland.edu
+
+30. Chris Graduate
+   Email: cjulian@ashland.edu
+   Username: cjulian
+   Sports: Football
+   Title: Julian Assistant Football Coach
+   Original line: Chris Julian Graduate Assistant Football Coach (Defense) cjulian@ashland.edu
+
+31. Ted Chester
+   Email: rcheste2@ashland.edu
+   Username: rcheste2
+   Sports: Football
+   Title: Head Women's Golf Coach
+   Original line: Ted Chester Head Women's Golf Coach rcheste2@ashland.edu
+
+32. Steve Paramore
+   Email: sparamor@ashland.edu
+   Username: sparamor
+   Sports: Football
+   Title: Volunteer Assistant Women's Golf Coach
+   Original line: Steve Paramore Volunteer Assistant Women's Golf Coach sparamor@ashland.edu
+
+33. Lauren Simko
+   Email: lsimko@ashland.edu
+   Username: lsimko
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: Lauren Simko Head Women's Lacrosse Coach 419-207- lsimko@ashland.edu
+
+34. Molly Grant
+   Email: mgrant7@ashland.edu
+   Username: mgrant7
+   Sports: Lacrosse
+   Title: Women's Lacrosse Graduate Assistant Coach
+   Original line: Molly Grant Women's Lacrosse Graduate Assistant Coach mgrant7@ashland.edu
+
+35. Nick Roberts
+   Email: nrobert8@ashland.edu
+   Username: nrobert8
+   Sports: Lacrosse
+   Title: s Soccer Coach
+   Original line: Nick Roberts Head Men's Soccer Coach 419-289- nrobert8@ashland.edu
+
+36. Pedro Faria
+   Email: pafonsof@ashland.edu
+   Username: pafonsof
+   Sports: Lacrosse
+   Title: Graduate Assistant Men's Soccer Coach
+   Original line: Pedro Faria Graduate Assistant Men's Soccer Coach pafonsof@ashland.edu
+
+37. Dr 
+   Email: dlawless@ashland.edu
+   Username: dlawless
+   Sports: Lacrosse
+   Title: Des Lawless Assistant Men's Soccer Coach
+   Original line: Dr. Des Lawless Assistant Men's Soccer Coach dlawless@ashland.edu
+
+38. Nick Felician
+   Email: nfelicia@ashland.edu
+   Username: nfelicia
+   Sports: Lacrosse
+   Title: Assistant Men's Soccer Coach
+   Original line: Nick Felician Assistant Men's Soccer Coach nfelicia@ashland.edu
+
+39. Ty Bowden
+   Email: rbowden@ashland.edu
+   Username: rbowden
+   Sports: Lacrosse
+   Title: Men's Soccer Goalkeeper Coach
+   Original line: Ty Bowden Men's Soccer Goalkeeper Coach rbowden@ashland.edu
+
+40. Elijah Minso
+   Email: eminso@ashland.edu
+   Username: eminso
+   Sports: Lacrosse
+   Title: Volunteer Assistant Men's Soccer Coach
+   Original line: Elijah Minso Volunteer Assistant Men's Soccer Coach eminso@ashland.edu
+
+41. Cayleb Paulino
+   Email: cpaulino@ashland.edu
+   Username: cpaulino
+   Sports: Lacrosse
+   Title: s Soccer Coach
+   Original line: Cayleb Paulino Head Women's Soccer Coach 419-289- cpaulino@ashland.edu
+
+42. Grace Labadie
+   Email: glabadie@ashland.edu
+   Username: glabadie
+   Sports: Lacrosse
+   Title: Associate Women's Soccer Head Coach
+   Original line: Grace Labadie Associate Women's Soccer Head Coach glabadie@ashland.edu
+
+43. Jackie Price
+   Email: jprice26@ashland.edu
+   Username: jprice26
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Jackie Price Head Softball Coach jprice26@ashland.edu
+
+44. Lane Leedy
+   Email: lleedy2@ashland.edu
+   Username: lleedy2
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Lane Leedy Assistant Softball Coach lleedy2@ashland.edu
+
+45. Denise Farnsworth
+   Email: aucheerdancecoach@ashland.edu
+   Username: aucheerdancecoach
+   Sports: Softball
+   Title: Head Cheer and Dance Coach/Head STUNT Coach
+   Original line: Denise Farnsworth Head Cheer and Dance Coach/Head STUNT Coach 419-207- aucheerdancecoach@ashland.edu
+
+46. Brandy Marquette
+   Email: bmarquet@ashland.edu
+   Username: bmarquet
+   Sports: Softball
+   Title: Associate Head Cheer and Dance Coach / Associate Head
+   Original line: Brandy Marquette Associate Head Cheer and Dance Coach / Associate Head STUNT Coach bmarquet@ashland.edu
+
+47. Ryley Poling
+   Email: rpoling2@ashland.edu
+   Username: rpoling2
+   Sports: Softball
+   Title: Assistant STUNT Coach
+   Original line: Ryley Poling Assistant STUNT Coach rpoling2@ashland.edu
+
+48. Austin Cook
+   Email: acook27@ashland.edu
+   Username: acook27
+   Sports: Softball
+   Title: Assistant STUNT Coach
+   Original line: Austin Cook Assistant STUNT Coach acook27@ashland.edu
+
+49. Emiah Mills
+   Email: emills7@ashland.edu
+   Username: emills7
+   Sports: Softball
+   Title: Graduate Assistant STUNT Coach
+   Original line: Emiah Mills Graduate Assistant STUNT Coach emills7@ashland.edu
+
+50. Sydney Laughlin
+   Email: slaughli@ashland.edu
+   Username: slaughli
+   Sports: Swimming
+   Title: Head Swimming and Diving Coach
+   Original line: Sydney Laughlin Head Swimming and Diving Coach slaughli@ashland.edu
+
+51. Morgan Brutcher
+   Email: mdunlea2@ashland.edu
+   Username: mdunlea2
+   Sports: Swimming
+   Title: Assistant Diving Coach
+   Original line: Morgan Brutcher Assistant Diving Coach mdunlea2@ashland.edu
+
+52. Fabian Avila
+   Email: favilato@ashland.edu
+   Username: favilato
+   Sports: Swimming
+   Title: Graduate Assistant Tennis Coach
+   Original line: Fabian Avila Graduate Assistant Tennis Coach favilato@ashland.edu
+
+53. Fabian Avila
+   Email: favilato@ashland.edu
+   Username: favilato
+   Sports: Swimming
+   Title: Graduate Assistant Tennis Coach
+   Original line: Fabian Avila Graduate Assistant Tennis Coach favilato@ashland.edu
+
+54. Kruger 
+   Email: akruger@ashland.edu
+   Username: akruger
+   Sports: Track & Field
+   Title: Head Track & Field Coach / Throws Coach
+   Original line: A.G. Kruger Head Track & Field Coach / Throws Coach 419-207- akruger@ashland.edu
+
+55. Logan Sharpe
+   Email: lsharpe2@ashland.edu
+   Username: lsharpe2
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach
+   Original line: Logan Sharpe Assistant Track & Field Coach (Sprints / Hurdles / Relays) 419-207- lsharpe2@ashland.edu
+
+56. Jacob Sussman
+   Email: jsussman@ashland.edu
+   Username: jsussman
+   Sports: Track & Field
+   Title: Head Cross Country Coach / Director of Track & Field Operations /
+   Original line: Jacob Sussman Head Cross Country Coach / Director of Track & Field Operations / 419-207- jsussman@ashland.edu
+
+57. DaJuan Seward
+   Email: dseward@ashland.edu
+   Username: dseward
+   Sports: Track & Field
+   Title: Athletic Student Success Coach / Assistant Track & Field Coach
+   Original line: DaJuan Seward Athletic Student Success Coach / Assistant Track & Field Coach (Jumps / dseward@ashland.edu
+
+58. Kurt Roberts
+   Email: krobert3@ashland.edu
+   Username: krobert3
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach
+   Original line: Kurt Roberts Assistant Track & Field Coach (Throws) krobert3@ashland.edu
+
+59. Rachel Volunteer
+   Email: rtanczos@ashland.edu
+   Username: rtanczos
+   Sports: Track & Field
+   Title: Richeson Assistant Track & Field Coach
+   Original line: Rachel Richeson Volunteer Assistant Track & Field Coach (Throws) rtanczos@ashland.edu
+
+60. Skinner 
+   Email: tskinne2@ashland.edu
+   Username: tskinne2
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach
+   Original line: T.J. Skinner Assistant Track & Field Coach (Sprints & Hurdles) tskinne2@ashland.edu
+
+61. Wyatt Cory
+   Email: wcory@ashland.edu
+   Username: wcory
+   Sports: Track & Field
+   Title: Assistant Track & Field Coach
+   Original line: Wyatt Cory Assistant Track & Field Coach (Multis / Pole Vault) wcory@ashland.edu
+
+62. Katie Kuhn
+   Email: kkuhn6@ashland.edu
+   Username: kkuhn6
+   Sports: Volleyball
+   Title: Head Volleyball Coach
+   Original line: Katie Kuhn Head Volleyball Coach 419-289- kkuhn6@ashland.edu
+
+63. Hannah Zuchowski
+   Email: hzuchows@ashland.edu
+   Username: hzuchows
+   Sports: Volleyball
+   Title: Associate Head Volleyball Coach
+   Original line: Hannah Zuchowski Associate Head Volleyball Coach hzuchows@ashland.edu
+
+64. Rylie Roggow
+   Email: rroggow@ashland.edu
+   Username: rroggow
+   Sports: Volleyball
+   Title: Graduate Assistant Volleyball Coach
+   Original line: Rylie Roggow Graduate Assistant Volleyball Coach rroggow@ashland.edu
+
+65. Colt Sponseller
+   Email: csponse3@ashland.edu
+   Username: csponse3
+   Sports: Volleyball
+   Title: Head Wrestling Coach
+   Original line: Colt Sponseller Head Wrestling Coach 419-289- csponse3@ashland.edu
+
+66. Logan Griffin
+   Email: lgriff11@ashland.edu
+   Username: lgriff11
+   Sports: Volleyball
+   Title: Assistant Wrestling Coach
+   Original line: Logan Griffin Assistant Wrestling Coach lgriff11@ashland.edu
+
+67. Bret Romanzak
+   Email: bromanza@ashland.edu
+   Username: bromanza
+   Sports: Volleyball
+   Title: Assistant Wrestling Coach
+   Original line: Bret Romanzak Assistant Wrestling Coach bromanza@ashland.edu
+
+68. Josh Hunter
+   Email: jhunter7@ashland.edu
+   Username: jhunter7
+   Sports: Volleyball
+   Title: Assistant Wrestling Coach
+   Original line: Josh Hunter Assistant Wrestling Coach jhunter7@ashland.edu
+
+69. Rachel Graduate
+   Email: 
+   Username: rachel.graduate
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Rachel Lynch Graduate Assistant Women's Soccer Coach
+
+70. Denny Volunteer
+   Email: 
+   Username: denny.volunteer
+   Sports: Track & Field
+   Title: Denny Steele Volunteer Assistant Track & Field Coach
+   Original line: Denny Steele Volunteer Assistant Track & Field Coach (Pole Vault)
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• DaJuan Seward Athletic Student Success Coach / Assistant Track & Field Coach (Jumps / dseward@ashland.edu
+• Corey Mason Head Strength and Conditioning Coach cmason13@ashland.edu
+• Aaron Barnhart Assistant Strength and Conditioning Coach abarnha9@ashland.edu
+• Isaac Ridgway Strength and Conditioning Graduate Assistant Coach iridgway@ashland.edu
+• John Schaly Head Baseball Coach 419-289- jschaly@ashland.edu
+• Brady Cottom Associate Head Baseball Coach 419-289- bcottom@ashland.edu
+• Wyatt Smith Baseball Graduate Assistant Coach wsmith21@ashland.edu
+• John Ellenwood Head Men's Basketball Coach jellenwo@ashland.edu
+• Brook Turson Men's Basketball Associate Head Coach bturson1@ashland.edu
+• Mark DeLaney Men's Basketball Assistant Coach mdelaney@ashland.edu
+• Stefan Stanic Men's Basketball Graduate Assistant Coach sstanic@ashland.edu
+• Kari Pickens Women's Basketball Head Coach 419-289- kpickens@ashland.edu
+• Jenna Kotas Associate Head Women's Basketball Coach 419-289- jkotas@ashland.edu
+• Natalie Thomas Women's Basketball Graduate Assistant Coach nthoma14@ashland.edu
+• Lydia Flint Assistant Women's Baskeball Coach lsweene2@ashland.edu
+• Jacob Sussman Head Cross Country Coach / Director of Track & Field Operations / 419-207- jsussman@ashland.edu
+• Molly Priest Assistant Cross Country Coach mpriest2@ashland.edu
+• P.J. Fiscus Head esports Coach pfiscus@ashland.edu
+• Doug Geiser Head Football Coach / Tight Ends / Fullbacks 419-289- dgeiser@ashland.edu
+• Jim Cordle Associate Head Football Coach / Offensive Line / Run Game Coordinator / 419-207- jcordle@ashland.edu
+• Tim Rose Assistant Football Coach - Defensive Coordinator / Linebackers 419-289- trose1@ashland.edu
+• Tom Stacy Assistant Football Coach - Offensive Coordinator / Quarterbacks 419-289- tstacy@ashland.edu
+• John Saccomen Assistant Football Coach - Interior Defensive Line 419-289- msaccome@ashland.edu
+• Dominick Orsini Assistant Football Coach - Safeties / Recruiting Coordinator dorsini@ashland.edu
+• Andy Tabler Assistant Football Coach - Defensive Ends 419-289- atabler2@ashland.edu
+• A.J. Nickoli Assistant Football Coach - Director of Football Operations / Tailbacks / 419-289- anickoli@ashland.edu
+• Donzale Ashley Assistant Football Coach - Cornerbacks / Academic Coordinator / Kickoff dashley2@ashland.edu
+• Garrett Turnbaugh Assistant Football Coach - Wide Receivers / Head JV Coach / Video gturnbau@ashland.edu
+• Evan Kirkpatrick Graduate Assistant Football Coach (Offense) ekirkpa2@ashland.edu
+• Chris Julian Graduate Assistant Football Coach (Defense) cjulian@ashland.edu
+• Ted Chester Head Women's Golf Coach rcheste2@ashland.edu
+• Steve Paramore Volunteer Assistant Women's Golf Coach sparamor@ashland.edu
+• Lauren Simko Head Women's Lacrosse Coach 419-207- lsimko@ashland.edu
+• Molly Grant Women's Lacrosse Graduate Assistant Coach mgrant7@ashland.edu
+• Nick Roberts Head Men's Soccer Coach 419-289- nrobert8@ashland.edu
+• Pedro Faria Graduate Assistant Men's Soccer Coach pafonsof@ashland.edu
+• Dr. Des Lawless Assistant Men's Soccer Coach dlawless@ashland.edu
+• Nick Felician Assistant Men's Soccer Coach nfelicia@ashland.edu
+• Ty Bowden Men's Soccer Goalkeeper Coach rbowden@ashland.edu
+• Elijah Minso Volunteer Assistant Men's Soccer Coach eminso@ashland.edu
+• Cayleb Paulino Head Women's Soccer Coach 419-289- cpaulino@ashland.edu
+• Grace Labadie Associate Women's Soccer Head Coach glabadie@ashland.edu
+• Jackie Price Head Softball Coach jprice26@ashland.edu
+• Lane Leedy Assistant Softball Coach lleedy2@ashland.edu
+• Denise Farnsworth Head Cheer and Dance Coach/Head STUNT Coach 419-207- aucheerdancecoach@ashland.edu
+• Brandy Marquette Associate Head Cheer and Dance Coach / Associate Head STUNT Coach bmarquet@ashland.edu
+• Ryley Poling Assistant STUNT Coach rpoling2@ashland.edu
+• Austin Cook Assistant STUNT Coach acook27@ashland.edu
+• Emiah Mills Graduate Assistant STUNT Coach emills7@ashland.edu
+• Sydney Laughlin Head Swimming and Diving Coach slaughli@ashland.edu
+• Morgan Brutcher Assistant Diving Coach mdunlea2@ashland.edu
+• Fabian Avila Graduate Assistant Tennis Coach favilato@ashland.edu
+• Fabian Avila Graduate Assistant Tennis Coach favilato@ashland.edu
+• A.G. Kruger Head Track & Field Coach / Throws Coach 419-207- akruger@ashland.edu
+• Logan Sharpe Assistant Track & Field Coach (Sprints / Hurdles / Relays) 419-207- lsharpe2@ashland.edu
+• Jacob Sussman Head Cross Country Coach / Director of Track & Field Operations / 419-207- jsussman@ashland.edu
+• DaJuan Seward Athletic Student Success Coach / Assistant Track & Field Coach (Jumps / dseward@ashland.edu
+• Kurt Roberts Assistant Track & Field Coach (Throws) krobert3@ashland.edu
+• Rachel Richeson Volunteer Assistant Track & Field Coach (Throws) rtanczos@ashland.edu
+• T.J. Skinner Assistant Track & Field Coach (Sprints & Hurdles) tskinne2@ashland.edu
+• Wyatt Cory Assistant Track & Field Coach (Multis / Pole Vault) wcory@ashland.edu
+• Katie Kuhn Head Volleyball Coach 419-289- kkuhn6@ashland.edu
+• Hannah Zuchowski Associate Head Volleyball Coach hzuchows@ashland.edu
+• Rylie Roggow Graduate Assistant Volleyball Coach rroggow@ashland.edu
+• Colt Sponseller Head Wrestling Coach 419-289- csponse3@ashland.edu
+• Logan Griffin Assistant Wrestling Coach lgriff11@ashland.edu
+• Bret Romanzak Assistant Wrestling Coach bromanza@ashland.edu
+• Josh Hunter Assistant Wrestling Coach jhunter7@ashland.edu

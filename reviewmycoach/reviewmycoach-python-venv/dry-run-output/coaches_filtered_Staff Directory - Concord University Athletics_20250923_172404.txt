@@ -1,0 +1,363 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:05
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Concord University
+Organization: Concord University Athletics
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Luke Co
+   Email: coachduffy@concord.edu
+   Username: coachduffy
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Luke Duffy Co-Athletic Director coachduffy@concord.edu 5343
+
+2. Tracy Facilities
+   Email: coachgravely@concord.edu
+   Username: coachgravely
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tracy Gravely Facilities Director coachgravely@concord.edu 5168
+
+3. Drew Bailey
+   Email: acbailey@concord.edu
+   Username: acbailey
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Drew Bailey Head Coach acbailey@concord.edu
+
+4. Jacob Emerson
+   Email: jemerson@concord.edu
+   Username: jemerson
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jacob Emerson Assistant Coach jemerson@concord.edu
+
+5. Kevan Lambert
+   Email: lambertk30@mycu.concord.edu
+   Username: lambertk30
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Kevan Lambert Assistant Coach lambertk30@mycu.concord.edu
+
+6. Nathan Asher
+   Email: ashern11@mycu.concord.edu
+   Username: ashern11
+   Sports: Baseball
+   Title: Student Assistant Coach
+   Original line: Nathan Asher Student Assistant Coach ashern11@mycu.concord.edu
+
+7. Todd May
+   Email: coachmay@concord.edu
+   Username: coachmay
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Todd May Head Coach coachmay@concord.edu 5330
+
+8. Drew Greene
+   Email: adgreene@concord.edu
+   Username: adgreene
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Drew Greene Assistant Coach adgreene@concord.edu 5116
+
+9. Tesla Southcott
+   Email: tsakers@concord.edu
+   Username: tsakers
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Tesla Southcott Head Coach tsakers@concord.edu 5344
+
+10. Morgan Mitchell
+   Email: mmitchell@concord.edu
+   Username: mmitchell
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Morgan Mitchell Assistant Coach mmitchell@concord.edu
+
+11. Caroline Houpe
+   Email: houpec25@mycu.concord.edu
+   Username: houpec25
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Caroline Houpe Assistant Coach houpec25@mycu.concord.edu
+
+12. Jessica Doty
+   Email: cheer@concord.edu
+   Username: cheer
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jessica Doty Head Coach cheer@concord.edu
+
+13. Jonathan Kigel
+   Email: jkigel@concord.edu
+   Username: jkigel
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Jonathan Kigel Head Coach jkigel@concord.edu
+
+14. Ethan Board
+   Email: boarde07@alumni.concord.edu
+   Username: boarde07
+   Sports: Baseball
+   Title: Volunteer Assistant Coach
+   Original line: Ethan Board Volunteer Assistant Coach boarde07@alumni.concord.edu
+
+15. Cody Edwards
+   Email: ceedwards@concord.edu
+   Username: ceedwards
+   Sports: Football
+   Title: Head Coach
+   Original line: Cody Edwards Head Coach ceedwards@concord.edu
+
+16. Dante Johnson
+   Email: dcjohnson@concord.edu
+   Username: dcjohnson
+   Sports: Football
+   Title: Defensive Line Coach
+   Original line: Dante Johnson Defensive Line Coach dcjohnson@concord.edu
+
+17. Peyton Cox
+   Email: pacox@concord.edu
+   Username: pacox
+   Sports: Football
+   Title: Offensive Line Coach
+   Original line: Peyton Cox Offensive Line Coach pacox@concord.edu
+
+18. Alex Smith
+   Email: aasmith@concord.edu
+   Username: aasmith
+   Sports: Football
+   Title: Head Coach
+   Original line: Alex Smith Head Coach aasmith@concord.edu
+
+19. Cheslon Carollisen
+   Email: carollisenc26@mycu.concord.edu
+   Username: carollisenc26
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Cheslon Carollisen Assistant Coach carollisenc26@mycu.concord.edu
+
+20. Alejandro Jaramillo
+   Email: jaramillod@mycu.concord.edu
+   Username: jaramillod
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Alejandro Jaramillo Assistant Coach jaramillod@mycu.concord.edu
+
+21. Carson Proffitt
+   Email: cwproffitt@concord.edu
+   Username: cwproffitt
+   Sports: Football
+   Title: Head Coach
+   Original line: Carson Proffitt Head Coach cwproffitt@concord.edu
+
+22. Carson Proffitt
+   Email: cwproffitt@concord.edu
+   Username: cwproffitt
+   Sports: Football
+   Title: Head Coach
+   Original line: Carson Proffitt Head Coach cwproffitt@concord.edu
+
+23. Luke Duffy
+   Email: coachduffy@concord.edu
+   Username: coachduffy
+   Sports: Football
+   Title: Head Coach
+   Original line: Luke Duffy Head Coach coachduffy@concord.edu 5343
+
+24. Alisa Tasler
+   Email: atasler@concord.edu
+   Username: atasler
+   Sports: Softball
+   Title: Head Coach
+   Original line: Alisa Tasler Head Coach atasler@concord.edu
+
+25. Kate Dillon
+   Email: coachsouthcott@concord.edu
+   Username: coachsouthcott
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Kate Dillon Head Coach coachsouthcott@concord.edu 5342
+
+26. Trennon Mitchell
+   Email: 
+   Username: trennon.mitchell
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Trennon Mitchell Assistant Coach
+
+27. Al Volunteer
+   Email: 
+   Username: al.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Al MacNaughton Volunteer Assistant Coach
+
+28. DeAirus Backs
+   Email: 
+   Username: deairus.backs
+   Sports: Soccer
+   Title: DeAirus Whitney Defensive Backs Coach
+   Original line: DeAirus Whitney Defensive Backs Coach
+
+29. Emmanuel Linebackers
+   Email: 
+   Username: emmanuel.linebackers
+   Sports: Soccer
+   Title: Emmanuel Beal Linebackers Coach
+   Original line: Emmanuel Beal Linebackers Coach
+
+30. Elton Backs
+   Email: 
+   Username: elton.backs
+   Sports: Soccer
+   Title: Elton Gilkes Running Backs Coach
+   Original line: Elton Gilkes Running Backs Coach
+
+31. Dylan Receivers
+   Email: 
+   Username: dylan.receivers
+   Sports: Soccer
+   Title: Dylan Quick Wide Receivers Coach
+   Original line: Dylan Quick Wide Receivers Coach
+
+32. Justin Zimmerman
+   Email: jpzimmerman@concord.edu
+   Username: jpzimmerman
+   Sports: Soccer
+   Title: Jamie Wilson Assistant Offensive Line Coach
+   Original line: Jamie Wilson Assistant Offensive Line Coach jpzimmerman@concord.edu
+
+33. Jermaine Cornerbacks
+   Email: 
+   Username: jermaine.cornerbacks
+   Sports: Soccer
+   Title: Jermaine Witherspoon Cornerbacks Coach
+   Original line: Jermaine Witherspoon Cornerbacks Coach
+
+34. Brett Student
+   Email: 
+   Username: brett.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brett Gaynor Student Assistant Coach
+
+35. Jake Student
+   Email: 
+   Username: jake.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jake Gleason Student Assistant Coach
+
+36. Kevin Student
+   Email: 
+   Username: kevin.student
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kevin Neal Student Assistant Coach
+
+37. Javon Ends
+   Email: 
+   Username: javon.ends
+   Sports: Soccer
+   Title: Javon Washington Defensive Ends Coach
+   Original line: Javon Washington Defensive Ends Coach
+
+38. Mats Roorda
+   Email: 
+   Username: mats.roorda
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Mats Roorda Assistant Coach
+
+39. Chloe Allan
+   Email: 
+   Username: chloe.allan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Chloe Allan Assistant Coach
+
+40. Sophie Clutter
+   Email: 
+   Username: sophie.clutter
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sophie Clutter Assistant Coach
+
+41. Adrian Cabello
+   Email: 
+   Username: adrian.cabello
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Adrian Cabello Assistant Coach
+
+42. Courtney Raines
+   Email: 
+   Username: courtney.raines
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Courtney Raines Assistant Coach
+
+43. Cartney Schoolcraft
+   Email: 
+   Username: cartney.schoolcraft
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cartney Schoolcraft Assistant Coach
+
+44. Reese Turner
+   Email: 
+   Username: reese.turner
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Reese Turner Assistant Coach
+
+45. Isabelle Volunteer
+   Email: 
+   Username: isabelle.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Isabelle Greene Volunteer Assistant Coach
+
+46. Tragen Moore
+   Email: 
+   Username: tragen.moore
+   Sports: Strength & Conditioning
+   Title: Tragen Moore Strength & Conditioning Coach
+   Original line: Tragen Moore Strength & Conditioning Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Luke Duffy Co-Athletic Director coachduffy@concord.edu 5343
+• Tracy Gravely Facilities Director coachgravely@concord.edu 5168
+• Drew Bailey Head Coach acbailey@concord.edu
+• Jacob Emerson Assistant Coach jemerson@concord.edu
+• Kevan Lambert Assistant Coach lambertk30@mycu.concord.edu
+• Nathan Asher Student Assistant Coach ashern11@mycu.concord.edu
+• Todd May Head Coach coachmay@concord.edu 5330
+• Drew Greene Assistant Coach adgreene@concord.edu 5116
+• Tesla Southcott Head Coach tsakers@concord.edu 5344
+• Morgan Mitchell Assistant Coach mmitchell@concord.edu
+• Caroline Houpe Assistant Coach houpec25@mycu.concord.edu
+• Jessica Doty Head Coach cheer@concord.edu
+• Jonathan Kigel Head Coach jkigel@concord.edu
+• Ethan Board Volunteer Assistant Coach boarde07@alumni.concord.edu
+• Cody Edwards Head Coach ceedwards@concord.edu
+• Dante Johnson Defensive Line Coach dcjohnson@concord.edu
+• Peyton Cox Offensive Line Coach pacox@concord.edu
+• Alex Smith Head Coach aasmith@concord.edu
+• Cheslon Carollisen Assistant Coach carollisenc26@mycu.concord.edu
+• Alejandro Jaramillo Assistant Coach jaramillod@mycu.concord.edu
+• Carson Proffitt Head Coach cwproffitt@concord.edu
+• Carson Proffitt Head Coach cwproffitt@concord.edu
+• Luke Duffy Head Coach coachduffy@concord.edu 5343
+• Alisa Tasler Head Coach atasler@concord.edu
+• Kate Dillon Head Coach coachsouthcott@concord.edu 5342

@@ -1,0 +1,383 @@
+COACH ENTRIES FOUND - 2025-09-23 17:25:42
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Lake Erie College
+Organization: Lake Erie College Athletics
+
+Total coaches found: 46
+
+PARSED ENTRIES:
+----------------------------------------
+1. Alex Cranmer
+   Email: acranmer@lec.edu
+   Username: acranmer
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Alex Cranmer Head Strength & Conditioning Coach acranmer@lec.edu
+
+2. Zakai Johnson
+   Email: zakjohnson@lec.edu
+   Username: zakjohnson
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Zakai Johnson Assistant Strength & Conditioning Coach zakjohnson@lec.edu
+
+3. Joshua Adams
+   Email: jadams@lec.edu
+   Username: jadams
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Joshua Adams Assistant Strength & Conditioning Coach jadams@lec.edu
+
+4. Shaine Carpenter
+   Email: scarpenter@lec.edu
+   Username: scarpenter
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Shaine Carpenter Head Coach scarpenter@lec.edu
+
+5. Brent McNeil
+   Email: bmcneil@lec.edu
+   Username: bmcneil
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Brent McNeil Associate Head Coach bmcneil@lec.edu
+
+6. A.J. Gengler
+   Email: agengler@lec.edu
+   Username: agengler
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: A.J. Gengler Assistant Coach agengler@lec.edu
+
+7. Kyle Conley
+   Email: kconley@lec.edu
+   Username: kconley
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 440.375.7488
+   Original line: Kyle Conley Head Coach 440.375.7488 kconley@lec.edu
+
+8. Jake Perrin
+   Email: jperrin@lec.edu
+   Username: jperrin
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jake Perrin Assistant Coach jperrin@lec.edu
+
+9. Lauren Macer
+   Email: lmacer@lec.edu
+   Username: lmacer
+   Sports: Baseball
+   Title: Head Coach
+   Phone: 440.375.7028
+   Original line: Lauren Macer Head Coach 440.375.7028 lmacer@lec.edu
+
+10. Joshua Dames
+   Email: jdames@lec.edu
+   Username: jdames
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Joshua Dames Assistant Coach jdames@lec.edu
+
+11. Sandy Moran
+   Email: smoran@lec.edu
+   Username: smoran
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Sandy Moran Head Coach smoran@lec.edu
+
+12. Juliana Stogsdill
+   Email: jstogsdill@lec.edu
+   Username: jstogsdill
+   Sports: Cross Country
+   Title: Assistant Coach
+   Original line: Juliana Stogsdill Assistant Coach jstogsdill@lec.edu
+
+13. David Price
+   Email: football@lec.edu
+   Username: football
+   Sports: Football
+   Title: Head Coach
+   Phone: (440) 375-7388
+   Original line: David Price Head Coach 440-375-7388 football@lec.edu
+
+14. Alex Gray
+   Email: algray@lec.edu
+   Username: algray
+   Sports: Football
+   Title: Associate Head Coach /
+   Original line: Alex Gray Associate Head Coach / Defensive Coordinator algray@lec.edu
+
+15. Sam Ashton
+   Email: sashton@lec.edu
+   Username: sashton
+   Sports: Football
+   Title: Head Coach
+   Phone: (440) 375-7482
+   Original line: Sam Ashton Head Coach 440-375-7482 sashton@lec.edu
+
+16. Evan Voss
+   Email: evoss@lec.edu
+   Username: evoss
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Evan Voss Assistant Coach evoss@lec.edu
+
+17. Graham Lofstead
+   Email: glofstead@lec.edu
+   Username: glofstead
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Graham Lofstead Assistant Coach glofstead@lec.edu
+
+18. Lindy Brobeck
+   Email: lbrobeck@lec.edu
+   Username: lbrobeck
+   Sports: Football
+   Title: Head Coach
+   Phone: 440.375.7478
+   Original line: Lindy Brobeck Head Coach 440.375.7478 lbrobeck@lec.edu
+
+19. Abigail Lindkvist
+   Email: alindkvist@lec.edu
+   Username: alindkvist
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Abigail Lindkvist Assistant Coach alindkvist@lec.edu
+
+20. Louie Rolko
+   Email: lrolko@lec.edu
+   Username: lrolko
+   Sports: Football
+   Title: Head Coach
+   Phone: 440.375.7386
+   Original line: Louie Rolko Head Coach 440.375.7386 lrolko@lec.edu
+
+21. Ryan Dean
+   Email: rdean@lec.edu
+   Username: rdean
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ryan Dean Assistant Coach rdean@lec.edu
+
+22. Bobby Turner
+   Email: roturner@lec.edu
+   Username: roturner
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Bobby Turner Assistant Coach roturner@lec.edu
+
+23. Katie Clarke
+   Email: kclarke@lec.edu
+   Username: kclarke
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Katie Clarke Assistant Coach kclarke@lec.edu
+
+24. Carl Contrascier
+   Email: ccontrascier@lec.edu
+   Username: ccontrascier
+   Sports: Football
+   Title: Head Coach
+   Original line: Carl Contrascier Head Coach ccontrascier@lec.edu
+
+25. Robert Miller
+   Email: rmiller@lec.edu
+   Username: rmiller
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Robert Miller Assistant Coach rmiller@lec.edu
+
+26. Katie Clarke
+   Email: kclarke@lec.edu
+   Username: kclarke
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Katie Clarke Assistant Coach kclarke@lec.edu
+
+27. Shannon Schaub
+   Email: sschaub@lec.edu
+   Username: sschaub
+   Sports: Softball
+   Title: Head Coach
+   Original line: Shannon Schaub Head Coach sschaub@lec.edu
+
+28. Adrianna Sluga
+   Email: asluga@lec.edu
+   Username: asluga
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Adrianna Sluga Assistant Coach asluga@lec.edu
+
+29. Kenna Millhouse
+   Email: kmillhouse@lec.edu
+   Username: kmillhouse
+   Sports: Softball
+   Title: Head Coach
+   Original line: Kenna Millhouse Head Coach kmillhouse@lec.edu
+
+30. Bella Cordova
+   Email: icordova@lec.edu
+   Username: icordova
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Bella Cordova Assistant Coach icordova@lec.edu
+
+31. Sandy Moran
+   Email: smoran@lec.edu
+   Username: smoran
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Sandy Moran Head Coach smoran@lec.edu
+
+32. Juliana Stogsdill
+   Email: jstogsdill@lec.edu
+   Username: jstogsdill
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Juliana Stogsdill Assistant Coach jstogsdill@lec.edu
+
+33. Santornya Ralliford
+   Email: sralliford@lec.edu
+   Username: sralliford
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Santornya Ralliford Assistant Coach sralliford@lec.edu
+
+34. Brylan Clouse
+   Email: bclouse@lec.edu
+   Username: bclouse
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Brylan Clouse Assistant Coach bclouse@lec.edu
+
+35. Chris Droege
+   Email: cdroege@lec.edu
+   Username: cdroege
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Chris Droege Assistant Coach cdroege@lec.edu
+
+36. Jack Haskin
+   Email: jhaskin@lec.edu
+   Username: jhaskin
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Jack Haskin Assistant Coach jhaskin@lec.edu
+
+37. James Penfold
+   Email: japenfold@lec.edu
+   Username: japenfold
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: James Penfold Assistant Coach japenfold@lec.edu
+
+38. Calaeb Haire
+   Email: chaire@lec.edu
+   Username: chaire
+   Sports: Track & Field
+   Title: Head Coach
+   Phone: 440.375.7471
+   Original line: Calaeb Haire Head Coach 440.375.7471 chaire@lec.edu
+
+39. Maddie Sullivan
+   Email: 
+   Username: maddie.sullivan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Maddie Sullivan Assistant Coach
+
+40. Omar Williams
+   Email: 
+   Username: omar.williams
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Omar Williams Assistant Coach 216-798-2041
+
+41. Eric Volunteer
+   Email: 
+   Username: eric.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Eric Stevenson Volunteer Assistant Coach
+
+42. Ryan Volunteer
+   Email: 
+   Username: ryan.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Ryan Hassell Volunteer Assistant Coach
+
+43. Troy Volunteer
+   Email: 
+   Username: troy.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Troy Elsea Volunteer Assistant Coach
+
+44. Brian Volunteer
+   Email: 
+   Username: brian.volunteer
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brian Michealson Volunteer Assistant Coach
+
+45. John Penfold
+   Email: 
+   Username: john.penfold
+   Sports: Soccer
+   Title: Head Coach
+   Original line: John Penfold Head Coach
+
+46. Jayme Zoeckler
+   Email: 
+   Username: jayme.zoeckler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jayme Zoeckler Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Alex Cranmer Head Strength & Conditioning Coach acranmer@lec.edu
+• Zakai Johnson Assistant Strength & Conditioning Coach zakjohnson@lec.edu
+• Joshua Adams Assistant Strength & Conditioning Coach jadams@lec.edu
+• Shaine Carpenter Head Coach scarpenter@lec.edu
+• Brent McNeil Associate Head Coach bmcneil@lec.edu
+• A.J. Gengler Assistant Coach agengler@lec.edu
+• Kyle Conley Head Coach 440.375.7488 kconley@lec.edu
+• Jake Perrin Assistant Coach jperrin@lec.edu
+• Lauren Macer Head Coach 440.375.7028 lmacer@lec.edu
+• Joshua Dames Assistant Coach jdames@lec.edu
+• Sandy Moran Head Coach smoran@lec.edu
+• Juliana Stogsdill Assistant Coach jstogsdill@lec.edu
+• David Price Head Coach 440-375-7388 football@lec.edu
+• Alex Gray Associate Head Coach / Defensive Coordinator algray@lec.edu
+• Sam Ashton Head Coach 440-375-7482 sashton@lec.edu
+• Evan Voss Assistant Coach evoss@lec.edu
+• Graham Lofstead Assistant Coach glofstead@lec.edu
+• Lindy Brobeck Head Coach 440.375.7478 lbrobeck@lec.edu
+• Abigail Lindkvist Assistant Coach alindkvist@lec.edu
+• Louie Rolko Head Coach 440.375.7386 lrolko@lec.edu
+• Ryan Dean Assistant Coach rdean@lec.edu
+• Bobby Turner Assistant Coach roturner@lec.edu
+• Katie Clarke Assistant Coach kclarke@lec.edu
+• Carl Contrascier Head Coach ccontrascier@lec.edu
+• Robert Miller Assistant Coach rmiller@lec.edu
+• Katie Clarke Assistant Coach kclarke@lec.edu
+• Shannon Schaub Head Coach sschaub@lec.edu
+• Adrianna Sluga Assistant Coach asluga@lec.edu
+• Kenna Millhouse Head Coach kmillhouse@lec.edu
+• Bella Cordova Assistant Coach icordova@lec.edu
+• Sandy Moran Head Coach smoran@lec.edu
+• Juliana Stogsdill Assistant Coach jstogsdill@lec.edu
+• Santornya Ralliford Assistant Coach sralliford@lec.edu
+• Brylan Clouse Assistant Coach bclouse@lec.edu
+• Chris Droege Assistant Coach cdroege@lec.edu
+• Jack Haskin Assistant Coach jhaskin@lec.edu
+• James Penfold Assistant Coach japenfold@lec.edu
+• Calaeb Haire Head Coach 440.375.7471 chaire@lec.edu

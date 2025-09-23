@@ -1,0 +1,658 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:50
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: The College of Wooster
+Organization: The College of Wooster Athletics
+
+Total coaches found: 83
+
+PARSED ENTRIES:
+----------------------------------------
+1. Dennis Rice
+   Email: drice@wooster.edu
+   Username: drice
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Dennis Rice Assistant Director of Athletics (NCAA Compliance) | Head Coach (330) 263- drice@wooster.edu
+
+2. Elizabeth Woman
+   Email: eford@wooster.edu
+   Username: eford
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Elizabeth Ford Senior Woman Administrator/ADID | Head Coach (330) 263- eford@wooster.edu
+
+3. Andy Minor
+   Email: azidron@wooster.edu
+   Username: azidron
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Andy Zidron Chair of Physical Education Minor | Head Coach (330) 263- azidron@wooster.edu
+
+4. Aaron Swick
+   Email: aswick@wooster.edu
+   Username: aswick
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Aaron Swick Head Coach (330) 263- aswick@wooster.edu
+
+5. Andres Perez
+   Email: aperez@wooster.edu
+   Username: aperez
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Andres Perez Assistant Coach (330) 263- aperez@wooster.edu
+
+6. Doug Cline
+   Email: dcline@wooster.edu
+   Username: dcline
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Doug Cline Head Coach (330) 263- dcline@wooster.edu
+
+7. Jack Asst
+   Email: jstevens@wooster.edu
+   Username: jstevens
+   Sports: Baseball
+   Title: Coach
+   Original line: Jack Stevens Asst. Coach (330) 287- jstevens@wooster.edu
+
+8. Phil Asst
+   Email: pkuchta@wooster.edu
+   Username: pkuchta
+   Sports: Baseball
+   Title: Coach
+   Original line: Phil Kuchta Asst. Coach pkuchta@wooster.edu
+
+9. Olivia Besancon
+   Email: obesancon@wooster.edu
+   Username: obesancon
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Olivia Besancon Head Coach (330) 263- obesancon@wooster.edu
+
+10. Morgan Asst
+   Email: mmcmillen@wooster.edu
+   Username: mmcmillen
+   Sports: Baseball
+   Title: Coach
+   Original line: Morgan McMillen Asst. Coach mmcmillen@wooster.edu
+
+11. Jen Wright
+   Email: jewright@wooster.edu
+   Username: jewright
+   Sports: Baseball
+   Title: Cheerleading Coach
+   Original line: Jen Wright Cheerleading Coach jewright@wooster.edu
+
+12. Dennis Rice
+   Email: drice@wooster.edu
+   Username: drice
+   Sports: Cross Country
+   Title: Head Coach
+   Original line: Dennis Rice Assistant Director of Athletics (NCAA Compliance) | Head Coach (330) 263- drice@wooster.edu
+
+13. Ellie Asst
+   Email: eljindra@wooster.edu
+   Username: eljindra
+   Sports: Cross Country
+   Title: Coach
+   Original line: Ellie Jindra Asst. Coach (330) 263- eljindra@wooster.edu
+
+14. Lauren Voigt
+   Email: lvoigt@wooster.edu
+   Username: lvoigt
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Lauren Voigt Head Coach (330) 263- lvoigt@wooster.edu
+
+15. Amber DeJonge
+   Email: adejonge@wooster.edu
+   Username: adejonge
+   Sports: Track & Field
+   Title: Assistant Coach
+   Original line: Amber DeJonge Assistant Coach adejonge@wooster.edu
+
+16. Austin Holter
+   Email: aholter@wooster.edu
+   Username: aholter
+   Sports: Football
+   Title: Head Coach
+   Original line: Austin Holter Head Coach (330) 263- aholter@wooster.edu
+
+17. Kaleb Asst
+   Email: kjarrett@wooster.edu
+   Username: kjarrett
+   Sports: Football
+   Title: Coach/Offensive Coordinator
+   Original line: Kaleb Jarrett Asst. Coach/Offensive Coordinator (330) 263- kjarrett@wooster.edu
+
+18. Mason Asst
+   Email: mtomblin@wooster.edu
+   Username: mtomblin
+   Sports: Football
+   Title: Coach/Defensive Coordinator/LBs
+   Original line: Mason Tomblin Asst. Coach/Defensive Coordinator/LBs (330) 263- mtomblin@wooster.edu
+
+19. Zane Asst
+   Email: zgrove@wooster.edu
+   Username: zgrove
+   Sports: Football
+   Title: Coach
+   Original line: Zane Grove Asst. Coach (ST/DBs) (330) 263- zgrove@wooster.edu
+
+20. Keetrone Asst
+   Email: ksingleton@wooster.edu
+   Username: ksingleton
+   Sports: Football
+   Title: Coach
+   Original line: Keetrone Singleton Asst. Coach (WR/Academic Success) (330) 263- ksingleton@wooster.edu
+
+21. Austin Asst
+   Email: auanderson@wooster.edu
+   Username: auanderson
+   Sports: Football
+   Title: Coach
+   Original line: Austin Anderson Asst. Coach (OL) auanderson@wooster.edu
+
+22. Keyshon Asst
+   Email: kcamp@wooster.edu
+   Username: kcamp
+   Sports: Football
+   Title: Coach
+   Original line: Keyshon Camp Asst. Coach (DL) (330) 263- kcamp@wooster.edu
+
+23. Rich Danch
+   Email: rdanch@wooster.edu
+   Username: rdanch
+   Sports: Football
+   Title: Head Coach
+   Original line: Rich Danch Head Coach (330) 263- rdanch@wooster.edu
+
+24. Dave Mottice
+   Email: dmottice@wooster.edu
+   Username: dmottice
+   Sports: Football
+   Title: Head Coach
+   Original line: Dave Mottice Head Coach (330) 263- dmottice@wooster.edu
+
+25. Eric Seideman
+   Email: eseideman@wooster.edu
+   Username: eseideman
+   Sports: Football
+   Title: Head Coach
+   Original line: Eric Seideman Head Coach (330) 263- eseideman@wooster.edu
+
+26. Joseph Pille
+   Email: jpille@wooster.edu
+   Username: jpille
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Joseph Pille Assistant Coach (330) 263- jpille@wooster.edu
+
+27. Elizabeth Woman
+   Email: eford@wooster.edu
+   Username: eford
+   Sports: Football
+   Title: Head Coach
+   Original line: Elizabeth Ford Senior Woman Administrator/ADID | Head Coach (330) 263- eford@wooster.edu
+
+28. Katie Asst
+   Email: kshideler@wooster.edu
+   Username: kshideler
+   Sports: Football
+   Title: Coach
+   Original line: Katie Shideler Asst. Coach kshideler@wooster.edu
+
+29. Andy Minor
+   Email: azidron@wooster.edu
+   Username: azidron
+   Sports: Football
+   Title: Head Coach
+   Original line: Andy Zidron Chair of Physical Education Minor | Head Coach (330) 263- azidron@wooster.edu
+
+30. Jack Asst
+   Email: jgiloth@wooster.edu
+   Username: jgiloth
+   Sports: Football
+   Title: Coach
+   Original line: Jack Giloth Asst. Coach jgiloth@wooster.edu
+
+31. David Brown
+   Email: dvbrown@wooster.edu
+   Username: dvbrown
+   Sports: Football
+   Title: Head Coach
+   Original line: David "Geordie" Brown Head Coach (330) 263- dvbrown@wooster.edu
+
+32. Wes Asst
+   Email: wdavis@wooster.edu
+   Username: wdavis
+   Sports: Football
+   Title: Coach
+   Original line: Wes Davis Asst. Coach (330) 263- wdavis@wooster.edu
+
+33. Victoria Rumph
+   Email: vrumph@wooster.edu
+   Username: vrumph
+   Sports: Softball
+   Title: Head Coach
+   Original line: Victoria Rumph Head Coach (330) 263- vrumph@wooster.edu
+
+34. Caroline Asst
+   Email: cturner@wooster.edu
+   Username: cturner
+   Sports: Softball
+   Title: Coach
+   Original line: Caroline Turner Asst. Coach cturner@wooster.edu
+
+35. Rob Harrington
+   Email: rharrington@wooster.edu
+   Username: rharrington
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Rob Harrington Head Coach (330) 263- rharrington@wooster.edu
+
+36. Pool 
+   Email: mawhitman@wooster.edu
+   Username: mawhitman
+   Sports: Swimming
+   Title: Madison Whitman Assistant Swimming Coach and
+   Original line: Madison Whitman Assistant Swimming Coach and Pool Manager mawhitman@wooster.edu
+
+37. Shaun Keenan
+   Email: skeenan@wooster.edu
+   Username: skeenan
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Shaun Keenan Head Coach (330) 263- skeenan@wooster.edu
+
+38. Amy Behrman
+   Email: abehrman@wooster.edu
+   Username: abehrman
+   Sports: Swimming
+   Title: Head Coach
+   Original line: Amy Behrman Head Coach (330) 263- abehrman@wooster.edu
+
+39. Dennis Rice
+   Email: drice@wooster.edu
+   Username: drice
+   Sports: Track & Field
+   Title: Head Coach
+   Original line: Dennis Rice Assistant Director of Athletics (NCAA Compliance) | Head Coach (330) 263- drice@wooster.edu
+
+40. Ellie Asst
+   Email: eljindra@wooster.edu
+   Username: eljindra
+   Sports: Track & Field
+   Title: Coach
+   Original line: Ellie Jindra Asst. Coach (330) 263- eljindra@wooster.edu
+
+41. Brian Asst
+   Email: bclymer@wooster.edu
+   Username: bclymer
+   Sports: Track & Field
+   Title: Coach
+   Original line: Brian Clymer Asst. Coach (330) 287- bclymer@wooster.edu
+
+42. Sarah Davis
+   Email: sadavis@wooster.edu
+   Username: sadavis
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Sarah Davis Head Coach (330) 263- sadavis@wooster.edu
+
+43. Hallie Asst
+   Email: htaylor@wooster.edu
+   Username: htaylor
+   Sports: Volleyball
+   Title: Coach
+   Original line: Hallie Taylor Asst. Coach htaylor@wooster.edu
+
+44. Carson Kinney
+   Email: ckinney@wooster.edu
+   Username: ckinney
+   Sports: Baseball
+   Title: coach
+   Original line: BASEBALL COACHING STAFF ckinney@wooster.edu
+
+45. Matt Asst
+   Email: matanderson@wooster.edu
+   Username: matanderson
+   Sports: Soccer
+   Title: Coach
+   Original line: Dominic Gorence Volunteer Asst. Coach matanderson@wooster.edu
+
+46.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S BASKETBALL COACHING STAFF
+
+47. Mel Asst
+   Email: 
+   Username: mel.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Mel Burke Jr. Asst. Coach
+
+48. Brian Asst
+   Email: 
+   Username: brian.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Brian Kiper Volunteer Asst. Coach
+
+49. Turner Asst
+   Email: 
+   Username: turner.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Turner Kurt Asst. Coach
+
+50.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S BASKETBALL COACHING STAFF
+
+51. Michael Asst
+   Email: 
+   Username: michael.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Michael Baus Volunteer Asst. Coach
+
+52.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: CHEERLEADING COACHING STAFF
+
+53.  
+   Email: 
+   Username: 
+   Sports: Cross Country
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: CROSS COUNTRY COACHING STAFF
+
+54.  
+   Email: 
+   Username: 
+   Sports: Track & Field, Hockey
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: FIELD HOCKEY COACHING STAFF
+
+55.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: FOOTBALL COACHING STAFF
+
+56. Jim Asst
+   Email: 
+   Username: jim.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Jim Dobney Asst. Coach (TE)
+
+57. Spencer Asst
+   Email: 
+   Username: spencer.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Spencer Whisler Asst. Coach (Asst. OL)
+
+58. Parker Asst
+   Email: 
+   Username: parker.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Parker Smith Asst. Coach (CB/K/P)
+
+59.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S GOLF COACHING STAFF
+
+60. John Asst
+   Email: 
+   Username: john.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: John Angelo Volunteer Asst. Coach
+
+61.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S GOLF COACHING STAFF
+
+62.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S LACROSSE COACHING STAFF
+
+63. Kevin O'Brien-Bruno
+   Email: 
+   Username: kevin.o.brien.bruno
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kevin O'Brien-Bruno Assistant Coach
+
+64.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S LACROSSE COACHING STAFF
+
+65.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S SOCCER COACHING STAFF
+
+66.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S SOCCER COACHING STAFF
+
+67.  
+   Email: 
+   Username: 
+   Sports: Softball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: SOFTBALL COACHING STAFF
+
+68. Joni Asst
+   Email: 
+   Username: joni.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Joni Atkins Volunteer Asst. Coach
+
+69. Bob Asst
+   Email: 
+   Username: bob.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Bob Lance Volunteer Asst. Coach
+
+70. Dan Asst
+   Email: 
+   Username: dan.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Dan Jech Volunteer Asst. Coach
+
+71.  
+   Email: 
+   Username: 
+   Sports: Swimming
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: SWIMMING & DIVING COACHING STAFF
+
+72. Joel Weeman
+   Email: 
+   Username: joel.weeman
+   Sports: Soccer
+   Title: Joel Weeman Diving Coach
+   Original line: Joel Weeman Diving Coach
+
+73.  
+   Email: 
+   Username: 
+   Sports: Tennis
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S TENNIS COACHING STAFF
+
+74.  
+   Email: 
+   Username: 
+   Sports: Tennis
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S TENNIS COACHING STAFF
+
+75. Allison Asst
+   Email: 
+   Username: allison.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Allison Murphy Volunteer Asst. Coach
+
+76. Tracy Asst
+   Email: 
+   Username: tracy.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Tracy Karr Volunteer Asst. Coach
+
+77. Steve Asst
+   Email: 
+   Username: steve.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Steve Behrman Asst. Coach
+
+78.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: TRACK & FIELD COACHING STAFF
+
+79. David Asst
+   Email: 
+   Username: david.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: David Mackey Asst. Coach
+
+80. Liam Asst
+   Email: 
+   Username: liam.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Liam Regan Volunteer Asst. Coach
+
+81.  
+   Email: 
+   Username: 
+   Sports: Volleyball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: VOLLEYBALL COACHING STAFF
+
+82. Lydia Asst
+   Email: 
+   Username: lydia.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: Lydia Spidell Volunteer Asst. Coach
+
+83. David Asst
+   Email: 
+   Username: david.asst
+   Sports: Soccer
+   Title: Coach
+   Original line: David Yoder Volunteer Asst. Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Dennis Rice Assistant Director of Athletics (NCAA Compliance) | Head Coach (330) 263- drice@wooster.edu
+• Elizabeth Ford Senior Woman Administrator/ADID | Head Coach (330) 263- eford@wooster.edu
+• Andy Zidron Chair of Physical Education Minor | Head Coach (330) 263- azidron@wooster.edu
+• Aaron Swick Head Coach (330) 263- aswick@wooster.edu
+• Andres Perez Assistant Coach (330) 263- aperez@wooster.edu
+• Doug Cline Head Coach (330) 263- dcline@wooster.edu
+• Jack Stevens Asst. Coach (330) 287- jstevens@wooster.edu
+• Phil Kuchta Asst. Coach pkuchta@wooster.edu
+• Olivia Besancon Head Coach (330) 263- obesancon@wooster.edu
+• Morgan McMillen Asst. Coach mmcmillen@wooster.edu
+• Jen Wright Cheerleading Coach jewright@wooster.edu
+• Dennis Rice Assistant Director of Athletics (NCAA Compliance) | Head Coach (330) 263- drice@wooster.edu
+• Ellie Jindra Asst. Coach (330) 263- eljindra@wooster.edu
+• Lauren Voigt Head Coach (330) 263- lvoigt@wooster.edu
+• Amber DeJonge Assistant Coach adejonge@wooster.edu
+• Austin Holter Head Coach (330) 263- aholter@wooster.edu
+• Kaleb Jarrett Asst. Coach/Offensive Coordinator (330) 263- kjarrett@wooster.edu
+• Mason Tomblin Asst. Coach/Defensive Coordinator/LBs (330) 263- mtomblin@wooster.edu
+• Zane Grove Asst. Coach (ST/DBs) (330) 263- zgrove@wooster.edu
+• Keetrone Singleton Asst. Coach (WR/Academic Success) (330) 263- ksingleton@wooster.edu
+• Austin Anderson Asst. Coach (OL) auanderson@wooster.edu
+• Keyshon Camp Asst. Coach (DL) (330) 263- kcamp@wooster.edu
+• Rich Danch Head Coach (330) 263- rdanch@wooster.edu
+• Dave Mottice Head Coach (330) 263- dmottice@wooster.edu
+• Eric Seideman Head Coach (330) 263- eseideman@wooster.edu
+• Joseph Pille Assistant Coach (330) 263- jpille@wooster.edu
+• Elizabeth Ford Senior Woman Administrator/ADID | Head Coach (330) 263- eford@wooster.edu
+• Katie Shideler Asst. Coach kshideler@wooster.edu
+• Andy Zidron Chair of Physical Education Minor | Head Coach (330) 263- azidron@wooster.edu
+• Jack Giloth Asst. Coach jgiloth@wooster.edu
+• David "Geordie" Brown Head Coach (330) 263- dvbrown@wooster.edu
+• Wes Davis Asst. Coach (330) 263- wdavis@wooster.edu
+• Victoria Rumph Head Coach (330) 263- vrumph@wooster.edu
+• Caroline Turner Asst. Coach cturner@wooster.edu
+• Rob Harrington Head Coach (330) 263- rharrington@wooster.edu
+• Madison Whitman Assistant Swimming Coach and Pool Manager mawhitman@wooster.edu
+• Shaun Keenan Head Coach (330) 263- skeenan@wooster.edu
+• Amy Behrman Head Coach (330) 263- abehrman@wooster.edu
+• Dennis Rice Assistant Director of Athletics (NCAA Compliance) | Head Coach (330) 263- drice@wooster.edu
+• Ellie Jindra Asst. Coach (330) 263- eljindra@wooster.edu
+• Brian Clymer Asst. Coach (330) 287- bclymer@wooster.edu
+• Sarah Davis Head Coach (330) 263- sadavis@wooster.edu
+• Hallie Taylor Asst. Coach htaylor@wooster.edu

@@ -1,0 +1,394 @@
+COACH ENTRIES FOUND - 2025-09-23 17:23:47
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: George Washington University
+Organization: George Washington University Athletics
+
+Total coaches found: 54
+
+PARSED ENTRIES:
+----------------------------------------
+1. Robert 
+   Email: 
+   Username: robert
+   Sports: Strength & Conditioning
+   Title: Robert Strength & Conditioning Coach
+   Original line: Robert Strength & Conditioning Coach 994-7665
+
+2. Chaz Berry
+   Email: 
+   Username: chaz.berry
+   Sports: Strength & Conditioning
+   Title: Chaz Berry Assistant Strength and Conditioning Coach
+   Original line: Chaz Berry Assistant Strength and Conditioning Coach 994-7665
+
+3. Andrew Butler
+   Email: 
+   Username: andrew.butler
+   Sports: Strength & Conditioning
+   Title: Andrew Butler Strength & Conditioning Coach
+   Original line: Andrew Butler Strength & Conditioning Coach 994-7665
+
+4. Kacie Graduate
+   Email: 
+   Username: kacie.graduate
+   Sports: Strength & Conditioning
+   Title: Kacie Mollin Graduate Assistant Strength and Conditioning Coach
+   Original line: Kacie Mollin Graduate Assistant Strength and Conditioning Coach 994-7665
+
+5. Charlie Graduate
+   Email: 
+   Username: charlie.graduate
+   Sports: Strength & Conditioning
+   Title: Charlie White Graduate Assistant Strength and Conditioning Coach
+   Original line: Charlie White Graduate Assistant Strength and Conditioning Coach 994-7665
+
+6. Gregg Ritchie
+   Email: 
+   Username: gregg.ritchie
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Gregg Ritchie Head Coach 994-7399
+
+7. Tyler Kavanaugh
+   Email: 
+   Username: tyler.kavanaugh
+   Sports: Soccer
+   Title: Head Coach / Recruiting Coordinator
+   Original line: Tyler Kavanaugh Associate Head Coach / Recruiting Coordinator 994-7399
+
+8. Chris Caputo
+   Email: 
+   Username: chris.caputo
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chris Caputo Head Coach
+
+9. Dwayne Lee
+   Email: 
+   Username: dwayne.lee
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Dwayne Lee Assistant Coach 994-0339
+
+10. Lamont Franklin
+   Email: 
+   Username: lamont.franklin
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lamont Franklin Assistant Coach 994-0339
+
+11. Matt Colpoys
+   Email: 
+   Username: matt.colpoys
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Matt Colpoys Assistant Coach 994-0339
+
+12. Aaron Thompson
+   Email: 
+   Username: aaron.thompson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aaron Thompson Assistant Coach 994-0339
+
+13. Ganiyat 
+   Email: 
+   Username: ganiyat
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Ganiyat Head Coach
+
+14. John Hampton
+   Email: 
+   Username: john.hampton
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: John Hampton Assistant Coach
+
+15. Brianna Finch
+   Email: 
+   Username: brianna.finch
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brianna Finch Assistant Coach
+
+16. Sherill Baker
+   Email: 
+   Username: sherill.baker
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sherill Baker Assistant Coach
+
+17. Lauren Coleman
+   Email: 
+   Username: lauren.coleman
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lauren Coleman Assistant Coach
+
+18. Terry Weir
+   Email: 
+   Username: terry.weir
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Terry Weir Head Coach 994-3166
+
+19. Samantha Nadel
+   Email: 
+   Username: samantha.nadel
+   Sports: Soccer
+   Title: Head Coach / Recruiting Coordinator
+   Original line: Samantha Nadel Associate Head Coach / Recruiting Coordinator 994-3166
+
+20. Justin Lupone
+   Email: 
+   Username: justin.lupone
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Justin Lupone Assistant Coach
+
+21. Chuck Scheinost
+   Email: 
+   Username: chuck.scheinost
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Chuck Scheinost Head Coach 994-5969
+
+22. Toks Pedro
+   Email: 
+   Username: toks.pedro
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Toks Pedro Assistant Coach
+
+23. Stephanie 
+   Email: 
+   Username: stephanie
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Stephanie Head Coach 994-7605
+
+24. India Anderson
+   Email: 
+   Username: india.anderson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: India Anderson Assistant Coach
+
+25. Sunny Marchand
+   Email: 
+   Username: sunny.marchand
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sunny Marchand Assistant Coach
+
+26. Colleen McCaffrey
+   Email: 
+   Username: colleen.mccaffrey
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Colleen McCaffrey Head Coach 202-994-
+
+27. Leah Peppelman
+   Email: 
+   Username: leah.peppelman
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Leah Peppelman Associate Head Coach
+
+28. Zach Wittes
+   Email: 
+   Username: zach.wittes
+   Sports: Soccer
+   Title: Assistant Coach- Goalies
+   Original line: Zach Wittes Assistant Coach- Goalies
+
+29. Paul Allbright
+   Email: 
+   Username: paul.allbright
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Paul Allbright Head Coach 994-1738
+
+30. Lauren Benedict
+   Email: 
+   Username: lauren.benedict
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Lauren Benedict Assistant Coach
+
+31. Breanna Roney
+   Email: 
+   Username: breanna.roney
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Breanna Roney Assistant Coach
+
+32. Billy Colbert
+   Email: 
+   Username: billy.colbert
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Billy Colbert Assistant Coach
+
+33. Craig Jones
+   Email: 
+   Username: craig.jones
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Craig Jones Head Coach 994-9779
+
+34. Iain Langstone
+   Email: 
+   Username: iain.langstone
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Iain Langstone Assistant Coach 202-994-
+
+35. Nick Conklu
+   Email: 
+   Username: nick.conklu
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nick Conklu Assistant Coach 202-994-
+
+36. Stefan 
+   Email: 
+   Username: stefan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Stefan Assistant Coach
+
+37. Jeremy Williams
+   Email: 
+   Username: jeremy.williams
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jeremy Williams Head Coach
+
+38. Alan Fread
+   Email: 
+   Username: alan.fread
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Alan Fread Assistant Coach 994-2786
+
+39. Kayley Sullivan
+   Email: 
+   Username: kayley.sullivan
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Kayley Sullivan Assistant Coach 994-2786
+
+40. Gary Malebranche
+   Email: 
+   Username: gary.malebranche
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Gary Malebranche Assistant Coach 994-2786
+
+41. Matt Klampert
+   Email: 
+   Username: matt.klampert
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Matt Klampert Head Coach
+
+42. Sierra Lange
+   Email: 
+   Username: sierra.lange
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sierra Lange Assistant Coach
+
+43. Sam Bean
+   Email: 
+   Username: sam.bean
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Sam Bean Assistant Coach
+
+44. Chico Rego
+   Email: 
+   Username: chico.rego
+   Sports: Swimming
+   Title: Chico Rego Head Swimming & Diving Coach
+   Original line: Chico Rego Head Swimming & Diving Coach 934-8430
+
+45. Christopher Lane
+   Email: 
+   Username: christopher.lane
+   Sports: Soccer
+   Title: Christopher Lane Head Diving Coach
+   Original line: Christopher Lane Head Diving Coach 909-499-
+
+46. Kyrylo Shvets
+   Email: 
+   Username: kyrylo.shvets
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Kyrylo Shvets Associate Head Coach
+
+47. Caroline Pape
+   Email: 
+   Username: caroline.pape
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Caroline Pape Assistant Coach
+
+48. Jackie Calla
+   Email: 
+   Username: jackie.calla
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Jackie Calla Head Coach
+
+49. Stella Wiesemann
+   Email: 
+   Username: stella.wiesemann
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Stella Wiesemann Assistant Coach
+
+50. Katie Reifert
+   Email: 
+   Username: katie.reifert
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Katie Reifert Head Coach
+
+51. Nicole Alford
+   Email: 
+   Username: nicole.alford
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Nicole Alford Assistant Coach 961-6930
+
+52. Jacob Paige
+   Email: 
+   Username: jacob.paige
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Jacob Paige Assistant Coach
+
+53. Barry King
+   Email: 
+   Username: barry.king
+   Sports: Soccer
+   Title: Head Coach
+   Original line: Barry King Head Coach 994-5777
+
+54. Luca Castorina
+   Email: 
+   Username: luca.castorina
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Luca Castorina Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------

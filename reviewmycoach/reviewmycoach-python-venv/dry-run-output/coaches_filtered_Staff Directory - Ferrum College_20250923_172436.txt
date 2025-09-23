@@ -1,0 +1,351 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:36
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Ferrum College
+Organization: Ferrum College Athletics
+
+Total coaches found: 42
+
+PARSED ENTRIES:
+----------------------------------------
+1. Blake Roulo
+   Email: broulo@ferrum.edu
+   Username: broulo
+   Sports: Wrestling
+   Title: Head Wrestling Coach
+   Original line: Blake Roulo Head Wrestling Coach, Assistant broulo@ferrum.edu (804) George
+
+2. Bryan Harvey
+   Email: wharvey@ferrum.edu
+   Username: wharvey
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Bryan Harvey Head Women's Basketball Coach, wharvey@ferrum.edu (540) Roanoke '94
+
+3. Kwajay Witcher
+   Email: kwitcher2@ferrum.edu
+   Username: kwitcher2
+   Sports: Strength & Conditioning
+   Title: Strength & Conditioning Coach
+   Original line: Kwajay Witcher '23 Strength & Conditioning Coach kwitcher2@ferrum.edu (540) Ferrum '23
+
+4. Eric Owens
+   Email: eowens@ferrum.edu
+   Username: eowens
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Eric Owens Head Baseball Coach eowens@ferrum.edu (540)
+
+5. Darren Hodges
+   Email: djhodges@ferrum.edu
+   Username: djhodges
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Darren Hodges Assistant Baseball Coach djhodges@ferrum.edu (540) Ferrum '02
+
+6. Jacob Woolwine
+   Email: jwoolwine@ferrum.edu
+   Username: jwoolwine
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Jacob Woolwine Assistant Baseball Coach jwoolwine@ferrum.edu (540) San Diego
+
+7. Matthew Wojciechowski
+   Email: mwojciechowski@ferrum.edu
+   Username: mwojciechowski
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Matthew Wojciechowski Assistant Baseball Coach mwojciechowski@ferrum.edu (540) Roanoke '20
+
+8. Patrick Corrigan
+   Email: pcorrigan@ferrum.edu
+   Username: pcorrigan
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Original line: Patrick Corrigan Head Men's Basketball Coach pcorrigan@ferrum.edu 540-365- Hampden-
+
+9. Cole Morris
+   Email: cbmorris@ferrum.edu
+   Username: cbmorris
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Cole Morris Assistant Men's Basketball Coach cbmorris@ferrum.edu (540) PSU-DuBois
+
+10. Josh Reeves
+   Email: Jpreeves2@ferrum.edu
+   Username: Jpreeves2
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Josh Reeves '22 Assistant Men's Basketball Coach Jpreeves2@ferrum.edu (540) Ferrum '22
+
+11. Bryan Harvey
+   Email: wharvey@ferrum.edu
+   Username: wharvey
+   Sports: Baseball
+   Title: s Basketball Coach
+   Original line: Bryan Harvey Head Women's Basketball Coach, wharvey@ferrum.edu (540) Roanoke '94
+
+12. Ashton Funderburg
+   Email: afunderburg@ferrum.edu
+   Username: afunderburg
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Ashton Funderburg Assistant Women's Basketball Coach afunderburg@ferrum.edu (540) Concord '23
+
+13. Alexis Hunt
+   Email: ahunt1@ferrum.edu
+   Username: ahunt1
+   Sports: Baseball
+   Title: Head Cheerleading Coach
+   Original line: Alexis Hunt Head Cheerleading Coach ahunt1@ferrum.edu 540-365- James
+
+14. Nicole Heck
+   Email: dnhale@ferrum.edu
+   Username: dnhale
+   Sports: Baseball
+   Title: Assistant Cheerleading Coach
+   Original line: Nicole Heck Assistant Cheerleading Coach dnhale@ferrum.edu Ferrum '25
+
+15. Margaret Cornwell
+   Email: mcornwell@ferrum.edu
+   Username: mcornwell
+   Sports: Baseball
+   Title: Head Equestrian Coach
+   Original line: Margaret Cornwell '02 Head Equestrian Coach mcornwell@ferrum.edu (540) Ferrum '02
+
+16. Kevin Sherman
+   Email: ksherman@ferrum.edu
+   Username: ksherman
+   Sports: Football
+   Title: Head Football Coach
+   Original line: Kevin Sherman '92 Head Football Coach ksherman@ferrum.edu (540) Ferrum '92
+
+17. Cameron Clark
+   Email: cclark2@ferrum.edu
+   Username: cclark2
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Cameron Clark '17 Assistant Football Coach, Offensive cclark2@ferrum.edu (540) Ferrum 2017
+
+18. Anthony Konieczka
+   Email: apkonieczka@ferrum.edu
+   Username: apkonieczka
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Anthony Konieczka '17 Assistant Football Coach, Defensive apkonieczka@ferrum.edu (540) Ferrum '17
+
+19. Lawrence Robinson
+   Email: lcrobinson@ferrum.edu
+   Username: lcrobinson
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Lawrence Robinson Assistant Football Coach, Special lcrobinson@ferrum.edu (540) West Liberty
+
+20. Jesse Santiago
+   Email: jsantiago@ferrum.edu
+   Username: jsantiago
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Jesse Santiago Assistant Football Coach, Recruiting jsantiago@ferrum.edu (540) Emory &
+
+21. Jeff Gerzog
+   Email: jgerzog@ferrum.edu
+   Username: jgerzog
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Jeff Gerzog Assistant Football Coach, Defensive jgerzog@ferrum.edu (540) East Carolina
+
+22. AJ Hopke
+   Email: ehopke@ferrum.edu
+   Username: ehopke
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: AJ Hopke Assistant Football Coach, Defensive ehopke@ferrum.edu (540) Lenoir-Rhyne
+
+23. Bobby James
+   Email: bjames@ferrum.edu
+   Username: bjames
+   Sports: Football
+   Title: Assistant Football Coach
+   Original line: Bobby James '84 Assistant Football Coach, Football bjames@ferrum.edu (540) Ferrum '84
+
+24. Garrett Roth
+   Email: groth@ferrum.edu
+   Username: groth
+   Sports: Football
+   Title: Head Women's Flag Football Coach
+   Original line: Garrett Roth Head Women's Flag Football Coach groth@ferrum.edu (540) Colorado
+
+25. Adam Crawford
+   Email: adcrawford@ferrum.edu
+   Username: adcrawford
+   Sports: Football
+   Title: Head Golf Coach
+   Original line: Adam Crawford '07 Head Golf Coach adcrawford@ferrum.edu (540) Ferrum '07
+
+26. Carly Coyle
+   Email: crcoyle@ferrum.edu
+   Username: crcoyle
+   Sports: Football
+   Title: Head Women's Lacrosse Coach
+   Original line: Carly Coyle Head Women's Lacrosse Coach crcoyle@ferrum.edu (540) UVA-Wise '20
+
+27. Matt Cureton
+   Email: mcureton@ferrum.edu
+   Username: mcureton
+   Sports: Football
+   Title: Head Men's Soccer Coach
+   Original line: Matt Cureton Head Men's Soccer Coach mcureton@ferrum.edu (540) Lees-McRae
+
+28. James Morgan
+   Email: jmorgan3@ferrum.edu
+   Username: jmorgan3
+   Sports: Football
+   Title: s Soccer Coach
+   Original line: James Morgan Associate Head Men's Soccer Coach, jmorgan3@ferrum.edu (540) Lees-McRae
+
+29. Erin Saleeby
+   Email: esaleeby@ferrum.edu
+   Username: esaleeby
+   Sports: Football
+   Title: Head Women's Soccer Coach
+   Original line: Erin Saleeby Head Women's Soccer Coach esaleeby@ferrum.edu (540) Queens '09
+
+30. Bri Bitz
+   Email: bbitz@ferrum.edu
+   Username: bbitz
+   Sports: Football
+   Title: Assistant Women's Soccer Coach
+   Original line: Bri Bitz '24 Assistant Women's Soccer Coach bbitz@ferrum.edu (540) Ferrum '24
+
+31. Josh Freeman
+   Email: jfreeman1@ferrum.edu
+   Username: jfreeman1
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Josh Freeman Head Softball Coach jfreeman1@ferrum.edu (540) East Carolina
+
+32. Courtlynn Cooney
+   Email: ccooney@ferrum.edu
+   Username: ccooney
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Courtlynn Cooney Assistant Softball Coach ccooney@ferrum.edu (540) Mount Olive
+
+33. Jose 
+   Email: jrincon@ferrm.edu
+   Username: jrincon
+   Sports: Softball
+   Title: Rincon Head Men's & Women's Tennis Coach
+   Original line: Jose M. Rincon Head Men's & Women's Tennis Coach jrincon@ferrm.edu (540) USC-Upstate
+
+34. Davonte Taylor
+   Email: ddtaylor@ferrum.edu
+   Username: ddtaylor
+   Sports: Softball
+   Title: Assistant Track & Field Coach
+   Original line: Davonte Taylor Assistant Track & Field Coach ddtaylor@ferrum.edu Old Dominion
+
+35. Shelbylynn Adair
+   Email: sadair@ferrum.edu
+   Username: sadair
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Shelbylynn Adair Head Women's Volleyball Coach sadair@ferrum.edu (540) Virginia Tech
+
+36. Morgan Milligan
+   Email: mmilligan@ferrum.edu
+   Username: mmilligan
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Morgan Milligan Assistant Women's Volleyball Coach mmilligan@ferrum.edu (540) UVA-Wise '20
+
+37. Blake Roulo
+   Email: broulo@ferrum.edu
+   Username: broulo
+   Sports: Softball
+   Title: Head Wrestling Coach
+   Original line: Blake Roulo Head Wrestling Coach, Assistant broulo@ferrum.edu (804) George
+
+38. Levi Englman
+   Email: lnenglman@ferrum.edu
+   Username: lnenglman
+   Sports: Softball
+   Title: Assistant Wrestling Coach
+   Original line: Levi Englman '24 Assistant Wrestling Coach lnenglman@ferrum.edu (540) Ferrum '24
+
+39. Stephanie Carr
+   Email: scarr1@ferrum.edu
+   Username: scarr1
+   Sports: Soccer
+   Title: Coach
+   Original line: Coach scarr1@ferrum.edu
+
+40.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 365-4512
+
+41.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: Field Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Field Coach 365-4234 Coast '24
+
+42.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: Coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: Coach 365-4513 Madison '00
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Blake Roulo Head Wrestling Coach, Assistant broulo@ferrum.edu (804) George
+• Bryan Harvey Head Women's Basketball Coach, wharvey@ferrum.edu (540) Roanoke '94
+• Kwajay Witcher '23 Strength & Conditioning Coach kwitcher2@ferrum.edu (540) Ferrum '23
+• Eric Owens Head Baseball Coach eowens@ferrum.edu (540)
+• Darren Hodges Assistant Baseball Coach djhodges@ferrum.edu (540) Ferrum '02
+• Jacob Woolwine Assistant Baseball Coach jwoolwine@ferrum.edu (540) San Diego
+• Matthew Wojciechowski Assistant Baseball Coach mwojciechowski@ferrum.edu (540) Roanoke '20
+• Patrick Corrigan Head Men's Basketball Coach pcorrigan@ferrum.edu 540-365- Hampden-
+• Cole Morris Assistant Men's Basketball Coach cbmorris@ferrum.edu (540) PSU-DuBois
+• Josh Reeves '22 Assistant Men's Basketball Coach Jpreeves2@ferrum.edu (540) Ferrum '22
+• Bryan Harvey Head Women's Basketball Coach, wharvey@ferrum.edu (540) Roanoke '94
+• Ashton Funderburg Assistant Women's Basketball Coach afunderburg@ferrum.edu (540) Concord '23
+• Alexis Hunt Head Cheerleading Coach ahunt1@ferrum.edu 540-365- James
+• Nicole Heck Assistant Cheerleading Coach dnhale@ferrum.edu Ferrum '25
+• Margaret Cornwell '02 Head Equestrian Coach mcornwell@ferrum.edu (540) Ferrum '02
+• Kevin Sherman '92 Head Football Coach ksherman@ferrum.edu (540) Ferrum '92
+• Cameron Clark '17 Assistant Football Coach, Offensive cclark2@ferrum.edu (540) Ferrum 2017
+• Anthony Konieczka '17 Assistant Football Coach, Defensive apkonieczka@ferrum.edu (540) Ferrum '17
+• Lawrence Robinson Assistant Football Coach, Special lcrobinson@ferrum.edu (540) West Liberty
+• Jesse Santiago Assistant Football Coach, Recruiting jsantiago@ferrum.edu (540) Emory &
+• Jeff Gerzog Assistant Football Coach, Defensive jgerzog@ferrum.edu (540) East Carolina
+• AJ Hopke Assistant Football Coach, Defensive ehopke@ferrum.edu (540) Lenoir-Rhyne
+• Bobby James '84 Assistant Football Coach, Football bjames@ferrum.edu (540) Ferrum '84
+• Garrett Roth Head Women's Flag Football Coach groth@ferrum.edu (540) Colorado
+• Adam Crawford '07 Head Golf Coach adcrawford@ferrum.edu (540) Ferrum '07
+• Carly Coyle Head Women's Lacrosse Coach crcoyle@ferrum.edu (540) UVA-Wise '20
+• Matt Cureton Head Men's Soccer Coach mcureton@ferrum.edu (540) Lees-McRae
+• James Morgan Associate Head Men's Soccer Coach, jmorgan3@ferrum.edu (540) Lees-McRae
+• Erin Saleeby Head Women's Soccer Coach esaleeby@ferrum.edu (540) Queens '09
+• Bri Bitz '24 Assistant Women's Soccer Coach bbitz@ferrum.edu (540) Ferrum '24
+• Josh Freeman Head Softball Coach jfreeman1@ferrum.edu (540) East Carolina
+• Courtlynn Cooney Assistant Softball Coach ccooney@ferrum.edu (540) Mount Olive
+• Jose M. Rincon Head Men's & Women's Tennis Coach jrincon@ferrm.edu (540) USC-Upstate
+• Davonte Taylor Assistant Track & Field Coach ddtaylor@ferrum.edu Old Dominion
+• Shelbylynn Adair Head Women's Volleyball Coach sadair@ferrum.edu (540) Virginia Tech
+• Morgan Milligan Assistant Women's Volleyball Coach mmilligan@ferrum.edu (540) UVA-Wise '20
+• Blake Roulo Head Wrestling Coach, Assistant broulo@ferrum.edu (804) George
+• Levi Englman '24 Assistant Wrestling Coach lnenglman@ferrum.edu (540) Ferrum '24

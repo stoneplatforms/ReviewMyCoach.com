@@ -1,0 +1,245 @@
+COACH ENTRIES FOUND - 2025-09-23 17:24:01
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Coppin State University
+Organization: Coppin State University Athletics
+
+Total coaches found: 27
+
+PARSED ENTRIES:
+----------------------------------------
+1. Marcelaine Augustin
+   Email: maugustin@coppin.edu
+   Username: maugustin
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Phone: (410) 951-3731
+   Original line: Marcelaine Augustin Assistant Strength & Conditioning Coach maugustin@coppin.edu 410-951-3731
+
+2. Daniel DePhilippis
+   Email: ddephilippis@coppin.edu
+   Username: ddephilippis
+   Sports: Soccer
+   Title: Esports Coach Coordinator
+   Phone: (410) 951-6940
+   Original line: Daniel DePhilippis Esports Coach Coordinator ddephilippis@coppin.edu 410-951-6940
+
+3. Sherman Reed
+   Email: sreed@coppin.edu
+   Username: sreed
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (410) 951-3723
+   Original line: Sherman Reed Head Coach sreed@coppin.edu 410-951-3723
+
+4. Wayne Franklin
+   Email: wfranklin@coppin.edu
+   Username: wfranklin
+   Sports: Baseball
+   Title: Pitching Coach/Recruiting Coordinator
+   Original line: Wayne Franklin Pitching Coach/Recruiting Coordinator wfranklin@coppin.edu
+
+5. Stephen Baughan
+   Email: sbaughan@coppin.edu
+   Username: sbaughan
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Stephen Baughan Assistant Coach sbaughan@coppin.edu
+
+6. Jacob Schaefer
+   Email: jschaefer@coppin.edu
+   Username: jschaefer
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jacob Schaefer Assistant Coach jschaefer@coppin.edu
+
+7. Yolanda Stennett
+   Email: ystennett@coppin.edu
+   Username: ystennett
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Yolanda Stennett Head Coach ystennett@coppin.edu
+
+8. Larry Stewart
+   Email: lastewart@coppin.edu
+   Username: lastewart
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (410) 951-3733
+   Original line: Larry Stewart Head Coach lastewart@coppin.edu 410-951-3733
+
+9. Stephen Stewart
+   Email: ststewart@coppin.edu
+   Username: ststewart
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (410) 951-3743
+   Original line: Stephen Stewart Assistant Coach ststewart@coppin.edu 410-951-3743
+
+10. Sidney Raikes
+   Email: sraikes@coppin.edu
+   Username: sraikes
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (410) 951-3727
+   Original line: Sidney Raikes Assistant Coach sraikes@coppin.edu 410-951-3727
+
+11. Carl Hicks
+   Email: chicks@coppin.edu
+   Username: chicks
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (410) 951-3722
+   Original line: Carl Hicks Head Coach chicks@coppin.edu 410-951-3722
+
+12. Lawrence Givens
+   Email: lglive99@yahoo.com
+   Username: lglive99
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (410) 951-3722
+   Original line: Lawrence Givens Assistant Coach (Jumps) lglive99@yahoo.com 410-951-3722
+
+13. Jamie Wilson
+   Email: jawilson@coppin.edu
+   Username: jawilson
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Jamie Wilson Assistant Coach (Sprints) jawilson@coppin.edu
+
+14. Elam Ruff
+   Email: druff@coppin.edu
+   Username: druff
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Elam Ruff Head Coach druff@coppin.edu
+
+15. Ebonye Jones
+   Email: ejones@coppin.edu
+   Username: ejones
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (410) 951-6935
+   Original line: Ebonye Jones Head Coach ejones@coppin.edu 410-951-6935
+
+16. Darrell Mosley
+   Email: dmosley@coppin.edu
+   Username: dmosley
+   Sports: Baseball
+   Title: Head Coach
+   Phone: (410) 951-3751
+   Original line: Darrell Mosley Head Coach dmosley@coppin.edu 410-951-3751
+
+17. Shemika Jones
+   Email: shejones@coppin.edu
+   Username: shejones
+   Sports: Baseball
+   Title: Assistant Coach/Recruiting Coordinator
+   Phone: (410) 951-3725
+   Original line: Shemika Jones Assistant Coach/Recruiting Coordinator shejones@coppin.edu 410-951-3725
+
+18. Kevin Green
+   Email: kegreen@coppin.edu
+   Username: kegreen
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (410) 951-3726
+   Original line: Kevin Green Assistant Coach kegreen@coppin.edu 410-951-3726
+
+19. Tatyana McClaney
+   Email: tmcclaney@coppin.edu
+   Username: tmcclaney
+   Sports: Baseball
+   Title: Assistant Coach
+   Phone: (410) 951-3749
+   Original line: Tatyana McClaney Assistant Coach tmcclaney@coppin.edu 410-951-3749
+
+20. Shaunita Middleton
+   Email: smiddleton@coppin.edu
+   Username: smiddleton
+   Sports: Baseball
+   Title: Head Bowling Coach
+   Phone: (410) 951-3746
+   Original line: Shaunita Middleton Head Bowling Coach smiddleton@coppin.edu 410-951-3746
+
+21. Mercedes Hargett
+   Email: mhargett@coppin.edu
+   Username: mhargett
+   Sports: Softball
+   Title: Head Coach
+   Phone: (410) 951-3747
+   Original line: Mercedes Hargett Head Coach mhargett@coppin.edu 410-951-3747
+
+22. Tim Walsh
+   Email: twalsh@coppin.edu
+   Username: twalsh
+   Sports: Volleyball
+   Title: Head Coach
+   Phone: (410) 951-3724
+   Original line: Tim Walsh Head Coach twalsh@coppin.edu 410-951-3724
+
+23. Alex Digirolamo
+   Email: adigirolamo@coppin.edu
+   Username: adigirolamo
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Alex Digirolamo Assistant Coach adigirolamo@coppin.edu
+
+24. Lori Ashton
+   Email: lashton@coppin.edu
+   Username: lashton
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Lori Ashton Assistant Coach lashton@coppin.edu
+
+25. Anthony Wheeler
+   Email: 
+   Username: anthony.wheeler
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Anthony Wheeler Assistant Coach
+
+26. Tonia Douglas
+   Email: 
+   Username: tonia.douglas
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Tonia Douglas Assistant Coach
+
+27. Victoria Johnson
+   Email: 
+   Username: victoria.johnson
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Victoria Johnson Assistant Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Marcelaine Augustin Assistant Strength & Conditioning Coach maugustin@coppin.edu 410-951-3731
+• Daniel DePhilippis Esports Coach Coordinator ddephilippis@coppin.edu 410-951-6940
+• Sherman Reed Head Coach sreed@coppin.edu 410-951-3723
+• Wayne Franklin Pitching Coach/Recruiting Coordinator wfranklin@coppin.edu
+• Stephen Baughan Assistant Coach sbaughan@coppin.edu
+• Jacob Schaefer Assistant Coach jschaefer@coppin.edu
+• Yolanda Stennett Head Coach ystennett@coppin.edu
+• Larry Stewart Head Coach lastewart@coppin.edu 410-951-3733
+• Stephen Stewart Assistant Coach ststewart@coppin.edu 410-951-3743
+• Sidney Raikes Assistant Coach sraikes@coppin.edu 410-951-3727
+• Carl Hicks Head Coach chicks@coppin.edu 410-951-3722
+• Lawrence Givens Assistant Coach (Jumps) lglive99@yahoo.com 410-951-3722
+• Jamie Wilson Assistant Coach (Sprints) jawilson@coppin.edu
+• Elam Ruff Head Coach druff@coppin.edu
+• Ebonye Jones Head Coach ejones@coppin.edu 410-951-6935
+• Darrell Mosley Head Coach dmosley@coppin.edu 410-951-3751
+• Shemika Jones Assistant Coach/Recruiting Coordinator shejones@coppin.edu 410-951-3725
+• Kevin Green Assistant Coach kegreen@coppin.edu 410-951-3726
+• Tatyana McClaney Assistant Coach tmcclaney@coppin.edu 410-951-3749
+• Shaunita Middleton Head Bowling Coach smiddleton@coppin.edu 410-951-3746
+• Mercedes Hargett Head Coach mhargett@coppin.edu 410-951-3747
+• Tim Walsh Head Coach twalsh@coppin.edu 410-951-3724
+• Alex Digirolamo Assistant Coach adigirolamo@coppin.edu
+• Lori Ashton Assistant Coach lashton@coppin.edu

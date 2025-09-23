@@ -1,0 +1,528 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:01
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Lynchburg
+Organization: University of Lynchburg Athletics
+
+Total coaches found: 64
+
+PARSED ENTRIES:
+----------------------------------------
+1. Steve Koudelka
+   Email: koudelka@lynchburg.edu
+   Username: koudelka
+   Sports: Lacrosse
+   Title: Assistant Athletic Director/Head Men's Lacrosse Coach
+   Phone: (434) 544-8494
+   Original line: Steve Koudelka Assistant Athletic Director/Head Men's Lacrosse Coach koudelka@lynchburg.edu 434-544-8494
+
+2. Dawn Simmons
+   Email: simmons@lynchburg.edu
+   Username: simmons
+   Sports: Softball
+   Title: Senior Women's Administrator/Head Softball Coach
+   Phone: (434) 426-5753
+   Original line: Dawn Simmons Senior Women's Administrator/Head Softball Coach simmons@lynchburg.edu 434-426-5753
+
+3. Allen Smith
+   Email: smith_a@lynchburg.edu
+   Username: smith_a
+   Sports: Golf
+   Title: s Golf Coach/Compliance Director
+   Phone: (919) 612-8812
+   Original line: Allen Smith Head Men's Golf Coach/Compliance Director smith_a@lynchburg.edu 919-612-8812
+
+4. Travis Beazley
+   Email: beazley_t@lynchburg.edu
+   Username: beazley_t
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Phone: (540) 817-5182
+   Original line: Travis Beazley Head Baseball Coach beazley_t@lynchburg.edu 540-817-5182
+
+5. Michael Solbach
+   Email: solbach_m@lynchburg.edu
+   Username: solbach_m
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Michael Solbach Assistant Baseball Coach solbach_m@lynchburg.edu
+
+6. Luke Lowery
+   Email: lowery_l@lynchburg.edu
+   Username: lowery_l
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Luke Lowery Assistant Baseball Coach lowery_l@lynchburg.edu
+
+7. Cameron Lane
+   Email: lane_jc@lynchburg.edu
+   Username: lane_jc
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Cameron Lane Assistant Baseball Coach lane_jc@lynchburg.edu
+
+8. Hilliary Scott
+   Email: scott.h@lynchburg.edu
+   Username: scott.h
+   Sports: Baseball
+   Title: Head Men's Basketball Coach
+   Phone: (434) 544-8490
+   Original line: Hilliary Scott Head Men's Basketball Coach scott.h@lynchburg.edu 434-544-8490
+
+9. Dylan Hall
+   Email: hall_da@lynchburg.edu
+   Username: hall_da
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Phone: (434) 544-8490
+   Original line: Dylan Hall Assistant Men's Basketball Coach hall_da@lynchburg.edu 434-544-8490
+
+10. John Cranford
+   Email: cranford_j@lynchburg.edu
+   Username: cranford_j
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: John Cranford Assistant Men's Basketball Coach cranford_j@lynchburg.edu
+
+11. Brandon Vanover
+   Email: vanover_bt@lynchburg.edu
+   Username: vanover_bt
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Brandon Vanover Assistant Men's Basketball Coach vanover_bt@lynchburg.edu
+
+12. Allison Nichols
+   Email: nichols_a@lynchburg.edu
+   Username: nichols_a
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Phone: (434) 544-8684
+   Original line: Allison Nichols Head Women's Basketball Coach nichols_a@lynchburg.edu 434-544-8684
+
+13. Felicia Aiyeotan
+   Email: aiyeotanf349@lynchburg.edu
+   Username: aiyeotanf349
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Felicia Aiyeotan Assistant Women's Basketball Coach aiyeotanf349@lynchburg.edu
+
+14. Makenzie Bray
+   Email: bray_mm@lynchburg.edu
+   Username: bray_mm
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Makenzie Bray Assistant Women's Basketball Coach bray_mm@lynchburg.edu
+
+15. Sam Llaneza
+   Email: llaneza_sj@lynchburg.edu
+   Username: llaneza_sj
+   Sports: Baseball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Sam Llaneza Assistant Cross Country and Track & Field Coach llaneza_sj@lynchburg.edu
+
+16. Adeline Callihan
+   Email: callihan_a@lynchburg.edu
+   Username: callihan_a
+   Sports: Baseball
+   Title: Associate Head Coach
+   Original line: Adeline Callihan Associate Head Coach callihan_a@lynchburg.edu
+
+17. Makaylin Shoop
+   Email: shoopm762@lynchburg.edu
+   Username: shoopm762
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Makaylin Shoop Graduate Assistant Coach shoopm762@lynchburg.edu
+
+18. Jenni Releford
+   Email: smith_ja2@lynchburg.edu
+   Username: smith_ja2
+   Sports: Track & Field
+   Title: Head Field Hockey Coach
+   Phone: (434) 544-8492
+   Original line: Jenni Releford Head Field Hockey Coach smith_ja2@lynchburg.edu 434-544-8492
+
+19. Lauren Zimmerman
+   Email: zimmerman_le@lynchburg.edu
+   Username: zimmerman_le
+   Sports: Track & Field
+   Title: Assistant Field Hockey Coach
+   Original line: Lauren Zimmerman Assistant Field Hockey Coach zimmerman_le@lynchburg.edu
+
+20. Allen Smith
+   Email: smith_a@lynchburg.edu
+   Username: smith_a
+   Sports: Track & Field
+   Title: s Golf Coach/Compliance Director
+   Phone: (919) 612-8812
+   Original line: Allen Smith Head Men's Golf Coach/Compliance Director smith_a@lynchburg.edu 919-612-8812
+
+21. Steve Koudelka
+   Email: koudelka@lynchburg.edu
+   Username: koudelka
+   Sports: Track & Field
+   Title: Assistant Athletic Director/Head Men's Lacrosse Coach
+   Phone: (434) 544-8494
+   Original line: Steve Koudelka Assistant Athletic Director/Head Men's Lacrosse Coach koudelka@lynchburg.edu 434-544-8494
+
+22. Ryan Johnson
+   Email: johnson_r1@lynchburg.edu
+   Username: johnson_r1
+   Sports: Track & Field
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Ryan Johnson Assistant Men's Lacrosse Coach johnson_r1@lynchburg.edu
+
+23. Ben Feintuck
+   Email: feintuck_b@lynchburg.edu
+   Username: feintuck_b
+   Sports: Track & Field
+   Title: Assistant Men's Lacrosse Coach
+   Original line: Ben Feintuck Assistant Men's Lacrosse Coach feintuck_b@lynchburg.edu
+
+24. Steve Bradney
+   Email: bradney.s@lynchburg.edu
+   Username: bradney.s
+   Sports: Track & Field
+   Title: Volunteer Assistant Men's Lacrosse Coach
+   Original line: Steve Bradney Volunteer Assistant Men's Lacrosse Coach bradney.s@lynchburg.edu
+
+25. McKenzie Rafferty
+   Email: rafferty_m@lynchburg.edu
+   Username: rafferty_m
+   Sports: Track & Field
+   Title: Head Women's Lacrosse Coach
+   Original line: McKenzie Rafferty Head Women's Lacrosse Coach rafferty_m@lynchburg.edu
+
+26. Micah Slacum
+   Email: slacum_m@lynchburg.edu
+   Username: slacum_m
+   Sports: Track & Field
+   Title: Assistant Women's Lacrosse Coach
+   Original line: Micah Slacum Assistant Women's Lacrosse Coach slacum_m@lynchburg.edu
+
+27. Chris Yeager
+   Email: yeager@lynchburg.edu
+   Username: yeager
+   Sports: Track & Field
+   Title: Head Men's Soccer Coach
+   Phone: (434) 544-8326
+   Original line: Chris Yeager Head Men's Soccer Coach yeager@lynchburg.edu 434-544-8326
+
+28. Josh Hinkle
+   Email: hinkle_j@lynchburg.edu
+   Username: hinkle_j
+   Sports: Track & Field
+   Title: Associate Head Men's Soccer Coach
+   Original line: Josh Hinkle Associate Head Men's Soccer Coach hinkle_j@lynchburg.edu
+
+29. Philani Mlotshwa
+   Email: mlotshp855@lynchburg.edu
+   Username: mlotshp855
+   Sports: Track & Field
+   Title: Assistant Men's Soccer Coach
+   Original line: Philani Mlotshwa Assistant Men's Soccer Coach mlotshp855@lynchburg.edu
+
+30. Kenny Robles
+   Email: roblesk632@lynchburg.edu
+   Username: roblesk632
+   Sports: Track & Field
+   Title: Assistant Men's Soccer Coach
+   Original line: Kenny Robles Assistant Men's Soccer Coach roblesk632@lynchburg.edu
+
+31. Dr 
+   Email: olsen.t@lynchburg.edu
+   Username: olsen.t
+   Sports: Track & Field
+   Title: Todd Olsen Head Women's Soccer Coach
+   Phone: (434) 544-8491
+   Original line: Dr. Todd Olsen Head Women's Soccer Coach olsen.t@lynchburg.edu 434-544-8491
+
+32. Natalie Beazley
+   Email: deacon_n@lynchburg.edu
+   Username: deacon_n
+   Sports: Track & Field
+   Title: Associate Head Women's Soccer Coach
+   Original line: Natalie Beazley Associate Head Women's Soccer Coach deacon_n@lynchburg.edu
+
+33. Goalkeeper 
+   Email: ramos_r@lynchburg.edu
+   Username: ramos_r
+   Sports: Track & Field
+   Title: Reynaldo Ramos Assistant Women's Soccer Coach &
+   Original line: Reynaldo Ramos Assistant Women's Soccer Coach & Goalkeeper Coach ramos_r@lynchburg.edu
+
+34. Dawn Simmons
+   Email: simmons@lynchburg.edu
+   Username: simmons
+   Sports: Softball
+   Title: Senior Women's Administrator/Head Softball Coach
+   Phone: (434) 426-5753
+   Original line: Dawn Simmons Senior Women's Administrator/Head Softball Coach simmons@lynchburg.edu 434-426-5753
+
+35. Audra Bianco
+   Email: bianco_a@lynchburg.edu
+   Username: bianco_a
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Audra Bianco Assistant Softball Coach bianco_a@lynchburg.edu
+
+36. Emily Zimcosky
+   Email: zimcosky_e@lynchburg.edu
+   Username: zimcosky_e
+   Sports: Softball
+   Title: Assistant Men's and Women's Swimming Coach
+   Original line: Emily Zimcosky Assistant Men's and Women's Swimming Coach zimcosky_e@lynchburg.edu
+
+37. Liv Hutton
+   Email: hutton_o@lynchburg.edu
+   Username: hutton_o
+   Sports: Softball
+   Title: Graduate Assistant Swim Coach
+   Original line: Liv Hutton Graduate Assistant Swim Coach hutton_o@lynchburg.edu
+
+38. Sam Llaneza
+   Email: llaneza_sj@lynchburg.edu
+   Username: llaneza_sj
+   Sports: Softball
+   Title: Assistant Cross Country and Track & Field Coach
+   Original line: Sam Llaneza Assistant Cross Country and Track & Field Coach llaneza_sj@lynchburg.edu
+
+39. Cami Stovall
+   Email: stovall_c@lynchburg.edu
+   Username: stovall_c
+   Sports: Softball
+   Title: Assistant Men's and Women's Track & Field Coach
+   Original line: Cami Stovall Assistant Men's and Women's Track & Field Coach stovall_c@lynchburg.edu
+
+40. Chris Stovall
+   Email: stovalc327@lynchburg.edu
+   Username: stovalc327
+   Sports: Softball
+   Title: Assistant Men's and Women's Track & Field Coach
+   Original line: Chris Stovall Assistant Men's and Women's Track & Field Coach stovalc327@lynchburg.edu
+
+41. Jackson Crowe
+   Email: crowej279@lynchburg.edu
+   Username: crowej279
+   Sports: Softball
+   Title: Graduate Assistant Men's Tennis Coach
+   Original line: Jackson Crowe Graduate Assistant Men's Tennis Coach crowej279@lynchburg.edu
+
+42. Emily Wrenn
+   Email: wrenne289@lynchburg.edu
+   Username: wrenne289
+   Sports: Softball
+   Title: Graduate Assistant Tennis Coach
+   Original line: Emily Wrenn Graduate Assistant Tennis Coach wrenne289@lynchburg.edu
+
+43. Maria Caro
+   Email: carom356@lynchburg.edu
+   Username: carom356
+   Sports: Softball
+   Title: Graduate Assistant Tennis Coach
+   Original line: Maria Caro Graduate Assistant Tennis Coach carom356@lynchburg.edu
+
+44. Thomas Chandler
+   Email: chandler_t@lynchburg.edu
+   Username: chandler_t
+   Sports: Softball
+   Title: Assistant Indoor/Beach Volleyball Coach
+   Original line: Thomas Chandler Assistant Indoor/Beach Volleyball Coach chandler_t@lynchburg.edu
+
+45. Thomas Chandler
+   Email: chandler_t@lynchburg.edu
+   Username: chandler_t
+   Sports: Softball
+   Title: Assistant Indoor/Beach Volleyball Coach
+   Original line: Thomas Chandler Assistant Indoor/Beach Volleyball Coach chandler_t@lynchburg.edu
+
+46. Nathan Jensen
+   Email: jensen_n2@lynchburg.edu
+   Username: jensen_n2
+   Sports: Softball
+   Title: Assistant Beach Volleyball Coach
+   Original line: Nathan Jensen Assistant Beach Volleyball Coach jensen_n2@lynchburg.edu
+
+47. Thomas Chandler
+   Email: chandler_t@lynchburg.edu
+   Username: chandler_t
+   Sports: Softball
+   Title: Assistant Indoor/Beach Volleyball Coach
+   Original line: Thomas Chandler Assistant Indoor/Beach Volleyball Coach chandler_t@lynchburg.edu
+
+48. Vinny Barber
+   Email: barber_vo@lynchburg.edu
+   Username: barber_vo
+   Sports: Softball
+   Title: Head Men's Wrestling Coach
+   Phone: (512) 797-9684
+   Original line: Vinny Barber Head Men's Wrestling Coach barber_vo@lynchburg.edu 512-797-9684
+
+49. Sam Hillegas
+   Email: hillegas_se@lynchburg.edu
+   Username: hillegas_se
+   Sports: Softball
+   Title: Assistant Wrestling Coach
+   Original line: Sam Hillegas Assistant Wrestling Coach hillegas_se@lynchburg.edu
+
+50. Holden Fiedler
+   Email: fiedler_h@lynchburg.edu
+   Username: fiedler_h
+   Sports: Softball
+   Title: Assistant Strength Coach
+   Original line: Holden Fiedler Assistant Strength Coach fiedler_h@lynchburg.edu
+
+51. Jon Waters
+   Email: waters.j@lynchburg.edu
+   Username: waters.j
+   Sports: Baseball
+   Title: Cameron Carrow Volunteer Assistant Baseball Coach
+   Original line: Cameron Carrow Volunteer Assistant Baseball Coach waters.j@lynchburg.edu
+
+52. Mario Wilson
+   Email: wilson_mo@lynchburg.edu
+   Username: wilson_mo
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brynley Smith Graduate Assistant Coach wilson_mo@lynchburg.edu
+
+53. Jacki Goalkeeper
+   Email: 
+   Username: jacki.goalkeeper
+   Sports: Soccer
+   Title: Jacki Bolt Goalkeeper Coach
+   Original line: Jacki Bolt Goalkeeper Coach
+
+54. Sydney Graduate
+   Email: 
+   Username: sydney.graduate
+   Sports: Golf
+   Title: Sydney Pickell Graduate Assistant Golf Coach
+   Original line: Sydney Pickell Graduate Assistant Golf Coach
+
+55. CJ Volunteer
+   Email: 
+   Username: cj.volunteer
+   Sports: Lacrosse
+   Title: s Lacrosse Coach
+   Original line: CJ Santora Volunteer Assistant Men's Lacrosse Coach
+
+56. Scott Zaring
+   Email: 
+   Username: scott.zaring
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Scott Zaring Assistant Men's Soccer Coach
+
+57. Matt Newton
+   Email: 
+   Username: matt.newton
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Matt Newton Assistant Women's Soccer Coach
+
+58. Jessica Hinkle
+   Email: 
+   Username: jessica.hinkle
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Jessica Hinkle Assistant Women's Soccer Coach
+
+59. Tanner Olsen
+   Email: 
+   Username: tanner.olsen
+   Sports: Soccer
+   Title: s Soccer Coach
+   Original line: Tanner Olsen Assistant Women's Soccer Coach
+
+60. Mike Jennings
+   Email: 
+   Username: mike.jennings
+   Sports: Softball
+   Title: Mike Jennings Assistant Softball Coach
+   Original line: Mike Jennings Assistant Softball Coach
+
+61. Abigayle Perry
+   Email: 
+   Username: abigayle.perry
+   Sports: Softball
+   Title: Abigayle Perry Assistant Softball Coach
+   Original line: Abigayle Perry Assistant Softball Coach
+
+62. Brad Dunn
+   Email: dunn_bj@lynchburg.edu
+   Username: dunn_bj
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Isaiah Brothers Graduate Assistant Men's and Women's Track & Field Coach dunn_bj@lynchburg.edu
+
+63. Michael Graduate
+   Email: 
+   Username: michael.graduate
+   Sports: Track & Field
+   Title: s Track & Field Coach
+   Original line: Michael Hamm Graduate Assistant Men's and Women's Track & Field Coach
+
+64. Kristen Volunteer
+   Email: 
+   Username: kristen.volunteer
+   Sports: Volleyball
+   Title: Kristen Hardie Volunteer Assistant Volleyball Coach
+   Original line: Kristen Hardie Volunteer Assistant Volleyball Coach
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Steve Koudelka Assistant Athletic Director/Head Men's Lacrosse Coach koudelka@lynchburg.edu 434-544-8494
+• Dawn Simmons Senior Women's Administrator/Head Softball Coach simmons@lynchburg.edu 434-426-5753
+• Allen Smith Head Men's Golf Coach/Compliance Director smith_a@lynchburg.edu 919-612-8812
+• Travis Beazley Head Baseball Coach beazley_t@lynchburg.edu 540-817-5182
+• Michael Solbach Assistant Baseball Coach solbach_m@lynchburg.edu
+• Luke Lowery Assistant Baseball Coach lowery_l@lynchburg.edu
+• Cameron Lane Assistant Baseball Coach lane_jc@lynchburg.edu
+• Hilliary Scott Head Men's Basketball Coach scott.h@lynchburg.edu 434-544-8490
+• Dylan Hall Assistant Men's Basketball Coach hall_da@lynchburg.edu 434-544-8490
+• John Cranford Assistant Men's Basketball Coach cranford_j@lynchburg.edu
+• Brandon Vanover Assistant Men's Basketball Coach vanover_bt@lynchburg.edu
+• Allison Nichols Head Women's Basketball Coach nichols_a@lynchburg.edu 434-544-8684
+• Felicia Aiyeotan Assistant Women's Basketball Coach aiyeotanf349@lynchburg.edu
+• Makenzie Bray Assistant Women's Basketball Coach bray_mm@lynchburg.edu
+• Sam Llaneza Assistant Cross Country and Track & Field Coach llaneza_sj@lynchburg.edu
+• Adeline Callihan Associate Head Coach callihan_a@lynchburg.edu
+• Makaylin Shoop Graduate Assistant Coach shoopm762@lynchburg.edu
+• Jenni Releford Head Field Hockey Coach smith_ja2@lynchburg.edu 434-544-8492
+• Lauren Zimmerman Assistant Field Hockey Coach zimmerman_le@lynchburg.edu
+• Allen Smith Head Men's Golf Coach/Compliance Director smith_a@lynchburg.edu 919-612-8812
+• Steve Koudelka Assistant Athletic Director/Head Men's Lacrosse Coach koudelka@lynchburg.edu 434-544-8494
+• Ryan Johnson Assistant Men's Lacrosse Coach johnson_r1@lynchburg.edu
+• Ben Feintuck Assistant Men's Lacrosse Coach feintuck_b@lynchburg.edu
+• Steve Bradney Volunteer Assistant Men's Lacrosse Coach bradney.s@lynchburg.edu
+• McKenzie Rafferty Head Women's Lacrosse Coach rafferty_m@lynchburg.edu
+• Micah Slacum Assistant Women's Lacrosse Coach slacum_m@lynchburg.edu
+• Chris Yeager Head Men's Soccer Coach yeager@lynchburg.edu 434-544-8326
+• Josh Hinkle Associate Head Men's Soccer Coach hinkle_j@lynchburg.edu
+• Philani Mlotshwa Assistant Men's Soccer Coach mlotshp855@lynchburg.edu
+• Kenny Robles Assistant Men's Soccer Coach roblesk632@lynchburg.edu
+• Dr. Todd Olsen Head Women's Soccer Coach olsen.t@lynchburg.edu 434-544-8491
+• Natalie Beazley Associate Head Women's Soccer Coach deacon_n@lynchburg.edu
+• Reynaldo Ramos Assistant Women's Soccer Coach & Goalkeeper Coach ramos_r@lynchburg.edu
+• Dawn Simmons Senior Women's Administrator/Head Softball Coach simmons@lynchburg.edu 434-426-5753
+• Audra Bianco Assistant Softball Coach bianco_a@lynchburg.edu
+• Emily Zimcosky Assistant Men's and Women's Swimming Coach zimcosky_e@lynchburg.edu
+• Liv Hutton Graduate Assistant Swim Coach hutton_o@lynchburg.edu
+• Sam Llaneza Assistant Cross Country and Track & Field Coach llaneza_sj@lynchburg.edu
+• Cami Stovall Assistant Men's and Women's Track & Field Coach stovall_c@lynchburg.edu
+• Chris Stovall Assistant Men's and Women's Track & Field Coach stovalc327@lynchburg.edu
+• Jackson Crowe Graduate Assistant Men's Tennis Coach crowej279@lynchburg.edu
+• Emily Wrenn Graduate Assistant Tennis Coach wrenne289@lynchburg.edu
+• Maria Caro Graduate Assistant Tennis Coach carom356@lynchburg.edu
+• Thomas Chandler Assistant Indoor/Beach Volleyball Coach chandler_t@lynchburg.edu
+• Thomas Chandler Assistant Indoor/Beach Volleyball Coach chandler_t@lynchburg.edu
+• Nathan Jensen Assistant Beach Volleyball Coach jensen_n2@lynchburg.edu
+• Thomas Chandler Assistant Indoor/Beach Volleyball Coach chandler_t@lynchburg.edu
+• Vinny Barber Head Men's Wrestling Coach barber_vo@lynchburg.edu 512-797-9684
+• Sam Hillegas Assistant Wrestling Coach hillegas_se@lynchburg.edu
+• Holden Fiedler Assistant Strength Coach fiedler_h@lynchburg.edu

@@ -1,0 +1,600 @@
+COACH ENTRIES FOUND - 2025-09-23 17:27:34
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: University of Toledo University of Toledo University of Toledo
+Organization: University of Toledo Athletics
+
+Total coaches found: 75
+
+PARSED ENTRIES:
+----------------------------------------
+1. Brandon Palidar
+   Email: brandon.palidar@utoledo.edu
+   Username: brandon.palidar
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Brandon Palidar Assistant Strength & Conditioning Coach brandon.palidar@utoledo.edu
+
+2. Holden Tincher
+   Email: holden.tincher@utoledo.edu
+   Username: holden.tincher
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Holden Tincher Assistant Strength & Conditioning Coach holden.tincher@utoledo.edu 419-
+
+3. Ben Wielgopolski
+   Email: benjamin.wielgopolski@utoledo.edu
+   Username: benjamin.wielgopolski
+   Sports: Strength & Conditioning
+   Title: Assistant Strength & Conditioning Coach
+   Original line: Ben Wielgopolski Assistant Strength & Conditioning Coach benjamin.wielgopolski@utoledo.edu
+
+4. Rob Reinstetle
+   Email: robert.reinstetle@utoledo.edu
+   Username: robert.reinstetle
+   Sports: Baseball
+   Title: Head Baseball Coach
+   Original line: Rob Reinstetle Head Baseball Coach robert.reinstetle@utoledo.edu 419-
+
+5. Pat Cottrell
+   Email: patrick.cottrell@utoledo.edu
+   Username: patrick.cottrell
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Pat Cottrell Assistant Baseball Coach patrick.cottrell@utoledo.edu 419-
+
+6. Santi Garcia
+   Email: santiago.garcia@utoledo.edu
+   Username: santiago.garcia
+   Sports: Baseball
+   Title: Assistant Baseball Coach
+   Original line: Santi Garcia Assistant Baseball Coach santiago.garcia@utoledo.edu 419-
+
+7. Jacob Condra-Bogan
+   Email: jacob.condra-bogan@utoledo.edu
+   Username: jacob.condra-bogan
+   Sports: Baseball
+   Title: Assistant Baseball Coach/Pitching Coach
+   Original line: Jacob Condra-Bogan Assistant Baseball Coach/Pitching Coach jacob.condra-bogan@utoledo.edu
+
+8. Jeff Massey
+   Email: jeffrey.massey@utoledo.edu
+   Username: jeffrey.massey
+   Sports: Baseball
+   Title: Associate Head Men's Basketball Coach
+   Original line: Jeff Massey Associate Head Men's Basketball Coach jeffrey.massey@utoledo.edu 419-
+
+9. Justin Ingram
+   Email: justin.ingram@utoledo.edu
+   Username: justin.ingram
+   Sports: Baseball
+   Title: Associate Head Men's Basketball Coach
+   Original line: Justin Ingram Associate Head Men's Basketball Coach justin.ingram@utoledo.edu 419-
+
+10. Jordan Lauf
+   Email: jordan.lauf@utoledo.edu
+   Username: jordan.lauf
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Jordan Lauf Assistant Men's Basketball Coach jordan.lauf@utoledo.edu 419-
+
+11. Brandon Pritzl
+   Email: brandon.pritzl@utoledo.edu
+   Username: brandon.pritzl
+   Sports: Baseball
+   Title: Assistant Men's Basketball Coach
+   Original line: Brandon Pritzl Assistant Men's Basketball Coach brandon.pritzl@utoledo.edu 419-
+
+12. Ginny Boggess
+   Email: ginny.boggess@utoledo.edu
+   Username: ginny.boggess
+   Sports: Baseball
+   Title: Head Women's Basketball Coach
+   Original line: Ginny Boggess Head Women's Basketball Coach ginny.boggess@utoledo.edu 419-
+
+13. Geoff Lanier
+   Email: geoffrey.lanier@utoledo.edu
+   Username: geoffrey.lanier
+   Sports: Baseball
+   Title: Associate Head Women's Basketball Coach
+   Original line: Geoff Lanier Associate Head Women's Basketball Coach geoffrey.lanier@utoledo.edu 419-
+
+14. Takima Keane
+   Email: takima.keane@utoledo.edu
+   Username: takima.keane
+   Sports: Baseball
+   Title: Assistant Women's Basketball Coach
+   Original line: Takima Keane Assistant Women's Basketball Coach takima.keane@utoledo.edu 419-
+
+15. Hailey Yohn
+   Email: hailey.yohn@utoledo.edu
+   Username: hailey.yohn
+   Sports: Baseball
+   Title: s Basketball Coach/Recruiting
+   Original line: Hailey Yohn Assistant Women's Basketball Coach/Recruiting hailey.yohn@utoledo.edu 419-
+
+16. Shelby Tincher
+   Email: cheer@utoledo.edu
+   Username: cheer
+   Sports: Baseball
+   Title: Head Cheerleading Coach
+   Original line: Shelby Tincher Head Cheerleading Coach cheer@utoledo.edu
+
+17. Maddy Driscoll
+   Email: cheer@utoledo.edu
+   Username: cheer
+   Sports: Baseball
+   Title: Assistant Cheerleading Coach
+   Original line: Maddy Driscoll Assistant Cheerleading Coach cheer@utoledo.edu
+
+18. Louis Vazquez
+   Email: louis.vazquez@utoledo.edu
+   Username: louis.vazquez
+   Sports: Baseball
+   Title: Associate Head Cross Country and Track & Field Coach
+   Original line: Louis Vazquez Associate Head Cross Country and Track & Field Coach louis.vazquez@utoledo.edu
+
+19. Ronnie Brandal
+   Email: ronald.brandal@utoledo.edu
+   Username: ronald.brandal
+   Sports: Baseball
+   Title: Assistant Cross Country/Track & Field Coach
+   Original line: Ronnie Brandal Assistant Cross Country/Track & Field Coach ronald.brandal@utoledo.edu
+
+20. Tim Bennett
+   Email: timothy.bennett@utoledo.edu
+   Username: timothy.bennett
+   Sports: Football
+   Title: Assistant Defensive Backs Coach
+   Original line: Tim Bennett Assistant Defensive Backs Coach timothy.bennett@utoledo.edu 419-
+
+21. Max Wray
+   Email: maxwell.wray@rockets.utoledo.edu
+   Username: maxwell.wray
+   Sports: Football
+   Title: Assistant Offensive Line Coach
+   Original line: Max Wray Assistant Offensive Line Coach maxwell.wray@rockets.utoledo.edu 419-
+
+22. Jeff Roope
+   Email: jeffrey.roope@utoledo.edu
+   Username: jeffrey.roope
+   Sports: Football
+   Title: Head Men's Golf Coach
+   Original line: Jeff Roope Head Men's Golf Coach jeffrey.roope@utoledo.edu 419-
+
+23. Kevin Kuhl
+   Email: kevin.kuhl@utoledo.edu
+   Username: kevin.kuhl
+   Sports: Football
+   Title: Assistant Men's Golf Coach
+   Original line: Kevin Kuhl Assistant Men's Golf Coach kevin.kuhl@utoledo.edu 419-
+
+24. Ali Green
+   Email: alison.green@utoledo.edu
+   Username: alison.green
+   Sports: Football
+   Title: Head Women's Golf Coach
+   Original line: Ali Green Head Women's Golf Coach alison.green@utoledo.edu 419-
+
+25. Stephanie Gillette
+   Email: stephanie.gillette@utoledo.edu
+   Username: stephanie.gillette
+   Sports: Football
+   Title: Assistant Women's Golf Coach
+   Original line: Stephanie Gillette Assistant Women's Golf Coach stephanie.gillette@utoledo.edu 419-
+
+26. Chris Bailey-Greene
+   Email: christopher.greene@utoledo.edu
+   Username: christopher.greene
+   Sports: Football
+   Title: Head Women's Rowing Coach
+   Original line: Chris Bailey-Greene Head Women's Rowing Coach christopher.greene@utoledo.edu 513-
+
+27. Anna Can
+   Email: anna.can@utoledo.edu
+   Username: anna.can
+   Sports: Football
+   Title: Assistant Women's Rowing Coach
+   Original line: Anna Can Assistant Women's Rowing Coach anna.can@utoledo.edu 614-
+
+28. Abby Goodwin
+   Email: abigail.goodwin@utoledo.edu
+   Username: abigail.goodwin
+   Sports: Football
+   Title: Assistant Women's Rowing Coach
+   Original line: Abby Goodwin Assistant Women's Rowing Coach abigail.goodwin@utoledo.edu 419-
+
+29. Jessica Bracamonte
+   Email: jessica.bracamonte@utoledo.edu
+   Username: jessica.bracamonte
+   Sports: Softball
+   Title: Head Softball Coach
+   Original line: Jessica Bracamonte Head Softball Coach jessica.bracamonte@utoledo.edu 419-
+
+30. Kayla Noch
+   Email: kayla.noch@utoledo.edu
+   Username: kayla.noch
+   Sports: Softball
+   Title: Assistant Softball Coach
+   Original line: Kayla Noch Assistant Softball Coach kayla.noch@utoledo.edu 419-
+
+31. Staci Chambers
+   Email: staci.chambers@utoledo.edu
+   Username: staci.chambers
+   Sports: Softball
+   Title: Pitching Coach
+   Original line: Staci Chambers Pitching Coach staci.chambers@utoledo.edu
+
+32. Mark Batman
+   Email: mark.batman@utoledo.edu
+   Username: mark.batman
+   Sports: Softball
+   Title: Head Women's Soccer Coach
+   Original line: Mark Batman Head Women's Soccer Coach mark.batman@utoledo.edu 419-
+
+33. Sam Turner
+   Email: samantha.tiongson@utoledo.edu
+   Username: samantha.tiongson
+   Sports: Softball
+   Title: Assistant Women's Soccer Coach
+   Original line: Sam Turner Assistant Women's Soccer Coach samantha.tiongson@utoledo.edu 419-
+
+34. Cliff Brandmier
+   Email: cliff.brandmier@utoledo.edu
+   Username: cliff.brandmier
+   Sports: Softball
+   Title: Assistant Women's Soccer Coach
+   Original line: Cliff Brandmier Assistant Women's Soccer Coach cliff.brandmier@utoledo.edu 419-
+
+35. Chloe Tadolini
+   Email: Chloe.Tadolini@rockets.utoledo.edu
+   Username: Chloe.Tadolini
+   Sports: Softball
+   Title: s Soccer Assistant Coach/Director of
+   Original line: Chloe Tadolini Women's Soccer Assistant Coach/Director of Chloe.Tadolini@rockets.utoledo.edu
+
+36. Jacy Dyer
+   Email: jacy.dyer@utoledo.edu
+   Username: jacy.dyer
+   Sports: Softball
+   Title: Head Swimming & Diving Coach
+   Original line: Jacy Dyer Head Swimming & Diving Coach jacy.dyer@utoledo.edu 419-
+
+37. John Stewart
+   Email: john.stewart4@utoledo.edu
+   Username: john.stewart4
+   Sports: Softball
+   Title: Assistant Swimming & Diving Coach
+   Original line: John Stewart Assistant Swimming & Diving Coach john.stewart4@utoledo.edu
+
+38. Al Wermer
+   Email: alan.wermer@utoledo.edu
+   Username: alan.wermer
+   Sports: Softball
+   Title: Head Men's Tennis Coach
+   Original line: Al Wermer Head Men's Tennis Coach alan.wermer@utoledo.edu 419-
+
+39. Hiroki Fujita
+   Email: hiroki.fujita@utoledo.edu
+   Username: hiroki.fujita
+   Sports: Softball
+   Title: Assistant Men's Tennis Coach
+   Original line: Hiroki Fujita Assistant Men's Tennis Coach hiroki.fujita@utoledo.edu
+
+40. Tracy Mauntler
+   Email: tracy.honko@utoledo.edu
+   Username: tracy.honko
+   Sports: Softball
+   Title: Head Women's Tennis Coach
+   Original line: Tracy Mauntler Head Women's Tennis Coach tracy.honko@utoledo.edu 419-
+
+41. Adam Kovac
+   Email: adam.kovac@rockets.utoledo.edu
+   Username: adam.kovac
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Adam Kovac Graduate Assistant Coach adam.kovac@rockets.utoledo.edu
+
+42. Louis Vazquez
+   Email: louis.vazquez@utoledo.edu
+   Username: louis.vazquez
+   Sports: Softball
+   Title: Associate Head Cross Country and Track & Field Coach
+   Original line: Louis Vazquez Associate Head Cross Country and Track & Field Coach louis.vazquez@utoledo.edu
+
+43. Devin Quinn
+   Email: devin.quinn@utoledo.edu
+   Username: devin.quinn
+   Sports: Softball
+   Title: Assistant Track & Field Coach
+   Original line: Devin Quinn Assistant Track & Field Coach devin.quinn@utoledo.edu 419-
+
+44. Ronnie Brandal
+   Email: ronald.brandal@utoledo.edu
+   Username: ronald.brandal
+   Sports: Softball
+   Title: Assistant Cross Country/Track & Field Coach
+   Original line: Ronnie Brandal Assistant Cross Country/Track & Field Coach ronald.brandal@utoledo.edu
+
+45. Brian Wright
+   Email: brian.wright2@utoledo.edu
+   Username: brian.wright2
+   Sports: Softball
+   Title: Head Women's Volleyball Coach
+   Original line: Brian Wright Head Women's Volleyball Coach brian.wright2@utoledo.edu 419-
+
+46. Bethany Lokken
+   Email: bethany.martin3@utoledo.edu
+   Username: bethany.martin3
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Bethany Lokken Assistant Women's Volleyball Coach bethany.martin3@utoledo.edu 419-
+
+47. Jordan Armstrong
+   Email: jordan.armstrong@utoledo.edu
+   Username: jordan.armstrong
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Jordan Armstrong Assistant Women's Volleyball Coach jordan.armstrong@utoledo.edu 419-
+
+48. Trinity Adams
+   Email: trinity.adams@rockets.utoledo.edu
+   Username: trinity.adams
+   Sports: Softball
+   Title: Assistant Women's Volleyball Coach
+   Original line: Trinity Adams Assistant Women's Volleyball Coach trinity.adams@rockets.utoledo.edu
+
+49. Kyle Consultant
+   Email: kyle.winslow@utoledo.edu
+   Username: kyle.winslow
+   Sports: Baseball
+   Title: coach
+   Original line: BASEBALL COACHING STAFF kyle.winslow@utoledo.edu
+
+50.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S BASKETBALL COACHING STAFF
+
+51. Tod Kowalczyk
+   Email: 
+   Username: tod.kowalczyk
+   Sports: Basketball
+   Title: s Basketball Coach
+   Original line: Tod Kowalczyk Head Men's Basketball Coach 419-
+
+52.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S BASKETBALL COACHING STAFF
+
+53.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: FOOTBALL COACHING STAFF
+
+54. Jason Candle
+   Email: 
+   Username: jason.candle
+   Sports: Soccer
+   Title: Jason Candle Head Football Coach
+   Original line: Jason Candle Head Football Coach 419-
+
+55. Vince Kehres
+   Email: 
+   Username: vince.kehres
+   Sports: Soccer
+   Title: Vince Kehres Defensive Coordinator/Linebackers Coach
+   Original line: Vince Kehres Defensive Coordinator/Linebackers Coach 419-
+
+56. Ross Watson
+   Email: 
+   Username: ross.watson
+   Sports: Soccer
+   Title: Ross Watson Co-Defensive Coordinator/Safeties Coach
+   Original line: Ross Watson Co-Defensive Coordinator/Safeties Coach 419-
+
+57. Mike Hallett
+   Email: 
+   Username: mike.hallett
+   Sports: Soccer
+   Title: Mike Hallett Co-Offensive Coordinator/Offensive Line Coach
+   Original line: Mike Hallett Co-Offensive Coordinator/Offensive Line Coach 419-
+
+58. Robert Weiner
+   Email: 
+   Username: robert.weiner
+   Sports: Soccer
+   Title: Robert Weiner Co-Offensive Coordinator/Quarterbacks Coach
+   Original line: Robert Weiner Co-Offensive Coordinator/Quarterbacks Coach 419-
+
+59. Nate Backs
+   Email: 
+   Username: nate.backs
+   Sports: Soccer
+   Title: Nate Cole Running Backs Coach
+   Original line: Nate Cole Running Backs Coach 419-
+
+60. Perry Game
+   Email: 
+   Username: perry.game
+   Sports: Soccer
+   Title: Perry Eliano Defensive Pass Game Coordinator/Cornerbacks Coach
+   Original line: Perry Eliano Defensive Pass Game Coordinator/Cornerbacks Coach 419-
+
+61. RJ Receivers
+   Email: 
+   Username: rj.receivers
+   Sports: Soccer
+   Title: RJ Fleming Wide Receivers Coach
+   Original line: RJ Fleming Wide Receivers Coach 419-
+
+62. Derek Ends
+   Email: 
+   Username: derek.ends
+   Sports: Soccer
+   Title: Derek Sage Tight Ends Coach
+   Original line: Derek Sage Tight Ends Coach 419-
+
+63. LaTroy Line
+   Email: 
+   Username: latroy.line
+   Sports: Soccer
+   Title: LaTroy Lewis Defensive Line Coach
+   Original line: LaTroy Lewis Defensive Line Coach
+
+64. Travell Quality
+   Email: travell.harris@utoledo.edu
+   Username: travell.harris
+   Sports: Golf
+   Title: coach
+   Original line: MEN'S GOLF COACHING STAFF travell.harris@utoledo.edu
+
+65.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S GOLF COACHING STAFF
+
+66.  
+   Email: 
+   Username: 
+   Sports: Rowing
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S ROWING COACHING STAFF
+
+67.  
+   Email: 
+   Username: 
+   Sports: Softball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: SOFTBALL COACHING STAFF
+
+68.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S SOCCER COACHING STAFF
+
+69.  
+   Email: 
+   Username: 
+   Sports: Swimming
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S SWIMMING/DIVING COACHING STAFF
+
+70. Sam Heywood
+   Email: 
+   Username: sam.heywood
+   Sports: Swimming
+   Title: Sam Heywood Assistant Swimming & Diving Coach
+   Original line: Sam Heywood Assistant Swimming & Diving Coach
+
+71.  
+   Email: 
+   Username: 
+   Sports: Tennis
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S TENNIS COACHING STAFF
+
+72.  
+   Email: 
+   Username: 
+   Sports: Tennis
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S TENNIS COACHING STAFF
+
+73. Cassie Alcala
+   Email: 
+   Username: cassie.alcala
+   Sports: Tennis
+   Title: Assistant Coach
+   Original line: Cassie Alcala Women's Tennis Assistant Coach
+
+74.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S TRACK & FIELD COACHING STAFF
+
+75. Andrea Grove-McDonough
+   Email: andrea.grove@utoledo.edu
+   Username: andrea.grove
+   Sports: Volleyball
+   Title: coach
+   Original line: WOMEN'S VOLLEYBALL COACHING STAFF andrea.grove@utoledo.edu
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Brandon Palidar Assistant Strength & Conditioning Coach brandon.palidar@utoledo.edu
+• Holden Tincher Assistant Strength & Conditioning Coach holden.tincher@utoledo.edu 419-
+• Ben Wielgopolski Assistant Strength & Conditioning Coach benjamin.wielgopolski@utoledo.edu
+• Rob Reinstetle Head Baseball Coach robert.reinstetle@utoledo.edu 419-
+• Pat Cottrell Assistant Baseball Coach patrick.cottrell@utoledo.edu 419-
+• Santi Garcia Assistant Baseball Coach santiago.garcia@utoledo.edu 419-
+• Jacob Condra-Bogan Assistant Baseball Coach/Pitching Coach jacob.condra-bogan@utoledo.edu
+• Jeff Massey Associate Head Men's Basketball Coach jeffrey.massey@utoledo.edu 419-
+• Justin Ingram Associate Head Men's Basketball Coach justin.ingram@utoledo.edu 419-
+• Jordan Lauf Assistant Men's Basketball Coach jordan.lauf@utoledo.edu 419-
+• Brandon Pritzl Assistant Men's Basketball Coach brandon.pritzl@utoledo.edu 419-
+• Ginny Boggess Head Women's Basketball Coach ginny.boggess@utoledo.edu 419-
+• Geoff Lanier Associate Head Women's Basketball Coach geoffrey.lanier@utoledo.edu 419-
+• Takima Keane Assistant Women's Basketball Coach takima.keane@utoledo.edu 419-
+• Hailey Yohn Assistant Women's Basketball Coach/Recruiting hailey.yohn@utoledo.edu 419-
+• Shelby Tincher Head Cheerleading Coach cheer@utoledo.edu
+• Maddy Driscoll Assistant Cheerleading Coach cheer@utoledo.edu
+• Louis Vazquez Associate Head Cross Country and Track & Field Coach louis.vazquez@utoledo.edu
+• Ronnie Brandal Assistant Cross Country/Track & Field Coach ronald.brandal@utoledo.edu
+• Tim Bennett Assistant Defensive Backs Coach timothy.bennett@utoledo.edu 419-
+• Max Wray Assistant Offensive Line Coach maxwell.wray@rockets.utoledo.edu 419-
+• Jeff Roope Head Men's Golf Coach jeffrey.roope@utoledo.edu 419-
+• Kevin Kuhl Assistant Men's Golf Coach kevin.kuhl@utoledo.edu 419-
+• Ali Green Head Women's Golf Coach alison.green@utoledo.edu 419-
+• Stephanie Gillette Assistant Women's Golf Coach stephanie.gillette@utoledo.edu 419-
+• Chris Bailey-Greene Head Women's Rowing Coach christopher.greene@utoledo.edu 513-
+• Anna Can Assistant Women's Rowing Coach anna.can@utoledo.edu 614-
+• Abby Goodwin Assistant Women's Rowing Coach abigail.goodwin@utoledo.edu 419-
+• Jessica Bracamonte Head Softball Coach jessica.bracamonte@utoledo.edu 419-
+• Kayla Noch Assistant Softball Coach kayla.noch@utoledo.edu 419-
+• Staci Chambers Pitching Coach staci.chambers@utoledo.edu
+• Mark Batman Head Women's Soccer Coach mark.batman@utoledo.edu 419-
+• Sam Turner Assistant Women's Soccer Coach samantha.tiongson@utoledo.edu 419-
+• Cliff Brandmier Assistant Women's Soccer Coach cliff.brandmier@utoledo.edu 419-
+• Chloe Tadolini Women's Soccer Assistant Coach/Director of Chloe.Tadolini@rockets.utoledo.edu
+• Jacy Dyer Head Swimming & Diving Coach jacy.dyer@utoledo.edu 419-
+• John Stewart Assistant Swimming & Diving Coach john.stewart4@utoledo.edu
+• Al Wermer Head Men's Tennis Coach alan.wermer@utoledo.edu 419-
+• Hiroki Fujita Assistant Men's Tennis Coach hiroki.fujita@utoledo.edu
+• Tracy Mauntler Head Women's Tennis Coach tracy.honko@utoledo.edu 419-
+• Adam Kovac Graduate Assistant Coach adam.kovac@rockets.utoledo.edu
+• Louis Vazquez Associate Head Cross Country and Track & Field Coach louis.vazquez@utoledo.edu
+• Devin Quinn Assistant Track & Field Coach devin.quinn@utoledo.edu 419-
+• Ronnie Brandal Assistant Cross Country/Track & Field Coach ronald.brandal@utoledo.edu
+• Brian Wright Head Women's Volleyball Coach brian.wright2@utoledo.edu 419-
+• Bethany Lokken Assistant Women's Volleyball Coach bethany.martin3@utoledo.edu 419-
+• Jordan Armstrong Assistant Women's Volleyball Coach jordan.armstrong@utoledo.edu 419-
+• Trinity Adams Assistant Women's Volleyball Coach trinity.adams@rockets.utoledo.edu

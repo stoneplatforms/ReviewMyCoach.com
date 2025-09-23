@@ -1,0 +1,792 @@
+COACH ENTRIES FOUND - 2025-09-23 17:26:57
+============================================================
+
+SCHOOL CONTEXT
+----------------------------------------
+University: Tiffin University
+Organization: Tiffin University Athletics
+
+Total coaches found: 98
+
+PARSED ENTRIES:
+----------------------------------------
+1. Mitchell Faine
+   Email: fainemw@tiffin.edu
+   Username: fainemw
+   Sports: Strength & Conditioning
+   Title: Head Strength & Conditioning Coach
+   Original line: Mitchell Faine Head Strength & Conditioning Coach fainemw@tiffin.edu 419-448-
+
+2. Troy Merriman
+   Email: merrimantr@tiffin.edu
+   Username: merrimantr
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Troy Merriman Head Coach merrimantr@tiffin.edu 419-448-
+
+3. Michael Boswell
+   Email: baseball@tiffin.edu
+   Username: baseball
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Michael Boswell Assistant Coach baseball@tiffin.edu 419-448-
+
+4. Desmond Balentine
+   Email: balentinedj@tiffin.edu
+   Username: balentinedj
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Desmond Balentine Head Coach balentinedj@tiffin.edu 419-448-
+
+5. John Tenerowicz
+   Email: tenerowiczjm@tiffin.edu
+   Username: tenerowiczjm
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: John Tenerowicz Assistant Coach tenerowiczjm@tiffin.edu 419-448-
+
+6. Dillon Schwanbeck
+   Email: schwanbeckd@tiffin.edu
+   Username: schwanbeckd
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Dillon Schwanbeck Graduate Assistant Coach schwanbeckd@tiffin.edu
+
+7. Josh Mason
+   Email: masonjo@tiffin.edu
+   Username: masonjo
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Josh Mason Head Coach masonjo@tiffin.edu 419-448-
+
+8. Alexandria Fanning
+   Email: fanningac@tiffin.edu
+   Username: fanningac
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Alexandria Fanning Assistant Coach fanningac@tiffin.edu 419-448-
+
+9. Abram Volunteer
+   Email: kaplea@tiffin.edu
+   Username: kaplea
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Abram Kaple Volunteer Assistant Coach | Recruiting Coordinator kaplea@tiffin.edu 419-448-
+
+10. Courtney Klatt
+   Email: klattc@tiffin.edu
+   Username: klattc
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Courtney Klatt Assistant Coach klattc@tiffin.edu
+
+11. Courtney Klatt
+   Email: klattc@tiffin.edu
+   Username: klattc
+   Sports: Baseball
+   Title: Assistant Coach
+   Original line: Courtney Klatt Assistant Coach klattc@tiffin.edu
+
+12. Brett Ybarra
+   Email: ybarrabj@tiffin.edu
+   Username: ybarrabj
+   Sports: Baseball
+   Title: Head Coach
+   Original line: Brett Ybarra Head Coach ybarrabj@tiffin.edu 419-934-
+
+13. Breno Acedo
+   Email: acedodecamargob@tiffin.edu
+   Username: acedodecamargob
+   Sports: Baseball
+   Title: De Camargo Graduate Assistant Coach
+   Original line: Breno Acedo De Camargo Graduate Assistant Coach acedodecamargob@tiffin.edu
+
+14. Landon Forsyth
+   Email: forsythlc@tiffin.edu
+   Username: forsythlc
+   Sports: Baseball
+   Title: Graduate Assistant Coach
+   Original line: Landon Forsyth Graduate Assistant Coach forsythlc@tiffin.edu
+
+15. Brett Ekkens
+   Email: ekkensba@tiffin.edu
+   Username: ekkensba
+   Sports: Football
+   Title: Head Coach
+   Original line: Brett Ekkens Head Coach - 2nd season ekkensba@tiffin.edu 419-448-
+
+16. James Daniels
+   Email: danielsja@tiffin.edu
+   Username: danielsja
+   Sports: Football
+   Title: Assistant Coach - Def
+   Original line: James Daniels Assistant Coach - Def. Coord./Def. Backs/Acad. Coord. - 2nd danielsja@tiffin.edu 419-448-
+
+17. Zack Blair
+   Email: blairzs@tiffin.edu
+   Username: blairzs
+   Sports: Football
+   Title: Assistant Coach - Off
+   Original line: Zack Blair Assistant Coach - Off. Coord./Quarterbacks/Recruiting Coord. - 2nd blairzs@tiffin.edu 419-448-
+
+18. Bennett White
+   Email: whitebew@tiffin.edu
+   Username: whitebew
+   Sports: Football
+   Title: Head Coach - Wide Receivers
+   Original line: Bennett White Associate Head Coach - Wide Receivers - 3rd season whitebew@tiffin.edu 419-448-
+
+19. Caleb Rufener
+   Email: rufenercd@tiffin.edu
+   Username: rufenercd
+   Sports: Football
+   Title: Assistant Coach - Run Game Coord
+   Original line: Caleb Rufener Assistant Coach - Run Game Coord./Off. Line - 2nd season rufenercd@tiffin.edu 419-448-
+
+20. Zane Cox
+   Email: coxza@tiffin.edu
+   Username: coxza
+   Sports: Football
+   Title: Assistant Coach - STR/Specialist
+   Original line: Zane Cox Assistant Coach - STR/Specialist - 2nd season coxza@tiffin.edu TBA
+
+21. Randy Wright
+   Email: wrightran@tiffin.edu
+   Username: wrightran
+   Sports: Football
+   Title: Assistant Coach - Def
+   Original line: Randy Wright Assistant Coach - Def. Line/Pro Liaison - 2nd season wrightran@tiffin.edu 419-448-
+
+22. Jordan Armstrong
+   Email: armstrongjorw@tiffin.edu
+   Username: armstrongjorw
+   Sports: Football
+   Title: Assistant Coach - Tight Ends
+   Original line: Jordan Armstrong Assistant Coach - Tight Ends - 2nd season armstrongjorw@tiffin.edu 567-268-
+
+23. Marco Aguinaga
+   Email: aguinagam@tiffin.edu
+   Username: aguinagam
+   Sports: Football
+   Title: Assistant Coach - Running Backs
+   Original line: Marco Aguinaga Assistant Coach - Running Backs - 2nd season aguinagam@tiffin.edu 567-268-
+
+24. Dwight Jackson
+   Email: jacksondw@tiffin.edu
+   Username: jacksondw
+   Sports: Football
+   Title: Assistant Coach - Linebackers
+   Original line: Dwight Jackson Assistant Coach - Linebackers - 1st season jacksondw@tiffin.edu 419-448-
+
+25. Matt Whitton
+   Email: whittonm@tiffin.edu
+   Username: whittonm
+   Sports: Football
+   Title: Assistant Coach - Asst
+   Original line: Matt Whitton Assistant Coach - Asst. Def. Backs - 1st season whittonm@tiffin.edu
+
+26. Kellen O'Neill
+   Email: oneillk@tiffin.edu
+   Username: oneillk
+   Sports: Football
+   Title: Assistant Coach - Special Teams Coord
+   Original line: Kellen O'Neill Assistant Coach - Special Teams Coord. - 1st season oneillk@tiffin.edu
+
+27. Adam Craig
+   Email: craiga@tiffin.edu
+   Username: craiga
+   Sports: Football
+   Title: Head Coach
+   Original line: Adam Craig Head Coach craiga@tiffin.edu 419-448-
+
+28. Hastha Rajendran
+   Email: rajendranhs@tiffin.edu
+   Username: rajendranhs
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Hastha Rajendran Graduate Assistant Coach rajendranhs@tiffin.edu 567-268-
+
+29. Dawn West
+   Email: westdm@tiffin.edu
+   Username: westdm
+   Sports: Football
+   Title: Head Coach
+   Original line: Dawn West Head Coach westdm@tiffin.edu 419-448-
+
+30. Hastha Rajendran
+   Email: rajendranhs@tiffin.edu
+   Username: rajendranhs
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Hastha Rajendran Graduate Assistant Coach rajendranhs@tiffin.edu 567-268-
+
+31. Travis Brown
+   Email: browntra@tiffin.edu
+   Username: browntra
+   Sports: Football
+   Title: Head Coach
+   Original line: Travis Brown Head Coach browntra@tiffin.edu 419-448-
+
+32. Ryan Stow
+   Email: stowrt@tiffin.edu
+   Username: stowrt
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Ryan Stow Assistant Coach stowrt@tiffin.edu 503-713-
+
+33. Samantha Cozzolino
+   Email: cozzolinosm@tiffin.edu
+   Username: cozzolinosm
+   Sports: Football
+   Title: Head Coach
+   Original line: Samantha Cozzolino Head Coach cozzolinosm@tiffin.edu 567-268-
+
+34. Jenay Rennie
+   Email: renniejl@tiffin.edu
+   Username: renniejl
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Jenay Rennie Graduate Assistant Coach renniejl@tiffin.edu
+
+35. Rudy Brownell
+   Email: rbrownel@tiffin.edu
+   Username: rbrownel
+   Sports: Football
+   Title: Head Coach
+   Original line: Rudy Brownell Head Coach rbrownel@tiffin.edu 419-448-
+
+36. Nathan Ewing
+   Email: ewingnr@tiffin.edu
+   Username: ewingnr
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Nathan Ewing Assistant Coach ewingnr@tiffin.edu 567-230-
+
+37. Christopher Coridon
+   Email: coridoncc@tiffin.edu
+   Username: coridoncc
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Christopher Coridon Assistant Coach coridoncc@tiffin.edu 609-578-
+
+38. Jack Atkinson
+   Email: atkinsonjar@tiffin.edu
+   Username: atkinsonjar
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Jack Atkinson Graduate Assistant Coach atkinsonjar@tiffin.edu 513-222-
+
+39. George McCarthy
+   Email: mccarthygs@tiffin.edu
+   Username: mccarthygs
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: George McCarthy Graduate Assistant Coach mccarthygs@tiffin.edu 567-268-
+
+40. PJ Derksen
+   Email: derksenpj@tiffin.edu
+   Username: derksenpj
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: PJ Derksen Graduate Assistant Coach derksenpj@tiffin.edu
+
+41. Michael Cracas
+   Email: cracasmw@tiffin.edu
+   Username: cracasmw
+   Sports: Football
+   Title: Head Coach
+   Original line: Michael Cracas Head Coach cracasmw@tiffin.edu 419-448-
+
+42. Brad Urig
+   Email: urigb@tiffin.edu
+   Username: urigb
+   Sports: Football
+   Title: Assistant Coach
+   Original line: Brad Urig Assistant Coach urigb@tiffin.edu 419-448-
+
+43. Chloe Bailey
+   Email: baileych@tiffin.edu
+   Username: baileych
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Chloe Bailey Graduate Assistant Coach baileych@tiffin.edu 419-455-
+
+44. Elisabeth Ptacek
+   Email: ptacekeb@tiffin.edu
+   Username: ptacekeb
+   Sports: Football
+   Title: Graduate Assistant Coach
+   Original line: Elisabeth Ptacek Graduate Assistant Coach ptacekeb@tiffin.edu 330-858-
+
+45. Paige McMenemy
+   Email: mcmenemype@tiffin.edu
+   Username: mcmenemype
+   Sports: Softball
+   Title: Head Coach
+   Original line: Paige McMenemy Head Coach mcmenemype@tiffin.edu 419-448-
+
+46. Megan McMenemy
+   Email: mcmenemyme@tiffin.edu
+   Username: mcmenemyme
+   Sports: Softball
+   Title: Bammann Assistant Coach
+   Original line: Megan (McMenemy) Bammann Assistant Coach mcmenemyme@tiffin.edu 419-448-
+
+47. Cassie Bump
+   Email: bumpcl@tiffin.edu
+   Username: bumpcl
+   Sports: Softball
+   Title: Head Coach
+   Original line: Cassie Bump Head Coach bumpcl@tiffin.edu 419-448-
+
+48. Maranda Paul
+   Email: butlermar@tiffin.edu
+   Username: butlermar
+   Sports: Softball
+   Title: Assistant Coach
+   Original line: Maranda Paul Assistant Coach butlermar@tiffin.edu 567-268-
+
+49. Phil Conley
+   Email: conleypt@tiffin.edu
+   Username: conleypt
+   Sports: Softball
+   Title: Head Coach
+   Original line: Phil Conley Head Coach conleypt@tiffin.edu 419-448-
+
+50. Matthew Telford
+   Email: telfordmj@tiffin.edu
+   Username: telfordmj
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Matthew Telford Graduate Assistant Coach telfordmj@tiffin.edu 419-448-
+
+51. Owen McEldowney
+   Email: mceldowneyzo@tiffin.edu
+   Username: mceldowneyzo
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Owen McEldowney Graduate Assistant Coach mceldowneyzo@tiffin.edu
+
+52. Phil Conley
+   Email: conleypt@tiffin.edu
+   Username: conleypt
+   Sports: Softball
+   Title: Head Coach
+   Original line: Phil Conley Head Coach conleypt@tiffin.edu 419-448-
+
+53. Sarah Roy
+   Email: roysm@tiffin.edu
+   Username: roysm
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Sarah Roy Graduate Assistant Coach roysm@tiffin.edu 419-448-
+
+54. Timothy Richardson
+   Email: richardsontl@tiffin.edu
+   Username: richardsontl
+   Sports: Softball
+   Title: Graduate Assistant Coach
+   Original line: Timothy Richardson Graduate Assistant Coach richardsontl@tiffin.edu 419-448-
+
+55. Adam Pennington
+   Email: penningtonaj@tiffin.edu
+   Username: penningtonaj
+   Sports: Softball
+   Title: Assistant Coach - Vertical Jumps
+   Original line: Adam Pennington Assistant Coach - Vertical Jumps | Director of Operations penningtonaj@tiffin.edu 567-268-
+
+56. Courtney Klatt
+   Email: klattc@tiffin.edu
+   Username: klattc
+   Sports: Softball
+   Title: Assistant Coach - Distance
+   Original line: Courtney Klatt Assistant Coach - Distance klattc@tiffin.edu
+
+57. Gray Horn
+   Email: horngk@tiffin.edu
+   Username: horngk
+   Sports: Softball
+   Title: Assistant Coach - Sprints
+   Original line: Gray Horn Assistant Coach - Sprints | Hurdles | Relays horngk@tiffin.edu
+
+58. Mary Boyden
+   Email: boydenm@tiffin.edu
+   Username: boydenm
+   Sports: Softball
+   Title: Assistant Coach - Throws
+   Original line: Mary Boyden Assistant Coach - Throws boydenm@tiffin.edu
+
+59. Adam Pennington
+   Email: penningtonaj@tiffin.edu
+   Username: penningtonaj
+   Sports: Softball
+   Title: Assistant Coach - Vertical Jumps
+   Original line: Adam Pennington Assistant Coach - Vertical Jumps | Director of Operations penningtonaj@tiffin.edu 567-268-
+
+60. Courtney Klatt
+   Email: klattc@tiffin.edu
+   Username: klattc
+   Sports: Softball
+   Title: Assistant Coach - Distance
+   Original line: Courtney Klatt Assistant Coach - Distance klattc@tiffin.edu
+
+61. Gray Horn
+   Email: horngk@tiffin.edu
+   Username: horngk
+   Sports: Softball
+   Title: Assistant Coach - Sprints
+   Original line: Gray Horn Assistant Coach - Sprints | Hurdles | Relays horngk@tiffin.edu
+
+62. Mary Boyden
+   Email: boydenm@tiffin.edu
+   Username: boydenm
+   Sports: Softball
+   Title: Assistant Coach - Throws
+   Original line: Mary Boyden Assistant Coach - Throws boydenm@tiffin.edu
+
+63. Cary Clark
+   Email: clarkcar@tiffin.edu
+   Username: clarkcar
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Cary Clark Head Coach clarkcar@tiffin.edu 419-448-
+
+64. Sam Fallis
+   Email: falliss@tiffin.edu
+   Username: falliss
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Sam Fallis Assistant Coach falliss@tiffin.edu 419-448-
+
+65. Karlie Kucharczyk
+   Email: kucharczykka@tiffin.edu
+   Username: kucharczykka
+   Sports: Volleyball
+   Title: Graduate Assistant Coach
+   Original line: Karlie Kucharczyk Graduate Assistant Coach kucharczykka@tiffin.edu
+
+66. Antonio Guerra
+   Email: guerraal@tiffin.edu
+   Username: guerraal
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Antonio Guerra Head Coach guerraal@tiffin.edu 419-448-
+
+67. Nate Hagan
+   Email: hagannc@tiffin.edu
+   Username: hagannc
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Nate Hagan Assistant Coach hagannc@tiffin.edu 419-448-
+
+68. Brandon Mendoza
+   Email: mendozabj@tiffin.edu
+   Username: mendozabj
+   Sports: Volleyball
+   Title: Volunteer Assistant Coach
+   Original line: Brandon Mendoza Volunteer Assistant Coach mendozabj@tiffin.edu 209-864-
+
+69. Chandler Minnard
+   Email: minnardcj@tiffin.edu
+   Username: minnardcj
+   Sports: Volleyball
+   Title: Head Coach
+   Original line: Chandler Minnard Head Coach minnardcj@tiffin.edu 419-448-
+
+70. Sugey Ceja
+   Email: cejas@tiffin.edu
+   Username: cejas
+   Sports: Volleyball
+   Title: Assistant Coach
+   Original line: Sugey Ceja Assistant Coach cejas@tiffin.edu 419-448-
+
+71. Graham Grider
+   Email: gridergp@tiffin.edu
+   Username: gridergp
+   Sports: Volleyball
+   Title: Volunteer Assistant Coach
+   Original line: Graham Grider Volunteer Assistant Coach gridergp@tiffin.edu 260-445-
+
+72. Dylan Curtin
+   Email: curtindl@tiffin.edu
+   Username: curtindl
+   Sports: Baseball
+   Title: coach
+   Original line: BASEBALL COACHES curtindl@tiffin.edu
+
+73. Brock Graduate
+   Email: 
+   Username: brock.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Brock Mullins Graduate Assistant Coach
+
+74. Isiah Graduate
+   Email: 
+   Username: isiah.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Isiah Lindsey Graduate Assistant Coach
+
+75.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S BASKETBALL COACHES
+
+76. Cole Graduate
+   Email: 
+   Username: cole.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Cole Simmons Graduate Assistant Coach
+
+77.  
+   Email: 
+   Username: 
+   Sports: Basketball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S BASKETBALL COACHES
+
+78. Aleysha Graduate
+   Email: 
+   Username: aleysha.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Aleysha Bechtel-Castanon Graduate Assistant Coach
+
+79. Abbi Graduate
+   Email: 
+   Username: abbi.graduate
+   Sports: Soccer
+   Title: Assistant Coach
+   Original line: Abbi Peterson Graduate Assistant Coach
+
+80.  
+   Email: 
+   Username: 
+   Sports: Cross Country
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S CROSS COUNTRY COACHES
+
+81. Mark Monaco
+   Email: delmonacom@tiffin.edu
+   Username: delmonacom
+   Sports: Cross Country
+   Title: coach
+   Original line: WOMEN'S CROSS COUNTRY COACHES delmonacom@tiffin.edu
+
+82.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: ESPORTS COACHES
+
+83.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: FOOTBALL COACHES
+
+84.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S GOLF COACHES
+
+85.  
+   Email: 
+   Username: 
+   Sports: Golf
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S GOLF COACHES
+
+86.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S LACROSSE COACHES
+
+87.  
+   Email: 
+   Username: 
+   Sports: Lacrosse
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S LACROSSE COACHES
+
+88.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S SOCCER COACHES
+
+89.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S SOCCER COACHES
+
+90.  
+   Email: 
+   Username: 
+   Sports: Softball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: SOFTBALL COACHES
+
+91.  
+   Email: 
+   Username: 
+   Sports: Soccer
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: STUNT COACHES
+
+92.  
+   Email: 
+   Username: 
+   Sports: Tennis
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S TENNIS COACHES
+
+93.  
+   Email: 
+   Username: 
+   Sports: Tennis
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S TENNIS COACHES
+
+94.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: MEN'S TRACK & FIELD COACHES
+
+95.  
+   Email: 
+   Username: 
+   Sports: Track & Field
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S TRACK & FIELD COACHES
+
+96.  
+   Email: 
+   Username: 
+   Sports: Volleyball
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: VOLLEYBALL COACHES
+
+97. Malachi Graduate
+   Email: adamsmala@tiffin.edu
+   Username: adamsmala
+   Sports: Wrestling
+   Title: coach
+   Original line: MEN'S WRESTLING COACHES adamsmala@tiffin.edu
+
+98.  
+   Email: 
+   Username: 
+   Sports: Wrestling
+   Title: coach
+   Note: No email found nearby; this entry will NOT be uploaded.
+   Original line: WOMEN'S WRESTLING COACHES
+
+
+============================================================
+RAW LINES WITH 'COACH' KEYWORD:
+----------------------------------------
+• Mitchell Faine Head Strength & Conditioning Coach fainemw@tiffin.edu 419-448-
+• Troy Merriman Head Coach merrimantr@tiffin.edu 419-448-
+• Michael Boswell Assistant Coach baseball@tiffin.edu 419-448-
+• Desmond Balentine Head Coach balentinedj@tiffin.edu 419-448-
+• John Tenerowicz Assistant Coach tenerowiczjm@tiffin.edu 419-448-
+• Dillon Schwanbeck Graduate Assistant Coach schwanbeckd@tiffin.edu
+• Josh Mason Head Coach masonjo@tiffin.edu 419-448-
+• Alexandria Fanning Assistant Coach fanningac@tiffin.edu 419-448-
+• Abram Kaple Volunteer Assistant Coach | Recruiting Coordinator kaplea@tiffin.edu 419-448-
+• Courtney Klatt Assistant Coach klattc@tiffin.edu
+• Courtney Klatt Assistant Coach klattc@tiffin.edu
+• Brett Ybarra Head Coach ybarrabj@tiffin.edu 419-934-
+• Breno Acedo De Camargo Graduate Assistant Coach acedodecamargob@tiffin.edu
+• Landon Forsyth Graduate Assistant Coach forsythlc@tiffin.edu
+• Brett Ekkens Head Coach - 2nd season ekkensba@tiffin.edu 419-448-
+• James Daniels Assistant Coach - Def. Coord./Def. Backs/Acad. Coord. - 2nd danielsja@tiffin.edu 419-448-
+• Zack Blair Assistant Coach - Off. Coord./Quarterbacks/Recruiting Coord. - 2nd blairzs@tiffin.edu 419-448-
+• Bennett White Associate Head Coach - Wide Receivers - 3rd season whitebew@tiffin.edu 419-448-
+• Caleb Rufener Assistant Coach - Run Game Coord./Off. Line - 2nd season rufenercd@tiffin.edu 419-448-
+• Zane Cox Assistant Coach - STR/Specialist - 2nd season coxza@tiffin.edu TBA
+• Randy Wright Assistant Coach - Def. Line/Pro Liaison - 2nd season wrightran@tiffin.edu 419-448-
+• Jordan Armstrong Assistant Coach - Tight Ends - 2nd season armstrongjorw@tiffin.edu 567-268-
+• Marco Aguinaga Assistant Coach - Running Backs - 2nd season aguinagam@tiffin.edu 567-268-
+• Dwight Jackson Assistant Coach - Linebackers - 1st season jacksondw@tiffin.edu 419-448-
+• Matt Whitton Assistant Coach - Asst. Def. Backs - 1st season whittonm@tiffin.edu
+• Kellen O'Neill Assistant Coach - Special Teams Coord. - 1st season oneillk@tiffin.edu
+• Adam Craig Head Coach craiga@tiffin.edu 419-448-
+• Hastha Rajendran Graduate Assistant Coach rajendranhs@tiffin.edu 567-268-
+• Dawn West Head Coach westdm@tiffin.edu 419-448-
+• Hastha Rajendran Graduate Assistant Coach rajendranhs@tiffin.edu 567-268-
+• Travis Brown Head Coach browntra@tiffin.edu 419-448-
+• Ryan Stow Assistant Coach stowrt@tiffin.edu 503-713-
+• Samantha Cozzolino Head Coach cozzolinosm@tiffin.edu 567-268-
+• Jenay Rennie Graduate Assistant Coach renniejl@tiffin.edu
+• Rudy Brownell Head Coach rbrownel@tiffin.edu 419-448-
+• Nathan Ewing Assistant Coach ewingnr@tiffin.edu 567-230-
+• Christopher Coridon Assistant Coach coridoncc@tiffin.edu 609-578-
+• Jack Atkinson Graduate Assistant Coach atkinsonjar@tiffin.edu 513-222-
+• George McCarthy Graduate Assistant Coach mccarthygs@tiffin.edu 567-268-
+• PJ Derksen Graduate Assistant Coach derksenpj@tiffin.edu
+• Michael Cracas Head Coach cracasmw@tiffin.edu 419-448-
+• Brad Urig Assistant Coach urigb@tiffin.edu 419-448-
+• Chloe Bailey Graduate Assistant Coach baileych@tiffin.edu 419-455-
+• Elisabeth Ptacek Graduate Assistant Coach ptacekeb@tiffin.edu 330-858-
+• Paige McMenemy Head Coach mcmenemype@tiffin.edu 419-448-
+• Megan (McMenemy) Bammann Assistant Coach mcmenemyme@tiffin.edu 419-448-
+• Cassie Bump Head Coach bumpcl@tiffin.edu 419-448-
+• Maranda Paul Assistant Coach butlermar@tiffin.edu 567-268-
+• Phil Conley Head Coach conleypt@tiffin.edu 419-448-
+• Matthew Telford Graduate Assistant Coach telfordmj@tiffin.edu 419-448-
+• Owen McEldowney Graduate Assistant Coach mceldowneyzo@tiffin.edu
+• Phil Conley Head Coach conleypt@tiffin.edu 419-448-
+• Sarah Roy Graduate Assistant Coach roysm@tiffin.edu 419-448-
+• Timothy Richardson Graduate Assistant Coach richardsontl@tiffin.edu 419-448-
+• Adam Pennington Assistant Coach - Vertical Jumps | Director of Operations penningtonaj@tiffin.edu 567-268-
+• Courtney Klatt Assistant Coach - Distance klattc@tiffin.edu
+• Gray Horn Assistant Coach - Sprints | Hurdles | Relays horngk@tiffin.edu
+• Mary Boyden Assistant Coach - Throws boydenm@tiffin.edu
+• Adam Pennington Assistant Coach - Vertical Jumps | Director of Operations penningtonaj@tiffin.edu 567-268-
+• Courtney Klatt Assistant Coach - Distance klattc@tiffin.edu
+• Gray Horn Assistant Coach - Sprints | Hurdles | Relays horngk@tiffin.edu
+• Mary Boyden Assistant Coach - Throws boydenm@tiffin.edu
+• Cary Clark Head Coach clarkcar@tiffin.edu 419-448-
+• Sam Fallis Assistant Coach falliss@tiffin.edu 419-448-
+• Karlie Kucharczyk Graduate Assistant Coach kucharczykka@tiffin.edu
+• Antonio Guerra Head Coach guerraal@tiffin.edu 419-448-
+• Nate Hagan Assistant Coach hagannc@tiffin.edu 419-448-
+• Brandon Mendoza Volunteer Assistant Coach mendozabj@tiffin.edu 209-864-
+• Chandler Minnard Head Coach minnardcj@tiffin.edu 419-448-
+• Sugey Ceja Assistant Coach cejas@tiffin.edu 419-448-
+• Graham Grider Volunteer Assistant Coach gridergp@tiffin.edu 260-445-
