@@ -316,28 +316,10 @@ export default function DynamicSportsMosaic() {
     return (
       <div className="bg-black relative">
         <div className="w-full">
-          <div className="grid grid-cols-6 grid-rows-4 gap-0 w-full h-screen">
-            {SPORTS_CONFIG.map((sport, index) => (
-              <div
-                key={sport.searchTerm}
-                className={`${sport.gridClass} group relative`}
-              >
-                <div className={`w-full h-full bg-gradient-to-br ${sport.gradient} transition-all duration-300 opacity-70 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center`} 
-                     style={{backgroundImage: `url(${sport.backgroundImage})`}}>
-                  <div className="absolute inset-0 bg-black/40"></div>
-                  <div className="relative z-10">
-                    <div className={sport.textSize}>{sport.emoji}</div>
-                    <h3 className={`text-white font-bold mb-2 ${
-                      sport.gridClass.includes('row-span-2') ? 'text-2xl' : 
-                      sport.gridClass.includes('col-span-2') ? 'text-xl' : 'text-lg'
-                    }`}>
-                      {sport.name}
-                    </h3>
-                    <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium animate-pulse">
-                      ...
-                    </div>
-                  </div>
-                </div>
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 p-4">
+            {SPORTS_CONFIG.map((sport) => (
+              <div key={sport.searchTerm} className="group relative min-h-[16rem] sm:min-h-[18rem] md:min-h-[20rem] rounded-xl overflow-hidden bg-neutral-900/80">
+                <div className="absolute inset-0 bg-neutral-800 animate-pulse" />
               </div>
             ))}
           </div>
@@ -347,30 +329,21 @@ export default function DynamicSportsMosaic() {
   }
 
   return (
-    <div className="bg-black relative">
+    <div className="bg-neutral-950 relative">
       <div className="w-full">
-        {/* Dynamic Sports Mosaic */}
-        <div className="grid grid-cols-6 grid-rows-4 gap-0 w-full h-screen">
+        {/* Minimal sport cards grid */}
+        <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 p-4">
           {SPORTS_CONFIG.map((sport) => (
-            <Link
-              key={sport.searchTerm}
-              href={`/search?q=${sport.searchTerm}`}
-              className={`${sport.gridClass} group relative`}
-            >
-              <div className={`w-full h-full bg-gradient-to-br ${sport.gradient} transition-all duration-300 opacity-70 hover:opacity-100 flex flex-col items-center justify-center text-center relative overflow-hidden bg-cover bg-center`} 
-                   style={{backgroundImage: `url(${sport.backgroundImage})`}}>
-                <div className="absolute inset-0 bg-black/40 transition-colors duration-300"></div>
-                <div className="relative z-10">
-                  <div className={sport.textSize}>{sport.emoji}</div>
-                  <h3 className={`text-white font-bold mb-2 ${
-                    sport.gridClass.includes('row-span-2') ? 'text-2xl' : 
-                    sport.gridClass.includes('col-span-2') ? 'text-xl' : 'text-lg'
-                  }`}>
-                    {sport.name}
-                  </h3>
-                  <div className="text-xs px-2 py-1 rounded-full bg-white/20 text-white font-medium">
-                    {formatCount(sportsCounts[sport.searchTerm] || 0)}
-                  </div>
+            <Link key={sport.searchTerm} href={`/search?q=${sport.searchTerm}`} className="group relative h-64 sm:h-72 md:h-80 rounded-xl overflow-hidden transition-shadow">
+              <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: `url(${sport.backgroundImage})` }} />
+              <div className="absolute inset-0 bg-black/50 group-hover:bg-black/40 transition-colors" />
+              <div className="relative z-10 h-full w-full p-4 flex flex-col justify-between">
+                <div className="flex items-center gap-2 text-white">
+                  <span className="text-2xl leading-none">{sport.emoji}</span>
+                  <h3 className="text-sm font-semibold tracking-wide">{sport.name}</h3>
+                </div>
+                <div className="self-start text-[10px] px-2 py-1 rounded-full bg-white/15 text-white font-medium">
+                  {formatCount(sportsCounts[sport.searchTerm] || 0)} coaches
                 </div>
               </div>
             </Link>

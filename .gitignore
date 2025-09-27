@@ -1,0 +1,16 @@
+# Ignore Python virtual envs and caches
+reviewmycoach/reviewmycoach-python-venv/
+**/__pycache__/
+**/*.py[cod]
+**/*.pyo
+**/*.pyd
+
+# Ignore Playwright browser caches
+**/ms-playwright/
+
+# Node/Next caches
+**/node_modules/
+.next/
+
+# Mac files
+.DS_Store
