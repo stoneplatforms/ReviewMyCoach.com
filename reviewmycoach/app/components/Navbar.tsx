@@ -41,7 +41,7 @@ export default function Navbar() {
             <Link href="/" className="flex items-center" onClick={closeMenu}>
               <span className="h-9 w-9 rounded-xl bg-neutral-900/70 border border-neutral-800 ring-1 ring-neutral-800/50 flex items-center justify-center mr-2">
                 <Image
-                  src="/reviewmycoachlogo.png"
+                  src="/logos/reviewmycoachlogo.png"
                   alt="ReviewMyCoach Logo"
                   width={18}
                   height={18}
