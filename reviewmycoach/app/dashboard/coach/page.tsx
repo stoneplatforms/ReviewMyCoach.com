@@ -320,14 +320,14 @@ export default function CoachDashboard() {
       <div className="mb-8">
         <div className="flex items-center justify-between">
           <div>
-            <h1 className="text-3xl md:text-4xl font-semibold text-neutral-100 tracking-tight">Dashboard</h1>
-            <p className="mt-2 text-neutral-400">Manage your profile, conversations, classes and reviews</p>
+            <h1 className="text-3xl md:text-4xl font-semibold text-gray-900 tracking-tight">Dashboard</h1>
+            <p className="mt-2 text-gray-600">Manage your profile, conversations, classes and reviews</p>
             <div className="mt-2 flex items-center space-x-3">
-              <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-neutral-900 text-neutral-200 border border-neutral-800">
+              <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-red-50 text-red-700 border border-red-200">
                 Coach
               </span>
               {coachProfile?.isVerified && (
-                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-neutral-900 text-neutral-200 border border-neutral-800">
+                <span className="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-red-50 text-red-700 border border-red-200">
                   <svg className="w-3 h-3 mr-1 text-neutral-300" fill="currentColor" viewBox="0 0 20 20">
                     <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                   </svg>
@@ -339,7 +339,7 @@ export default function CoachDashboard() {
           <div className="flex space-x-3">
             <Link
               href="/profile"
-              className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-100 bg-neutral-900 border border-neutral-800 hover:bg-neutral-800"
+              className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-gray-900 bg-white border border-gray-300 hover:bg-gray-50"
             >
               <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z" />
@@ -350,7 +350,7 @@ export default function CoachDashboard() {
               <>
                 <Link
                   href={profileUrl}
-                  className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white border border-neutral-300"
+                  className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-gray-900 bg-white border border-gray-300 hover:bg-gray-50"
                 >
                   <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -360,7 +360,7 @@ export default function CoachDashboard() {
                 </Link>
                 <button
                   onClick={() => navigator.clipboard.writeText(fullProfileUrl || '')}
-                  className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-100 bg-neutral-900 border border-neutral-800 hover:bg-neutral-800"
+                  className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-gray-900 bg-white border border-gray-300 hover:bg-gray-50"
                 >
                   <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -369,7 +369,7 @@ export default function CoachDashboard() {
                 </button>
               </>
             ) : (
-              <div className="text-sm text-neutral-300 bg-neutral-900 border border-neutral-800 rounded-full px-3 py-2">
+              <div className="text-sm text-gray-600 bg-white border border-gray-200 rounded-full px-3 py-2">
                 Add a username to get a public profile link
               </div>
             )}
@@ -379,7 +379,7 @@ export default function CoachDashboard() {
 
       {/* Profile Completion Alert */}
       {coachProfile && !coachProfile.bio && (
-        <div className="bg-neutral-900/60 backdrop-blur border border-neutral-800 rounded-2xl p-6 mb-8">
+        <div className="bg-white border border-gray-200 rounded-2xl p-6 mb-8">
           <div className="flex items-start">
             <div className="flex-shrink-0">
               <svg className="w-5 h-5 text-neutral-300" fill="currentColor" viewBox="0 0 20 20">
@@ -387,22 +387,22 @@ export default function CoachDashboard() {
               </svg>
             </div>
             <div className="ml-3 flex-1">
-              <h3 className="text-sm font-medium text-neutral-200">Complete Your Profile</h3>
-              <div className="mt-2 text-sm text-neutral-300">
+              <h3 className="text-sm font-medium text-gray-900">Complete Your Profile</h3>
+              <div className="mt-2 text-sm text-gray-600">
                 <p>Your public profile is live but incomplete. Add a bio, sports, and other details to attract more students.</p>
               </div>
               <div className="mt-4">
                 <div className="flex space-x-3">
                   <Link
                     href="/dashboard/coach/profile/edit"
-                    className="text-sm bg-neutral-100 text-neutral-900 rounded-full px-3 py-2 font-medium hover:bg-white transition-colors"
+                    className="text-sm bg-white text-gray-900 rounded-full px-3 py-2 font-medium border border-gray-300 hover:bg-gray-50 transition-colors"
                   >
                     Complete Profile
                   </Link>
                   {profileUrl && (
                     <Link
                       href={profileUrl}
-                      className="text-sm text-neutral-300 underline hover:text-white"
+                      className="text-sm text-gray-600 underline hover:text-gray-900"
                     >
                       Preview Public Profile →
                     </Link>
@@ -417,16 +417,16 @@ export default function CoachDashboard() {
       {/* Stats Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
         {stats.map((stat) => (
-          <div key={stat.name} className="bg-neutral-900/60 backdrop-blur border border-neutral-800 rounded-2xl shadow p-6">
+          <div key={stat.name} className="bg-white border border-gray-200 rounded-2xl p-6">
             <div className="flex items-center">
               <div className="flex-shrink-0">
-                <div className="w-8 h-8 rounded-xl flex items-center justify-center bg-neutral-800 text-neutral-200 ring-1 ring-neutral-700">
+                <div className="w-8 h-8 rounded-xl flex items-center justify-center bg-gray-100 text-gray-600 ring-1 ring-gray-200">
                   {stat.icon}
                 </div>
               </div>
               <div className="ml-4">
-                <p className="text-sm font-medium text-neutral-400">{stat.name}</p>
-                <p className="text-2xl font-semibold text-neutral-100">{stat.value}</p>
+                <p className="text-sm font-medium text-gray-600">{stat.name}</p>
+                <p className="text-2xl font-semibold text-gray-900">{stat.value}</p>
               </div>
             </div>
           </div>
@@ -435,33 +435,33 @@ export default function CoachDashboard() {
 
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* Recent Reviews */}
-        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow">
-          <div className="px-6 py-4 border-b border-neutral-800">
-            <h2 className="text-xl font-semibold text-neutral-100">Recent Reviews</h2>
-            <p className="text-sm text-neutral-400 mt-1">
+        <div className="bg-white rounded-2xl border border-gray-200">
+          <div className="px-6 py-4 border-b border-gray-200">
+            <h2 className="text-xl font-semibold text-gray-900">Recent Reviews</h2>
+            <p className="text-sm text-gray-600 mt-1">
               What students are saying about your coaching
             </p>
           </div>
           <div className="p-6">
             {statsLoading ? (
               <div className="flex items-center justify-center py-8">
-                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-neutral-700"></div>
+                <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-300"></div>
               </div>
             ) : reviews.length > 0 ? (
               <div className="space-y-4">
                 {reviews.map((review) => (
-                  <div key={review.id} className="border border-neutral-800 rounded-xl p-4 bg-neutral-950/50">
+                  <div key={review.id} className="border border-gray-200 rounded-xl p-4 bg-white">
                     <div className="flex items-start justify-between">
                       <div className="flex-1">
                         <div className="flex items-center mb-2">
                           {renderStarRating(review.rating)}
                         </div>
-                        <p className="text-neutral-100 mb-2">{review.reviewText}</p>
-                        <p className="text-sm text-neutral-400">
+                        <p className="text-gray-900 mb-2">{review.reviewText}</p>
+                        <p className="text-sm text-gray-600">
                           By: {review.studentName}
                         </p>
                         {review.createdAt && (
-                          <p className="text-xs text-neutral-500 mt-1">
+                          <p className="text-xs text-gray-500 mt-1">
                             {new Date(review.createdAt.toDate()).toLocaleDateString()}
                           </p>
                         )}
@@ -472,7 +472,7 @@ export default function CoachDashboard() {
                 <div className="text-center">
                   <Link
                     href="/dashboard/coach/reviews"
-                    className="text-neutral-300 hover:text-white text-sm font-medium"
+                    className="text-gray-600 hover:text-gray-900 text-sm font-medium"
                   >
                     View all reviews →
                   </Link>
@@ -480,11 +480,11 @@ export default function CoachDashboard() {
               </div>
             ) : (
               <div className="text-center py-8">
-                <svg className="mx-auto h-12 w-12 text-neutral-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="mx-auto h-12 w-12 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
                 </svg>
-                <h3 className="mt-2 text-sm font-medium text-neutral-100">No reviews yet</h3>
-                <p className="mt-1 text-sm text-neutral-500">
+                <h3 className="mt-2 text-sm font-medium text-gray-900">No reviews yet</h3>
+                <p className="mt-1 text-sm text-gray-600">
                   Complete your profile to start getting reviews from students.
                 </p>
               </div>
@@ -542,7 +542,7 @@ export default function CoachDashboard() {
                 <div className="mt-6">
                   <Link
                     href="/dashboard/coach/classes/new"
-                    className="inline-flex items-center px-4 py-2 border border-neutral-700 shadow-sm text-sm font-medium rounded-full text-neutral-100 bg-neutral-900 hover:bg-neutral-800"
+                  className="inline-flex items-center px-4 py-2 border border-gray-300 text-sm font-medium rounded-full text-gray-900 bg-white hover:bg-gray-50"
                   >
                     Create Class
                   </Link>
@@ -553,15 +553,15 @@ export default function CoachDashboard() {
         </div>
 
         {/* Profile URL Card */}
-        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow p-6">
-          <h3 className="text-lg font-semibold text-neutral-100 mb-4">Your Public Profile</h3>
+        <div className="bg-white rounded-2xl border border-gray-200 p-6">
+          <h3 className="text-lg font-semibold text-gray-900 mb-4">Your Public Profile</h3>
           <div className="space-y-3">
             <div>
-              <label className="block text-sm font-medium text-neutral-200 mb-1">
+              <label className="block text-sm font-medium text-gray-700 mb-1">
                 Profile URL
               </label>
               <div className="flex items-center space-x-2">
-                <code className="flex-1 px-3 py-2 bg-neutral-950 border border-neutral-800 rounded-md text-sm text-neutral-300 font-mono break-all">
+                <code className="flex-1 px-3 py-2 bg-gray-100 border border-gray-200 rounded-md text-sm text-gray-700 font-mono break-all">
                   {fullProfileUrl || 'N/A'}
                 </code>
                 <button
@@ -570,7 +570,7 @@ export default function CoachDashboard() {
                       navigator.clipboard.writeText(fullProfileUrl);
                     }
                   }}
-                  className="p-2 text-neutral-400 hover:text-white transition-colors"
+                  className="p-2 text-gray-500 hover:text-gray-900 transition-colors"
                   title="Copy URL"
                 >
                   <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -585,28 +585,28 @@ export default function CoachDashboard() {
                 <Link
                   href={profileUrl}
                   target="_blank"
-                  className="flex-1 text-center px-3 py-2 bg-neutral-100 text-neutral-900 text-sm rounded-full hover:bg-white transition-colors"
+                  className="flex-1 text-center px-3 py-2 bg-white text-gray-900 text-sm rounded-full border border-gray-300 hover:bg-gray-50 transition-colors"
                 >
                   View Profile
                 </Link>
               ) : (
-                <div className="flex-1 text-center px-3 py-2 bg-neutral-950 border border-neutral-800 text-neutral-500 text-sm rounded-full">
+                <div className="flex-1 text-center px-3 py-2 bg-gray-100 border border-gray-200 text-gray-500 text-sm rounded-full">
                   Add username to view profile
                 </div>
               )}
               <Link
                 href="/dashboard/coach/profile/edit"
-                className="flex-1 text-center px-3 py-2 border border-neutral-700 text-neutral-100 text-sm rounded-full hover:bg-neutral-800 transition-colors"
+                className="flex-1 text-center px-3 py-2 border border-gray-300 text-gray-900 text-sm rounded-full hover:bg-gray-50 transition-colors"
               >
                 Edit Profile
               </Link>
             </div>
 
             {coachProfile && (
-              <div className="pt-3 border-t border-neutral-800">
+            <div className="pt-3 border-t border-gray-200">
                 <div className="flex items-center justify-between text-sm">
-                  <span className="text-neutral-400">Profile Status:</span>
-                  <span className={`font-medium text-neutral-200`}>
+                  <span className="text-gray-600">Profile Status:</span>
+                  <span className={`font-medium text-gray-900`}>
                     {coachProfile.bio && coachProfile.sports.length > 0 
                       ? 'Complete' 
                       : 'Needs Attention'
@@ -619,12 +619,12 @@ export default function CoachDashboard() {
         </div>
 
         {/* Services & Payment Setup */}
-        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow p-6">
-          <h3 className="text-lg font-semibold text-neutral-100 mb-4">Services & Payments</h3>
+        <div className="bg-white rounded-2xl border border-gray-200 p-6">
+          <h3 className="text-lg font-semibold text-gray-900 mb-4">Services & Payments</h3>
           <div className="space-y-3">
             <Link
               href="/dashboard/coach/stripe"
-              className="flex items-center p-3 border border-neutral-800 rounded-xl hover:bg-neutral-800 transition-colors"
+              className="flex items-center p-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors"
             >
               <div className="flex-shrink-0">
                 <svg className="w-6 h-6 text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -632,11 +632,11 @@ export default function CoachDashboard() {
                 </svg>
               </div>
               <div className="ml-3 flex-1">
-                <h4 className="text-sm font-medium text-neutral-100">Payment Setup</h4>
-                <p className="text-xs text-neutral-400">Connect Stripe to receive payments</p>
+                <h4 className="text-sm font-medium text-gray-900">Payment Setup</h4>
+                <p className="text-xs text-gray-600">Connect Stripe to receive payments</p>
               </div>
               <div className="ml-auto">
-                <svg className="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
               </div>
@@ -644,7 +644,7 @@ export default function CoachDashboard() {
 
             <Link
               href="/dashboard/coach/services"
-              className="flex items-center p-3 border border-neutral-800 rounded-xl hover:bg-neutral-800 transition-colors"
+              className="flex items-center p-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors"
             >
               <div className="flex-shrink-0">
                 <svg className="w-6 h-6 text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -652,8 +652,8 @@ export default function CoachDashboard() {
                 </svg>
               </div>
               <div className="ml-3 flex-1">
-                <h4 className="text-sm font-medium text-neutral-100">My Services</h4>
-                <p className="text-xs text-neutral-400">Create and manage services</p>
+                <h4 className="text-sm font-medium text-gray-900">My Services</h4>
+                <p className="text-xs text-gray-600">Create and manage services</p>
               </div>
               <div className="ml-auto">
                 <svg className="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -664,7 +664,7 @@ export default function CoachDashboard() {
 
             <Link
               href="/dashboard/coach/jobs"
-              className="flex items-center p-3 border border-neutral-800 rounded-xl hover:bg-neutral-800 transition-colors"
+              className="flex items-center p-3 border border-gray-200 rounded-xl hover:bg-gray-50 transition-colors"
             >
               <div className="flex-shrink-0">
                 <svg className="w-6 h-6 text-neutral-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -672,25 +672,25 @@ export default function CoachDashboard() {
                 </svg>
               </div>
               <div className="ml-3 flex-1">
-                <h4 className="text-sm font-medium text-neutral-100">Job Board</h4>
-                <p className="text-xs text-neutral-400">Browse coaching opportunities</p>
+                <h4 className="text-sm font-medium text-gray-900">Job Board</h4>
+                <p className="text-xs text-gray-600">Browse coaching opportunities</p>
               </div>
               <div className="flex items-center">
-                <span className="text-xs bg-neutral-800 text-neutral-200 px-2 py-1 rounded-full border border-neutral-700 mr-2">PRO</span>
-                <svg className="w-4 h-4 text-neutral-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <span className="text-xs bg-gray-100 text-gray-700 px-2 py-1 rounded-full border border-gray-200 mr-2">PRO</span>
+                <svg className="w-4 h-4 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>
               </div>
             </Link>
 
-            <div className="text-xs text-neutral-400 mt-4 p-4 bg-neutral-950 border border-neutral-800 rounded-xl">
+            <div className="text-xs text-gray-600 mt-4 p-4 bg-gray-50 border border-gray-200 rounded-xl">
               <div className="flex items-start">
                 <svg className="w-4 h-4 text-neutral-200 mr-2 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
                 <div>
-                  <p className="font-medium text-neutral-100 mb-1">Start earning from coaching:</p>
-                  <ol className="list-decimal list-inside space-y-1 text-neutral-300">
+                  <p className="font-medium text-gray-900 mb-1">Start earning from coaching:</p>
+                  <ol className="list-decimal list-inside space-y-1 text-gray-700">
                     <li>Connect Stripe to accept payments</li>
                     <li>Create your coaching services</li>
                     <li>Students book and pay automatically</li>
@@ -703,19 +703,19 @@ export default function CoachDashboard() {
         </div>
 
         {/* Messages */}
-        <div className="bg-neutral-900/60 backdrop-blur rounded-2xl border border-neutral-800 shadow lg:col-span-2">
-          <div className="px-6 py-4 border-b border-neutral-800 flex items-center justify-between">
+        <div className="bg-white rounded-2xl border border-gray-200 lg:col-span-2">
+          <div className="px-6 py-4 border-b border-gray-200 flex items-center justify-between">
             <div>
-              <h2 className="text-xl font-semibold text-neutral-100">Messages</h2>
-              <p className="text-sm text-neutral-400 mt-1">Conversations with students and clients</p>
+              <h2 className="text-xl font-semibold text-gray-900">Messages</h2>
+              <p className="text-sm text-gray-600 mt-1">Conversations with students and clients</p>
             </div>
-            <Link href="/dashboard/coach/messages" className="text-sm text-neutral-300 hover:text-white">
+            <Link href="/dashboard/coach/messages" className="text-sm text-gray-600 hover:text-gray-900">
               Open full inbox →
             </Link>
           </div>
           <div className="p-0">
             {conversations.length > 0 ? (
-              <div className="divide-y divide-neutral-800">
+              <div className="divide-y divide-gray-200">
                 {conversations.slice(0, 6).map((c) => {
                   const unread = c.unreadCount?.[auth.currentUser?.uid || ''] || 0;
                   const other = c.participants.find((p) => p !== auth.currentUser?.uid) || 'Conversation';
@@ -723,14 +723,14 @@ export default function CoachDashboard() {
                     <button
                       key={c.id}
                       onClick={() => openConversationModal(c)}
-                      className="w-full text-left px-4 py-3 flex items-center justify-between hover:bg-neutral-800/60 transition-colors"
+                      className="w-full text-left px-4 py-3 flex items-center justify-between hover:bg-gray-50 transition-colors"
                     >
                       <div className="min-w-0 mr-3">
-                        <div className="text-sm text-neutral-100 truncate">{other}</div>
-                        <div className="text-xs text-neutral-400 truncate">{c.lastMessage}</div>
+                        <div className="text-sm text-gray-900 truncate">{other}</div>
+                        <div className="text-xs text-gray-600 truncate">{c.lastMessage}</div>
                       </div>
                       {unread > 0 && (
-                        <span className="text-xs bg-neutral-700 text-neutral-100 px-2 py-0.5 rounded-full">{unread}</span>
+                        <span className="text-xs bg-gray-100 text-gray-700 px-2 py-0.5 rounded-full">{unread}</span>
                       )}
                     </button>
                   );

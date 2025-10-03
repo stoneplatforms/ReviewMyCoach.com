@@ -123,7 +123,7 @@ export default function GlobalSearchBar({
     switch (type) {
       case 'coach':
         return (
-          <svg className="w-4 h-4 text-orange-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="w-4 h-4 text-[var(--brand-red)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
           </svg>
         );
@@ -166,7 +166,8 @@ export default function GlobalSearchBar({
           onFocus={() => setIsOpen(true)}
           onKeyDown={handleKeyDown}
           placeholder={placeholder}
-          className="w-full pl-10 pr-4 py-2 bg-neutral-950/70 backdrop-blur border border-neutral-800 rounded-full focus:ring-0 focus:border-neutral-700 text-neutral-100 placeholder-neutral-500 transition-all duration-200"
+          className="w-full pl-10 pr-5 py-3 bg-white border border-gray-300 rounded-full focus:ring-2 focus:ring-red-200 focus:border-red-300 text-gray-900 placeholder-gray-500 transition-all duration-200 shadow-sm hover:shadow-md focus:shadow-md text-base"
+          style={{ backgroundColor: '#ffffff', color: '#111111', borderColor: '#d1d5db', boxShadow: '0 2px 8px rgba(0,0,0,0.08)' }}
           autoComplete="off"
         />
         {loading && (
@@ -181,7 +182,7 @@ export default function GlobalSearchBar({
 
       {/* Search Suggestions Dropdown */}
       {isOpen && showSuggestions && (searchTerm.length >= 2 || suggestions.length > 0) && (
-        <div className="absolute z-50 w-full mt-2 bg-neutral-950/90 backdrop-blur border border-neutral-800 rounded-xl shadow-lg max-h-64 overflow-y-auto">
+        <div className="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-xl shadow-xl max-h-64 overflow-y-auto">
           {suggestions.length > 0 ? (
             <>
               {suggestions.map((suggestion, index) => (
@@ -191,17 +192,17 @@ export default function GlobalSearchBar({
                     router.push(suggestion.href);
                     setIsOpen(false);
                   }}
-                  className={`w-full px-4 py-3 text-left hover:bg-neutral-900/60 flex items-center space-x-3 transition-colors ${
-                    index === selectedIndex ? 'bg-neutral-900/60 border-l-2 border-neutral-700' : ''
+                  className={`w-full px-4 py-3 text-left hover:bg-red-50 flex items-center space-x-3 transition-colors ${
+                    index === selectedIndex ? 'bg-red-50 border-l-2 border-red-300' : ''
                   }`}
                 >
                   {getSuggestionIcon(suggestion.type)}
                   <div className="flex-1 min-w-0">
-                    <div className="text-sm font-medium text-neutral-100 truncate">
+                    <div className="text-sm font-medium text-gray-900 truncate">
                       {suggestion.text}
                     </div>
                     {suggestion.subtitle && (
-                      <div className="text-xs text-neutral-400 truncate">
+                      <div className="text-xs text-gray-500 truncate">
                         {suggestion.subtitle}
                       </div>
                     )}
@@ -210,10 +211,10 @@ export default function GlobalSearchBar({
               ))}
               {searchTerm.trim() && (
                 <>
-                  <div className="border-t border-neutral-800"></div>
+                  <div className="border-t border-gray-200"></div>
                   <button
                     onClick={() => handleSearch()}
-                    className="w-full px-4 py-3 text-left hover:bg-neutral-900/60 flex items-center space-x-3 transition-colors text-neutral-200"
+                    className="w-full px-4 py-3 text-left hover:bg-red-50 flex items-center space-x-3 transition-colors text-gray-700"
                   >
                     <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
@@ -224,11 +225,11 @@ export default function GlobalSearchBar({
               )}
             </>
           ) : searchTerm.length >= 2 ? (
-            <div className="px-4 py-3 text-sm text-neutral-400">
+            <div className="px-4 py-3 text-sm text-gray-500">
               {loading ? 'Searching...' : 'No suggestions found'}
             </div>
           ) : (
-            <div className="px-4 py-3 text-sm text-neutral-400">
+            <div className="px-4 py-3 text-sm text-gray-500">
               Type at least 2 characters to search
             </div>
           )}

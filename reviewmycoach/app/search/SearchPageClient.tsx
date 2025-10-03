@@ -236,19 +236,19 @@ export default function SearchPageClient() {
   );
 
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 bg-white">
       {/* Page Header */}
-      <div className="mb-8 border-b border-neutral-800 pb-8">
+      <div className="mb-8 border-b border-gray-200 pb-8">
         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <h1 className="text-3xl md:text-4xl font-semibold text-neutral-100 tracking-tight mb-2">Search coaches</h1>
-            <p className="text-neutral-400">Filter by sport, location, verification, and more</p>
+            <h1 className="text-3xl md:text-4xl font-semibold text-gray-900 tracking-tight mb-2">Search coaches</h1>
+            <p className="text-gray-600">Filter by sport, location, verification, and more</p>
           </div>
           {user && (
             <div className="mt-6 sm:mt-0">
               <button
                 onClick={() => setShowPostJobModal(true)}
-                className="px-4 py-2 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white border border-neutral-300"
+                className="px-4 py-2 rounded-full text-sm font-medium text-gray-900 bg-white hover:bg-gray-50 border border-gray-300"
               >
                 <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M12 4v16m8-8H4" />
@@ -280,8 +280,8 @@ export default function SearchPageClient() {
       />
 
       {/* Results Summary */}
-      <div className="mb-6 flex items-center justify-between bg-neutral-900/60 backdrop-blur border border-neutral-800 p-4 rounded-2xl">
-        <div className="text-sm text-neutral-300 font-medium">
+      <div className="mb-6 flex items-center justify-between bg-white border border-gray-200 p-4 rounded-2xl">
+        <div className="text-sm text-gray-600 font-medium">
           {loading ? (
             'Searching coaches...'
           ) : error ? (
@@ -304,7 +304,7 @@ export default function SearchPageClient() {
 
         {/* Sort Options */}
         <div className="flex items-center space-x-3">
-          <label htmlFor="sortBy" className="text-sm text-neutral-400 font-medium">Sort:</label>
+          <label htmlFor="sortBy" className="text-sm text-gray-600 font-medium">Sort:</label>
           <select
             id="sortBy"
             value={`${filters.sortBy}-${filters.sortOrder}`}
@@ -313,7 +313,7 @@ export default function SearchPageClient() {
               handleFilterChange('sortBy', sortBy);
               handleFilterChange('sortOrder', sortOrder);
             }}
-            className="text-sm border border-neutral-800 bg-neutral-900 text-neutral-200 px-3 py-2 rounded-md focus:outline-none"
+            className="text-sm border border-gray-200 bg-white text-gray-900 px-3 py-2 rounded-md focus:outline-none"
           >
             <option value="averageRating-desc">Highest Rated</option>
             <option value="averageRating-asc">Lowest Rated</option>
@@ -328,12 +328,12 @@ export default function SearchPageClient() {
 
       {/* Error State */}
       {error && (
-        <div className="mb-6 p-6 bg-red-950/40 border border-red-900/40 rounded-2xl">
+        <div className="mb-6 p-6 bg-red-50 border border-red-200 rounded-2xl">
           <div className="flex items-center">
-            <svg className="w-6 h-6 text-red-300 mr-3" fill="currentColor" viewBox="0 0 20 20">
+            <svg className="w-6 h-6 text-red-600 mr-3" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM8.707 7.293a1 1 0 00-1.414 1.414L8.586 10l-1.293 1.293a1 1 0 101.414 1.414L10 11.414l1.293 1.293a1 1 0 001.414-1.414L11.414 10l1.293-1.293a1 1 0 00-1.414-1.414L10 8.586 8.707 7.293z" clipRule="evenodd" />
             </svg>
-            <p className="text-red-200 font-medium">{error}</p>
+            <p className="text-red-700 font-medium">{error}</p>
           </div>
         </div>
       )}
@@ -343,20 +343,20 @@ export default function SearchPageClient() {
         <div className="mb-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[...Array(ITEMS_PER_PAGE)].map((_, i) => (
-              <div key={i} className="bg-neutral-900/60 border border-neutral-800 rounded-2xl p-6 animate-pulse min-h-[240px]">
+              <div key={i} className="bg-white border border-gray-200 rounded-2xl p-6 animate-pulse min-h-[240px]">
                 <div className="flex items-center space-x-4 mb-4">
-                  <div className="w-16 h-16 bg-neutral-900"></div>
+                  <div className="w-16 h-16 bg-gray-200"></div>
                   <div className="flex-1">
-                    <div className="h-4 bg-neutral-900 mb-2"></div>
-                    <div className="h-3 bg-neutral-900 w-1/2"></div>
+                    <div className="h-4 bg-gray-200 mb-2"></div>
+                    <div className="h-3 bg-gray-200 w-1/2"></div>
                   </div>
                 </div>
                 <div className="space-y-2">
-                  <div className="h-3 bg-neutral-900"></div>
-                  <div className="h-3 bg-neutral-900 w-5/6"></div>
+                  <div className="h-3 bg-gray-200"></div>
+                  <div className="h-3 bg-gray-200 w-5/6"></div>
                 </div>
                 <div className="mt-4">
-                  <div className="h-8 bg-neutral-900"></div>
+                  <div className="h-8 bg-gray-200"></div>
                 </div>
               </div>
             ))}
@@ -378,7 +378,7 @@ export default function SearchPageClient() {
           </div>
 
           {/* Pagination */}
-          <div className="border border-neutral-800 bg-neutral-900/60 backdrop-blur p-6 rounded-2xl">
+          <div className="border border-gray-200 bg-white p-6 rounded-2xl">
             <Pagination
               currentPage={currentPage}
               totalPages={results.totalPages}
@@ -393,15 +393,15 @@ export default function SearchPageClient() {
 
       {/* Empty State */}
       {!loading && !error && results.coaches.length === 0 && hasActiveFilters && (
-        <div className="text-center py-16 border border-neutral-800 bg-neutral-900/60 backdrop-blur rounded-2xl">
-          <svg className="w-16 h-16 text-neutral-600 mx-auto mb-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
+        <div className="text-center py-16 border border-gray-200 bg-white rounded-2xl">
+          <svg className="w-16 h-16 text-gray-400 mx-auto mb-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
             <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
           </svg>
-          <h3 className="text-xl font-semibold text-neutral-100 mb-2">No coaches found</h3>
-          <p className="text-neutral-400 mb-6">Try changing your filters.</p>
+          <h3 className="text-xl font-semibold text-gray-900 mb-2">No coaches found</h3>
+          <p className="text-gray-600 mb-6">Try changing your filters.</p>
           <button
             onClick={handleClearFilters}
-            className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-neutral-900 bg-neutral-100 hover:bg-white"
+            className="inline-flex items-center px-4 py-2 rounded-full text-sm font-medium text-gray-900 bg-white border border-gray-300 hover:bg-gray-50"
           >
             <svg className="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
@@ -514,7 +514,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
             <button
               onClick={onClose}
               type="button"
-              className="text-gray-400 hover:text-orange-400 transition-colors duration-200"
+              className="text-gray-400 hover:text-[var(--brand-red)] transition-colors duration-200"
             >
               <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
@@ -530,7 +530,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
                 required
                 value={formData.title}
                 onChange={(e) => handleInputChange('title', e.target.value)}
-                className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 font-medium uppercase tracking-wider placeholder-gray-500"
+                className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-[var(--brand-red)] focus:border-[var(--brand-red)] font-medium uppercase tracking-wider placeholder-gray-500"
                 placeholder="E.G., YOUTH BASKETBALL COACH"
               />
             </div>
@@ -542,7 +542,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
                   required
                   value={formData.sport}
                   onChange={(e) => handleInputChange('sport', e.target.value)}
-                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 font-medium uppercase tracking-wider"
+                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-[var(--brand-red)] focus:border-[var(--brand-red)] font-medium uppercase tracking-wider"
                 >
                   <option value="">SELECT SPORT</option>
                   <option value="football">FOOTBALL</option>
@@ -563,7 +563,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
                   required
                   value={formData.type}
                   onChange={(e) => handleInputChange('type', e.target.value as any)}
-                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 font-medium uppercase tracking-wider"
+                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-[var(--brand-red)] focus:border-[var(--brand-red)] font-medium uppercase tracking-wider"
                 >
                   <option value="part-time">PART-TIME</option>
                   <option value="full-time">FULL-TIME</option>
@@ -581,7 +581,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
                   required
                   value={formData.location}
                   onChange={(e) => handleInputChange('location', e.target.value)}
-                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 font-medium uppercase tracking-wider placeholder-gray-500"
+                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-[var(--brand-red)] focus:border-[var(--brand-red)] font-medium uppercase tracking-wider placeholder-gray-500"
                   placeholder="E.G., NEW YORK, REMOTE"
                 />
               </div>
@@ -592,7 +592,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
                   type="text"
                   value={formData.salaryRange}
                   onChange={(e) => handleInputChange('salaryRange', e.target.value)}
-                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 font-medium uppercase tracking-wider placeholder-gray-500"
+                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-[var(--brand-red)] focus:border-[var(--brand-red)] font-medium uppercase tracking-wider placeholder-gray-500"
                   placeholder="E.G., $25-40/HOUR, $50K-70K/YEAR"
                 />
               </div>
@@ -618,7 +618,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
                     type="text"
                     value={requirement}
                     onChange={(e) => handleRequirementChange(index, e.target.value)}
-                    className="flex-1 px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 font-medium placeholder-gray-500"
+                    className="flex-1 px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-[var(--brand-red)] focus:border-[var(--brand-red)] font-medium placeholder-gray-500"
                     placeholder="E.G., 2+ YEARS COACHING EXPERIENCE"
                   />
                   {formData.requirements.length > 1 && (
@@ -637,7 +637,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
               <button
                 type="button"
                 onClick={addRequirement}
-                className="text-orange-400 hover:text-orange-300 text-sm font-bold uppercase tracking-wider transition-colors duration-200"
+                className="text-[var(--brand-red)] hover:text-red-400 text-sm font-bold uppercase tracking-wider transition-colors duration-200"
               >
                 + ADD REQUIREMENT
               </button>
@@ -649,7 +649,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
                 type="date"
                 value={formData.applicationDeadline}
                 onChange={(e) => handleInputChange('applicationDeadline', e.target.value)}
-                className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500 font-medium"
+                  className="w-full px-4 py-3 border-2 border-gray-700 bg-black text-white focus:ring-2 focus:ring-[var(--brand-red)] focus:border-[var(--brand-red)] font-medium"
               />
             </div>
 
@@ -664,7 +664,7 @@ function JobPostingModal({ onClose, onJobPosted }: JobPostingModalProps) {
               <button
                 type="submit"
                 disabled={loading}
-                className="bg-gradient-to-r from-orange-500 to-red-600 hover:from-orange-600 hover:to-red-700 disabled:opacity-50 text-white px-8 py-3 font-bold uppercase tracking-wider transition-all duration-200 transform hover:scale-105 disabled:hover:scale-100"
+                className="btn-brand disabled:opacity-50 text-white px-8 py-3 font-bold uppercase tracking-wider transition-all duration-200 transform hover:scale-105 disabled:hover:scale-100"
               >
                 {loading ? 'POSTING...' : 'POST JOB'}
               </button>

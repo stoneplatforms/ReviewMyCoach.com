@@ -247,13 +247,13 @@ export default function CreateClassPage() {
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-black">
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-orange-500"></div>
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-[var(--brand-red)]"></div>
       </div>
     );
   }
 
   return (
-    <div className="min-h-screen bg-black py-8">
+    <div className="min-h-screen bg-white py-8">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="mb-8">
@@ -291,7 +291,7 @@ export default function CreateClassPage() {
                   type="text"
                   value={formData.title}
                   onChange={(e) => handleInputChange('title', e.target.value)}
-                  className="w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm bg-neutral-800 text-white focus:ring-orange-500 focus:border-orange-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm bg-white text-gray-900 placeholder-gray-500 focus:ring-red-200 focus:border-red-300"
                   placeholder="e.g., Beginner Basketball Training"
                   required
                 />
@@ -304,7 +304,7 @@ export default function CreateClassPage() {
                 <select
                   value={formData.sport}
                   onChange={(e) => handleInputChange('sport', e.target.value)}
-                  className="w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm bg-neutral-800 text-white focus:ring-orange-500 focus:border-orange-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm bg-white text-gray-900 focus:ring-red-200 focus:border-red-300"
                   required
                 >
                   <option value="">Select a sport</option>
@@ -322,7 +322,7 @@ export default function CreateClassPage() {
                   value={formData.description}
                   onChange={(e) => handleInputChange('description', e.target.value)}
                   rows={4}
-                  className="w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm bg-neutral-800 text-white focus:ring-orange-500 focus:border-orange-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm bg-white text-gray-900 placeholder-gray-500 focus:ring-red-200 focus:border-red-300"
                   placeholder="Describe what students will learn in this class..."
                 />
               </div>
@@ -334,7 +334,7 @@ export default function CreateClassPage() {
                 <select
                   value={formData.level}
                   onChange={(e) => handleInputChange('level', e.target.value)}
-                  className="w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm bg-neutral-800 text-white focus:ring-orange-500 focus:border-orange-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm bg-white text-gray-900 focus:ring-red-200 focus:border-red-300"
                 >
                   <option value="all">All Levels</option>
                   <option value="beginner">Beginner</option>
@@ -353,7 +353,7 @@ export default function CreateClassPage() {
                   max="100"
                   value={formData.maxParticipants}
                   onChange={(e) => handleInputChange('maxParticipants', parseInt(e.target.value))}
-                  className="w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm bg-neutral-800 text-white focus:ring-orange-500 focus:border-orange-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm bg-white text-gray-900 focus:ring-red-200 focus:border-red-300"
                 />
               </div>
             </div>
@@ -443,7 +443,7 @@ export default function CreateClassPage() {
                     type="text"
                     value={formData.location}
                     onChange={(e) => handleInputChange('location', e.target.value)}
-                    className="w-full px-3 py-2 border border-gray-600 rounded-md shadow-sm bg-neutral-800 text-white focus:ring-orange-500 focus:border-orange-500"
+                    className="w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm bg-white text-gray-900 placeholder-gray-500 focus:ring-red-200 focus:border-red-300"
                     placeholder="e.g., Central Park Basketball Court, 123 Main St, City"
                     required
                   />
@@ -469,7 +469,7 @@ export default function CreateClassPage() {
                     step="0.01"
                     value={formData.price}
                     onChange={(e) => handleInputChange('price', parseFloat(e.target.value) || 0)}
-                    className="w-full pl-8 pr-3 py-2 border border-gray-600 rounded-md shadow-sm bg-neutral-800 text-white focus:ring-orange-500 focus:border-orange-500"
+                    className="w-full pl-8 pr-3 py-2 border border-gray-300 rounded-md shadow-sm bg-white text-gray-900 focus:ring-red-200 focus:border-red-300"
                     placeholder="0.00"
                   />
                 </div>

@@ -60,7 +60,7 @@ export default function Pagination({
       return (
         <span
           key={`dots-${index}`}
-          className="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-700"
+          className="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-500"
         >
           ...
         </span>
@@ -74,10 +74,10 @@ export default function Pagination({
       <button
         key={pageNum}
         onClick={() => onPageChange(pageNum)}
-        className={`relative inline-flex items-center px-4 py-2 text-sm font-medium border transition-colors ${
+        className={`relative inline-flex items-center px-4 py-2 text-sm font-medium border rounded-full transition-colors ${
           isCurrentPage
-            ? 'z-10 bg-gray-50 border-gray-500 text-gray-600'
-            : 'bg-white border-gray-300 text-gray-500 hover:bg-gray-50 hover:text-gray-700'
+            ? 'z-10 bg-white border-gray-600 text-gray-900'
+            : 'bg-white border-gray-300 text-gray-600 hover:bg-gray-50 hover:text-gray-900'
         }`}
         aria-current={isCurrentPage ? 'page' : undefined}
       >
@@ -104,12 +104,12 @@ export default function Pagination({
       )}
 
       {/* Pagination */}
-      <nav className="relative z-0 inline-flex rounded-md shadow-sm -space-x-px" aria-label="Pagination">
+      <nav className="relative z-0 inline-flex items-center gap-2" aria-label="Pagination">
         {/* Previous Button */}
         <button
           onClick={() => onPageChange(currentPage - 1)}
           disabled={currentPage === 1}
-          className={`relative inline-flex items-center px-2 py-2 rounded-l-md border text-sm font-medium transition-colors ${
+          className={`relative inline-flex items-center px-3 py-2 rounded-full border text-sm font-medium transition-colors ${
             currentPage === 1
               ? 'bg-gray-100 border-gray-300 text-gray-400 cursor-not-allowed'
               : 'bg-white border-gray-300 text-gray-500 hover:bg-gray-50 hover:text-gray-700'
@@ -132,7 +132,7 @@ export default function Pagination({
         <button
           onClick={() => onPageChange(currentPage + 1)}
           disabled={currentPage === totalPages}
-          className={`relative inline-flex items-center px-2 py-2 rounded-r-md border text-sm font-medium transition-colors ${
+          className={`relative inline-flex items-center px-3 py-2 rounded-full border text-sm font-medium transition-colors ${
             currentPage === totalPages
               ? 'bg-gray-100 border-gray-300 text-gray-400 cursor-not-allowed'
               : 'bg-white border-gray-300 text-gray-500 hover:bg-gray-50 hover:text-gray-700'

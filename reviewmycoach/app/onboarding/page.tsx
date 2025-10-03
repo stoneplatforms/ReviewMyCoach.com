@@ -605,7 +605,7 @@ export default function Onboarding() {
                 onClick={() => setCoachChoice('claim')}
                 className={`relative rounded-lg border p-4 cursor-pointer transition-all ${
                   coachChoice === 'claim'
-                    ? 'border-blue-500 bg-blue-50'
+                    ? 'border-[var(--brand-silver-blue)] bg-[color:rgb(163_182_196_/_.08)]'
                     : 'border-gray-300 hover:border-gray-400'
                 }`}
               >
@@ -613,7 +613,7 @@ export default function Onboarding() {
                   <div className="flex-shrink-0">
                     <div className={`w-5 h-5 rounded-full border-2 flex items-center justify-center ${
                       coachChoice === 'claim'
-                        ? 'border-blue-500 bg-blue-500'
+                        ? 'border-[var(--brand-silver-blue)] bg-[var(--brand-silver-blue)]'
                         : 'border-gray-300'
                     }`}>
                       {coachChoice === 'claim' && (
@@ -623,7 +623,7 @@ export default function Onboarding() {
                   </div>
                   <div className="ml-3 flex-1">
                     <div className="flex items-center">
-                      <svg className="w-6 h-6 text-blue-600 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <svg className="w-6 h-6 text-[var(--brand-silver-blue)] mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                       </svg>
                       <div>
@@ -815,15 +815,15 @@ export default function Onboarding() {
                   <p className="font-medium text-gray-900">Verify your school email</p>
                   <p className="text-sm text-gray-600">We will send a verification email to your school address. Once verified, you can claim instantly.</p>
                 </div>
-                <button type="button" onClick={sendEmailVerificationRequest} disabled={loading} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50">
+                <button type="button" onClick={sendEmailVerificationRequest} disabled={loading} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md btn-brand disabled:opacity-50">
                   Send Verification Email
                 </button>
               </div>
             </div>
 
-            <div className="flex items-center justify-between bg-blue-50 border border-blue-200 rounded-md p-3">
-              <p className="text-sm text-blue-800">Already verified your email? We will detect it automatically, or you can click below.</p>
-              <button type="button" onClick={attemptAutoClaim} disabled={claimInProgress} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-blue-700 bg-white hover:bg-blue-50 disabled:opacity-50">
+            <div className="flex items-center justify-between bg-[color:rgb(163_182_196_/_.08)] border border-[var(--brand-silver-blue)]/40 rounded-md p-3">
+              <p className="text-sm text-[var(--brand-silver-blue)]">Already verified your email? We will detect it automatically, or you can click below.</p>
+              <button type="button" onClick={attemptAutoClaim} disabled={claimInProgress} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-[var(--brand-silver-blue)] bg-white hover:bg-[color:rgb(163_182_196_/_.15)] disabled:opacity-50">
                 I've Verified – Claim Now
               </button>
             </div>
@@ -898,7 +898,7 @@ export default function Onboarding() {
                   <p className="font-medium text-gray-900">Verify your school email</p>
                   <p className="text-sm text-gray-600">We will send a verification email to your school address. Once verified, you can claim instantly.</p>
                 </div>
-                <button type="button" onClick={sendEmailVerification} disabled={loading} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50">
+                <button type="button" onClick={sendEmailVerification} disabled={loading} className="ml-4 inline-flex items-center px-3 py-2 border border-transparent text-sm font-medium rounded-md btn-brand disabled:opacity-50">
                   Send Verification Email
                 </button>
               </div>
@@ -962,7 +962,7 @@ export default function Onboarding() {
   );
 
   return (
-    <div className="min-h-screen bg-black flex flex-col justify-center py-12 sm:px-6 lg:px-8">
+    <div className="min-h-screen bg-white flex flex-col justify-center py-12 sm:px-6 lg:px-8">
       <div className="sm:mx-auto sm:w-full sm:max-w-md">
         <div className="mx-auto h-12 w-12 flex items-center justify-center rounded-full bg-gray-100">
           <svg className="h-6 w-6 text-gray-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">

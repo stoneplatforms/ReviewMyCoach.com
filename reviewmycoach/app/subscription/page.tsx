@@ -178,8 +178,8 @@ export default function SubscriptionPage() {
       <div className="min-h-screen flex items-center justify-center bg-gray-950">
         <div className="text-center max-w-md mx-auto px-6">
           <div className="bg-gray-800/50 backdrop-blur-sm border border-gray-700/50 rounded-3xl p-12">
-            <div className="w-16 h-16 bg-orange-500/20 border border-orange-500/30 rounded-2xl flex items-center justify-center mx-auto mb-6">
-              <svg className="w-8 h-8 text-orange-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <div className="w-16 h-16 bg-[color:rgb(255_0_2_/_.15)] border border-[var(--brand-red)]/30 rounded-2xl flex items-center justify-center mx-auto mb-6">
+              <svg className="w-8 h-8 text-[var(--brand-red)]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
               </svg>
             </div>
@@ -202,7 +202,7 @@ export default function SubscriptionPage() {
 
   if (isSubscribed) {
     return (
-      <div className="min-h-screen bg-neutral-950">
+      <div className="min-h-screen bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
           <div className="text-center">
             <div className="inline-flex items-center px-6 py-3 bg-neutral-800/40 border border-neutral-700 text-neutral-300 rounded-full text-sm font-medium mb-8 backdrop-blur-sm">Coach Pro Active</div>
@@ -250,7 +250,7 @@ export default function SubscriptionPage() {
   }
 
   return (
-    <div className="min-h-screen bg-neutral-950">
+    <div className="min-h-screen bg-white">
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         {/* Hero Section */}
         <div className="text-center mb-16">

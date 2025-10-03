@@ -121,34 +121,34 @@ export default function RecentReviews() {
 
   if (loading) {
     return (
-      <div className="bg-white py-20">
+      <div className="bg-black py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-900 mb-6">
-              Latest <span className="text-emerald-500">Reviews</span>
+            <h2 className="text-4xl font-bold text-white mb-6">
+              Latest <span className="text-[var(--brand-silver-blue)]">Reviews</span>
             </h2>
-            <p className="text-xl text-gray-600">See what athletes are saying about their coaches</p>
+            <p className="text-xl text-neutral-400">See what athletes are saying about their coaches</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[...Array(6)].map((_, index) => (
-              <div key={index} className="bg-gray-50 rounded-2xl p-6 border border-gray-200 animate-pulse">
+              <div key={index} className="bg-neutral-900 rounded-2xl p-6 border border-neutral-800 animate-pulse">
                 <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 bg-gray-300 rounded-full mr-4"></div>
+                  <div className="w-12 h-12 bg-neutral-800 rounded-full mr-4"></div>
                   <div className="flex-1">
-                    <div className="h-4 bg-gray-300 rounded mb-2"></div>
-                    <div className="h-3 bg-gray-300 rounded w-2/3"></div>
+                    <div className="h-4 bg-neutral-800 rounded mb-2"></div>
+                    <div className="h-3 bg-neutral-800 rounded w-2/3"></div>
                   </div>
                 </div>
                 <div className="flex mb-3">
                   {[...Array(5)].map((_, i) => (
-                    <div key={i} className="w-5 h-5 bg-gray-300 rounded mr-1"></div>
+                    <div key={i} className="w-5 h-5 bg-neutral-800 rounded mr-1"></div>
                   ))}
                 </div>
                 <div className="space-y-2">
-                  <div className="h-3 bg-gray-300 rounded"></div>
-                  <div className="h-3 bg-gray-300 rounded"></div>
-                  <div className="h-3 bg-gray-300 rounded w-3/4"></div>
+                  <div className="h-3 bg-neutral-800 rounded"></div>
+                  <div className="h-3 bg-neutral-800 rounded"></div>
+                  <div className="h-3 bg-neutral-800 rounded w-3/4"></div>
                 </div>
               </div>
             ))}
@@ -159,15 +159,15 @@ export default function RecentReviews() {
   }
 
   return (
-    <div className="bg-white py-20">
+    <div className="bg-black py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold text-gray-900 mb-6">
-            Latest <span className="text-emerald-500">Reviews</span>
+          <h2 className="text-4xl font-bold text-white mb-6">
+            Latest <span className="text-[var(--brand-silver-blue)]">Reviews</span>
           </h2>
-          <p className="text-xl text-gray-600">See what athletes are saying about their coaches</p>
+          <p className="text-xl text-neutral-400">See what athletes are saying about their coaches</p>
           {usingFallback && (
-            <p className="text-sm text-gray-500 mt-2">
+            <p className="text-sm text-neutral-500 mt-2">
               {error ? 'Showing sample reviews due to connection issues' : 'Showing sample reviews'}
             </p>
           )}
@@ -176,20 +176,20 @@ export default function RecentReviews() {
         {reviews.length === 0 ? (
           <div className="text-center py-12">
             <div className="text-6xl mb-4">📝</div>
-            <h3 className="text-2xl font-bold text-gray-900 mb-2">No Reviews Yet</h3>
-            <p className="text-gray-600">Be the first to leave a review for a coach!</p>
+            <h3 className="text-2xl font-bold text-white mb-2">No Reviews Yet</h3>
+            <p className="text-neutral-400">Be the first to leave a review for a coach!</p>
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {reviews.map((review) => (
-              <div key={review.id} className="bg-gray-50 rounded-2xl p-6 border border-gray-200 hover:border-emerald-500/50 transition-all duration-300 hover:shadow-2xl hover:shadow-emerald-500/10">
+              <div key={review.id} className="bg-neutral-900 rounded-2xl p-6 border border-neutral-800 hover:border-[var(--brand-silver-blue)]/50 transition-all duration-300 hover:shadow-2xl hover:shadow-black/30">
                 <div className="flex items-center mb-4">
-                  <div className="w-12 h-12 bg-gradient-to-r from-emerald-500 to-gray-500 rounded-full flex items-center justify-center text-white font-bold text-sm mr-4">
+                  <div className="w-12 h-12 bg-[color:rgb(163_182_196_/_.15)] rounded-full flex items-center justify-center text-white font-bold text-sm mr-4">
                     {review.studentName.charAt(0).toUpperCase()}
                   </div>
                   <div className="flex-1">
-                    <h4 className="text-gray-900 font-semibold">{review.studentName}</h4>
-                    <p className="text-gray-500 text-sm">
+                    <h4 className="text-white font-semibold">{review.studentName}</h4>
+                    <p className="text-neutral-400 text-sm">
                       {review.sport || review.coachSport} • {formatDate(review.createdAt)}
                     </p>
                   </div>
@@ -199,7 +199,7 @@ export default function RecentReviews() {
                   {[...Array(5)].map((_, i) => (
                     <svg 
                       key={i} 
-                      className={`w-5 h-5 ${i < review.rating ? 'text-yellow-400' : 'text-gray-300'} fill-current`} 
+                      className={`w-5 h-5 ${i < review.rating ? 'text-yellow-400' : 'text-neutral-700'} fill-current`} 
                       viewBox="0 0 24 24"
                     >
                       <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
@@ -207,25 +207,25 @@ export default function RecentReviews() {
                   ))}
                 </div>
                 
-                <p className="text-gray-700 mb-4 leading-relaxed">
+                <p className="text-neutral-300 mb-4 leading-relaxed">
                   &ldquo;{truncateText(review.reviewText)}&rdquo;
                 </p>
                 
                 <div className="flex items-center justify-between">
-                  <div className="text-sm text-gray-500">
-                    Coach: <span className="font-medium text-gray-700">{review.coachName}</span>
+                  <div className="text-sm text-neutral-400">
+                    Coach: <span className="font-medium text-neutral-200">{review.coachName}</span>
                   </div>
                   {!usingFallback ? (
                     <Link 
                       href={`/coach/${review.coachId}`}
-                      className="text-emerald-500 hover:text-emerald-600 text-sm font-medium transition-colors"
+                      className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1] text-sm font-medium transition-colors"
                     >
                       View Coach →
                     </Link>
                   ) : (
                     <Link 
                       href="/coaches"
-                      className="text-emerald-500 hover:text-emerald-600 text-sm font-medium transition-colors"
+                      className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1] text-sm font-medium transition-colors"
                     >
                       Find Coaches →
                     </Link>
@@ -239,7 +239,7 @@ export default function RecentReviews() {
         <div className="text-center mt-12">
           <Link 
             href="/coaches" 
-            className="inline-flex items-center px-6 py-3 bg-emerald-500 hover:bg-emerald-600 text-white font-semibold rounded-lg transition-colors"
+            className="inline-flex items-center px-6 py-3 btn-brand font-semibold rounded-lg"
           >
             Browse All Coaches
             <svg className="ml-2 w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

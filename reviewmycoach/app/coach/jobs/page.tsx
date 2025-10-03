@@ -100,7 +100,7 @@ export default function CoachJobsPage() {
 
   if (!hasCoachPro) {
     return (
-      <div className="min-h-screen bg-black flex items-center justify-center">
+      <div className="min-h-screen bg-white flex items-center justify-center">
         <div className="text-center">
           <h1 className="text-2xl font-bold text-white mb-4">Coach Pro Required</h1>
           <p className="text-gray-400 mb-6">You need a Coach Pro subscription to access job listings.</p>
@@ -117,7 +117,7 @@ export default function CoachJobsPage() {
 
   return (
     <AuthGuard>
-      <div className="min-h-screen bg-black">
+      <div className="min-h-screen bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           {/* Header */}
           <div className="mb-8">
@@ -172,7 +172,7 @@ export default function CoachJobsPage() {
                   value={filter.location}
                   onChange={(e) => setFilter(prev => ({ ...prev, location: e.target.value }))}
                   placeholder="Enter city, state, or remote"
-                  className="w-full px-3 py-2 bg-gray-800 border border-gray-700 rounded-md text-white focus:ring-2 focus:ring-orange-500 focus:border-orange-500"
+                  className="w-full px-3 py-2 bg-white border border-gray-300 rounded-md text-gray-900 placeholder-gray-500 focus:ring-2 focus:ring-red-200 focus:border-red-300"
                 />
               </div>
             </div>

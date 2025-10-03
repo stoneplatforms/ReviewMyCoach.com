@@ -30,7 +30,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
 
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-black">
+      <div className="min-h-screen flex items-center justify-center bg-white">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-gray-600"></div>
       </div>
     );
@@ -42,7 +42,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
 
   return (
     <AuthGuard>
-      <div className="min-h-screen bg-black">
+      <div className="min-h-screen bg-white">
         {children}
       </div>
     </AuthGuard>

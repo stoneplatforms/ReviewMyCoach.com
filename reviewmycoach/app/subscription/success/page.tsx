@@ -81,7 +81,7 @@ function SubscriptionSuccessContent() {
           <p className="text-gray-600 mb-6">{error}</p>
           <Link
             href="/subscription"
-            className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors"
+            className="btn-brand px-6 py-3 rounded-lg transition-colors"
           >
             Try Again
           </Link>
@@ -97,7 +97,7 @@ function SubscriptionSuccessContent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-4">
-              <Link href="/" className="text-xl font-bold text-blue-600">
+              <Link href="/" className="text-xl font-bold text-[var(--brand-silver-blue)]">
                 ReviewMyCoach
               </Link>
               <span className="text-gray-400">|</span>
@@ -160,31 +160,31 @@ function SubscriptionSuccessContent() {
             </div>
           )}
 
-          <div className="bg-blue-50 rounded-lg p-6 mb-8">
-            <h2 className="text-lg font-semibold text-blue-900 mb-3">
+          <div className="bg-[color:rgb(163_182_196_/_.08)] rounded-lg p-6 mb-8 border border-[var(--brand-silver-blue)]/40">
+            <h2 className="text-lg font-semibold text-[var(--brand-white)] mb-3">
               What's Next?
             </h2>
-            <ul className="text-left space-y-2 text-blue-800">
+            <ul className="text-left space-y-2 text-[var(--brand-silver-blue)]">
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-blue-600 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Explore your enhanced dashboard with new Pro features
               </li>
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-blue-600 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Start applying to unlimited job listings
               </li>
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-blue-600 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Set up your custom profile theme
               </li>
               <li className="flex items-center">
-                <svg className="h-4 w-4 text-blue-600 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <svg className="h-4 w-4 text-[var(--brand-silver-blue)] mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 13l4 4L19 7" />
                 </svg>
                 Check out your advanced analytics
@@ -195,7 +195,7 @@ function SubscriptionSuccessContent() {
           <div className="flex justify-center space-x-4">
             <Link
               href="/dashboard"
-              className="bg-blue-600 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium"
+              className="btn-brand px-8 py-3 rounded-lg transition-colors font-medium"
             >
               Go to Dashboard
             </Link>
@@ -210,11 +210,11 @@ function SubscriptionSuccessContent() {
           <div className="mt-8 text-center">
             <p className="text-sm text-gray-500">
               Need help getting started? Check out our{' '}
-              <a href="#" className="text-blue-600 hover:text-blue-500">
+              <a href="#" className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1]">
                 Coach Pro Guide
               </a>
               {' '}or{' '}
-              <a href="#" className="text-blue-600 hover:text-blue-500">
+              <a href="#" className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1]">
                 contact support
               </a>
               .

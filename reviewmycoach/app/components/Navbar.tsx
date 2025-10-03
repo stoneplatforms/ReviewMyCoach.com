@@ -33,22 +33,19 @@ export default function Navbar() {
   };
 
   return (
-    <nav className="bg-neutral-950/80 shadow-lg border-b border-neutral-900 backdrop-blur-lg relative z-[100]">
+    <nav className="bg-white shadow-sm border-b border-gray-200 relative z-[100]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo and Brand */}
           <div className="flex items-center flex-shrink-0">
             <Link href="/" className="flex items-center" onClick={closeMenu}>
-              <span className="h-9 w-9 rounded-xl bg-neutral-900/70 border border-neutral-800 ring-1 ring-neutral-800/50 flex items-center justify-center mr-2">
-                <Image
-                  src="/logos/reviewmycoachlogo.png"
-                  alt="ReviewMyCoach Logo"
-                  width={18}
-                  height={18}
-                  className="h-4 w-auto"
-                />
-              </span>
-              <span className="hidden sm:block text-neutral-300 text-sm font-medium tracking-tight">ReviewMyCoach</span>
+              <Image
+                src="/logos/reviewmycoachlogo.png"
+                alt="ReviewMyCoach Logo"
+                width={36}
+                height={36}
+                className="h-9 w-auto"
+              />
             </Link>
           </div>
 
@@ -59,22 +56,22 @@ export default function Navbar() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-2">
-            <Link href="/" className="text-neutral-300 hover:text-white px-3 py-1.5 rounded-full text-sm font-medium transition-colors hover:bg-neutral-900/60">
+            <Link href="/" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
               Home
             </Link>
-            <Link href="/search" className="text-neutral-300 hover:text-white px-3 py-1.5 rounded-full text-sm font-medium transition-colors hover:bg-neutral-900/60">
+            <Link href="/search" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
               Find Coaches
             </Link>
-            <Link href="/classes" className="text-neutral-300 hover:text-white px-3 py-1.5 rounded-full text-sm font-medium transition-colors hover:bg-neutral-900/60">
+            <Link href="/classes" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
               Classes
             </Link>
             {hasCoachPro && (
-              <Link href="/coach/jobs" className="text-neutral-300 hover:text-white px-3 py-1.5 rounded-full text-sm font-medium transition-colors hover:bg-neutral-900/60">
+              <Link href="/coach/jobs" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
                 Jobs
               </Link>
             )}
             {user && (
-              <Link href="/dashboard" className="text-neutral-300 hover:text-white px-3 py-1.5 rounded-full text-sm font-medium transition-colors hover:bg-neutral-900/60">
+              <Link href="/dashboard" className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
                 Dashboard
               </Link>
             )}
@@ -89,8 +86,8 @@ export default function Navbar() {
                 <div className="flex items-center space-x-4">
                   {/* User Profile Dropdown */}
                   <div className="relative group">
-                    <button className="flex items-center space-x-2 text-neutral-300 hover:text-white px-3 py-1.5 rounded-full text-sm font-medium transition-colors hover:bg-neutral-900/60">
-                      <div className="h-8 w-8 bg-neutral-900 rounded-full flex items-center justify-center ring-1 ring-neutral-700">
+                    <button className="flex items-center space-x-2 text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100">
+                      <div className="h-8 w-8 bg-gray-100 rounded-full flex items-center justify-center ring-1 ring-gray-200">
                         {user.photoURL ? (
                           <Image
                             src={user.photoURL}
@@ -100,12 +97,12 @@ export default function Navbar() {
                             className="h-8 w-8 rounded-full"
                           />
                         ) : (
-                          <span className="text-white font-medium">
+                          <span className="text-black font-bold">
                             {user.displayName?.charAt(0) || user.email?.charAt(0) || 'U'}
                           </span>
                         )}
                       </div>
-                      <span className="hidden lg:block">
+                      <span className="hidden lg:block font-bold">
                         {user.displayName || user.email?.split('@')[0] || 'User'}
                       </span>
                       <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -114,27 +111,25 @@ export default function Navbar() {
                     </button>
                     
                     {/* Dropdown Menu */}
-                     <div className="absolute right-0 mt-2 w-48 bg-neutral-950/90 backdrop-blur rounded-xl shadow-lg py-1 z-[110] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-neutral-800">
-                      <Link href="/profile" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
+                     <div className="absolute right-0 mt-2 w-48 bg-white rounded-xl shadow-lg py-1 z-[110] opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 border border-gray-200">
+                      <Link href="/profile" className="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-100 font-bold">
                         Your Profile
                       </Link>
                       {isCoach && (
-                        <Link href="/dashboard/coach/reviews" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
+                        <Link href="/dashboard/coach/reviews" className="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-100 font-bold">
                           Reviews
                         </Link>
                       )}
-                      <Link href="/profile" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
-                        Settings
-                      </Link>
+                      
                       {isCoach && (
-                        <Link href="/subscription" className="block px-4 py-2 text-sm text-neutral-200 hover:bg-neutral-800 hover:text-white">
+                        <Link href="/subscription" className="block px-4 py-2 text-sm text-gray-800 hover:bg-gray-100 font-bold">
                           Subscription
                         </Link>
                       )}
-                      <hr className="my-1 border-neutral-800" />
+                      <hr className="my-1 border-gray-200" />
                       <button
                         onClick={handleSignOut}
-                        className="block w-full text-left px-4 py-2 text-sm text-neutral-400 hover:bg-neutral-800"
+                        className="block w-full text-left px-4 py-2 text-sm text-gray-600 hover:bg-gray-100 font-bold"
                       >
                         Sign Out
                       </button>
@@ -145,13 +140,13 @@ export default function Navbar() {
                 <div className="flex items-center space-x-3">
                   <Link
                     href="/signin"
-                    className="text-neutral-300 hover:text-white px-3 py-1.5 rounded-full text-sm font-medium transition-colors hover:bg-neutral-900/60"
+                    className="text-black px-3 py-2 rounded-full text-base font-bold transition-colors hover:bg-gray-100"
                   >
                     Sign In
                   </Link>
                   <Link
                     href="/signup"
-                    className="px-4 py-2 rounded-full text-sm font-medium bg-neutral-100 text-neutral-900 hover:bg-white"
+                    className="px-4 py-2 rounded-full text-base font-bold btn-brand"
                   >
                     Sign Up
                   </Link>
@@ -312,7 +307,7 @@ export default function Navbar() {
                   <Link
                     href="/signup"
                     onClick={closeMenu}
-                    className="block px-3 py-2 text-base font-medium rounded-full mx-3 bg-neutral-100 text-neutral-900 text-center"
+                    className="block px-3 py-2 text-base font-medium rounded-full mx-3 btn-brand text-center"
                   >
                     Sign Up
                   </Link>

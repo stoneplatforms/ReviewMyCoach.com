@@ -126,7 +126,7 @@ export default function HeroCoachCarousel() {
           <svg
             key={star}
             className={`w-3 h-3 ${
-              star <= rating ? 'text-yellow-400' : 'text-gray-600'
+              star <= rating ? 'text-yellow-400' : 'text-neutral-700'
             }`}
             fill="currentColor"
             viewBox="0 0 20 20"
@@ -158,12 +158,12 @@ export default function HeroCoachCarousel() {
 
   return (
     <div className="relative h-48 overflow-hidden">
-      {/* Fade overlays */}
-      <div className="absolute left-0 top-0 z-10 w-20 h-full bg-gradient-to-r from-neutral-950/95 to-transparent pointer-events-none"></div>
-      <div className="absolute right-0 top-0 z-10 w-20 h-full bg-gradient-to-l from-neutral-950/95 to-transparent pointer-events-none"></div>
+      {/* Fade overlays (light inner shadows) */}
+      <div className="absolute left-0 top-0 z-10 w-20 h-full bg-gradient-to-r from-white to-transparent pointer-events-none"></div>
+      <div className="absolute right-0 top-0 z-10 w-20 h-full bg-gradient-to-l from-white to-transparent pointer-events-none"></div>
       
       {/* Scrolling container */}
-      <div className="flex space-x-4 animate-scroll-left">
+      <div className="flex space-x-4 animate-scroll-left px-4">
         {duplicatedCoaches.map((coach, index) => {
           const profileUrl = coach.username ? `/coach/${coach.username}` : `/coach/${coach.id}`;
           
@@ -171,12 +171,12 @@ export default function HeroCoachCarousel() {
             <Link
               key={`${coach.id}-${index}`}
               href={profileUrl}
-              className="flex-shrink-0 w-80 h-40 bg-neutral-900/60 backdrop-blur border border-neutral-800 rounded-2xl p-4 hover:bg-neutral-900/70 hover:border-neutral-700 transition-all duration-300 group"
+              className="flex-shrink-0 w-80 h-40 bg-white/80 backdrop-blur border border-gray-200 rounded-2xl p-4 hover:bg-white shadow-sm hover:shadow-xl hover:border-gray-300 transition-all duration-300 group"
             >
               <div className="flex items-start space-x-3 h-full">
                 {/* Profile Image */}
                 <div className="relative flex-shrink-0">
-                  <div className="w-12 h-12 bg-neutral-900 rounded-full flex items-center justify-center overflow-hidden ring-1 ring-neutral-700">
+                  <div className="w-12 h-12 bg-gray-100 rounded-full flex items-center justify-center overflow-hidden ring-1 ring-gray-200">
                     {coach.profileImage ? (
                       <Image
                         src={coach.profileImage}
@@ -186,13 +186,13 @@ export default function HeroCoachCarousel() {
                         className="w-full h-full object-cover"
                       />
                     ) : (
-                      <svg className="w-6 h-6 text-neutral-400" fill="currentColor" viewBox="0 0 20 20">
+                      <svg className="w-6 h-6 text-gray-400" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
                       </svg>
                     )}
                   </div>
                   {coach.isVerified && (
-                    <div className="absolute -bottom-1 -right-1 bg-neutral-200 text-neutral-900 rounded-full p-0.5 ring-1 ring-neutral-900">
+                    <div className="absolute -bottom-1 -right-1 bg-[var(--brand-red)] text-white rounded-full p-0.5 ring-1 ring-white">
                       <svg className="w-2 h-2" fill="currentColor" viewBox="0 0 20 20">
                         <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.707a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 10-1.414 1.414l2 2a1 1 0 001.414 0l3-3z" clipRule="evenodd" />
                       </svg>
@@ -203,17 +203,17 @@ export default function HeroCoachCarousel() {
                 {/* Coach Info */}
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2 mb-1">
-                    <h3 className="text-sm font-semibold text-neutral-100 truncate group-hover:text-neutral-200 transition-colors">
+                    <h3 className="text-sm font-semibold text-gray-900 truncate group-hover:text-gray-700 transition-colors">
                       {coach.displayName}
                     </h3>
                     {coach.isVerified && (
-                      <span className="inline-flex items-center px-1 py-0.5 rounded-full text-[10px] font-medium bg-neutral-800 text-neutral-200 ring-1 ring-neutral-700">
+                      <span className="inline-flex items-center px-1 py-0.5 rounded-full text-[10px] font-bold bg-[var(--brand-red)]/10 text-[var(--brand-red)] ring-1 ring-[var(--brand-red)]/30">
                         Verified
                       </span>
                     )}
                   </div>
                   
-                  <div className="flex items-center text-xs text-neutral-400 mb-1">
+                  <div className="flex items-center text-xs text-gray-500 mb-1">
                     <svg className="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
@@ -223,7 +223,7 @@ export default function HeroCoachCarousel() {
 
                   {renderStarRating(coach.averageRating)}
 
-                  <p className="text-neutral-300 text-xs mt-2 line-clamp-2">
+                  <p className="text-gray-600 text-xs mt-2 line-clamp-2">
                     {coach.bio}
                   </p>
 
@@ -232,7 +232,7 @@ export default function HeroCoachCarousel() {
                       {coach.sports.slice(0, 2).map((sport) => (
                         <span
                           key={sport}
-                          className="inline-flex items-center px-1.5 py-0.5 rounded-full text-xs font-medium bg-neutral-800/50 text-neutral-300 ring-1 ring-neutral-700/50"
+                          className="inline-flex items-center px-1.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-gray-700 ring-1 ring-gray-200"
                         >
                           {sport}
                         </span>

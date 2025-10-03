@@ -409,7 +409,7 @@ export default function ProfilePage() {
                   value={formData.displayName}
                   onChange={handleInputChange}
                   required
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[var(--brand-silver-blue)]"
                 />
               </div>
 
@@ -424,12 +424,12 @@ export default function ProfilePage() {
                     value={formData.username}
                     onChange={handleInputChange}
                     onBlur={() => checkUsernameAvailability(formData.username || '')}
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[var(--brand-silver-blue)]"
                     placeholder="Enter username"
                   />
                   {checkingUsername && (
                     <div className="absolute inset-y-0 right-0 pr-3 flex items-center">
-                      <div className="animate-spin rounded-full h-4 w-4 border-2 border-blue-500 border-t-transparent"></div>
+                      <div className="animate-spin rounded-full h-4 w-4 border-2 border-[var(--brand-silver-blue)] border-t-transparent"></div>
                     </div>
                   )}
                 </div>
@@ -453,7 +453,7 @@ export default function ProfilePage() {
                   name="phoneNumber"
                   value={formData.phoneNumber || ''}
                   onChange={handleInputChange}
-                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[var(--brand-silver-blue)]"
                 />
               </div>
             </div>
@@ -461,7 +461,7 @@ export default function ProfilePage() {
             <div className="mt-6">
               <p className="text-sm text-gray-600 mb-4">
                 For coach-specific profile settings (sports, certifications, availability, etc.), please visit your{' '}
-                <Link href="/dashboard/coach/profile/edit" className="text-blue-600 hover:text-blue-500 font-medium">
+                <Link href="/dashboard/coach/profile/edit" className="text-[var(--brand-silver-blue)] hover:text-[#8fa3b1] font-medium">
                   coach dashboard
                 </Link>.
               </p>
@@ -498,7 +498,7 @@ export default function ProfilePage() {
                     <input
                       type="email"
                       id="newEmail"
-                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                      className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[var(--brand-silver-blue)]"
                       placeholder="Enter new email"
                     />
                   </div>
@@ -506,7 +506,7 @@ export default function ProfilePage() {
                 <button
                   type="button"
                   onClick={() => handleChangeEmail()}
-                  className="mt-4 px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 text-sm"
+                  className="mt-4 px-4 py-2 rounded-md text-sm btn-brand"
                 >
                   Change Email
                 </button>
@@ -527,7 +527,7 @@ export default function ProfilePage() {
                   <button
                     type="button"
                     onClick={() => handleVerifyEmail()}
-                    className="mt-4 px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 text-sm"
+                    className="mt-4 px-4 py-2 rounded-md text-sm btn-brand"
                   >
                     Send Verification Email
                   </button>
@@ -547,14 +547,14 @@ export default function ProfilePage() {
                   <input
                     type="password"
                     id="newPassword"
-                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-[var(--brand-silver-blue)]"
                     placeholder="Enter new password"
                   />
                 </div>
                 <button
                   type="button"
                   onClick={() => handleChangePassword()}
-                  className="mt-4 px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 text-sm"
+                  className="mt-4 px-4 py-2 rounded-md text-sm btn-brand"
                 >
                   Change Password
                 </button>
@@ -572,7 +572,7 @@ export default function ProfilePage() {
                     id="isPublic"
                     checked={formData.isPublic !== false}
                     onChange={(e) => handleProfileVisibilityChange(e.target.checked)}
-                    className="h-4 w-4 text-blue-600 focus:ring-blue-500 border-gray-300 rounded"
+                    className="h-4 w-4 text-[var(--brand-silver-blue)] focus:ring-[var(--brand-silver-blue)] border-gray-300 rounded"
                   />
                   <label htmlFor="isPublic" className="text-sm font-medium text-gray-700">
                     Make my profile public
@@ -605,7 +605,7 @@ export default function ProfilePage() {
             <button
               type="submit"
               disabled={saving}
-              className="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-blue-600 hover:bg-blue-700 disabled:opacity-50"
+              className="px-6 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium btn-brand disabled:opacity-50"
             >
               {saving ? 'Saving...' : 'Save Profile'}
             </button>
