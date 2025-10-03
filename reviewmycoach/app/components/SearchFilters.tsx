@@ -147,7 +147,8 @@ export default function SearchFilters({
         id={key}
         value={filters[key as keyof typeof filters]}
         onChange={(e) => onFilterChange(key, e.target.value)}
-        className="px-3 py-2 border border-gray-200 text-sm bg-white text-gray-900 rounded-md"
+        className="px-4 py-3 border border-gray-200 text-base bg-white text-gray-900 rounded-full shadow-md hover:shadow-lg transition-shadow focus:ring-2 focus:ring-gray-200 focus:border-gray-200"
+        style={{ colorScheme: 'light', backgroundColor: '#ffffff', color: '#111111' }}
       >
         <option value="">{placeholder}</option>
         {options.map((option) => (
@@ -175,7 +176,8 @@ export default function SearchFilters({
         value={filters[key as keyof typeof filters]}
         onChange={(e) => onFilterChange(key, e.target.value)}
         placeholder={placeholder}
-        className="px-3 py-2 border border-gray-200 text-sm bg-white text-gray-900 rounded-md placeholder-gray-400"
+        className="px-4 py-3 border border-gray-200 text-base bg-white text-gray-900 rounded-full shadow-md hover:shadow-lg transition-shadow placeholder-gray-400 focus:ring-2 focus:ring-gray-200 focus:border-gray-200"
+        style={{ colorScheme: 'light', backgroundColor: '#ffffff', color: '#111111' }}
       />
     </div>
   );
@@ -189,7 +191,8 @@ export default function SearchFilters({
         id="isVerified"
         value={filters.isVerified}
         onChange={(e) => onFilterChange('isVerified', e.target.value)}
-        className="px-3 py-2 border border-gray-200 text-sm bg-white text-gray-900 rounded-md"
+        className="px-4 py-3 border border-gray-200 text-base bg-white text-gray-900 rounded-full shadow-md hover:shadow-lg transition-shadow focus:ring-2 focus:ring-gray-200 focus:border-gray-200"
+        style={{ colorScheme: 'light', backgroundColor: '#ffffff', color: '#111111' }}
       >
         <option value="">All coaches</option>
         <option value="true">Verified only</option>
@@ -204,7 +207,7 @@ export default function SearchFilters({
       <div className="lg:hidden mb-4">
         <button
           onClick={() => setShowMobileFilters(!showMobileFilters)}
-          className="flex items-center justify-between w-full px-4 py-3 bg-white border border-gray-200 rounded-2xl text-left hover:bg-gray-50"
+          className="flex items-center justify-between w-full px-4 py-3 bg-white border border-gray-300 rounded-2xl text-left hover:bg-gray-50"
         >
           <span className="flex items-center">
             <svg className="w-5 h-5 mr-3 text-neutral-300" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.5}>
